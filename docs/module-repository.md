@@ -6,13 +6,13 @@ permalink: /modules/
 
 # /aids/ Module Repository
 
-->Alright, let's do this again.<-
+Alright, let's do this again.
 
-->Just like the [other](https://rentry.co/settings) [two](https://rentry.co/lorebooks) rentries, this one serves to be a not-on-discord log of notable NovelAI modules that Anons and others create.<-
+Just like the [other](https://rentry.co/settings) [two](https://rentry.co/lorebooks) rentries, this one serves to be a not-on-discord log of notable NovelAI modules that Anons and others create.
 
-->All the questions you'd need answered about the concept can be found on NAI's [medium blogpost](https://novelai.medium.com/custom-ai-modules-dbc527d66081), but I expect more information to come out as we continue experimenting with this feature.<-
+All the questions you'd need answered about the concept can be found on NAI's [medium blogpost](https://novelai.medium.com/custom-ai-modules-dbc527d66081), but I expect more information to come out as we continue experimenting with this feature.
 
-->Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's page](https://naidb.miraheze.org/wiki/Datasetting_for_AI_Modules) on the matter.<-
+Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's page](https://naidb.miraheze.org/wiki/Datasetting_for_AI_Modules) on the matter.
 
 ***
 
@@ -2012,4 +2012,4 @@ Description: Lion is a large quadrupedal Pokémon with red fur and yellow stripe
 ***
 ***
 
-->if you feel that i've missed a good module, say so on the thread.<-
+if you feel that i've missed a good module, say so on the thread.
