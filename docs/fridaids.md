@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "/aids/ Theme Event Fridays"
-permalink: /fridaids/
+permalink: /fridays/
 ---
 
 # Theme Event Fridays
