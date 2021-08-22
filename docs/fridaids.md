@@ -1,3 +1,9 @@
+---
+layout: page
+title: "/aids/ Theme Event Fridays"
+permalink: /fridaids/
+---
+
 # /aids/ Theme Event Fridays
 
 -> Sorted in **descending** order of recency, this is a log of all of the theme Friday submissions, starting from mid May 2021. There was [a previous one](https://guide.aidg.club/Resources-And-Guides/aidg%20general/aidg-Fridays.html), but it seems to be kill, so I've created this one as a fresh start.<-

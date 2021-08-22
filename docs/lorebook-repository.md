@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Lorebook Repository"
+permalink: /lorebooks/
+---
 # /aids/ Lorebook Repository
 
 ->~~That's right, another fucking rentry~~<-

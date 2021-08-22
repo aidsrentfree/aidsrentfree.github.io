@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Module Repository"
+permalink: /modules/
+---
+
 # /aids/ Module Repository
 
 ->Alright, let's do this again.<-

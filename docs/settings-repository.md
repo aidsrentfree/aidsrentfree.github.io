@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Settings Repository"
+permalink: /settings/
+---
 # /aids/ Settings Repository
 
 *Then he went up from there to Bethel; and as he was going up the road, some youths came from the city and mocked him, and said to him, “Go up, you bald head! Go up, you bald head!” So he turned around and looked at them, and pronounced a curse on them in the name of the Lord. And two female bears came out of the woods and mauled forty-two of the youths.*
