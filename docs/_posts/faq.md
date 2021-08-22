@@ -1,3 +1,7 @@
+layout: page
+title: "Frequently Asked Questions"
+permalink: /aids-FAQ/
+
 # The Frequently Asked Questions Rentry
 
 Perhaps you may not have noticed, but a lot of us are quite bored of answering the same questions over and over again. Things have changed since March of this year, and so a new FAQ needs to exist so new or returning anons can come here instead of asking the same shit **over** and **over** ***again***.
