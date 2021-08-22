@@ -8,7 +8,7 @@ permalink: /modules/
 
 Alright, let's do this again.
 
-Just like the [other](https://rentry.co/settings) [two](https://rentry.co/lorebooks) rentries, this one serves to be a not-on-discord log of notable NovelAI modules that Anons and others create.
+Just like the [other](https://aidsrentfree.github.io/settings) [two](https://aidsrentfree.github.io/lorebooks) rentries, this one serves to be a not-on-discord log of notable NovelAI modules that Anons and others create.
 
 All the questions you'd need answered about the concept can be found on NAI's [medium blogpost](https://novelai.medium.com/custom-ai-modules-dbc527d66081), but I expect more information to come out as we continue experimenting with this feature.
 
