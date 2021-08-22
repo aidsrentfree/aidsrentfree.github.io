@@ -1917,8 +1917,9 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 
 *Surprisingly, doesn't go schizo mode every other paragraph as one based on official books.*
 
-*My first attempt. Something I wanted to try so I've written a script that downloads all search results from there, then converted them to TXTs, parsed with another script to all weird quotation marks and multiple newlines.
-Had to manually remove shit ton of author notes.*
+*My first attempt. Something I wanted to try so I've written a script that downloads all search results from there, then converted them to TXTs, parsed with another script to all weird quotation marks and multiple newlines.*
+
+*Had to manually remove shit ton of author notes.*
 
 *Finally combined into a single file while wrapping each with <|startoftext|> and <|endoftext|>.*
 
