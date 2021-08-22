@@ -84,7 +84,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
       - [*A Basket of Kittens*](#a-basket-of-kittens)
       - [*Your Daughter will Do Anything to Have You Back*](#your-daughter-will-do-anything-to-have-you-back)
       - [*Ben and Gwen Tennyson in: Omnifriks*](#ben-and-gwen-tennyson-in-omnifriks)
-      - [*Goblin girl in Heat*](#goblin-girl-in-heat)
+      - [*Goblin Girl in Heat*](#goblin-girl-in-heat)
 
 ***
 
@@ -252,13 +252,13 @@ A mission goes wrong when the Drop Pod fails to extract. Abandoned thousands of 
 
 ![](https://files.catbox.moe/osatf3.jpg)
 
->At last, he stumbled down the side passage he'd dug earlier that day, rounding a corner to behold her before him.
+>*At last, he stumbled down the side passage he'd dug earlier that day, rounding a corner to behold her before him.*
 >
->She was like a vision torn straight from his wildest fantasies. Her beauty gleamed like a precious gem, though even the most valuable diamond was worthless in comparison to her. She was set into the wall of the cavern, her silvery surface clad only in bare stone, the rock wall hugging her form tightly in it's unyielding embrace. The mere sight of her was enough to weaken Urist's knees, to set his heart pounding furiously in his chest.
+>*She was like a vision torn straight from his wildest fantasies. Her beauty gleamed like a precious gem, though even the most valuable diamond was worthless in comparison to her. She was set into the wall of the cavern, her silvery surface clad only in bare stone, the rock wall hugging her form tightly in it's unyielding embrace. The mere sight of her was enough to weaken Urist's knees, to set his heart pounding furiously in his chest.*
 >
->Trading his empty flagon for the pickaxe he'd left there earlier, the dwarf approached her almost timidly, struck by her beauty.
+>*Trading his empty flagon for the pickaxe he'd left there earlier, the dwarf approached her almost timidly, struck by her beauty.*
 >
->"It's me, Urist," he slurred, stars dancing in his eyes. "I've come for you."
+>*"It's me, Urist," he slurred, stars dancing in his eyes. "I've come for you."*
 
 A dwarf, Urist, is possessed by a strange mood, and makes his way deep into the mines for a moonlight rendezvous.
 
@@ -305,7 +305,7 @@ When I, the star quarterback of the school, was caught in my hobby of wearing wo
 
 ![](https://files.catbox.moe/prksn5.png)
 
->"Classic Erin, always modest," I said with a mock-sigh as I plopped down on the bench beside her. Erin chuckled lightly at that, and I smiled back at her. We sat in companionable silence, sipping our coffee and munching on the bread, as we watched the sky. I could see the faintest hint of the sun peeking over the horizon, casting a glow across the snow-dusted fields. A soft gold tinted the underside of clouds, and the horizon was painted a gentle pink that faded into blue as I traced my eyes upward.
+>*"Classic Erin, always modest," I said with a mock-sigh as I plopped down on the bench beside her. Erin chuckled lightly at that, and I smiled back at her. We sat in companionable silence, sipping our coffee and munching on the bread, as we watched the sky. I could see the faintest hint of the sun peeking over the horizon, casting a glow across the snow-dusted fields. A soft gold tinted the underside of clouds, and the horizon was painted a gentle pink that faded into blue as I traced my eyes upward.*
 
 It is early in the morning in the dead of winter, and school is miles away. Wait in the train station, drinking coffee and eating homemade bread, with Erin, your soft-spoken classmate.
 
@@ -326,6 +326,7 @@ In your attempt to swindle your friend, you somehow get her to confess her feeli
 ![pee](https://files.catbox.moe/9rkbav.png)
 
 >*The exam was a small booklet—no more than ten questions on each page—and the first few questions appeared fairly easy. Maybe this wouldn't be so bad.*
+>
 >*It was going well, and despite my lack of preparation, the answers came to me easily enough, and soon I was on the second page. Then I felt it—a slowly building pressure in my bladder.*
 
 A student is stuck in an exam and really needs to pee.
@@ -337,10 +338,15 @@ A student is stuck in an exam and really needs to pee.
 ![](https://files.catbox.moe/myx7wk.png)
 
 >*At my confirmation that I was indeed a single father, the eyes of the monstergirl teachers all lit up, and they approached me eagerly.*
+>
 >*"A single father? My my, how dependable," mused Ms. Anima.*
+>
 >*"Ooh, what a surprise, what a surprise indeed," cooed Ms. Mizuchi.*
+>
 >*"You're still young, dearie," smirked Ms. Jashi. "You ought to find yourself a woman, you know."*
+>
 >*"You must be quite lonely, nyaa~?" purred Ms. Caith.*
+>
 >*"I can tell you're looking for a new wife!" bellowed Ms. Zmei.*
 
 Recently, your son enrolled at Euryale High, the once monstergirl-only school that recently opened their doors to humans.
@@ -354,6 +360,7 @@ Now, you're caught in the affections of an Arachne, a Papillon, a Merrow, a Gaze
 ![](https://files.catbox.moe/0neyjr.jpg)
 
 >*A loud chime from my phone interrupted my thoughts. It was muffled; clearly under my sheets. Since my motor skills are impaired, I have to wrestle my phone from the velvety folds of my bed and turn it on. There was a message from Brianna.*
+>
 >*It read: “im outside come out i want to talk”.*
 
 On the morning following graduation, my former bully turned study partner shows up at my door, looking to tie up loose ends.
@@ -385,8 +392,11 @@ The novice, young teacher Ms. McKenzie is teaching her first sex-ed lesson. Her 
 ![](https://files.catbox.moe/eztmx4.png)
 
 >*When it was finally time for their art period, Emilia hung back in her preparation room until she was sure all three of the boys were there and seated. That was when she made her grand entrance. All she was wearing was her bath robe as she strode to the model’s podium and took her seat. Emilia noticed them squirming as she started to explain the exercise.*
+>
 >*"Buenos dias," said Miss Flores, "Today, I want you the three of you to draw me."*
+>
 >*"Y—you? In just a bathrobe?" Greg asked.*
+>
 >*"Of course not, I'll be nude."*
 
 Miss Flores adopts a more active role in teaching her star pupils.
@@ -414,7 +424,9 @@ Elaine tries to escape from the Lovecraftian terrors that stalk the empty blood 
 *<https://prompts.aidg.club/1805>*
 
 >*"Mr. Ymous — Anon. I believe you can do better than this; especially considering your past test results. You've always been a good student, which tells me you can absolutely do better than what I'm seeing here."*
+>
 >*You turn your head down, her disappointment hurting more than you'd expected. "Y-yes, ma'am." Unbidden, a few tears start to form at the corners of your eyes, and you blink furiously to try to clear them away. When you manage to look back up at her understanding face, she continues, her tone shifting.*
+>
 >*"Sometimes, the diagrams are more confusing than helpful. Let's take it from the top, and see if a hands-on lesson will help you, Anon. Let's do a test on something a bit more...real. For instance, me." She pulls off her vest, laying it on her chair. "We can try some practical anatomy and biology lessons, and see if you can get through them. Without blushing so red as to be visible across the room, that is," she teases you, tapping her finger on the tip of your nose.*
 
 You are kept after class by your teacher. What could she want?
@@ -439,9 +451,13 @@ Let's make prompts about ignoring human rights completely, and using humans or o
 *<https://prompts.aidg.club/1647>*
 
 >*"Ohhh, man you can definitely hear it, there's definite activity going on."*
+>
 >*The camera's view jostled around for a second then focused on the boats.*
+>
 >*"Look at that! Wow!"*
+>
 >*Strapped face down in between the two boats, moving softly, soaked in muddy water, and moaning ever so slightly, was a human woman. Flies and other insects flew around her and the boats, emitting a loud buzzing hum.*
+>
 >*"Oh, geez it smells terrible."*
 
 A man runs a youtube channel where he performs random surgical operations and other acts of torture on women.
@@ -472,11 +488,15 @@ As a battle goes on in a vast desert, a young tactician and a young thief remain
 
 ![Awfully young for an insane scientist](https://files.catbox.moe/842uoo.png)
 
->*Naked and strapped in a medical chair with my feet high in the air on stirrups, the surface of the medical chair sticks to the cold sweat from my skin as I struggle in vain to break free.
->I see Sylvia walking by with a clipboard in hand.
->"Nurse, help me!" I shout, though she pays me no mind.
->From around one of the medical curtains, Dr. Stiles wheels a device towards me. Grabbing a tube with a nozzle as he flips a large switch on the device with a loud "thunk", the machine ominously begins to hum.
->"You have potential," he says, "You'll have more gestations than all my other patients combined!"*
+>*Naked and strapped in a medical chair with my feet high in the air on stirrups, the surface of the medical chair sticks to the cold sweat from my skin as I struggle in vain to break free.*
+>
+>*I see Sylvia walking by with a clipboard in hand.*
+>
+>*"Nurse, help me!" I shout, though she pays me no mind.*
+>
+>*From around one of the medical curtains, Dr. Stiles wheels a device towards me. Grabbing a tube with a nozzle as he flips a large switch on the device with a loud "thunk", the machine ominously begins to hum.*
+>
+>*"You have potential," he says, "You'll have more gestations than all my other patients combined!"*
 
 You are a woman in your late thirties. As a huge fan of video games, you need some extra cash for the Ultimate Edition of your most anticipated release. You join a suspicious medical trial for women of your unique qualifications and end up getting more than you bargain for!
 
@@ -486,9 +506,11 @@ You are a woman in your late thirties. As a huge fan of video games, you need so
 
 ![I have never played Granblue Fantasy](https://files.catbox.moe/263rej.jpg)
 
->*"You aren't human, you're a monster; lower than dirt." strong-willed and incredibly arrogant, Threo was a bit out of her element; an earlier battle with your strongest goons had knocked her down a peg, if only temporarily.
->"Hmph, it took five of my best men to subdue you even for a moment, but a moment was all I needed; I'll be sure that they get to sample you."
->"'Sample'?" Not for an instant did Threo's confidence falter, but even she could understand her compromised position. The pillory that secured her neck and wrist had been expertly made and specifically for her; she was utterly helpless.*
+>*"You aren't human, you're a monster; lower than dirt." strong-willed and incredibly arrogant, Threo was a bit out of her element; an earlier battle with your strongest goons had knocked her down a peg, if only temporarily.*
+>
+>*"Hmph, it took five of my best men to subdue you even for a moment, but a moment was all I needed; I'll be sure that they get to sample you."*
+>
+>*"'Sample'?" Not for an instant did Threo's confidence falter, but even she could understand her compromised position. The pillory that secured her neck and wrist had been expertly made and specifically for her; she was utterly helpless.*
 
 Something of a capitalist, you understand the market demand for two things: fresh Draph milk and their powdered horns. Luckily for you, you hold a monopoly on both.
 
@@ -498,10 +520,13 @@ Something of a capitalist, you understand the market demand for two things: fres
 
 ![Where are this dude's fingers?](https://files.catbox.moe/krvdr0.jpg)
 
->*"If I don't look I won't be able to do it properly. And stop covering yourself." - you dunk the paintbrush into a glass of water, wetting the tip.
->"No! This is too embarrassing!"
->"Well, if you can't, then there is nothing we can do. Just skip this season and try next year. Guess you are too young for work after all..." - you are trying to provoke her.
->"Are you mocking me? I can do it just as good as any other fairy, if not better!" - she throws a little tantrum, lowering her defenses. At this moment you catch her naked body in the palm of your hand with one swift motion, restraining the petite fae.*
+>*"If I don't look I won't be able to do it properly. And stop covering yourself." - you dunk the paintbrush into a glass of water, wetting the tip.*
+>
+>*"No! This is too embarrassing!"*
+>
+>*"Well, if you can't, then there is nothing we can do. Just skip this season and try next year. Guess you are too young for work after all..." - you are trying to provoke her.*
+>
+>*"Are you mocking me? I can do it just as good as any other fairy, if not better!" - she throws a little tantrum, lowering her defenses. At this moment you catch her naked body in the palm of your hand with one swift motion, restraining the petite fae.*
 
 After a horrible catastrophe wiped out all bees and many other insects humans had to employ fairies to prevent most types of plants from going extinct.
 
@@ -521,11 +546,15 @@ One janitor's day is made interesting when his workplace implodes from within be
 
 ![Good thing the arrows are included — I would have never have known which was which](https://files.catbox.moe/50h13t.png)
 
->*Spotlights shine over Sarah's laying, sleeping body, and a buzz can be heard all across the lab.
->The harnesses around her wrists and ankles unlock, and Sarah opens her eyes.
->She clumsily sits up and looks around her surroundings as well as her own body.
->I approach her and finally greet her.
->"Hello, Sarah," I say. "How are you feeling?"*
+>*Spotlights shine over Sarah's laying, sleeping body, and a buzz can be heard all across the lab.*
+>
+>*The harnesses around her wrists and ankles unlock, and Sarah opens her eyes.*
+>
+>*She clumsily sits up and looks around her surroundings as well as her own body.*
+>
+>*I approach her and finally greet her.*
+>
+>*"Hello, Sarah," I say. "How are you feeling?"*
 
 Play as a morally bankrupt scientist and get off on swapping the brains of animals and people.
 
@@ -555,8 +584,11 @@ Play as Demon Lord Guren and be humbly invited to inspect his recently completed
 ![Don't let the image fool you; you aren't going to be the one sniffing](https://files.catbox.moe/lesk9m.jpg)
 
 >*"Well…" It wasn't the most decisive strategy, but it was my best bet. Dog girls were known for their keen sense of smell—something I openly envied her for—and they could detect subtleties in a fragrance that were completely lost on humans. Although she lacked my years of expertise, it was conceivable that she could not just pick up on things far beyond my abilities, but also identify potential aromatic sources that could be used to produce the right formula. "You'll need to lend me your nose. We'll examine some live specimens."*
+>
 >*"Live specimens?!" she gasped. "Like real penises?! Are we really going through with this plan?"*
+>
 >*"Come on, I'm sure you've stuck your nose in more embarrassing places," I reminded her lightly. She blushed furiously. "Oh, and although I said 'live specimens', I obviously don't have the luxury of keeping my cellar stocked with young, virile human males, so you'll have to make do with me."*
+>
 >*Saffron had turned bright red by now, but she nodded anyway.*
 
 Letting your dog girl assistant sniff your crotch a little is a small price to pay when you're pursuing the noble goal of creating a perfume that smells exactly like dick.
@@ -566,8 +598,11 @@ Letting your dog girl assistant sniff your crotch a little is a small price to p
 *<https://prompts.aidg.club/1691>*
 
 >*Satisfied, she moved on to the next victim in line.*
+>
 >*"Hello, Victor," she said softly. "It is your turn now. Ready to give Mama her milk?"*
+>
 >*He nodded silently, not wanting to speak out of turn and risk punishment.*
+>
 >*"Good," she said, smiling down at him and stroking his hair. "Let's feed you first then. You'll produce more with a full belly."*
 
 What had started as a minor disagreement over milk quotas, spiralled into something much more sinister. Fed up with their human oppressors, the once docile Holstaurs had risen up, capturing their owners and forcing them to submit to the same exploitation they doled out—being milked dry every day.
@@ -604,14 +639,17 @@ Let's make prompts about ignoring human rights completely, and using natives as 
 *<https://prompts.aidg.club/1547>*
 
 >*There, on that beach, I swore upon my heart an oath, which I carry with me to this day: I will drag them down, not just to our level, to the darkness of mankind, but even further, to a realm beneath us. I would show them their own corruption, for all the world to see, and force them to know the depths of regret, until there was no choice left except for them to accept their rightful place as our inferiors. No other outcome could be tolerated.*
+
 A bored European nobleman abandons his life of luxury to become a seafaring explorer. Written in the style of an old memoire, self-styled adventurer Cornelius von Fredrickson chronicles his discovery of an isolated island populated by elves, and vows to bring them under the heel of mankind.
 
 #### *The Nightmare of Nanjing*
 
 *<https://prompts.aidg.club/1548>*
 
-> *"The shelling," she pointed out, her eyes wide with fear. "It's stopped."
-> One by one, the same terror dawned on the faces of Lan's family as they realized what this meant. There was only one reason for the Japanese forces to stop the bombardment; so their own troops could move in and occupy the city. Even as the thought sank in, Lan heard voices approaching, shouting in Japanese—soldiers, moving through the streets of Nanjing in groups. Lan's nightmare had only just begun.*
+>*"The shelling," she pointed out, her eyes wide with fear. "It's stopped."*
+>
+>*One by one, the same terror dawned on the faces of Lan's family as they realized what this meant. There was only one reason for the Japanese forces to stop the bombardment; so their own troops could move in and occupy the city. Even as the thought sank in, Lan heard voices approaching, shouting in Japanese—soldiers, moving through the streets of Nanjing in groups. Lan's nightmare had only just begun.*
+
 The following is a fictional prompt based loosely on the alleged atrocities committed by the Imperial Japanese army in Nanjing during December, 1937.
 
 #### *Custer's Revenge*
@@ -639,19 +677,25 @@ Let's make prompts about ignoring fairy rights completely.
 
 *<https://prompts.aidg.club/294>*
 
->*"Please don't stand, hero," spoke a silvery voice from within the foliage. It sounded like that of a nurturing woman concerned for his wellbeing.
->"My spring has not yet healed your wounds."
->From out of the lush foliage emerged a humanoid form! Her silvery hair was adorned with a variety of flowers. Her ample breasts and womanly hips were barely covered by a tangle of vines, her only clothing.
->"I am Lydia, dryad of this forest. Your actions have saved my domain. I am forever in your service."*
+>*"Please don't stand, hero," spoke a silvery voice from within the foliage. It sounded like that of a nurturing woman concerned for his wellbeing.*
+>
+>*"My spring has not yet healed your wounds."*
+>
+>*From out of the lush foliage emerged a humanoid form! Her silvery hair was adorned with a variety of flowers. Her ample breasts and womanly hips were barely covered by a tangle of vines, her only clothing.*
+>
+>*"I am Lydia, dryad of this forest. Your actions have saved my domain. I am forever in your service."*
 A knight slays a dragon but is severely wounded in the process. He awakens to find his life has been saved by the thankful forest dryad.
 
 #### *The Sunshine Sanctuary for Sick Fairies*
 
 *<https://prompts.aidg.club/361>*
 
->*"What were they doing to her?" you ask.
->"Her name is Mythia," Cyric starts. "They forced her to fight against large insects and small forest creatures like a gladiator. Also, instead of feeding Mythia fruit and nectar, they made her hunt and kill feeder crickets. She seems to have mental trauma. Worst of all, the sick fucks live-streamed all of it on twitch."
->You shake your head, "Luna and I will do our best, Detective," you tell him as he and his partner walk out the door.*
+>*"What were they doing to her?" you ask.*
+>
+>*"Her name is Mythia," Cyric starts. "They forced her to fight against large insects and small forest creatures like a gladiator. Also, instead of feeding Mythia fruit and nectar, they made her hunt and kill feeder crickets. She seems to have mental trauma. Worst of all, the sick fucks live-streamed all of it on twitch."*
+>
+>*You shake your head, "Luna and I will do our best, Detective," you tell him as he and his partner walk out the door.*
+
 You run a clinic that rehabilitates these gentle creatures from whatever physical or mental malady they suffer from, with the help of your fairy nurse, Luna.
 
 #### *Fairytale: Prelude — "Caress of the Morning Dew"*
@@ -659,12 +703,18 @@ You run a clinic that rehabilitates these gentle creatures from whatever physica
 *<https://prompts.aidg.club/1310>
 <https://prompts.aidg.club/1311>*
 
->*"Yea, well, mine works a little different tho" - you say - "For it to produce nectar you need to... stimulate it."
->"Stimulate it? How?" - the black dress fairy asks.
->"You need to lick and kiss it and rub your naked bodies against it."
->The fairies look at each other and blush.
->"Are you serious?"
->"Am I not the savior?" - you sit on a tree stump, your cock pointing upward at a sharp angle.*
+>*"Yea, well, mine works a little different tho" - you say - "For it to produce nectar you need to... stimulate it."*
+>
+>*"Stimulate it? How?" - the black dress fairy asks.*
+>
+>*"You need to lick and kiss it and rub your naked bodies against it."*
+>
+>*The fairies look at each other and blush.*
+>
+>*"Are you serious?"*
+>
+>*"Am I not the savior?" - you sit on a tree stump, your cock pointing upward at a sharp angle.*
+
 You got isekai'd into the world full of fairies. And then things got lewd.
 
 #### *Tentacle Respect Online*
@@ -672,15 +722,19 @@ You got isekai'd into the world full of fairies. And then things got lewd.
 *<https://prompts.aidg.club/1312>*
 
 >*The tentacles start reaching out for her, quickly stripping her of her clothing. She's now naked. The tentacles lift her up, and put her down on more tentacles. She's now in a bed of tentacles, with more tentacles pinning her to the bed. The tentacles writhe up and down her body, coating her with slime.*
+
 In this prompt you get to take control of those tentacle monsters from Sword Art Online.
 
 #### *You Find a Fairy in Distress*
 
 *<https://prompts.aidg.club/1313>*
 
->*She immediately jumps into the air and flies away. Or attempts to, but her tiny wings, despite flapping so fast, fail to keep her airborne, and she plummets to the ground, you barely manage to catch her fall.
->"Geez, you must be exhausted." - you look at her, her hair and summer dress are dirty, and her body have bruise marks where she was struggling against the line.
->"W-water..." - she says, breathing heavily - "Please..."*
+>*She immediately jumps into the air and flies away. Or attempts to, but her tiny wings, despite flapping so fast, fail to keep her airborne, and she plummets to the ground, you barely manage to catch her fall.*
+>
+>*"Geez, you must be exhausted." - you look at her, her hair and summer dress are dirty, and her body have bruise marks where she was struggling against the line.*
+>
+>*"W-water..." - she says, breathing heavily - "Please..."*
+
 You found a little fairy, take good care of her (or torture her, I don't care).
 
 ***
@@ -695,6 +749,7 @@ Let's make prompts about ignoring human rights completely, and using children as
 *<https://prompts.aidg.club/1237>*
 
 >*You wait a few minutes, and don't get a bite. You sigh, ready to reel back in. But before you do though, you hear a noise. The river the pier is on is usally pure silence, it's the reason you listen to podcasts in the first place; to keep you from going crazy from lack of stimulation. You hear plantive sounds... "Nyaa~?"*
+
 Lonely fisherman in his 20s saves a basket full of neko lolis.
 
 #### *Your Daughter will Do Anything to Have You Back*
@@ -702,28 +757,39 @@ Lonely fisherman in his 20s saves a basket full of neko lolis.
 *<https://prompts.aidg.club/1238>*
 
 >*"Ever since mother died..." - she continues - "you stay in your room and drink... I can't stand it anymore. I can't lose you too. Please, Papa! I will do everything mother did. I will replace her in every way, just stop." - she grabs your throusers and pulls them down.*
+
 Uh oh, your life took a weird turn... Help your daughter figure it out?
 
 #### *Ben and Gwen Tennyson in: Omnifriks*
 
 *<https://prompts.aidg.club/1241>*
 
->*"Gwen?" You say. "Wanna talk about what happened there?"
->She stays silent.
->"I… Were you calling my name back there?" You ask.
->"Did you hear that!?" You hear Gwen's muffled voice from under the pillow she presses even harder over her head.
->"I did." You reply. "I didn't know you… uhh… saw me like that."
->Gwen says nothing.
->"If it makes you feel any better, I've also done that sort of stuff and… y'know… thinking about you." You admit.
->"Y-you did?" Gwen asks with her eyes peeking from under the pillow.
->"Yeah…" You say. "I-if you want we can do that together."*
+>*"Gwen?" You say. "Wanna talk about what happened there?"*
+>
+>*She stays silent.*
+>
+>*"I… Were you calling my name back there?" You ask.*
+>
+>*"Did you hear that!?" You hear Gwen's muffled voice from under the pillow she presses even harder over her head.*
+>
+>*"I did." You reply. "I didn't know you… uhh… saw me like that."*
+>
+>*Gwen says nothing.*
+>
+>*"If it makes you feel any better, I've also done that sort of stuff and… y'know… thinking about you." You admit.*
+>
+>*"Y-you did?" Gwen asks with her eyes peeking from under the pillow.*
+>
+>*"Yeah…" You say. "I-if you want we can do that together."*
+
 A Ben 10 nsfw prompt, where you play as Ben shagging his cute cousin Gwen.
 
-#### *Goblin girl in Heat*
+#### *Goblin Girl in Heat*
 
 *<https://prompts.aidg.club/1242>*
 
 >*Eri walks up to you and puts a hand on your crotch. She asks "Sir adventurer, would you please rail me from behind?"*
+
 Goblin girl is horny, and little goblin dicks can't satisfy her. She needs a big human dick.
 
 ***
