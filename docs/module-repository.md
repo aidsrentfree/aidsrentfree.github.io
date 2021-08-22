@@ -742,7 +742,6 @@ She walked into the living room and dropped her bag by the couch. Her mother's v
 >
 >"Well then, why don't you get undressed too?"
 
-
 >**\*\*\***
 >
 >**The angel** was waiting for her when she arrived. "Thank you, Lorelei," he said with a smile as the door shut behind them. He held out his hand and helped her down from the carriage. She took it gratefully. The air smelled like fresh rain on the wind that blew in through an open window. It had been months since she'd last visited this place. Her wings were still sore from their flight here, but they felt better than ever before.
@@ -1165,6 +1164,7 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 *This is futa on male-protagonist smut-only from CoC2 and TiTS, so it's second person (does work in first person but you might have to force it a bit). Protagonist is a trap but I don't think it matters, since it doesn't really come up a lot. It's made from basically all the major futa characters (so it's mostly futadom) from those two games. Probably has a bit of a bias towards blowjobs with how much of these the games feature.*
 
 *About 500kb of text trained with 100% steps. Apparently for fetish stuff from smaller data you're supposed to use 100% so I did that.*
+
 ##### [Gay Fantasy](https://files.catbox.moe/64f337.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/345615202/#345739496)
@@ -1341,7 +1341,7 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 ##### [NonConsent and Reluctance](https://files.catbox.moe/8cjwhg.module)
 
 !!! note Literotica Scrapes
-	This fucking madman was able to download and separate 8.26 GB worth of literotica stories into categorical text files, which he keeps in a [mega](https://mega.nz/folder/opxHRYYa#PNMKS9LQ6ldR3HCDlqts0g) that you can browse and download from.
+ This fucking madman was able to download and separate 8.26 GB worth of literotica stories into categorical text files, which he keeps in a [mega](https://mega.nz/folder/opxHRYYa#PNMKS9LQ6ldR3HCDlqts0g) that you can browse and download from.
 
 [by jorfl](https://discord.com/channels/854479693503660032/870494065446248458/872353978271268894)
 
@@ -1871,7 +1871,6 @@ Output features the type of prose you would expect from well-translated Japanese
 *Genres: Non-con, consensual, Monster, Anthro, Monster Girls, M/F, M/M, Like seriously too many to list.*
 
 *Also posting a full dump of [my converted text file](https://files.catbox.moe/8ykq4m.txt), if you want to change the name characters call you, go through the text file and replace 4 underscores "___" with whatever name you want*
-
 
 ##### [Corruption of Champions 2](https://files.catbox.moe/3fa8k5.module)
 

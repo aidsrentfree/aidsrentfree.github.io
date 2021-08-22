@@ -302,4 +302,4 @@ Position | Insertion Order | Reserve Tokens | Type
 
 ***
 
-This rentry is designed and updated with Sigurd in mind.
+This page is designed and updated with Sigurd in mind.

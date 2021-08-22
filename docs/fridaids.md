@@ -6,7 +6,7 @@ permalink: /fridaids/
 
 # /aids/ Theme Event Fridays
 
--> Sorted in **descending** order of recency, this is a log of all of the theme Friday submissions, starting from mid May 2021. There was [a previous one](https://guide.aidg.club/Resources-And-Guides/aidg%20general/aidg-Fridays.html), but it seems to be kill, so I've created this one as a fresh start.<-
+Sorted in **descending** order of recency, this is a log of all of the theme Friday submissions, starting from mid May 2021. There was [a previous one](https://guide.aidg.club/Resources-And-Guides/aidg%20general/aidg-Fridays.html), but it seems to be kill, so I've created this one as a fresh start.
 
 ## Rules
 
@@ -26,7 +26,7 @@ permalink: /fridaids/
 - [/aids/ Theme Event Fridays](#aids-theme-event-fridays)
   - [Rules](#rules)
   - [The Log](#the-log)
-    - [-> The Friday of *Personality Alteration* <-](#--the-friday-of-personality-alteration--)
+    - [The Friday of *Personality Alteration*](#the-friday-of-personality-alteration)
       - [*Measuring the Effects of Increased Sexual Arousal when Consuming Love Potions*](#measuring-the-effects-of-increased-sexual-arousal-when-consuming-love-potions)
       - [*Sex Slave Headset*](#sex-slave-headset)
       - [*Re: Programmed to Serve*](#re-programmed-to-serve)
@@ -35,11 +35,11 @@ permalink: /fridaids/
       - [*The Mind-Bender's Challenge*](#the-mind-benders-challenge)
       - [*Mind Control Thingy*](#mind-control-thingy)
       - [*Con-fidence at the Con*](#con-fidence-at-the-con)
-    - [-> The Friday of *Dwarves* <-](#--the-friday-of-dwarves--)
+    - [The Friday of *Dwarves*](#the-friday-of-dwarves)
       - [*Out of the Furnace, Into the...*](#out-of-the-furnace-into-the)
       - [*Deep Rock Galactic*](#deep-rock-galactic)
       - [*Urist's Tryst*](#urists-tryst)
-    - [-> The Friday of *School* <-](#--the-friday-of-school--)
+    - [The Friday of *School*](#the-friday-of-school)
       - [*Clair de Lune*](#clair-de-lune)
       - [*Beneath The Cherry Blossoms*](#beneath-the-cherry-blossoms)
       - [*Quarterback Sneak*](#quarterback-sneak)
@@ -55,7 +55,7 @@ permalink: /fridaids/
       - [*Bloody Playground*](#bloody-playground)
       - [*Mrs. Smith's Hands-On Lesson*](#mrs-smiths-hands-on-lesson)
       - [*An "Innocent" Prank*](#an-innocent-prank)
-    - [-> The Friday of *Human Experimentation / Farming* <-](#--the-friday-of-human-experimentation--farming--)
+    - [The Friday of *Human Experimentation / Farming*](#the-friday-of-human-experimentation--farming)
       - [*New Content*](#new-content)
       - [*Boredom of the Nobles*](#boredom-of-the-nobles)
       - [*Treasure in the Dunes*](#treasure-in-the-dunes)
@@ -69,18 +69,18 @@ permalink: /fridaids/
       - [*Holstaur Farm*](#holstaur-farm)
       - [*Breast Unrest*](#breast-unrest)
       - [*It ain't much, but it's honest work*](#it-aint-much-but-its-honest-work)
-    - [-> The Friday of *Native Subjugation* <-](#--the-friday-of-native-subjugation--)
+    - [The Friday of *Native Subjugation*](#the-friday-of-native-subjugation)
       - [*An Account of Mankind's Conquest of the Elves*](#an-account-of-mankinds-conquest-of-the-elves)
       - [*The Nightmare of Nanjing*](#the-nightmare-of-nanjing)
       - [*Custer's Revenge*](#custers-revenge)
       - [*Memoirs from the Amazonian Jungle*](#memoirs-from-the-amazonian-jungle)
-    - [-> The Friday of *Fairies* <-](#--the-friday-of-fairies--)
+    - [The Friday of *Fairies*](#the-friday-of-fairies)
       - [*Dryad Encounter*](#dryad-encounter)
       - [*The Sunshine Sanctuary for Sick Fairies*](#the-sunshine-sanctuary-for-sick-fairies)
       - [*Fairytale: Prelude — "Caress of the Morning Dew"*](#fairytale-prelude--caress-of-the-morning-dew)
       - [*Tentacle Respect Online*](#tentacle-respect-online)
       - [*You Find a Fairy in Distress*](#you-find-a-fairy-in-distress)
-    - [-> The Friday of *Cuteness and Hilarity* <-](#--the-friday-of-cuteness-and-hilarity--)
+    - [The Friday of *Cuteness and Hilarity*](#the-friday-of-cuteness-and-hilarity)
       - [*A Basket of Kittens*](#a-basket-of-kittens)
       - [*Your Daughter will Do Anything to Have You Back*](#your-daughter-will-do-anything-to-have-you-back)
       - [*Ben and Gwen Tennyson in: Omnifriks*](#ben-and-gwen-tennyson-in-omnifriks)
@@ -88,11 +88,11 @@ permalink: /fridaids/
 
 ***
 
-### -> The Friday of *Personality Alteration* <-
+### The Friday of *Personality Alteration*
 
-->Let's make prompts ignoring modern psychology completely, using hypnosis or other mind breaking things as tools to change one's identity.<-
+Let's make prompts ignoring modern psychology completely, using hypnosis or other mind breaking things as tools to change one's identity.
 
-->*August 20th, 2021*<-
+*August 20th, 2021*
 
 #### *Measuring the Effects of Increased Sexual Arousal when Consuming Love Potions*
 
@@ -116,7 +116,7 @@ You are a lecherous creep who cares little for the concept of "consent"
 
 *<https://prompts.aidg.club/2031>*
 
-->![](https://files.catbox.moe/8pmv9c.jpg)<-
+![](https://files.catbox.moe/8pmv9c.jpg)
 
 >*"Huh? What do you mean?" I ask. "You talking about Silvia there? Never gonna happen. That chick would rather be repurposed as a calculator than to serve me. She fucking hates me!"*
 >
@@ -160,7 +160,7 @@ You encounter a strange man walking home from work and come into possession of a
 
 *<https://prompts.aidg.club/2033>*
 
-->![](https://files.catbox.moe/kkqqxf.png)<-
+![](https://files.catbox.moe/kkqqxf.png)
 
 >*A couple of hours ago, the county emergency broadcast blared out on all channels, advising us to stay indoors because a "dangerous meteorological event was taking place". I don't know shit about meteors. I took heed, but the broadcast got weird. Contradictory information and instructions, all focused on the event, the night sky. It wasn't a fucking meteor.*
 >
@@ -172,7 +172,7 @@ A prompt where there's something terribly wrong with the night sky.
 
 *<https://prompts.aidg.club/2034>*
 
-->![](https://files.catbox.moe/mj6jpc.jpg)<-
+![](https://files.catbox.moe/mj6jpc.jpg)
 
 >*Now standing before her, I started to wonder if I would meet the same fate as my predecessors. Not likely, I mused grimly as I looked at her collection of slaves. She seems to prefer women.*
 >
@@ -212,17 +212,17 @@ Play as teenage trap at their first anime convention trying to gain confidence b
 
 ***
 
-### -> The Friday of *Dwarves* <-
+### The Friday of *Dwarves*
 
-->Let's make prompts ignoring boorish elves completely, using dwarves or other dwarvish things as tools and alcohol.<-
+Let's make prompts ignoring boorish elves completely, using dwarves or other dwarvish things as tools and alcohol.
 
-->*August 6th, 2021*<-
+*August 6th, 2021*
 
 #### *Out of the Furnace, Into the...*
 
 *<https://prompts.aidg.club/1867>*
 
-->![](https://files.catbox.moe/kq56me.jpg)<-
+![](https://files.catbox.moe/kq56me.jpg)
 
 >*"I'm g-gonna gut t-that Elf slut."*
 >
@@ -238,7 +238,7 @@ Iron-Hand Arms. The lovechild of you and your Dwarven business associate Gilda. 
 
 *<https://prompts.aidg.club/1917>*
 
-->![](https://files.catbox.moe/f82ms8.jpg)<-
+![](https://files.catbox.moe/f82ms8.jpg)
 
 >*Tense moments passed before Mission Control cut in again, "Miners… I've got some bad news. The Pod is completely shot. We'll be able to extract the Mule and its payload with secondaries, but as for you…" The faintest hint of genuine apology crept into the voice of the Mission Control operator, "The Company expresses its most sincere apologies and regrets, but you're stranded. Mitigating factors. Our hands are tied. Deep Rock Galactic will record your sacrifice. Sorry boys." The link went dead.*
 >
@@ -250,7 +250,7 @@ A mission goes wrong when the Drop Pod fails to extract. Abandoned thousands of 
 
 *<https://prompts.aidg.club/1918>*
 
-->![](https://files.catbox.moe/osatf3.jpg)<-
+![](https://files.catbox.moe/osatf3.jpg)
 
 >At last, he stumbled down the side passage he'd dug earlier that day, rounding a corner to behold her before him.
 >
@@ -264,16 +264,16 @@ A dwarf, Urist, is possessed by a strange mood, and makes his way deep into the 
 
 ***
 
-### -> The Friday of *School* <-
+### The Friday of *School*
 
-->Let's make prompts ignoring Mormon's trash filter completely, using students or other academic concepts as tools for storytelling.<-
-->*July 23rd, 2021*<-
+Let's make prompts ignoring Mormon's trash filter completely, using students or other academic concepts as tools for storytelling.
+*July 23rd, 2021*
 
 #### *Clair de Lune*
 
 *<https://prompts.aidg.club/1787>*
 
-->![](https://files.catbox.moe/ph5249.jpg)<-
+![](https://files.catbox.moe/ph5249.jpg)
 
 >*I feel my emotions conflict between the hate I thought I had for him and the genuine enjoyment I had talking with him on the phone earlier when I didn't know it was James. Was I just being set up for a fall here, or could it be that none of us had ever seen the true face of James and I'm seeing something he only shows to a very select few? At the very least, I should do what he says, given that he could have me expelled with a wave of his hand, so I grab a nearby stool and sit close to him as I watch in awe.*
 
@@ -283,7 +283,7 @@ A mysterious call for piano students on the school pin board has gotten me close
 
 *<https://prompts.aidg.club/1788>*
 
-->![](https://files.catbox.moe/1gtu90.png)<-
+![](https://files.catbox.moe/1gtu90.png)
 
 >*I feel stupid. How did I think that I could hide something from Akari? But any sort of negative feelings I could have had just fly away as I feel her hand brush against my cheek before carefully cupping it. My eyes meet hers again, and I wonder how I could have, even for a moment, thought that this meant that she would think less of me. I'm sure she knows of my trepidation, my worries... but now that it's been all laid out with just a few gestures and words, there's no reason to ever hold back anymore. Her thumb caresses my cheek like a mother would do to a troubled child to calm it down again, those motherly notions that Akari had for me coming to the forefront again. She really just wants me to be my best, and that includes being open with my feelings. I realize that now.*
 
@@ -293,7 +293,7 @@ Two childhood friends find themselves realizing that the feelings they have for 
 
 *<https://prompts.aidg.club/1789>*
 
-->![](https://files.catbox.moe/8df2he.jpg)<-
+![](https://files.catbox.moe/8df2he.jpg)
 
 >*Might I have actually found a soulmate? Someone I could finally confide my desires in? Someone that wouldn't judge me? The thought seems too good to be true, but here I am, and when I look into Simon's eyes... I can see nothing but sincerity there. He's genuinely wanting to help me. But before I can reply, something strange happens. Emotions start bubbling up inside of me, and before I know it, tears are starting to form in my eyes. It's like all the pent up fear over being exposed has come back all at once now that I feel free.*
 
@@ -303,7 +303,7 @@ When I, the star quarterback of the school, was caught in my hobby of wearing wo
 
 *<https://prompts.aidg.club/1791>*
 
-->![](https://files.catbox.moe/prksn5.png)<-
+![](https://files.catbox.moe/prksn5.png)
 
 >"Classic Erin, always modest," I said with a mock-sigh as I plopped down on the bench beside her. Erin chuckled lightly at that, and I smiled back at her. We sat in companionable silence, sipping our coffee and munching on the bread, as we watched the sky. I could see the faintest hint of the sun peeking over the horizon, casting a glow across the snow-dusted fields. A soft gold tinted the underside of clouds, and the horizon was painted a gentle pink that faded into blue as I traced my eyes upward.
 
@@ -313,7 +313,7 @@ It is early in the morning in the dead of winter, and school is miles away. Wait
 
 *<https://prompts.aidg.club/1792>*
 
-->![](https://files.catbox.moe/p4746l.jpg)<-
+![](https://files.catbox.moe/p4746l.jpg)
 
 >*The truth is, this time around I was determined to exact some retribution against Penny for all the pranks she’s played on me over the years - not just on a day like today, but sometimes in general as well. Planning, scheming, and researching online pranks has occupied much of my time lately - For several months now. This prank must be simple, yet effective, and sure to get her laughing too. Today, the day of reckoning has come, and I think I have the perfect prank in mind.*
 
@@ -323,7 +323,7 @@ In your attempt to swindle your friend, you somehow get her to confess her feeli
 
 *<https://prompts.aidg.club/1793>*
 
-->![pee](https://files.catbox.moe/9rkbav.png)<-
+![pee](https://files.catbox.moe/9rkbav.png)
 
 >*The exam was a small booklet—no more than ten questions on each page—and the first few questions appeared fairly easy. Maybe this wouldn't be so bad.*
 >*It was going well, and despite my lack of preparation, the answers came to me easily enough, and soon I was on the second page. Then I felt it—a slowly building pressure in my bladder.*
@@ -334,7 +334,7 @@ A student is stuck in an exam and really needs to pee.
 
 *<https://prompts.aidg.club/1794>*
 
-->![](https://files.catbox.moe/myx7wk.png)<-
+![](https://files.catbox.moe/myx7wk.png)
 
 >*At my confirmation that I was indeed a single father, the eyes of the monstergirl teachers all lit up, and they approached me eagerly.*
 >*"A single father? My my, how dependable," mused Ms. Anima.*
@@ -351,7 +351,7 @@ Now, you're caught in the affections of an Arachne, a Papillon, a Merrow, a Gaze
 
 *<https://prompts.aidg.club/1795>*
 
-->![](https://files.catbox.moe/0neyjr.jpg)<-
+![](https://files.catbox.moe/0neyjr.jpg)
 
 >*A loud chime from my phone interrupted my thoughts. It was muffled; clearly under my sheets. Since my motor skills are impaired, I have to wrestle my phone from the velvety folds of my bed and turn it on. There was a message from Brianna.*
 >*It read: “im outside come out i want to talk”.*
@@ -362,7 +362,7 @@ On the morning following graduation, my former bully turned study partner shows 
 
 *<https://prompts.aidg.club/1797>*
 
-->![](https://files.catbox.moe/vmejul.jpg)<-
+![](https://files.catbox.moe/vmejul.jpg)
 
 >*I stood there gaping at the scene before me as if it were a mirage. Then, someone tapped me on the shoulder. I turned and saw a girl, her skin bronzed by the sun, holding two plastic shot cups. She wore a light beach cardigan over her bikini top, which strained to cover her ample breasts. My eyes traced their way down to her taut midriff, ending at a neon bikini bottom, revealing a pair of long, shapely legs. Her wavy blonde hair tumbled past her shoulders, catching the rays of sunshine. There was something about her smile that made my stomach flutter; she had an almost mischievous look in her eye as she gazed up at me. She grinned as she leaned forward and said, "Hey, you look lost."*
 
@@ -372,7 +372,7 @@ It's the height of Spring Break, and you are at ground zero: Miami Beach. At a s
 
 *<https://prompts.aidg.club/1800>*
 
-->![](https://files.catbox.moe/p8gqhv.png)<-
+![](https://files.catbox.moe/p8gqhv.png)
 
 >*The novice science teacher frowned a bit as her students begun to clamor and giggle amongst themselves. It was to be expected that middle-schoolers would find the subject amusing, but Ms. McKenzie was determined to keep things under control. Little did she know, the boys of Bridgevale Middle School were a rambunctious, perverted lot—whether it was because of the school's location in a low-income area, or a fault of the administration, or their parents, or the media, or something else.*
 
@@ -382,7 +382,7 @@ The novice, young teacher Ms. McKenzie is teaching her first sex-ed lesson. Her 
 
 *<https://prompts.aidg.club/1801>*
 
-->![](https://files.catbox.moe/eztmx4.png)<-
+![](https://files.catbox.moe/eztmx4.png)
 
 >*When it was finally time for their art period, Emilia hung back in her preparation room until she was sure all three of the boys were there and seated. That was when she made her grand entrance. All she was wearing was her bath robe as she strode to the model’s podium and took her seat. Emilia noticed them squirming as she started to explain the exercise.*
 >*"Buenos dias," said Miss Flores, "Today, I want you the three of you to draw me."*
@@ -403,7 +403,7 @@ A group of lolis corners you on the school roof. Whatever could they want from y
 
 *<https://prompts.aidg.club/1803>*
 
--> ![](https://files.catbox.moe/873rp6.gif) <-
+![](https://files.catbox.moe/873rp6.gif)
 
 >*Everything changed quicker than Elaine's brain could process. Just a few hours ago, she had been having a lighthearted talk with her as it was custom for her to do every day, now... all that remains of her is her mangled body, spread all over the blood-soaked floor. It's truly a horrid scene, those things didn't limit themselves to kill her, no, they took their time to sadistically tear her apart, each one of them fighting for the biggest bite her body, and she — still conscious — watching them consume her limbs between sobs and screams.*
 
@@ -429,10 +429,10 @@ You're a teacher for a class full of mischievous girls. What could go wrong?
 
 ***
 
-### -> The Friday of *Human Experimentation / Farming* <-
+### The Friday of *Human Experimentation / Farming*
 
-->Let's make prompts about ignoring human rights completely, and using humans or other sapient creatures as guinea pigs and cattle.<-
-->[*July 9th, 2021*](#the-log)<-
+Let's make prompts about ignoring human rights completely, and using humans or other sapient creatures as guinea pigs and cattle.
+[*July 9th, 2021*](#the-log)
 
 #### *New Content*
 
@@ -450,7 +450,7 @@ A man runs a youtube channel where he performs random surgical operations and ot
 
 *<https://prompts.aidg.club/1649>*
 
--> ![Very boring torture chamber](https://files.catbox.moe/pokefq.jpg)<-
+![Very boring torture chamber](https://files.catbox.moe/pokefq.jpg)
 
 >*At the bottom was a basement filled with different racks, cages, and instruments all meant for torturing people. I was shocked that this was below the manor and curious to why Abigail said it was fun. She smiled at me again and revealed a part of herself she has never shared with anyone. Abigail told me that she secretly fantasies about torturing people and how fun it might be, she could tell that I was getting bored with the simple life of a noble and that this could be fun.*
 
@@ -460,7 +460,7 @@ You are the bored Prince, Victor Lux. You and your sister have recently been cha
 
 *<https://prompts.aidg.club/1661>*
 
-->![I assume this is supposed to be Matthew?](https://files.catbox.moe/b936rx.png)<-
+![I assume this is supposed to be Matthew?](https://files.catbox.moe/b936rx.png)
 
 >*And so, Matthew takes a swig from the flask as well, swallowing it. "I don't know what your problem with it is, it didn't taste of anything to me... weak stomach, eh?" he quips with a smirk. Just you wait, Matthew, if I'm right about this, I'm having the last laugh here. As we continue walking through the dunes, searching for treasure, I feel myself starting to sweat more heavily. This must be the potion taking effect, as Matthew seems to be feeling it as well. And then it happens. With a "Hey, give me some of the water you're carrying, I think I'm parched...", Matthew turns around, our eyes meet, and the potion works its magic. I can feel my picture of him being rewritten as I think about it, becoming more beautiful, more lovable.*
 
@@ -470,7 +470,7 @@ As a battle goes on in a vast desert, a young tactician and a young thief remain
 
 *<https://prompts.aidg.club/1674>*
 
-->![Awfully young for an insane scientist](https://files.catbox.moe/842uoo.png)<-
+![Awfully young for an insane scientist](https://files.catbox.moe/842uoo.png)
 
 >*Naked and strapped in a medical chair with my feet high in the air on stirrups, the surface of the medical chair sticks to the cold sweat from my skin as I struggle in vain to break free.
 >I see Sylvia walking by with a clipboard in hand.
@@ -484,7 +484,7 @@ You are a woman in your late thirties. As a huge fan of video games, you need so
 
 *<https://prompts.aidg.club/1682>*
 
-->![I have never played Granblue Fantasy](https://files.catbox.moe/263rej.jpg)<-
+![I have never played Granblue Fantasy](https://files.catbox.moe/263rej.jpg)
 
 >*"You aren't human, you're a monster; lower than dirt." strong-willed and incredibly arrogant, Threo was a bit out of her element; an earlier battle with your strongest goons had knocked her down a peg, if only temporarily.
 >"Hmph, it took five of my best men to subdue you even for a moment, but a moment was all I needed; I'll be sure that they get to sample you."
@@ -496,7 +496,7 @@ Something of a capitalist, you understand the market demand for two things: fres
 
 *<https://prompts.aidg.club/1683>*
 
-->![Where are this dude's fingers?](https://files.catbox.moe/krvdr0.jpg)<-
+![Where are this dude's fingers?](https://files.catbox.moe/krvdr0.jpg)
 
 >*"If I don't look I won't be able to do it properly. And stop covering yourself." - you dunk the paintbrush into a glass of water, wetting the tip.
 >"No! This is too embarrassing!"
@@ -509,7 +509,7 @@ After a horrible catastrophe wiped out all bees and many other insects humans ha
 
 *<https://prompts.aidg.club/1684>*
 
-->![Alma is clearly a victim of chinese foot binding, it seems](https://files.catbox.moe/rq7f16.png)<-
+![Alma is clearly a victim of chinese foot binding, it seems](https://files.catbox.moe/rq7f16.png)
 
 >*As I looked beyond the blinding glare, I saw a young girl covered with blood, organs, and viscera, which spread like a field of gore around her. Ami looked more alive than she had in a long time. Her face lit up, and she laughed like this was the funniest thing she had done in years.*
 
@@ -519,7 +519,7 @@ One janitor's day is made interesting when his workplace implodes from within be
 
 *<https://prompts.aidg.club/1685>*
 
-->![Good thing the arrows are included — I would have never have known which was which](https://files.catbox.moe/50h13t.png)<-
+![Good thing the arrows are included — I would have never have known which was which](https://files.catbox.moe/50h13t.png)
 
 >*Spotlights shine over Sarah's laying, sleeping body, and a buzz can be heard all across the lab.
 >The harnesses around her wrists and ankles unlock, and Sarah opens her eyes.
@@ -534,9 +534,9 @@ Play as a morally bankrupt scientist and get off on swapping the brains of anima
 AI Dungeon Version - *<https://prompts.aidg.club/1687>*
 NovelAI Version - *<https://prompts.aidg.club/1688>*
 
-->![Based off of this hentai of the same name](https://files.catbox.moe/j1nx1r.jpg)<-
+![Based off of this hentai of the same name](https://files.catbox.moe/j1nx1r.jpg)
 
-->[(Full Sized Panel)](https://files.catbox.moe/kk9a50.jpg)<-
+[(Full Sized Panel)](https://files.catbox.moe/kk9a50.jpg)
 
 >*"Wow, you even captured a dragon girl," you grin as you watch the factory goblins lead a scaled girl by a chain, taking her measurements.*
 >
@@ -552,7 +552,7 @@ Play as Demon Lord Guren and be humbly invited to inspect his recently completed
 
 *<https://prompts.aidg.club/1693>*
 
-->![Don't let the image fool you; you aren't going to be the one sniffing](https://files.catbox.moe/lesk9m.jpg)<-
+![Don't let the image fool you; you aren't going to be the one sniffing](https://files.catbox.moe/lesk9m.jpg)
 
 >*"Well…" It wasn't the most decisive strategy, but it was my best bet. Dog girls were known for their keen sense of smell—something I openly envied her for—and they could detect subtleties in a fragrance that were completely lost on humans. Although she lacked my years of expertise, it was conceivable that she could not just pick up on things far beyond my abilities, but also identify potential aromatic sources that could be used to produce the right formula. "You'll need to lend me your nose. We'll examine some live specimens."*
 >*"Live specimens?!" she gasped. "Like real penises?! Are we really going through with this plan?"*
@@ -586,7 +586,7 @@ A humble 'human heifer' farmer, you aren't too pleased when some damn liberal co
 
 *<https://prompts.aidg.club/1698>*
 
-->![What is her occupation?](https://files.catbox.moe/fkm7ub.jpg)<-
+![What is her occupation?](https://files.catbox.moe/fkm7ub.jpg)
 
 >*The heat of the branding iron as it burnt its way into Yui's flesh, and her cry of pain and fear, gave me a sudden carnal thrill. The sight of Yui, a formerly uptight, high-functioning woman, now writhing in agony and fear at the touch of the hot branding iron was almost erotic.*
 
@@ -594,10 +594,10 @@ Help acclimate an office lady to life on the farm.
 
 ***
 
-### -> The Friday of *Native Subjugation* <-
+### The Friday of *Native Subjugation*
 
-->Let's make prompts about ignoring human rights completely, and using natives as foot stools.<-
-->[*June 25th, 2021*](#the-log)<-
+Let's make prompts about ignoring human rights completely, and using natives as foot stools.
+[*June 25th, 2021*](#the-log)
 
 #### *An Account of Mankind's Conquest of the Elves*
 
@@ -630,10 +630,10 @@ Conquistador turns a native tribe into his harem, beginning with their finest wa
 
 ***
 
-### -> The Friday of *Fairies* <-
+### The Friday of *Fairies*
 
-->Let's make prompts about ignoring fairy rights completely.<-
-->[*May 28th, 2021*](#the-log)<-
+Let's make prompts about ignoring fairy rights completely.
+[*May 28th, 2021*](#the-log)
 
 #### *Dryad Encounter*
 
@@ -685,10 +685,10 @@ You found a little fairy, take good care of her (or torture her, I don't care).
 
 ***
 
-### -> The Friday of *Cuteness and Hilarity* <-
+### The Friday of *Cuteness and Hilarity*
 
-->Let's make prompts about ignoring human rights completely, and using children as cum socks.<-
-->[*May 14th, 2021*](#the-log)<-
+Let's make prompts about ignoring human rights completely, and using children as cum socks.
+[*May 14th, 2021*](#the-log)
 
 #### *A Basket of Kittens*
 
@@ -728,4 +728,4 @@ Goblin girl is horny, and little goblin dicks can't satisfy her. She needs a big
 
 ***
 
--> While you're here, why not take a look at [the original Friday log](https://guide.aidg.club/Resources-And-Guides/aidg%20general/aidg-Fridays.html)? <-
+While you're here, why not take a look at [the original Friday log](https://guide.aidg.club/Resources-And-Guides/aidg%20general/aidg-Fridays.html)?
