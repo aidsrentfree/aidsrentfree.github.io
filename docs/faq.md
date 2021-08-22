@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Frequently Asked Questions"
 permalink: /faq/
+---
 
 # The Frequently Asked Questions Rentry
 
