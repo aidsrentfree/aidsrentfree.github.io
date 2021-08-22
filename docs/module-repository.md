@@ -1921,7 +1921,7 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 
 *Had to manually remove shit ton of author notes.*
 
-*Finally combined into a single file while wrapping each with <|startoftext|> and <|endoftext|>.*
+*Finally combined into a single file while wrapping each with <\|startoftext\|> and <\|endoftext\|>.*
 
 ##### [Homestuck](https://files.catbox.moe/x5svnd.module)
 
