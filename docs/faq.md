@@ -4,8 +4,6 @@ title: "Frequently Asked Questions"
 permalink: /faq/
 ---
 
-# Frequently Asked Questions
-
 Perhaps you may not have noticed, but a lot of us are quite bored of answering the same questions over and over again. Things have changed since March of this year, and so a new FAQ needs to exist so new or returning anons can come here instead of asking the same shit **over** and **over** ***again***.
 
 Once again, out of respect for what was before, [here's a link to the original FAQ](https://guide.aidg.club/Resources-And-Guides/aidg%20general/aidg-FAQ.html), I'll be reworking still valid sections into here in the interests of convienience and not reinventing the wheel.
