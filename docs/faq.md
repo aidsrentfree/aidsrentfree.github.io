@@ -97,11 +97,8 @@ GPT-6B-J can't compete with Dragon's highest highs, and it can't hope to achieve
 
 And now, with Latitude's [new setup](#what-the-fuck-happened-to-ai-dungeon), you probably won't be getting a lot of outputs from 175B Dragon regardless. [The newly implemented OpenAI filter is notorious for being even stricter](https://beta.openai.com/docs/engines/content-filter) than anything Mormon could come up with, which means that a lot of your "unsafe" outputs will just be from a custom GPT-6B-J anyway.
 
-!!! note
-
-	*That filter often blocks even mild fantasy violence, which would obviously hurt the magic of AI Dungeon—we believe that you should be able to fight off bandits, slay dragons, and have all of the kinds of epic adventures that make AI Dungeon so fun.*
-
-	->[*Latitude on OpenAI's filter*](https://latitude.io/blog/a-new-story-experience/)->
+>*That filter often blocks even mild fantasy violence, which would obviously hurt the magic of AI Dungeon—we believe that you should be able to fight off bandits, slay dragons, and have all of the kinds of epic adventures that make AI Dungeon so fun.*
+[~ Latitude *on OpenAI's filter*](https://latitude.io/blog/a-new-story-experience/)
 
 ***
 
@@ -111,11 +108,8 @@ And now, with Latitude's [new setup](#what-the-fuck-happened-to-ai-dungeon), you
 
 For what we're doing? There's barely a difference anymore.
 
-!!! note
-
-	*If your story triggers OpenAI’s filters it will be handled by our own models rather than resulting in account suspension. We will still use and continue to work on our own filters to enforce our content policies, but they will be much more carefully targeted, ensuring that you aren’t unfairly penalized for incorrectly flagged content.*
-
-	->[*Latitude on their new filter system*](https://latitude.io/blog/a-new-story-experience/)->
+>*If your story triggers OpenAI’s filters it will be handled by our own models rather than resulting in account suspension. We will still use and continue to work on our own filters to enforce our content policies, but they will be much more carefully targeted, ensuring that you aren’t unfairly penalized for incorrectly flagged content.*
+[~ Latitude *on their new filter system*](https://latitude.io/blog/a-new-story-experience/)
 
 ### Is it as good as Davinci?
 
@@ -167,10 +161,10 @@ Currently NovelAI has two, Calliope and Sigurd. Both of which are fine-tuned on 
 
 Calliope is GPT-Neo (2.7B parameters) while Sigurd is GPT-6B-J.
 
-> Sigurd is the name of NovelAI fine-tuned GPT-J-6B model. This model launched during the Beta as an Experimental Feature for our opus tier subscribers and has since been rolled out to all tiers. Newer Sigurd models will continue to release as Experimental Feature for Opus subscribers first.
-> Sigurd is a much bigger model and response times are a little slower in comparison to Calliope, our 2.7B model.
-
-*NovelAI’s FAQ*
+>Sigurd is the name of NovelAI fine-tuned GPT-J-6B model. This model launched during the Beta as an Experimental Feature for our opus tier subscribers and has since been rolled out to all tiers. Newer Sigurd models will continue to release as Experimental Feature for Opus subscribers first.
+>
+>Sigurd is a much bigger model and response times are a little slower in comparison to Calliope, our 2.7B model.
+~ *NovelAI’s FAQ*
 
 ### What do we know about their fine-tuning dataset?
 
