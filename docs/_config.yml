@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: /aids/
+title: /aids/ rentries
 email: no@getfucked.com
 description: >- # this means to ignore newlines until "baseurl:"
-This is the Github Pages edition of all my markdown files I've made for the /aids/ general.
+  This is my collection of markdowns I've made for the good of the /aids/ general. They're hosted on github pages because rentry can't sustain some of them (the module repo is way too big) so I'm placing them here.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  settingsanon
