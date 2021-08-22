@@ -5,10 +5,4 @@
 layout: home
 ---
 
-# /aids/ Resources
-
-- Settings
-- Lorebooks
-- Modules
-- Theme Fridays
-- [Frequently Asked Questions](https://settingsanon.github.io/faq/)
+The new home of my markdown garbage.
