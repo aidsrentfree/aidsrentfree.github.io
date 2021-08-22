@@ -1,7 +1,6 @@
-layout: post
+layout: page
 title: "Frequently Asked Questions"
-date: YYYY-MM-DD hh:mm:ss -0000
-categories: aids questions
+permalink: /faq/
 
 # The Frequently Asked Questions Rentry
 
