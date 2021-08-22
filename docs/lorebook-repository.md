@@ -3,7 +3,7 @@ layout: page
 title: "Lorebook Repository"
 permalink: /lorebooks/
 ---
-# /aids/ Lorebook Repository
+# Lorebook Repository
 
 ~~That's right, another fucking rentry~~
 
@@ -11,7 +11,7 @@ As it stands, Sigurd knows relatively little about established franchises, so cr
 
 ***
 
-- [/aids/ Lorebook Repository](#aids-lorebook-repository)
+- [Lorebook Repository](#lorebook-repository)
 	- [*Beserk: Golden Age*](#beserk-golden-age)
 	- [*Transformers Beast Wars*](#transformers-beast-wars)
 	- [*Undertale*](#undertale)

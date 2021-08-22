@@ -4,7 +4,7 @@ title: "/aids/ Theme Event Fridays"
 permalink: /fridaids/
 ---
 
-# /aids/ Theme Event Fridays
+# Theme Event Fridays
 
 Sorted in **descending** order of recency, this is a log of all of the theme Friday submissions, starting from mid May 2021. There was [a previous one](https://guide.aidg.club/Resources-And-Guides/aidg%20general/aidg-Fridays.html), but it seems to be kill, so I've created this one as a fresh start.
 
@@ -23,7 +23,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 ## The Log
 
-- [/aids/ Theme Event Fridays](#aids-theme-event-fridays)
+- [Theme Event Fridays](#theme-event-fridays)
   - [Rules](#rules)
   - [The Log](#the-log)
     - [The Friday of *Personality Alteration*](#the-friday-of-personality-alteration)

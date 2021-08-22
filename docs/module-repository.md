@@ -4,7 +4,7 @@ title: "Module Repository"
 permalink: /modules/
 ---
 
-# /aids/ Module Repository
+# Module Repository
 
 Alright, let's do this again.
 
@@ -53,7 +53,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 
 ## [Table of Contents](#modules)
 
-- [/aids/ Module Repository](#aids-module-repository)
+- [Module Repository](#module-repository)
 	- [Recent Changes](#recent-changes)
 	- [Modules](#modules)
 	- [Table of Contents](#table-of-contents)

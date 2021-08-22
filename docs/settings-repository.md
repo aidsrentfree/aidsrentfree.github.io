@@ -3,12 +3,12 @@ layout: page
 title: "Settings Repository"
 permalink: /settings/
 ---
-# /aids/ Settings Repository
+# Settings Repository
 
 *Then he went up from there to Bethel; and as he was going up the road, some youths came from the city and mocked him, and said to him, “Go up, you bald head! Go up, you bald head!” So he turned around and looked at them, and pronounced a curse on them in the name of the Lord. And two female bears came out of the woods and mauled forty-two of the youths.*
 *~Kings 2:23*
 
-- [/aids/ Settings Repository](#aids-settings-repository)
+- [Settings Repository](#settings-repository)
   - ["I don't know anything!" [Work in Progress]](#i-dont-know-anything-work-in-progress)
     - [Randomness](#randomness)
     - [Max and Min Output Length](#max-and-min-output-length)
