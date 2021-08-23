@@ -17,6 +17,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 
 ## Recent Changes
 
+- Added [Western](#western) module
 - Added [Classic Cyberpunk](#classic-cyberpunk) module
 - Added [Jane Austen](#jane-austen) module
 - Added [Erotic Horror](#erotic-horror) module
@@ -25,16 +26,6 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 - Updated [Cass' Cross-Genre: Romance](#cross-genre-romance) module
 - Added [Joe Forest](#joe-forest) module
 - Added [Corruption of Champions](#corruption-of-champions) module
-- Added descriptions to categories and swapped Modules / TOC around.
-- Added [Fantasy Anthro/Monstergirls](#fantasy-anthro) module
-- Added [Futrap](#futrap) module
-- Added [Purely Purple Prose](#purely-purple-prose) module
-- Updated [Futarotica](#futarotica) module
-- Added [Gryphons](#gryphons) module
-- Added [Advertisements](#advertisements) module
-- Added [Pokedex](#pokedex) module
-- Added [Vampire: The Masquerade](#vampire-the-masquerade) module
-- Added [World Generator](#world-generator) module
 - Removed Appendix
 
 ***
@@ -96,6 +87,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [Russian Fantasy and Folklore](#russian-fantasy-and-folklore)
 				- [Star Trek The Next Generation](#star-trek-the-next-generation)
 				- [Vampire: The Masquerade](#vampire-the-masquerade)
+				- [Western](#western)
 				- [Xenoarchaeology and Relics](#xenoarchaeology-and-relics)
 				- [Zombie Apocalypse](#zombie-apocalypse)
 			- [Elements](#elements)
@@ -682,6 +674,14 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 >"You've done well," said Theodora in her most seductive voice. "I am pleased with your progress." She reached out to touch his face as he gazed up at her, but then withdrew her hand. Instead, she leaned forward and whispered into his ear: "There is more work for you to do before I can bestow upon you my favor." Her breath was hot against his neck; it sent shivers down his spine. He trembled, even though he knew that what he felt could not be real. It had all been an illusion—a dream within a dream—but now it seemed very much like reality indeed.
 >
 >She stood back from him, smiling again, although there was no warmth in her expression this time.
+
+##### [Western](https://files.catbox.moe/hlsm2x.zip)
+
+[by Anon](https://arch.b4k.co/vg/thread/348767728/#348780553)
+
+*This is a western model. Trained for about 35% of steps (about 3500) on the following: Butcher's Crossing, Centennial, Hondo, Little Big Man, Lonesome Dove, Riders of the Purple Sage, Shane, The Log of a Cowboy, The Ox-Bow Incident, The Searchers, The Shootist, and True Grit.*
+
+*The archive contains the original EPUBs I worked from, the Pandoc TXT conversion, my edited TXT files, and the module itself.*
 
 ##### [Xenoarchaeology and Relics](https://files.catbox.moe/p3s53j.module)
 
