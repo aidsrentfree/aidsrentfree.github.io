@@ -18,6 +18,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 
 ## Recent Changes
 
+- Added [Erotic Horror](#erotic-horror) module
 - Added [Beastars](#beastars) module
 - Added [Sexual Angels and Promiscuous Demons](#angels-and-demons) module
 - Updated [Cass' Cross-Genre: Romance](#cross-genre-romance) module
@@ -127,6 +128,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [Embarrassed Naked Furry](#embarrassed-naked-furry)
 				- [Embarrassed Naked Female](#embarrassed-naked-female)
 				- [Eroguro](#eroguro)
+				- [Erotic Horror](#erotic-horror)
 				- [Erotic Roleplay](#erotic-roleplay)
 				- [Exponent](#exponent)
 				- [Foot](#foot)
@@ -1114,6 +1116,14 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 *Each story had \*\*\* between them, so typing three asterisks won't start a new chapter but rather a new story.*
 
 *I'm not sure about the best settings for the module, but it seems to be working adequately on the default ones with a lot of hand-holding.*
+
+##### [Erotic Horror](https://files.catbox.moe/xelxsy.module)
+
+[by Basileus](https://discord.com/channels/870618914323849228/870619535600922644/879269158116802570)
+
+*The latest in my series of horror modules. Should be relatively high-quality prose, but tends toward horror as much as erotica (however, I didn't feel like I should post it on the main Discord since it is significantly weighted towards the lewd). Should work reasonably for anything from Eyes Wide Shut or Carmilla to Hellraiser or Agony levels of grotesque delight and dark ecstasy. Some variety of creature/monster stuff in the source material, alongside the more "mundane".*
+
+*6MB, 50%; 16 well-rated and/or top-selling horror and erotic horror anthologies. Since there are dozens of authors, I won't list them all.*
 
 ##### [Erotic Roleplay](https://files.catbox.moe/d6xy6b.module)
 
