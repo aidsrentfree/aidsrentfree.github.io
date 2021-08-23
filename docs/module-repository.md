@@ -18,6 +18,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 
 ## Recent Changes
 
+- Added [Beastars](#beastars) module
 - Added [Sexual Angels and Promiscuous Demons](#angels-and-demons) module
 - Updated [Cass' Cross-Genre: Romance](#cross-genre-romance) module
 - Added [Joe Forest](#joe-forest) module
@@ -32,11 +33,6 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 - Added [Pokedex](#pokedex) module
 - Added [Vampire: The Masquerade](#vampire-the-masquerade) module
 - Added [World Generator](#world-generator) module
-- Created a [Utilities](#utilities) category for notable micro modules
-- Updated [Alien Franchise](#alien-franchise) module with minor update
-- Added [Shirley Jackson](#shirley-jackson) module
-- Added [Marmota Nights + Sex and Sex Again](#sex-and-marmota-nights) module
-- Added [NSFW Androids, Robots and Aliens](#androids-robots-aliens-harems) module
 - Removed Appendix
 
 ***
@@ -81,6 +77,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [Action Movies](#action-movies)
 				- [Ancient Rome](#ancient-rome)
 				- [AR Video Game Reality](#ar-video-game-reality)
+				- [Beastars](#beastars)
 				- [Cyberpunk 2222](#cyberpunk-2222)
 				- [Dark Academia](#dark-academia)
 				- [Folk Fantasy](#folk-fantasy)
@@ -458,6 +455,12 @@ She walked into the living room and dropped her bag by the couch. Her mother's v
 >Yoshi sees this coming and jumps over to where I am lying on the ground. I get ready to knock him away again, when suddenly he turns into a mushroom! Then he flies straight through the wall and disappears. The game ends as soon as Yoshi loses all his lives.
 >
 >I look up at the clock and see that I just barely beat him in time. Yoshi gets 3 points and I get 5. This makes my total score 30 points.
+
+##### [Beastars](https://files.catbox.moe/a9an3f.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/348541970/#348673138)
+
+*This is my first time training a module with a lot of data so I would like any comments and/or criticisms from those who are interested. It's only been trained off of the best rated stories off of AO3, about fifty or so stories which adds up to 7.43 MB of data. Trained to 34%, exactly 3000 steps.*
 
 ##### [Cyberpunk 2222](https://files.catbox.moe/mmaeka.module)
 
