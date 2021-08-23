@@ -393,7 +393,7 @@ She walked into the living room and dropped her bag by the couch. Her mother's v
 
 *I'm new to training the AI though, so I only went for 100% of the training (so about 1500 steps), I don't really know if that's enough or not.*
 
-##### [Prinny](https://filebin.net/e7chgpd0zturm19y)
+##### [Prinny](https://files.catbox.moe/d669ox.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/345358791/#345486924)
 
