@@ -4,11 +4,11 @@ title: "Module Repository"
 permalink: /modules/
 ---
 
-# Module Repository
+# /aids/ Rent-Free Module Repository
 
 Alright, let's do this again.
 
-Just like the [other](https://aidsrentfree.github.io/settings) [two](https://aidsrentfree.github.io/lorebooks) rentries, this one serves to be a not-on-discord log of notable NovelAI modules that Anons and others create.
+Just like the [other](https://rentry.co/settings) [two](https://rentry.co/lorebooks) rentries, this one serves to be a not-on-discord log of notable NovelAI modules that Anons and others create.
 
 All the questions you'd need answered about the concept can be found on NAI's [medium blogpost](https://novelai.medium.com/custom-ai-modules-dbc527d66081), but I expect more information to come out as we continue experimenting with this feature.
 
@@ -18,6 +18,8 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 
 ## Recent Changes
 
+- Added [Classic Cyberpunk](#classic-cyberpunk) module
+- Added [Jane Austen](#jane-austen) module
 - Added [Erotic Horror](#erotic-horror) module
 - Added [Beastars](#beastars) module
 - Added [Sexual Angels and Promiscuous Demons](#angels-and-demons) module
@@ -50,7 +52,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 
 ## [Table of Contents](#modules)
 
-- [Module Repository](#module-repository)
+- [/aids/ Rent-Free Module Repository](#aids-rent-free-module-repository)
 	- [Recent Changes](#recent-changes)
 	- [Modules](#modules)
 	- [Table of Contents](#table-of-contents)
@@ -62,6 +64,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [George Orwell](#george-orwell)
 				- [Hunter S. Thompson](#hunter-s-thompson)
 				- [J. R. R. Tolkien](#j-r-r-tolkien)
+				- [Jane Austen](#jane-austen)
 				- [Oscar Wilde](#oscar-wilde)
 				- [Rod Serling](#rod-serling)
 				- [Shirley Jackson](#shirley-jackson)
@@ -79,6 +82,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [Ancient Rome](#ancient-rome)
 				- [AR Video Game Reality](#ar-video-game-reality)
 				- [Beastars](#beastars)
+				- [Classic Cyberpunk](#classic-cyberpunk)
 				- [Cyberpunk 2222](#cyberpunk-2222)
 				- [Dark Academia](#dark-academia)
 				- [Folk Fantasy](#folk-fantasy)
@@ -305,6 +309,16 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 
 *The full text of The Hobbit, Lord of The Rings and The Silmarillion.*
 
+##### [Jane Austen](https://files.catbox.moe/v8g63f.module)
+
+[by GelatinousLunch](https://discord.com/channels/836774308772446268/870449646391156776/879348810550231090)
+
+*A module from all of Jane Austen major novels and the unfinished Sanditon. The first was trained to 100% and the second to 30%, so the former is good for living in the worlds of the novels, a la Lost in Austen, while the latter sticks a little less closely to the characters and locations from the novels.*
+
+*(4.4 mb, ~4000 steps, 100% coverage)*
+
+[30% Trained ver.](https://files.catbox.moe/m77dti.module)
+
 ##### [Oscar Wilde](https://files.catbox.moe/ojdf8x.module)
 
 [by Jorgith Blastercrotch](https://discord.com/channels/836774308772446268/870449646391156776/871265822704803910)
@@ -334,7 +348,8 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 >\*\*\*
 >
 >The moment she opened the door to her apartment, a wave of heat and light hit her. The sun was setting behind the building across from hers, but it still managed to illuminate everything inside. She could see every detail in the room: the bare white walls; the kitchen counter with its old-fashioned wooden cabinets; the framed poster on the wall that said "I My Mom." It had been there for as long as she'd lived here—she remembered when she'd gotten it at an art fair downtown. A small smile played over her lips. She loved this place. This neighborhood. And most importantly, she loved her mom.
-She walked into the living room and dropped her bag by the couch. Her mother's voice came through the open window.
+>
+>She walked into the living room and dropped her bag by the couch. Her mother's voice came through the open window.
 >
 >"You're home!" she yelled out.
 >
@@ -463,6 +478,20 @@ She walked into the living room and dropped her bag by the couch. Her mother's v
 [by Anon](https://arch.b4k.co/vg/thread/348541970/#348673138)
 
 *This is my first time training a module with a lot of data so I would like any comments and/or criticisms from those who are interested. It's only been trained off of the best rated stories off of AO3, about fifty or so stories which adds up to 7.43 MB of data. Trained to 34%, exactly 3000 steps.*
+
+##### [Classic Cyberpunk](https://files.catbox.moe/9v2y8w.module)
+
+[by TravelingRobot](https://discord.com/channels/836774308772446268/870449646391156776/879362003355983902)
+
+*Get you leather jackets and shades to step out into the neon-filled sprawls of the near future! Trained on classic cyberpunk work, mostly from the 80s. So expect more of a retro-Cyberpunk experience. The cyberpunk genre is a bit hard to pin down, and I selected broad selection of works. So this might need a bit of handholding at first to produce the themes you are going for. I do not have time to extensively test modules at the moment, so if you end up using this feel free to ping me about your experiences with the module!*
+
+*5.52MB, 2000 steps, 31% coverage*
+
+>Ghost walked into Club Penumbra and let the beat fill him. He wished he wasn't hunting business.
+>
+>The last thing he wanted was to be caught in a firefight, but that's what you got for going after an old man who doesn't want to die yet.
+>
+>He looked around at the other people dancing or just standing there watching the music play. They were all so young: most of them hadn't even been born when Ghost had started out as a street punk on the West Coast. You could tell they didn't know any better; their clothes weren't too different from those worn by his own generation back then.
 
 ##### [Cyberpunk 2222](https://files.catbox.moe/mmaeka.module)
 
@@ -1054,7 +1083,6 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 *This was an experiment in seeing if we could use higher quality sourced erotica around a theme; these were all sourced from bought ebooks, in the theory that you get what you pay for.*
 
 >**\*\*\***
->
 >**The alien gazed at me with desire in its eyes.** I couldn't help but feel a stirring inside of my loins as it continued to stare into my soul, and the longer we looked at each other, the more I wanted this creature. It was an animalistic thing that drew on primal instincts; I could see how it had been able to take over so many humans and assimilate them into their society. And now it wanted me? The thought made my heart race with excitement. If only it were possible for us to have sex...
 >
 >"You are very beautiful," I said after a moment's pause. "I would like to touch you." My voice sounded strange coming from my mouth, and there was something different about my face, too. I wasn't sure what exactly changed when I spoke, but it seemed to make my speech slightly slurred. But then again, maybe that was just because I'd been drinking wine all night. Either way, I didn't care if I stumbled or stuttered. All I cared about right now was getting close enough to kiss this sexy alien girl.
@@ -1930,11 +1958,10 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 
 *Surprisingly, doesn't go schizo mode every other paragraph as one based on official books.*
 
-*My first attempt. Something I wanted to try so I've written a script that downloads all search results from there, then converted them to TXTs, parsed with another script to all weird quotation marks and multiple newlines.*
+*My first attempt. Something I wanted to try so I've written a script that downloads all search results from there, then converted them to TXTs, parsed with another script to all weird quotation marks and multiple newlines.
+Had to manually remove shit ton of author notes.*
 
-*Had to manually remove shit ton of author notes.*
-
-*Finally combined into a single file while wrapping each with <\|startoftext\|> and <\|endoftext\|>.*
+*Finally combined into a single file while wrapping each with <|startoftext|> and <|endoftext|>.*
 
 ##### [Homestuck](https://files.catbox.moe/x5svnd.module)
 
@@ -1998,7 +2025,8 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 >\- Roar
 >
 >HP EVs into Defense to raise its bulk and defense. It also helps lower the risk of status ailments. The special attack is for a bit more power when fighting in groups. Speed allows it to close on opponents quickly.
-Description: Lion is a large quadrupedal Pokémon with red fur and yellow stripes on its back. Its ears are long and pointed, while it has two small black spots near the tip of each ear. It also has a white mane that hangs down past its neck, and it has three pairs of orange eyes with green irises. On top of its head sits an elongated horn that curves up to its forehead, giving it a triangular shape overall.
+>
+>Description: Lion is a large quadrupedal Pokémon with red fur and yellow stripes on its back. Its ears are long and pointed, while it has two small black spots near the tip of each ear. It also has a white mane that hangs down past its neck, and it has three pairs of orange eyes with green irises. On top of its head sits an elongated horn that curves up to its forehead, giving it a triangular shape overall.
 
 *You can also try different prompts as it is quite flexible in generating stat blocks and fantasy creature descriptions.*
 
