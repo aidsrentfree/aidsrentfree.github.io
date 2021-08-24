@@ -145,11 +145,11 @@ If brackets are still useful to you—that is, you constantly encounter the AI r
 
 #### You're a liar! I went ahead and wrote all of my character descriptions in prose, and the AI is confusing them!
 
-That's probably because you referred to them using a lot of pronouns. You should stop doing this right away.
+That's probably because you're using a lot of pronouns. You should stop doing that.
 
-When you start a lot of sentences with "He" or "She" the AI isn't smart enough to figure out who you're talking about in complex situations, so it's best to keep it under control in your stories. It's fine if the story only has a few characters, but if there are a lot (especially of the same gender), you'll probably run into a lot of situations where the AI thinks the "She" you're referring to is someone else entirely. These pronouns are simply too generic (most of the time) to use when describing a character, so avoid using them in such descriptions as much as possible.
+When you start a lot of sentences with "He" or "She" the AI isn't smart enough to figure out who you're talking about during complex situations, so it's best to keep it under control in your stories. It's fine if the story only has a few characters, but if there are a lot (especially of the same gender), you'll get moments where the AI thinks the "She" you're referring to is someone else. These pronouns are simply too generic to use when describing a character, so avoid using them in such descriptions as much as possible.
 
-This can be accomplished by starting sentences describing a character with names, nicknames, or titles that are unique to them rather than pronouns. Make sure that whatever attributes or titles you use for them are unique to them only throughout the paragraph. Keep track of the adjectives and phrases you've used for each character; otherwise, the AI won't know which "blond girl" you're talking about, and your efforts will be for naught.
+This can be accomplished by starting sentences describing a character with names, nicknames, or titles that define them rather than pronouns. Make sure that whatever attributes or traits you use for them **are unique to them only**, if there are some that are common then describe them in radically different ways to minimize overlap. Keep track of the adjectives and phrases you've used for each character; the AI won't know which "blond girl" you're talking about if they're all referred to as such, and your efforts will be for naught.
 
 In other words, [do something like this](https://rentry.co/aidg-format), though **it's best to cycle through all the titles they have to make sure the AI doesn't pick up on ONLY referring to them by their name.**
 
