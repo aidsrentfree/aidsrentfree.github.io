@@ -17,6 +17,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 
 ## Recent Changes
 
+- Added [Prison](#prison) module
 - Added [Gardevoir](#gardevoir) module
 - Added [ENF Third Person](#embarrassed-naked-female-third-person) module
 - Added [Lesbémon](#lesbémon) module and finally added that accented e
@@ -87,6 +88,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [Norse](#norse)
 				- [Poetic Fantasy](#poetic-fantasy)
 				- [Post-Apocalyptic Fallout](#post-apocalyptic-fallout)
+				- [Prison](#prison)
 				- [Russian Fantasy and Folklore](#russian-fantasy-and-folklore)
 				- [Star Trek The Next Generation](#star-trek-the-next-generation)
 				- [Vampire: The Masquerade](#vampire-the-masquerade)
@@ -648,6 +650,16 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 >"Ah! A woman Ranger. You must make good use of her skills." His eyes glittered ferally as they focused on Snowman. "She can help you find more women to eat."
 >
 >Walker scowled. This was hardly the time for leering at another human being.
+
+##### [Prison](https://files.catbox.moe/fxjgms.rar)
+
+[by Anon](https://arch.b4k.co/vg/thread/348767728/#348839824)
+
+*Here it is. The prison module along with the finetune data, sources, and rejected sources. I added these things in case anybody wanted to improve upon it.*
+
+*It adds up to 7MB of data trained at 35%. I've used up my steps for this month so I really hope that I got this right.*
+
+*If there's anybody that's interested in using this module please feel free to give me feedback on how well (or how shittily) it is.*
 
 ##### [Russian Fantasy and Folklore](https://files.catbox.moe/08g7lc.module)
 
