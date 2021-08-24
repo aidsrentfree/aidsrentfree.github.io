@@ -3,7 +3,6 @@ layout: page
 title: "Frequently Asked Questions"
 permalink: /faq/
 ---
-
 # The Frequently Asked Questions Rent-Free
 
 Perhaps you may not have noticed, but a lot of us are quite bored of answering the same questions over and over again. Things have changed since March of this year, and so a new FAQ needs to exist so new or returning anons can come here instead of asking the same shit **over** and **over** ***again***.
@@ -148,13 +147,13 @@ If brackets are still useful to you—that is, you constantly encounter the AI r
 
 That's probably because you referred to them using a lot of pronouns. You should stop doing this right away.
 
-In complex situations, the AI isn't smart enough to figure out who you're talking about when you start sentences with "He" or "She" It's fine if there are only a few characters in the story, but if there are several (especially of the same gender), you'll probably encounter many instances where the AI incorrectly believes that the "She" you're referring to at the story is of a different character entirely. These pronouns are simply too generic (most of the time) to describe a specific character, so avoid using them whenever possible.
+When you start a lot of sentences with "He" or "She" the AI isn't smart enough to figure out who you're talking about in complex situations, so it's best to keep it under control in your stories. It's fine if the story only has a few characters, but if there are a lot (especially of the same gender), you'll probably run into a lot of situations where the AI thinks the "She" you're referring to is someone else entirely. These pronouns are simply too generic (most of the time) to use when describing a character, so avoid using them in such descriptions as much as possible.
 
-This can be avoided by simply not doing so and instead beginning sentences describing a character with names, nicknames, or titles that are specific to them. Make the entire paragraph so that the words you use to describe them are unique to them only. When describing them, avoid using the same adjectives and phrases as much as possible; otherwise, the AI will become confused about which "blond girl" you're referring to, and your efforts will have been in vain.
+This can be accomplished by starting sentences describing a character with names, nicknames, or titles that are unique to them rather than pronouns. Make sure that whatever attributes or titles you use for them are unique to them only throughout the paragraph. Keep track of the adjectives and phrases you've used for each character; otherwise, the AI won't know which "blond girl" you're talking about, and your efforts will be for naught.
 
 In other words, [do something like this](https://rentry.co/aidg-format), though **it's best to cycle through all the titles they have to make sure the AI doesn't pick up on ONLY referring to them by their name.**
 
-This is one of the few understandable occasions when breaking traditional writing conventions can actually benefit you; however, don't use this as an excuse to go crazy with formatting or incorrect bracket usage. I'm sure this goes without saying, but in the actual story itself, you don't have to employ this writing style — that would just be dumb.
+This is one of the few times when deviating from standard writing conventions can actually help you; however, don't use this as an excuse to go crazy with formatting or bracket usage. This should go without saying, but you don't have to use this writing style in the story itself — that would be silly.
 
 ***
 
