@@ -17,6 +17,9 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 
 ## Recent Changes
 
+- Added [Gardevoir](#gardevoir) module
+- Added [ENF Third Person](#embarrassed-naked-female-third-person) module
+- Added [Lesbémon](#lesbémon) module and finally added that accented e
 - Added [Western](#western) module
 - Added [Classic Cyberpunk](#classic-cyberpunk) module
 - Added [Jane Austen](#jane-austen) module
@@ -122,6 +125,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [Dragon Smut](#dragon-smut)
 				- [Embarrassed Naked Furry](#embarrassed-naked-furry)
 				- [Embarrassed Naked Female](#embarrassed-naked-female)
+				- [Embarrassed Naked Female (Third Person)](#embarrassed-naked-female-third-person)
 				- [Eroguro](#eroguro)
 				- [Erotic Horror](#erotic-horror)
 				- [Erotic Roleplay](#erotic-roleplay)
@@ -130,16 +134,18 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [Furcest](#furcest)
 				- [Futarotica](#futarotica)
 				- [Futrap](#futrap)
+				- [Gardevoir](#gardevoir)
 				- [Gay Fantasy](#gay-fantasy)
 				- [Gay Hyper Muscle Growth](#gay-hyper-muscle-growth)
 				- [Gay Monsterfucking](#gay-monsterfucking)
-				- [Gaykemon](#gaykemon)
+				- [Gaykémon](#gaykémon)
 				- [Gender Bender](#gender-bender)
 				- [Genroku Ero](#genroku-ero)
 				- [Giantess](#giantess)
 				- [Giantess World](#giantess-world)
 				- [Fantasy Anthro](#fantasy-anthro)
 				- [/hmofa/](#hmofa)
+				- [Lesbémon](#lesbémon)
 				- [Loli](#loli)
 				- [Magic Mind Control](#magic-mind-control)
 				- [Master PC Collection](#master-pc-collection)
@@ -150,7 +156,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [Mysterotica](#mysterotica)
 				- [Netorare](#netorare)
 				- [NonConsent and Reluctance](#nonconsent-and-reluctance)
-				- [Pokemon](#pokemon)
+				- [Pokémon](#pokémon)
 				- [Raunchy](#raunchy)
 				- [Same Size Vore](#same-size-vore)
 				- [Sexfighting](#sexfighting)
@@ -220,7 +226,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [Trial By Tenderness](#trial-by-tenderness)
 		- [Utilities](#utilities)
 			- [Advertisements](#advertisements)
-			- [Pokedex](#pokedex)
+			- [Pokédex](#pokédex)
 			- [World Generator](#world-generator)
 
 ***
@@ -1130,6 +1136,14 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *Fempov, First Person recommended.*
 
+##### [Embarrassed Naked Female (Third Person)](https://files.catbox.moe/fnf1im.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/348767728/#348799156)
+
+*It should be similar to the ENF fempov module, except, well, third person.*
+
+*(For a fun time, start a new story with a female name and a verb, and just keep generating)*
+
 ##### [Eroguro](https://files.catbox.moe/fc47pg.module)
 
 [by NTaya](https://discord.com/channels/870618914323849228/870619535600922644/870731919174823936)
@@ -1206,6 +1220,12 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *About 500kb of text trained with 100% steps. Apparently for fetish stuff from smaller data you're supposed to use 100% so I did that.*
 
+##### [Gardevoir](https://files.catbox.moe/jx0a7j.module)
+
+[by](https://arch.b4k.co/vg/thread/348767728/#348835382) [Anons](https://arch.b4k.co/vg/thread/348767728/#348837338)
+
+*~2700 steps, module made out of 1.79 KB of Gardevoir fanfiction.*
+
 ##### [Gay Fantasy](https://files.catbox.moe/64f337.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/345615202/#345739496)
@@ -1226,7 +1246,7 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *Hand-selected M/M monster and anthro fics from sites like Literotica, SoFurry, Furaffinity and AO3. Excludes any extreme fetishes like watersports and vore. 108 fics, 2.60mb, trained at 49.55% for 1506 steps.*
 
-##### [Gaykemon](https://files.catbox.moe/g7gd2q.module)
+##### [Gaykémon](https://files.catbox.moe/g7gd2q.module)
 
 [by KeinNiemand](https://discord.com/channels/854479693503660032/870494065446248458/871003925682225212)
 
@@ -1291,6 +1311,12 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 *4.74mb, 2400~ish steps*
 
 *A collection of various /hmofa/ greentexts, prose stories, and a few entries from Snek's Pinwheel series.*
+
+##### [Lesbémon](https://files.catbox.moe/t9kik9.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/348767728/#348846853)
+
+*Trained on all the reasonably decent feral f/f shit I could find. (there isn't much)*
 
 ##### [Loli](https://files.catbox.moe/eg1bvo.rar)
 
@@ -1394,7 +1420,7 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 >
 >He did neither.
 
-##### [Pokemon](https://files.catbox.moe/yr1397.module)
+##### [Pokémon](https://files.catbox.moe/yr1397.module)
 
 [by Somdudwilson](https://discord.com/channels/854479693503660032/870494065446248458/870877479693328385)
 
@@ -2002,7 +2028,7 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 >
 >The world has gone through a revolution. It is no longer enough simply to build. To survive and succeed now requires a total commitment to your art, a passion for innovation. For the next generation's greatest work. And this is our pledge to you... from Ford... a full spectrum of vehicles that are designed to make life more enjoyable, more exciting. Because when life's fun-a Ford!
 
-#### [Pokedex](https://files.catbox.moe/xoh3jy.module)
+#### [Pokédex](https://files.catbox.moe/xoh3jy.module)
 
 [by lion](https://discord.com/channels/836774308772446268/870449646391156776/872058262000894012)
 
