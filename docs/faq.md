@@ -4,7 +4,7 @@ title: "Frequently Asked Questions"
 permalink: /faq/
 ---
 
-# Frequently Asked Questions
+# The Frequently Asked Questions Rent-Free
 
 Perhaps you may not have noticed, but a lot of us are quite bored of answering the same questions over and over again. Things have changed since March of this year, and so a new FAQ needs to exist so new or returning anons can come here instead of asking the same shit **over** and **over** ***again***.
 
@@ -12,7 +12,7 @@ Once again, out of respect for what was before, [here's a link to the original F
 
 ***
 
-- [Frequently Asked Questions](#frequently-asked-questions)
+- [The Frequently Asked Questions Rent-Free](#the-frequently-asked-questions-rent-free)
   - [Context](#context)
     - [So what's the current situation?](#so-whats-the-current-situation)
     - [What the fuck happened to AI Dungeon?](#what-the-fuck-happened-to-ai-dungeon)
@@ -24,7 +24,8 @@ Once again, out of respect for what was before, [here's a link to the original F
   - [Storyteller Agnostic](#storyteller-agnostic)
     - [I'd like more surprise in my stories](#id-like-more-surprise-in-my-stories)
     - [How should I style my Author's Note/Memory/World Info?](#how-should-i-style-my-authors-notememoryworld-info)
-    - [But what about brackets! They—](#but-what-about-brackets-they)
+      - [But what about brackets! They—](#but-what-about-brackets-they)
+      - [You're a liar! I went ahead and wrote all of my character descriptions in prose, and the AI is confusing them!](#youre-a-liar-i-went-ahead-and-wrote-all-of-my-character-descriptions-in-prose-and-the-ai-is-confusing-them)
   - [NovelAI](#novelai)
     - [What is NovelAI?](#what-is-novelai)
     - [How much does NovelAI cost?](#how-much-does-novelai-cost)
@@ -97,8 +98,11 @@ GPT-6B-J can't compete with Dragon's highest highs, and it can't hope to achieve
 
 And now, with Latitude's [new setup](#what-the-fuck-happened-to-ai-dungeon), you probably won't be getting a lot of outputs from 175B Dragon regardless. [The newly implemented OpenAI filter is notorious for being even stricter](https://beta.openai.com/docs/engines/content-filter) than anything Mormon could come up with, which means that a lot of your "unsafe" outputs will just be from a custom GPT-6B-J anyway.
 
->*That filter often blocks even mild fantasy violence, which would obviously hurt the magic of AI Dungeon—we believe that you should be able to fight off bandits, slay dragons, and have all of the kinds of epic adventures that make AI Dungeon so fun.*
-[~ Latitude *on OpenAI's filter*](https://latitude.io/blog/a-new-story-experience/)
+!!! note
+
+	*That filter often blocks even mild fantasy violence, which would obviously hurt the magic of AI Dungeon—we believe that you should be able to fight off bandits, slay dragons, and have all of the kinds of epic adventures that make AI Dungeon so fun.*
+
+	->[*Latitude on OpenAI's filter*](https://latitude.io/blog/a-new-story-experience/)->
 
 ***
 
@@ -108,8 +112,11 @@ And now, with Latitude's [new setup](#what-the-fuck-happened-to-ai-dungeon), you
 
 For what we're doing? There's barely a difference anymore.
 
->*If your story triggers OpenAI’s filters it will be handled by our own models rather than resulting in account suspension. We will still use and continue to work on our own filters to enforce our content policies, but they will be much more carefully targeted, ensuring that you aren’t unfairly penalized for incorrectly flagged content.*
-[~ Latitude *on their new filter system*](https://latitude.io/blog/a-new-story-experience/)
+!!! note
+
+	*If your story triggers OpenAI’s filters it will be handled by our own models rather than resulting in account suspension. We will still use and continue to work on our own filters to enforce our content policies, but they will be much more carefully targeted, ensuring that you aren’t unfairly penalized for incorrectly flagged content.*
+
+	->[*Latitude on their new filter system*](https://latitude.io/blog/a-new-story-experience/)->
 
 ### Is it as good as Davinci?
 
@@ -127,7 +134,7 @@ Consider using "Suddenly," in your inputs, or specifically noting the fast-paced
 
 For a majority of the time, you should do nothing else other than making it in the tense, perspective, and writing style of your main prompt. More so than ever before, memory formatting has no reason to exist; with 1024 - 2048 tokens max that these new storytellers work with, you shouldn't be in many situations where you run out of space for all your prose entries.
 
-### But what about brackets! They—
+#### But what about brackets! They—
 
 Are primarily useful for single sentences; otherwise, the main point of "stopping the AI from regurgitating your output" becomes less obvious.
 
@@ -136,6 +143,18 @@ If you put an entire paragraph in brackets, the AI will be less likely to regurg
 And that doesn't even take into account the fact that the AI still recognizes it as part of the context and may pick up your shit prose anyway.
 
 If brackets are still useful to you—that is, you constantly encounter the AI repeating your stuff verbatim or just get better stuff with it—then you're probably going to use them anyway. If they don't, or you can't tell, don't rely on brackets for any more than short sentence hinting.
+
+#### You're a liar! I went ahead and wrote all of my character descriptions in prose, and the AI is confusing them!
+
+That's probably because you referred to them using a lot of pronouns. You should stop doing this right away.
+
+In complex situations, the AI isn't smart enough to figure out who you're talking about when you start sentences with "He" or "She" It's fine if there are only a few characters in the story, but if there are several (especially of the same gender), you'll probably encounter many instances where the AI incorrectly believes that the "She" you're referring to at the story is of a different character entirely. These pronouns are simply too generic (most of the time) to describe a specific character, so avoid using them whenever possible.
+
+This can be avoided by simply not doing so and instead beginning sentences describing a character with names, nicknames, or titles that are specific to them. Make the entire paragraph so that the words you use to describe them are unique to them only. When describing them, avoid using the same adjectives and phrases as much as possible; otherwise, the AI will become confused about which "blond girl" you're referring to, and your efforts will have been in vain.
+
+In other words, [do something like this](https://rentry.co/aidg-format), though **it's best to cycle through all the titles they have to make sure the AI doesn't pick up on ONLY referring to them by their name.**
+
+This is one of the few understandable occasions when breaking traditional writing conventions can actually benefit you; however, don't use this as an excuse to go crazy with formatting or incorrect bracket usage. I'm sure this goes without saying, but in the actual story itself, you don't have to employ this writing style — that would just be dumb.
 
 ***
 
@@ -161,10 +180,10 @@ Currently NovelAI has two, Calliope and Sigurd. Both of which are fine-tuned on 
 
 Calliope is GPT-Neo (2.7B parameters) while Sigurd is GPT-6B-J.
 
->Sigurd is the name of NovelAI fine-tuned GPT-J-6B model. This model launched during the Beta as an Experimental Feature for our opus tier subscribers and has since been rolled out to all tiers. Newer Sigurd models will continue to release as Experimental Feature for Opus subscribers first.
->
->Sigurd is a much bigger model and response times are a little slower in comparison to Calliope, our 2.7B model.
-~ *NovelAI’s FAQ*
+> Sigurd is the name of NovelAI fine-tuned GPT-J-6B model. This model launched during the Beta as an Experimental Feature for our opus tier subscribers and has since been rolled out to all tiers. Newer Sigurd models will continue to release as Experimental Feature for Opus subscribers first.
+> Sigurd is a much bigger model and response times are a little slower in comparison to Calliope, our 2.7B model.
+
+*NovelAI’s FAQ*
 
 ### What do we know about their fine-tuning dataset?
 
