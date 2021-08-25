@@ -17,6 +17,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 
 ## Recent Changes
 
+- Updated [Lesbémon](#lesbémon) module
 - Added [Prison](#prison) module
 - Added [Gardevoir](#gardevoir) module
 - Added [ENF Third Person](#embarrassed-naked-female-third-person) module
@@ -1324,11 +1325,13 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *A collection of various /hmofa/ greentexts, prose stories, and a few entries from Snek's Pinwheel series.*
 
-##### [Lesbémon](https://files.catbox.moe/t9kik9.module)
+##### [Lesbémon](https://files.catbox.moe/066m6k.zip)
 
-[by Anon](https://arch.b4k.co/vg/thread/348767728/#348846853)
+[by Anon](https://arch.b4k.co/vg/thread/348943230/#348975147)
 
-*Trained on all the reasonably decent feral f/f shit I could find. (there isn't much)*
+*Trained on all the feral f/f pokeporn I could find, no nasty humans or dudes here."*
+
+*Now includes Pokedex entries in the training data itself, which are based on the ones in the 3rd gen lorebook that's floating around. The same ones are in the included scenario; however, they've been modified to be past tense and scrubbed of mentions of trainers and battling, to better match the viewpoint, tense, and themes of the stories chosen for inclusion.*
 
 ##### [Loli](https://files.catbox.moe/eg1bvo.rar)
 
