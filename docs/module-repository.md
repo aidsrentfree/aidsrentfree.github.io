@@ -17,6 +17,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 
 ## Recent Changes
 
+- Added [Prose Focused Second Person](#second-proseon) module
 - Updated [Lesbémon](#lesbémon) module
 - Added [Prison](#prison) module
 - Added [Gardevoir](#gardevoir) module
@@ -113,6 +114,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [Melee Combat](#melee-combat)
 				- [Purely Purple Prose](#purely-purple-prose)
 				- [Second Person](#second-person)
+				- [Second Proseon](#second-proseon)
 				- [Surrealistic Look Through The Glass](#surrealistic-look-through-the-glass)
 				- [Sweet Time](#sweet-time)
 				- [Twilight 2000 (Encounters)](#twilight-2000-encounters)
@@ -965,6 +967,17 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 [by eliminable](https://discord.com/channels/836774308772446268/870449646391156776/870675442791759872)
 
 *For anyone wanting AID-like 2nd person stories, this makes it way better at 2nd person. It's trained on some of the AID dataset so Count Grey might show up lol.*
+
+##### [Second Proseon](https://files.catbox.moe/sic60c.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/348943230/#349074308)
+
+*Module to make NAI better at 2nd person. No textadventures used in this, but the main themes of the module are still...*
+- *Respect*
+- *Fantasy races*
+- *Monster girls*
+
+*I'll improve on this more in the future, it can be better.*
 
 ##### [Surrealistic Look Through The Glass](https://files.catbox.moe/eut7pg.module)
 
