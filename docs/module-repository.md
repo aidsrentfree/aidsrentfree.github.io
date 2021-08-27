@@ -17,6 +17,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 
 ## Recent Changes
 
+- Updated [Sexfighting](#sexfighting) module
 - Updated [Lesbémon](#lesbémon) once again
 - Added [Prose Focused Second Person](#second-proseon) module
 - Added [Prison](#prison) module
@@ -1462,11 +1463,11 @@ Mostly male human x female pokemon, but there are a few in there that contain ma
 
 *An anon was generous enough to train this out. If any other vorefrens are out there, give it a shot and see how well it works.*
 
-##### [Sexfighting](https://files.catbox.moe/p836q3.module)
+##### [Sexfighting](https://files.catbox.moe/3bpil8.module)
 
-[by L. Horatius Catullus](https://discord.com/channels/870618914323849228/870619535600922644/872144656291463188)
+[by L. Horatius Catullus](https://discord.com/channels/870618914323849228/870619535600922644/880421244405710868)
 
-*A set of 'sexfighting' stories, which is to say stories focused on erotic combat or sexual competition. Mostly sourced from private stuff I did and roleplays, but a few off Literotica and other places as well. May and may not (didn't check) include loli and/or bestiality. May and may not include characters from established properties/fanfic. Can get gory. Straight stories tend to be more sexual, lesbians tend to be more violent. Gonna tag anything that might be in there just to be sure. If something pops up that I didn't tag let me know and I'll add it.*
+*A new Sexfighting model, trained on a smaller but more specific dataset.*
 
 ##### [Shrunken Women](https://files.catbox.moe/opsw6t.module)
 
