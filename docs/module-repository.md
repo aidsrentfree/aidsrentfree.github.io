@@ -17,21 +17,11 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 
 ## Recent Changes
 
+- Updated [Lesbémon](#lesbémon) once again
 - Added [Prose Focused Second Person](#second-proseon) module
-- Updated [Lesbémon](#lesbémon) module
 - Added [Prison](#prison) module
 - Added [Gardevoir](#gardevoir) module
 - Added [ENF Third Person](#embarrassed-naked-female-third-person) module
-- Added [Lesbémon](#lesbémon) module and finally added that accented e
-- Added [Western](#western) module
-- Added [Classic Cyberpunk](#classic-cyberpunk) module
-- Added [Jane Austen](#jane-austen) module
-- Added [Erotic Horror](#erotic-horror) module
-- Added [Beastars](#beastars) module
-- Added [Sexual Angels and Promiscuous Demons](#angels-and-demons) module
-- Updated [Cass' Cross-Genre: Romance](#cross-genre-romance) module
-- Added [Joe Forest](#joe-forest) module
-- Added [Corruption of Champions](#corruption-of-champions) module
 - Removed Appendix
 
 ***
@@ -1338,13 +1328,15 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *A collection of various /hmofa/ greentexts, prose stories, and a few entries from Snek's Pinwheel series.*
 
-##### [Lesbémon](https://files.catbox.moe/066m6k.zip)
+##### [Lesbémon](https://files.catbox.moe/zcf0k2.zip)
 
-[by Anon](https://arch.b4k.co/vg/thread/348943230/#348975147)
+[by Anon](https://arch.b4k.co/vg/thread/349183364/#349192024)
 
-*Trained on all the feral f/f pokeporn I could find, no nasty humans or dudes here."*
+*Trained on feral f/f pokesex, as well as prose-ified gen 3 pokedex entries.*
 
-*Now includes Pokedex entries in the training data itself, which are based on the ones in the 3rd gen lorebook that's floating around. The same ones are in the included scenario; however, they've been modified to be past tense and scrubbed of mentions of trainers and battling, to better match the viewpoint, tense, and themes of the stories chosen for inclusion.*
+*In this iteration, I added a couple more stories as well as some of the better output from the previous model.*
+
+*Includes scenario for pokedex general world info, plus banned tokens to keep disgusting humans and dicks out.*
 
 ##### [Loli](https://files.catbox.moe/eg1bvo.rar)
 
