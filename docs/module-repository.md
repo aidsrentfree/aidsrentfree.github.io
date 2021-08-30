@@ -17,9 +17,9 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 
 ## Recent Changes
 
+- Updated [Second Proseon](#second-proseon) module
 - Updated [Sexfighting](#sexfighting) module
 - Updated [Lesbémon](#lesbémon) once again
-- Added [Prose Focused Second Person](#second-proseon) module
 - Added [Prison](#prison) module
 - Added [Gardevoir](#gardevoir) module
 - Added [ENF Third Person](#embarrassed-naked-female-third-person) module
@@ -959,14 +959,11 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *For anyone wanting AID-like 2nd person stories, this makes it way better at 2nd person. It's trained on some of the AID dataset so Count Grey might show up lol.*
 
-##### [Second Proseon](https://files.catbox.moe/sic60c.module)
+##### [Second Proseon](https://files.catbox.moe/ya8awm.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/348943230/#349074308)
 
-*Module to make NAI better at 2nd person. No textadventures used in this, but the main themes of the module are still...*
-- *Respect*
-- *Fantasy races*
-- *Monster girls*
+*Final version of 2nd person respect module. If you need respect, slavery, corruption with a focus on magic or fantasy creatures or whatever people, this should work.*
 
 *I'll improve on this more in the future, it can be better.*
 
