@@ -17,6 +17,12 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 
 ## Recent Changes
 
+- Added [LitRPG](#litrpg) module
+- Added [Forgotten Realms](#forgotten-realms) module
+- Updated [Alien Franchise](#alien-franchise) module and also moved it to [Setting](#setting)
+- Added [Batman](#batman) module
+- Added [My Little Pony: Friendship Extended](#my-little-pony-friendship-extended) module
+- Added [Gotrek and Felix](#gotrek-and-felix) module
 - Updated [Second Proseon](#second-proseon) module
 - Updated [Sexfighting](#sexfighting) module
 - Updated [Lesbémon](#lesbémon) once again
@@ -67,17 +73,21 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 			- [Setting](#setting)
 				- [Action Movies](#action-movies)
 				- [Ancient Rome](#ancient-rome)
+				- [Alien Franchise](#alien-franchise)
 				- [AR Video Game Reality](#ar-video-game-reality)
+				- [Batman](#batman)
 				- [Beastars](#beastars)
 				- [Classic Cyberpunk](#classic-cyberpunk)
 				- [Cyberpunk 2222](#cyberpunk-2222)
 				- [Dark Academia](#dark-academia)
 				- [Folk Fantasy](#folk-fantasy)
+				- [Forgotten Realms](#forgotten-realms)
 				- [Generation Ship](#generation-ship)
 				- [Genroku Era](#genroku-era)
 				- [Mad Max](#mad-max)
 				- [Mass Effect](#mass-effect)
 				- [Middle-Earth](#middle-earth)
+				- [My Little Pony: Friendship Extended](#my-little-pony-friendship-extended)
 				- [Norse](#norse)
 				- [Poetic Fantasy](#poetic-fantasy)
 				- [Post-Apocalyptic Fallout](#post-apocalyptic-fallout)
@@ -101,6 +111,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [Gay 2](#gay-2)
 				- [Green's RPG](#greens-rpg)
 				- [Gryphons](#gryphons)
+				- [LitRPG](#litrpg)
 				- [Mormon](#mormon)
 				- [Melee Combat](#melee-combat)
 				- [Purely Purple Prose](#purely-purple-prose)
@@ -163,7 +174,6 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [Universal Acceptance](#universal-acceptance)
 		- [Works](#works)
 			- [Literature](#literature)
-				- [Alien Franchise](#alien-franchise)
 				- [Animorphs](#animorphs)
 				- [Assassin's Creed: Ezio Auditore](#assassins-creed-ezio-auditore)
 				- [Bartimaeus Sequence](#bartimaeus-sequence)
@@ -174,6 +184,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [Forbidden Fruit](#forbidden-fruit)
 				- [Good Intentions](#good-intentions)
 				- [Goosebumps](#goosebumps)
+				- [Gotrek and Felix](#gotrek-and-felix)
 				- [Guards!](#guards)
 				- [Halo](#halo)
 				- [Harry Potter](#harry-potter)
@@ -417,8 +428,8 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 
 ### [Themes](#modules)
 
-- [Setting](#setting) - *The module's design encompasses an entire environment.*
-- [Elements](#elements) - *The module focuses on a specific element that can be easily incorporated into any story.*
+- [Setting](#setting) - *The module encompasses an entire environment.*
+- [Elements](#elements) - *The module focuses on a concept that can be incorporated into any story.*
 - [Sexual](#sexual) - *That coom shit.*
 
 ***
@@ -448,6 +459,46 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 >"If there were more men like you two around, perhaps Rome could still stand!" Antonia spoke with feeling. She was very beautiful at this moment, her face flushed from wine or excitement, but she looked tired too. Her eyes seemed haunted by some memory, though whether good or bad she did not say.
 >We had been talking about politics all evening. It was clear now why Pompey's letter had caused such dismay among his supporters.
 
+##### [Alien Franchise](https://files.catbox.moe/l7j7j2.module)
+
+[by Basileus](https://discord.com/channels/836774308772446268/870449646391156776/881435261064597544)
+
+*Sci-fi action horror in the world of the Xenomorph. I just wanted to try an 8000 step module! 11.8MB, 8000 steps, ~59% coverage, Loss 2.8*
+
+- *Alien: The Official Movie Novelization by Alan Dean Foster*
+- *Aliens: The Official Movie Novelization by Alan Dean Foster*
+- *Alien 3: The Official Movie Novelization by Alan Dean Foster*
+- *Alien Resurrection: The Official Movie Novelization by A. C. Crispin*
+- *Alien: Covenant - The Official Movie Novelization by Alan Dean Foster*
+- *Aliens: Earth Hive by Steve Perry*
+- *Aliens: Nightmare Asylum by Steve Perry*
+- *Aliens: The Female War by Steve Perry and Stephani Perry*
+- *Aliens: Genocide by David Bischoff*
+- *Aliens: Alien Harvest by Robert Sheckley*
+- *Aliens: Rogue by Sandy Schofield*
+- *Aliens: Labyrinth by S. D. Perry*
+- *Aliens: Music of the Spears by Yvonne Navarro*
+- *Aliens: Berserker by S. D. Perry*
+- *Aliens: Original Sin by Michael Jan Friedman*
+- *Aliens: DNA War by Diane Carey*
+- *Aliens: Cauldron by Diane Carey*
+- *Aliens: Steel Egg by John Shirley*
+- *Aliens: Criminal Enterprise by Stephani Perry*
+- *Aliens: No Exit by B. K. Evenson*
+- *Alien: Out of the Shadows by Tim Lebbon*
+- *Alien: Sea of Sorrows by James A. Moore*
+- *Alien: River of Pain by Christopher Golden*
+- *Alien: The Cold Forge by Alex White*
+- *Alien: Echo by Mira Grant*
+- *Alien: Prototype by Tim Waggoner*
+- *Alien: Into Charybdis by Alex White*
+- *Aliens: Infiltrator by Weston Ochse*
+- *Aliens: Bug Hunt (anthology)*
+
+>Something sinuous and glistening moved through the shadows in the corridor.
+>
+>"What's that?" Krenshaw asked, but it was too late for her to do anything about it. The thing came out of the darkness like a snake emerging from its hole—and then it struck. It whipped around the woman's head with an explosive hiss, clamped down on her face, and dragged her into the blackness. She screamed once, long and shrill, before she disappeared completely.
+
 ##### [AR Video Game Reality](https://files.catbox.moe/kjktjl.module)
 
 [by SGreen](https://discord.com/channels/836774308772446268/870449646391156776/875006896862548059)
@@ -465,6 +516,53 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 >Yoshi sees this coming and jumps over to where I am lying on the ground. I get ready to knock him away again, when suddenly he turns into a mushroom! Then he flies straight through the wall and disappears. The game ends as soon as Yoshi loses all his lives.
 >
 >I look up at the clock and see that I just barely beat him in time. Yoshi gets 3 points and I get 5. This makes my total score 30 points.
+
+##### [Batman](https://files.catbox.moe/7eeiz7.module)
+
+[by Kitty](https://discord.com/channels/836774308772446268/870449646391156776/881189711698350091)
+
+*8.04MB, 1496 steps, 15.99% coverage, 2.64 loss*
+
+*List of novels used:*
+
+- *Hawke, Simon - Batman - To Stalk A Specter*
+- *Gardner, Craig Shaw - Batman Returns*
+- *Asprin, Robert_ Abbey, Lynn - Catwoman - Tiger Hunt*
+- *Gravel, Geary - Batman - Mask of the Phantasm - The Animated Movie*
+- *O'Neil, Dennis - Batman - Knightfall*
+- *David, Peter - Batman Forever*
+- *Friedman, Michael Jan - Batman & Robin.*
+- *Rucka, Greg - Batman - No Man's Land*
+- *Grant, Alan - Batman - The Stone King*
+- *O'Neil, Dennis - Dark Knight 1 - Batman Begins*
+- *Dennis O'Neil - Dark Knight 2 - The Dark Knight*
+- *Greg Cox - Dark Knight 3 - The Dark Knight Rises*
+- *Hickman, Tracy - Wayne of Gotham*
+- *Irvine, Alex - Arkham Knight 1 - The Riddler's Gambit*
+- *Wolfman, Marv - Arkham Knight 2 - Arkham Knight - The Official Novelization*
+- *Lu, Marie - Batman - Nightwalker*
+- *Maas, Sarah J - Catwoman - Soulstealer*
+- *Faust, Christa & Phillips, Gary - Batman - The Killing Joke*
+- *Dini, Paul & Cadigan, Pat - Harley Quinn - Mad Love*
+- *Cox, Greg - Batman - The Court of Owls*
+
+> "Are you sure?"
+>
+> The words were spoken in a voice that was both sweet and teasing, the kind of voice that had been used on him for as long as he could remember. He was sure. He had to be.
+>
+> "Yes," he said again. "I'm sure."
+>
+> He looked up at her. She was beautiful, so much like his mother that it was almost eerie. But she wasn't his mother. His mother had died when he was young. This woman...this creature...was nothing but a figment of his imagination. A figment of his subconscious. The last remnants of his grief over the loss of his parents.
+>
+> And yet, even knowing that, he couldn't stop staring at her. Couldn't look away.
+>
+> She smiled, then, a smile that was as bright and warm as the sun. It was the smile of a woman who knew exactly what she wanted.
+>
+> "Then let's go home, Bruce," she said. "Let's go home together."
+>
+> He nodded, still unable to speak.
+>
+> And then she turned and walked away, her bare feet making no sound on the marble floor.
 
 ##### [Beastars](https://files.catbox.moe/a9an3f.module)
 
@@ -523,6 +621,21 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 - *George MacDonald's collected fairy tales*
 - *Neil Gaiman's Stardust*
 - *Lord Dunsany's King of Elfland's Daughter*
+
+##### [Forgotten Realms](https://files.catbox.moe/b2krat.module)
+
+[by Dr. Yazman](https://discord.com/channels/836774308772446268/870449646391156776/881621315008753744)
+
+*I created this module with a view towards a diverse set of books that cover a variety of regions in Faerun. There's also two big D&D lore books that I converted by hand into training data. Basically I just really love the Forgotten Realms as a setting, so I wanted a big module. I hope you enjoy it!*
+
+*Training: 8000 steps, 10.5MB, Trained at 64.83% on 15 Forgotten Realms novels, and 2 Forgotten Realms D&D lore/setting books.*
+
+> **Leaving Neverwinter, the dwarf Magnus Bigpuffer reflected on his journey north, to Luskan.** He had never been there before and he didn't know what to expect when he arrived. The city was notorious for its lack of respect toward dwarves.
+> The last time a caravan from Waterdeep had come through town it had brought with it an angry mob that intended to kill all the dark elves living in Luskan. Fortunately, the leader of the caravan had stopped at the gates long enough to explain matters to the guards-and then paid them off handsomely. As a result, no one wanted to start trouble with the merchants or their hired fighters. But every merchant knew that if things went sour between him and the guardhouse, he would be lucky to get out alive.
+>
+> Still, some people were not satisfied by this arrangement. One particularly large and ugly human named Torgar Skullsplitter seemed determined to make life miserable for everyone who entered the city. His soldiers did nothing but harass travelers, especially those who looked like they might have something worth stealing. And so most traders avoided going into the city altogether.
+>
+> Magnus wondered how many other cities followed the example set by Luskan: towns where only humans lived? Would any other race ever dare enter such places? Perhaps after years of being treated as second class citizens, the drow felt justified in treating others less favorably than themselves. Or perhaps they simply enjoyed making enemies wherever possible.
 
 ##### [Generation Ship](https://files.catbox.moe/ezfjoh.module)
 
@@ -592,6 +705,14 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 >**High on the walls of the city** he saw a great company of men and women, tall and fair to look upon; but they were clad in black. And some bore long spears with sharp points like needles or swords, while others had bows that bent not only swiftly but far. But there was no sound save their own voices as they sang together:
 >
 >‘Come ye out from your houses! Come forth into the streets! The day is come for burning all evil things! For we are the servants of Elendil who dwelt here before the beginning of days. We have cleansed this place by fire, so it shall be clean again. All that has been done here since the world began must now be undone. Let those who would live in peace go up into the hills where none will find them. Let those who love war make ready. It is our hour. In darkness let us work deeds of light!’
+
+##### [My Little Pony: Friendship Extended](https://files.catbox.moe/v1ga2w.module)
+
+[by Moonbow](https://discord.com/channels/836774308772446268/870449646391156776/880708141036208138)
+
+*An extension of my previous Past Sins module, containing it and various other fanfictions 50k-200k words in length that don't deviate too far from canon. 13mb of data trained at ~40%*
+
+*Tags: Light Fantasy, MLP, Pony, Fanfiction, Slice of Life*
 
 ##### [Norse](https://files.catbox.moe/5mspfr.module)
 
@@ -926,6 +1047,40 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 *Another niche module that I made to test non-biped protagonists. Uploading this because... dunno, maybe someone out there is interested in the catbirds?*
 
 *Trained 3000 steps, around 35% iirc. Was made before loss graph.*
+
+##### [LitRPG](https://files.catbox.moe/fpey2h.module)
+
+[by Zaltys](https://discord.com/channels/836774308772446268/870449646391156776/881826911972634634)
+
+*Trained on fantasy LitRPG books. This module was made for testing both LitRPG elements (standardized to use ─ ) and <> bracketing for thinking/telepathy. Seems to work ok, so I might as well publish this. Kudos to Mr.Accountant for contributing the steps. If someone tries this and runs into issues, let me know.*
+
+*(As v3 lacks base LitRPG data, this'll often default to pulling skills from the D&D data. It also overuses semicolon, but that's more of an issue with the old v3 data than with the module.)*
+
+*Training: 3120 steps, 10.1MB. Trained at around 31%, last loss 2.6179. Various authors, but I won't go into details about exactly which books were included.*
+
+> I blinked, looking down at my hands. I had to admit that the glowing blue light was a little unnerving, but I’d grown used to it over time. The new skills were still taking some getting used to though. In fact, they were so much more than just skills. They were part of me now. My own special magic.
+>
+> And the best part?
+>
+> ─ You are now able to summon and control magical creatures!
+>
+> That was one hell of an upgrade.
+>
+> The other new abilities were:
+>
+> ─ Improved perception (range increased by 50%)
+>
+> ─ Increased dexterity by 25%
+>
+> ─ Increased strength by 10%
+>
+> ─ Your mana pool has been doubled!
+>
+> Those were all great improvements, but what really caught my attention was this last ability.
+>
+> ─ You can now cast spells without using any components or incantations!
+>
+> This was amazing. It meant I could use my magic without having to worry about spending money on supplies like I always did before. And the most important thing? No chanting required! This would allow me to do things like cast fireballs with no problems. All I needed was enough mana to create the spell and then simply focus my mind on casting it. Simple as that.
 
 ##### [Mormon](https://files.catbox.moe/j6ha0i.module)
 
@@ -1518,20 +1673,6 @@ Mostly male human x female pokemon, but there are a few in there that contain ma
 
 #### [Literature](#works)
 
-##### [Alien Franchise](https://files.catbox.moe/s2cbed.module)
-
-[by Basileus](https://discord.com/channels/836774308772446268/870449646391156776/875989253186797609)
-
-*Sci-fi action horror in the universe of deadly encounters with the hostile parasitic species sometimes called xenomorphs. You'll need lorebook and memory to play "in universe" reliably, but this should provide a nice layer of body horror, tension, and atmosphere even on it's own. Ripley may be slightly over-represented, so if she shows up (and assuming you don't want her) consider token banning her - but generally there are a variety of other characters in the dataset so she shouldn't dominate too much.*
-
->**Something sinuous and glistening moved in the darkness.**
->
->It was a slithering, hissing sound that made her skin crawl. She had never heard anything like it before—but then she'd only ever been to one other planet with intelligent life on it. And even there, they hadn't encountered any of this… whatever it was. It wasn't an animal or reptile; its movements were too fluid for something so bulky. But it didn't look remotely human either. Its body seemed more liquid than solid. If it walked upright, it would have looked almost comical, but she knew better. This creature could kill them all if given half a chance.
->
->"Stay close," Dane said as he drew his pistol from his holster. "We don't know what we're dealing with here."
->
->She nodded, not trusting herself to speak again just yet. The thing's face emerged from the shadows, and it stared at them for several seconds. Then it turned away and began moving off into the darkness once more.
-
 ##### [Animorphs](https://files.catbox.moe/uo24ou.module)
 
 [by pinekel](https://discord.com/channels/836774308772446268/870449646391156776/874503165997891644)
@@ -1649,6 +1790,14 @@ A.K.A Green's Eagle Vision
 [by pinkel](https://discord.com/channels/836774308772446268/870449646391156776/871601111012896808)
 
 *HERE IS ALL 62 GOOSEBUMPS BOOKS SHOVED INTO A MODULE. 8000 STEPS! 7MB OF GOOSEBUMPS, GET IT NOW!*
+
+##### [Gotrek and Felix](https://files.catbox.moe/8249bh.module)
+
+[by Khoa Phan](https://discord.com/channels/836774308772446268/870449646391156776/880026242248736828)
+
+*Gotrek Gurnisson, a Dwarf Slayer, and Felix Jaeger, his Human chronicler, are a duo of warriors travelling throughout the length and breadth of the Old World, battling Dark Forces and stopping plots in Gotrek's quest for a heroic death against a terrible foe. The adventures of these warriors have been written down in the series of books: "My Travels with Gotrek" by Master Felix Jaeger, which outlines Felix's many adventures with his maniacal comrade throughout many of their endeavours, recording everything till the day Gotrek has finally met his doom, and will finally be allowed to enter the halls of his ancestors.*
+
+*Tags: Warhammer Fantasy, Interspecies-Bromance (Human-Dwarf), Gritty, Lotsa Action, Adventure*
 
 ##### [Guards!](https://files.catbox.moe/jb36de.module)
 
