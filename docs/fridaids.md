@@ -4,7 +4,7 @@ title: "/aids/ Theme Event Fridays"
 permalink: /fridays/
 ---
 
-# Theme Event Fridays
+# /aids/ Theme Event Fridays
 
 Sorted in **descending** order of recency, this is a log of all of the theme Friday submissions, starting from mid May 2021. There was [a previous one](https://guide.aidg.club/Resources-And-Guides/aidg%20general/aidg-Fridays.html), but it seems to be kill, so I've created this one as a fresh start.
 
@@ -23,9 +23,10 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 ## The Log
 
-- [Theme Event Fridays](#theme-event-fridays)
+- [/aids/ Theme Event Fridays](#aids-theme-event-fridays)
   - [Rules](#rules)
   - [The Log](#the-log)
+    - [The Friday of *Transformation*](#the-friday-of-transformation)
     - [The Friday of *Personality Alteration*](#the-friday-of-personality-alteration)
       - [*Measuring the Effects of Increased Sexual Arousal when Consuming Love Potions*](#measuring-the-effects-of-increased-sexual-arousal-when-consuming-love-potions)
       - [*Sex Slave Headset*](#sex-slave-headset)
@@ -46,7 +47,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
       - [*Morning Commute*](#morning-commute)
       - [*Tomfoolery*](#tomfoolery)
       - [*An Exam Under Pressure*](#an-exam-under-pressure)
-      - [*Monstergirl High School II - What's a Dad to Do?*](#monstergirl-high-school-ii---whats-a-dad-to-do)
+      - [*Monstergirl High School II: What's a Dad to Do?*](#monstergirl-high-school-ii-whats-a-dad-to-do)
       - [*Valediction*](#valediction)
       - [*Heartbeat Running Away*](#heartbeat-running-away)
       - [*Ms. McKenzie's Sex-Ed Class Gets Out of Hand*](#ms-mckenzies-sex-ed-class-gets-out-of-hand)
@@ -77,14 +78,22 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
     - [The Friday of *Fairies*](#the-friday-of-fairies)
       - [*Dryad Encounter*](#dryad-encounter)
       - [*The Sunshine Sanctuary for Sick Fairies*](#the-sunshine-sanctuary-for-sick-fairies)
-      - [*Fairytale: Prelude — "Caress of the Morning Dew"*](#fairytale-prelude--caress-of-the-morning-dew)
+      - [*Fairytale (Prelude): "Caress of the Morning Dew"*](#fairytale-prelude-caress-of-the-morning-dew)
       - [*Tentacle Respect Online*](#tentacle-respect-online)
       - [*You Find a Fairy in Distress*](#you-find-a-fairy-in-distress)
     - [The Friday of *Cuteness and Hilarity*](#the-friday-of-cuteness-and-hilarity)
       - [*A Basket of Kittens*](#a-basket-of-kittens)
       - [*Your Daughter will Do Anything to Have You Back*](#your-daughter-will-do-anything-to-have-you-back)
       - [*Ben and Gwen Tennyson in: Omnifriks*](#ben-and-gwen-tennyson-in-omnifriks)
-      - [*Goblin Girl in Heat*](#goblin-girl-in-heat)
+      - [*Goblin girl in Heat*](#goblin-girl-in-heat)
+
+***
+
+### The Friday of *Transformation*
+
+Let's make prompts ignoring modern biology completely, using body modification conventions as tools to change one's physical form.
+
+*September 3rd, 2021*
 
 ***
 
@@ -92,7 +101,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 Let's make prompts ignoring modern psychology completely, using hypnosis or other mind breaking things as tools to change one's identity.
 
-*August 20th, 2021*
+[*August 20th, 2021*](#the-log)
 
 #### *Measuring the Effects of Increased Sexual Arousal when Consuming Love Potions*
 
@@ -216,7 +225,7 @@ Play as teenage trap at their first anime convention trying to gain confidence b
 
 Let's make prompts ignoring boorish elves completely, using dwarves or other dwarvish things as tools and alcohol.
 
-*August 6th, 2021*
+[*August 6th, 2021*](#the-log)
 
 #### *Out of the Furnace, Into the...*
 
@@ -331,7 +340,7 @@ In your attempt to swindle your friend, you somehow get her to confess her feeli
 
 A student is stuck in an exam and really needs to pee.
 
-#### *Monstergirl High School II - What's a Dad to Do?*
+#### *Monstergirl High School II: What's a Dad to Do?*
 
 *<https://prompts.aidg.club/1794>*
 
@@ -649,6 +658,7 @@ A bored European nobleman abandons his life of luxury to become a seafaring expl
 >*"The shelling," she pointed out, her eyes wide with fear. "It's stopped."*
 >
 >*One by one, the same terror dawned on the faces of Lan's family as they realized what this meant. There was only one reason for the Japanese forces to stop the bombardment; so their own troops could move in and occupy the city. Even as the thought sank in, Lan heard voices approaching, shouting in Japanese—soldiers, moving through the streets of Nanjing in groups. Lan's nightmare had only just begun.*
+>
 
 The following is a fictional prompt based loosely on the alleged atrocities committed by the Imperial Japanese army in Nanjing during December, 1937.
 
@@ -657,6 +667,7 @@ The following is a fictional prompt based loosely on the alleged atrocities comm
 *<https://prompts.aidg.club/1551>*
 
 >*You killed all the Native Americans, and now it's time for your revenge. You have a tied up Native American Girl a few meters away from you. She looks terrified as you approach...*
+
 You are Custer, and your job is to fuck the Native American Girl.
 
 #### *Memoirs from the Amazonian Jungle*
@@ -664,6 +675,7 @@ You are Custer, and your job is to fuck the Native American Girl.
 *<https://prompts.aidg.club/1553>*
 
 >*Still holding onto the harquebus, I began unbuttoning my breeches. The savage stared at my stalwart white prick, with no puzzlement but with chagrin, his placid behaviour seemingly confirming the tale. 'Come here, you beastly savage', I bid him, stroking myself. The savage hesitated, but then crawled towards me on all fours.*
+
 Conquistador turns a native tribe into his harem, beginning with their finest warrior.
 
 ***
@@ -698,7 +710,7 @@ A knight slays a dragon but is severely wounded in the process. He awakens to fi
 
 You run a clinic that rehabilitates these gentle creatures from whatever physical or mental malady they suffer from, with the help of your fairy nurse, Luna.
 
-#### *Fairytale: Prelude — "Caress of the Morning Dew"*
+#### *Fairytale (Prelude): "Caress of the Morning Dew"*
 
 *<https://prompts.aidg.club/1310>
 <https://prompts.aidg.club/1311>*
@@ -784,7 +796,7 @@ Uh oh, your life took a weird turn... Help your daughter figure it out?
 
 A Ben 10 nsfw prompt, where you play as Ben shagging his cute cousin Gwen.
 
-#### *Goblin Girl in Heat*
+#### *Goblin girl in Heat*
 
 *<https://prompts.aidg.club/1242>*
 
