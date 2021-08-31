@@ -17,6 +17,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 
 ## Recent Changes
 
+- Updated [Prison](#male-prison) module with a more clear name and moved it to a better category.
 - Added [ANOTHER Furry ENF](#furry-enf) module
 - Added [Wheel of Time series](#wheel-of-time) module
 - Added [Learning Magic](#learning-magic) module
@@ -89,13 +90,13 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [Generation Ship](#generation-ship)
 				- [Genroku Era](#genroku-era)
 				- [Mad Max](#mad-max)
+				- [Male Prison](#male-prison)
 				- [Mass Effect](#mass-effect)
 				- [Middle-Earth](#middle-earth)
 				- [My Little Pony: Friendship Extended](#my-little-pony-friendship-extended)
 				- [Norse](#norse)
 				- [Poetic Fantasy](#poetic-fantasy)
 				- [Post-Apocalyptic Fallout](#post-apocalyptic-fallout)
-				- [Prison](#prison)
 				- [Russian Fantasy and Folklore](#russian-fantasy-and-folklore)
 				- [Star Trek The Next Generation](#star-trek-the-next-generation)
 				- [Vampire: The Masquerade](#vampire-the-masquerade)
@@ -690,6 +691,16 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 >
 >And then there was nowhere else to go.
 
+##### [Male Prison](https://files.catbox.moe/z5ue6r.zip)
+
+[by Anon](https://arch.b4k.co/vg/thread/348767728/#348839824)
+
+*Here it is. A male prison module along with the finetune data, sources, and rejected sources. I added these things in case anybody wanted to improve upon it.*
+
+*It adds up to 7MB of data trained at 35%. I've used up my steps for this month so I really hope that I got this right.*
+
+*If there's anybody that's interested in using this module please feel free to give me feedback on how well (or how shitty) it is.*
+
 ##### [Mass Effect](https://files.catbox.moe/p2kdgi.module)
 
 [by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/871565177554870283)
@@ -773,16 +784,6 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 >"Ah! A woman Ranger. You must make good use of her skills." His eyes glittered ferally as they focused on Snowman. "She can help you find more women to eat."
 >
 >Walker scowled. This was hardly the time for leering at another human being.
-
-##### [Prison](https://files.catbox.moe/fxjgms.rar)
-
-[by Anon](https://arch.b4k.co/vg/thread/348767728/#348839824)
-
-*Here it is. The prison module along with the finetune data, sources, and rejected sources. I added these things in case anybody wanted to improve upon it.*
-
-*It adds up to 7MB of data trained at 35%. I've used up my steps for this month so I really hope that I got this right.*
-
-*If there's anybody that's interested in using this module please feel free to give me feedback on how well (or how shittily) it is.*
 
 ##### [Russian Fantasy and Folklore](https://files.catbox.moe/08g7lc.module)
 
