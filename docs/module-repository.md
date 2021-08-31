@@ -17,6 +17,10 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 
 ## Recent Changes
 
+- Added [ANOTHER Furry ENF](#furry-enf) module
+- Added [Wheel of Time series](#wheel-of-time) module
+- Added [Learning Magic](#learning-magic) module
+- Added [Code Lyoko Novels](#code-lyoko) module
 - Added [LitRPG](#litrpg) module
 - Added [Forgotten Realms](#forgotten-realms) module
 - Updated [Alien Franchise](#alien-franchise) module and also moved it to [Setting](#setting)
@@ -111,6 +115,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [Gay 2](#gay-2)
 				- [Green's RPG](#greens-rpg)
 				- [Gryphons](#gryphons)
+				- [Learning Magic](#learning-magic)
 				- [LitRPG](#litrpg)
 				- [Mormon](#mormon)
 				- [Melee Combat](#melee-combat)
@@ -139,6 +144,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [Exponent](#exponent)
 				- [Foot](#foot)
 				- [Furcest](#furcest)
+				- [Furry ENF](#furry-enf)
 				- [Futarotica](#futarotica)
 				- [Futrap](#futrap)
 				- [Gardevoir](#gardevoir)
@@ -207,6 +213,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [Vampire Diaries](#vampire-diaries)
 				- [War and Peace](#war-and-peace)
 				- [Warhammer 40k](#warhammer-40k)
+				- [Wheel of Time](#wheel-of-time)
 			- [Visual Novel](#visual-novel)
 				- [Fate/stay ataraxia](#fatestay-ataraxia)
 				- [Steins;Gate](#steinsgate)
@@ -226,6 +233,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [Paraphore](#paraphore)
 			- [Web Fiction](#web-fiction)
 				- [A Dragon Ranch in Suburbia](#a-dragon-ranch-in-suburbia)
+				- [Code Lyoko](#code-lyoko)
 				- [Harry Potter of Our Own](#harry-potter-of-our-own)
 				- [Homestuck](#homestuck)
 				- [Pack Street](#pack-street)
@@ -1048,6 +1056,12 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *Trained 3000 steps, around 35% iirc. Was made before loss graph.*
 
+##### [Learning Magic](https://files.catbox.moe/qzunxl.module)
+
+[by spamdogman](https://discord.com/channels/836774308772446268/870449646391156776/882249776173813810)
+
+*A module trained on scenes of characters learning and practicing magic, as well as in-universe textbooks on magic. I added one-third more text to the training data and fixed some formatting I missed the first time. 1036 steps, 907KB, Trained at 100.20%*
+
 ##### [LitRPG](https://files.catbox.moe/fpey2h.module)
 
 [by Zaltys](https://discord.com/channels/836774308772446268/870449646391156776/881826911972634634)
@@ -1372,6 +1386,12 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 [by Anon](https://arch.b4k.co/vg/thread/348033881/#348078084)
 
 *Furcest module. Trained using an even mix of 5 top rated stories with Brother/Sister, Mother/Son, Father/Daughter, mixed gay and mixed lesbian incest.*
+
+##### [Furry ENF](https://files.catbox.moe/kqvy9p.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/349741726/#349745423)
+
+*Thrown 2250 steps at this, and I called it Furry ENF in case it's not actually overtrained and I want to keep it.*
 
 ##### [Futarotica](https://files.catbox.moe/x3lugm.module)
 
@@ -1996,6 +2016,28 @@ Text looked like this:
 
 *A module trained on two novels by Guy Haley; Konrad Curze - The Night Haunter and Perturabo - The Hammer of Olympia. Keep in mind this is me testing the formatting first and foremost, as well as making sure the output is curated well enough. If I find the results satisfactory, I will commit resources to constructing a better one.*
 
+##### [Wheel of Time](https://files.catbox.moe/5h7lnf.module)
+
+[by Kitty](https://discord.com/channels/836774308772446268/870449646391156776/882270717276733530)
+
+*20MB, 6504 steps, 29.66% coverage, 2.70 loss*
+
+*Cleaned using Gnurro's FinetuneReformatter and Zermelane's Dumb Reformatter. It took 3 days!*
+
+*Since the memory limit is 20MB, I had to remove the prologue and Ch2,5,10,15,20,25,30 from each book.*
+
+*Chapter numbers (but not titles), such as Chapter 42, were converted to triple asterisks so using the format*
+
+>\*\*\*
+>
+>Chapter Title Here
+
+*can have some general influence on output. Next generation must happen under the title.*
+
+>**The Wheel of Time** turns, and Ages come and pass, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth comes again. In one Age, called the Third Age by some, an Age yet to come, an Age long past, a wind rose in the mountains of Malkier, bringing snow in the high passes. The wind was not the beginning. There are neither beginnings nor endings to the turning of the Wheel of Time. But it was a beginning....
+>
+>"The Dragon Reborn is dead," said Min, "and Rand al'Thor has gone mad." She hesitated, then added, "It is said that he will destroy the world.
+
 ***
 
 #### [Visual Novel](#works)
@@ -2139,6 +2181,16 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 [by Somdudewilson](https://discord.com/channels/870618914323849228/870619535600922644/870759619578982421)
 
 *Both of Ausfer's Dragon Ranch and its sequel series A Dragon in Suburbia.  Expect lots of feral dragonesses x male human.*
+
+##### [Code Lyoko](https://files.catbox.moe/8bzmiq.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/349576360/#349675614)
+
+*The entire Code Lyoko novel saga. Tried to clean them the best I could.*
+
+>\>The Code Lyoko module seems to have a penchant for smashing words together, forgetting newlines and repeating the first couple letters of words.
+
+*Yeah, that's what it happens when you convert a pdf to .txt. I tried to do my best to clean the dataset, but it was no use. It still works if you wrangle with it a bit at the beginning.*
 
 ##### [Harry Potter of Our Own](https://files.catbox.moe/o9uxko.module)
 
