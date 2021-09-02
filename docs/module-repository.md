@@ -17,6 +17,13 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 
 ## Recent Changes
 
+- Added 10K step version to [Cross-Genre](#cross-genre)
+- Added 12K step version to [Poetic Fantasy](#poetic-fantasy)
+- Added [Non-Fiction](#non-fiction) section to works and [Art of War](#art-of-war) module
+- Added [Respecting Women (1st Person)](#respecting-women) module
+- Added [Mistborn Trilogy](#mistborn-trilogy) module
+- Added [Neuromancer](#neuromancer) module
+- Added [Blood Meridian or The Evening Redness in the West](#blood-meridian) module 
 - Updated [Prison](#male-prison) module with a more clear name and moved it to a better category.
 - Added [ANOTHER Furry ENF](#furry-enf) module
 - Added [Wheel of Time series](#wheel-of-time) module
@@ -25,15 +32,6 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 - Added [LitRPG](#litrpg) module
 - Added [Forgotten Realms](#forgotten-realms) module
 - Updated [Alien Franchise](#alien-franchise) module and also moved it to [Setting](#setting)
-- Added [Batman](#batman) module
-- Added [My Little Pony: Friendship Extended](#my-little-pony-friendship-extended) module
-- Added [Gotrek and Felix](#gotrek-and-felix) module
-- Updated [Second Proseon](#second-proseon) module
-- Updated [Sexfighting](#sexfighting) module
-- Updated [Lesbémon](#lesbémon) once again
-- Added [Prison](#prison) module
-- Added [Gardevoir](#gardevoir) module
-- Added [ENF Third Person](#embarrassed-naked-female-third-person) module
 - Removed Appendix
 
 ***
@@ -172,6 +170,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [NonConsent and Reluctance](#nonconsent-and-reluctance)
 				- [Pokémon](#pokémon)
 				- [Raunchy](#raunchy)
+				- [Respecting Women](#respecting-women)
 				- [Same Size Vore](#same-size-vore)
 				- [Sexfighting](#sexfighting)
 				- [Shrunken Women](#shrunken-women)
@@ -184,6 +183,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [Animorphs](#animorphs)
 				- [Assassin's Creed: Ezio Auditore](#assassins-creed-ezio-auditore)
 				- [Bartimaeus Sequence](#bartimaeus-sequence)
+				- [Blood Meridian](#blood-meridian)
 				- [BOLO](#bolo)
 				- [Conan The Barbarian](#conan-the-barbarian)
 				- [Discworld](#discworld)
@@ -198,6 +198,8 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [Hitchiker's Guide to the Galaxy](#hitchikers-guide-to-the-galaxy)
 				- [Horus Heresy Selection One](#horus-heresy-selection-one)
 				- [Native American Myths and Legends](#native-american-myths-and-legends)
+				- [Neuromancer](#neuromancer)
+				- [Mistborn Trilogy](#mistborn-trilogy)
 				- [My Struggle](#my-struggle)
 				- [Oz](#oz)
 				- [The Bible](#the-bible)
@@ -215,6 +217,8 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [War and Peace](#war-and-peace)
 				- [Warhammer 40k](#warhammer-40k)
 				- [Wheel of Time](#wheel-of-time)
+			- [Non-Fiction](#non-fiction)
+				- [Art of War](#art-of-war)
 			- [Visual Novel](#visual-novel)
 				- [Fate/stay ataraxia](#fatestay-ataraxia)
 				- [Steins;Gate](#steinsgate)
@@ -743,6 +747,8 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 
 [by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/875105564814880819)
 
+[12K Step Vers.](https://files.catbox.moe/p9a805.module)
+
 *Some of the best and most poetic fantasy written went into this module, from Guy Gavriel Kay, Mervyn Peake, Patricia A. McKillip and others. If you want beautiful prose in an almost fairy-tale setting, this is the module for you!*
 
 >**The mermaid sang upon the rocks,** and her voice was like a silver bell. The sun shone down on the sea-green water as it rippled in waves around the rocky islet where she lay. There were no other creatures to be seen, only an occasional gull or seagull; but for these there was nothing remarkable about them at all except that they did not sing. But this one had come out of curiosity, perhaps from some place far away, because it flew slowly round the island and then settled itself on the ledge beside the mermaid's head. She lifted up her long hair which fell over her shoulders into a shining cascade of green seaweed and watched with half-closed eyes while the bird perched contentedly above her. It seemed to her that its feathers glowed with tiny lights of their own, so bright that they made her look again when suddenly, without warning, the bird began to speak: "I am sorry," he said, "but I cannot stay here any longer." He flapped his wings once more and rose higher than ever before. "You are too beautiful!" cried the mermaid sadly. Then she turned back to face the world of men.
@@ -966,6 +972,8 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 ##### [Cross-Genre](https://files.catbox.moe/4x7os9.module)
 
 [by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/872522180997546085)
+
+[10K Steps Vers.](https://files.catbox.moe/jwc6cb.module)
 
 *"Hmm," thought OccultSage, " ... what would happen if I tossed in books from my curated and edited pile, and balanced out the influence for a 25% sampling?" This is the result of mixing in Genroku era, surrealist, post-apocalypse and Greek mythology.*
 
@@ -1630,6 +1638,16 @@ Mostly male human x female pokemon, but there are a few in there that contain ma
 
 *Includes: NSFW, extreme, non-con, scat, watersports, exhibitionism*
 
+##### [Respecting Women](https://files.catbox.moe/568ng0.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/349741726/#349867431)
+
+*respecting females first person*
+
+*dialogue heavy, consider disabling quotation mark token*
+
+*tell me if it's good or bad*
+
 ##### [Same Size Vore](https://files.catbox.moe/whoadu.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/345615202/#345618859)
@@ -1685,6 +1703,7 @@ Mostly male human x female pokemon, but there are a few in there that contain ma
 ### [Works](#modules)
 
 - [Literature](#literature) - *In this context, a catch-all term for predominantly Western literature that has been published.*
+- [Non-Fiction](#non-fiction) - *Published non-fiction works.*
 - [Visual Novel](#visual-novel) - *Interactive fiction adapted into a traditional narrative structure.*
 - [Light Novel](#light-novel) - *Japanese young adult novels.*
 - [Text Game](#text-game) - *Text-based computer games, usually NSFW.*
@@ -1725,6 +1744,12 @@ A.K.A Green's Eagle Vision
 [by Anon](https://arch.b4k.co/vg/thread/345923845/#346021343)
 
 *Dunno if this of interest to anyone, but I trained a module on Jonathan Stroud's Bartimaeus Trilogy plus the prequel book. Not sure it works the best because of the perspective switching the book does, but I'm a big fan of the series so I wanted to make this. It would probably be best for succubus/summoning prompts since that's what the series is about.*
+
+##### [Blood Meridian](https://files.catbox.moe/hskvtt.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/349741726/#349844954)
+
+*used all my 500 poorfag steps on a Blood Meridian module because my subscription renews tomorrow and I had no better idea what to use them for*
 
 ##### [BOLO](https://files.catbox.moe/ob4cxm.module)
 
@@ -1863,6 +1888,18 @@ A.K.A Green's Eagle Vision
 >**Coyote** was a great medicine man. He could cure all diseases, and he knew how to make medicines from the roots of many plants. One day when Coyote went hunting in his favorite place on top of Mount Taylor, he found an eagle's nest with four eggs. The mother bird had just laid them, but they were so big that she couldn't carry them away. So Coyote took pity on her and carried one egg home for himself. When it hatched out, it became a beautiful boy who looked exactly like Coyote except that he had wings instead of arms or legs. His name was Eagle Boy.
 >
 >Eagle Boy grew up fast and learned everything there was about healing people and curing their illnesses. But because he wasn't human, no one would listen to him. People thought he was crazy, and nobody believed anything he said. Finally Eagle Boy decided to leave this world altogether and become a spirit. So he flew off into the sky until he came to another country where he met a wise old woman named White Buffalo Woman. She told Eagle Boy to go back down below ground and find some good
+
+##### [Neuromancer](https://files.catbox.moe/ybbjl8.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/349741726/#349849812)
+
+*I just went ahead and cleaned the copy of Neuromancer in Notepad++ instead of trying to use the ReFormatter. It said it would take 503 steps to get o 100%, I figured 500 is close enough. So here is a small module made from Neuromancer by William Gibson. As far as I know it's the first cyberpunk module anybody has posted here.*
+
+##### [Mistborn Trilogy](https://files.catbox.moe/m9qo21.module)
+
+[by Alephrin](https://discord.com/channels/836774308772446268/870449646391156776/882782003815145552)
+
+*A module trained on the Mistborn trilogy by Brandon Sanderson. The series contains a fairly unique type of "magic" where the users "burn" metal and alloys in their stomachs to employ their abilities. ~50% Coverage @ ~2000 steps.*
 
 ##### [My Struggle](https://files.catbox.moe/w0tsn8.module)
 
@@ -2041,6 +2078,35 @@ Text looked like this:
 
 ***
 
+#### [Non-Fiction](#works)
+
+##### [Art of War](https://files.catbox.moe/0f2qlw.module)
+
+[by AlexiosTheSixth](https://discord.com/channels/836774308772446268/870449646391156776/882657967739125830)
+
+*A module trained off Sun Tzu's art of war with ~300% steps. Can generate fictional chapters.*
+
+>*CHAPTER 1. LAYING PLANS FOR COUNTERATTACKS*
+>
+>*1. When the enemy is about to make a sudden move, feign disorder and confusion; then attack him at unexpected places with an army of half his size.*
+>
+>*2. If he has sent spies into your country, you must not let them go back alive: execute or drive out all who return without permission from their lord.*
+>
+>*3. In case of defeat in battle, do not try to flee on foot but save as many horses as possible and get away on horseback.*
+>
+>*4. Do not forget that a beaten force can always fight again while one still undefeated cannot recover its losses.*
+>
+>*5. The supreme art of war lies in dominating the situation.*
+>
+>*6. Let your plans include everything that is likely to happen, for it will probably turn out better than if only what seems best were planned.*
+>
+>*7. All warfare is based on deception. Hence, when able to deceive our opponent, we are victorious; when unable to deceive him, we are defeated.*
+>
+>*8. When capable of deceiving others, never tell them anything you do not have to; this makes people trust you.*
+>
+>*9. Hold jie (trust) sacred and be honest in negotiations.*
+
+***
 #### [Visual Novel](#works)
 
 ##### [Fate/stay ataraxia](https://files.catbox.moe/o8en07.module)
