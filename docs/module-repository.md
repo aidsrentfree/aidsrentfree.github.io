@@ -26,7 +26,6 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 - Added [Neuromancer](#neuromancer) module
 - Added [Blood Meridian or The Evening Redness in the West](#blood-meridian) module 
 - Updated [Prison](#male-prison) module with a more clear name and moved it to a better category.
-- Added [ANOTHER Furry ENF](#furry-enf) module
 - Added [Wheel of Time series](#wheel-of-time) module
 - Added [Learning Magic](#learning-magic) module
 - Added [Code Lyoko Novels](#code-lyoko) module
