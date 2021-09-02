@@ -17,6 +17,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 
 ## Recent Changes
 
+- Fixed an error, the new Furry ENF module is the new version of [Embarrassed Naked Furry](#embarrassed-naked-furry)
 - Added 10K step version to [Cross-Genre](#cross-genre)
 - Added 12K step version to [Poetic Fantasy](#poetic-fantasy)
 - Added [Non-Fiction](#non-fiction) section to works and [Art of War](#art-of-war) module
@@ -143,7 +144,6 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [Exponent](#exponent)
 				- [Foot](#foot)
 				- [Furcest](#furcest)
-				- [Furry ENF](#furry-enf)
 				- [Futarotica](#futarotica)
 				- [Futrap](#futrap)
 				- [Gardevoir](#gardevoir)
@@ -1312,9 +1312,11 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *It's just dragon smut, nothing too extreme.*
 
-##### [Embarrassed Naked Furry](https://files.catbox.moe/941xn8.module)
+##### [Embarrassed Naked Furry](https://files.catbox.moe/kqvy9p.module)
 
-[by Anon](https://arch.b4k.co/vg/thread/346925990/#346969152)
+[by Anon](https://arch.b4k.co/vg/thread/349741726/#349745423)
+
+*Thrown 2250 steps at this, and I called it Furry ENF in case it's not actually overtrained and I want to keep it.*
 
 *Contains Bondage and Dominance, NonConsent*
 
@@ -1395,12 +1397,6 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 [by Anon](https://arch.b4k.co/vg/thread/348033881/#348078084)
 
 *Furcest module. Trained using an even mix of 5 top rated stories with Brother/Sister, Mother/Son, Father/Daughter, mixed gay and mixed lesbian incest.*
-
-##### [Furry ENF](https://files.catbox.moe/kqvy9p.module)
-
-[by Anon](https://arch.b4k.co/vg/thread/349741726/#349745423)
-
-*Thrown 2250 steps at this, and I called it Furry ENF in case it's not actually overtrained and I want to keep it.*
 
 ##### [Futarotica](https://files.catbox.moe/x3lugm.module)
 
