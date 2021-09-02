@@ -3,12 +3,13 @@ layout: page
 title: "Settings Repository"
 permalink: /settings/
 ---
-# Settings Repository
+
+# /aids/ Settings Repository
 
 *Then he went up from there to Bethel; and as he was going up the road, some youths came from the city and mocked him, and said to him, “Go up, you bald head! Go up, you bald head!” So he turned around and looked at them, and pronounced a curse on them in the name of the Lord. And two female bears came out of the woods and mauled forty-two of the youths.*
-*~Kings 2:23*
+***Kings 2:23***
 
-- [Settings Repository](#settings-repository)
+- [/aids/ Settings Repository](#aids-settings-repository)
   - ["I don't know anything!" [Work in Progress]](#i-dont-know-anything-work-in-progress)
     - [Randomness](#randomness)
     - [Max and Min Output Length](#max-and-min-output-length)
@@ -24,8 +25,10 @@ permalink: /settings/
       - [Sensible Moth](#sensible-moth)
       - [*Experimental* Moth](#experimental-moth)
       - [Whitepaper](#whitepaper)
+      - [Fated Outcome](#fated-outcome)
     - [Tail-Free Sampling](#tail-free-sampling)
-      - [Damn Decent Sigurd](#damn-decent-sigurd)
+      - [Coherence and Creativity](#coherence-and-creativity)
+      - [Damn Decent](#damn-decent)
       - [Complex](#complex)
       - [Pleasing Results](#pleasing-results)
     - [The Scaffold](#the-scaffold)
@@ -161,7 +164,7 @@ Repetition Penalty Slope: `Disabled`
 > It will depend on context and other settings, but for me with only two lorebook entries, memory and some story context, the generated writing was pretty interesting to read, randomness can be played around with some more though, my goal behind these settings was to get good, coherent writing at high randomness!
 > Edit: After some testing with a fresh prompt, can confirm that the writing is mediocre until there's enough context built up for the AI to go off of, so either make sure you have enough context, or apply the set after you generate some story!
 
-*~Nyks*
+*Nyks*
 
 Randomness: `1.07`
 Max Output Length: `60`
@@ -176,7 +179,7 @@ Repetition Penalty Slope: `Disabled`
 
 >One more set of settings for now. Took it up as a challenge to make 2.5 randomness output writing that made sense. Nucleus is what keeps the randomness tame, so adjust at your own discretion, also avoid using Tail-Free Sampling with it, it does not play well with high randomness no matter how you adjust it. May require more direction and occasional correction to keep on track, but writing style is interesting. Usually needs good context as a primer.
 
-*~Nyks*
+*Nyks*
 
 Randomness: `2.5`
 Max Output Length: `60`
@@ -197,7 +200,7 @@ Repetition Penalty Slope: `Disabled`
 > The spaces are important, and capitalization matters!
 > Still needs to build up some context before the generation gets good.
 
-*~Nyks*
+*Nyks*
 
 When it understands, it's stronger than Sensible Moth. You have to be especially careful on word choice, but can produce some really good results once you've got it under control. The outputs are 'sensible' but often become 'sensibly incorrect' quickly.
 
@@ -230,13 +233,49 @@ Repetition Penalty: `3.0`
 Repetition Penalty Range: `1024`
 Repetition Penalty Slope: `6.57`
 
+#### Fated Outcome
+
+> This Preset will always return the same output until something is changed in the Context, allowing a sense of permanence and fate within the world of your narrative.
+>
+> Fun cases with this Preset include "time warping" to see how a character would have reacted if you said or did something different, and testing the effects of different token associations on the flow of a Story. Additionally, lore details and names should have a significantly higher chance of being correct.
+>
+> NOTE: This Preset makes the Retry button useless while active, as the same output will always be returned until something changes.
+
+[*Pause*](https://discord.com/channels/836774308772446268/855963388596715531/879992241874169949)
+
+Randomness: `0.1`
+Max Output Length: `400`
+Repetition Penalty: `2.4`
+Top-K Sampling: `1`
+Nucleus Sampling: `0.1`
+Tail-Free Sampling: `off`
+Repetition Penalty Range: `off`
+Repetition Penalty Slope: `off`
+Min Output Length: `1 tokens`
+
 ***
 
 ### Tail-Free Sampling
 
-#### Damn Decent Sigurd
+#### Coherence and Creativity
 
-***Keep in mind this one is slated as "beta" so it's probably going to change. Not exactly sure why someone would label generation settings as a fucking beta but there you go.***
+> This has been extensively tested, and is adjusted as needed for different scenarios. It has shown itself to be a good balance between coherence, creativity, and quality of prose in my scenarios.
+>
+> Using TFS and a higher than default randomness to have some creativity and variability.  An even amount of repetition penalty is applied across the entire context of 2048 tokens.  This is because the way repetition penalty slope works and is used, it makes no sense -- a lot of lorebook context is loaded at the top of the context, where repetition penalty is not applied in most settings.
+>
+> Without even repetition penalty across the entire context, you end up with a lot of exposition word for word from lorebook entries. You might introduce a middling repetition penalty slope if you run into difficulty.
+
+[*OccultSage*](https://discord.com/channels/836774308772446268/855963388596715531/882851480300838992)
+
+Randomness: `0.52`
+Repetition Penalty: `3.875`
+Top-K Sampling: `off`
+Nucleus Sampling: `off`
+Tail-Free Sampling: `0.992`
+Repetition Penalty Range: `2048`
+Repetition Penalty Slope: `off`
+
+#### Damn Decent
 
 Randomness: `0.56`
 Max Output Length: `60`
@@ -302,4 +341,4 @@ Position | Insertion Order | Reserve Tokens | Type
 
 ***
 
-This page is designed and updated with Sigurd in mind.
+This rentry is designed and updated with Sigurd in mind.
