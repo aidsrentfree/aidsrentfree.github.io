@@ -3,7 +3,6 @@ layout: page
 title: "Settings Repository"
 permalink: /settings/
 ---
-
 # /aids/ Settings Repository
 
 *Then he went up from there to Bethel; and as he was going up the road, some youths came from the city and mocked him, and said to him, “Go up, you bald head! Go up, you bald head!” So he turned around and looked at them, and pronounced a curse on them in the name of the Lord. And two female bears came out of the woods and mauled forty-two of the youths.*
@@ -27,7 +26,7 @@ permalink: /settings/
       - [Whitepaper](#whitepaper)
       - [Fated Outcome](#fated-outcome)
     - [Tail-Free Sampling](#tail-free-sampling)
-      - [Coherence and Creativity](#coherence-and-creativity)
+      - [Coherent Creativity](#coherent-creativity)
       - [Damn Decent](#damn-decent)
       - [Complex](#complex)
       - [Pleasing Results](#pleasing-results)
@@ -257,7 +256,7 @@ Min Output Length: `1 tokens`
 
 ### Tail-Free Sampling
 
-#### Coherence and Creativity
+#### Coherent Creativity
 
 > This has been extensively tested, and is adjusted as needed for different scenarios. It has shown itself to be a good balance between coherence, creativity, and quality of prose in my scenarios.
 >

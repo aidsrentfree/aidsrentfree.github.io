@@ -17,21 +17,20 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 
 ## Recent Changes
 
+- Added [Redwall Series](#redwall) module
+- Added [Feudal Japan](#feudal-japan) module and it's variants
+- Added [Yōkai Generator](#yōkai) module
+- Added [Arthurian](#arthurian) module
+- Updated [Male Prison](#male-prison) module
+- Added [The Elder Scrolls In-Game Texts](#the-elder-scrolls-in-game-texts) module
+- Added [Ancient HISTORICAL Rome](#ancient-historical-rome) module
+- Added 20MB 22K steps version to [Cross-Genre](#cross-genre)
+- Added [DND Monster Generator](#dnd-monster-generator) module
+- Added [prompts.aidg.club](#the-club) module
+- Added [Lesbian Furry](#furbianism) module
 - Fixed an error, the new Furry ENF module is the new version of [Embarrassed Naked Furry](#embarrassed-naked-furry)
 - Added 10K step version to [Cross-Genre](#cross-genre)
 - Added 12K step version to [Poetic Fantasy](#poetic-fantasy)
-- Added [Non-Fiction](#non-fiction) section to works and [Art of War](#art-of-war) module
-- Added [Respecting Women (1st Person)](#respecting-women) module
-- Added [Mistborn Trilogy](#mistborn-trilogy) module
-- Added [Neuromancer](#neuromancer) module
-- Added [Blood Meridian or The Evening Redness in the West](#blood-meridian) module 
-- Updated [Prison](#male-prison) module with a more clear name and moved it to a better category.
-- Added [Wheel of Time series](#wheel-of-time) module
-- Added [Learning Magic](#learning-magic) module
-- Added [Code Lyoko Novels](#code-lyoko) module
-- Added [LitRPG](#litrpg) module
-- Added [Forgotten Realms](#forgotten-realms) module
-- Updated [Alien Franchise](#alien-franchise) module and also moved it to [Setting](#setting)
 - Removed Appendix
 
 ***
@@ -75,14 +74,17 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 		- [Themes](#themes)
 			- [Setting](#setting)
 				- [Action Movies](#action-movies)
-				- [Ancient Rome](#ancient-rome)
 				- [Alien Franchise](#alien-franchise)
+				- [Ancient Rome](#ancient-rome)
+				- [Ancient Historical Rome](#ancient-historical-rome)
+				- [Arthurian](#arthurian)
 				- [AR Video Game Reality](#ar-video-game-reality)
 				- [Batman](#batman)
 				- [Beastars](#beastars)
 				- [Classic Cyberpunk](#classic-cyberpunk)
 				- [Cyberpunk 2222](#cyberpunk-2222)
 				- [Dark Academia](#dark-academia)
+				- [Feudal Japan](#feudal-japan)
 				- [Folk Fantasy](#folk-fantasy)
 				- [Forgotten Realms](#forgotten-realms)
 				- [Generation Ship](#generation-ship)
@@ -123,6 +125,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [Second Proseon](#second-proseon)
 				- [Surrealistic Look Through The Glass](#surrealistic-look-through-the-glass)
 				- [Sweet Time](#sweet-time)
+				- [The Elder Scrolls In-Game Texts](#the-elder-scrolls-in-game-texts)
 				- [Twilight 2000 (Encounters)](#twilight-2000-encounters)
 				- [Weird](#weird)
 				- [Wildlife](#wildlife)
@@ -142,6 +145,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [Erotic Roleplay](#erotic-roleplay)
 				- [Exponent](#exponent)
 				- [Foot](#foot)
+				- [Furbianism](#furbianism)
 				- [Furcest](#furcest)
 				- [Futarotica](#futarotica)
 				- [Futrap](#futrap)
@@ -201,6 +205,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [Mistborn Trilogy](#mistborn-trilogy)
 				- [My Struggle](#my-struggle)
 				- [Oz](#oz)
+				- [Redwall](#redwall)
 				- [The Bible](#the-bible)
 				- [The Culture](#the-culture)
 				- [The Dark Tower](#the-dark-tower)
@@ -245,8 +250,11 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [Trial By Tenderness](#trial-by-tenderness)
 		- [Utilities](#utilities)
 			- [Advertisements](#advertisements)
+			- [DND Monster Generator](#dnd-monster-generator)
 			- [Pokédex](#pokédex)
+			- [The Club](#the-club)
 			- [World Generator](#world-generator)
+			- [Yōkai](#yōkai)
 
 ***
 
@@ -458,19 +466,6 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 >
 >The Man watches everything happen. Finally, he begins walking towards the center of the city. It will take time for word of this disaster to spread throughout the region. By then, however, he has already made his way deep inside the heart of downtown L.A.
 
-##### [Ancient Rome](https://files.catbox.moe/5g7xj2.module)
-
-[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/873459667710390332)
-
-*Intended to introduce inspiration by Ancient Rome, this draws from books written by Colleen McCullough and classics such as I, Cladius, with epic battles by legionaries against the barbarians as gladiatorial spectacles. Political intrigue abound!*
-
->**Rome! The greatest city in the world, and my home.** I would rather die than leave it."
->
->"I understand," said Caesar coldly. "You are a patriot as well as an opportunist; you will not be happy anywhere else. But that is your own affair." He turned to me again. "So we have decided: the three of us shall stay together for one year only. We need time to decide what our next step should be."
->
->"If there were more men like you two around, perhaps Rome could still stand!" Antonia spoke with feeling. She was very beautiful at this moment, her face flushed from wine or excitement, but she looked tired too. Her eyes seemed haunted by some memory, though whether good or bad she did not say.
->We had been talking about politics all evening. It was clear now why Pompey's letter had caused such dismay among his supporters.
-
 ##### [Alien Franchise](https://files.catbox.moe/l7j7j2.module)
 
 [by Basileus](https://discord.com/channels/836774308772446268/870449646391156776/881435261064597544)
@@ -510,6 +505,46 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 >Something sinuous and glistening moved through the shadows in the corridor.
 >
 >"What's that?" Krenshaw asked, but it was too late for her to do anything about it. The thing came out of the darkness like a snake emerging from its hole—and then it struck. It whipped around the woman's head with an explosive hiss, clamped down on her face, and dragged her into the blackness. She screamed once, long and shrill, before she disappeared completely.
+
+##### [Ancient Rome](https://files.catbox.moe/5g7xj2.module)
+
+[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/873459667710390332)
+
+*Intended to introduce inspiration by Ancient Rome, this draws from books written by Colleen McCullough and classics such as I, Cladius, with epic battles by legionaries against the barbarians as gladiatorial spectacles. Political intrigue abound!*
+
+>**Rome! The greatest city in the world, and my home.** I would rather die than leave it."
+>
+>"I understand," said Caesar coldly. "You are a patriot as well as an opportunist; you will not be happy anywhere else. But that is your own affair." He turned to me again. "So we have decided: the three of us shall stay together for one year only. We need time to decide what our next step should be."
+>
+>"If there were more men like you two around, perhaps Rome could still stand!" Antonia spoke with feeling. She was very beautiful at this moment, her face flushed from wine or excitement, but she looked tired too. Her eyes seemed haunted by some memory, though whether good or bad she did not say.
+>We had been talking about politics all evening. It was clear now why Pompey's letter had caused such dismay among his supporters.
+
+##### [Ancient Historical Rome](https://files.catbox.moe/01yvca.module)
+
+[by OccultSage and Catos](https://discord.com/channels/836774308772446268/870449646391156776/883056476090925076)
+
+*Intended to introduce inspiration by Ancient Rome, this draws from works by Colleen McCullough, Robert Graves, with epic battles by legionaries against the barbarians as gladiatorial spectacles. Now includes historical texts written by actual Romans, edited and provided by Cato and trained to 100% coverage!*
+
+*This is greatly enhanced vs the original Ancient Rome module for the purposes of being in the Ancient Roman empire. The original module is appropriate if you want Roman themes.*
+
+##### [Arthurian](https://files.catbox.moe/23b9i3.module)
+
+[by AvoWizard](https://discord.com/channels/836774308772446268/870449646391156776/883925063550779392)
+
+*Trained on The Mabinogion, Gawain and the Green Knight, and various other Arthurian stories.*
+
+> Mordred grew up to become a great warrior just like his father before him. His mother never forgot how much she owed to the woman who saved her life. She gave birth to Mordred knowing that she had given him something very special—the gift of magic. He was born able to use powers beyond normal men—powers which allowed him to control animals and spirits. When he reached adulthood he joined the ranks of the Knights of the Round Table. And there he met Elaine of Cornwall—a beautiful young lady whose eyes held him captive. Their love was true and pure. They vowed to spend their lives together.
+>
+> When they married, they made a vow: Never shall either of us leave the other side of the world. So great was their love for each other that they swore to go together wherever fate might send them. As a token of their promise they took an oath upon themselves. To the end of time, neither of them shall ever break the bond of marriage. If one should die first then the survivor must take the dead spouse's place beside him on the throne of Britain. The two of them spent all of their time together. Even at the risk of their own lives they protected others from harm.
+>
+> It was at a tournament held near the city of Caerleon in Wales that the two of them came face to face for the first time. There was a fierce battle going on. A man was lying wounded in the middle of the field. The knights of the court gathered around him trying to help.
+> "I'm sorry to say," said the man to Mordred. "But I fear I am dying."
+>
+> "You are not going to die," said Mordred. "I'll save you."
+>
+> The man looked at Mordred in amazement. "You? You are only a boy! How can you possibly do such a thing?"
+>
+> "Because I am the king's son," replied Mordred.
 
 ##### [AR Video Game Reality](https://files.catbox.moe/kjktjl.module)
 
@@ -621,6 +656,20 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 - *Special Friendships by Roger Peyrefitte*
 - *The Bone Clocks by David Mitchell (edited to just the Hugo Lamb scenes)*
 
+##### [Feudal Japan](https://files.catbox.moe/quvngg.module)
+
+[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/883971016525754380)
+
+[13K 60% Coverage Vers.](https://files.catbox.moe/lb70od.module)
+
+[7K 30% Coverage Vers.](https://files.catbox.moe/3z3cpf.module)
+
+*This Feudal Japan module draws upon works such as Musashi, Taiko by Eiji Yoshiwaka, Shogun and Gaijin by James Clavell, and mysteries, epics, biographies from other authors to cover Feudal Japan from the 13th to the 19th Century.*
+
+*20mb, 22,500 steps, 100% coverage, 2.753 loss*
+
+*It's a refinement and expansion of the earlier [Genroku Era](#genroku-era) module.*
+
 ##### [Folk Fantasy](https://files.catbox.moe/nmcslr.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/346359371/#346361532)
@@ -694,15 +743,15 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 >
 >And then there was nowhere else to go.
 
-##### [Male Prison](https://files.catbox.moe/z5ue6r.zip)
+##### [Male Prison](https://files.catbox.moe/zov2u1.rar)
 
-[by Anon](https://arch.b4k.co/vg/thread/348767728/#348839824)
+[by Anon](https://arch.b4k.co/vg/thread/350292737/#350329558)
 
-*Here it is. A male prison module along with the finetune data, sources, and rejected sources. I added these things in case anybody wanted to improve upon it.*
+*Here is the second version of the male prison module. I trained it at 50% so it will have a stronger influence than the first version.*
 
-*It adds up to 7MB of data trained at 35%. I've used up my steps for this month so I really hope that I got this right.*
+*The rar includes the first and second version of the male prison modules as well as the sources and the old and new finetune data.*
 
-*If there's anybody that's interested in using this module please feel free to give me feedback on how well (or how shitty) it is.*
+*As always, if you are interested in this module please feel free to provide feedback on how I could improve it.*
 
 ##### [Mass Effect](https://files.catbox.moe/p2kdgi.module)
 
@@ -974,6 +1023,8 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 
 [10K Steps Vers.](https://files.catbox.moe/jwc6cb.module)
 
+[20MB 22K Steps Vers.](https://files.catbox.moe/d5vy58.module)
+
 *"Hmm," thought OccultSage, " ... what would happen if I tossed in books from my curated and edited pile, and balanced out the influence for a 25% sampling?" This is the result of mixing in Genroku era, surrealist, post-apocalypse and Greek mythology.*
 
 *The result seems to be a general prose/plot-enhancer that can be nudged in the direction of multiple genres easily.*
@@ -1192,6 +1243,24 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 >
 >He stood up and walked towards the door. Then he turned around and held his hand out to me. "Come on."
 
+##### [The Elder Scrolls In-Game Texts](https://files.catbox.moe/6vvi4q.module)
+
+[by ScalyWanderer](https://discord.com/channels/836774308772446268/870449646391156776/883144310575480892)
+
+*The module is trained on The Elder Scrolls 2-5 & TESO in-game texts (books, notes, etc.) + the official novels by Greg Keyes.*
+
+> \*\*\*
+>
+> **"Why walk when you can ride?" the Dunmer smiles**. "It’s more fun, and I know how to do it properly."
+>
+> The Khajiit says nothing for a moment; she is not accustomed to being told what to do by others. Then her eyes flash with anger as she speaks in an icy tone: “I am no slave! And if your kind are so good at riding horses, then why don't you come down here from that wagon of yours? Why don't we see who rides whom? If you think you're going to get away with this... well ... let me tell you something about us Khajiiti. We have sharp claws, yes — but also sharper teeth. You won’t live long enough to regret crossing my path.”
+>
+> Her words send chills up the Dark Elf’s spine. He turns pale and drops his hand back onto the reins. The caravan stops moving again.
+>
+> A few moments later, he looks over at the Khajiit once more. She has climbed back into the wagon, leaving him alone on top of the carriage. Her tail flops angrily against one side of the vehicle, while her ears twitch nervously. It appears she is trying to decide whether or not to jump off right now.
+>
+> He smiles inwardly. Perhaps there will be another chance to test himself against this female. After all, the Khajiits were known throughout Tamriel as fierce warriors - perhaps they would prove useful allies after all.
+
 ##### [Twilight 2000 (Encounters)](https://files.catbox.moe/2jgr7s.module)
 
 [by TravelingRobot](https://discord.com/channels/836774308772446268/870449646391156776/877174584435146852)
@@ -1390,6 +1459,12 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 *I wrote something that assigns scores to stories from literotica with the highest density of given keywords and key phrases. It then takes the top 50 stories and re-formats them into the needed module training format. My first experiment was trying to get a bunch of foot fetish stories with bratty/humiliating undertones. I personally haven't tried it yet as I've only woken up but I wanted to share anyway.*
 
 *[3rd person] [trash-data] bratty_femdom-ish foot fetish*
+
+##### [Furbianism](https://files.catbox.moe/nd1eep.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/349982394/#350082308)
+
+*Trained to ~90% on 20mb of degenrate shit, around 16k steps.*
 
 ##### [Furcest](https://files.catbox.moe/cbk651.module)
 
@@ -1913,6 +1988,41 @@ Felt like it would be unnecessary to do all fourteen of his books in the Oz seri
 
 *Hopefully, others will enjoy using this module as much as me.*
 
+##### [Redwall](https://files.catbox.moe/xqp9xz.module)
+
+[by Basileus](https://discord.com/channels/836774308772446268/870449646391156776/884277862000099368)
+
+*Selected from Brian Jacques's series about the anthropomorphic creatures of Redwall Abbey and Mossflower Wood, plus a small influence from similar works by Hilary Wagner and Daniel Polansky for diversity.*
+
+*5.3MB, 50% coverage*
+
+- *Mossflower (Redwall) by Brian Jacques*
+- *The Bellmaker (Redwall) by Brian Jacques*
+- *Pearls of Lutra (Redwall) by Brian Jacques*
+- *The Long Patrol (Redwall) by Brian Jacques*
+- *Lord Brocktree (Redwall) by Brian Jacques*
+- *Taggerung (Redwall) by Brian Jacques*
+- *Loamhedge (Redwall) by Brian Jacques*
+- *Rakkety Tam (Redwall) by Brian Jacques*
+- *Nightshade City by Hilary Wagner*
+- *The Builders by Daniel Polansky*
+
+>In the soft shadows at the edge of the wood, a figure stirred.
+>
+>A young female mousemaid sat up with a start and stared around in surprise as her eyes adjusted to the darkness. The last thing she remembered was being carried off by those wicked creatures called otters—they had stolen her from under the noses of Redwall Abbey's guards. Now here she was back where it all began; safe but alone on an island surrounded by water! She could hear waves lapping against rocks nearby. There were no trees or bushes anywhere near so how did they get me out? But that didn't matter now. All she wanted to do was go home to Redwall.
+>
+>The maid stood shakily upright. Her fur cloak lay spread over some kind of mossy log close by. A large red stone lay beside it, half buried beneath leaves and ferns. It looked like one of those stones used for marking boundaries, though this one seemed bigger than most. What was more interesting still, there was writing carved into its face:
+>
+>"Dawn is breaking, my friend,
+>
+>Sun will soon be shining bright."
+>
+>She gazed about in wonderment. "Where am I?"
+>
+>But the answer came from behind her.
+>
+>"You are not far away from your own land, my dear," said a voice softly. Turning quickly, the girl saw a small creature standing only two pawsteps away.
+
 ##### [The Bible](https://files.catbox.moe/8agh6y.module)
 
 [by El Inquisidor](https://discord.com/channels/836774308772446268/870449646391156776/870891899156856892)
@@ -2309,6 +2419,30 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 >
 >The world has gone through a revolution. It is no longer enough simply to build. To survive and succeed now requires a total commitment to your art, a passion for innovation. For the next generation's greatest work. And this is our pledge to you... from Ford... a full spectrum of vehicles that are designed to make life more enjoyable, more exciting. Because when life's fun-a Ford!
 
+#### [DND Monster Generator](https://files.catbox.moe/9436dx.module)
+
+[by Elle](https://discord.com/channels/836774308772446268/870449646391156776/883558092732792843)
+
+Basically I scraped DND 5e and 4e for Monster Manual entries, it has some nice outputs that could work as actual stats
+Tags: Monster Generator, DND, TTRPG, Roleplay
+
+Use Example:
+> input: Barack Obama Stats and Lore:
+>
+> Name: Barack Obama
+>
+> Race: Human
+>
+> Class: Wizard
+>
+> Level: 10
+>
+> Title: President of the United States
+>
+> Skills: Bluff, Diplomacy, Disguise, Intimidate, Knowledge (arcana), Perception, Sense Motive, Stealth
+>
+> Lore: The only thing that can stop this man is another man."
+
 #### [Pokédex](https://files.catbox.moe/xoh3jy.module)
 
 [by lion](https://discord.com/channels/836774308772446268/870449646391156776/872058262000894012)
@@ -2335,6 +2469,18 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 
 *You can also try different prompts as it is quite flexible in generating stat blocks and fantasy creature descriptions.*
 
+#### [The Club](https://files.catbox.moe/l6uggu.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/350292737/#350296625)
+
+![Example](https://files.catbox.moe/6fiig4.png)
+
+*(formerly known as "Prompt Module")*
+
+*I bought another 10k steps to train on the entirety of the club. This time with proper formatting. Sections are seperated by the @ symbol, so you can ban that token to keep it on track.*
+
+*Originally intended to generate prompts from tags, but it seems to be able to do more than that. It can work with full stories fine. It is good at second person. It "knows" a lot about what people want from AI stories and how text should be formatted. So I think it makes a good default module.*
+
 #### [World Generator](https://files.catbox.moe/zswaxs.module)
 
 [by lion](https://discord.com/channels/836774308772446268/870449646391156776/875932866293415946)
@@ -2356,6 +2502,20 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 *Works most reliably at the start of a new scenario or on a newline after a dinkus ***. Try including some data encapsulated in brackets (as seen in the above examples) if you want to steer the generation in a specific direction.*
 
 *Recommended keywords are Type, Name, Input, Genre, Tags, Species, Size, and Setting, though feel free to experiment and try different things as I've surprised myself a few times by what was generated. This is especially the case when used in tandem with other generator modules like the Pokédex module*
+
+#### [Yōkai](https://files.catbox.moe/8x9w18.module)
+
+[by AvoWizard](https://discord.com/channels/836774308772446268/870449646391156776/883934323596742706)
+
+*Trained on every entry on yokai.com.*
+
+>**TRANSLATION: the blue flame lantern**
+>
+> APPEARANCE: The name of this yōkai is derived from a type of Japanese candle called “bou”. These candles are made out of clay and dipped in wax before being lit, giving them an eerie glow. This particular kind of yōkai has no eyes or mouth—it merely floats around like a ghostly orb of light. It can be found on street corners, at shrines, and inside homes during night time. There are many different legends surrounding it; some say that its shape represents fire spirits, while others claim it to be a spirit of darkness sent by gods.
+>
+> LEGENDS: Some stories tell of children who have been cursed by their parents for not doing well enough in school. As punishment they were forced to walk home through dark streets alone at night. When they arrive back home, however, there will always be a bō hanging outside waiting for them. If you try to take one with you, the flames within will burn your hands until you drop it. Other tales describe how if you touch a bō, then go somewhere else and come back later, you will find that it was gone.
+>
+> INTERACTIONS: Bōs spend most of their lives floating about without any form of movement. They only appear when someone approaches them. Those who see these orbs often report having seen people walking past them but never looking up. Many believe that they must have looked directly at the bō and therefore did not notice it. Others speculate that perhaps the orb itself is so small that it blends into the scenery and looks as though it is simply part of the background. Once someone does look down upon it, however, it becomes apparent that something strange is going on. People who do catch sight of the bō experience intense pain, which quickly spreads throughout their bodies. Sometimes the pain can even cause paralysis.
 
 ***
 ***
