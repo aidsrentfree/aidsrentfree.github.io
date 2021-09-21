@@ -5,33 +5,29 @@ permalink: /modules/
 ---
 # /aids/ Rent-Free Module Repository
 
-Alright, let's do this again.
+Well, looks like we've run out of space on the [rentry](https://rentry.co/modules).
 
-Just like the [other](https://rentry.co/settings) [two](https://rentry.co/lorebooks) rentries, this one serves to be a not-on-discord log of notable NovelAI modules that Anons and others create.
-
-All the questions you'd need answered about the concept can be found on NAI's [medium blogpost](https://novelai.medium.com/custom-ai-modules-dbc527d66081), but I expect more information to come out as we continue experimenting with this feature.
-
-Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's page](https://naidb.miraheze.org/wiki/Datasetting_for_AI_Modules) on the matter.
+Thus the repo continues here, where character limit concerns are a thing of the ~~past~~ distant future. If and when another model comes out, I'll backup this edition to it's own page and start from the rentry.co anew.
 
 ***
 
 ## Recent Changes
 
-- Added [Redwall Series](#redwall) module
-- Added [Feudal Japan](#feudal-japan) module and it's variants
-- Added [Yōkai Generator](#yōkai) module
-- Added [Arthurian](#arthurian) module
-- Updated [Male Prison](#male-prison) module
-- Added [The Elder Scrolls In-Game Texts](#the-elder-scrolls-in-game-texts) module
-- Added [Ancient HISTORICAL Rome](#ancient-historical-rome) module
-- Added 20MB 22K steps version to [Cross-Genre](#cross-genre)
-- Added [DND Monster Generator](#dnd-monster-generator) module
-- Added [prompts.aidg.club](#the-club) module
-- Added [Lesbian Furry](#furbianism) module
-- Fixed an error, the new Furry ENF module is the new version of [Embarrassed Naked Furry](#embarrassed-naked-furry)
-- Added 10K step version to [Cross-Genre](#cross-genre)
-- Added 12K step version to [Poetic Fantasy](#poetic-fantasy)
-- Removed Appendix
+- Added [Harem Fantasy Collection](#harem-fantasy) module
+- Added [Pinwheel Series](#pinwheel) module
+- Added [Girls' Frontline](#girls-frontline) module
+- Added [Celtic Mythology](#celtic-mythology) module
+- Updated [Count Grey](#count-grey) module
+- Added [Touhou Project](#touhou-project) module
+- Added [Math](#math)
+- Added [Director View](#director-view) module
+- Added [World of Pokemon](#world-of-pokémon) module
+- Added [Aztec, Inca and Mayan Mythology](#aztec-inca-and-mayan-mythology) module
+- Added [10K Step Vers.](#c-s-lewis) to CS Lewis module
+- Updated [Dragon Smut](#dragon-smut) and [Furry ENF](#embarrassed-naked-furry) modules
+- Added [Scalyuri](#scalyuri) module
+- Sorted everything alphabetically, ignoring the definite and indefinite articles (The, A, An, etc.)
+- Added [Gay BDSM](#gay-bdsm) module
 
 ***
 
@@ -75,18 +71,23 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 			- [Setting](#setting)
 				- [Action Movies](#action-movies)
 				- [Alien Franchise](#alien-franchise)
-				- [Ancient Rome](#ancient-rome)
 				- [Ancient Historical Rome](#ancient-historical-rome)
+				- [Ancient Rome](#ancient-rome)
 				- [Arthurian](#arthurian)
 				- [AR Video Game Reality](#ar-video-game-reality)
+				- [Aztec, Inca and Mayan Mythology](#aztec-inca-and-mayan-mythology)
 				- [Batman](#batman)
+				- [Battletech](#battletech)
 				- [Beastars](#beastars)
+				- [Celtic Mythology](#celtic-mythology)
 				- [Classic Cyberpunk](#classic-cyberpunk)
 				- [Cyberpunk 2222](#cyberpunk-2222)
 				- [Dark Academia](#dark-academia)
 				- [Feudal Japan](#feudal-japan)
 				- [Folk Fantasy](#folk-fantasy)
 				- [Forgotten Realms](#forgotten-realms)
+				- [Furry Scipunktasy](#furry-scipunktasy)
+				- [Girls' Frontline](#girls-frontline)
 				- [Generation Ship](#generation-ship)
 				- [Genroku Era](#genroku-era)
 				- [Mad Max](#mad-max)
@@ -98,9 +99,13 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [Poetic Fantasy](#poetic-fantasy)
 				- [Post-Apocalyptic Fallout](#post-apocalyptic-fallout)
 				- [Russian Fantasy and Folklore](#russian-fantasy-and-folklore)
-				- [Star Trek The Next Generation](#star-trek-the-next-generation)
+				- [A Song of Ice and Fire](#a-song-of-ice-and-fire)
+				- [Star Trek: The Next Generation](#star-trek-the-next-generation)
+				- [Star Trek: The Original Series](#star-trek-the-original-series)
+				- [Touhou Project](#touhou-project)
 				- [Vampire: The Masquerade](#vampire-the-masquerade)
 				- [Western](#western)
+				- [World of Pokémon](#world-of-pokémon)
 				- [Xenoarchaeology and Relics](#xenoarchaeology-and-relics)
 				- [Zombie Apocalypse](#zombie-apocalypse)
 			- [Elements](#elements)
@@ -111,6 +116,7 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [Cross-Genre](#cross-genre)
 				- [Cross-Genre: Romance](#cross-genre-romance)
 				- [Duke Nukem](#duke-nukem)
+				- [The Elder Scrolls In-Game Texts](#the-elder-scrolls-in-game-texts)
 				- [Forbidden Lands (Encounters)](#forbidden-lands-encounters)
 				- [Gay](#gay)
 				- [Gay 2](#gay-2)
@@ -118,54 +124,62 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [Gryphons](#gryphons)
 				- [Learning Magic](#learning-magic)
 				- [LitRPG](#litrpg)
-				- [Mormon](#mormon)
 				- [Melee Combat](#melee-combat)
+				- [Mormon](#mormon)
 				- [Purely Purple Prose](#purely-purple-prose)
 				- [Second Person](#second-person)
 				- [Second Proseon](#second-proseon)
+				- [Sergals](#sergals)
 				- [Surrealistic Look Through The Glass](#surrealistic-look-through-the-glass)
 				- [Sweet Time](#sweet-time)
-				- [The Elder Scrolls In-Game Texts](#the-elder-scrolls-in-game-texts)
 				- [Twilight 2000 (Encounters)](#twilight-2000-encounters)
 				- [Weird](#weird)
 				- [Wildlife](#wildlife)
 				- [Zombies](#zombies)
 			- [Sexual](#sexual)
+				- [/hmofa/](#hmofa)
 				- [Anal](#anal)
 				- [Androids, Robots, Aliens, Harems](#androids-robots-aliens-harems)
 				- [ATR Degredation](#atr-degredation)
 				- [Cannibalism](#cannibalism)
+				- [Cross-Pornre](#cross-pornre)
 				- [Cute and Funny](#cute-and-funny)
 				- [Dragon Smut](#dragon-smut)
-				- [Embarrassed Naked Furry](#embarrassed-naked-furry)
 				- [Embarrassed Naked Female](#embarrassed-naked-female)
 				- [Embarrassed Naked Female (Third Person)](#embarrassed-naked-female-third-person)
+				- [Embarrassed Naked Furry](#embarrassed-naked-furry)
 				- [Eroguro](#eroguro)
 				- [Erotic Horror](#erotic-horror)
 				- [Erotic Roleplay](#erotic-roleplay)
 				- [Exponent](#exponent)
+				- [Fantasy Anthro](#fantasy-anthro)
+				- [Femdom](#femdom)
 				- [Foot](#foot)
 				- [Furbianism](#furbianism)
 				- [Furcest](#furcest)
+				- [Furry (Short Stories)](#furry-short-stories)
 				- [Futarotica](#futarotica)
 				- [Futrap](#futrap)
 				- [Gardevoir](#gardevoir)
+				- [Gay BDSM](#gay-bdsm)
 				- [Gay Fantasy](#gay-fantasy)
 				- [Gay Hyper Muscle Growth](#gay-hyper-muscle-growth)
-				- [Gay Monsterfucking](#gay-monsterfucking)
 				- [Gaykémon](#gaykémon)
+				- [Gay Monsterfucking](#gay-monsterfucking)
 				- [Gender Bender](#gender-bender)
 				- [Genroku Ero](#genroku-ero)
 				- [Giantess](#giantess)
 				- [Giantess World](#giantess-world)
-				- [Fantasy Anthro](#fantasy-anthro)
-				- [/hmofa/](#hmofa)
+				- [Girl Thoughts](#girl-thoughts)
+				- [Harem Fantasy](#harem-fantasy)
 				- [Lesbémon](#lesbémon)
 				- [Loli](#loli)
+				- [Longform Mind Control](#longform-mind-control)
 				- [Magic Mind Control](#magic-mind-control)
 				- [Master PC Collection](#master-pc-collection)
 				- [Mind Control](#mind-control)
 				- [Mind Control Induction](#mind-control-induction)
+				- [Minirotic Roleplay](#minirotic-roleplay)
 				- [Monster Girls](#monster-girls)
 				- [Monstergirls](#monstergirls)
 				- [Mysterotica](#mysterotica)
@@ -175,52 +189,56 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [Raunchy](#raunchy)
 				- [Respecting Women](#respecting-women)
 				- [Same Size Vore](#same-size-vore)
+				- [Scalyuri](#scalyuri)
 				- [Sexfighting](#sexfighting)
 				- [Shrunken Women](#shrunken-women)
 				- [Small Horses](#small-horses)
 				- [Succubimbo](#succubimbo)
 				- [Unconventional Penetration](#unconventional-penetration)
 				- [Universal Acceptance](#universal-acceptance)
+				- [Wild and Silly](#wild-and-silly)
 		- [Works](#works)
 			- [Literature](#literature)
 				- [Animorphs](#animorphs)
 				- [Assassin's Creed: Ezio Auditore](#assassins-creed-ezio-auditore)
 				- [Bartimaeus Sequence](#bartimaeus-sequence)
+				- [Battlefield Earth](#battlefield-earth)
+				- [The Bible](#the-bible)
 				- [Blood Meridian](#blood-meridian)
 				- [BOLO](#bolo)
 				- [Conan The Barbarian](#conan-the-barbarian)
+				- [The Culture](#the-culture)
+				- [The Dark Tower](#the-dark-tower)
 				- [Discworld](#discworld)
+				- [The Divine Comedy](#the-divine-comedy)
 				- [Finnegan's Wake](#finnegans-wake)
 				- [Forbidden Fruit](#forbidden-fruit)
 				- [Good Intentions](#good-intentions)
 				- [Goosebumps](#goosebumps)
+				- [The Gor Saga](#the-gor-saga)
 				- [Gotrek and Felix](#gotrek-and-felix)
 				- [Guards!](#guards)
 				- [Halo](#halo)
 				- [Harry Potter](#harry-potter)
 				- [Hitchiker's Guide to the Galaxy](#hitchikers-guide-to-the-galaxy)
 				- [Horus Heresy Selection One](#horus-heresy-selection-one)
-				- [Native American Myths and Legends](#native-american-myths-and-legends)
-				- [Neuromancer](#neuromancer)
-				- [Mistborn Trilogy](#mistborn-trilogy)
-				- [My Struggle](#my-struggle)
-				- [Oz](#oz)
-				- [Redwall](#redwall)
-				- [The Bible](#the-bible)
-				- [The Culture](#the-culture)
-				- [The Dark Tower](#the-dark-tower)
-				- [The Divine Comedy](#the-divine-comedy)
-				- [The Gor Saga](#the-gor-saga)
 				- [The King James Bible](#the-king-james-bible)
 				- [The Kushiel Saga](#the-kushiel-saga)
+				- [Mistborn Trilogy](#mistborn-trilogy)
+				- [My Struggle](#my-struggle)
+				- [Native American Myths and Legends](#native-american-myths-and-legends)
+				- [Neuromancer](#neuromancer)
+				- [The Old Kingdom Trilogy](#the-old-kingdom-trilogy)
+				- [Oz](#oz)
 				- [The Quran](#the-quran)
+				- [Redwall](#redwall)
 				- [The Robots Series](#the-robots-series)
 				- [The Solar Cycle](#the-solar-cycle)
-				- [The Witcher](#the-witcher)
 				- [Vampire Diaries](#vampire-diaries)
 				- [War and Peace](#war-and-peace)
 				- [Warhammer 40k](#warhammer-40k)
 				- [Wheel of Time](#wheel-of-time)
+				- [The Witcher](#the-witcher)
 			- [Non-Fiction](#non-fiction)
 				- [Art of War](#art-of-war)
 			- [Visual Novel](#visual-novel)
@@ -229,8 +247,10 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [Tales of Androgyny](#tales-of-androgyny)
 			- [Light Novel](#light-novel)
 				- [Beginning After The End](#beginning-after-the-end)
+				- [Fantasies](#fantasies)
 				- [Goblin Slayer](#goblin-slayer)
 				- [Highschool DxD (1-10)](#highschool-dxd-1-10)
+				- [Highschool DxD (1-21)](#highschool-dxd-1-21)
 				- [KonoSuba](#konosuba)
 				- [Monotogari](#monotogari)
 				- [Overlord (1-13)](#overlord-1-13)
@@ -240,19 +260,23 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 				- [Corruption of Champions](#corruption-of-champions)
 				- [Corruption of Champions 2](#corruption-of-champions-2)
 				- [Paraphore](#paraphore)
+				- [Trials in Tainted Space](#trials-in-tainted-space)
 			- [Web Fiction](#web-fiction)
-				- [A Dragon Ranch in Suburbia](#a-dragon-ranch-in-suburbia)
 				- [Code Lyoko](#code-lyoko)
+				- [A Dragon Ranch in Suburbia](#a-dragon-ranch-in-suburbia)
 				- [Harry Potter of Our Own](#harry-potter-of-our-own)
 				- [Homestuck](#homestuck)
 				- [Pack Street](#pack-street)
+				- [Pinwheel](#pinwheel)
 				- [Sex and Marmota Nights](#sex-and-marmota-nights)
 				- [Trial By Tenderness](#trial-by-tenderness)
 		- [Utilities](#utilities)
 			- [Advertisements](#advertisements)
-			- [DND Monster Generator](#dnd-monster-generator)
-			- [Pokédex](#pokédex)
 			- [The Club](#the-club)
+			- [Director View](#director-view)
+			- [DND Monster Generator](#dnd-monster-generator)
+			- [Math](#math)
+			- [Pokédex](#pokédex)
 			- [World Generator](#world-generator)
 			- [Yōkai](#yōkai)
 
@@ -274,6 +298,8 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 *Trained off the text of Charles Dickens' "A Christmas Carol", "A Tale of Two Cities", "Great Expectations", "Little Doritt", and "Oliver Twist"*
 
 ##### [C. S. Lewis](https://mega.nz/file/ESB0VJ6Z#Y31SF_GG4VefJXSmFNBs3WgB0yEGTAQ8S-kPeS43W8M)
+
+[10K Step Vers.](https://mega.nz/file/9W4EVD7Y#zlX2DM6Ypf-QHYet2JoUeUJ7neLeVdniseEYxvSo48c)
 
 [by Anon](https://arch.b4k.co/vg/thread/345503749/#345504083)
 
@@ -506,6 +532,14 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 >
 >"What's that?" Krenshaw asked, but it was too late for her to do anything about it. The thing came out of the darkness like a snake emerging from its hole—and then it struck. It whipped around the woman's head with an explosive hiss, clamped down on her face, and dragged her into the blackness. She screamed once, long and shrill, before she disappeared completely.
 
+##### [Ancient Historical Rome](https://files.catbox.moe/01yvca.module)
+
+[by OccultSage and Catos](https://discord.com/channels/836774308772446268/870449646391156776/883056476090925076)
+
+*Intended to introduce inspiration by Ancient Rome, this draws from works by Colleen McCullough, Robert Graves, with epic battles by legionaries against the barbarians as gladiatorial spectacles. Now includes historical texts written by actual Romans, edited and provided by Cato and trained to 100% coverage!*
+
+*This is greatly enhanced vs the original Ancient Rome module for the purposes of being in the Ancient Roman empire. The original module is appropriate if you want Roman themes.*
+
 ##### [Ancient Rome](https://files.catbox.moe/5g7xj2.module)
 
 [by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/873459667710390332)
@@ -518,14 +552,6 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 >
 >"If there were more men like you two around, perhaps Rome could still stand!" Antonia spoke with feeling. She was very beautiful at this moment, her face flushed from wine or excitement, but she looked tired too. Her eyes seemed haunted by some memory, though whether good or bad she did not say.
 >We had been talking about politics all evening. It was clear now why Pompey's letter had caused such dismay among his supporters.
-
-##### [Ancient Historical Rome](https://files.catbox.moe/01yvca.module)
-
-[by OccultSage and Catos](https://discord.com/channels/836774308772446268/870449646391156776/883056476090925076)
-
-*Intended to introduce inspiration by Ancient Rome, this draws from works by Colleen McCullough, Robert Graves, with epic battles by legionaries against the barbarians as gladiatorial spectacles. Now includes historical texts written by actual Romans, edited and provided by Cato and trained to 100% coverage!*
-
-*This is greatly enhanced vs the original Ancient Rome module for the purposes of being in the Ancient Roman empire. The original module is appropriate if you want Roman themes.*
 
 ##### [Arthurian](https://files.catbox.moe/23b9i3.module)
 
@@ -563,6 +589,18 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 >Yoshi sees this coming and jumps over to where I am lying on the ground. I get ready to knock him away again, when suddenly he turns into a mushroom! Then he flies straight through the wall and disappears. The game ends as soon as Yoshi loses all his lives.
 >
 >I look up at the clock and see that I just barely beat him in time. Yoshi gets 3 points and I get 5. This makes my total score 30 points.
+
+##### [Aztec, Inca and Mayan Mythology](https://files.catbox.moe/mn2n35.module)
+
+[by AvoWizard](https://discord.com/channels/836774308772446268/870449646391156776/887972035702185984)
+
+Trained on various texts from Internet Sacred Text Archive (including: The Myths of Mexico and Peru by Lewis Spence, The Hymn of Huitzilopochtli, The Festival of The Sun, and more), and extracts on Aztec gods from Mythopedia.
+
+>The Sun, in his anger at the theft of his sister-wife, struck down her brother with a bolt from his golden bow. The woman was transformed into a serpent and became the goddess Quetzalcoatl.
+>
+>In another version of this myth she is called Xiuhtlilotli (the daughter of the sun), who went to live among the stars and bore twin sons to Huitzilopochtli: Tonatiuh ("sun") and Tlahuizcalpantecuhtli ("moon"). These were then adopted by their grandfathers, Tezcatlipoca and Omeyocan, and given new names as lords of heaven. They also had two sisters; one became the moon, while the other married Mixcohuatzin and gave birth to Mictlan, the god of death. This legend appears to have been derived from an earlier tale that told how Quetzalcoatl's father, Itzcuauhcihuatl, had been killed by his younger brothers for having stolen fire from them. A later addition described him as 'a son of heaven' rather than of the sun or Venus.
+>
+>To these myths are added many others concerning the creation of mankind, which may be grouped under three main heads—those relating to the origin of man, those describing his development through ages, and those dealing with the end of all things.
 
 ##### [Batman](https://files.catbox.moe/7eeiz7.module)
 
@@ -611,11 +649,95 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 >
 > And then she turned and walked away, her bare feet making no sound on the marble floor.
 
+##### [Battletech](https://files.catbox.moe/bxh36b.module)
+
+[by guywhoknowsnothing](https://discord.com/channels/836774308772446268/870449646391156776/885393240004636732)
+
+*This module is trained with a focus on battle scenes from fiction set in the BattleTech tabletop universe and the related MechWarrior & MechCommander video games. 2mb, 1000 steps.*
+
+*Always refer to mechs as 'Mechs, and dropships as DropShips etc... for best results.*
+
+*Material curated and formatted in tandem with Human Error.*
+
+*Possible future updates to this module will include more lore and technical fluff text.*
+
+***What to expect from this module:***
+
+- *Epic battles of giant heavily armed and armored walking tanks known as 'Mechs, as well as other vehicles like conventional tanks, spacecrafts, jets, hovercrafts, naval vessels, and also infantry.*
+- *Missiles, lasers, ballistic weapons, airstrikes, and bombs.*
+- *Galactic scale political intrigue, betrayal, and sabotage.*
+- *Paid mercenary forces loyal only to the almighty C-Bill.*
+- *Professional bloodsport arena combat between mechs before a spectator audience.*
+
+***What not to expect from this module:***
+
+- *Lore accuracy. Don't hope for it, seriously.*
+
+>"Contact!" A voice shouted over comms. "Two enemy 'Mechs approaching from the south-east quadrant. One hundred meters away."
+>
+>A chill ran down the spine of every MechWarrior present. That was the direction from which most of the bandits had come, and the only place on the island where 'Mechs would approach without being seen.
+>
+>"All units, prepare for combat maneuvers. Target priority: Bandits. Repeat, target priority: Bandits."
+>
+>Taylitha jerked the joystick, and the Atlas lurched forward on its massive legs. She hit the throttle and the 'Mech surged ahead, leaving the other 'Mechs behind it.
+>
+>"50 meters, 3 o'clock!"
+>
+>The warning came over the comm, followed by the sound of something tearing into the ground.
+>
+>"30 meters, 2 o'clock!"
+>
+>"20, 1 o'clock!"
+>
+>"10, straight ahead!"
+>
+>"Fire!"
+>
+>The battle erupted at once.
+>
+>"Bandit down," came the call over the comm.
+>
+>The Atlas slowed down and pulled back slightly so it wouldn't interfere with the others in the fight.
+>
+>"Enemy 'Mechs engaging the rest of the lance," another voice reported over the comm.
+>
+>"We're going after the leader," Kasten said.
+>
+>"Roger," replied the second voice.
+>
+>"What are your orders?"
+>
+>"I'll take the right flank. You cover the left," Kasten said.
+>
+>"Affirmative. I'm on my way."
+>
+>"Don't kill him unless you have to," Kasten added.
+>
+>Taylitha centered her reticle over a grouping of UrbanMechs, then mashed the primary firing group trigger, unleashing a barrage of PPC fire. The weapons spat blue lightning from their barrels, carving a path through the cluster of machines.
+>
+>She moved the crosshairs to the next target and fired again, this time hitting a nearby Clan OmniMech. It staggered backward under the onslaught, then fell.
+
 ##### [Beastars](https://files.catbox.moe/a9an3f.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/348541970/#348673138)
 
 *This is my first time training a module with a lot of data so I would like any comments and/or criticisms from those who are interested. It's only been trained off of the best rated stories off of AO3, about fifty or so stories which adds up to 7.43 MB of data. Trained to 34%, exactly 3000 steps.*
+
+##### [Celtic Mythology](https://files.catbox.moe/xhulkq.module)
+
+[by AvoWizard](https://discord.com/channels/836774308772446268/870449646391156776/889278231805562910)
+
+*Trained on Visions and Beliefs in the West of Ireland, The Candle of Vision, The Celtic Twilight, parts of The Fairy-Faith in Celtic Countries, and extracts From the Ulster Cycle.*
+
+>Cú Chulainn and his foster-brother Ferdia, who had been brought up together in the same house. But Cú Chulainn was a great man of war; he went out to fight against Conchobar son of Nectan for that reason, because he would not pay him tribute when he asked it:
+>
+>'I have neither wife nor children,' said Conchobar, 'and I am an old man without wealth or possessions.'
+>
+>Then they fought one another on the field of battle near Tara. And at first there were many champions on either side with their weapons ready and eager for combat. Then the two men fell into each other's hands, and each took hold of the opposite sword hilt. Each gripped the handle firmly so as to prevent himself from being thrown away by the strength of his adversary. When this happened, both swords broke off short in the middle, but they did not break apart. They stood thus gripping each other's wrists until nightfall. That is why today we call them †Fáel Dé (‡) Fáel Dé( ) and Fáel Dóid ( ).
+>
+>They stayed till morning and then returned home. The host of Conchobar saw what had occurred between them, and said, 'It seems my kinsman has some special power over yours!' He therefore challenged Cú Chulainn again to single combat. This time he met him outside the city walls where the contest began in earnest. It lasted three days and nights, and Cú Chulainn killed him. So now Conchobar lay dead upon the battlefield.
+>
+>And then the king sent messengers throughout Ulster asking if any champion could come forward to take revenge for the death of his brother. Thereupon Óenach Maelgha came forward saying, "I will do this."
 
 ##### [Classic Cyberpunk](https://files.catbox.moe/9v2y8w.module)
 
@@ -698,6 +820,40 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 >
 > Magnus wondered how many other cities followed the example set by Luskan: towns where only humans lived? Would any other race ever dare enter such places? Perhaps after years of being treated as second class citizens, the drow felt justified in treating others less favorably than themselves. Or perhaps they simply enjoyed making enemies wherever possible.
 
+##### [Furry Scipunktasy](https://files.catbox.moe/8gf0wd.module)
+
+[by room](https://discord.com/channels/836774308772446268/870449646391156776/887297989226426398)
+
+*Module that I trained for generating my furry sci-fi/cyberpunk setting, Obscura, but it could be useful to others too. Furry science fiction and normal/furry cyberpunk (plus a bit of weird fantasy in Perdido Street Station.) 10.6mb, 4393 steps, 35% coverage, 2.8656 loss*
+
+- *Blue Horizon, Books 1-4 by Ted Blasingame*
+- *Blue Horizon 1261 by Ted Blasingame*
+- *Hoenix by Ted Blasingame*
+- *Vurt by Jeff Noon*
+- *Sholan Alliance, Books 2-3 by Lisanne Norman*
+- *Altered Carbon by Richard Morgan*
+- *Hardwired by Walter Williams*
+- *Perdido Street Station by China Miéville*
+
+##### [Girls' Frontline](https://files.catbox.moe/5q4mvq.module)
+
+[by Nexus](https://discord.com/channels/836774308772446268/870449646391156776/889839928282845215)
+
+*A military science-fiction module based in the gritty, post-apocalyptic cyberpunk setting of Girls' Frontline; this module utilizes several extremely well written and noteworthy fanfictions from authors such as Elias_Pedro, caryalaciniosa, and Deuceposter; namely the fanfictions Unsavory, Tasteless, Audeiu aux Armes, and A War for Three alongside several short stories from the r/GirlsFrontline subreddit.*
+
+>M14's head was spinning. She had been in the thick of it all day, and she felt like a fool for not seeing what everyone else saw - that this whole thing with S7 was nothing more than an elaborate set-up to get her out here where they could finish their work on her. That thought alone made M14 feel sick. The girl was so much weaker now; she wasn't even strong enough to defend herself against the likes of those two girls! And then there was BR55... M14 shuddered at the memory.
+>
+>She recalled how quickly BR55 had taken advantage of M14 when she'd let down her guard during one of their earlier sparring sessions. How easily she had broken through M14's defenses, hacking into her neural cloud and taking control over her body without any effort or resistance from her. It hadn't even been a fight. All the same, the experience left a bad taste in the doll's mouth.
+>
+>"It doesn't make sense..." M14 muttered to no-one in particular, the words spilling from her lips as though they came unbidden. "Why would BR55 do that to me? Why risk her own life just to get rid of me?"
+>
+>The doll's eyes fell upon the gun in her hands. the warped reflection in its polished form seemed to stare right back at the doll and through her face, mocking her.
+>
+>"I'm the weakest of the lot, and I know it. But still you try to take my life away from me," she said bitterly, a cold chill running down her spine as the voice echoed in her mind.
+>
+>The doll's grip tightened around the weapon, the metal and plastic digging into the flesh of her fingers.
+>
+>"You're going to pay for that, BR55."
 ##### [Generation Ship](https://files.catbox.moe/ezfjoh.module)
 
 [by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/874064376850690149)
@@ -853,11 +1009,52 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 >
 >They rode closer, toward the burned-out shell of the house. There were more ruins farther back—the remains of barns and sheds. No people. Only the ashes and broken wood. No bodies anywhere. Not even animals. Just the bitter cold and the silence of death.
 
-##### [Star Trek The Next Generation](https://files.catbox.moe/j33be6.module)
+##### [A Song of Ice and Fire](https://files.catbox.moe/kpg3en.module)
+
+[by Jeff Bezos](https://discord.com/channels/836774308772446268/870449646391156776/887117687707303997)
+
+*Revision of my earlier Game of Thrones module with more formatting. I have also regex'd the page numbers out, so AI shouldn't spit them out anymore.*
+
+*9.6 MB 6000 steps*
+
+- *A Game of Thrones*
+- *A Clash of Kings*
+- *A Storm of Swords*
+- *A Feast for Crows*
+- *A Dance with Dragon*
+
+##### [Star Trek: The Next Generation](https://files.catbox.moe/j33be6.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/346458902/#346542673)
 
 *Star Trek: The Next Generation, trained on 4 TNG novels: Imzadi, Intellivore, Q-in-law and Vendetta.*
+
+##### [Star Trek: The Original Series](https://files.catbox.moe/4arbwk.module)
+
+[by BaronJoshua](https://discord.com/channels/836774308772446268/870449646391156776/885321568073437297)
+
+*Trained on a collection of TOS and TAS episode Novelizations and novels.*
+
+*Source Material: 3.77MB (over 4000 steps) ~100% coverage*
+
+- TOS Errand of Mercy
+- TOS  Miri
+- TOS Space Seed
+- TAS Eye of the Beholder
+- TAS Counter-Clock Incident
+- TAS Slaver Weapon
+- Novel Spock Must Die
+- Novel Price of the Phoenix
+
+*and more (44 files in total)*
+
+![evidence](https://files.catbox.moe/azsz3l.PNG)
+
+##### [Touhou Project](https://files.catbox.moe/96zxwv.module)
+
+[by Imperishable_NEET](https://discord.com/channels/836774308772446268/870449646391156776/888912268451000380)
+
+*Created a Touhou module based on haru's scraped fanfics from touhou-project.com and various texts recommended by OccultSage. Special thanks to both for help with formatting my corpus!*
 
 ##### [Vampire: The Masquerade](https://files.catbox.moe/dy9gk2.module)
 
@@ -878,6 +1075,22 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 *This is a western model. Trained for about 35% of steps (about 3500) on the following: Butcher's Crossing, Centennial, Hondo, Little Big Man, Lonesome Dove, Riders of the Purple Sage, Shane, The Log of a Cowboy, The Ox-Bow Incident, The Searchers, The Shootist, and True Grit.*
 
 *The archive contains the original EPUBs I worked from, the Pandoc TXT conversion, my edited TXT files, and the module itself.*
+
+##### [World of Pokémon](https://files.catbox.moe/p64tq7.module)
+
+[by lion](https://discord.com/channels/836774308772446268/870449646391156776/887984608799490078)
+
+*Trained on similar adventure series, literary RPGs, nature books, and other resources that have been 'Pokémonized' to match the names, abilities, rules, and other aspects of the Pokémon universe.*
+
+*Been working on this for a while. In short (and as a huge understatement), I basically took a bunch of works that are similar to Pokémon in various ways and Find->Replace'd any creature or animal named with that of Pokémon, as well as all the other elements that go with that (items i.e. Pokéballs etc, character and location names, rules and customs about how battles work, how Pokémon are caught, the moves they learn, etc etc etc).*
+
+*Keep in mind this is a version 1 test run as I had to rush a little at the end due to my sub ending in a few hours. I think it still needs some work before I call it "done" but if this is useful to you, give it a shot. Probably will be a v2 coming later some time next month tho.*
+
+>I tossed a Pokeball into the air. "Gyarados!" The water-dwelling dragon appeared and shot through the sky, knocking down two of the trees with its tail before it crashed into the ground in front of us. I jumped on top of it and gave it a quick hug. "You're so big! You must be tired."
+>
+>"He's not as big as he used to be," Zephyr said, patting his head. He was much smaller than Gyarados had been when we'd first met him. "But yeah, he is pretty worn out from all this flying around."
+>
+>"Well, let's get you home," I said. We flew back to where our bikes were parked near the edge of the forest. Once there, I hopped off Gyarados and helped him up onto my bike seat.
 
 ##### [Xenoarchaeology and Relics](https://files.catbox.moe/p3s53j.module)
 
@@ -1011,9 +1224,9 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 >
 >The girls looked like human females with cat ears or tails attached. Their eyes were blue instead of brown but their pupils were circular rather than oval shaped. It didn't look as if they had fur on their bodies because you could see their skin under their clothes.
 
-##### [Count Grey](https://files.catbox.moe/lehugw.module)
+##### [Count Grey](https://files.catbox.moe/ozd9iw.module)
 
-[by Chris](https://discord.com/channels/836774308772446268/870449646391156776/870450259241865217)
+[by Chris](https://discord.com/channels/836774308772446268/870449646391156776/888963250560069713)
 
 *A module trained on Count Grey's familiar stories.*
 
@@ -1064,6 +1277,24 @@ Need help with forming your own dataset? Check the [Unofficial NovelAI wiki's pa
 *Of course, you do!*
 
 *That is why I'm happy to present the 'Duke Nukem's Quote' module! Now you too can have your AI punch up its dialogue with quotes that sound like they came from Duke Nukem! Train on quotes from various Duke Nukem games! So instead of chewing some ass, try this module, today!*
+
+##### [The Elder Scrolls In-Game Texts](https://files.catbox.moe/6vvi4q.module)
+
+[by ScalyWanderer](https://discord.com/channels/836774308772446268/870449646391156776/883144310575480892)
+
+*The module is trained on The Elder Scrolls 2-5 & TESO in-game texts (books, notes, etc.) + the official novels by Greg Keyes.*
+
+> \*\*\*
+>
+> **"Why walk when you can ride?" the Dunmer smiles**. "It’s more fun, and I know how to do it properly."
+>
+> The Khajiit says nothing for a moment; she is not accustomed to being told what to do by others. Then her eyes flash with anger as she speaks in an icy tone: “I am no slave! And if your kind are so good at riding horses, then why don't you come down here from that wagon of yours? Why don't we see who rides whom? If you think you're going to get away with this... well ... let me tell you something about us Khajiiti. We have sharp claws, yes — but also sharper teeth. You won’t live long enough to regret crossing my path.”
+>
+> Her words send chills up the Dark Elf’s spine. He turns pale and drops his hand back onto the reins. The caravan stops moving again.
+>
+> A few moments later, he looks over at the Khajiit once more. She has climbed back into the wagon, leaving him alone on top of the carriage. Her tail flops angrily against one side of the vehicle, while her ears twitch nervously. It appears she is trying to decide whether or not to jump off right now.
+>
+> He smiles inwardly. Perhaps there will be another chance to test himself against this female. After all, the Khajiits were known throughout Tamriel as fierce warriors - perhaps they would prove useful allies after all.
 
 ##### [Forbidden Lands (Encounters)](https://files.catbox.moe/ltj7zh.module)
 
@@ -1155,12 +1386,6 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 >
 > This was amazing. It meant I could use my magic without having to worry about spending money on supplies like I always did before. And the most important thing? No chanting required! This would allow me to do things like cast fireballs with no problems. All I needed was enough mana to create the spell and then simply focus my mind on casting it. Simple as that.
 
-##### [Mormon](https://files.catbox.moe/j6ha0i.module)
-
-[by Anon](https://arch.b4k.co/vg/thread/345358791/#345460973)
-
-*Here's my whole 8000 steps used on text_adventures.txt (cut down a bit to fit into the file size limit)*
-
 ##### [Melee Combat](https://files.catbox.moe/sz6pz1.module)
 
 [by lion (and Monky)](https://discord.com/channels/836774308772446268/870449646391156776/871148731980984320)
@@ -1174,6 +1399,12 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 >"You!" he said angrily. "I thought you were dead."
 >
 >She smiled thinly and drew herself up proudly before him. "So did I," she replied sweetly.
+
+##### [Mormon](https://files.catbox.moe/j6ha0i.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/345358791/#345460973)
+
+*Here's my whole 8000 steps used on text_adventures.txt (cut down a bit to fit into the file size limit)*
 
 ##### [Purely Purple Prose](https://drive.google.com/file/d/1_IfjbN5jHBOkanLOjFxbUtRqJmL3_bep/view?usp=sharing)
 
@@ -1194,6 +1425,18 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 *Final version of 2nd person respect module. If you need respect, slavery, corruption with a focus on magic or fantasy creatures or whatever people, this should work.*
 
 *I'll improve on this more in the future, it can be better.*
+
+##### [Sergals](https://files.catbox.moe/ybq80n.module)
+
+[ScalyWanderer](https://discord.com/channels/854479693503660032/870494065446248458/883152451975385129)
+
+*The purpose of this module is to give NAI a better idea of sergals, both in canon and non-canon stories. Most of the texts used are SFW, but there're some erotic scenes too. Official Vilous Wiki (the data is cleaned by hand) + several well-written fan-fiction texts taken from FurAffinity.*
+
+*4.4 Mb, 1300 steps, 35% coverage, Loss: 2.9415.*
+
+> **Just like any other sergal, I'm** not exactly proud of my past. In fact, it's something that every member of our clan has in common. However, when you hear the story behind why we're called the Silver Fang Clan, you can't help but find a bit of pride for us. It was the name given to us by one of our original members and founder after he fought off an entire horde of enemies with nothing more than his two swords — the only weapons he had on him at the time. And because of this, we became known as the Silver Fangs ever since then. We are no longer considered a small mercenary band and have risen up from strength to strength over these many years. Though there is always some who claim otherwise, that particular nickname will be carried forward forevermore! Not all clans and soldiers alike come into existence through war or fighting against another group. Some clans formed by merchants or traders who needed protection; others developed out of friendships between members of different villages. While most do join together because they share similar goals, motivations vary greatly amongst those seeking what seems to be the same thing: profit.
+>
+> Sergals tend to see their work within each individual village differently compared to how outsiders might perceive them. They may view themselves as protecting, defending, assisting, supporting... whatever words suit your fancy. What matters isn't the meaning, however, but rather its results. As long as the end result is favourable to everyone involved, even if there's been bloodshed along the way, it doesn't matter how they got there so long as everything eventually leads towards peace and prosperity for both parties.
 
 ##### [Surrealistic Look Through The Glass](https://files.catbox.moe/eut7pg.module)
 
@@ -1242,24 +1485,6 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 >His eyes sparkled with amusement. "Of course."
 >
 >He stood up and walked towards the door. Then he turned around and held his hand out to me. "Come on."
-
-##### [The Elder Scrolls In-Game Texts](https://files.catbox.moe/6vvi4q.module)
-
-[by ScalyWanderer](https://discord.com/channels/836774308772446268/870449646391156776/883144310575480892)
-
-*The module is trained on The Elder Scrolls 2-5 & TESO in-game texts (books, notes, etc.) + the official novels by Greg Keyes.*
-
-> \*\*\*
->
-> **"Why walk when you can ride?" the Dunmer smiles**. "It’s more fun, and I know how to do it properly."
->
-> The Khajiit says nothing for a moment; she is not accustomed to being told what to do by others. Then her eyes flash with anger as she speaks in an icy tone: “I am no slave! And if your kind are so good at riding horses, then why don't you come down here from that wagon of yours? Why don't we see who rides whom? If you think you're going to get away with this... well ... let me tell you something about us Khajiiti. We have sharp claws, yes — but also sharper teeth. You won’t live long enough to regret crossing my path.”
->
-> Her words send chills up the Dark Elf’s spine. He turns pale and drops his hand back onto the reins. The caravan stops moving again.
->
-> A few moments later, he looks over at the Khajiit once more. She has climbed back into the wagon, leaving him alone on top of the carriage. Her tail flops angrily against one side of the vehicle, while her ears twitch nervously. It appears she is trying to decide whether or not to jump off right now.
->
-> He smiles inwardly. Perhaps there will be another chance to test himself against this female. After all, the Khajiits were known throughout Tamriel as fierce warriors - perhaps they would prove useful allies after all.
 
 ##### [Twilight 2000 (Encounters)](https://files.catbox.moe/2jgr7s.module)
 
@@ -1319,6 +1544,16 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 #### [Sexual](#themes)
 
+##### [/hmofa/](https://files.catbox.moe/usqtbw.module)
+
+[by 𝙒𝙤𝙧𝙢-𝙗𝙤𝙮](https://discord.com/channels/854479693503660032/870494065446248458/870833809531207691)
+
+*This module was trained on exclusively /hmofa/ content. /hmofa/ stands for Human Male on Female Anthro*
+
+*4.74mb, 2400~ish steps*
+
+*A collection of various /hmofa/ greentexts, prose stories, and a few entries from Snek's Pinwheel series.*
+
 ##### [Anal](https://files.catbox.moe/oxdher.module)
 
 [by Graaarg](https://discord.com/channels/854479693503660032/870494065446248458/875219540898893914)
@@ -1368,27 +1603,47 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *takes from stories written from dolcett comics, "Feast day, club X, roasting grotto,dinner by design, merideth's last interview, and a couple of others.*
 
+##### [Cross-Pornre](https://files.catbox.moe/z66xe9.module)
+
+[by OccultSage](https://discord.com/channels/854479693503660032/870494065446248458/884845613542416415)
+
+*A smattering of everything in [my] pile that has erotic or vivid sexual imagery in it. Gor, Kushiel, Androids, Demons, Angels, Beasts, and Aliens, Oh My!*
+
+*20mb, 13,000 steps, 60% coverage, 2.711 loss*
+
+> **The succubus was beautiful** but she had not been built to be a pleasure toy.
+>
+> "You are in my way," the demon said coldly. "I am busy." She looked at me and her eyes glittered with hunger. I could smell it on her breath; that scent of decay mixed with desire. Her hand went down between us. It moved slowly across my chest as if testing for resistance or weakness before reaching into my pants. When its fingers brushed against my cock, they were cool and slick from sweat. The creature's touch sent shivers through my body, even though we stood naked together in front of an audience. My erection throbbed painfully under her palm. A drop of pre-cum oozed out onto her fingertips. That small movement alone made me want more. More than anything else I'd ever felt. But this wasn't real life. This was just another fantasy come true. Still, there was no denying how much I wanted what lay beneath those thin black gloves. With slow deliberation, she slid them up over both hands until only two fingers remained inside my manhood. Then one finger slipped into me easily while her other held tight to my shaft. She began pumping gently back and forth, stroking herself along my length like some kind of obscene machine. Slowly, inexorably, her grip tightened around my dick.
+>
+> It hurt so good.
+>
+> As the pain faded away, something new took its place. Something wonderful, thrilling, delicious. Desire coursed through every part of me as she pumped faster and harder. Moaning softly, I wrapped my arms around her waist and pulled myself closer. Fingers dug into my ass cheeks hard enough to leave bruises. Hot breath tickled the side of my neck. Somewhere above our heads, someone moaned in delight.
+>
+> Then suddenly, without warning, the demon stopped moving. One hand still gripping my cock tightly, she withdrew her fingers completely. There came a wet sound when she let go of my shaft. For several seconds nothing happened. Just silence. No music played in my ears, nor did any words echo in my mind. Only emptiness filled my thoughts. And then, almost too quickly to register, the world returned to normal. Sound poured into my senses again: soft breathing, heavy footsteps, moaning laughter echoing throughout the room.
+>
+> She smiled wickedly at me and licked her lips. "That is quite impressive," she purred. "But you will never know satisfaction unless your partner gives consent."
+>
+> "No!" I gasped. "Don't stop! Please don't stop."
+>
+> Her smile widened. "Oh yes, Master Kade. You can have all the sex you wish tonight. Anything you want. All of it. Forever."
+
 ##### [Cute and Funny](https://files.catbox.moe/8ci7gf.7z)
 
 [by Vegetables](https://allthefallen.moe/forum/index.php?threads/novelai-potential-alternative-for-ai-dungeon-beta.22382/page-7#post-19565243)
 
 *Someone on ATF made a cunny module trained on [pic related](https://files.catbox.moe/gfewsx.png)*
 
-##### [Dragon Smut](https://files.catbox.moe/hti9vf.module)
+##### [Dragon Smut](https://files.catbox.moe/29ake7.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/346925990/#346969152)
 
 *It's just dragon smut, nothing too extreme.*
 
-##### [Embarrassed Naked Furry](https://files.catbox.moe/kqvy9p.module)
-
-[by Anon](https://arch.b4k.co/vg/thread/349741726/#349745423)
-
-*Thrown 2250 steps at this, and I called it Furry ENF in case it's not actually overtrained and I want to keep it.*
-
-*Contains Bondage and Dominance, NonConsent*
-
-*Embarrassed nude females, who are anthropomorphic animals interacting with other anthropomorphic animals.*
+>**They** were both panting, and the heat in their loins was growing.
+>
+>"I can't believe we're doing this," Nera said quietly, but with a hint of awe. "It's... it's so hot." She looked down at her own body, then back up to Cerise. Her tail curled around herself as she pressed closer against the other drake, trying to get even more contact between them. They weren't quite touching yet; there was still some space between them. It felt like they could do that if only they wanted to be close enough together for things to happen. But instead, they remained where they were. The two dragonesses just stared into each others' eyes, breathing heavily from arousal. Their tails swished slowly side-to-side while they waited for something else to start happening.
+>
+>Cerise reached out one paw towards Nera's snout, gently brushing her fingers across it. Then another paw joined in, stroking along the same spot on Nera's face, making soft circles over her cheek scales. Nera leaned forward slightly, pressing their noses together again, closing their mouths too.
 
 ##### [Embarrassed Naked Female](https://files.catbox.moe/o0f1i0.module)
 
@@ -1405,6 +1660,16 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 *It should be similar to the ENF fempov module, except, well, third person.*
 
 *(For a fun time, start a new story with a female name and a verb, and just keep generating)*
+
+##### [Embarrassed Naked Furry](https://files.catbox.moe/o92av4.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/349741726/#349745423)
+
+*Thrown 2250 steps at this, and I called it Furry ENF in case it's not actually overtrained and I want to keep it.*
+
+*Contains Bondage and Dominance, NonConsent*
+
+*Embarrassed nude females, who are anthropomorphic animals interacting with other anthropomorphic animals.*
 
 ##### [Eroguro](https://files.catbox.moe/fc47pg.module)
 
@@ -1452,6 +1717,18 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *Please enjoy.*
 
+##### [Fantasy Anthro](https://files.catbox.moe/d21f5o.module)
+
+[by Lykmn](https://discord.com/channels/854479693503660032/870494065446248458/878011610533339136)
+
+*Module based on curated LitErotica stories. Focused on anthro / monstergirl with misc. fantasy elements. ~3000 steps*
+
+##### [Femdom](https://files.catbox.moe/e8llfo.module)
+
+[by Naliamegod](https://discord.com/channels/854479693503660032/870494065446248458/884103607186763856)
+
+*As requested, here is a module of Femdom tagged entries from Literotic with my free steps.*
+
 ##### [Foot](https://files.catbox.moe/qifdgc.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/345503749/#345510286)
@@ -1471,6 +1748,20 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 [by Anon](https://arch.b4k.co/vg/thread/348033881/#348078084)
 
 *Furcest module. Trained using an even mix of 5 top rated stories with Brother/Sister, Mother/Son, Father/Daughter, mixed gay and mixed lesbian incest.*
+
+##### [Furry (Short Stories)](https://files.catbox.moe/n072ye.module)
+
+[by ScalyWanderer](https://discord.com/channels/854479693503660032/870494065446248458/883151011202629714)
+
+*A general furry module not focusing on particular species or topics. The module is trained on a vast amount of short and medium-sized texts. Most of them are NSFW, both M/F and M/M, without any extreme fetishes, apart from several BDSM stories. A fair amount of dragon/gryphon material is included, too. As you can see from the examples, this module makes NAI horny from the very start. 96 hand-picked and cleaned furry novels and short stories taken from FurAffinity and several other sources.*
+
+*5.2 Mb, 2411 steps, 40% coverage, Loss: 2.696.*
+
+> **My tail twitched with excitement**, my cock was so hard I thought it might break. And then the tigress rolled to her back and spread those long legs of hers apart...and she raised one paw high into the air while the other reached for me, a beckoning motion that called me closer still as if telling me to come on over.
+>
+> I crawled between those soft thighs like some kind of moth drawn in by her alluring perfume. She grabbed hold of my wrists and pulled them up above my head, trapping me there while she pushed me down until my muzzle pressed firmly against her wet cuntlips.
+>
+> "Mmm..." The words escaped from her mouth as a moan. "So nice." Her fingers came together in an arch behind my shoulders, squeezing lightly at first before releasing again, forcing me even further towards her slick folds.
 
 ##### [Futarotica](https://files.catbox.moe/x3lugm.module)
 
@@ -1494,6 +1785,16 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *~2700 steps, module made out of 1.79 KB of Gardevoir fanfiction.*
 
+##### [Gay BDSM](https://files.catbox.moe/fpl9ga.module)
+
+[by Pernitax](https://discord.com/channels/854479693503660032/870494065446248458/887662547749199882)
+
+*This is a module focused on bondage, Dom/sub interactions and male on male sex, mostly from a submissive perspective.*
+
+*The module will reliably produce gay sex scenarios as well as scenes with restraints, although Sigurd will sadly still be often quite confused about what those restraints should actually do.*
+
+*Trained on select stories from the MetalbondNYC story archive. Took around 2000 steps, full coverage.*
+
 ##### [Gay Fantasy](https://files.catbox.moe/64f337.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/345615202/#345739496)
@@ -1508,17 +1809,17 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 *Using desired memory and author's note tags, as seen in the unofficial github research wiki, seems to help in direction, though it does well enough on its own.*
 *Trained in 4764 steps (110%)*
 
-##### [Gay Monsterfucking](https://files.catbox.moe/8lzbuw.module)
-
-[by room](https://discord.com/channels/854479693503660032/870494065446248458/874239027140784168)
-
-*Hand-selected M/M monster and anthro fics from sites like Literotica, SoFurry, Furaffinity and AO3. Excludes any extreme fetishes like watersports and vore. 108 fics, 2.60mb, trained at 49.55% for 1506 steps.*
-
 ##### [Gaykémon](https://files.catbox.moe/g7gd2q.module)
 
 [by KeinNiemand](https://discord.com/channels/854479693503660032/870494065446248458/871003925682225212)
 
 *A NSFW pokemon module mostly trained on a single NSFW pokemon series (Joining Team Rocket, Betraying team rocket and Escaping team rocket by the_roop) witch mostly (but not exclusivly) contains gay Pokemon/Human and Pokemon/Pokemon and some Vore*
+
+##### [Gay Monsterfucking](https://files.catbox.moe/8lzbuw.module)
+
+[by room](https://discord.com/channels/854479693503660032/870494065446248458/874239027140784168)
+
+*Hand-selected M/M monster and anthro fics from sites like Literotica, SoFurry, Furaffinity and AO3. Excludes any extreme fetishes like watersports and vore. 108 fics, 2.60mb, trained at 49.55% for 1506 steps.*
 
 ##### [Gender Bender](https://files.catbox.moe/1v3evi.module)
 
@@ -1564,21 +1865,48 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *Have fun in The City Anons.*
 
-##### [Fantasy Anthro](https://files.catbox.moe/d21f5o.module)
+##### Girl Thoughts
 
-[by Lykmn](https://discord.com/channels/854479693503660032/870494065446248458/878011610533339136)
+[25%](https://files.catbox.moe/gb4qjk.module)
 
-*Module based on curated LitErotica stories. Focused on anthro / monstergirl with misc. fantasy elements. ~3000 steps*
+[50%](https://files.catbox.moe/0f8pkx.module)
 
-##### [/hmofa/](https://files.catbox.moe/usqtbw.module)
+[100%](https://files.catbox.moe/mp06c5.module)
 
-[by 𝙒𝙤𝙧𝙢-𝙗𝙤𝙮](https://discord.com/channels/854479693503660032/870494065446248458/870833809531207691)
+[200%](https://files.catbox.moe/rsvghm.module)
 
-*This module was trained on exclusively /hmofa/ content. /hmofa/ stands for Human Male on Female Anthro*
+[by chmod007](https://discord.com/channels/870618914323849228/870619535600922644/886714120693481474)
 
-*4.74mb, 2400~ish steps*
+*An experimental collection of 500 explicit AI-generated girl thoughts to incorporate greater dimensionality regarding female qualia.*
 
-*A collection of various /hmofa/ greentexts, prose stories, and a few entries from Snek's Pinwheel series.*
+*50/100/200/400 steps, 25%/50%/100%/200% trained, 1.7737/1.8192/1.7311/1.7126 avg losses*
+
+500 Girl Thoughts [25%]
+>[ Tags: girl-dreams ]
+>
+>"I'm sorry, I didn't mean to..." The words came out before she could stop them. She was so embarrassed by the whole situation that her voice cracked and broke on 'sorry'. "It's just... it really feels like you're enjoying this."
+>
+>He laughed at her comment. "You have no idea how right you are." He took a deep breath as if he were about to say something important. When his eyes met hers again they had changed. They seemed different somehow.
+>
+>[ Tags: girl-doubts ]
+>
+>"What is it?" she asked him with trepidation in her voice.
+>
+>His smile widened and he pulled her into an embrace. "Nothing," he said softly against her hair. His arms tightened around her shoulders and then released her. He looked down at her for a moment and then turned away from her. "Come here," he commanded gently.
+>
+>She followed him slowly towards the bed and lay back on top of it. Her head rested against one of the pillows and she stared up at him. He knelt between her legs and leaned over her body. Then he pressed his lips against hers and kissed her deeply. A shiver went through her when his tongue entered her mouth. He moved lower until his face hovered above her pussy.
+>
+>[ Tags: girl-smells ]
+>
+>The smell of her arousal filled his nostrils and sent another rush of desire coursing through his veins. He inhaled sharply but did not move any closer to her opening. Instead, he ran his hands lightly across her thighs. As he touched her skin, goose bumps rose all along her flesh. His fingers traced every curve and crevice of her legs. Each touch made her nipples harden even more.
+
+##### [Harem Fantasy](https://files.catbox.moe/cuj1am.module)
+
+[by Virgil_Knightley](https://discord.com/channels/854479693503660032/870494065446248458/888199691278368839)
+
+*This collects about 40 full-length novels in the harem lit fantasy genre by authors such as Eric Vall, Logan Jacobs, Dante King, Michael Scott Earle, and many more, and trains them at about 45% at 10,000 steps. As far as I know, this is the biggest and most comprehensive such module for the harem fantasy genre.*
+
+*If you like Monster Girls and explicit harem dynamics in your high fantasy and urban fantasy novels, look no further.*
 
 ##### [Lesbémon](https://files.catbox.moe/zcf0k2.zip)
 
@@ -1595,6 +1923,12 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 [by bobloko](https://allthefallen.moe/forum/index.php?threads/novelai-potential-alternative-for-ai-dungeon-beta.22382/)
 
 *Here's another loli module from ATF, same thread as the last one, This one is by boboloko. No details on what's in it.*
+
+##### [Longform Mind Control](https://files.catbox.moe/vwgrg2.module)
+
+[by Somdudewilson](https://discord.com/channels/854479693503660032/870494065446248458/885351781167693885)
+
+*A module made of a collection of 3 of my favorite long-form/slow-burn mind control stories from Fiction.Live.  All of them are in 2nd person. 2.5k steps, ~87.59% coverage.*
 
 ##### [Magic Mind Control](https://mega.nz/file/ZfpmTa6T#bx0VmKdhzj0lz9lJdNXnKyQdyxDJjxh6ODiquwHtEvM)
 
@@ -1642,6 +1976,14 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 *Here is the promised mind control induction module. It has been trained on 1MB of excerpts from MC stories, focusing on inductions and similar concepts; these vary in style, tense, perspective, and quality, but hopefully it averages out. I cannot guarantee anything about what it spits out! It does seem to have got the general gist, though obviously it'll need some fiddling and guiding.*
 
 *Unfortunately it seems I did not fully clean the training data, and some �s do appear. I cannot retrain it at the moment as I have ran out of steps; I will do so next month, when I will hopefully have gathered more training data as well.*
+
+##### [Minirotic Roleplay](https://files.catbox.moe/vts0oh.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/351183507/#351391409)
+
+*made a new module from my old erp logs, stories i made from the ai and erotica that i liked to see what it would happen. around 700kb of data with all 500 steps i had. it's both worse and better than i expected. the writing is kind of shit but the ai is more coherent and degenerate from low effort starting prompts. it has rape, breeding, gay and straight shit with mostly maledom but small bits of femdom.*
+
+![the example](https://files.catbox.moe/eiaq5r.png)
 
 ##### [Monster Girls](https://files.catbox.moe/9n64y6.module)
 
@@ -1724,6 +2066,12 @@ Mostly male human x female pokemon, but there are a few in there that contain ma
 
 *An anon was generous enough to train this out. If any other vorefrens are out there, give it a shot and see how well it works.*
 
+##### [Scalyuri](https://files.catbox.moe/pzuet2.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/352403169/#352436772)
+
+*Trained for 1000% on 160kb so it'll probably have weird quirks. If anyone else is going to use this I can still take ideas for writing more data for it.*
+
 ##### [Sexfighting](https://files.catbox.moe/3bpil8.module)
 
 [by L. Horatius Catullus](https://discord.com/channels/870618914323849228/870619535600922644/880421244405710868)
@@ -1766,6 +2114,31 @@ Mostly male human x female pokemon, but there are a few in there that contain ma
 [by Somdudewilson](https://discord.com/channels/870618914323849228/870619535600922644/871154449207394305)
 
 *50-step micro-module trained on PenTrinity's Universal Acceptance series on literotica.*
+
+##### [Wild and Silly](https://files.catbox.moe/czeenn.zip)
+
+[by Anon](https://arch.b4k.co/vg/thread/351459580/#351520105)
+
+*I've made a pack of three modules, all relating to Shota content. Mostly Man/Shota and Shota/Shota. This shit's gay a.f.*
+
+*Description for each of the modules:*
+
+*Shota: Wild and Silly - Mild*
+
+*Romantic and sexual activities between men and younger boys, and between boys of various ages. Main themes are coming-of-age, seduction, consensual and general sexual acts.*
+
+*Trained on 4.5 MB of short stories from various places at 35%. Mostly 1st person perspective.*
+
+*Shota: Wild and Silly - Medium*
+
+*Sexual activities between men and younger boys, and between boys of various ages. Warning! Kink Oriented Content (Consensual). Includes incest, bondage, rimming, spanking, chastity, humiliation, toys and more.*
+
+*Trained on ~5 MB of short stories from various places at 35%. Mix of 1st and 3rd person perspective.*
+
+*Shota: Wild and Silly - Spicy*
+*Sexual activities between men and younger boys, and between boys of various ages. Warning! Extreme content. Includes, but is not limited to, incest, slavery, rape, BDSM, bestiality, watersports, (heavy) physical abuse, castration and more.*
+
+*Trained on 3.75 MB of short stories from various places at 37%. Mostly 3rd person perspective.*
 
 ***
 ***
@@ -1815,6 +2188,20 @@ A.K.A Green's Eagle Vision
 
 *Dunno if this of interest to anyone, but I trained a module on Jonathan Stroud's Bartimaeus Trilogy plus the prequel book. Not sure it works the best because of the perspective switching the book does, but I'm a big fan of the series so I wanted to make this. It would probably be best for succubus/summoning prompts since that's what the series is about.*
 
+##### [Battlefield Earth](https://files.catbox.moe/3hykdl.module)
+
+[by Footlong Goosesize](https://discord.com/channels/836774308772446268/870449646391156776/885404799925882910)
+
+*Battlefield: Earth is a 1982 sci-fi novel written by L. Ron Hubbard, the founder of Scientology. It's mostly known as the film adaptation, which was called "the worst film made" and won 8 Golden Raspberry Awards.*
+
+*From my biased brief looks at the writing, it's a wonder that it was made into a movie.*
+
+##### [The Bible](https://files.catbox.moe/8agh6y.module)
+
+[by El Inquisidor](https://discord.com/channels/836774308772446268/870449646391156776/870891899156856892)
+
+*Trained on a cleaned up version of the full texts of the old and new testaments of the bible. (4648 steps, 100%)*
+
 ##### [Blood Meridian](https://files.catbox.moe/hskvtt.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/349741726/#349844954)
@@ -1857,6 +2244,20 @@ A.K.A Green's Eagle Vision
 
 *Not strictly NSFW, though it may get into moderately sexy territory, I have gathered all the Conan stories by Robert E. Howard and used them to train the AI. Here is the module!*
 
+##### [The Culture](https://files.catbox.moe/cjcf4z.module)
+
+[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/871603737653817364)
+
+*The Culture series is a science fiction series Iain M. Banks. The stories centre on The Culture, a utopian society of humanoid aliens, and advanced superintelligences. The main theme of the series is the dilemmas that an idealistic, more-advanced civilization faces in dealing with smaller, less-advanced civilizations that do not share its ideals, and whose behaviour it sometimes finds barbaric. In some of the stories action takes place mainly in non-Culture environments, and the leading characters are often on the fringes of (or non-members of) the Culture, sometimes acting as agents of Culture (knowing and unknowing) in its plans to civilize the galaxy. Each novel is a self-contained story with new characters, although reference is occasionally made to the events of previous novels.*
+
+##### [The Dark Tower](https://files.catbox.moe/99p3tr.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/345503749/#345504028)
+
+*I made a Dark Tower (by Stephen King) Module. It's based off the entire book series, properly reformatted for training purposes, so you shouldn't get any weird outputs. It also uses all 8K steps, which was overkill, but I don't have anything else I want to train this month, so fuck it.*
+
+
+
 ##### [Discworld](https://mega.nz/file/BHBW0TzQ#cXLsS9W29JNLT2pT5iw6y0E4LcCvd3Z4KslSUPtIexg)
 
 [by Anon](https://arch.b4k.co/vg/thread/345615202/#345643489)
@@ -1874,6 +2275,14 @@ A.K.A Green's Eagle Vision
 - *Night Watch*
 
 *Together they were about 2900 steps, just within the 1k-3k figure that one of the NAI devs said is the sweet spot.*
+
+##### [The Divine Comedy](https://files.catbox.moe/377a6p.module)
+
+[by djhato](https://discord.com/channels/836774308772446268/870449646391156776/873539305472159765)
+
+*With the aid of ght901 and Gnurro, we present you with one of the most influential religious works outside the bible itself. (if of the Christian / Catholic side)*
+
+*A module made from Dante's Divine Comedy!*
 
 ##### [Finnegan's Wake](https://files.catbox.moe/4eb33o.module)
 
@@ -1906,6 +2315,15 @@ A.K.A Green's Eagle Vision
 [by pinkel](https://discord.com/channels/836774308772446268/870449646391156776/871601111012896808)
 
 *HERE IS ALL 62 GOOSEBUMPS BOOKS SHOVED INTO A MODULE. 8000 STEPS! 7MB OF GOOSEBUMPS, GET IT NOW!*
+
+##### [The Gor Saga](https://files.catbox.moe/eeb35k.module)
+
+[by OccultSage](https://discord.com/channels/854479693503660032/870494065446248458/870543700231610418)
+
+*From Wikipedia: Gor is the fictional setting for a series of sword and planet novels written by philosophy professor John Lange, writing as John Norman. The setting was first described in the 1966 novel Tarnsman of Gor. The series is inspired by science fantasy pulp fiction works by Edgar Rice Burroughs (such as the Barsoom series). It also includes erotica and philosophy content. The Gor series repeatedly depicts men abducting and physically and sexually brutalizing women, who grow to enjoy their submissive state. According to The Encyclopedia of Science Fiction, Norman's "sexual philosophy" is "widely detested", but the books have inspired a Gorean subculture.*
+
+*This is trained on the first seven books of John Norman’s Gorean saga as these are considered to be the “best”, such as it is. 5.6MB of cleaned up text, 3000 steps.*
+
 
 ##### [Gotrek and Felix](https://files.catbox.moe/8249bh.module)
 
@@ -1949,114 +2367,6 @@ A.K.A Green's Eagle Vision
 
 *A few can arguably be moved out and replaced with other novels, but most are certified to be the finest writing the series has to offer.*
 
-##### [Native American Myths and Legends](https://files.catbox.moe/rkas27.module)
-
-[by gprot](https://discord.com/channels/836774308772446268/870449646391156776/873705495540695061)
-
-*A book, 179k words, trained 50%.*
-
->**Coyote** was a great medicine man. He could cure all diseases, and he knew how to make medicines from the roots of many plants. One day when Coyote went hunting in his favorite place on top of Mount Taylor, he found an eagle's nest with four eggs. The mother bird had just laid them, but they were so big that she couldn't carry them away. So Coyote took pity on her and carried one egg home for himself. When it hatched out, it became a beautiful boy who looked exactly like Coyote except that he had wings instead of arms or legs. His name was Eagle Boy.
->
->Eagle Boy grew up fast and learned everything there was about healing people and curing their illnesses. But because he wasn't human, no one would listen to him. People thought he was crazy, and nobody believed anything he said. Finally Eagle Boy decided to leave this world altogether and become a spirit. So he flew off into the sky until he came to another country where he met a wise old woman named White Buffalo Woman. She told Eagle Boy to go back down below ground and find some good
-
-##### [Neuromancer](https://files.catbox.moe/ybbjl8.module)
-
-[by Anon](https://arch.b4k.co/vg/thread/349741726/#349849812)
-
-*I just went ahead and cleaned the copy of Neuromancer in Notepad++ instead of trying to use the ReFormatter. It said it would take 503 steps to get o 100%, I figured 500 is close enough. So here is a small module made from Neuromancer by William Gibson. As far as I know it's the first cyberpunk module anybody has posted here.*
-
-##### [Mistborn Trilogy](https://files.catbox.moe/m9qo21.module)
-
-[by Alephrin](https://discord.com/channels/836774308772446268/870449646391156776/882782003815145552)
-
-*A module trained on the Mistborn trilogy by Brandon Sanderson. The series contains a fairly unique type of "magic" where the users "burn" metal and alloys in their stomachs to employ their abilities. ~50% Coverage @ ~2000 steps.*
-
-##### [My Struggle](https://files.catbox.moe/w0tsn8.module)
-
-[by Anon](https://arch.b4k.co/vg/thread/345762590/#345853007)
-
-> \>I'd like to see what would happen if a module trained on Mein Kampf handled smut.
-
-*Zionists, behold! Trained on 1734 steps.*
-
-##### [Oz](https://files.catbox.moe/6xvbye.module)
-
-[by Anon](https://arch.b4k.co/vg/thread/345615202/#345642663)
-
-*Made a module that was trained on the first six Oz books by L. Frank Baum. (The Wonderful Wizard of Oz, The Marvelous Land of Oz, Ozma of Oz, Dorothy and the Wizard in Oz, The Road to Oz, The Emerald City of Oz)
-Felt like it would be unnecessary to do all fourteen of his books in the Oz series (Or the 26 books that came after his death.)*
-
-*Hopefully, others will enjoy using this module as much as me.*
-
-##### [Redwall](https://files.catbox.moe/xqp9xz.module)
-
-[by Basileus](https://discord.com/channels/836774308772446268/870449646391156776/884277862000099368)
-
-*Selected from Brian Jacques's series about the anthropomorphic creatures of Redwall Abbey and Mossflower Wood, plus a small influence from similar works by Hilary Wagner and Daniel Polansky for diversity.*
-
-*5.3MB, 50% coverage*
-
-- *Mossflower (Redwall) by Brian Jacques*
-- *The Bellmaker (Redwall) by Brian Jacques*
-- *Pearls of Lutra (Redwall) by Brian Jacques*
-- *The Long Patrol (Redwall) by Brian Jacques*
-- *Lord Brocktree (Redwall) by Brian Jacques*
-- *Taggerung (Redwall) by Brian Jacques*
-- *Loamhedge (Redwall) by Brian Jacques*
-- *Rakkety Tam (Redwall) by Brian Jacques*
-- *Nightshade City by Hilary Wagner*
-- *The Builders by Daniel Polansky*
-
->In the soft shadows at the edge of the wood, a figure stirred.
->
->A young female mousemaid sat up with a start and stared around in surprise as her eyes adjusted to the darkness. The last thing she remembered was being carried off by those wicked creatures called otters—they had stolen her from under the noses of Redwall Abbey's guards. Now here she was back where it all began; safe but alone on an island surrounded by water! She could hear waves lapping against rocks nearby. There were no trees or bushes anywhere near so how did they get me out? But that didn't matter now. All she wanted to do was go home to Redwall.
->
->The maid stood shakily upright. Her fur cloak lay spread over some kind of mossy log close by. A large red stone lay beside it, half buried beneath leaves and ferns. It looked like one of those stones used for marking boundaries, though this one seemed bigger than most. What was more interesting still, there was writing carved into its face:
->
->"Dawn is breaking, my friend,
->
->Sun will soon be shining bright."
->
->She gazed about in wonderment. "Where am I?"
->
->But the answer came from behind her.
->
->"You are not far away from your own land, my dear," said a voice softly. Turning quickly, the girl saw a small creature standing only two pawsteps away.
-
-##### [The Bible](https://files.catbox.moe/8agh6y.module)
-
-[by El Inquisidor](https://discord.com/channels/836774308772446268/870449646391156776/870891899156856892)
-
-*Trained on a cleaned up version of the full texts of the old and new testaments of the bible. (4648 steps, 100%)*
-
-##### [The Culture](https://files.catbox.moe/cjcf4z.module)
-
-[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/871603737653817364)
-
-*The Culture series is a science fiction series Iain M. Banks. The stories centre on The Culture, a utopian society of humanoid aliens, and advanced superintelligences. The main theme of the series is the dilemmas that an idealistic, more-advanced civilization faces in dealing with smaller, less-advanced civilizations that do not share its ideals, and whose behaviour it sometimes finds barbaric. In some of the stories action takes place mainly in non-Culture environments, and the leading characters are often on the fringes of (or non-members of) the Culture, sometimes acting as agents of Culture (knowing and unknowing) in its plans to civilize the galaxy. Each novel is a self-contained story with new characters, although reference is occasionally made to the events of previous novels.*
-
-##### [The Dark Tower](https://files.catbox.moe/99p3tr.module)
-
-[by Anon](https://arch.b4k.co/vg/thread/345503749/#345504028)
-
-*I made a Dark Tower (by Stephen King) Module. It's based off the entire book series, properly reformatted for training purposes, so you shouldn't get any weird outputs. It also uses all 8K steps, which was overkill, but I don't have anything else I want to train this month, so fuck it.*
-
-##### [The Divine Comedy](https://files.catbox.moe/377a6p.module)
-
-[by djhato](https://discord.com/channels/836774308772446268/870449646391156776/873539305472159765)
-
-*With the aid of ght901 and Gnurro, we present you with one of the most influential religious works outside the bible itself. (if of the Christian / Catholic side)*
-
-*A module made from Dante's Divine Comedy!*
-
-##### [The Gor Saga](https://files.catbox.moe/eeb35k.module)
-
-[by OccultSage](https://discord.com/channels/854479693503660032/870494065446248458/870543700231610418)
-
-*From Wikipedia: Gor is the fictional setting for a series of sword and planet novels written by philosophy professor John Lange, writing as John Norman. The setting was first described in the 1966 novel Tarnsman of Gor. The series is inspired by science fantasy pulp fiction works by Edgar Rice Burroughs (such as the Barsoom series). It also includes erotica and philosophy content. The Gor series repeatedly depicts men abducting and physically and sexually brutalizing women, who grow to enjoy their submissive state. According to The Encyclopedia of Science Fiction, Norman's "sexual philosophy" is "widely detested", but the books have inspired a Gorean subculture.*
-
-*This is trained on the first seven books of John Norman’s Gorean saga as these are considered to be the “best”, such as it is. 5.6MB of cleaned up text, 3000 steps.*
-
 ##### [The King James Bible](https://files.catbox.moe/98k64l.module)
 
 [by The McD](https://discord.com/channels/836774308772446268/870449646391156776/871020363167989830)
@@ -2098,11 +2408,98 @@ Text looked like this:
 >
 >There was nothing else to say after that. My heart beat hard within my breast. This was why we came: to prove the truth of our words. If they believed us, then... well, I knew not what would happen next. But if they didn't believe us, then we had done harm enough already. For now, though, there was nothing more to be gained.
 
+##### [Mistborn Trilogy](https://files.catbox.moe/m9qo21.module)
+
+[by Alephrin](https://discord.com/channels/836774308772446268/870449646391156776/882782003815145552)
+
+*A module trained on the Mistborn trilogy by Brandon Sanderson. The series contains a fairly unique type of "magic" where the users "burn" metal and alloys in their stomachs to employ their abilities. ~50% Coverage @ ~2000 steps.*
+
+##### [My Struggle](https://files.catbox.moe/w0tsn8.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/345762590/#345853007)
+
+> \>I'd like to see what would happen if a module trained on Mein Kampf handled smut.
+
+*Zionists, behold! Trained on 1734 steps.*
+
+
+##### [Native American Myths and Legends](https://files.catbox.moe/rkas27.module)
+
+[by gprot](https://discord.com/channels/836774308772446268/870449646391156776/873705495540695061)
+
+*A book, 179k words, trained 50%.*
+
+>**Coyote** was a great medicine man. He could cure all diseases, and he knew how to make medicines from the roots of many plants. One day when Coyote went hunting in his favorite place on top of Mount Taylor, he found an eagle's nest with four eggs. The mother bird had just laid them, but they were so big that she couldn't carry them away. So Coyote took pity on her and carried one egg home for himself. When it hatched out, it became a beautiful boy who looked exactly like Coyote except that he had wings instead of arms or legs. His name was Eagle Boy.
+>
+>Eagle Boy grew up fast and learned everything there was about healing people and curing their illnesses. But because he wasn't human, no one would listen to him. People thought he was crazy, and nobody believed anything he said. Finally Eagle Boy decided to leave this world altogether and become a spirit. So he flew off into the sky until he came to another country where he met a wise old woman named White Buffalo Woman. She told Eagle Boy to go back down below ground and find some good
+
+##### [Neuromancer](https://files.catbox.moe/ybbjl8.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/349741726/#349849812)
+
+*I just went ahead and cleaned the copy of Neuromancer in Notepad++ instead of trying to use the ReFormatter. It said it would take 503 steps to get o 100%, I figured 500 is close enough. So here is a small module made from Neuromancer by William Gibson. As far as I know it's the first cyberpunk module anybody has posted here.*
+
+##### [The Old Kingdom Trilogy](https://files.catbox.moe/kj09g7.module)
+
+[by Footlong Goosesize](https://discord.com/channels/836774308772446268/870449646391156776/886527362303402004)
+
+*Taking place in a full on Medieval Fantasy world borderlining a normal Victorian one, the Abhorsen, or the good necromancer is the one keeping both worlds from dying to zombie invasions and other schemes.*
+
+*Join the adventures of two Abhorsens, Sabriel and Lirael as they figure out life, love and zombies.*
+
+*Includes: Sabriel, Lirael, Abhorsen and The Creature in the Cage.*
+
+
+##### [Oz](https://files.catbox.moe/6xvbye.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/345615202/#345642663)
+
+*Made a module that was trained on the first six Oz books by L. Frank Baum. (The Wonderful Wizard of Oz, The Marvelous Land of Oz, Ozma of Oz, Dorothy and the Wizard in Oz, The Road to Oz, The Emerald City of Oz)*
+
+*Felt like it would be unnecessary to do all fourteen of his books in the Oz series (Or the 26 books that came after his death.)*
+
+*Hopefully, others will enjoy using this module as much as me.*
+
 ##### [The Quran](https://files.catbox.moe/43lk1h.module)
 
 [by TheMcD](https://discord.com/channels/836774308772446268/870449646391156776/870997565204742214)
 
 *Trained on a cleaned up English translation of the Quran kindly provided by El Inquisidor.*
+
+##### [Redwall](https://files.catbox.moe/xqp9xz.module)
+
+[by Basileus](https://discord.com/channels/836774308772446268/870449646391156776/884277862000099368)
+
+*Selected from Brian Jacques's series about the anthropomorphic creatures of Redwall Abbey and Mossflower Wood, plus a small influence from similar works by Hilary Wagner and Daniel Polansky for diversity.*
+
+*5.3MB, 50% coverage*
+
+- *Mossflower (Redwall) by Brian Jacques*
+- *The Bellmaker (Redwall) by Brian Jacques*
+- *Pearls of Lutra (Redwall) by Brian Jacques*
+- *The Long Patrol (Redwall) by Brian Jacques*
+- *Lord Brocktree (Redwall) by Brian Jacques*
+- *Taggerung (Redwall) by Brian Jacques*
+- *Loamhedge (Redwall) by Brian Jacques*
+- *Rakkety Tam (Redwall) by Brian Jacques*
+- *Nightshade City by Hilary Wagner*
+- *The Builders by Daniel Polansky*
+
+>In the soft shadows at the edge of the wood, a figure stirred.
+>
+>A young female mousemaid sat up with a start and stared around in surprise as her eyes adjusted to the darkness. The last thing she remembered was being carried off by those wicked creatures called otters—they had stolen her from under the noses of Redwall Abbey's guards. Now here she was back where it all began; safe but alone on an island surrounded by water! She could hear waves lapping against rocks nearby. There were no trees or bushes anywhere near so how did they get me out? But that didn't matter now. All she wanted to do was go home to Redwall.
+>
+>The maid stood shakily upright. Her fur cloak lay spread over some kind of mossy log close by. A large red stone lay beside it, half buried beneath leaves and ferns. It looked like one of those stones used for marking boundaries, though this one seemed bigger than most. What was more interesting still, there was writing carved into its face:
+>
+>"Dawn is breaking, my friend,
+>
+>Sun will soon be shining bright."
+>
+>She gazed about in wonderment. "Where am I?"
+>
+>But the answer came from behind her.
+>
+>"You are not far away from your own land, my dear," said a voice softly. Turning quickly, the girl saw a small creature standing only two pawsteps away.
 
 ##### [The Robots Series](https://files.catbox.moe/79f091.module)
 
@@ -2134,12 +2531,6 @@ Text looked like this:
 - *The Book of the Short Sun*
 
 *Tags: science fantasy, dying earth, surreal/dreamlike imagery*
-
-##### [The Witcher](https://files.catbox.moe/k2bubv.module)
-
-[by lion](https://discord.com/channels/836774308772446268/870449646391156776/870791255246901248)
-
-*A module trained on Andrzej Sapkowski's The Witcher series novels.*
 
 ##### [Vampire Diaries](https://files.catbox.moe/mjucuf.module)
 
@@ -2181,6 +2572,12 @@ Text looked like this:
 >
 >"The Dragon Reborn is dead," said Min, "and Rand al'Thor has gone mad." She hesitated, then added, "It is said that he will destroy the world.
 
+##### [The Witcher](https://files.catbox.moe/k2bubv.module)
+
+[by lion](https://discord.com/channels/836774308772446268/870449646391156776/870791255246901248)
+
+*A module trained on Andrzej Sapkowski's The Witcher series novels.*
+
 ***
 
 #### [Non-Fiction](#works)
@@ -2212,6 +2609,7 @@ Text looked like this:
 >*9. Hold jie (trust) sacred and be honest in negotiations.*
 
 ***
+
 #### [Visual Novel](#works)
 
 ##### [Fate/stay ataraxia](https://files.catbox.moe/o8en07.module)
@@ -2230,8 +2628,9 @@ Text looked like this:
 
 [by lion](https://discord.com/channels/836774308772446268/870449646391156776/870477108323950652)
 
-*A module trained on the extracted and cleaned text from the first Steins;Gate visual novel game for exactly 2002 steps.
-Output features visual novel-style description and dialogue, meaning character lines will be prefixed by their name for example.*
+*A module trained on the extracted and cleaned text from the first Steins;Gate visual novel game for exactly 2002 steps.*
+
+*Output features visual novel-style description and dialogue, meaning character lines will be prefixed by their name for example.*
 
 >Kurisu: What's the matter? You're smiling like a Cheshire cat.
 >
@@ -2255,8 +2654,40 @@ Output features visual novel-style description and dialogue, meaning character l
 
 [by SGreen](https://discord.com/channels/836774308772446268/870449646391156776/870493546250137650)
 
-*Module trained on the current 7 books(Chapter 1 - 253 light novels) from The Beginning After the End. I forgot to add the latest, 8th, book. So Chapter 254-340 are missing. Trained with 3k steps, from max 4k. ~75%
-From what I saw, it works amazing. It gave me some really amazing output from the perspective of Arthur.*
+*Module trained on the current 7 books(Chapter 1 - 253 light novels) from The Beginning After the End. I forgot to add the latest, 8th, book. So Chapter 254-340 are missing. Trained with 3k steps, from max 4k. ~75%*
+
+*From what I saw, it works amazing. It gave me some really amazing output from the perspective of Arthur.*
+
+##### [Fantasies](https://files.catbox.moe/j2rgei.module)
+
+[by chrome](https://discord.com/channels/836774308772446268/870449646391156776/885273873686364170)
+
+*Trained on a collection of various light novels focused on fantasy. I attempted to curate some measure of quality and creativity through the works chosen.*
+
+- *Overlord Vol. 12 & 14 by Kugane Maruyama*
+- *Grimgar of Fantasy and Ash  Vol. 4 & 5 by Ao Jūmonji*
+- *ReZERO -Starting Life in Another World-  Vol. 5 & 12 by Nagatsuki Tappei*
+- *Spice and Wolf  Vol. 1, 15 & 16 by Hasekura Isuna*
+- *The Faraway Paladin  Vol. 1 & 2 by Yanagino Kanata*
+- *The Saga of Tanya the Evil  Vol. 3 & 4 by Carlo Zen*
+- *Violet Evergarden  Vol. 1, 2 & Ever After by Akatsuki Kana*
+- *Wandering Witch - The Journey of Elaina  Vol. 3 & 4 by Shiraishi Jougi*
+- *St Torture Princess - Fremd Torturchen  Vol. 1 & 2 by Ayasato Keishi*
+- *Ascendance of a Bookworm  Part 4 Vol. 1 by Kazuki Miya*
+
+> **Covering her slender body was** a black dress. It had an elegant design, but the sleeves were too long and it looked like she'd be cold if she wore that alone in this weather.
+>
+>"I'm sorry." I apologized to Kamito who stood beside me. "You're going out with Claire today?"
+>
+> "...Yes," he replied curtly. He didn't seem very happy about it either. The two of them hadn't been talking much lately. I could tell from his attitude. They probably weren't getting along well.
+>
+> Kamito glanced at my face for some reason before turning away sharply. What's wrong? Is there something bothering him?
+>
+> —It must have been because of what happened yesterday. After all, we found out that Rinslet and Ellis' relationship wasn't as perfect as they claimed... Although it would be better not to think about such things.
+>
+> The sun rose higher into the sky while making its way towards noon. We arrived at the church where the ceremony was taking place around ten minutes later.
+>
+> We entered through the main entrance and walked up the stairs. Along the stone steps, small flowers bloomed in vases placed on pedestals. A faint scent of incense floated over everything. This kind of atmosphere seemed more fitting than anything else for a wedding.
 
 ##### [Goblin Slayer](https://files.catbox.moe/pdtjaa.module)
 
@@ -2272,6 +2703,12 @@ From what I saw, it works amazing. It gave me some really amazing output from th
 
 *For chuuni and boob lovers alike, reformatted and adjusted translations for volumes 1 to 10 of the High School DxD Light Novel!*
 *Many 'important terms' within the franchise are surrounded in [ ] brackets. Mileage may vary!*
+
+##### [Highschool DxD (1-21)](https://files.catbox.moe/gotlng.module)
+
+[by PaeRist](https://discord.com/channels/854479693503660032/870494065446248458/884615845962190849)
+
+*This module was trained on the Volumes 1-25 of the light-novel High School DxD with 7708 steps.*
 
 ##### [KonoSuba](https://files.catbox.moe/sd3sxg.module)
 
@@ -2344,15 +2781,18 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 
 *3020 steps, 1.07mb training material*
 
+##### [Trials in Tainted Space](https://files.catbox.moe/1yieys.module)
+
+[by Lykmn](https://discord.com/channels/854479693503660032/870494065446248458/885641567631724594)
+
+*A massive collection of data from Sci-Fi Fantasy Text Adventure Game, Trials in Tainted Space. Second Person. Contains dialog, codex entries, and encounters. All data is taken from a male character perspective, but there is plenty of F/M, M/M, M/I.*
+
+*9.7k Steps, 100% coverage*
+
+
 ***
 
 #### [Web Fiction](#works)
-
-##### [A Dragon Ranch in Suburbia](https://files.catbox.moe/h3u4jx.module)
-
-[by Somdudewilson](https://discord.com/channels/870618914323849228/870619535600922644/870759619578982421)
-
-*Both of Ausfer's Dragon Ranch and its sequel series A Dragon in Suburbia.  Expect lots of feral dragonesses x male human.*
 
 ##### [Code Lyoko](https://files.catbox.moe/8bzmiq.module)
 
@@ -2363,6 +2803,12 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 >\>The Code Lyoko module seems to have a penchant for smashing words together, forgetting newlines and repeating the first couple letters of words.
 
 *Yeah, that's what it happens when you convert a pdf to .txt. I tried to do my best to clean the dataset, but it was no use. It still works if you wrangle with it a bit at the beginning.*
+
+##### [A Dragon Ranch in Suburbia](https://files.catbox.moe/h3u4jx.module)
+
+[by Somdudewilson](https://discord.com/channels/870618914323849228/870619535600922644/870759619578982421)
+
+*Both of Ausfer's Dragon Ranch and its sequel series A Dragon in Suburbia.  Expect lots of feral dragonesses x male human.*
 
 ##### [Harry Potter of Our Own](https://files.catbox.moe/o9uxko.module)
 
@@ -2389,6 +2835,33 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 [by Anon](https://arch.b4k.co/vg/thread/345503749/#345553878)
 
 *I fixed up my formatting for my Pack Street Module trained on just Weaver's Zootopia stories. It mostly outputs stuff like adjusting to life in the slums of Zootopia. Which is what Pack Street is mostly about.*
+
+##### [Pinwheel](https://files.catbox.moe/9q14g9.module)
+
+[by HansonDat](https://discord.com/channels/854479693503660032/870494065446248458/889461068362031104)
+
+*A module that has all up-to-date and completed stories from Snekguy's Pinwheel Series as of Mid-Sept 2021 . Guaranteed satisfaction for people seeking Sci-fi smut with furries aliens involving muscular and/or dominant cat ladies, large and lumbering humanoid crocodiles, short humanoid reptiles and humanoid insects.*
+
+*Stories used:*
+
+- *Pinwheel*
+- *Splashdown*
+- *Fineprint*
+- *Purple-Heart*
+- *Outpost (Het & Bi Ver.)*
+- *Worlds-Apart (1 & 2)*
+- *Highway to Krell (Only Het Ver.)*
+- *Raz The Farmer*
+- *Friendly Competition*
+- *Rig Runner*
+- *Queen of Jarilo*
+- *Return To Krell*
+- *Birds of Prey (Het & Bi Ver.)*
+- *Black Velvet*
+- *Firebrand*
+- *Tepin's Muse (Het & Gay Ver.)*
+- *The Rask Rebellion*
+
 
 ##### [Sex and Marmota Nights](https://files.catbox.moe/5fxj3v.module)
 
@@ -2419,6 +2892,60 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 >
 >The world has gone through a revolution. It is no longer enough simply to build. To survive and succeed now requires a total commitment to your art, a passion for innovation. For the next generation's greatest work. And this is our pledge to you... from Ford... a full spectrum of vehicles that are designed to make life more enjoyable, more exciting. Because when life's fun-a Ford!
 
+#### [The Club](https://files.catbox.moe/l6uggu.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/350292737/#350296625)
+
+![Example](https://files.catbox.moe/6fiig4.png)
+
+*(formerly known as "Prompt Module")*
+
+*I bought another 10k steps to train on the entirety of the club. This time with proper formatting. Sections are seperated by the @ symbol, so you can ban that token to keep it on track.*
+
+*Originally intended to generate prompts from tags, but it seems to be able to do more than that. It can work with full stories fine. It is good at second person. It "knows" a lot about what people want from AI stories and how text should be formatted. So I think it makes a good default module.*
+
+#### [Director View](https://files.catbox.moe/rc35sx.module)
+
+[by Magenta.Darkstar *(kek)*](https://discord.com/channels/836774308772446268/870449646391156776/888106076619300885)
+
+*Okay, this module was trained on a large corpus of Writing Prompts.*
+
+*The format for use is:*
+
+	[ Prompt: <Something neat happens> ]
+	<prompt response>
+
+*This can be used in two different ways. The first is when starting a new story you can direct the scene. The second is when you are in the middle of a story you can provide direction for the AI.*
+
+*For example:*
+
+	They were not the only ones looking for a way out of the Inner Sphere. Skye had seen similar ships pass through the system before. There was a steady stream of them coming and going. Some were filled with refugees, others were full of contraband. They all looked for ways to leave the Inner Sphere.
+	The captain came down to check on the passengers. He was a man named Phezzan. Skye thought he looked like a typical mercenary. His face was hard and expressionless. 
+	[ Prompt: Skye needs to blend in with the other passengers. ]
+	Skye stood up and walked over to the captain. She smiled at him and said, "I'm sorry, but I need to use your bathroom."
+	Phezzan nodded and gestured to the door. Skye went into the small room and closed the door behind her. She turned around and saw that the door was locked. She reached into her pocket and pulled out a small device. She pressed a button on the side and the lock clicked open.
+	Skye opened the door and stepped outside.
+
+*Make sure to provide appropriate context switching with the prompt. If you are intending to have a new scene I recommend.*
+
+	***
+	[ Prompt: <intended scene> ]
+
+*It can be combined with Scene and Scenario for stronger direction.*
+
+	***
+	[ Scene: In the cargo hold of the  Lyran freighter. ]
+	[ Scenario: Skye needs to blend in with the other passengers. ]
+	[ Prompt: Aboard the spacecraft Skye socially manipulates her wat to the bridge. ]
+	Skye was a tall woman, but she was still shorter than most of the other passengers. She wore a black jumpsuit and a pair of dark sunglasses. Her hair was short and blonde. She had a small nose and a thin mouth. She had a very pale complexion.
+	She walked up to the captain and said, "Excuse me, sir. I'm looking for a place to hide."
+	The captain looked at her suspiciously. "What do you want?"
+	"I need to hide," Skye repeated.
+
+*The strongest measurable effect I can see from doing this is that when you enter Prompt: it doesn't treat the text as having been "written". So without this module Prompt: A bomb goes off. may respond with something like The sound of the explosion rocked my ears thus assuming that A bomb goes off was part of the text. Using this module shouldn't do that.*
+
+*Experimenting you absolutely can write a full coherent story using just the Scene/Scenario/Prompt/\*\*\* keywords.*
+
 #### [DND Monster Generator](https://files.catbox.moe/9436dx.module)
 
 [by Elle](https://discord.com/channels/836774308772446268/870449646391156776/883558092732792843)
@@ -2442,6 +2969,16 @@ Use Example:
 > Skills: Bluff, Diplomacy, Disguise, Intimidate, Knowledge (arcana), Perception, Sense Motive, Stealth
 >
 > Lore: The only thing that can stop this man is another man."
+
+#### [Math]()
+
+[Decimal](https://files.catbox.moe/53vgto.module)
+
+[Simple](https://files.catbox.moe/jroifc.module)
+
+[by Somdudwilson](https://discord.com/channels/836774308772446268/870449646391156776/888159585955889213)
+
+*An experiment I ran for fun. Two modules, one trained on 20.5k lines of complex generated equations containing decimal arguments, the other trained on 30k lines of generated equations containing integer arguments and only the basic operators  +, -, \*, /, and ().*
 
 #### [Pokédex](https://files.catbox.moe/xoh3jy.module)
 
@@ -2469,17 +3006,6 @@ Use Example:
 
 *You can also try different prompts as it is quite flexible in generating stat blocks and fantasy creature descriptions.*
 
-#### [The Club](https://files.catbox.moe/l6uggu.module)
-
-[by Anon](https://arch.b4k.co/vg/thread/350292737/#350296625)
-
-![Example](https://files.catbox.moe/6fiig4.png)
-
-*(formerly known as "Prompt Module")*
-
-*I bought another 10k steps to train on the entirety of the club. This time with proper formatting. Sections are seperated by the @ symbol, so you can ban that token to keep it on track.*
-
-*Originally intended to generate prompts from tags, but it seems to be able to do more than that. It can work with full stories fine. It is good at second person. It "knows" a lot about what people want from AI stories and how text should be formatted. So I think it makes a good default module.*
 
 #### [World Generator](https://files.catbox.moe/zswaxs.module)
 
