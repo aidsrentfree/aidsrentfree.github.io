@@ -3,7 +3,7 @@ layout: page
 title: "Module Repository"
 permalink: /modules/
 ---
-# /aids/ Rent-Free Module Repository
+# The Rent-Free Module Repository
 
 Well, looks like we've run out of space on the [rentry](https://rentry.co/modules).
 
@@ -46,7 +46,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## [Table of Contents](#modules)
 
-- [/aids/ Rent-Free Module Repository](#aids-rent-free-module-repository)
+- [The Rent-Free Module Repository](#the-rent-free-module-repository)
 	- [Recent Changes](#recent-changes)
 	- [Modules](#modules)
 	- [Table of Contents](#table-of-contents)
