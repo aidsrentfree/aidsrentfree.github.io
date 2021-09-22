@@ -3056,8 +3056,4 @@ Use Example:
 ***
 ***
 
-<span align="center">
-
-if you feel that i've missed a good module, say so on the thread.
-
-</span>
+<span align="center">if you feel that i've missed a good module, say so on the thread.</span>
