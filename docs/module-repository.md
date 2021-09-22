@@ -8,15 +8,19 @@ permalink: /modules/
 	.center {
 		text-align: center;
 		}
+
 </style>
 # The Rent-Free Module Repository
 {: .center}
 
 Well, looks like we've run out of space on the [rentry](https://rentry.co/modules).
+{: .center}
 
 Thus the repo continues here, where character limit concerns are a thing of the ~~past~~ distant future. If and when another model comes out, I'll backup this edition to it's own page and start from the rentry.co anew.
+{: .center}
 
 *Because of shenanigans involving browser cache, you may need to hard refresh (Ctrl + Shift + R / Ctrl + F5) to see new stuff.*
+{: .center}
 
 ***
 
@@ -3064,4 +3068,5 @@ Use Example:
 ***
 ***
 
-<p align="center">if you feel that i've missed a good module, say so on the thread.</p>
+if you feel that i've missed a good module, say so on the thread.
+{: .center}
