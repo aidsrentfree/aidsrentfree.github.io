@@ -488,7 +488,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 ***
 
 # [Themes](#modules)
-{. center}
+{: .center}
 
 - [Setting](#setting) - *The module encompasses an entire environment.*
 - [Elements](#elements) - *The module focuses on a concept that can be incorporated into any story.*
