@@ -5,15 +5,11 @@ permalink: /modules/
 ---
 <h1 align="center"> The Rent-Free Module Repository </h1>
 
-<span align="center">
-
 Well, looks like we've run out of space on the [rentry](https://rentry.co/modules).
 
 Thus the repo continues here, where character limit concerns are a thing of the ~~past~~ distant future. If and when another model comes out, I'll backup this edition to it's own page and start from the rentry.co anew.
 
 *Because of shenanigans involving browser cache, you may need to hard refresh (Ctrl + Shift + R / Ctrl + F5) to see new stuff.*
-
-</span>
 
 ***
 
