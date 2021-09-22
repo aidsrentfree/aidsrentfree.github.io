@@ -9,10 +9,13 @@ Well, looks like we've run out of space on the [rentry](https://rentry.co/module
 
 Thus the repo continues here, where character limit concerns are a thing of the ~~past~~ distant future. If and when another model comes out, I'll backup this edition to it's own page and start from the rentry.co anew.
 
+*Because of shenanigans browser cache, you may need to hard refresh (Ctrl + Shift + R / Ctrl + F5) to see new stuff.*
+
 ***
 
 ## Recent Changes
 
+- Updated [Warhammer 40,000](#warhammer-40k) Module
 - Added [Harem Fantasy Collection](#harem-fantasy) module
 - Added [Pinwheel Series](#pinwheel) module
 - Added [Girls' Frontline](#girls-frontline) module
@@ -2536,7 +2539,7 @@ Text looked like this:
 
 [by SGreen](https://discord.com/channels/836774308772446268/870449646391156776/871047154146369596)
 
-*Trained on all 9 books, of the original Vampire diaries series. ~3k steps from ~5k | ~61%*
+*Trained on all 9 books, of the original Vampire diaries series. ~3k steps from ~5k \| ~61%*
 
 ##### [War and Peace](https://files.catbox.moe/1wq3yd.module)
 
@@ -2544,11 +2547,19 @@ Text looked like this:
 
 *A module (4000 steps) based on the novel War and Peace by Leo Tolstoy, a Napoleonic War story about the hardships of war, the importance of family/relationships, and the general philosophies of Leo Tolstoy.*
 
-##### [Warhammer 40k](https://files.catbox.moe/tbw0ag.module)
+##### [Warhammer 40k](https://files.catbox.moe/g0vjjy.module)
 
-[by Seenyurr](https://discord.com/channels/836774308772446268/870449646391156776/870472543839072306)
+[by Seenyurr](https://discord.com/channels/836774308772446268/870449646391156776/890018434811842590)
 
-*A module trained on two novels by Guy Haley; Konrad Curze - The Night Haunter and Perturabo - The Hammer of Olympia. Keep in mind this is me testing the formatting first and foremost, as well as making sure the output is curated well enough. If I find the results satisfactory, I will commit resources to constructing a better one.*
+*As promised. Trained on over 20 works (including full fledged novels and short novellas by various authors; amongst them Gav Thorpe, Dan Abnett, Gordon Rennie, Robbie Mac Niven, etc). The aim was to feed it enough material to get a general grasp regarding the setting's factions/main characters and a decent layout of battle scenes (I've emphasized void-combat in my selections)*
+
+*130% coverage trained on over 5k steps.*
+
+>The High Admiral's eyes widened upon the sight of a space marine storming down one of the hallways towards him. "Where did he come from?" she cried out at first, but her query dissolved as another possessed entered behind their leader.
+>
+>Moving rapidly through both chambers like a shark fin slicing its way through deep waters, the space marines sought everywhere to kill anything not armored under Imperial colors. Though most regarded them as demons from hell itself, many had never seen one themselves until now. Quickly realizing what their brethren wanted - no quarter given in order to achieve victory - the civilians turned and fled deeper into the cave system, leaving only short-lived resistance to be mopped up by the two companies' scouts already scouring the place.
+>
+>After entering the main chamber of the underground complex where the Chaos denizens often conducted their vile rituals, Captain Drakael found it empty except for six rough stone monoliths arranged about an altar in the center of the large room. Upon inspecting the crude carvings decorating some of the stones, the captain could make little sense of what might lie within each piece. There was much jagged imagery depicting creatures that seemed part beast, half human; daemonic shapes with dark, hungry gazes lurking beneath impenetrable hooded expressions on their faces. At least one showed framed over all this a blazing sun hung low above unbreathable skies filled with hideous monsters waving skeletal limbs high overhead while others featured unfortunate souls bound together with chains emerging from a central point.
 
 ##### [Wheel of Time](https://files.catbox.moe/5h7lnf.module)
 
