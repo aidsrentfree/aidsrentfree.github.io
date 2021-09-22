@@ -8,8 +8,8 @@ permalink: /modules/
 	.center {
 		text-align: center;
 		}
-
 </style>
+
 # The Rent-Free Module Repository
 {: .center}
 
