@@ -26,6 +26,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+- Added [Multiple Partners](#multiple-partners) module
 - Added [The Python Programming Language](#python) module
 - Added [Welcome to Night Vale](#welcome-to-night-vale) module
 - Added the [Magical](#magical-girls-romance) [Girls](#magical-girls-battle-royale) modules
@@ -194,6 +195,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 		- [Minirotic Roleplay](#minirotic-roleplay)
 		- [Monster Girls](#monster-girls)
 		- [Monstergirls](#monstergirls)
+		- [Multiple Partners](#multiple-partners)
 		- [Mysterotica](#mysterotica)
 		- [Netorare](#netorare)
 		- [NonConsent and Reluctance](#nonconsent-and-reluctance)
@@ -2083,6 +2085,20 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 >I couldn’t help myself as my eyes wandered over her body once again. Her breasts were large and perfectly round, not too big or small at all. They sat high on her chest and swayed back and forth when she moved. The nipples were thick and dark pink while they poked through her golden brown fur.
 >
 >Her stomach was flat and tight while there was an indentation right where her belly button would be if she had one. My cock twitched involuntarily at the thought of sliding inside those soft curves.
+
+### [Multiple Partners](https://files.catbox.moe/66nz91.module)
+
+[by Magenta.Darkstar (oh shit they're back)](https://discord.com/channels/854479693503660032/870494065446248458/891853043224690718)
+
+*I've been really frustrated with NAI's performance during scenes with multiple partner. I trained a module that consists of FFM, MMF, FFFM, MMMF, and Orgy erotica from Literotica. The results are already substantially better than NAI's typical behavior:*
+
+>[ Scenario: Mike and Dave are going to fuck me at the same time. ]
+>
+>I had been with both of them before, but I was still inexperienced when it came to sex in general so they were quite gentle as we began making out passionately on our bed. We kissed deeply for a while until finally my hands reached down between us to feel their cocks. They both moaned loudly as I started rubbing one then quickly moving onto the other. Soon each cock was hard enough that they wanted to go inside me right away. So without any further delay or preparation we got into position side by side facing towards each other. Both guys moved closer together and pushed their hips forward slightly allowing themselves room to thrust into me from behind. My pussy lips opened up invitingly and I felt myself being penetrated once again. This feeling alone is an amazing experience!
+
+*For the above I started with just the scenario.*
+
+*I do not recommend you use this as your default basis, but instead use a module with high quality writing until you get to a multiple partner sex scene. Then switch back when the scene is over.*
 
 ### [Mysterotica](https://files.catbox.moe/bjceyi.zip)
 
