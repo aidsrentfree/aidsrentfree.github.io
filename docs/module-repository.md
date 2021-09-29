@@ -26,6 +26,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+- Made an explicit note for what the [formerly mysterious Literotica module](#mysterotica) actually contains.
 - Added [Multiple Partners](#multiple-partners) module
 - Added [The Python Programming Language](#python) module
 - Added [Welcome to Night Vale](#welcome-to-night-vale) module
@@ -2105,6 +2106,32 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 [by Anon](https://arch.b4k.co/vg/thread/346210503/#346211398)
 
 *I used my 10 Opus accounts to train modules corresponding to different literotica categories. I managed to match up the names in the end. Here's a module for each (useful) Literotica category, trained on the top rated stories from those categories.*
+
+Just in case you don't know, that means that this is a collection of modules trained on the following categories:
+
+- Anal
+- BDSM
+- Celeb
+- Coupling
+- Erotic Horror
+- Erotic Novels
+- Erotic Scifi-Fantasy
+- Fetish
+- First Time
+- Gay
+- Group Sex
+- Interracial
+- Lesbian
+- Masturbation
+- Mature
+- Mind Control
+- Non-Consensual
+- Non-Human
+- Romance
+- Taboo
+- TG
+- Voyeurism
+- (Unfaithful) Wives
 
 ### [Netorare](https://files.catbox.moe/c15sly.module)
 
