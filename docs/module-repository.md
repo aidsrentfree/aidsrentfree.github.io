@@ -26,22 +26,17 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+- Added [The Python Programming Language](#python) module
+- Added [Welcome to Night Vale](#welcome-to-night-vale) module
+- Added the [Magical](#magical-girls-romance) [Girls](#magical-girls-battle-royale) modules
+- Added [Four Horsemen Universe](#four-horsemen-universe) module
+- Added [Warrior Cats](#warrior-cats) module
 - Updated [Warhammer 40,000](#warhammer-40k) Module
 - Added [Harem Fantasy Collection](#harem-fantasy) module
 - Added [Pinwheel Series](#pinwheel) module
 - Added [Girls' Frontline](#girls-frontline) module
 - Added [Celtic Mythology](#celtic-mythology) module
 - Updated [Count Grey](#count-grey) module
-- Added [Touhou Project](#touhou-project) module
-- Added [Math](#math)
-- Added [Director View](#director-view) module
-- Added [World of Pokemon](#world-of-pokémon) module
-- Added [Aztec, Inca and Mayan Mythology](#aztec-inca-and-mayan-mythology) module
-- Added [10K Step Vers.](#c-s-lewis) to CS Lewis module
-- Updated [Dragon Smut](#dragon-smut) and [Furry ENF](#embarrassed-naked-furry) modules
-- Added [Scalyuri](#scalyuri) module
-- Sorted everything alphabetically, ignoring the definite and indefinite articles (The, A, An, etc.)
-- Added [Gay BDSM](#gay-bdsm) module
 
 ***
 
@@ -100,6 +95,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 		- [Feudal Japan](#feudal-japan)
 		- [Folk Fantasy](#folk-fantasy)
 		- [Forgotten Realms](#forgotten-realms)
+		- [Four Horsemen Universe](#four-horsemen-universe)
 		- [Furry Scipunktasy](#furry-scipunktasy)
 		- [Girls' Frontline](#girls-frontline)
 		- [Generation Ship](#generation-ship)
@@ -138,6 +134,8 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 		- [Gryphons](#gryphons)
 		- [Learning Magic](#learning-magic)
 		- [LitRPG](#litrpg)
+		- [Magical Girls: Battle Royale](#magical-girls-battle-royale)
+		- [Magical Girls: Romance](#magical-girls-romance)
 		- [Melee Combat](#melee-combat)
 		- [Mormon](#mormon)
 		- [Purely Purple Prose](#purely-purple-prose)
@@ -251,6 +249,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 		- [Vampire Diaries](#vampire-diaries)
 		- [War and Peace](#war-and-peace)
 		- [Warhammer 40k](#warhammer-40k)
+		- [Warrior Cats](#warrior-cats)
 		- [Wheel of Time](#wheel-of-time)
 		- [The Witcher](#the-witcher)
 	- [Non-Fiction](#non-fiction)
@@ -284,6 +283,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 		- [Pinwheel](#pinwheel)
 		- [Sex and Marmota Nights](#sex-and-marmota-nights)
 		- [Trial By Tenderness](#trial-by-tenderness)
+		- [Welcome to Night Vale](#welcome-to-night-vale)
 - [Utilities](#utilities)
 	- [Advertisements](#advertisements)
 	- [The Club](#the-club)
@@ -291,6 +291,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 	- [DND Monster Generator](#dnd-monster-generator)
 	- [Math](#math)
 	- [Pokédex](#pokédex)
+	- [Python](#python)
 	- [World Generator](#world-generator)
 	- [Yōkai](#yōkai)
 
@@ -836,6 +837,26 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 >
 > Magnus wondered how many other cities followed the example set by Luskan: towns where only humans lived? Would any other race ever dare enter such places? Perhaps after years of being treated as second class citizens, the drow felt justified in treating others less favorably than themselves. Or perhaps they simply enjoyed making enemies wherever possible.
 
+### [Four Horsemen Universe](https://files.catbox.moe/nfszi0.module)
+
+[by Zaltys](https://discord.com/channels/836774308772446268/870449646391156776/891536878900215828)
+
+***Description:** The 4HU is a military scifi shared universe, with a focus on mercs. Steps: 5200, Loss: 2.92; trained 25% of highest rated 4HU novels.*
+
+***Good for:** Space opera. Mercs. Mechs. Space and planet battles. Alien societies. T-Rexes with guns.*
+
+***Flaws:** Might be too heavily focused on Earth. May randomly mix in other scifi franchises, such as Mass Effect, Star Wars, Halo, BattleMech,...*
+
+>**[ The Battle ]**
+>
+>The ground shook with the thunder of cannon fire and explosions. A wall of steel slammed into them as their enemies poured through a breach in the line. They'd managed to hold back most of the enemy forces for now—but they were being pushed back toward the city's main gate.
+>
+>"We need to fall back!" Alex shouted over his tactical channel. "They're going to overrun us." He saw one of his men go down, then another, and he cursed under his breath. That was it; that was all they could do here. Their remaining squads would be cut off from the rest of the company if they didn't retreat soon.
+>
+>He pulled up his HUD just long enough to see where everyone else on his team was positioned. MacLachlan was still holding out against an assault by two full companies, but their left flank had been forced back almost half way across the field. Alex saw Corporal Dolan's team fighting desperately to keep the mercenaries at bay, while Captain Strand's people fought to get past them to cover the retreating soldiers. And Sergeant Klinner's team was nowhere to be seen. Had they lost contact? Or had they already fallen? Either way, there wasn't much time left before everything fell apart.
+>
+>Alex turned his attention back at the big tank. It looked like some kind of giant insect, squatting menacingly atop its massive legs. But instead of mandibles or pincers, this thing held a single large cannon.
+
 ### [Furry Scipunktasy](https://files.catbox.moe/8gf0wd.module)
 
 [by room](https://discord.com/channels/836774308772446268/870449646391156776/887297989226426398)
@@ -870,6 +891,7 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 >The doll's grip tightened around the weapon, the metal and plastic digging into the flesh of her fingers.
 >
 >"You're going to pay for that, BR55."
+
 ### [Generation Ship](https://files.catbox.moe/ezfjoh.module)
 
 [by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/874064376850690149)
@@ -1401,6 +1423,47 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 > ─ You can now cast spells without using any components or incantations!
 >
 > This was amazing. It meant I could use my magic without having to worry about spending money on supplies like I always did before. And the most important thing? No chanting required! This would allow me to do things like cast fireballs with no problems. All I needed was enough mana to create the spell and then simply focus my mind on casting it. Simple as that.
+
+### [Magical Girls: Battle Royale](https://files.catbox.moe/hz84g9.module)
+
+[by Cass](https://discord.com/channels/836774308772446268/870449646391156776/891950299969904660)
+
+*[One of two] Magical Girls modules. [This one] is trained on magical girls and battle royale (warning: very dark).*
+
+*(4.0mb, 1500 steps, 34% coverage. 68% magical girls and 32% other. 100% battle royale)*
+
+>\*\*\*
+>
+>"It's a lie," Mary said. "I don't know what happened to him." She looked away from the woman, her eyes searching for something on the other side of the room. The walls were decorated with paintings and photographs, some in frames, others hung askew. A few had been torn or cut out of their frames; one photo was missing its glass entirely. There seemed to be no pattern to how they'd been arranged. It made it difficult to tell where she should look next.
+>
+>The woman smiled at them again, but this time there wasn't any warmth behind those lips. Her teeth were yellowed white. "You're lying," she repeated. "Or you aren't who he thinks you are. Either way, I'm going to find out."
+>
+>Mary felt dizzy. Everything was moving around her so quickly that she couldn't keep up. The only thing keeping her upright was Mr. Quinlan's hand gripping hers tightly. He didn't seem able to pull himself together enough to speak, either.
+>
+>They were surrounded by darkness now. No more light filtered through the windows. They could hear nothing except the blood pounding inside of Mary's ears. Then she saw movement near the door leading into another part of the building. Someone stepped back after letting someone else pass, then turned toward the group sitting across from the desk. And when the shadow moved closer, Mary recognized the face staring down at them: Jack's mother.
+
+### [Magical Girls: Romance](https://files.catbox.moe/a207bn.module)
+
+[by Cass](https://discord.com/channels/836774308772446268/870449646391156776/891950299969904660)
+
+*[This one] is trained on magical girls and urban fantasy/romance.*
+
+*(3.9mb, 1500 steps, 34% coverage. 61% magical girls and 39% urban fantasy/romance)*
+
+>\*\*\*
+>
+>The girl was on her back, looking up at the sky. Her face had a blank expression as if she were seeing something far away. The amount of blood flowing from her mouth and nose made it look like she'd been stabbed in the throat with an ice pick. It seemed that she hadn't died yet but...
+>
+>"What are you going to do now?"
+>
+>"...I'm sorry."
+>
+>That's right, I said "sorry," didn't I? What am I doing apologizing all of a sudden?! She tried to kill me! I had no choice but to defend myself!
+>
+>Her lips moved slightly; maybe she was trying to say something. I couldn't hear anything though because my ears still hurt so much. Then what about Kotoe-chan...? Wasn't she supposed to be here too? Where is she anyway? Maybe she went down fighting somewhere else or got kidnapped by someone else for some reason...? No wait, don't think about it anymore—it'll just make your head hurt more than ever...
+>
+>My vision started getting blurry again. And then...
+
 
 ### [Melee Combat](https://files.catbox.moe/sz6pz1.module)
 
@@ -2561,6 +2624,7 @@ Text looked like this:
 
 *A module (4000 steps) based on the novel War and Peace by Leo Tolstoy, a Napoleonic War story about the hardships of war, the importance of family/relationships, and the general philosophies of Leo Tolstoy.*
 
+
 ### [Warhammer 40k](https://files.catbox.moe/g0vjjy.module)
 
 [by Seenyurr](https://discord.com/channels/836774308772446268/870449646391156776/890018434811842590)
@@ -2574,6 +2638,12 @@ Text looked like this:
 >Moving rapidly through both chambers like a shark fin slicing its way through deep waters, the space marines sought everywhere to kill anything not armored under Imperial colors. Though most regarded them as demons from hell itself, many had never seen one themselves until now. Quickly realizing what their brethren wanted - no quarter given in order to achieve victory - the civilians turned and fled deeper into the cave system, leaving only short-lived resistance to be mopped up by the two companies' scouts already scouring the place.
 >
 >After entering the main chamber of the underground complex where the Chaos denizens often conducted their vile rituals, Captain Drakael found it empty except for six rough stone monoliths arranged about an altar in the center of the large room. Upon inspecting the crude carvings decorating some of the stones, the captain could make little sense of what might lie within each piece. There was much jagged imagery depicting creatures that seemed part beast, half human; daemonic shapes with dark, hungry gazes lurking beneath impenetrable hooded expressions on their faces. At least one showed framed over all this a blazing sun hung low above unbreathable skies filled with hideous monsters waving skeletal limbs high overhead while others featured unfortunate souls bound together with chains emerging from a central point.
+
+### [Warrior Cats](https://files.catbox.moe/07bx0a.module)
+
+[by pume_](https://discord.com/channels/836774308772446268/870449646391156776/891458317057163305)
+
+*3rd person, Trained on books about cats by Erin Hunter. 6books from 1st arc, 3books from 6th arc. 2etc book. 2480 steps, ~42 coverage*
 
 ### [Wheel of Time](https://files.catbox.moe/5h7lnf.module)
 
@@ -2903,6 +2973,23 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 *Okay folks, this is a module trained on one of those epic fanfictions, specifically from the anime Ah! My Goddess. It's infamous for being the equivalent of 18 novels (120,000 words each).*
 *The fanfiction itself is named "Trial by Tenderness"*
 
+### [Welcome to Night Vale](https://files.catbox.moe/ct07mi.module)
+
+[by Lithimlin](https://discord.com/channels/836774308772446268/870449646391156776/892080928900403200)
+
+*Featuring [transcripts from episodes 1 to 194 of the podcast "Welcome to Night Vale"](http://www.nightvalepresents.com/transcripts), a radio show about a fictional desert town where strange things happen on a daily basis and are regarded as totally normal.*
+
+*This first version still creates some weird results as can be seen below but I'm not entirely sure if that's due to the training data, the parameters or the AI itself. 2.8MB, 2300 steps, 75% coverage*
+
+>**[Cecil enters the studio hurriedly. He fumbles with the mic. Rattling and shuffling of papers can be heard.]**
+>
+>**[Breathlessly]**
+>
+>**Listeners, I have some very important news for you. You see, when I was on my way to the studio just now,**
+>there were two men in a car who pulled up next to me and flashed their headlights at me as if they wanted to tell me something but it wasn't clear what that thing might be. And then one man leaned out his window and yelled: “I’m Cecil! That’s Cecil! The guy from the radio show! Get him! Get him before he gets us all!”
+>
+>And so here we are. We must assume these men are dangerous and that this is an emergency situation. In fact, I am going to call them back right now. Listen carefully because you may not get another chance. Hello? Are you still there? Yes, hello again listeners. This is Cecil. It's good to hear your voice. Let me start by saying, don't worry about anything. Everything will work itself out. Now listen closely. These men are following me. They're driving around behind me in a silver sedan. If you look over towards where I'm standing, you'll notice they've parked directly across the street from me. They've been tailing me ever since I left home earlier today. Just like I said, everything will turn out alright.
+
 ***
 
 # [Utilities](#modules)
@@ -3031,6 +3118,11 @@ Use Example:
 
 *You can also try different prompts as it is quite flexible in generating stat blocks and fantasy creature descriptions.*
 
+## [Python](https://files.catbox.moe/54vv1t.module)
+
+[by eliminable](https://discord.com/channels/836774308772446268/870449646391156776/892774395381182535)
+
+*I just trained this on [a bunch of random python code](https://github.com/TheAlgorithms/Python) as an experiment and it worked better than I expected. ~1.3MB(I think), 1380 steps, 99.99% coverage*
 
 ## [World Generator](https://files.catbox.moe/zswaxs.module)
 
