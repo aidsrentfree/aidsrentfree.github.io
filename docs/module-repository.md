@@ -1106,6 +1106,7 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 *and more (44 files in total)*
 
 ![evidence](https://files.catbox.moe/azsz3l.PNG)
+{: .center}
 
 ### [Touhou Project](https://files.catbox.moe/96zxwv.module)
 
@@ -1512,6 +1513,9 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *4.80MB, 5563 steps, 100.22% coverage, 2.75 loss*
 
+![](https://files.catbox.moe/vwjdih.png)
+{: .center}
+
 ### [Mormon](https://files.catbox.moe/j6ha0i.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/345358791/#345460973)
@@ -1810,6 +1814,7 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 [by Anon](https://arch.b4k.co/vg/thread/345503749/#345530051)
 
 ![What to expect](https://files.catbox.moe/qym86p.png)
+{: .center}
 
 *Okay, here we go, I did it. This is based off five years of ERP with a partner. Proceed at your own risk.*
 
@@ -2096,6 +2101,7 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 *made a new module from my old erp logs, stories i made from the ai and erotica that i liked to see what it would happen. around 700kb of data with all 500 steps i had. it's both worse and better than i expected. the writing is kind of shit but the ai is more coherent and degenerate from low effort starting prompts. it has rape, breeding, gay and straight shit with mostly maledom but small bits of femdom.*
 
 ![the example](https://files.catbox.moe/eiaq5r.png)
+{: .center}
 
 ### [Monster Girls](https://files.catbox.moe/9n64y6.module)
 
@@ -3097,6 +3103,7 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 [by Anon](https://arch.b4k.co/vg/thread/350292737/#350296625)
 
 ![Example](https://files.catbox.moe/6fiig4.png)
+{: .center}
 
 *(formerly known as "Prompt Module")*
 
