@@ -26,6 +26,12 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+- Added [Mermaids and Mermen](#mermaids-and-mermen) module
+- Added [Magic: The Gathering](#magic-the-gathering) module
+- Added [Communism](#communism) module
+- Added [Le Morte D'Arthur](#le-morte-darthur) module
+- Updated [Warrior Cats](#warrior-cats) module
+- Updated [Scalyuri](#scalyuri) module
 - Made an explicit note for what the [formerly mysterious Literotica module](#mysterotica) actually contains.
 - Added [Multiple Partners](#multiple-partners) module
 - Added [The Python Programming Language](#python) module
@@ -103,6 +109,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 		- [Generation Ship](#generation-ship)
 		- [Genroku Era](#genroku-era)
 		- [Mad Max](#mad-max)
+		- [Magic: The Gathering](#magic-the-gathering)
 		- [Male Prison](#male-prison)
 		- [Mass Effect](#mass-effect)
 		- [Middle-Earth](#middle-earth)
@@ -124,6 +131,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 		- [Androids, Artificial Intelligence, and Robots](#androids-artificial-intelligence-and-robots)
 		- [Angels and Demons](#angels-and-demons)
 		- [Catgirls](#catgirls)
+		- [Communism](#communism)
 		- [Count Grey](#count-grey)
 		- [Cross-Genre](#cross-genre)
 		- [Cross-Genre: Romance](#cross-genre-romance)
@@ -139,6 +147,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 		- [Magical Girls: Battle Royale](#magical-girls-battle-royale)
 		- [Magical Girls: Romance](#magical-girls-romance)
 		- [Melee Combat](#melee-combat)
+		- [Mermaids and Mermen](#mermaids-and-mermen)
 		- [Mormon](#mormon)
 		- [Purely Purple Prose](#purely-purple-prose)
 		- [Second Person](#second-person)
@@ -239,6 +248,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 		- [Horus Heresy Selection One](#horus-heresy-selection-one)
 		- [The King James Bible](#the-king-james-bible)
 		- [The Kushiel Saga](#the-kushiel-saga)
+		- [Le Morte D'Arthur](#le-morte-darthur)
 		- [Mistborn Trilogy](#mistborn-trilogy)
 		- [My Struggle](#my-struggle)
 		- [Native American Myths and Legends](#native-american-myths-and-legends)
@@ -940,6 +950,12 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 >
 >And then there was nowhere else to go.
 
+### [Magic: The Gathering](https://files.catbox.moe/robqen.module)
+
+[by Footlong Goosesize](https://discord.com/channels/836774308772446268/870449646391156776/893374227066019851)
+
+*Now with more short stories from a variety of different settings! Including stories like The Blight of Our Own, The Promised End, The Truth of Names, etc.*
+
 ### [Male Prison](https://files.catbox.moe/zov2u1.rar)
 
 [by Anon](https://arch.b4k.co/vg/thread/350292737/#350329558)
@@ -1265,6 +1281,12 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 >
 >The girls looked like human females with cat ears or tails attached. Their eyes were blue instead of brown but their pupils were circular rather than oval shaped. It didn't look as if they had fur on their bodies because you could see their skin under their clothes.
 
+### [Communism](https://files.catbox.moe/wmqa70.module)
+
+[by Pure](https://discord.com/channels/836774308772446268/870449646391156776/893277209157066762)
+
+*A basic module made from several works of classic communist, socialist, and anarchist literature. Doesn't have many steps, it was just for testing purposes. Enjoy.*
+
 ### [Count Grey](https://files.catbox.moe/ozd9iw.module)
 
 [by Chris](https://discord.com/channels/836774308772446268/870449646391156776/888963250560069713)
@@ -1481,6 +1503,14 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 >"You!" he said angrily. "I thought you were dead."
 >
 >She smiled thinly and drew herself up proudly before him. "So did I," she replied sweetly.
+
+### [Mermaids and Mermen](https://files.catbox.moe/lbjobq.module)
+
+[by Kitty](https://discord.com/channels/836774308772446268/870449646391156776/893905259796258886)
+
+*Multi-genre fantasy fiction containing the mer-people. Atlantis merfolk, Portugese mermaid sorceresses, Greek mermaids, drowned African slaves turned into mermaids, Scottish lesbian mermaids, Danish merfolk, English mermaids, etc, etc... we've got 'em all!*
+
+*4.80MB, 5563 steps, 100.22% coverage, 2.75 loss*
 
 ### [Mormon](https://files.catbox.moe/j6ha0i.module)
 
@@ -2188,11 +2218,13 @@ Mostly male human x female pokemon, but there are a few in there that contain ma
 
 *An anon was generous enough to train this out. If any other vorefrens are out there, give it a shot and see how well it works.*
 
-### [Scalyuri](https://files.catbox.moe/pzuet2.module)
+### [Scalyuri](https://files.catbox.moe/6h55ru.module)
 
-[by Anon](https://arch.b4k.co/vg/thread/352403169/#352436772)
+[by Anon](https://arch.b4k.co/vg/thread/353896503/#354060903)
 
-*Trained for 1000% on 160kb so it'll probably have weird quirks. If anyone else is going to use this I can still take ideas for writing more data for it.*
+>*Trained for 1000% on 160kb so it'll probably have weird quirks. If anyone else is going to use this I can still take ideas for writing more data for it.*
+
+*Wrote another story so I could use the last of my steps training an updated version of my scaly yuri module:*
 
 ### [Sexfighting](https://files.catbox.moe/3bpil8.module)
 
@@ -2531,6 +2563,14 @@ Text looked like this:
 >
 >There was nothing else to say after that. My heart beat hard within my breast. This was why we came: to prove the truth of our words. If they believed us, then... well, I knew not what would happen next. But if they didn't believe us, then we had done harm enough already. For now, though, there was nothing more to be gained.
 
+### [Le Morte D'Arthur](https://files.catbox.moe/ybr3ah.module)
+
+[by laurencemcfunk](https://discord.com/channels/836774308772446268/870449646391156776/893254361596166164)
+
+*The complete text of Le Morte D'Arthur, edited by Edward Strachey (the Project Gutenberg edition). Uses Modern English spelling but retains the overall style of the original. I removed all of the introductory material, but it retains the chapter headings. Dialogue does not use quotation marks.*
+
+*[Trained with] my 500 free steps*
+
 ### [Mistborn Trilogy](https://files.catbox.moe/m9qo21.module)
 
 [by Alephrin](https://discord.com/channels/836774308772446268/870449646391156776/882782003815145552)
@@ -2682,11 +2722,15 @@ Text looked like this:
 >
 >After entering the main chamber of the underground complex where the Chaos denizens often conducted their vile rituals, Captain Drakael found it empty except for six rough stone monoliths arranged about an altar in the center of the large room. Upon inspecting the crude carvings decorating some of the stones, the captain could make little sense of what might lie within each piece. There was much jagged imagery depicting creatures that seemed part beast, half human; daemonic shapes with dark, hungry gazes lurking beneath impenetrable hooded expressions on their faces. At least one showed framed over all this a blazing sun hung low above unbreathable skies filled with hideous monsters waving skeletal limbs high overhead while others featured unfortunate souls bound together with chains emerging from a central point.
 
-### [Warrior Cats](https://files.catbox.moe/07bx0a.module)
+### [Warrior Cats](https://files.catbox.moe/skn65j.module)
 
-[by pume_](https://discord.com/channels/836774308772446268/870449646391156776/891458317057163305)
+[by pume_](https://discord.com/channels/836774308772446268/870449646391156776/892989858115620894)
 
-*3rd person, Trained on books about cats by Erin Hunter. 6books from 1st arc, 3books from 6th arc. 2etc book. 2480 steps, ~42 coverage*
+*3rd person, Trained on books about cats by Erin Hunter. TPB(12356) TNP(1235) POT(23) DOTC(5) AVOS(12346) FirestarQuest(1) +Fanfic(12)*
+
+*33% - 3400Steps - 20Books - 8.72MB*
+
+*This is the 2nd version of warriors cats, due to me being acess to more books, i selectively choose about 20 of them. this seires has 90books+ tho, but i don't want to push beyond ~3000steps much. prev version use only 10 books, i hope this one is better.*
 
 ### [Wheel of Time](https://files.catbox.moe/5h7lnf.module)
 
@@ -3036,6 +3080,7 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 ***
 
 # [Utilities](#modules)
+{: .center}
 
 ## [Advertisements](https://files.catbox.moe/ve8atp.module)
 
