@@ -1007,7 +1007,7 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 
 >**I am Metzger, the Slaver's Guild**master. I welcome you to the Vault of Sorrows and hope that your visit will be as pleasant as possible. The slavers who live here are dedicated to their work and have no time for frivolity or idle chatter. If you wish to see them, come to me directly; if not, please enjoy our facility and its many amenities.
 >
-> * * *
+> \* \* \*
 > 
 > The Vault of Sorrows is a subterranean complex located deep beneath the city of New Reno.
 
