@@ -26,6 +26,8 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+- Updated [Touhou Project](#touhou-project) module
+- Added [Fallout 2: New California](#new-california) module
 - Added [Mermaids and Mermen](#mermaids-and-mermen) module
 - Added [Magic: The Gathering](#magic-the-gathering) module
 - Added [Communism](#communism) module
@@ -36,15 +38,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Added [Multiple Partners](#multiple-partners) module
 - Added [The Python Programming Language](#python) module
 - Added [Welcome to Night Vale](#welcome-to-night-vale) module
-- Added the [Magical](#magical-girls-romance) [Girls](#magical-girls-battle-royale) modules
-- Added [Four Horsemen Universe](#four-horsemen-universe) module
-- Added [Warrior Cats](#warrior-cats) module
-- Updated [Warhammer 40,000](#warhammer-40k) Module
-- Added [Harem Fantasy Collection](#harem-fantasy) module
-- Added [Pinwheel Series](#pinwheel) module
-- Added [Girls' Frontline](#girls-frontline) module
-- Added [Celtic Mythology](#celtic-mythology) module
-- Updated [Count Grey](#count-grey) module
 
 ***
 
@@ -114,6 +107,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 		- [Mass Effect](#mass-effect)
 		- [Middle-Earth](#middle-earth)
 		- [My Little Pony: Friendship Extended](#my-little-pony-friendship-extended)
+		- [New California](#new-california)
 		- [Norse](#norse)
 		- [Poetic Fantasy](#poetic-fantasy)
 		- [Post-Apocalyptic Fallout](#post-apocalyptic-fallout)
@@ -998,6 +992,25 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 
 *Tags: Light Fantasy, MLP, Pony, Fanfiction, Slice of Life*
 
+### [New California](https://files.catbox.moe/f37e4z.module)
+
+[by aure](https://discord.com/channels/836774308772446268/870449646391156776/894678391897354251)
+
+*This is the story of all the lore in wikis and Fallout bible book, cut content too. Also, I put some concepts (Retrofuturism and some perks, traits and Karma). The year is 2241 but here is info on the past of this world. I use entries of items, weapons, creatures, people, some quest references in locations, some cut locations too.*<br>
+*502 KB, 600 steps, 130.05% coverage, Average Loss: 3.1528*
+
+> **\*\*\***
+>
+> "The Great War was the last great war of mankind, and it ended with the death of every human on Earth. The Great War was fought between all three major factions in 2159: the NCR, Legion, and Brotherhood. All were destroyed or nearly so. It is said that the only survivors are those who live underground."
+> 
+> After a nuclear holocaust, most of North America was under a mile-thick layer of ash and debris.
+
+>**I am Metzger, the Slaver's Guild**master. I welcome you to the Vault of Sorrows and hope that your visit will be as pleasant as possible. The slavers who live here are dedicated to their work and have no time for frivolity or idle chatter. If you wish to see them, come to me directly; if not, please enjoy our facility and its many amenities.
+>
+> * * *
+> 
+> The Vault of Sorrows is a subterranean complex located deep beneath the city of New Reno.
+
 ### [Norse](https://files.catbox.moe/5mspfr.module)
 
 [by Zaltys](https://discord.com/channels/836774308772446268/870449646391156776/870630897995620352)
@@ -1108,11 +1121,16 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 ![evidence](https://files.catbox.moe/azsz3l.PNG)
 {: .center}
 
-### [Touhou Project](https://files.catbox.moe/96zxwv.module)
+### [Touhou Project](https://files.catbox.moe/imyand.module)
 
-[by Imperishable_NEET](https://discord.com/channels/836774308772446268/870449646391156776/888912268451000380)
+[by Imperishable_NEET](https://discord.com/channels/836774308772446268/870449646391156776/894721362541826088)
 
-*Created a Touhou module based on haru's scraped fanfics from touhou-project.com and various texts recommended by OccultSage. Special thanks to both for help with formatting my corpus!*
+*Larger Touhou Project module trained on fanfics scraped from touhou-project.com and AO3, along with a selection of Japanese historical fiction and Western fantasy. Special thanks to @haru  and @OccultSage  for assistance!*<br>
+*Trained on 47.8 MB of various novels and fanfictions, using 18.4K steps.*
+
+> **On a clear day in Gensokyo,** the sun shines over Utsuta Shrine, which has an unusually large red torii gate at its entrance. At night, you can see stars twinkling through gaps between buildings on Hieda Street. There was once an old shrine near here dedicated to Amaterasu Ōmikami (the Goddess who created this world). But now there isn't any sign that anyone worshipped her anymore. For some reason, people living nearby have decided not to worship her either—and they've put up signs saying so all along the road leading into town. This used to make me wonder if maybe she'd gone back home or something...but I guess we don't really know what happens after death? Anyway, since the only things left behind were those signs, most folks just ignore them these days.
+> 
+> The village itself consists mostly of farmhouses and other small wooden structures. Some houses even look like yurakucho -style homes built without using modern building techniques! Yet despite being relatively close together, none of their roofs ever leak because each house sits atop a stone pillar buried underground. The pillars aren't very wide though, so sometimes kids playing outside get stuck under one. That's why residents pretty much avoid going past the central plaza during festivals, where these giant piles of stones stand sentinel. They're called "stone columns" for obvious reasons. In fact, the whole area around the main roads is known as Stone Pillar District, while everything else is referred to simply as Old Town. It makes sense given how many temples, shrines and family owned businesses exist here, making it feel more like a real city than the neighboring villages.
 
 ### [Vampire: The Masquerade](https://files.catbox.moe/dy9gk2.module)
 
