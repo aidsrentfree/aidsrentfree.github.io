@@ -26,12 +26,12 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+- Updated [Fallout 2: New California](#new-california) module
 - Added [Weird Wild West](#west-into-the-weird) module
 - Added [Modern Detective Fiction](#modern-detective-work) module
 - Added [A Sexy Day in Suburbia](#a-sexy-day-in-suburbia) module
 - Added [Text Adventures Complete Steps](#text_adventurestxt) module
 - Updated [Touhou Project](#touhou-project) module
-- Added [Fallout 2: New California](#new-california) module
 - Added [Mermaids and Mermen](#mermaids-and-mermen) module
 - Added [Magic: The Gathering](#magic-the-gathering) module
 - Added [Communism](#communism) module
@@ -1000,12 +1000,21 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 
 *Tags: Light Fantasy, MLP, Pony, Fanfiction, Slice of Life*
 
-### [New California](https://files.catbox.moe/f37e4z.module)
+### [New California](https://files.catbox.moe/jg07mn.module)
 
-[by aure](https://discord.com/channels/836774308772446268/870449646391156776/894678391897354251)
+[by aure](https://discord.com/channels/836774308772446268/870449646391156776/895082334280364053)
 
 *This is the story of all the lore in wikis and Fallout bible book, cut content too. Also, I put some concepts (Retrofuturism and some perks, traits and Karma). The year is 2241 but here is info on the past of this world. I use entries of items, weapons, creatures, people, some quest references in locations, some cut locations too.*<br>
-*502 KB, 600 steps, 130.05% coverage, Average Loss: 3.1528*
+*Now with some tags, Style and settings: [ Settings: Atompunk, Gangster, western ] [Tags: Fallout, New California, Atompunk ] [ Style: Creative, Descriptive, Purple prose ]*
+
+> **\*\*\***
+> 
+> The sun was just coming up over the mountains to the east when I saw it. The sky was clear and blue with a few wispy clouds floating lazily along. There were birds singing in the trees all around me, but they sounded more like children's voices than anything else.
+
+> **The Enclave is** a religious organization dedicated to the eradication of all non-humans. It was formed by former Vault dwellers who had become disillusioned with their former masters and wanted to create an enclave where they could live in peace. The Enclave's main base of operations is located in the Mojave Wasteland, but it also has outposts in other parts of the United States and even abroad.
+> The Enclave is headed by Colonel William Miles "Mad Dog" Collier, who commands his own private army, the Gray Death Legion
+
+
 
 > **\*\*\***
 >
