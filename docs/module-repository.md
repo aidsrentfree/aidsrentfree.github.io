@@ -26,6 +26,8 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+- Added [A Sexy Day in Suburbia](#a-sexy-day-in-suburbia) module
+- Added [Text Adventures Complete Steps](#textadventurestxt) module
 - Updated [Touhou Project](#touhou-project) module
 - Added [Fallout 2: New California](#new-california) module
 - Added [Mermaids and Mermen](#mermaids-and-mermen) module
@@ -149,6 +151,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 		- [Sergals](#sergals)
 		- [Surrealistic Look Through The Glass](#surrealistic-look-through-the-glass)
 		- [Sweet Time](#sweet-time)
+		- [textadventures.txt](#textadventurestxt)
 		- [Twilight 2000 (Encounters)](#twilight-2000-encounters)
 		- [Weird](#weird)
 		- [Wildlife](#wildlife)
@@ -289,6 +292,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 		- [Pack Street](#pack-street)
 		- [Pinwheel](#pinwheel)
 		- [Sex and Marmota Nights](#sex-and-marmota-nights)
+		- [A Sexy Day in Suburbia](#a-sexy-day-in-suburbia)
 		- [Trial By Tenderness](#trial-by-tenderness)
 		- [Welcome to Night Vale](#welcome-to-night-vale)
 - [Utilities](#utilities)
@@ -1623,6 +1627,16 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 >His eyes sparkled with amusement. "Of course."
 >
 >He stood up and walked towards the door. Then he turned around and held his hand out to me. "Come on."
+
+### [textadventures.txt](https://files.catbox.moe/hh8vnf.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/354149827/#354360301)
+
+*Here's my adventure mode module trained for 69k steps on the full text_adventures.txt*
+
+*It uses a new NAI feature I discovered so make sure to reload your page before importing it*
+
+*Brings back those old adventure feelings ~*
 
 ### [Twilight 2000 (Encounters)](https://files.catbox.moe/2jgr7s.module)
 
@@ -3080,6 +3094,15 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 *So far this has been one of my most effective models. Trained on a choose your own adventure(I know. Use 2nd person.) called "Marmota Nights" or "Sex and Sex Again". The game didn't get very far development wise but what was there amounted to 1mb of non romanticized incest. The module makes scenes feel less like generic overdone porn and more like authentic taboo encounters. I reccomend using the vegetables preset, but the others have worked well enough.*
 
 *The game is long abandoned, but available [here](https://icarusdragon.blogspot.com/) and I recomend the version [here](https://icarusdragon.blogspot.com/2015/10/helloeveryone-aspromised-here-it-is-sex.html)*
+
+### [A Sexy Day in Suburbia](https://files.catbox.moe/gredlt.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/354149827/#354317226)
+
+*I just converted a ~1,000 entry html cyoa into a module in about an hour. Regex is a superpower.*
+
+*A Sexy Day in Suburbia*<br>
+*A female pov cyoa module focused on being generally slutty.*
 
 ### [Trial By Tenderness](https://files.catbox.moe/eveu9z.module)
 
