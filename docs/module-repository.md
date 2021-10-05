@@ -1579,7 +1579,7 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 ### [Modern Detective Work](https://files.catbox.moe/ppub9m.module)
 
-[by RickyFromTexis](https://discord.com/channels/836774308772446268/870449646391156776/894783432431919114)
+[by RickyFromTexas](https://discord.com/channels/836774308772446268/870449646391156776/894783432431919114)
 
 *A module that is trained on a collection of modern detective fiction. Expect a focus on police work, sadistic serial killers, forensic evidence, and interrogation techniques.*
 
