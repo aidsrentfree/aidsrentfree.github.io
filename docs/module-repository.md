@@ -26,6 +26,8 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+- Added [Weird Wild West](#west-into-the-weird) module
+- Added [Modern Detective Fiction](#modern-detective-work) module
 - Added [A Sexy Day in Suburbia](#a-sexy-day-in-suburbia) module
 - Added [Text Adventures Complete Steps](#text_adventurestxt) module
 - Updated [Touhou Project](#touhou-project) module
@@ -119,6 +121,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 		- [Star Trek: The Original Series](#star-trek-the-original-series)
 		- [Touhou Project](#touhou-project)
 		- [Vampire: The Masquerade](#vampire-the-masquerade)
+		- [West into the Weird](#west-into-the-weird)
 		- [Western](#western)
 		- [World of Pokémon](#world-of-pokémon)
 		- [Xenoarchaeology and Relics](#xenoarchaeology-and-relics)
@@ -144,6 +147,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 		- [Magical Girls: Romance](#magical-girls-romance)
 		- [Melee Combat](#melee-combat)
 		- [Mermaids and Mermen](#mermaids-and-mermen)
+		- [Modern Detective Work](#modern-detective-work)
 		- [Mormon](#mormon)
 		- [Purely Purple Prose](#purely-purple-prose)
 		- [Second Person](#second-person)
@@ -1152,6 +1156,37 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 >
 >She stood back from him, smiling again, although there was no warmth in her expression this time.
 
+### [West into the Weird](https://files.catbox.moe/pchd2e.module)
+
+[by ☄WanderingStar](https://discord.com/channels/836774308772446268/870449646391156776/894933960285638776)
+
+*Picaresque journeys into the heart of Western darkness. The training material includes a few literary Westerns, a pair of contemporary Weird Westerns, several large fantasy adventures with a distinctly Western flavor and a brutal frontier survival narrative. Because of the relatively low coverage, it is suitable for 'straight' Westerns without a fantasy element as well, although it is going to tend towards somewhat poetic language.*
+
+*10 files, 6.34 MB, ~2400 steps, ~33% coverage*
+
+- *Red Country – Joe Abercrombie 922 KB*
+- *Iron Council – China Mieville 871 KB*
+- *The Half-Made World – Felix Gilman 805 KB*
+- *Deadwood – Pete Dexter 771 KB*
+- *Silver on the Road – Laura Anne Gilman 698 KB*
+- *The Etched City – K. J. Bishop 634 KB*
+- *Blood Meridian – Cormac McCarthy 598 KB*
+- *Make Me No Grave – Hayley Stone 474 KB*
+- *The Revenant – Michael Punke 442 KB*
+- *Welcome to Hard Times – E.L. Doctorow 292 KB*
+
+> The road had been smooth for most of the day, but now it began to climb steeply into the mountains. The wind picked up speed and strength; clouds scudded across the sky like dark birds flying south. It was a storm coming. Charley knew that much. He could feel it in his bones.
+> 
+> It was also snowing. A few flakes drifted down from the gray sky, tiny white stars drifting through the air. Charley felt a little better with every step he took. The cold was gone, replaced by an exhilarating sense of freedom. He walked with purpose, not looking back or forward, just walking and breathing.
+> 
+> He had no idea where he was going. His only goal was to keep moving. There was no reason for him to stop anywhere else, except maybe to eat. And he didn't have any money anyway. He'd lost everything at the card table when he'd lost his last dollar. All he owned was the clothes on his back and the knife strapped to his leg.
+> 
+> Charley was almost home free when he saw the sign: Welcome to Deadwood City!
+> 
+> Deadwood City?
+> 
+> He stopped in his tracks, feeling a chill run up his spine. He'd heard stories about this place, of course. Stories about how it was a lawless city, a haven for outlaws and murderers and other criminals.
+
 ### [Western](https://files.catbox.moe/hlsm2x.zip)
 
 [by Anon](https://arch.b4k.co/vg/thread/348767728/#348780553)
@@ -1541,6 +1576,30 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 ![](https://files.catbox.moe/vwjdih.png)
 {: .center}
+
+### [Modern Detective Work](https://files.catbox.moe/ppub9m.module)
+
+[by RickyFromTexis](https://discord.com/channels/836774308772446268/870449646391156776/894783432431919114)
+
+*A module that is trained on a collection of modern detective fiction. Expect a focus on police work, sadistic serial killers, forensic evidence, and interrogation techniques.*
+
+- *"Detective" by Arthur Hailey*
+- *"A Book of Bones" by John Connolly*
+- *"The Black Echo" by Michael Connelly*
+- *"The Good Detective" by John McMahon*
+- *"The Whisper Man" by Alex North.*
+
+> He knew he was in trouble. The detective's face had been calm, but there had been a look of triumph on his partner's face that made him think they'd found the right place to start looking for their missing boy. He hadn't wanted them here, and he didn't want to be found by them. It would mean questions about where he'd gone, who he'd seen, and what he might have told them.
+> 
+> "I'm not going back," he said, trying to sound strong. "It's all over."
+> 
+> The man was silent, just staring at him. He felt a hand touch his shoulder and looked up into the eyes of a woman standing behind him. She wore a dark blue dress with an open white blouse underneath. Her hair was long and blonde and hung down her back in loose curls. He wondered how old she was, but couldn't tell.
+> 
+> She smiled at him, then stepped forward so that she stood directly in front of him. He could smell her perfume, and it made him feel dizzy. His heart began to beat faster.
+> 
+> "We're not police officers," she said. "But we know people who are."
+> 
+> Her voice sounded soft, like velvet. It reminded him of the first time he'd met her.
 
 ### [Mormon](https://files.catbox.moe/j6ha0i.module)
 
