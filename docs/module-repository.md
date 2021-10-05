@@ -27,7 +27,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 ## Recent Changes
 
 - Added [A Sexy Day in Suburbia](#a-sexy-day-in-suburbia) module
-- Added [Text Adventures Complete Steps](#textadventurestxt) module
+- Added [Text Adventures Complete Steps](#text_adventurestxt) module
 - Updated [Touhou Project](#touhou-project) module
 - Added [Fallout 2: New California](#new-california) module
 - Added [Mermaids and Mermen](#mermaids-and-mermen) module
@@ -151,7 +151,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 		- [Sergals](#sergals)
 		- [Surrealistic Look Through The Glass](#surrealistic-look-through-the-glass)
 		- [Sweet Time](#sweet-time)
-		- [textadventures.txt](#textadventurestxt)
+		- [text_adventures.txt](#text_adventurestxt)
 		- [Twilight 2000 (Encounters)](#twilight-2000-encounters)
 		- [Weird](#weird)
 		- [Wildlife](#wildlife)
@@ -1628,7 +1628,7 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 >
 >He stood up and walked towards the door. Then he turned around and held his hand out to me. "Come on."
 
-### [textadventures.txt](https://files.catbox.moe/hh8vnf.module)
+### [text_adventures.txt](https://files.catbox.moe/hh8vnf.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/354149827/#354360301)
 
