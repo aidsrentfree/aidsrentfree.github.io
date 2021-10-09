@@ -38,6 +38,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Added [Magic: The Gathering](#magic-the-gathering) module
 
 ***
+
 ## [Table of Contents](#modules)
 
 - [Recent Changes](#recent-changes)
