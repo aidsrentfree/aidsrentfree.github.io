@@ -26,6 +26,8 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+- Replaced [Purple Prose](#purely-purple-prose) predecessor with Properly Prim permutation
+- Updated [World of Pokémon](#world-of-pokémon) module
 - Updated [Fallout 2: New California](#new-california) module
 - Added [Weird Wild West](#west-into-the-weird) module
 - Added [Modern Detective Fiction](#modern-detective-work) module
@@ -34,14 +36,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Updated [Touhou Project](#touhou-project) module
 - Added [Mermaids and Mermen](#mermaids-and-mermen) module
 - Added [Magic: The Gathering](#magic-the-gathering) module
-- Added [Communism](#communism) module
-- Added [Le Morte D'Arthur](#le-morte-darthur) module
-- Updated [Warrior Cats](#warrior-cats) module
-- Updated [Scalyuri](#scalyuri) module
-- Made an explicit note for what the [formerly mysterious Literotica module](#mysterotica) actually contains.
-- Added [Multiple Partners](#multiple-partners) module
-- Added [The Python Programming Language](#python) module
-- Added [Welcome to Night Vale](#welcome-to-night-vale) module
 
 ***
 ## [Table of Contents](#modules)
@@ -1201,21 +1195,51 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 
 *The archive contains the original EPUBs I worked from, the Pandoc TXT conversion, my edited TXT files, and the module itself.*
 
-##### [World of Pokémon](https://files.catbox.moe/p64tq7.module)
+##### [World of Pokémon](https://files.catbox.moe/wc23lm.module)
 
-[by lion](https://discord.com/channels/836774308772446268/870449646391156776/887984608799490078)
+[by lion](https://discord.com/channels/836774308772446268/870449646391156776/896327531790217217)
 
-*Trained on similar adventure series, literary RPGs, nature books, and other resources that have been 'Pokémonized' to match the names, abilities, rules, and other aspects of the Pokémon universe.*
+*As with v1, this module is trained on similar adventure series, literary RPGs, nature books, and other resources that have been 'Pokémonized' to match the names, abilities, rules, and other aspects of the Pokémon universe.*
 
-*Been working on this for a while. In short (and as a huge understatement), I basically took a bunch of works that are similar to Pokémon in various ways and Find->Replace'd any creature or animal named with that of Pokémon, as well as all the other elements that go with that (items i.e. Pokéballs etc, character and location names, rules and customs about how battles work, how Pokémon are caught, the moves they learn, etc etc etc).*
+*Version 2 is better cleaned and pruned with a focus on quality over quantity.*
 
-*Keep in mind this is a version 1 test run as I had to rush a little at the end due to my sub ending in a few hours. I think it still needs some work before I call it "done" but if this is useful to you, give it a shot. Probably will be a v2 coming later some time next month tho.*
+*I removed the Jim Butcher (Furies of Calderon) books and the Lucy Cooke one as they were too stylistically different even with the changes to names and terms. I also further cleaned up the Djinn Tamer series and some others and tried to better balance out the usage of Pokémon content. The dataset is otherwise the same.*
 
->I tossed a Pokeball into the air. "Gyarados!" The water-dwelling dragon appeared and shot through the sky, knocking down two of the trees with its tail before it crashed into the ground in front of us. I jumped on top of it and gave it a quick hug. "You're so big! You must be tired."
+*As a result, battles (especially tournaments) are a lot more common, as is Pokémon being associated with Pokéballs. I think this version is a lot stronger, and while I'll continue to look for ways to improve upon it, I feel a lot more confident with this than I did with v1. Let me know what you think!*
+
+> It's a little over an hour before the tournament is set to begin. The gym has been cleaned and organized, with tables in place for all of the trainers and a podium ready for any announcements. I'm standing at the front of the room next to Professor Pepper, who's dressed in her usual black lab coat. She looks exhausted, but happy that she got through another day. Her eyes are heavy, like they've seen far too much over the past few days.
 >
->"He's not as big as he used to be," Zephyr said, patting his head. He was much smaller than Gyarados had been when we'd first met him. "But yeah, he is pretty worn out from all this flying around."
+> I glance around the room as people start trickling in. There are maybe thirty or so trainers here today, which isn't surprising considering how many were in the last group. A lot of them have Pokémon that are clearly stronger than mine. Some even have two or three of them! My confidence wavers slightly.
 >
->"Well, let's get you home," I said. We flew back to where our bikes were parked near the edge of the forest. Once there, I hopped off Gyarados and helped him up onto my bike seat.
+> "All right everyone," Professor Pepper says from behind me. "We're going to get started in just a moment."
+
+> After a few minutes of training, Vic left to get ready for her match. "I'm going to go shower and change," she said, getting up from her chair. She was about to walk out the door when Emmit stopped her.
+> 
+> "You don't have to do that," he said, pointing at Vic's Poke-balls. "They're not like your Pokémon — they'll be fine."
+> 
+> "It doesn't matter," she said. "I've been living with these creatures since I was four years old. They're my life."
+> 
+> Vic walked over to the table where the Poke-balls were lined up next to each other. One of them was different from the others: it was a green ball with black lines around it. Vic picked it up and tossed it into her bag.
+> 
+> "I'm bringing Banette with me anyway," she said, walking back towards the door. "She's my partner. She can take care of me if anything happens."
+> 
+> Emmit nodded as Vic walked out of his room.
+
+> **Wandering through the tall grass,** I saw a group of three Pokémon standing around something in the middle. A small human boy stood beside them, holding out his hand as he pointed to one of the Pokémon. It was an Onix that looked like it had been digging up dirt and throwing rocks for fun. The other two were a pair of Pidgey, flapping their wings and squawking at each other.
+> 
+> "Hello," I said as I approached them. "Do you mind if I take a look?"
+
+> **I hear a screech and suddenly a group of** four Hariyama are charging at me. I leap to the side, dodging their claws as they try to get around my left flank. I'm not sure what I can do against them with my own Pokémon but I don't have time to think about it now. They're fast, but not nearly as quick as my Arcanine. As one of the Hariyama gets close enough to attack, I order Arcanine to use its Quick Attack on him while I throw a Fire Stone in his direction. The Hariyama lets out an angry roar and leaps away from me.
+> 
+>"That's two down!" I shout as I check my map for more enemies. "Let's keep going."
+> 
+> We continue through the jungle until we reach another clearing where there is a small stream running across our path. There's a bridge that leads over the water and beyond it, I see the faint outline of a building surrounded by trees. It looks like a temple or something similar, but I can't be sure because the light is too dim to make anything out clearly.
+> 
+> "Should we rest here?" I ask Treyni.
+> 
+> She shakes her head. "No, we need to find the way inside before nightfall."
+
+*Note: These examples were done on an otherwise new vanilla scenario (default settings, no bias, lorebooks, or anything) however I do recommend using [Loki's Pokédex phrase bias](https://rentry.co/biases#pokedex) or an otherwise similar bias to help reinforce Pokémon appearance, etc.*
 
 ##### [Xenoarchaeology and Relics](https://files.catbox.moe/p3s53j.module)
 
@@ -1613,11 +1637,17 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *Here's my whole 8000 steps used on text_adventures.txt (cut down a bit to fit into the file size limit)*
 
-##### [Purely Purple Prose](https://drive.google.com/file/d/1_IfjbN5jHBOkanLOjFxbUtRqJmL3_bep/view?usp=sharing)
+##### [Purely Purple Prose](https://drive.google.com/file/d/15Z-MAqQkyLdgtkB-7ymjrYYQZWQf--C1/view?usp=sharing)
 
-[by Dichotomy](https://discord.com/channels/836774308772446268/870449646391156776/878154411438903306)
+[by Dichotomy](https://discord.com/channels/836774308772446268/870449646391156776/896338666358726676)
 
-*(A small module trained solely on [the Purple Prose data-set](https://drive.google.com/file/d/1viCNSlSgD3If6gtc3UmIxDbaQvrv5rMY/view?usp=sharing), really good all on its own.)*
+*Expect a healthy dash of Victorian spice. Where version one of Purely Purple Prose was made to give people a feel for what the Purple Prose Supplementary Data could add to one's own modules, version two was crafted specifically to hone in on the "Classical" nature inherent with fiction under Creative Commons. To that end I cleaned up a few of the completed works to train alongside the regular dataset, giving you the benefits of the tags with nothing to hold the prose back.*
+
+*3.26MBs trained for 5k steps (%131 data coverage)*
+
+> **The night** was dark and the storm still raging. The wind howled through the trees, which bent before it like reeds in a flood; and every now and then came a great clap of thunder that shook the old house to its foundations. It was very wild weather; but there were those who loved it well, for they felt themselves nearer Nature’s heart on such nights as these.
+> 
+> Mr. Lorry sat with his friend in the little parlour of the Golden Cross, looking out into the darkness from time to time, with his head resting on his hand.
 
 ##### [Second Person](https://files.catbox.moe/2erchz.module)
 
