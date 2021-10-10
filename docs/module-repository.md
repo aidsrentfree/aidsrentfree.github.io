@@ -26,6 +26,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+- Added [The Manwhore Module](#the-manwhore-module)
 - Replaced [Purple Prose](#purely-purple-prose) predecessor with Properly Prim permutation
 - Updated [World of Pokémon](#world-of-pokémon) module
 - Updated [Fallout 2: New California](#new-california) module
@@ -128,6 +129,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 			- [LitRPG](#litrpg)
 			- [Magical Girls: Battle Royale](#magical-girls-battle-royale)
 			- [Magical Girls: Romance](#magical-girls-romance)
+			- [The Manwhore Module](#the-manwhore-module)
 			- [Melee Combat](#melee-combat)
 			- [Mermaids and Mermen](#mermaids-and-mermen)
 			- [Modern Detective Work](#modern-detective-work)
@@ -1582,6 +1584,11 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 >
 >My vision started getting blurry again. And then...
 
+##### [The Manwhore Module](https://files.catbox.moe/osl7r9.module)
+
+[by Manwhore](https://arch.b4k.co/vg/thread/354827610/#354996248)
+
+*Like I said before, it's trained on a bunch of my previous writings and play-throughs, curated and edited for maximum quality. This module's data is entirely in first-person past tense, but you might still be able to get it to work with other perspectives. Strengths include monster-girls, maternal femdom, and purple prose. Have a blast, bros.*
 
 ##### [Melee Combat](https://files.catbox.moe/sz6pz1.module)
 
