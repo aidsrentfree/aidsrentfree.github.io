@@ -26,7 +26,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
-- Added [Comprehensive SlutWriter module](#slutwriter)
+- Added [Comprehensive SlutWriter](#slutwriter) module
 - Added [The Manwhore Module](#the-manwhore-module)
 - Replaced [Purple Prose](#purely-purple-prose) predecessor with Properly Prim permutation
 - Updated [World of Pokémon](#world-of-pokémon) module
