@@ -494,8 +494,9 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 [by Anon](https://arch.b4k.co/vg/thread/355158905/#355179723)
 
-*A couple threads late but I figured I'd share my SlutWriter module trained at 100% with 8855 steps. I'm not the one who made the original, but it inspired me to make one with the extra steps I had lying around. Barring those he deleted over the years and some stories I had to trim due to weird formatting/similar content, I crammed the training data with almost all of SlutWriter's works from HF and Ao3. Each piece was individually cleaned up with Notepad++.
-I've been testing it with CC, Best Guess, and Experimental Moth and so far it seems to cover all topics pretty well imo. Especially the more debauched ones, which was my primary objective*
+*A couple threads late but I figured I'd share my SlutWriter module trained at 100% with 8855 steps. I'm not the one who made the original, but it inspired me to make one with the extra steps I had lying around. Barring those he deleted over the years and some stories I had to trim due to weird formatting/similar content, I crammed the training data with almost all of SlutWriter's works from HF and Ao3. Each piece was individually cleaned up with Notepad++.*
+
+*I've been testing it with CC, Best Guess, and Experimental Moth and so far it seems to cover all topics pretty well imo. Especially the more debauched ones, which was my primary objective.*
 
 > Gwen felt her stomach flip, her face flush as her breasts swelled with her arousal. With her spider-sense screaming bloody murder, Gwen's mind flashed back to the dogs' earlier display of aggression. They were clearly not going to play nice. Gwen knew her only choice was to fight her way free of her predicament, but her body betrayed her as her legs wobbled and her knees buckled in surrender.
 > 
