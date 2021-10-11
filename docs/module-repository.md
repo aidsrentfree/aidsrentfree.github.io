@@ -26,6 +26,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+- Added [Comprehensive SlutWriter module](#slutwriter)
 - Added [The Manwhore Module](#the-manwhore-module)
 - Replaced [Purple Prose](#purely-purple-prose) predecessor with Properly Prim permutation
 - Updated [World of Pokémon](#world-of-pokémon) module
@@ -64,7 +65,8 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 			- [Benjamin R. "Yahtzee" Croshaw](#benjamin-r-yahtzee-croshaw)
 			- [Joe Forest](#joe-forest)
 			- [Prinny](#prinny)
-			- [Slutty](#slutty)
+			- [SlutWriter](#slutwriter)
+				- [Slutty](#slutty)
 	- [Themes](#themes)
 		- [Setting](#setting)
 			- [Action Movies](#action-movies)
@@ -488,7 +490,27 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 *This module is based on my [favorite monster/human female unwilling/erotic vore author](https://aryion.com/g4/gallery/PrinnyDood).*
 
-##### [Slutty](https://files.catbox.moe/l97u6x.module)
+##### [SlutWriter](https://files.catbox.moe/cri87u.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/355158905/#355179723)
+
+*A couple threads late but I figured I'd share my SlutWriter module trained at 100% with 8855 steps. I'm not the one who made the original, but it inspired me to make one with the extra steps I had lying around. Barring those he deleted over the years and some stories I had to trim due to weird formatting/similar content, I crammed the training data with almost all of SlutWriter's works from HF and Ao3. Each piece was individually cleaned up with Notepad++.
+I've been testing it with CC, Best Guess, and Experimental Moth and so far it seems to cover all topics pretty well imo. Especially the more debauched ones, which was my primary objective*
+
+> Gwen felt her stomach flip, her face flush as her breasts swelled with her arousal. With her spider-sense screaming bloody murder, Gwen's mind flashed back to the dogs' earlier display of aggression. They were clearly not going to play nice. Gwen knew her only choice was to fight her way free of her predicament, but her body betrayed her as her legs wobbled and her knees buckled in surrender.
+> 
+> The pack surrounded her, jostling her with their musk as her bodysuit became soiled with their drool and cum. The stench of the feral animals filled her nostrils as they rubbed their cocks all over her body, smearing their foul bodily fluids on every inch of exposed skin. Their hot, rancid breath washed her in waves of putridity as they sniffed her crotch and her armpits, their tongues slithering across her thighs and up her inner arms. Gwen's heart raced as her bodysuit became soaked with their excretions, her senses overwhelmed by the sheer volume of their pheromones.
+> 
+> Gwen felt her pussy moisten as she realized her nipples were tingling, her panties becoming saturated with her own juices as the animals pressed their roving cocks against her bare chest, their dicks surging with the desire for breeding. She was now trapped in a nightmare of her worst fears, the dogs running her down until they had her on the ground, their massive bodies pinning her down as they surged closer and closer, their cocks dripping pre-cum onto her bodysuit, their filthy paws pawing at her tits and cunt. Gwen's eyes grew distant as she pondered her fate, her body betraying her as her fingers dug into the pavement, her waist bending backward as her ass rose off the ground.
+
+> The Klithian smiled cruelly as you stared blankly in response to your captor. The reptile's long snout curled upward as the digits of one of her hands traced a line along the length of your shaft through your pants. Your hips twitched as an involuntary moan escaped your lips.
+>She chuckled again, "I can see you yearn for my touch. Perhaps I should show you just what you've been missing..."
+>
+> With a flick of the wrist the captain tossed aside your clothes, revealing a pair of pale white legs and a toned, muscular torso. As the garment fell to the floor the Klithian's eyes widened and she leaned in, pressing a soft and warm kiss to the side of your neck. The sensation was electric as the reptilian tongue flicked out to taste your flesh. The two-handed grip on your neck tightened as the Klithian pressed herself against you. The fingers of her other hand dug deep into your ass, squeezing tightly as they glided up your spine, past your shoulders, and across your scalp. Your head lolled backward as the beast feasted on the tender meat of your neck, licking and sucking with a hunger that matched yours.
+> 
+> Your vision blurred as the Klithian's tongue invaded your mouth, forcing you to submit and accept its caresses. You moaned into its embrace, the alien's slimy appendage stroking and probing your eager throat. The feeling of helplessness was overwhelming, the sudden desire to be dominated almost too much for you to handle. The reptilian's constricting grasp on your neck was the only thing keeping you from surrendering completely to her. The scent emanating from her loins filled your nostrils and drove you wild – a musky aroma that was intoxicating.
+
+###### [Slutty](https://files.catbox.moe/l97u6x.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/345503749/#345507380)
 
