@@ -26,6 +26,12 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+- Added [Fate/Zero](#fatezero) module
+- Added [Sentiments & Summaries](#sentiments-and-summaries) utility module
+- Added [Ice Age](#prehistoric-ice-age)
+- Added [New and Improved KonoSuba module](#konosuba-1-14)
+- Added [Star Wars OT Era](#star-wars-original-trilogy) module
+- Added [Jake and Amir](#jake-and-amir) module
 - Added [Comprehensive SlutWriter](#slutwriter) module
 - Added [The Manwhore Module](#the-manwhore-module)
 - Replaced [Purple Prose](#purely-purple-prose) predecessor with Properly Prim permutation
@@ -105,6 +111,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 			- [A Song of Ice and Fire](#a-song-of-ice-and-fire)
 			- [Star Trek: The Next Generation](#star-trek-the-next-generation)
 			- [Star Trek: The Original Series](#star-trek-the-original-series)
+			- [Star Wars: Original Trilogy](#star-wars-original-trilogy)
 			- [Touhou Project](#touhou-project)
 			- [Vampire: The Masquerade](#vampire-the-masquerade)
 			- [West into the Weird](#west-into-the-weird)
@@ -280,6 +287,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 			- [A Dragon Ranch in Suburbia](#a-dragon-ranch-in-suburbia)
 			- [Harry Potter of Our Own](#harry-potter-of-our-own)
 			- [Homestuck](#homestuck)
+			- [Jake and Amir](#jake-and-amir)
 			- [Pack Street](#pack-street)
 			- [Pinwheel](#pinwheel)
 			- [Sex and Marmota Nights](#sex-and-marmota-nights)
@@ -1099,6 +1107,20 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 >
 >Walker scowled. This was hardly the time for leering at another human being.
 
+##### [Prehistoric Ice Age](https://files.catbox.moe/yx6ji4.module)
+
+[by kumah](https://discord.com/channels/836774308772446268/870449646391156776/899413414139555860)
+
+*This module was trained on the Clan of the Cavebear series by Jean Auel, Shaman by Kim Stanley Robinson, and a collection of erotic novellas set in a prehistoric periods. All content was painstakingly cleaned of modern references, though some more modern vocabulary is still used in descriptions.*
+
+*I've deleted chapter breaks, paragraph breaks, author notes, commentary, and copyright info.*
+
+> The cave was cool and damp, the floor littered with leaves. It smelled of dead wood, but there were other odors as well: smoke from a fire, an animal's musk, old sweat, urine. The walls glistened with moisture. A few drops fell on her face as she stood in the entrance. She brushed them away impatiently. Her heart pounded and her breath came fast. Why had she come here? She didn't know. She just knew that when she saw it, she would have to go inside.
+> 
+> She looked around at the familiar surroundings again, then stepped forward into the dark space. It was large enough for two or three people to stand side by side, though only one could comfortably walk through it. She noticed some differences; the smell of smoke wasn't so strong anymore. There was also a faint odor of fresh water nearby. She moved slowly toward the back wall, feeling her way along the rough stone. The cave seemed much larger now than before, and the air was warmer. When she reached the back wall, she stopped, still not sure what to do next.
+> 
+> Then she heard something. A soft rustling sound. It grew louder and closer until she recognized the distinctive footfalls of a small creature padding softly across the floor behind her. She turned quickly, expecting to see another animal, perhaps a fox or a wolf. 
+
 ##### [Russian Fantasy and Folklore](https://files.catbox.moe/08g7lc.module)
 
 [by lion (and Zaltys)](https://discord.com/channels/836774308772446268/870449646391156776/875639605767053332)
@@ -1154,6 +1176,55 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 
 ![evidence](https://files.catbox.moe/azsz3l.PNG)
 {: .center}
+
+##### [Star Wars: Original Trilogy](https://files.catbox.moe/lxpf4v.module)
+
+[by kumah](https://discord.com/channels/836774308772446268/870449646391156776/899139305019170857)
+
+*The goal of this is to include novels from around the original trilogy, as well as novels set shortly before and afterward chronologically (Roughly 5 years before or 5 years after). This is to include things like Rogue One, and the Thrawn Trilogy, that arguably have the same general 'vibe' as the original trilogy. This does mix canon books with legends books, but I figure if you're using NovelAI, you don't care much about canon.*
+
+*I've deleted chapter breaks, paragraph breaks, author notes, commentary, and copyright info.*
+
+*The novels used to train in roughly chronological order:*
+
+- Ahsoka
+- Tarkin
+- Thrawn
+- Rogue One Novelization
+- X-Wing 1: Rogue Squadron
+- Original Trilogy Novelization
+- Complete Thrawn Trilogy
+- A Small collection of Original Trilogy + Rogue One romantic fanfiction to add contextual awareness for mature themes.
+
+> "Only Imperial soldiers have access to this kind of equipment," Luke said. "That was no blaster bolt you saw coming at your head."
+> 
+> Han frowned. It was true; the stunner had been one of those old-fashioned nonlethal models, its charge fully spent when it hit the wall beside the door.
+> 
+> "So what do we do?" Leia asked.
+> 
+> Luke shrugged. "We go in and get him out," he said. "If that's all right with you, Han."
+>
+> Han looked at his friend. He didn't like the idea much himself, but there wasn't anything else they could do. Not without making themselves a target for the whole roomful of stormtroopers. "Sure," he agreed. "Let's do it."
+>
+> The door slid open as they approached, revealing another corridor identical to the one outside. They walked down it toward the sound of voices echoing from somewhere ahead. "I don't see any guards," Han muttered.
+>
+> "They're probably waiting for us on the other side of that door," Luke pointed out. "Come on."
+> 
+> Han reached for his blaster. Luke reached for his saber. Leia just held her breath.
+> 
+> But the voice that came through the door was a familiar one. "Luke!" Chewbacca roared. "You're alive! I knew you'd make it back."
+> 
+> "Hello, Wookiee," Luke called back. "What's he saying?"
+> 
+> "He says to tell you he loves you," Leia translated.
+> 
+> "Oh, yeah?" Han growled. "Well, I love him, too."
+> 
+> Chewbacca laughed. "I know you do," he said. "I can hear it in your voice."
+> 
+> "Okay, okay," Han grumbled. "All right, let's move."
+> 
+> They crossed the threshold into the cell block and headed straight for the door at the far end. A group of stormtroopers were standing guard over it, their weapons drawn. But as soon as they spotted Luke and his companions, they lowered them. "Welcome back, Master Skywalker," one of them greeted him. "We've been expecting you."
 
 ##### [Touhou Project](https://files.catbox.moe/imyand.module)
 
@@ -2974,6 +3045,43 @@ Text looked like this:
 
 *Unfortunately it doesn't spontaneously generate seafood metaphors. Probably need Tsukihime scenes to receive mollusks.*
 
+##### [Fate/Zero](https://files.catbox.moe/932m9n.module)
+
+[by DrYazman](https://discord.com/channels/836774308772446268/870449646391156776/899533379626729482)
+
+*This module was trained on the Fate series books. Specifically:*
+- Fate/Zero
+- Lord El-Melloi II Case Files
+- Fate ⁄ Labyrinth
+- Fate ⁄ Zero Another Story - Heart of Freaks
+- Fate ⁄ Requiem
+- Clock Tower 2015 
+
+*This module was trained by me on request of @rando who provided the books and did some basic cleaning. I also did some basic cleaning and used the Dumb Text Reformatter too, as well as some regex stuff.*
+
+*It was trained with approx ~3500 steps to 80%. Sorry, I'm a bit of a dumbass and forgot to make a note of specifically how many steps. But I have a loss graph!*
+
+> **Kiritsugu looked out the window as some crows flew around, making noise.**
+> 
+> He was thinking of something quite different from a crow.
+> 
+> The city below was shrouded in darkness. A thick fog spread over it, and only a few lights could be seen. The light of those few lamps seemed to shine through the heavy mist, but they were still far away from each other. It was like looking at an old photograph with the focus not right - everything seemed blurry.
+> 
+> "I don't really know how to describe this feeling..."
+> 
+> He had been here before, when he came to rescue El-Melloi's corpse. But then, that time it wasn't night; there was sunlight all around him. Now, however...
+> 
+> There was no sunlight. There was just mist. No matter what direction Kiritsugu looked, the scenery didn't change. It felt as if he was trapped in some kind of hellish world.
+> 
+> In the end, even I can't stand this place...he thought.
+> 
+> Even though his body was wrapped in a black coat, Kiritsugu couldn't hide the fact that he was trembling. The mist covered his entire body, making it hard for him to breathe. His skin prickled from cold, and sweat ran down his forehead.
+> 
+> This is bad.
+> 
+> He should have never come here.
+
+
 ##### [Steins;Gate](https://files.catbox.moe/6qq459.module)
 
 [by lion](https://discord.com/channels/836774308772446268/870449646391156776/870477108323950652)
@@ -3065,6 +3173,48 @@ Text looked like this:
 [by Anon](https://arch.b4k.co/vg/thread/345503749/#345551475)
 
 *8000 (~163%) steps on volumes 1~17 of Konosuba's light novels. Done with epub2txt2 and the formatting tool in the OP to remove double linebreaks. There are probably a few quirks to fix in the original text: I removed anything like table of contents and any afterwords, but a few other things may have slipped past. It was a rush since my sub renews tonight. Do not abuse goddesses and chuunis.*
+
+> “… Ahhh, I can hear the sound of a wind blowing through the grass. This is the forest at night…! It’s so dark in here that I can barely see anything…! What should we do? Should we go back to town and
+> 
+> report this incident to someone? Or perhaps…!”
+> 
+> The woman who was about to be eaten by the darkness suddenly started muttering to herself.
+
+
+> **The cabbage bleated and tried, unsuccessfully, to flap away.**
+> 
+> “…! I see…! This is the smell of a goddess! A goddess has come down from heaven! My god will be so happy!”
+> 
+> Aqua turned around with her arms crossed in front of her chest and said:
+> 
+> “You want to do this? Go ahead then. I won’t stop you. If it’s for my sake, I can even let you touch me.”
+> 
+> She looked like she was about to cry at the thought of not being able to hold back anymore.
+
+
+###### [KonoSuba (1-14)](https://files.catbox.moe/zcz93v.module)
+
+[by Kitty](https://discord.com/channels/836774308772446268/870449646391156776/899276260797214740)
+
+*What do you get when a cynical ex-NEET reborn in another world forms a party with an airheaded water goddess, a masochistic crusader, and a minmaxing archwizard? Konosuba!*
+
+*Work on this began when I realized that the previous Rentry module splits sentences with linebreaks. The Yen Press light novel volumes were also used instead of fan translations, and coverage was decreased from 163% to 100% to avoid overfit. This should increase output coherency.*
+
+*The files were converted with Calibre, then cleaned under the Datasetting Guide with Gnurro's FineTuneReformatter and Zermelane's 'Dumb Reformatter.' Many thanks to DrYazman for generously donating their steps.*
+
+> **The cabbage bleated and tried, unsuccessfully, to flap away.**
+> 
+> I couldn't help but smile at the sight of it flailing about like a chicken that had been mistaken for a rabbit.
+> 
+> "I think this one is ready," Megumin said, bringing her hand down on the cabbage's head.
+> 
+> It looked so fluffy! It was such a cute little vegetable, with its round face and big eyes—and yet it was so stubborn!
+> 
+> "You have to be gentle when you cut vegetables, Kazuma." Darkness, who had just finished cutting up some tomatoes, smiled as she spoke. "Otherwise they'll get all mushy from your rough handling."
+> 
+> "Yeah, yeah, I know how to handle them. But hey, what's wrong with being a bit rough? This thing's trying to fight back!"
+> 
+> Megumin, who was still holding the cabbage in both hands, gave me an exasperated look. "That's why we need to be gentle, Kazuma."
 
 ##### [Monotogari](https://files.catbox.moe/kpjp7m.module)
 
@@ -3179,6 +3329,39 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 [by Katiebug586](https://discord.com/channels/836774308772446268/870449646391156776/870728153063100478)
 
 *I trained the bot on the entirety of Homestuck via the accessible Homestuck project. Troll quirks not included.*
+
+##### [Jake and Amir](https://files.catbox.moe/ecpf87.module)
+
+[by Dan!](https://discord.com/channels/836774308772446268/870449646391156776/898587039400861736)
+
+*A model trained on all available scripts from the Collegehumor webseries Jake and Amir. Module was trained on transcripts formatted as scripts, with character's names in ALL CAPS and (scene direction in parentheses).*
+
+> Jake: I have no idea what that means.
+> 
+> Amir: (laughing) Oh, you don't know?
+> 
+> Jake: No!
+> 
+> Amir: Alright.
+> 
+> (The camera pans down to the top of Amir's head.)
+> 
+> Amir: See? It says "Don't Fuck With Me."
+
+> **(Jake and Amir sit together on a couch)**
+> 
+> JAKE: So, I've been thinking about this for like a week.
+> 
+> AMIR: What?
+> 
+> JAKE: You know what. Like... I mean, it's like the worst thing that could happen to me.
+> 
+> AMIR: Really?
+> 
+> JAKE: Yeah. It's really bad. And you're not gonna believe how bad it is.
+> 
+> AMIR: Okay, but before we get into that... How do you feel about sex with your sister?
+
 
 ##### [Pack Street](https://files.catbox.moe/gjqsyh.module)
 
@@ -3389,6 +3572,40 @@ Use Example:
 [by eliminable](https://discord.com/channels/836774308772446268/870449646391156776/892774395381182535)
 
 *I just trained this on [a bunch of random python code](https://github.com/TheAlgorithms/Python) as an experiment and it worked better than I expected. ~1.3MB(I think), 1380 steps, 99.99% coverage*
+
+#### [Sentiments and Summaries](https://files.catbox.moe/9hoy02.module)
+
+[by Magenta.Darkstar](https://discord.com/channels/836774308772446268/870449646391156776/899489848656818176)
+
+*A module designed to give authorial direction to the AI about the content and feeling to be expressed by a passage. Done by specifying [ Sentiment: X. ] or [ Summary: Y.] Trained sentiments: joy, surprise, anger, fear, disgust. Others may work.*
+
+*All training data has had relatively high confidence emotional sentiments tagged and summaries written for blocks of textbooks that contain large paragraph blocks. This included automation and manual summary post-hoc curation. The sentiment tagging was done with a neural network classifier, and the summaries were written by a transformer (substantially less powerful than GPT).*
+
+*The training text includes annotated versions of:*
+
+ - Future Feeling by Joss Lake
+ - This Is How It Always Is by Laurie Frankel
+ - Trans-Galactic Bike Ride_Feminist Bicycle Science Fiction Stories of Transgender and Nonbinary Adventurers by various authors
+ - Antikythera - Shears
+ - Harry Potter and the Methods of Rationality by Eliezer Yudkowsky
+ - Luminosity by Alicorn
+ - Radiance
+ - Salammbo by Gustave Flaubert
+ - Scientist's Thesis - Rationalising Death
+ - Sophronius - The Need to Become Stronger
+ - Three Worlds Collide by Eliezer Yudkowsky
+ - WhatWouldEnderDo - r Animorphs The Reckoning
+ - Short stories by alexanderwales
+ - Tales of Space and Time by HG Wells
+ - The King of Elfland's Daughter by Lord Dunsany
+ - A Tale of Two Cities by Charles Dickens
+ - Alice's Adventures in Wonderland by Lewis Carroll
+ - Riders of the Purple Sage by Zane Grey
+ - The Book of Wonder by Lord Dunsany
+ - The Dunwich Horror by HP Lovecraft
+ - The Mysterious Affair at Styles by Agatha Christie
+ - Oliver Twist by Charles Dickens
+
 
 #### [World Generator](https://files.catbox.moe/zswaxs.module)
 
