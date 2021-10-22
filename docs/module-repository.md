@@ -26,10 +26,10 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
-- Added [Star Wars Prequel Era](#star-wars-prequel-trilogy)
+- Added [Star Wars Prequel Era](#star-wars-prequel-trilogy) module
 - Added [Fate/Zero](#fatezero) module
 - Added [Sentiments & Summaries](#sentiments-and-summaries) utility module
-- Added [Ice Age](#prehistoric-ice-age)
+- Added [Ice Age](#prehistoric-ice-age) module
 - Added [New and Improved KonoSuba module](#konosuba-1-14)
 - Added [Star Wars OT Era](#star-wars-original-trilogy) module
 - Added [Jake and Amir](#jake-and-amir) module
