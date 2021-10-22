@@ -26,6 +26,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+- Added [Star Wars Prequel Era](#star-wars-prequel-trilogy)
 - Added [Fate/Zero](#fatezero) module
 - Added [Sentiments & Summaries](#sentiments-and-summaries) utility module
 - Added [Ice Age](#prehistoric-ice-age)
@@ -35,15 +36,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Added [Comprehensive SlutWriter](#slutwriter) module
 - Added [The Manwhore Module](#the-manwhore-module)
 - Replaced [Purple Prose](#purely-purple-prose) predecessor with Properly Prim permutation
-- Updated [World of Pokémon](#world-of-pokémon) module
-- Updated [Fallout 2: New California](#new-california) module
-- Added [Weird Wild West](#west-into-the-weird) module
-- Added [Modern Detective Fiction](#modern-detective-work) module
-- Added [A Sexy Day in Suburbia](#a-sexy-day-in-suburbia) module
-- Added [Text Adventures Complete Steps](#text_adventurestxt) module
-- Updated [Touhou Project](#touhou-project) module
-- Added [Mermaids and Mermen](#mermaids-and-mermen) module
-- Added [Magic: The Gathering](#magic-the-gathering) module
 
 ***
 
@@ -1225,6 +1217,33 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 > "Okay, okay," Han grumbled. "All right, let's move."
 > 
 > They crossed the threshold into the cell block and headed straight for the door at the far end. A group of stormtroopers were standing guard over it, their weapons drawn. But as soon as they spotted Luke and his companions, they lowered them. "Welcome back, Master Skywalker," one of them greeted him. "We've been expecting you."
+
+##### [Star Wars: Prequel Trilogy](https://files.catbox.moe/yvatuv.module)
+
+[by kumah](https://discord.com/channels/836774308772446268/870449646391156776/900737515756081184)
+
+*This module was built from the novelization of Episodes II and III - I did not include Episode I since it is much earlier than the other two and doesn't really have the same vibe. I've also included some clone wars novels. The goal of this was to create a module that you could play set during the clone wars.*
+
+*I've removed chapter breaks, paragraph breaks, author notes, commentary, and copyright info.*
+
+*Books Used:*
+- *Ahsoka*
+- *Tarkin*
+- *The Clone Wars 1, The Clone Wars Wild Space, The Clone Wars No Prisoners*
+- *The Clone Wars Gambit 1, The Clone Wars Gambit 2*
+- *Episode II Novelization*
+- *Episode III Novelization*
+- *Small collection of Clone Wars fanfiction*
+
+> **"This is where the fun begins."** For a moment Anakin thought Obi-Wan had heard him. Or maybe not? The sky was so low and black with his exhaust plumes that he could hardly hear over the ViiR thrumming of antigrav.
+> 
+> He wasn't here to observe great strategy and play out vast sagas, either among allies or against enemies in this garish netherworld between sanity and insanity. But even though his patience was running thin, he owed Obi-Wan whatever shred of rationality, courtesy or understanding that Obi-Wan happened to believe, under the circumstances, might not be insulting right then.
+> 
+> Behind him streaked half a dozen wreaths of platinum fire now, like explosive smoke trails in sunlight. A Mandalorian passed within one such roaring torrent behind.
+> 
+> "Who the frack are you supposed to be?" he asked just because, somehow, he couldn't stay angry any more than any Force could rattle the commanding presence coiled into this man beside him. "and how d'you cheat blast meters with airships on full of velocity?"
+> 
+> "flamesquench?" Kenobi suggested lightly.
 
 ##### [Touhou Project](https://files.catbox.moe/imyand.module)
 
