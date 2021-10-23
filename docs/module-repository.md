@@ -26,6 +26,8 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+- Added [Trump Tweets](#trump-tweets) module
+- Added [Mom and Son](#mom-and-son) module
 - Added [Star Wars Prequel Era](#star-wars-prequel-trilogy) module
 - Added [Fate/Zero](#fatezero) module
 - Added [Sentiments & Summaries](#sentiments-and-summaries) utility module
@@ -1854,6 +1856,20 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *Brings back those old adventure feelings ~*
 
+##### [Trump Tweets](https://files.catbox.moe/spdwuu.module)
+
+[by ChrisNonyminus](https://discord.com/channels/836774308772446268/870449646391156776/901522647517655080)
+
+*A module trained on a raw dataset of trump tweets. I recommend using bracket tokens, starting with a pre-existing prompt, and using [a banned token list](https://files.catbox.moe/nv2pj1.badwords), or else it will generate a lot of garbage; urls, random retweets, etc.*
+
+*If you can wrangle the module well enough it can generate lots of batshit insane yet entertaining shit that really seems like something he would type.*
+
+*10000 steps trained on ~6MB of text; Average Loss: 2.9358; Last Loss: 2.8924*
+
+> Dear America,
+> 
+> Today I have learned that NO GOOD ALEC BALDWIN has committed MURDER. He was caught on a hot mic last night and he will soon be taken into custody. His crimes against the people of our country are as follows:  He is a murderer - for voting to allow illegal aliens to vote in this election! He is an open borders hypocrite who wants more foreign workers to take American jobs! He is a criminal - for supporting voter fraud by allowing non-citizens to vote! And he is a traitor - for working with Democrats to make it harder for Americans to vote!
+
 ##### [Twilight 2000 (Encounters)](https://files.catbox.moe/2jgr7s.module)
 
 [by TravelingRobot](https://discord.com/channels/836774308772446268/870449646391156776/877174584435146852)
@@ -2374,6 +2390,17 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 >I couldn’t help myself as my eyes wandered over her body once again. Her breasts were large and perfectly round, not too big or small at all. They sat high on her chest and swayed back and forth when she moved. The nipples were thick and dark pink while they poked through her golden brown fur.
 >
 >Her stomach was flat and tight while there was an indentation right where her belly button would be if she had one. My cock twitched involuntarily at the thought of sliding inside those soft curves.
+
+##### [Mom and Son](https://litter.catbox.moe/8hfdth.module)
+
+[500 Steps Vers.](https://litter.catbox.moe/oupp3d.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/356846369/#356982139)
+
+*Forgive me for not having this out a few Fridays ago. Because no one has released anything like this, I took my own stories, a combination of ye olde AID and NAI and made a Mommy /ss/ module. Is it refined and perfect? No, but it does talk about good boys and pregnant mommies. Apologies for the data being in second (cancer) POV, but it does seem to do something in other perspectives too.*
+
+*Because of the small amount of data, I only used 200 steps for the first iteration. The second one with 500 steps certainly has a stronger effect.*
+
 
 ##### [Multiple Partners](https://files.catbox.moe/66nz91.module)
 
