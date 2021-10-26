@@ -5,9 +5,9 @@ permalink: /modules/
 ---
 
 <style>
- .center {
-  text-align: center;
-  }
+	.center {
+	text-align: center;
+	}
 </style>
 
 # The Rent-Free Module Repository
