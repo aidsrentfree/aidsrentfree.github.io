@@ -5,12 +5,13 @@ permalink: /modules/
 ---
 
 <style>
-	.center {
-		text-align: center;
-		}
+ .center {
+  text-align: center;
+  }
 </style>
 
 # The Rent-Free Module Repository
+
 {: .center}
 
 Well, looks like we've run out of space on the [rentry](https://rentry.co/modules).
@@ -26,6 +27,8 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+- Added [Undertale/Deltarune](#underune) module
+- Added [Worm](#worm) module
 - Added [Trump Tweets](#trump-tweets) module
 - Added [Mom and Son](#mom-and-son) module
 - Added [Star Wars Prequel Era](#star-wars-prequel-trilogy) module
@@ -46,260 +49,270 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - [Recent Changes](#recent-changes)
 - [Table of Contents](#table-of-contents)
 - [Modules](#modules)
-	- [Writers](#writers)
-		- [Published Authors](#published-authors)
-			- [Charles Dickens](#charles-dickens)
-			- [C. S. Lewis](#c-s-lewis)
-			- [Franz Kafka](#franz-kafka)
-			- [George Orwell](#george-orwell)
-			- [Hunter S. Thompson](#hunter-s-thompson)
-			- [J. R. R. Tolkien](#j-r-r-tolkien)
-			- [Jane Austen](#jane-austen)
-			- [Oscar Wilde](#oscar-wilde)
-			- [Rod Serling](#rod-serling)
-			- [Shirley Jackson](#shirley-jackson)
-			- [Stephen King](#stephen-king)
-			- [Tom Clancy](#tom-clancy)
-			- [Vladimir Nabokov](#vladimir-nabokov)
-		- [Web Authors](#web-authors)
-			- [Benjamin R. "Yahtzee" Croshaw](#benjamin-r-yahtzee-croshaw)
-			- [Joe Forest](#joe-forest)
-			- [Prinny](#prinny)
-			- [SlutWriter](#slutwriter)
-				- [Slutty](#slutty)
-	- [Themes](#themes)
-		- [Setting](#setting)
-			- [Action Movies](#action-movies)
-			- [Alien Franchise](#alien-franchise)
-			- [Ancient Historical Rome](#ancient-historical-rome)
-			- [Ancient Rome](#ancient-rome)
-			- [Arthurian](#arthurian)
-			- [AR Video Game Reality](#ar-video-game-reality)
-			- [Aztec, Inca and Mayan Mythology](#aztec-inca-and-mayan-mythology)
-			- [Batman](#batman)
-			- [Battletech](#battletech)
-			- [Beastars](#beastars)
-			- [Celtic Mythology](#celtic-mythology)
-			- [Classic Cyberpunk](#classic-cyberpunk)
-			- [Cyberpunk 2222](#cyberpunk-2222)
-			- [Dark Academia](#dark-academia)
-			- [Feudal Japan](#feudal-japan)
-			- [Folk Fantasy](#folk-fantasy)
-			- [Forgotten Realms](#forgotten-realms)
-			- [Four Horsemen Universe](#four-horsemen-universe)
-			- [Furry Scipunktasy](#furry-scipunktasy)
-			- [Girls' Frontline](#girls-frontline)
-			- [Generation Ship](#generation-ship)
-			- [Genroku Era](#genroku-era)
-			- [Mad Max](#mad-max)
-			- [Magic: The Gathering](#magic-the-gathering)
-			- [Male Prison](#male-prison)
-			- [Mass Effect](#mass-effect)
-			- [Middle-Earth](#middle-earth)
-			- [My Little Pony: Friendship Extended](#my-little-pony-friendship-extended)
-			- [New California](#new-california)
-			- [Norse](#norse)
-			- [Poetic Fantasy](#poetic-fantasy)
-			- [Post-Apocalyptic Fallout](#post-apocalyptic-fallout)
-			- [Russian Fantasy and Folklore](#russian-fantasy-and-folklore)
-			- [A Song of Ice and Fire](#a-song-of-ice-and-fire)
-			- [Star Trek: The Next Generation](#star-trek-the-next-generation)
-			- [Star Trek: The Original Series](#star-trek-the-original-series)
-			- [Star Wars: Original Trilogy](#star-wars-original-trilogy)
-			- [Touhou Project](#touhou-project)
-			- [Vampire: The Masquerade](#vampire-the-masquerade)
-			- [West into the Weird](#west-into-the-weird)
-			- [Western](#western)
-			- [World of Pokémon](#world-of-pokémon)
-			- [Xenoarchaeology and Relics](#xenoarchaeology-and-relics)
-			- [Zombie Apocalypse](#zombie-apocalypse)
-		- [Elements](#elements)
-			- [Androids, Artificial Intelligence, and Robots](#androids-artificial-intelligence-and-robots)
-			- [Angels and Demons](#angels-and-demons)
-			- [Catgirls](#catgirls)
-			- [Communism](#communism)
-			- [Count Grey](#count-grey)
-			- [Cross-Genre](#cross-genre)
-			- [Cross-Genre: Romance](#cross-genre-romance)
-			- [Duke Nukem](#duke-nukem)
-			- [The Elder Scrolls In-Game Texts](#the-elder-scrolls-in-game-texts)
-			- [Forbidden Lands (Encounters)](#forbidden-lands-encounters)
-			- [Gay](#gay)
-			- [Gay 2](#gay-2)
-			- [Green's RPG](#greens-rpg)
-			- [Gryphons](#gryphons)
-			- [Learning Magic](#learning-magic)
-			- [LitRPG](#litrpg)
-			- [Magical Girls: Battle Royale](#magical-girls-battle-royale)
-			- [Magical Girls: Romance](#magical-girls-romance)
-			- [The Manwhore Module](#the-manwhore-module)
-			- [Melee Combat](#melee-combat)
-			- [Mermaids and Mermen](#mermaids-and-mermen)
-			- [Modern Detective Work](#modern-detective-work)
-			- [Mormon](#mormon)
-			- [Purely Purple Prose](#purely-purple-prose)
-			- [Second Person](#second-person)
-			- [Second Proseon](#second-proseon)
-			- [Sergals](#sergals)
-			- [Surrealistic Look Through The Glass](#surrealistic-look-through-the-glass)
-			- [Sweet Time](#sweet-time)
-			- [text_adventures.txt](#text_adventurestxt)
-			- [Twilight 2000 (Encounters)](#twilight-2000-encounters)
-			- [Weird](#weird)
-			- [Wildlife](#wildlife)
-			- [Zombies](#zombies)
-		- [Sexual](#sexual)
-			- [/hmofa/](#hmofa)
-			- [Anal](#anal)
-			- [Androids, Robots, Aliens, Harems](#androids-robots-aliens-harems)
-			- [ATR Degredation](#atr-degredation)
-			- [Cannibalism](#cannibalism)
-			- [Cross-Pornre](#cross-pornre)
-			- [Cute and Funny](#cute-and-funny)
-			- [Dragon Smut](#dragon-smut)
-			- [Embarrassed Naked Female](#embarrassed-naked-female)
-			- [Embarrassed Naked Female (Third Person)](#embarrassed-naked-female-third-person)
-			- [Embarrassed Naked Furry](#embarrassed-naked-furry)
-			- [Eroguro](#eroguro)
-			- [Erotic Horror](#erotic-horror)
-			- [Erotic Roleplay](#erotic-roleplay)
-			- [Exponent](#exponent)
-			- [Fantasy Anthro](#fantasy-anthro)
-			- [Femdom](#femdom)
-			- [Foot](#foot)
-			- [Furbianism](#furbianism)
-			- [Furcest](#furcest)
-			- [Furry (Short Stories)](#furry-short-stories)
-			- [Futarotica](#futarotica)
-			- [Futrap](#futrap)
-			- [Gardevoir](#gardevoir)
-			- [Gay BDSM](#gay-bdsm)
-			- [Gay Fantasy](#gay-fantasy)
-			- [Gay Hyper Muscle Growth](#gay-hyper-muscle-growth)
-			- [Gaykémon](#gaykémon)
-			- [Gay Monsterfucking](#gay-monsterfucking)
-			- [Gender Bender](#gender-bender)
-			- [Genroku Ero](#genroku-ero)
-			- [Giantess](#giantess)
-			- [Giantess World](#giantess-world)
-			- [Girl Thoughts](#girl-thoughts)
-			- [Harem Fantasy](#harem-fantasy)
-			- [Lesbémon](#lesbémon)
-			- [Loli](#loli)
-			- [Longform Mind Control](#longform-mind-control)
-			- [Magic Mind Control](#magic-mind-control)
-			- [Master PC Collection](#master-pc-collection)
-			- [Mind Control](#mind-control)
-			- [Mind Control Induction](#mind-control-induction)
-			- [Minirotic Roleplay](#minirotic-roleplay)
-			- [Monster Girls](#monster-girls)
-			- [Monstergirls](#monstergirls)
-			- [Multiple Partners](#multiple-partners)
-			- [Mysterotica](#mysterotica)
-			- [Netorare](#netorare)
-			- [NonConsent and Reluctance](#nonconsent-and-reluctance)
-			- [Pokémon](#pokémon)
-			- [Raunchy](#raunchy)
-			- [Respecting Women](#respecting-women)
-			- [Same Size Vore](#same-size-vore)
-			- [Scalyuri](#scalyuri)
-			- [Sexfighting](#sexfighting)
-			- [Shrunken Women](#shrunken-women)
-			- [Small Horses](#small-horses)
-			- [Succubimbo](#succubimbo)
-			- [Unconventional Penetration](#unconventional-penetration)
-			- [Universal Acceptance](#universal-acceptance)
-			- [Wild and Silly](#wild-and-silly)
-	- [Works](#works)
-		- [Literature](#literature)
-			- [Animorphs](#animorphs)
-			- [Assassin's Creed: Ezio Auditore](#assassins-creed-ezio-auditore)
-			- [Bartimaeus Sequence](#bartimaeus-sequence)
-			- [Battlefield Earth](#battlefield-earth)
-			- [The Bible](#the-bible)
-			- [Blood Meridian](#blood-meridian)
-			- [BOLO](#bolo)
-			- [Conan The Barbarian](#conan-the-barbarian)
-			- [The Culture](#the-culture)
-			- [The Dark Tower](#the-dark-tower)
-			- [Discworld](#discworld)
-			- [The Divine Comedy](#the-divine-comedy)
-			- [Finnegan's Wake](#finnegans-wake)
-			- [Forbidden Fruit](#forbidden-fruit)
-			- [Good Intentions](#good-intentions)
-			- [Goosebumps](#goosebumps)
-			- [The Gor Saga](#the-gor-saga)
-			- [Gotrek and Felix](#gotrek-and-felix)
-			- [Guards!](#guards)
-			- [Halo](#halo)
-			- [Harry Potter](#harry-potter)
-			- [Hitchiker's Guide to the Galaxy](#hitchikers-guide-to-the-galaxy)
-			- [Horus Heresy Selection One](#horus-heresy-selection-one)
-			- [The King James Bible](#the-king-james-bible)
-			- [The Kushiel Saga](#the-kushiel-saga)
-			- [Le Morte D'Arthur](#le-morte-darthur)
-			- [Mistborn Trilogy](#mistborn-trilogy)
-			- [My Struggle](#my-struggle)
-			- [Native American Myths and Legends](#native-american-myths-and-legends)
-			- [Neuromancer](#neuromancer)
-			- [The Old Kingdom Trilogy](#the-old-kingdom-trilogy)
-			- [Oz](#oz)
-			- [The Quran](#the-quran)
-			- [Redwall](#redwall)
-			- [The Robots Series](#the-robots-series)
-			- [The Solar Cycle](#the-solar-cycle)
-			- [Vampire Diaries](#vampire-diaries)
-			- [War and Peace](#war-and-peace)
-			- [Warhammer 40k](#warhammer-40k)
-			- [Warrior Cats](#warrior-cats)
-			- [Wheel of Time](#wheel-of-time)
-			- [The Witcher](#the-witcher)
-		- [Non-Fiction](#non-fiction)
-			- [Art of War](#art-of-war)
-		- [Visual Novel](#visual-novel)
-			- [Fate/stay ataraxia](#fatestay-ataraxia)
-			- [Steins;Gate](#steinsgate)
-			- [Tales of Androgyny](#tales-of-androgyny)
-		- [Light Novel](#light-novel)
-			- [Beginning After The End](#beginning-after-the-end)
-			- [Fantasies](#fantasies)
-			- [Goblin Slayer](#goblin-slayer)
-			- [Highschool DxD (1-10)](#highschool-dxd-1-10)
-			- [Highschool DxD (1-21)](#highschool-dxd-1-21)
-			- [KonoSuba](#konosuba)
-			- [Monotogari](#monotogari)
-			- [Overlord (1-13)](#overlord-1-13)
-			- [Overlord (1-14)](#overlord-1-14)
-			- [Slime](#slime)
-		- [Text Game](#text-game)
-			- [Corruption of Champions](#corruption-of-champions)
-			- [Corruption of Champions 2](#corruption-of-champions-2)
-			- [Paraphore](#paraphore)
-			- [Trials in Tainted Space](#trials-in-tainted-space)
-		- [Web Fiction](#web-fiction)
-			- [Code Lyoko](#code-lyoko)
-			- [A Dragon Ranch in Suburbia](#a-dragon-ranch-in-suburbia)
-			- [Harry Potter of Our Own](#harry-potter-of-our-own)
-			- [Homestuck](#homestuck)
-			- [Jake and Amir](#jake-and-amir)
-			- [Pack Street](#pack-street)
-			- [Pinwheel](#pinwheel)
-			- [Sex and Marmota Nights](#sex-and-marmota-nights)
-			- [A Sexy Day in Suburbia](#a-sexy-day-in-suburbia)
-			- [Trial By Tenderness](#trial-by-tenderness)
-			- [Welcome to Night Vale](#welcome-to-night-vale)
-	- [Utilities](#utilities)
-		- [Advertisements](#advertisements)
-		- [The Club](#the-club)
-		- [Director View](#director-view)
-		- [DND Monster Generator](#dnd-monster-generator)
-		- [Math](#math)
-		- [Pokédex](#pokédex)
-		- [Python](#python)
-		- [World Generator](#world-generator)
-		- [Yōkai](#yōkai)
+  - [Writers](#writers)
+    - [Published Authors](#published-authors)
+      - [Charles Dickens](#charles-dickens)
+      - [C. S. Lewis](#c-s-lewis)
+      - [Franz Kafka](#franz-kafka)
+      - [George Orwell](#george-orwell)
+      - [Hunter S. Thompson](#hunter-s-thompson)
+      - [J. R. R. Tolkien](#j-r-r-tolkien)
+      - [Jane Austen](#jane-austen)
+      - [Oscar Wilde](#oscar-wilde)
+      - [Rod Serling](#rod-serling)
+      - [Shirley Jackson](#shirley-jackson)
+      - [Stephen King](#stephen-king)
+      - [Tom Clancy](#tom-clancy)
+      - [Vladimir Nabokov](#vladimir-nabokov)
+    - [Web Authors](#web-authors)
+      - [Benjamin R. "Yahtzee" Croshaw](#benjamin-r-yahtzee-croshaw)
+      - [Joe Forest](#joe-forest)
+      - [Prinny](#prinny)
+      - [SlutWriter](#slutwriter)
+        - [Slutty](#slutty)
+  - [Themes](#themes)
+    - [Setting](#setting)
+      - [Action Movies](#action-movies)
+      - [Alien Franchise](#alien-franchise)
+      - [Ancient Historical Rome](#ancient-historical-rome)
+      - [Ancient Rome](#ancient-rome)
+      - [Arthurian](#arthurian)
+      - [AR Video Game Reality](#ar-video-game-reality)
+      - [Aztec, Inca and Mayan Mythology](#aztec-inca-and-mayan-mythology)
+      - [Batman](#batman)
+      - [Battletech](#battletech)
+      - [Beastars](#beastars)
+      - [Celtic Mythology](#celtic-mythology)
+      - [Classic Cyberpunk](#classic-cyberpunk)
+      - [Cyberpunk 2222](#cyberpunk-2222)
+      - [Dark Academia](#dark-academia)
+      - [Underune](#underune)
+      - [Feudal Japan](#feudal-japan)
+      - [Folk Fantasy](#folk-fantasy)
+      - [Forgotten Realms](#forgotten-realms)
+      - [Four Horsemen Universe](#four-horsemen-universe)
+      - [Furry Scipunktasy](#furry-scipunktasy)
+      - [Girls' Frontline](#girls-frontline)
+      - [Generation Ship](#generation-ship)
+      - [Genroku Era](#genroku-era)
+      - [Mad Max](#mad-max)
+      - [Magic: The Gathering](#magic-the-gathering)
+      - [Male Prison](#male-prison)
+      - [Mass Effect](#mass-effect)
+      - [Middle-Earth](#middle-earth)
+      - [My Little Pony: Friendship Extended](#my-little-pony-friendship-extended)
+      - [New California](#new-california)
+      - [Norse](#norse)
+      - [Poetic Fantasy](#poetic-fantasy)
+      - [Post-Apocalyptic Fallout](#post-apocalyptic-fallout)
+      - [Prehistoric Ice Age](#prehistoric-ice-age)
+      - [Russian Fantasy and Folklore](#russian-fantasy-and-folklore)
+      - [A Song of Ice and Fire](#a-song-of-ice-and-fire)
+      - [Star Trek: The Next Generation](#star-trek-the-next-generation)
+      - [Star Trek: The Original Series](#star-trek-the-original-series)
+      - [Star Wars: Original Trilogy](#star-wars-original-trilogy)
+      - [Star Wars: Prequel Trilogy](#star-wars-prequel-trilogy)
+      - [Touhou Project](#touhou-project)
+      - [Vampire: The Masquerade](#vampire-the-masquerade)
+      - [West into the Weird](#west-into-the-weird)
+      - [Western](#western)
+      - [World of Pokémon](#world-of-pokémon)
+      - [Xenoarchaeology and Relics](#xenoarchaeology-and-relics)
+      - [Zombie Apocalypse](#zombie-apocalypse)
+    - [Elements](#elements)
+      - [Androids, Artificial Intelligence, and Robots](#androids-artificial-intelligence-and-robots)
+      - [Angels and Demons](#angels-and-demons)
+      - [Catgirls](#catgirls)
+      - [Communism](#communism)
+      - [Count Grey](#count-grey)
+      - [Cross-Genre](#cross-genre)
+      - [Cross-Genre: Romance](#cross-genre-romance)
+      - [Duke Nukem](#duke-nukem)
+      - [The Elder Scrolls In-Game Texts](#the-elder-scrolls-in-game-texts)
+      - [Forbidden Lands (Encounters)](#forbidden-lands-encounters)
+      - [Gay](#gay)
+      - [Gay 2](#gay-2)
+      - [Green's RPG](#greens-rpg)
+      - [Gryphons](#gryphons)
+      - [Learning Magic](#learning-magic)
+      - [LitRPG](#litrpg)
+      - [Magical Girls: Battle Royale](#magical-girls-battle-royale)
+      - [Magical Girls: Romance](#magical-girls-romance)
+      - [The Manwhore Module](#the-manwhore-module)
+      - [Melee Combat](#melee-combat)
+      - [Mermaids and Mermen](#mermaids-and-mermen)
+      - [Modern Detective Work](#modern-detective-work)
+      - [Mormon](#mormon)
+      - [Purely Purple Prose](#purely-purple-prose)
+      - [Second Person](#second-person)
+      - [Second Proseon](#second-proseon)
+      - [Sergals](#sergals)
+      - [Surrealistic Look Through The Glass](#surrealistic-look-through-the-glass)
+      - [Sweet Time](#sweet-time)
+      - [text_adventures.txt](#text_adventurestxt)
+      - [Trump Tweets](#trump-tweets)
+      - [Twilight 2000 (Encounters)](#twilight-2000-encounters)
+      - [Weird](#weird)
+      - [Wildlife](#wildlife)
+      - [Zombies](#zombies)
+    - [Sexual](#sexual)
+      - [/hmofa/](#hmofa)
+      - [Anal](#anal)
+      - [Androids, Robots, Aliens, Harems](#androids-robots-aliens-harems)
+      - [ATR Degredation](#atr-degredation)
+      - [Cannibalism](#cannibalism)
+      - [Cross-Pornre](#cross-pornre)
+      - [Cute and Funny](#cute-and-funny)
+      - [Dragon Smut](#dragon-smut)
+      - [Embarrassed Naked Female](#embarrassed-naked-female)
+      - [Embarrassed Naked Female (Third Person)](#embarrassed-naked-female-third-person)
+      - [Embarrassed Naked Furry](#embarrassed-naked-furry)
+      - [Eroguro](#eroguro)
+      - [Erotic Horror](#erotic-horror)
+      - [Erotic Roleplay](#erotic-roleplay)
+      - [Exponent](#exponent)
+      - [Fantasy Anthro](#fantasy-anthro)
+      - [Femdom](#femdom)
+      - [Foot](#foot)
+      - [Furbianism](#furbianism)
+      - [Furcest](#furcest)
+      - [Furry (Short Stories)](#furry-short-stories)
+      - [Futarotica](#futarotica)
+      - [Futrap](#futrap)
+      - [Gardevoir](#gardevoir)
+      - [Gay BDSM](#gay-bdsm)
+      - [Gay Fantasy](#gay-fantasy)
+      - [Gay Hyper Muscle Growth](#gay-hyper-muscle-growth)
+      - [Gaykémon](#gaykémon)
+      - [Gay Monsterfucking](#gay-monsterfucking)
+      - [Gender Bender](#gender-bender)
+      - [Genroku Ero](#genroku-ero)
+      - [Giantess](#giantess)
+      - [Giantess World](#giantess-world)
+      - [Girl Thoughts](#girl-thoughts)
+      - [Harem Fantasy](#harem-fantasy)
+      - [Lesbémon](#lesbémon)
+      - [Loli](#loli)
+      - [Longform Mind Control](#longform-mind-control)
+      - [Magic Mind Control](#magic-mind-control)
+      - [Master PC Collection](#master-pc-collection)
+      - [Mind Control](#mind-control)
+      - [Mind Control Induction](#mind-control-induction)
+      - [Minirotic Roleplay](#minirotic-roleplay)
+      - [Monster Girls](#monster-girls)
+      - [Monstergirls](#monstergirls)
+      - [Mom and Son](#mom-and-son)
+      - [Multiple Partners](#multiple-partners)
+      - [Mysterotica](#mysterotica)
+      - [Netorare](#netorare)
+      - [NonConsent and Reluctance](#nonconsent-and-reluctance)
+      - [Pokémon](#pokémon)
+      - [Raunchy](#raunchy)
+      - [Respecting Women](#respecting-women)
+      - [Same Size Vore](#same-size-vore)
+      - [Scalyuri](#scalyuri)
+      - [Sexfighting](#sexfighting)
+      - [Shrunken Women](#shrunken-women)
+      - [Small Horses](#small-horses)
+      - [Succubimbo](#succubimbo)
+      - [Unconventional Penetration](#unconventional-penetration)
+      - [Universal Acceptance](#universal-acceptance)
+      - [Wild and Silly](#wild-and-silly)
+  - [Works](#works)
+    - [Literature](#literature)
+      - [Animorphs](#animorphs)
+      - [Assassin's Creed: Ezio Auditore](#assassins-creed-ezio-auditore)
+      - [Bartimaeus Sequence](#bartimaeus-sequence)
+      - [Battlefield Earth](#battlefield-earth)
+      - [The Bible](#the-bible)
+      - [Blood Meridian](#blood-meridian)
+      - [BOLO](#bolo)
+      - [Conan The Barbarian](#conan-the-barbarian)
+      - [The Culture](#the-culture)
+      - [The Dark Tower](#the-dark-tower)
+      - [Discworld](#discworld)
+      - [The Divine Comedy](#the-divine-comedy)
+      - [Finnegan's Wake](#finnegans-wake)
+      - [Forbidden Fruit](#forbidden-fruit)
+      - [Good Intentions](#good-intentions)
+      - [Goosebumps](#goosebumps)
+      - [The Gor Saga](#the-gor-saga)
+      - [Gotrek and Felix](#gotrek-and-felix)
+      - [Guards!](#guards)
+      - [Halo](#halo)
+      - [Harry Potter](#harry-potter)
+      - [Hitchiker's Guide to the Galaxy](#hitchikers-guide-to-the-galaxy)
+      - [Horus Heresy Selection One](#horus-heresy-selection-one)
+      - [The King James Bible](#the-king-james-bible)
+      - [The Kushiel Saga](#the-kushiel-saga)
+      - [Le Morte D'Arthur](#le-morte-darthur)
+      - [Mistborn Trilogy](#mistborn-trilogy)
+      - [My Struggle](#my-struggle)
+      - [Native American Myths and Legends](#native-american-myths-and-legends)
+      - [Neuromancer](#neuromancer)
+      - [The Old Kingdom Trilogy](#the-old-kingdom-trilogy)
+      - [Oz](#oz)
+      - [The Quran](#the-quran)
+      - [Redwall](#redwall)
+      - [The Robots Series](#the-robots-series)
+      - [The Solar Cycle](#the-solar-cycle)
+      - [Vampire Diaries](#vampire-diaries)
+      - [War and Peace](#war-and-peace)
+      - [Warhammer 40k](#warhammer-40k)
+      - [Warrior Cats](#warrior-cats)
+      - [Wheel of Time](#wheel-of-time)
+      - [The Witcher](#the-witcher)
+    - [Non-Fiction](#non-fiction)
+      - [Art of War](#art-of-war)
+    - [Visual Novel](#visual-novel)
+      - [Fate/stay ataraxia](#fatestay-ataraxia)
+      - [Fate/Zero](#fatezero)
+      - [Steins;Gate](#steinsgate)
+      - [Tales of Androgyny](#tales-of-androgyny)
+    - [Light Novel](#light-novel)
+      - [Beginning After The End](#beginning-after-the-end)
+      - [Fantasies](#fantasies)
+      - [Goblin Slayer](#goblin-slayer)
+      - [Highschool DxD (1-10)](#highschool-dxd-1-10)
+      - [Highschool DxD (1-21)](#highschool-dxd-1-21)
+      - [KonoSuba](#konosuba)
+        - [KonoSuba (1-14)](#konosuba-1-14)
+      - [Monotogari](#monotogari)
+      - [Overlord (1-13)](#overlord-1-13)
+      - [Overlord (1-14)](#overlord-1-14)
+      - [Slime](#slime)
+    - [Text Game](#text-game)
+      - [Corruption of Champions](#corruption-of-champions)
+      - [Corruption of Champions 2](#corruption-of-champions-2)
+      - [Paraphore](#paraphore)
+      - [Trials in Tainted Space](#trials-in-tainted-space)
+    - [Web Fiction](#web-fiction)
+      - [Code Lyoko](#code-lyoko)
+      - [A Dragon Ranch in Suburbia](#a-dragon-ranch-in-suburbia)
+      - [Harry Potter of Our Own](#harry-potter-of-our-own)
+      - [Homestuck](#homestuck)
+      - [Jake and Amir](#jake-and-amir)
+      - [Pack Street](#pack-street)
+      - [Pinwheel](#pinwheel)
+      - [Sex and Marmota Nights](#sex-and-marmota-nights)
+      - [A Sexy Day in Suburbia](#a-sexy-day-in-suburbia)
+      - [Trial By Tenderness](#trial-by-tenderness)
+      - [Welcome to Night Vale](#welcome-to-night-vale)
+      - [Worm](#worm)
+  - [Utilities](#utilities)
+    - [Advertisements](#advertisements)
+    - [The Club](#the-club)
+    - [Director View](#director-view)
+    - [DND Monster Generator](#dnd-monster-generator)
+    - [Math](#math)
+    - [Pokédex](#pokédex)
+    - [Python](#python)
+    - [Sentiments and Summaries](#sentiments-and-summaries)
+    - [World Generator](#world-generator)
+    - [Yōkai](#yōkai)
 
 ***
+
 ## Modules
 
 - [Table of Contents](#table-of-contents) - *Complete outline of all modules.*
@@ -311,6 +324,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 ***
 
 ### [Writers](#modules)
+
 {: .center}
 
 - [Published Authors](#published-authors) - *Authors whose works have been physically published in the form of books.*
@@ -501,16 +515,16 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 *I've been testing it with CC, Best Guess, and Experimental Moth and so far it seems to cover all topics pretty well imo. Especially the more debauched ones, which was my primary objective.*
 
 > Gwen felt her stomach flip, her face flush as her breasts swelled with her arousal. With her spider-sense screaming bloody murder, Gwen's mind flashed back to the dogs' earlier display of aggression. They were clearly not going to play nice. Gwen knew her only choice was to fight her way free of her predicament, but her body betrayed her as her legs wobbled and her knees buckled in surrender.
-> 
+>
 > The pack surrounded her, jostling her with their musk as her bodysuit became soiled with their drool and cum. The stench of the feral animals filled her nostrils as they rubbed their cocks all over her body, smearing their foul bodily fluids on every inch of exposed skin. Their hot, rancid breath washed her in waves of putridity as they sniffed her crotch and her armpits, their tongues slithering across her thighs and up her inner arms. Gwen's heart raced as her bodysuit became soaked with their excretions, her senses overwhelmed by the sheer volume of their pheromones.
-> 
+>
 > Gwen felt her pussy moisten as she realized her nipples were tingling, her panties becoming saturated with her own juices as the animals pressed their roving cocks against her bare chest, their dicks surging with the desire for breeding. She was now trapped in a nightmare of her worst fears, the dogs running her down until they had her on the ground, their massive bodies pinning her down as they surged closer and closer, their cocks dripping pre-cum onto her bodysuit, their filthy paws pawing at her tits and cunt. Gwen's eyes grew distant as she pondered her fate, her body betraying her as her fingers dug into the pavement, her waist bending backward as her ass rose off the ground.
 
 > The Klithian smiled cruelly as you stared blankly in response to your captor. The reptile's long snout curled upward as the digits of one of her hands traced a line along the length of your shaft through your pants. Your hips twitched as an involuntary moan escaped your lips.
 >She chuckled again, "I can see you yearn for my touch. Perhaps I should show you just what you've been missing..."
 >
 > With a flick of the wrist the captain tossed aside your clothes, revealing a pair of pale white legs and a toned, muscular torso. As the garment fell to the floor the Klithian's eyes widened and she leaned in, pressing a soft and warm kiss to the side of your neck. The sensation was electric as the reptilian tongue flicked out to taste your flesh. The two-handed grip on your neck tightened as the Klithian pressed herself against you. The fingers of her other hand dug deep into your ass, squeezing tightly as they glided up your spine, past your shoulders, and across your scalp. Your head lolled backward as the beast feasted on the tender meat of your neck, licking and sucking with a hunger that matched yours.
-> 
+>
 > Your vision blurred as the Klithian's tongue invaded your mouth, forcing you to submit and accept its caresses. You moaned into its embrace, the alien's slimy appendage stroking and probing your eager throat. The feeling of helplessness was overwhelming, the sudden desire to be dominated almost too much for you to handle. The reptilian's constricting grasp on your neck was the only thing keeping you from surrendering completely to her. The scent emanating from her loins filled your nostrils and drove you wild – a musky aroma that was intoxicating.
 
 ###### [Slutty](https://files.catbox.moe/l97u6x.module)
@@ -523,6 +537,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 ***
 
 ### [Themes](#modules)
+
 {: .center}
 
 - [Setting](#setting) - *The module encompasses an entire environment.*
@@ -829,6 +844,22 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 - *Special Friendships by Roger Peyrefitte*
 - *The Bone Clocks by David Mitchell (edited to just the Hugo Lamb scenes)*
 
+##### [Underune](https://files.catbox.moe/hxmtn1.module)
+
+[by Peco4188](https://discord.com/channels/836774308772446268/870449646391156776/902285787561873509)
+
+A.K.A "Toby Fox Module"
+
+*A module trained on modified text dumps of Undertale and Deltarune (chapter 1+2).*
+
+*Works fairly well, however somewhat centric to the main character of Deltarune (Kris) because of the game's usage of his name in it's dialogue.*
+
+*Defo would work better with more context and lorebook info, however for now I am just sharing what I have made so far.*
+
+> You fall down Mt.Ebott, with a bed of yellow flowers cushioning your fall, probably saving your life. You get up and walk deeper into the cave, where you see a monster; a
+
+*1200~ steps trained on around 900kb~ of text; Average Loss: 2.8902; Last Loss: 2.8563*
+
 ##### [Feudal Japan](https://files.catbox.moe/quvngg.module)
 
 [by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/883971016525754380)
@@ -1027,24 +1058,22 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 *Now with some tags, Style and settings: [ Settings: Atompunk, Gangster, western ] [Tags: Fallout, New California, Atompunk ] [ Style: Creative, Descriptive, Purple prose ]*
 
 > **\*\*\***
-> 
+>
 > The sun was just coming up over the mountains to the east when I saw it. The sky was clear and blue with a few wispy clouds floating lazily along. There were birds singing in the trees all around me, but they sounded more like children's voices than anything else.
 
 > **The Enclave is** a religious organization dedicated to the eradication of all non-humans. It was formed by former Vault dwellers who had become disillusioned with their former masters and wanted to create an enclave where they could live in peace. The Enclave's main base of operations is located in the Mojave Wasteland, but it also has outposts in other parts of the United States and even abroad.
 > The Enclave is headed by Colonel William Miles "Mad Dog" Collier, who commands his own private army, the Gray Death Legion
 
-
-
 > **\*\*\***
 >
 > "The Great War was the last great war of mankind, and it ended with the death of every human on Earth. The Great War was fought between all three major factions in 2159: the NCR, Legion, and Brotherhood. All were destroyed or nearly so. It is said that the only survivors are those who live underground."
-> 
+>
 > After a nuclear holocaust, most of North America was under a mile-thick layer of ash and debris.
 
 >**I am Metzger, the Slaver's Guild**master. I welcome you to the Vault of Sorrows and hope that your visit will be as pleasant as possible. The slavers who live here are dedicated to their work and have no time for frivolity or idle chatter. If you wish to see them, come to me directly; if not, please enjoy our facility and its many amenities.
 >
 > \* \* \*
-> 
+>
 > The Vault of Sorrows is a subterranean complex located deep beneath the city of New Reno.
 
 ##### [Norse](https://files.catbox.moe/5mspfr.module)
@@ -1110,10 +1139,10 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 *I've deleted chapter breaks, paragraph breaks, author notes, commentary, and copyright info.*
 
 > The cave was cool and damp, the floor littered with leaves. It smelled of dead wood, but there were other odors as well: smoke from a fire, an animal's musk, old sweat, urine. The walls glistened with moisture. A few drops fell on her face as she stood in the entrance. She brushed them away impatiently. Her heart pounded and her breath came fast. Why had she come here? She didn't know. She just knew that when she saw it, she would have to go inside.
-> 
+>
 > She looked around at the familiar surroundings again, then stepped forward into the dark space. It was large enough for two or three people to stand side by side, though only one could comfortably walk through it. She noticed some differences; the smell of smoke wasn't so strong anymore. There was also a faint odor of fresh water nearby. She moved slowly toward the back wall, feeling her way along the rough stone. The cave seemed much larger now than before, and the air was warmer. When she reached the back wall, she stopped, still not sure what to do next.
-> 
-> Then she heard something. A soft rustling sound. It grew louder and closer until she recognized the distinctive footfalls of a small creature padding softly across the floor behind her. She turned quickly, expecting to see another animal, perhaps a fox or a wolf. 
+>
+> Then she heard something. A soft rustling sound. It grew louder and closer until she recognized the distinctive footfalls of a small creature padding softly across the floor behind her. She turned quickly, expecting to see another animal, perhaps a fox or a wolf.
 
 ##### [Russian Fantasy and Folklore](https://files.catbox.moe/08g7lc.module)
 
@@ -1191,11 +1220,11 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 - A Small collection of Original Trilogy + Rogue One romantic fanfiction to add contextual awareness for mature themes.
 
 > "Only Imperial soldiers have access to this kind of equipment," Luke said. "That was no blaster bolt you saw coming at your head."
-> 
+>
 > Han frowned. It was true; the stunner had been one of those old-fashioned nonlethal models, its charge fully spent when it hit the wall beside the door.
-> 
+>
 > "So what do we do?" Leia asked.
-> 
+>
 > Luke shrugged. "We go in and get him out," he said. "If that's all right with you, Han."
 >
 > Han looked at his friend. He didn't like the idea much himself, but there wasn't anything else they could do. Not without making themselves a target for the whole roomful of stormtroopers. "Sure," he agreed. "Let's do it."
@@ -1203,21 +1232,21 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 > The door slid open as they approached, revealing another corridor identical to the one outside. They walked down it toward the sound of voices echoing from somewhere ahead. "I don't see any guards," Han muttered.
 >
 > "They're probably waiting for us on the other side of that door," Luke pointed out. "Come on."
-> 
+>
 > Han reached for his blaster. Luke reached for his saber. Leia just held her breath.
-> 
+>
 > But the voice that came through the door was a familiar one. "Luke!" Chewbacca roared. "You're alive! I knew you'd make it back."
-> 
+>
 > "Hello, Wookiee," Luke called back. "What's he saying?"
-> 
+>
 > "He says to tell you he loves you," Leia translated.
-> 
+>
 > "Oh, yeah?" Han growled. "Well, I love him, too."
-> 
+>
 > Chewbacca laughed. "I know you do," he said. "I can hear it in your voice."
-> 
+>
 > "Okay, okay," Han grumbled. "All right, let's move."
-> 
+>
 > They crossed the threshold into the cell block and headed straight for the door at the far end. A group of stormtroopers were standing guard over it, their weapons drawn. But as soon as they spotted Luke and his companions, they lowered them. "Welcome back, Master Skywalker," one of them greeted him. "We've been expecting you."
 
 ##### [Star Wars: Prequel Trilogy](https://files.catbox.moe/yvatuv.module)
@@ -1229,6 +1258,7 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 *I've removed chapter breaks, paragraph breaks, author notes, commentary, and copyright info.*
 
 *Books Used:*
+
 - *Ahsoka*
 - *Tarkin*
 - *The Clone Wars 1, The Clone Wars Wild Space, The Clone Wars No Prisoners*
@@ -1238,13 +1268,13 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 - *Small collection of Clone Wars fanfiction*
 
 > **"This is where the fun begins."** For a moment Anakin thought Obi-Wan had heard him. Or maybe not? The sky was so low and black with his exhaust plumes that he could hardly hear over the ViiR thrumming of antigrav.
-> 
+>
 > He wasn't here to observe great strategy and play out vast sagas, either among allies or against enemies in this garish netherworld between sanity and insanity. But even though his patience was running thin, he owed Obi-Wan whatever shred of rationality, courtesy or understanding that Obi-Wan happened to believe, under the circumstances, might not be insulting right then.
-> 
+>
 > Behind him streaked half a dozen wreaths of platinum fire now, like explosive smoke trails in sunlight. A Mandalorian passed within one such roaring torrent behind.
-> 
+>
 > "Who the frack are you supposed to be?" he asked just because, somehow, he couldn't stay angry any more than any Force could rattle the commanding presence coiled into this man beside him. "and how d'you cheat blast meters with airships on full of velocity?"
-> 
+>
 > "flamesquench?" Kenobi suggested lightly.
 
 ##### [Touhou Project](https://files.catbox.moe/imyand.module)
@@ -1255,11 +1285,11 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 *Trained on 47.8 MB of various novels and fanfictions, using 18.4K steps.*
 
 > **On a clear day in Gensokyo,** the sun shines over Utsuta Shrine, which has an unusually large red torii gate at its entrance. At night, you can see stars twinkling through gaps between buildings on Hieda Street. There was once an old shrine near here dedicated to Amaterasu Ōmikami (the Goddess who created this world). But now there isn't any sign that anyone worshipped her anymore. For some reason, people living nearby have decided not to worship her either—and they've put up signs saying so all along the road leading into town. This used to make me wonder if maybe she'd gone back home or something...but I guess we don't really know what happens after death? Anyway, since the only things left behind were those signs, most folks just ignore them these days.
-> 
+>
 > The village itself consists mostly of farmhouses and other small wooden structures. Some houses even look like yurakucho -style homes built without using modern building techniques! Yet despite being relatively close together, none of their roofs ever leak because each house sits atop a stone pillar buried underground. The pillars aren't very wide though, so sometimes kids playing outside get stuck under one. That's why residents pretty much avoid going past the central plaza during festivals, where these giant piles of stones stand sentinel. They're called "stone columns" for obvious reasons. In fact, the whole area around the main roads is known as Stone Pillar District, while everything else is referred to simply as Old Town. It makes sense given how many temples, shrines and family owned businesses exist here, making it feel more like a real city than the neighboring villages.
 
 > **Kaguya and Mokou came flying at each other,** both taking great leaps over trees towards their opponent. The two girls were quite close now as they darted around one another like playful cats or dogs while occasionally giving little pokes from behind. Both made sure not to land any blows on the backside of either girl; for if they did it would be considered an attack against them- which was highly frowned upon by all three fairies. But neither seemed concerned about this rule. They fought hard enough that should have been impossible considering how fast they moved so far apart yet still managed to give occasional punches without landing. It looked more like dancing than actual combat between these two. In fact, I couldn't help but feel that there wasn't much real danger involved here... despite what happened next. Fortunately though, it didn't seem likely that anyone else saw it coming anyway. As soon as the last few sparks flew off into nothingness, however, my suspicions turned to certainty after seeing just who had won this battle: Kaguya! And she hadn't done anything particularly special to win. No spell-casting prowess, no fancy martial arts moves, no superhuman speed or strength. Just a simple trick up her sleeve: immortality.
-> 
+>
 > At some point during this whole thing (and most certainly before), Kaguya's body was slightly altered through means unknown - possibly due to being exposed to something weirdly powerful, maybe getting hit by lightning again, maybe having magic cast directly onto her? Whatever the case may be, when the dust settled and everything fell quiet once more, Kaguya stood triumphantly atop a small hillock surrounded by several fallen foes. Her victory celebration consisted mostly of laughing loudly whilst throwing dirt everywhere until finally falling asleep beneath a tree.
 
 ##### [Vampire: The Masquerade](https://files.catbox.moe/dy9gk2.module)
@@ -1294,15 +1324,15 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 - *Welcome to Hard Times – E.L. Doctorow 292 KB*
 
 > The road had been smooth for most of the day, but now it began to climb steeply into the mountains. The wind picked up speed and strength; clouds scudded across the sky like dark birds flying south. It was a storm coming. Charley knew that much. He could feel it in his bones.
-> 
+>
 > It was also snowing. A few flakes drifted down from the gray sky, tiny white stars drifting through the air. Charley felt a little better with every step he took. The cold was gone, replaced by an exhilarating sense of freedom. He walked with purpose, not looking back or forward, just walking and breathing.
-> 
+>
 > He had no idea where he was going. His only goal was to keep moving. There was no reason for him to stop anywhere else, except maybe to eat. And he didn't have any money anyway. He'd lost everything at the card table when he'd lost his last dollar. All he owned was the clothes on his back and the knife strapped to his leg.
-> 
+>
 > Charley was almost home free when he saw the sign: Welcome to Deadwood City!
-> 
+>
 > Deadwood City?
-> 
+>
 > He stopped in his tracks, feeling a chill run up his spine. He'd heard stories about this place, of course. Stories about how it was a lawless city, a haven for outlaws and murderers and other criminals.
 
 ##### [Western](https://files.catbox.moe/hlsm2x.zip)
@@ -1332,29 +1362,29 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 > "All right everyone," Professor Pepper says from behind me. "We're going to get started in just a moment."
 
 > After a few minutes of training, Vic left to get ready for her match. "I'm going to go shower and change," she said, getting up from her chair. She was about to walk out the door when Emmit stopped her.
-> 
+>
 > "You don't have to do that," he said, pointing at Vic's Poke-balls. "They're not like your Pokémon — they'll be fine."
-> 
+>
 > "It doesn't matter," she said. "I've been living with these creatures since I was four years old. They're my life."
-> 
+>
 > Vic walked over to the table where the Poke-balls were lined up next to each other. One of them was different from the others: it was a green ball with black lines around it. Vic picked it up and tossed it into her bag.
-> 
+>
 > "I'm bringing Banette with me anyway," she said, walking back towards the door. "She's my partner. She can take care of me if anything happens."
-> 
+>
 > Emmit nodded as Vic walked out of his room.
 
 > **Wandering through the tall grass,** I saw a group of three Pokémon standing around something in the middle. A small human boy stood beside them, holding out his hand as he pointed to one of the Pokémon. It was an Onix that looked like it had been digging up dirt and throwing rocks for fun. The other two were a pair of Pidgey, flapping their wings and squawking at each other.
-> 
+>
 > "Hello," I said as I approached them. "Do you mind if I take a look?"
 
 > **I hear a screech and suddenly a group of** four Hariyama are charging at me. I leap to the side, dodging their claws as they try to get around my left flank. I'm not sure what I can do against them with my own Pokémon but I don't have time to think about it now. They're fast, but not nearly as quick as my Arcanine. As one of the Hariyama gets close enough to attack, I order Arcanine to use its Quick Attack on him while I throw a Fire Stone in his direction. The Hariyama lets out an angry roar and leaps away from me.
-> 
+>
 >"That's two down!" I shout as I check my map for more enemies. "Let's keep going."
-> 
+>
 > We continue through the jungle until we reach another clearing where there is a small stream running across our path. There's a bridge that leads over the water and beyond it, I see the faint outline of a building surrounded by trees. It looks like a temple or something similar, but I can't be sure because the light is too dim to make anything out clearly.
-> 
+>
 > "Should we rest here?" I ask Treyni.
-> 
+>
 > She shakes her head. "No, we need to find the way inside before nightfall."
 
 *Note: These examples were done on an otherwise new vanilla scenario (default settings, no bias, lorebooks, or anything) however I do recommend using [Loki's Pokédex phrase bias](https://rentry.co/biases#pokedex) or an otherwise similar bias to help reinforce Pokémon appearance, etc.*
@@ -1743,15 +1773,15 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 - *"The Whisper Man" by Alex North.*
 
 > He knew he was in trouble. The detective's face had been calm, but there had been a look of triumph on his partner's face that made him think they'd found the right place to start looking for their missing boy. He hadn't wanted them here, and he didn't want to be found by them. It would mean questions about where he'd gone, who he'd seen, and what he might have told them.
-> 
+>
 > "I'm not going back," he said, trying to sound strong. "It's all over."
-> 
+>
 > The man was silent, just staring at him. He felt a hand touch his shoulder and looked up into the eyes of a woman standing behind him. She wore a dark blue dress with an open white blouse underneath. Her hair was long and blonde and hung down her back in loose curls. He wondered how old she was, but couldn't tell.
-> 
+>
 > She smiled at him, then stepped forward so that she stood directly in front of him. He could smell her perfume, and it made him feel dizzy. His heart began to beat faster.
-> 
+>
 > "We're not police officers," she said. "But we know people who are."
-> 
+>
 > Her voice sounded soft, like velvet. It reminded him of the first time he'd met her.
 
 ##### [Mormon](https://files.catbox.moe/j6ha0i.module)
@@ -1769,7 +1799,7 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 *3.26MBs trained for 5k steps (%131 data coverage)*
 
 > **The night** was dark and the storm still raging. The wind howled through the trees, which bent before it like reeds in a flood; and every now and then came a great clap of thunder that shook the old house to its foundations. It was very wild weather; but there were those who loved it well, for they felt themselves nearer Nature’s heart on such nights as these.
-> 
+>
 > Mr. Lorry sat with his friend in the little parlour of the Golden Cross, looking out into the darkness from time to time, with his head resting on his hand.
 
 ##### [Second Person](https://files.catbox.moe/2erchz.module)
@@ -1867,7 +1897,7 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 *10000 steps trained on ~6MB of text; Average Loss: 2.9358; Last Loss: 2.8924*
 
 > Dear America,
-> 
+>
 > Today I have learned that NO GOOD ALEC BALDWIN has committed MURDER. He was caught on a hot mic last night and he will soon be taken into custody. His crimes against the people of our country are as follows:  He is a murderer - for voting to allow illegal aliens to vote in this election! He is an open borders hypocrite who wants more foreign workers to take American jobs! He is a criminal - for supporting voter fraud by allowing non-citizens to vote! And he is a traitor - for working with Democrats to make it harder for Americans to vote!
 
 ##### [Twilight 2000 (Encounters)](https://files.catbox.moe/2jgr7s.module)
@@ -2401,7 +2431,6 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *Because of the small amount of data, I only used 200 steps for the first iteration. The second one with 500 steps certainly has a stronger effect.*
 
-
 ##### [Multiple Partners](https://files.catbox.moe/66nz91.module)
 
 [by Magenta.Darkstar (oh shit they're back)](https://discord.com/channels/854479693503660032/870494065446248458/891853043224690718)
@@ -2583,6 +2612,7 @@ Mostly male human x female pokemon, but there are a few in there that contain ma
 ***
 
 ### [Works](#modules)
+
 {: .center}
 
 - [Literature](#literature) - *In this context, a catch-all term for predominantly Western literature that has been published.*
@@ -2696,8 +2726,6 @@ A.K.A Green's Eagle Vision
 
 *I made a Dark Tower (by Stephen King) Module. It's based off the entire book series, properly reformatted for training purposes, so you shouldn't get any weird outputs. It also uses all 8K steps, which was overkill, but I don't have anything else I want to train this month, so fuck it.*
 
-
-
 ##### [Discworld](https://mega.nz/file/BHBW0TzQ#cXLsS9W29JNLT2pT5iw6y0E4LcCvd3Z4KslSUPtIexg)
 
 [by Anon](https://arch.b4k.co/vg/thread/345615202/#345643489)
@@ -2763,7 +2791,6 @@ A.K.A Green's Eagle Vision
 *From Wikipedia: Gor is the fictional setting for a series of sword and planet novels written by philosophy professor John Lange, writing as John Norman. The setting was first described in the 1966 novel Tarnsman of Gor. The series is inspired by science fantasy pulp fiction works by Edgar Rice Burroughs (such as the Barsoom series). It also includes erotica and philosophy content. The Gor series repeatedly depicts men abducting and physically and sexually brutalizing women, who grow to enjoy their submissive state. According to The Encyclopedia of Science Fiction, Norman's "sexual philosophy" is "widely detested", but the books have inspired a Gorean subculture.*
 
 *This is trained on the first seven books of John Norman’s Gorean saga as these are considered to be the “best”, such as it is. 5.6MB of cleaned up text, 3000 steps.*
-
 
 ##### [Gotrek and Felix](https://files.catbox.moe/8249bh.module)
 
@@ -2870,7 +2897,6 @@ Text looked like this:
 
 *Zionists, behold! Trained on 1734 steps.*
 
-
 ##### [Native American Myths and Legends](https://files.catbox.moe/rkas27.module)
 
 [by gprot](https://discord.com/channels/836774308772446268/870449646391156776/873705495540695061)
@@ -2896,7 +2922,6 @@ Text looked like this:
 *Join the adventures of two Abhorsens, Sabriel and Lirael as they figure out life, love and zombies.*
 
 *Includes: Sabriel, Lirael, Abhorsen and The Creature in the Cage.*
-
 
 ##### [Oz](https://files.catbox.moe/6xvbye.module)
 
@@ -2991,7 +3016,6 @@ Text looked like this:
 [by Jeff Bezos](https://discord.com/channels/836774308772446268/870449646391156776/870472404982448198)
 
 *A module (4000 steps) based on the novel War and Peace by Leo Tolstoy, a Napoleonic War story about the hardships of war, the importance of family/relationships, and the general philosophies of Leo Tolstoy.*
-
 
 ##### [Warhammer 40k](https://files.catbox.moe/g0vjjy.module)
 
@@ -3096,37 +3120,37 @@ Text looked like this:
 [by DrYazman](https://discord.com/channels/836774308772446268/870449646391156776/899533379626729482)
 
 *This module was trained on the Fate series books. Specifically:*
+
 - Fate/Zero
 - Lord El-Melloi II Case Files
 - Fate ⁄ Labyrinth
 - Fate ⁄ Zero Another Story - Heart of Freaks
 - Fate ⁄ Requiem
-- Clock Tower 2015 
+- Clock Tower 2015
 
 *This module was trained by me on request of @rando who provided the books and did some basic cleaning. I also did some basic cleaning and used the Dumb Text Reformatter too, as well as some regex stuff.*
 
 *It was trained with approx ~3500 steps to 80%. Sorry, I'm a bit of a dumbass and forgot to make a note of specifically how many steps. But I have a loss graph!*
 
 > **Kiritsugu looked out the window as some crows flew around, making noise.**
-> 
+>
 > He was thinking of something quite different from a crow.
-> 
+>
 > The city below was shrouded in darkness. A thick fog spread over it, and only a few lights could be seen. The light of those few lamps seemed to shine through the heavy mist, but they were still far away from each other. It was like looking at an old photograph with the focus not right - everything seemed blurry.
-> 
+>
 > "I don't really know how to describe this feeling..."
-> 
+>
 > He had been here before, when he came to rescue El-Melloi's corpse. But then, that time it wasn't night; there was sunlight all around him. Now, however...
-> 
+>
 > There was no sunlight. There was just mist. No matter what direction Kiritsugu looked, the scenery didn't change. It felt as if he was trapped in some kind of hellish world.
-> 
+>
 > In the end, even I can't stand this place...he thought.
-> 
+>
 > Even though his body was wrapped in a black coat, Kiritsugu couldn't hide the fact that he was trembling. The mist covered his entire body, making it hard for him to breathe. His skin prickled from cold, and sweat ran down his forehead.
-> 
+>
 > This is bad.
-> 
+>
 > He should have never come here.
-
 
 ##### [Steins;Gate](https://files.catbox.moe/6qq459.module)
 
@@ -3221,22 +3245,20 @@ Text looked like this:
 *8000 (~163%) steps on volumes 1~17 of Konosuba's light novels. Done with epub2txt2 and the formatting tool in the OP to remove double linebreaks. There are probably a few quirks to fix in the original text: I removed anything like table of contents and any afterwords, but a few other things may have slipped past. It was a rush since my sub renews tonight. Do not abuse goddesses and chuunis.*
 
 > “… Ahhh, I can hear the sound of a wind blowing through the grass. This is the forest at night…! It’s so dark in here that I can barely see anything…! What should we do? Should we go back to town and
-> 
+>
 > report this incident to someone? Or perhaps…!”
-> 
+>
 > The woman who was about to be eaten by the darkness suddenly started muttering to herself.
 
-
 > **The cabbage bleated and tried, unsuccessfully, to flap away.**
-> 
+>
 > “…! I see…! This is the smell of a goddess! A goddess has come down from heaven! My god will be so happy!”
-> 
+>
 > Aqua turned around with her arms crossed in front of her chest and said:
-> 
+>
 > “You want to do this? Go ahead then. I won’t stop you. If it’s for my sake, I can even let you touch me.”
-> 
+>
 > She looked like she was about to cry at the thought of not being able to hold back anymore.
-
 
 ###### [KonoSuba (1-14)](https://files.catbox.moe/zcz93v.module)
 
@@ -3249,17 +3271,17 @@ Text looked like this:
 *The files were converted with Calibre, then cleaned under the Datasetting Guide with Gnurro's FineTuneReformatter and Zermelane's 'Dumb Reformatter.' Many thanks to DrYazman for generously donating their steps.*
 
 > **The cabbage bleated and tried, unsuccessfully, to flap away.**
-> 
+>
 > I couldn't help but smile at the sight of it flailing about like a chicken that had been mistaken for a rabbit.
-> 
+>
 > "I think this one is ready," Megumin said, bringing her hand down on the cabbage's head.
-> 
+>
 > It looked so fluffy! It was such a cute little vegetable, with its round face and big eyes—and yet it was so stubborn!
-> 
+>
 > "You have to be gentle when you cut vegetables, Kazuma." Darkness, who had just finished cutting up some tomatoes, smiled as she spoke. "Otherwise they'll get all mushy from your rough handling."
-> 
+>
 > "Yeah, yeah, I know how to handle them. But hey, what's wrong with being a bit rough? This thing's trying to fight back!"
-> 
+>
 > Megumin, who was still holding the cabbage in both hands, gave me an exasperated look. "That's why we need to be gentle, Kazuma."
 
 ##### [Monotogari](https://files.catbox.moe/kpjp7m.module)
@@ -3335,7 +3357,6 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 
 *9.7k Steps, 100% coverage*
 
-
 ***
 
 #### [Web Fiction](#works)
@@ -3383,31 +3404,30 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 *A model trained on all available scripts from the Collegehumor webseries Jake and Amir. Module was trained on transcripts formatted as scripts, with character's names in ALL CAPS and (scene direction in parentheses).*
 
 > Jake: I have no idea what that means.
-> 
+>
 > Amir: (laughing) Oh, you don't know?
-> 
+>
 > Jake: No!
-> 
+>
 > Amir: Alright.
-> 
+>
 > (The camera pans down to the top of Amir's head.)
-> 
+>
 > Amir: See? It says "Don't Fuck With Me."
 
 > **(Jake and Amir sit together on a couch)**
-> 
+>
 > JAKE: So, I've been thinking about this for like a week.
-> 
+>
 > AMIR: What?
-> 
+>
 > JAKE: You know what. Like... I mean, it's like the worst thing that could happen to me.
-> 
+>
 > AMIR: Really?
-> 
+>
 > JAKE: Yeah. It's really bad. And you're not gonna believe how bad it is.
-> 
+>
 > AMIR: Okay, but before we get into that... How do you feel about sex with your sister?
-
 
 ##### [Pack Street](https://files.catbox.moe/gjqsyh.module)
 
@@ -3440,7 +3460,6 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 - *Firebrand*
 - *Tepin's Muse (Het & Gay Ver.)*
 - *The Rask Rebellion*
-
 
 ##### [Sex and Marmota Nights](https://files.catbox.moe/5fxj3v.module)
 
@@ -3483,9 +3502,16 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 >
 >And so here we are. We must assume these men are dangerous and that this is an emergency situation. In fact, I am going to call them back right now. Listen carefully because you may not get another chance. Hello? Are you still there? Yes, hello again listeners. This is Cecil. It's good to hear your voice. Let me start by saying, don't worry about anything. Everything will work itself out. Now listen closely. These men are following me. They're driving around behind me in a silver sedan. If you look over towards where I'm standing, you'll notice they've parked directly across the street from me. They've been tailing me ever since I left home earlier today. Just like I said, everything will turn out alright.
 
+##### [Worm](https://files.catbox.moe/q9cin8.module)
+
+[by Somdudewillson](https://discord.com/channels/836774308772446268/870449646391156776/902351613879001109)
+
+*A remake of my earlier module made from Wildbow's web serial Worm, but this time with 100% coverage using ~10.6k steps.*
+
 ***
 
 ### [Utilities](#modules)
+
 {: .center}
 
 #### [Advertisements](https://files.catbox.moe/ve8atp.module)
@@ -3519,35 +3545,35 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 
 *The format for use is:*
 
-	[ Prompt: <Something neat happens> ]
-	<prompt response>
+ [ Prompt: <Something neat happens> ]
+ <prompt response>
 
 *This can be used in two different ways. The first is when starting a new story you can direct the scene. The second is when you are in the middle of a story you can provide direction for the AI.*
 
 *For example:*
 
-	They were not the only ones looking for a way out of the Inner Sphere. Skye had seen similar ships pass through the system before. There was a steady stream of them coming and going. Some were filled with refugees, others were full of contraband. They all looked for ways to leave the Inner Sphere.
-	The captain came down to check on the passengers. He was a man named Phezzan. Skye thought he looked like a typical mercenary. His face was hard and expressionless. 
-	[ Prompt: Skye needs to blend in with the other passengers. ]
-	Skye stood up and walked over to the captain. She smiled at him and said, "I'm sorry, but I need to use your bathroom."
-	Phezzan nodded and gestured to the door. Skye went into the small room and closed the door behind her. She turned around and saw that the door was locked. She reached into her pocket and pulled out a small device. She pressed a button on the side and the lock clicked open.
-	Skye opened the door and stepped outside.
+ They were not the only ones looking for a way out of the Inner Sphere. Skye had seen similar ships pass through the system before. There was a steady stream of them coming and going. Some were filled with refugees, others were full of contraband. They all looked for ways to leave the Inner Sphere.
+ The captain came down to check on the passengers. He was a man named Phezzan. Skye thought he looked like a typical mercenary. His face was hard and expressionless.
+ [ Prompt: Skye needs to blend in with the other passengers. ]
+ Skye stood up and walked over to the captain. She smiled at him and said, "I'm sorry, but I need to use your bathroom."
+ Phezzan nodded and gestured to the door. Skye went into the small room and closed the door behind her. She turned around and saw that the door was locked. She reached into her pocket and pulled out a small device. She pressed a button on the side and the lock clicked open.
+ Skye opened the door and stepped outside.
 
 *Make sure to provide appropriate context switching with the prompt. If you are intending to have a new scene I recommend.*
 
-	***
-	[ Prompt: <intended scene> ]
+ ***
+ [ Prompt: <intended scene> ]
 
 *It can be combined with Scene and Scenario for stronger direction.*
 
-	***
-	[ Scene: In the cargo hold of the  Lyran freighter. ]
-	[ Scenario: Skye needs to blend in with the other passengers. ]
-	[ Prompt: Aboard the spacecraft Skye socially manipulates her wat to the bridge. ]
-	Skye was a tall woman, but she was still shorter than most of the other passengers. She wore a black jumpsuit and a pair of dark sunglasses. Her hair was short and blonde. She had a small nose and a thin mouth. She had a very pale complexion.
-	She walked up to the captain and said, "Excuse me, sir. I'm looking for a place to hide."
-	The captain looked at her suspiciously. "What do you want?"
-	"I need to hide," Skye repeated.
+ ***
+ [ Scene: In the cargo hold of the  Lyran freighter. ]
+ [ Scenario: Skye needs to blend in with the other passengers. ]
+ [ Prompt: Aboard the spacecraft Skye socially manipulates her wat to the bridge. ]
+ Skye was a tall woman, but she was still shorter than most of the other passengers. She wore a black jumpsuit and a pair of dark sunglasses. Her hair was short and blonde. She had a small nose and a thin mouth. She had a very pale complexion.
+ She walked up to the captain and said, "Excuse me, sir. I'm looking for a place to hide."
+ The captain looked at her suspiciously. "What do you want?"
+ "I need to hide," Skye repeated.
 
 *The strongest measurable effect I can see from doing this is that when you enter Prompt: it doesn't treat the text as having been "written". So without this module Prompt: A bomb goes off. may respond with something like The sound of the explosion rocked my ears thus assuming that A bomb goes off was part of the text. Using this module shouldn't do that.*
 
@@ -3577,7 +3603,7 @@ Use Example:
 >
 > Lore: The only thing that can stop this man is another man."
 
-#### [Math]()
+#### [Math]
 
 [Decimal](https://files.catbox.moe/53vgto.module)
 
@@ -3629,29 +3655,28 @@ Use Example:
 
 *The training text includes annotated versions of:*
 
- - Future Feeling by Joss Lake
- - This Is How It Always Is by Laurie Frankel
- - Trans-Galactic Bike Ride_Feminist Bicycle Science Fiction Stories of Transgender and Nonbinary Adventurers by various authors
- - Antikythera - Shears
- - Harry Potter and the Methods of Rationality by Eliezer Yudkowsky
- - Luminosity by Alicorn
- - Radiance
- - Salammbo by Gustave Flaubert
- - Scientist's Thesis - Rationalising Death
- - Sophronius - The Need to Become Stronger
- - Three Worlds Collide by Eliezer Yudkowsky
- - WhatWouldEnderDo - r Animorphs The Reckoning
- - Short stories by alexanderwales
- - Tales of Space and Time by HG Wells
- - The King of Elfland's Daughter by Lord Dunsany
- - A Tale of Two Cities by Charles Dickens
- - Alice's Adventures in Wonderland by Lewis Carroll
- - Riders of the Purple Sage by Zane Grey
- - The Book of Wonder by Lord Dunsany
- - The Dunwich Horror by HP Lovecraft
- - The Mysterious Affair at Styles by Agatha Christie
- - Oliver Twist by Charles Dickens
-
+- Future Feeling by Joss Lake
+- This Is How It Always Is by Laurie Frankel
+- Trans-Galactic Bike Ride_Feminist Bicycle Science Fiction Stories of Transgender and Nonbinary Adventurers by various authors
+- Antikythera - Shears
+- Harry Potter and the Methods of Rationality by Eliezer Yudkowsky
+- Luminosity by Alicorn
+- Radiance
+- Salammbo by Gustave Flaubert
+- Scientist's Thesis - Rationalising Death
+- Sophronius - The Need to Become Stronger
+- Three Worlds Collide by Eliezer Yudkowsky
+- WhatWouldEnderDo - r Animorphs The Reckoning
+- Short stories by alexanderwales
+- Tales of Space and Time by HG Wells
+- The King of Elfland's Daughter by Lord Dunsany
+- A Tale of Two Cities by Charles Dickens
+- Alice's Adventures in Wonderland by Lewis Carroll
+- Riders of the Purple Sage by Zane Grey
+- The Book of Wonder by Lord Dunsany
+- The Dunwich Horror by HP Lovecraft
+- The Mysterious Affair at Styles by Agatha Christie
+- Oliver Twist by Charles Dickens
 
 #### [World Generator](https://files.catbox.moe/zswaxs.module)
 
