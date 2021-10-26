@@ -11,7 +11,6 @@ permalink: /modules/
 </style>
 
 # The Rent-Free Module Repository
-
 {: .center}
 
 Well, looks like we've run out of space on the [rentry](https://rentry.co/modules).
@@ -324,7 +323,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 ***
 
 ### [Writers](#modules)
-
 {: .center}
 
 - [Published Authors](#published-authors) - *Authors whose works have been physically published in the form of books.*
@@ -537,7 +535,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 ***
 
 ### [Themes](#modules)
-
 {: .center}
 
 - [Setting](#setting) - *The module encompasses an entire environment.*
@@ -2612,7 +2609,6 @@ Mostly male human x female pokemon, but there are a few in there that contain ma
 ***
 
 ### [Works](#modules)
-
 {: .center}
 
 - [Literature](#literature) - *In this context, a catch-all term for predominantly Western literature that has been published.*
@@ -3511,7 +3507,6 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 ***
 
 ### [Utilities](#modules)
-
 {: .center}
 
 #### [Advertisements](https://files.catbox.moe/ve8atp.module)
