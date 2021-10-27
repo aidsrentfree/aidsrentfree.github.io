@@ -3650,28 +3650,28 @@ Use Example:
 
 *The training text includes annotated versions of:*
 
-- Future Feeling by Joss Lake
-- This Is How It Always Is by Laurie Frankel
-- Trans-Galactic Bike Ride_Feminist Bicycle Science Fiction Stories of Transgender and Nonbinary Adventurers by various authors
-- Antikythera - Shears
-- Harry Potter and the Methods of Rationality by Eliezer Yudkowsky
-- Luminosity by Alicorn
-- Radiance
-- Salammbo by Gustave Flaubert
-- Scientist's Thesis - Rationalising Death
-- Sophronius - The Need to Become Stronger
-- Three Worlds Collide by Eliezer Yudkowsky
-- WhatWouldEnderDo - r Animorphs The Reckoning
-- Short stories by alexanderwales
-- Tales of Space and Time by HG Wells
-- The King of Elfland's Daughter by Lord Dunsany
-- A Tale of Two Cities by Charles Dickens
-- Alice's Adventures in Wonderland by Lewis Carroll
-- Riders of the Purple Sage by Zane Grey
-- The Book of Wonder by Lord Dunsany
-- The Dunwich Horror by HP Lovecraft
-- The Mysterious Affair at Styles by Agatha Christie
-- Oliver Twist by Charles Dickens
+- *Future Feeling by Joss Lake*
+- *This Is How It Always Is by Laurie Frankel*
+- *Trans-Galactic Bike Ride_Feminist Bicycle Science Fiction Stories of Transgender and Nonbinary Adventurers by various authors*
+- *Antikythera - Shears*
+- *Harry Potter and the Methods of Rationality by Eliezer Yudkowsky*
+- *Luminosity by Alicorn*
+- *Radiance*
+- *Salammbo by Gustave Flaubert*
+- *Scientist's Thesis - Rationalising Death*
+- *Sophronius - The Need to Become Stronger*
+- *Three Worlds Collide by Eliezer Yudkowsky*
+- *WhatWouldEnderDo - r Animorphs The Reckoning*
+- *Short stories by alexanderwales*
+- *Tales of Space and Time by HG Wells*
+- *The King of Elfland's Daughter by Lord Dunsany*
+- *A Tale of Two Cities by Charles Dickens*
+- *Alice's Adventures in Wonderland by Lewis Carroll*
+- *Riders of the Purple Sage by Zane Grey*
+- *The Book of Wonder by Lord Dunsany*
+- *The Dunwich Horror by HP Lovecraft*
+- *The Mysterious Affair at Styles by Agatha Christie*
+- *Oliver Twist by Charles Dickens*
 
 #### [World Generator](https://files.catbox.moe/zswaxs.module)
 
@@ -3691,7 +3691,7 @@ Use Example:
 >
 >The Hunters are a people of the forest and their culture revolves around hunting. They believe that nature is sacred and should be respected at all times. Their society is based on tribalism with each tribe having its own territory to hunt in. The hunters have developed various ways to track down prey with sound such as using echolocation or by mimicking animal calls to lure them into traps.
 
-*Works most reliably at the start of a new scenario or on a newline after a dinkus ***. Try including some data encapsulated in brackets (as seen in the above examples) if you want to steer the generation in a specific direction.*
+*Works most reliably at the start of a new scenario or on a newline after a dinkus (\*\*\*). Try including some data encapsulated in brackets (as seen in the above examples) if you want to steer the generation in a specific direction.*
 
 *Recommended keywords are Type, Name, Input, Genre, Tags, Species, Size, and Setting, though feel free to experiment and try different things as I've surprised myself a few times by what was generated. This is especially the case when used in tandem with other generator modules like the Pokédex module*
 
