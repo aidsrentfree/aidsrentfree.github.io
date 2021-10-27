@@ -2339,7 +2339,7 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *Have fun in The City Anons.*
 
-##### Girl Thoughts
+#### Girl Thoughts
 
 [25%](https://files.catbox.moe/gb4qjk.module)
 
@@ -3318,7 +3318,7 @@ Text looked like this:
 >
 > She looked like she was about to cry at the thought of not being able to hold back anymore.
 
-##### [KonoSuba (1-14)](https://files.catbox.moe/zcz93v.module)
+#### [KonoSuba (1-14)](https://files.catbox.moe/zcz93v.module)
 
 [by Kitty](https://discord.com/channels/836774308772446268/870449646391156776/899276260797214740)
 
@@ -3660,7 +3660,7 @@ Use Example:
 >
 > Lore: The only thing that can stop this man is another man."
 
-#### Math
+### Math
 
 [Decimal](https://files.catbox.moe/53vgto.module)
 
