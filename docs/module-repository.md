@@ -3540,35 +3540,35 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 
 *The format for use is:*
 
- [ Prompt: <Something neat happens> ]
- <prompt response>
+    [ Prompt: <Something neat happens> ]
+    <prompt response>
 
 *This can be used in two different ways. The first is when starting a new story you can direct the scene. The second is when you are in the middle of a story you can provide direction for the AI.*
 
 *For example:*
 
- They were not the only ones looking for a way out of the Inner Sphere. Skye had seen similar ships pass through the system before. There was a steady stream of them coming and going. Some were filled with refugees, others were full of contraband. They all looked for ways to leave the Inner Sphere.
- The captain came down to check on the passengers. He was a man named Phezzan. Skye thought he looked like a typical mercenary. His face was hard and expressionless.
- [ Prompt: Skye needs to blend in with the other passengers. ]
- Skye stood up and walked over to the captain. She smiled at him and said, "I'm sorry, but I need to use your bathroom."
- Phezzan nodded and gestured to the door. Skye went into the small room and closed the door behind her. She turned around and saw that the door was locked. She reached into her pocket and pulled out a small device. She pressed a button on the side and the lock clicked open.
- Skye opened the door and stepped outside.
+    They were not the only ones looking for a way out of the Inner Sphere. Skye had seen similar ships pass through the system before. There was a steady stream of them coming and going. Some were filled with refugees, others were full of contraband. They all looked for ways to leave the Inner Sphere.
+    The captain came down to check on the passengers. He was a man named Phezzan. Skye thought he looked like a typical mercenary. His face was hard and expressionless.
+    [ Prompt: Skye needs to blend in with the other passengers. ]
+    Skye stood up and walked over to the captain. She smiled at him and said, "I'm sorry, but I need to use your bathroom."
+    Phezzan nodded and gestured to the door. Skye went into the small room and closed the door behind her. She turned around and saw that the door was locked. She reached into her pocket and pulled out a small device. She pressed a button on the side and the lock clicked open.
+    Skye opened the door and stepped outside.
 
 *Make sure to provide appropriate context switching with the prompt. If you are intending to have a new scene I recommend.*
 
- ***
- [ Prompt: <intended scene> ]
+    ***
+    [ Prompt: <intended scene> ]
 
 *It can be combined with Scene and Scenario for stronger direction.*
 
- ***
- [ Scene: In the cargo hold of the  Lyran freighter. ]
- [ Scenario: Skye needs to blend in with the other passengers. ]
- [ Prompt: Aboard the spacecraft Skye socially manipulates her wat to the bridge. ]
- Skye was a tall woman, but she was still shorter than most of the other passengers. She wore a black jumpsuit and a pair of dark sunglasses. Her hair was short and blonde. She had a small nose and a thin mouth. She had a very pale complexion.
- She walked up to the captain and said, "Excuse me, sir. I'm looking for a place to hide."
- The captain looked at her suspiciously. "What do you want?"
- "I need to hide," Skye repeated.
+    ***
+    [ Scene: In the cargo hold of the  Lyran freighter. ]
+    [ Scenario: Skye needs to blend in with the other passengers. ]
+    [ Prompt: Aboard the spacecraft Skye socially manipulates her wat to the bridge. ]
+    Skye was a tall woman, but she was still shorter than most of the other passengers. She wore a black jumpsuit and a pair of dark sunglasses. Her hair was short and blonde. She had a small nose and a thin mouth. She had a very pale complexion.
+    She walked up to the captain and said, "Excuse me, sir. I'm looking for a place to hide."
+    The captain looked at her suspiciously. "What do you want?"
+    "I need to hide," Skye repeated.
 
 *The strongest measurable effect I can see from doing this is that when you enter Prompt: it doesn't treat the text as having been "written". So without this module Prompt: A bomb goes off. may respond with something like The sound of the explosion rocked my ears thus assuming that A bomb goes off was part of the text. Using this module shouldn't do that.*
 
