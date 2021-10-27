@@ -26,6 +26,8 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+- Added [101 Noir/Pulp Fiction Books (Hard Case Crime Collection)](#noir) module
+- Added [Final Fantasy XVI](#final-fantasy-xvi) module
 - Added [Undertale/Deltarune](#underune) module
 - Added [Worm](#worm) module
 - Added [Trump Tweets](#trump-tweets) module
@@ -87,6 +89,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Dark Academia](#dark-academia)
       - [Underune](#underune)
       - [Feudal Japan](#feudal-japan)
+      - [Final Fantasy XVI](#final-fantasy-xvi)
       - [Folk Fantasy](#folk-fantasy)
       - [Forgotten Realms](#forgotten-realms)
       - [Four Horsemen Universe](#four-horsemen-universe)
@@ -101,6 +104,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Middle-Earth](#middle-earth)
       - [My Little Pony: Friendship Extended](#my-little-pony-friendship-extended)
       - [New California](#new-california)
+      - [Noir](#noir)
       - [Norse](#norse)
       - [Poetic Fantasy](#poetic-fantasy)
       - [Post-Apocalyptic Fallout](#post-apocalyptic-fallout)
@@ -871,6 +875,33 @@ A.K.A "Toby Fox Module"
 
 *It's a refinement and expansion of the earlier [Genroku Era](#genroku-era) module.*
 
+##### [Final Fantasy XVI](https://files.catbox.moe/dkm3wd.module)
+
+[by A message from Lord Nergal.](https://discord.com/channels/836774308772446268/870449646391156776/902647440493137921)
+
+*Module trained on a long fanfic + shorter fanfics + official stories.  You may want to ban some names/Fray/ascians if they end up appearing too much (they're from the long fanfic), or the word "miko" or "kami" if you're writing about miqo'te. Didn't test much. 4799 steps trained on 2400 steps.*
+
+(No lorebook or memory)
+> **"Praise the Twelve, I knew I could count on you!"** he cried, clasping his hands together in front of him. "I am not alone now! And we will see this through to its end - the end of all that is wrong with our world!"
+>
+> The others seemed equally pleased by this news; they had already begun discussing what to do next.
+> "You know," said Ba'nyan, looking up at the sky, "I've been thinking... What if we could somehow get a message out? To those who are still fighting the First?"
+>
+> "Yes!" cried one of the other Warriors. "We must tell them what's happened here - how the war has changed everything!"
+>
+> Ba'nyan looked down at the ground again, and shook his head. "No."
+>
+> "What?!" The Warrior was so shocked by this response that she nearly fell over backwards. "But-"
+>
+> "No," Ba'nyan repeated firmly.
+
+(With lorebook and memory)
+> "Praise the Twelve, I knew I could count on you!" U'lhafhal smiled as she watched her fellow hunters emerge from the darkness to greet her. She was a young woman with black hair and brown skin. Her eyes were so dark they seemed almost purple at night. The other members of the hunt group greeted her warmly, and she happily returned their greeting. "You've been waiting for me?"
+>
+> "We have," said one of them. He had red hair and pale blue eyes. His name was Riju. "We're glad you made it."
+>
+> "I'm sorry we kept you waiting," added another man, his hair silver-white and braided into two plaits that hung over his shoulders. This man's name was Gaius.
+
 ##### [Folk Fantasy](https://files.catbox.moe/nmcslr.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/346359371/#346361532)
@@ -1072,6 +1103,37 @@ A.K.A "Toby Fox Module"
 > \* \* \*
 >
 > The Vault of Sorrows is a subterranean complex located deep beneath the city of New Reno.
+
+##### [Noir](https://files.catbox.moe/naj62z.module)
+
+[by Kitty](https://discord.com/channels/836774308772446268/870449646391156776/902863090415173652)
+
+*Imagine dreary saxophone music, desolate streetlamps, and a lone figure walking through the drizzling rain. Noir fiction is Film noir's literary sister, and she portrays crime fiction in bleak hues of moral gray. Even the protagonists are deliciously flawed. Perhaps unsurprisingly, you will also find a lot of alcohol and an unhealthy fixation on cigarettes.*
+
+*This module was experimentally trained on 101 books from the Hard Case Crime series, comprising a selection of vintage noir paperbacks and modern novels. Its publisher's intent is to "recreate the flavor and setting of the paperback crime novels of the 1940s and '50s."*
+
+*The files were converted with Calibre and then cleaned under the Datasetting Guide.*
+
+*Notes: The effect of this module is very broad. Putting your desired tags in the Author's Notes, such as [ Tags: Crime Noir, Night, 1950s. ] should improve performance.*
+
+*Sources: (32.5mb, 10000 steps, 26.46% coverage, 2.61 loss)*
+
+> I could have made a call to the police and told them what had happened, but I knew it would do no good. They'd just come up with some story about how they'd been looking for me because of my record, and that would be that. And if I did go back to the police station and tell them that I'd seen her dead in a room at the hotel where she worked, then I'd probably end up in jail myself. There was no way around it; I had to take care of things myself.
+>
+> So I called the number on the card and waited until one of the girls answered. She asked me who I wanted to talk to, and I said it was Mr. MacFinn. Then I gave her my name and told her that I needed to speak with him right away.
+>
+> She said he wasn't there and that she didn't know when he'd be back.
+>
+> "Tell him it's Joe," I said.
+
+> "You're a lucky man, Johnny," the lieutenant said. "Your wife's one hell of a woman."
+>
+> Johnny nodded. "She is that." He had been afraid to ask about his mother, but he knew it was better not to mention her at all. The less said about her the better.
+>
+> He sat in the back seat of the police car and watched as they drove down Wilshire Boulevard toward downtown Los Angeles. He looked around him. There were several other men in the car with them, two detectives and an assistant district attorney. They seemed friendly enough. But Johnny didn't like being here. It made him feel dirty.
+>
+> The lieutenant saw where he was looking and turned his head to look out the window. "It won't be long now, Johnny. We'll get this over with and then you can go home."
+
 
 ##### [Norse](https://files.catbox.moe/5mspfr.module)
 
@@ -3598,7 +3660,7 @@ Use Example:
 >
 > Lore: The only thing that can stop this man is another man."
 
-#### [Math]
+#### Math
 
 [Decimal](https://files.catbox.moe/53vgto.module)
 
