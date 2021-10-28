@@ -53,6 +53,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - [Modules](#modules)
 - [Writers](#writers)
   - [Published Authors](#published-authors)
+    - [Carl Gustav Jung](#carl-gustav-jung)
     - [Charles Dickens](#charles-dickens)
     - [C. S. Lewis](#c-s-lewis)
     - [Franz Kafka](#franz-kafka)
