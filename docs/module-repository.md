@@ -26,6 +26,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+- Added [Carl Jung](#carl-gustav-jung) module
 - Added [101 Noir/Pulp Fiction Books (Hard Case Crime Collection)](#noir) module
 - Added [Final Fantasy XVI](#final-fantasy-xvi) module
 - Added [Undertale/Deltarune](#underune) module
@@ -335,6 +336,24 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 ***
 
 ### [Published Authors](#writers)
+
+#### [Carl Gustav Jung](https://anonfiles.com/Z8t7U7Q1u1/Carl_Jung_Seminar_Module_v1_module)
+
+[by](https://rentry.co/Jungshit) [Anon](https://arch.b4k.co/vg/thread/357586350/#357604959)
+
+*Here's the Jung module, I would have liked to test it more but life got in the way.*
+
+*Since it is trained mostly on data from his seminars (And the rest formatted to look like it is) your writing should follow a specific script format, which the AI works with quite well.*
+
+*I included [the seminar-like scenario](https://anonfiles.com/Z5s3U3Qdud/The_Seminar_scenario) I made to playtest it, no guarantee that it is optimal and fiddling is encouraged.*
+
+*Worst case in scenario Jung and the other people present will tell you they have no idea what the dream or vision you showed them means, a majority of the time they will shed some light on it but mostly ask you what you think, and some percentage of the time they will expand appropriately on the symbols. If you handhold it at first it works better.*
+
+*It also doesn't have to be about dreams at all, there's data for interpreting poems, aphorisms, intrusive thoughts, fetishes, and basically anything, though you might have to reformat the scenario to make it fit.*
+
+*I also included [the training data](https://anonfiles.com/V7qdU5Q6u5/Jung2_txt) in case you want to know the format to follow or whatever. The works included are in the module's description.*
+
+*Big thanks to OccultSage for his advice on data formatting and for training the module.*
 
 #### [Charles Dickens](https://files.catbox.moe/pq9lqe.module)
 
