@@ -11,6 +11,7 @@ permalink: /fridays/
 </style>
 
 # /aids/ Theme Event Fridays
+{: .center}
 
 Sorted in **descending** order of recency, this is a log of all of the theme Friday submissions, starting from mid May 2021. There was [a previous one](https://guide.aidg.club/Resources-And-Guides/aidg%20general/aidg-Fridays.html), but it seems to be kill, so I've created this one as a fresh start.
 {: .center}
@@ -161,8 +162,10 @@ There will be a knock at the door.
 {: .center}
 
 #### *Demonic Desire*
+{: .center}
 
 *<https://prompts.aidg.club/2500>*
+{: .center}
 
 ![](https://files.catbox.moe/u7yjzd.jpg)
 {: .center}
