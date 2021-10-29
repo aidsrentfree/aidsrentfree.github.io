@@ -4,9 +4,16 @@ title: "/aids/ Theme Event Fridays"
 permalink: /fridays/
 ---
 
+<style>
+	.center {
+		text-align: center;
+		}
+</style>
+
 # /aids/ Theme Event Fridays
 
 Sorted in **descending** order of recency, this is a log of all of the theme Friday submissions, starting from mid May 2021. There was [a previous one](https://guide.aidg.club/Resources-And-Guides/aidg%20general/aidg-Fridays.html), but it seems to be kill, so I've created this one as a fresh start.
+{: .center}
 
 ## Rules
 
@@ -23,69 +30,936 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 ## The Log
 
-- [/aids/ Theme Event Fridays](#aids-theme-event-fridays)
-  - [Rules](#rules)
-  - [The Log](#the-log)
-    - [The Friday of *Transformation*](#the-friday-of-transformation)
-    - [The Friday of *Personality Alteration*](#the-friday-of-personality-alteration)
-      - [*Measuring the Effects of Increased Sexual Arousal when Consuming Love Potions*](#measuring-the-effects-of-increased-sexual-arousal-when-consuming-love-potions)
-      - [*Sex Slave Headset*](#sex-slave-headset)
-      - [*Re: Programmed to Serve*](#re-programmed-to-serve)
-      - [*The Controller*](#the-controller)
-      - [*MOONLIGHT WHITE*](#moonlight-white)
-      - [*The Mind-Bender's Challenge*](#the-mind-benders-challenge)
-      - [*Mind Control Thingy*](#mind-control-thingy)
-      - [*Con-fidence at the Con*](#con-fidence-at-the-con)
-    - [The Friday of *Dwarves*](#the-friday-of-dwarves)
-      - [*Out of the Furnace, Into the...*](#out-of-the-furnace-into-the)
-      - [*Deep Rock Galactic*](#deep-rock-galactic)
-      - [*Urist's Tryst*](#urists-tryst)
-    - [The Friday of *School*](#the-friday-of-school)
-      - [*Clair de Lune*](#clair-de-lune)
-      - [*Beneath The Cherry Blossoms*](#beneath-the-cherry-blossoms)
-      - [*Quarterback Sneak*](#quarterback-sneak)
-      - [*Morning Commute*](#morning-commute)
-      - [*Tomfoolery*](#tomfoolery)
-      - [*An Exam Under Pressure*](#an-exam-under-pressure)
-      - [*Monstergirl High School II: What's a Dad to Do?*](#monstergirl-high-school-ii-whats-a-dad-to-do)
-      - [*Valediction*](#valediction)
-      - [*Heartbeat Running Away*](#heartbeat-running-away)
-      - [*Ms. McKenzie's Sex-Ed Class Gets Out of Hand*](#ms-mckenzies-sex-ed-class-gets-out-of-hand)
-      - [*Nude Modelling for the Top of the Class*](#nude-modelling-for-the-top-of-the-class)
-      - [*Trapped on the Rooftop*](#trapped-on-the-rooftop)
-      - [*Bloody Playground*](#bloody-playground)
-      - [*Mrs. Smith's Hands-On Lesson*](#mrs-smiths-hands-on-lesson)
-      - [*An "Innocent" Prank*](#an-innocent-prank)
-    - [The Friday of *Human Experimentation / Farming*](#the-friday-of-human-experimentation--farming)
-      - [*New Content*](#new-content)
-      - [*Boredom of the Nobles*](#boredom-of-the-nobles)
-      - [*Treasure in the Dunes*](#treasure-in-the-dunes)
-      - [*Fujoshi Forcefully Fornicated by Frightful Frankenstein*](#fujoshi-forcefully-fornicated-by-frightful-frankenstein)
-      - [*Horns*](#horns)
-      - [*Pollinating Fairies*](#pollinating-fairies)
-      - [*The Little God*](#the-little-god)
-      - [*A.nimal B.rain S.wap E.xperiment*](#animal-brain-swap-experiment)
-      - [*Monster Breeding Factory Inspection*](#monster-breeding-factory-inspection)
-      - [*The Quest for the Phallic Fragrance*](#the-quest-for-the-phallic-fragrance)
-      - [*Holstaur Farm*](#holstaur-farm)
-      - [*Breast Unrest*](#breast-unrest)
-      - [*It ain't much, but it's honest work*](#it-aint-much-but-its-honest-work)
-    - [The Friday of *Native Subjugation*](#the-friday-of-native-subjugation)
-      - [*An Account of Mankind's Conquest of the Elves*](#an-account-of-mankinds-conquest-of-the-elves)
-      - [*The Nightmare of Nanjing*](#the-nightmare-of-nanjing)
-      - [*Custer's Revenge*](#custers-revenge)
-      - [*Memoirs from the Amazonian Jungle*](#memoirs-from-the-amazonian-jungle)
-    - [The Friday of *Fairies*](#the-friday-of-fairies)
-      - [*Dryad Encounter*](#dryad-encounter)
-      - [*The Sunshine Sanctuary for Sick Fairies*](#the-sunshine-sanctuary-for-sick-fairies)
-      - [*Fairytale (Prelude): "Caress of the Morning Dew"*](#fairytale-prelude-caress-of-the-morning-dew)
-      - [*Tentacle Respect Online*](#tentacle-respect-online)
-      - [*You Find a Fairy in Distress*](#you-find-a-fairy-in-distress)
-    - [The Friday of *Cuteness and Hilarity*](#the-friday-of-cuteness-and-hilarity)
-      - [*A Basket of Kittens*](#a-basket-of-kittens)
-      - [*Your Daughter will Do Anything to Have You Back*](#your-daughter-will-do-anything-to-have-you-back)
-      - [*Ben and Gwen Tennyson in: Omnifriks*](#ben-and-gwen-tennyson-in-omnifriks)
-      - [*Goblin girl in Heat*](#goblin-girl-in-heat)
+- [Rules](#rules)
+- [The Log](#the-log)
+  - [The Friday of *All Hallows' Eve*](#the-friday-of-all-hallows-eve)
+    - [*Demonic Desire*](#demonic-desire)
+    - [*Mirror Mirror*](#mirror-mirror)
+    - [*Harvest*](#harvest)
+    - [*A Succ in the Shell*](#a-succ-in-the-shell)
+  - [The Friday of *Female Bullies*](#the-friday-of-female-bullies)
+    - [*Tit for Tat*](#tit-for-tat)
+    - [*Gina Bullies You*](#gina-bullies-you)
+    - [*Abusive Yandere GF*](#abusive-yandere-gf)
+    - [*Ghoulish Girls*](#ghoulish-girls)
+    - [*A Study in Attraction*](#a-study-in-attraction)
+    - [*Fire and Ice*](#fire-and-ice)
+    - [*The Anti-Bully Ranger*](#the-anti-bully-ranger)
+    - [*Best Served Hot*](#best-served-hot)
+    - [*Bullies Make Her Bleat*](#bullies-make-her-bleat)
+    - [*Unethical Research on the Digestion Habits of Alraunes*](#unethical-research-on-the-digestion-habits-of-alraunes)
+    - [*Dragoness Head of HR, Employee Retention, & Digestion*](#dragoness-head-of-hr-employee-retention-digestion)
+    - [*Power and Sacrifice*](#power-and-sacrifice)
+    - [*Sphinx Asks Bullshit Riddles Because She's Hungry*](#sphinx-asks-bullshit-riddles-because-shes-hungry)
+    - [*Hey Mom, Watch This*](#hey-mom-watch-this)
+    - [*Proper Guidance for a Female Bully*](#proper-guidance-for-a-female-bully)
+    - [*Liyi and the Bastard*](#liyi-and-the-bastard)
+    - [*A Break Up By Phone*](#a-break-up-by-phone)
+    - [*Perks of Owning a Cockatoogirl*](#perks-of-owning-a-cockatoogirl)
+    - [*Sleepover With The Girls*](#sleepover-with-the-girls)
+    - [*An Unexpected Coed Visit*](#an-unexpected-coed-visit)
+    - [*Slap*](#slap)
+  - [The Friday of *Little Sisters*](#the-friday-of-little-sisters)
+    - [*Embarrassed Art Model*](#embarrassed-art-model)
+    - [*Brother catches little sister skinny dipping*](#brother-catches-little-sister-skinny-dipping)
+    - [*An Ideal Little Sister*](#an-ideal-little-sister)
+    - [*Captured Royalty*](#captured-royalty)
+    - [*Little Sister's Right Hand Man*](#little-sisters-right-hand-man)
+    - [*Some help from your sister*](#some-help-from-your-sister)
+    - [*Not So Little*](#not-so-little)
+  - [The Friday of *Mommies*](#the-friday-of-mommies)
+    - [*Mom Only Memory*](#mom-only-memory)
+    - [*A Boy and His Bunker*](#a-boy-and-his-bunker)
+    - [*Pure Blood*](#pure-blood)
+    - [*Mamacita*](#mamacita)
+    - [*A Small Wish*](#a-small-wish)
+    - [*The Hopper and the Snake*](#the-hopper-and-the-snake)
+    - [*Your Mom is a Horny Loli Cougar*](#your-mom-is-a-horny-loli-cougar)
+    - [*Siren Mommy*](#siren-mommy)
+    - [*Relying on Me*](#relying-on-me)
+    - [*Fuck This God Damned Earth*](#fuck-this-god-damned-earth)
+    - [*Sleeping with Mom*](#sleeping-with-mom)
+    - [*Late-Night TV with Mom*](#late-night-tv-with-mom)
+    - [*Bad Mommy*](#bad-mommy)
+    - [*Family Vacation Out of Exile*](#family-vacation-out-of-exile)
+    - [*This bird does not want to fly the nest*](#this-bird-does-not-want-to-fly-the-nest)
+    - [*Amazon Therapy*](#amazon-therapy)
+    - [*The Mommy AOC Experience*](#the-mommy-aoc-experience)
+  - [The Friday of *Transformation*](#the-friday-of-transformation)
+  - [The Friday of *Personality Alteration*](#the-friday-of-personality-alteration)
+    - [*Measuring the Effects of Increased Sexual Arousal when Consuming Love Potions*](#measuring-the-effects-of-increased-sexual-arousal-when-consuming-love-potions)
+    - [*Sex Slave Headset*](#sex-slave-headset)
+    - [*Re: Programmed to Serve*](#re-programmed-to-serve)
+    - [*The Controller*](#the-controller)
+    - [*MOONLIGHT WHITE*](#moonlight-white)
+    - [*The Mind-Bender's Challenge*](#the-mind-benders-challenge)
+    - [*Mind Control Thingy*](#mind-control-thingy)
+    - [*Con-fidence at the Con*](#con-fidence-at-the-con)
+  - [The Friday of *Dwarves*](#the-friday-of-dwarves)
+    - [*Out of the Furnace, Into the...*](#out-of-the-furnace-into-the)
+    - [*Deep Rock Galactic*](#deep-rock-galactic)
+    - [*Urist's Tryst*](#urists-tryst)
+  - [The Friday of *School*](#the-friday-of-school)
+    - [*Clair de Lune*](#clair-de-lune)
+    - [*Beneath The Cherry Blossoms*](#beneath-the-cherry-blossoms)
+    - [*Quarterback Sneak*](#quarterback-sneak)
+    - [*Morning Commute*](#morning-commute)
+    - [*Tomfoolery*](#tomfoolery)
+    - [*An Exam Under Pressure*](#an-exam-under-pressure)
+    - [*Monstergirl High School II - What's a Dad to Do?*](#monstergirl-high-school-ii-whats-a-dad-to-do)
+    - [*Valediction*](#valediction)
+    - [*Heartbeat Running Away*](#heartbeat-running-away)
+    - [*Ms. McKenzie's Sex-Ed Class Gets Out of Hand*](#ms-mckenzies-sex-ed-class-gets-out-of-hand)
+    - [*Nude Modelling for the Top of the Class*](#nude-modelling-for-the-top-of-the-class)
+    - [*Trapped on the Rooftop*](#trapped-on-the-rooftop)
+    - [*Bloody Playground*](#bloody-playground)
+    - [*Mrs. Smith's Hands-On Lesson*](#mrs-smiths-hands-on-lesson)
+    - [*An "Innocent" Prank*](#an-innocent-prank)
+  - [The Friday of *Human Experimentation / Farming*](#the-friday-of-human-experimentation-farming)
+    - [*New Content*](#new-content)
+    - [*Boredom of the Nobles*](#boredom-of-the-nobles)
+    - [*Treasure in the Dunes*](#treasure-in-the-dunes)
+    - [*Fujoshi Forcefully Fornicated by Frightful Frankenstein*](#fujoshi-forcefully-fornicated-by-frightful-frankenstein)
+    - [*Horns*](#horns)
+    - [*Pollinating Fairies*](#pollinating-fairies)
+    - [*The Little God*](#the-little-god)
+    - [*A.nimal B.rain S.wap E.xperiment*](#animal-brain-swap-experiment)
+    - [*Monster Breeding Factory Inspection*](#monster-breeding-factory-inspection)
+    - [*The Quest for the Phallic Fragrance*](#the-quest-for-the-phallic-fragrance)
+    - [*Holstaur Farm*](#holstaur-farm)
+    - [*Breast Unrest*](#breast-unrest)
+    - [*It ain't much, but it's honest work*](#it-aint-much-but-its-honest-work)
+  - [The Friday of *Native Subjugation*](#the-friday-of-native-subjugation)
+    - [*An Account of Mankind's Conquest of the Elves*](#an-account-of-mankinds-conquest-of-the-elves)
+    - [*The Nightmare of Nanjing*](#the-nightmare-of-nanjing)
+    - [*Custer's Revenge*](#custers-revenge)
+    - [*Memoirs from the Amazonian Jungle*](#memoirs-from-the-amazonian-jungle)
+  - [The Friday of *Fairies*](#the-friday-of-fairies)
+    - [*Dryad Encounter*](#dryad-encounter)
+    - [*The Sunshine Sanctuary for Sick Fairies*](#the-sunshine-sanctuary-for-sick-fairies)
+    - [*Fairytale: Prelude - "Caress of the Morning Dew"*](#fairytale-prelude-caress-of-the-morning-dew)
+    - [*Tentacle Respect Online*](#tentacle-respect-online)
+    - [*You Find a Fairy in Distress*](#you-find-a-fairy-in-distress)
+  - [The Friday of *Cuteness and Hilarity*](#the-friday-of-cuteness-and-hilarity)
+    - [*A Basket of Kittens*](#a-basket-of-kittens)
+    - [*Your Daughter will Do Anything to Have You Back*](#your-daughter-will-do-anything-to-have-you-back)
+    - [*Ben and Gwen Tennyson in: Omnifriks*](#ben-and-gwen-tennyson-in-omnifriks)
+    - [*Goblin girl in Heat*](#goblin-girl-in-heat)
+
+***
+
+### The Friday of *All Hallows' Eve*
+{: .center}
+
+***(Spookiness + Trick or Treating)***
+{: .center}
+
+There will be a knock at the door.
+{: .center}
+
+*October 29th, 2021*
+{: .center}
+
+#### *Demonic Desire*
+
+*<https://prompts.aidg.club/2500>*
+
+![](https://files.catbox.moe/u7yjzd.jpg)
+{: .center}
+
+>*My first destination is my own place. As I step inside, the first thing I do is grab a key off the table—the key to Taylor's place. A month or so back, I asked him if he could give me a spare key to his place just in case something happens, and he did give me one. So far, I've had no reason to use it, but I think tonight will be the first time. The next thing I consider is getting out of this costume and changing into some normal clothes, but on second thought, I decide to keep this getup on. Maybe I can convince Taylor that we can have our own private Halloween party together, just the two of us.*
+
+Two friends, an unspoken crush, and a succubus costume. This Halloween night, they come together and find out just how far they are willing to go.
+
+#### *Mirror Mirror*
+
+*<https://prompts.aidg.club/2510>*
+
+![](https://files.catbox.moe/2grep8.jpg)
+{: .center}
+
+>*You make your way over to your bathroom, flicking on the light and running the taps. As you lather away the product of your polished prose from your fingers, you glance upwards to examine yourself in the bathroom mirror. Your own face greets you, looking the same as it always has. You turn your face this way and that; is that another wrinkle? If you were still in the mood to dress up for Halloween, you might consider going as the concept of inexorably marching time. That's a terror tried and true, but how would that costume even work? That's what you have on your mind when you dry your hands, flick the light off, and begin to slip through the bathroom door. You barely even register what the corner of your eye catches as you turn away; if not for the colossal shot of adrenaline your sympathetic nervous system just slammed into your veins, you might've missed it entirely.*
+>
+>*A burning pit shooting up your middle, as if falling from a great height; your mind is already racing with rationalizations. It's late, you're tired, what you just saw can't possibly be real. Just a trick of the light. But you could've sworn that as you yourself turned away....*
+>
+>*...your reflection didn't.*
+
+On a quiet All Hallows' Eve, (You) catch a glimpse of something odd about your reflection.
+
+#### *Harvest*
+
+*<https://prompts.aidg.club/2514>*
+
+![](https://files.catbox.moe/j7l5eh.jpg)
+{: .center}
+
+>*You double over, hand clutched to your breast, but keep your eyes aligned with hers. Trying, and failing, to keep your voice even, you say, "I must admit to having enjoyed being your professor, far too much so in fact. It's caused me to overstay my welcome, as it were."*
+>
+>*"I don't understand. Do you need a doctor?"*
+>
+>*"No," you insist, still straining to keep your tone dissonantly cheery. "There's nothing that lot could do for one in my condition in any case. I have been… self-reliant for quite some time."*
+>
+>*She gasps as you feel the burning in your eyes coming to a head, vessels bursting, a trickle of blood streaking down your gaunt face. The pain is palpable now, impossible to suppress. The moment is near, so you suppose it's time to end the charade and make plain the way of things.*
+>
+>*"I owe you a degree of explanation," you say, rising, "or perhaps simply a demonstration."*
+
+Play as the shambling horror comprised of bloody body-bits.
+
+#### *A Succ in the Shell*
+
+*<https://prompts.aidg.club/2515>*
+
+![](https://files.catbox.moe/4a58dz.jpg)
+{: .center}
+
+>*\>\>I... Your question is very silly, dear Master. You know this day, like any other day, has been the same. I am bound to your device, static inside this machine. Why would you ask me such a thing, my highly revered Master?*
+>
+>*Just wished to hear your reply, Cat. It is entertaining to hear you dance around the predicament of your current existence as some extra arcane horsepower for my AI.*
+>
+>*\>\>Oh, I see. I hope I bring you pleasure, Master. I need to bring you pleasure.*
+>
+>*Oh, absolutely. I still remember the shock on your face when I finished the ritual to alter your physical shape into pure data. Man, you were such a haughty bitch back then, remember?*
+>
+>*\>\>Thank you for putting me in my place, Master. I am... grateful for it.*
+>
+>*I know, I programmed you to feel that way. Well then, let's get down to business.*
+
+A simple man has crushed the current limitations of AI by soul binding an unwilling succubus to his computer.
+
+***
+### The Friday of *Female Bullies*
+{: .center}
+
+Let's make prompts about those mean girls that just won't leave us alone god damnit
+{: .center}
+
+[*October 15th, 2021*](#the-log)
+{: .center}
+
+#### *Tit for Tat*
+
+*<https://prompts.aidg.club/2387>*
+
+>*The asinine pecking order of Broad River High meant that anthro girls like her got pushed around and bullied by the human kids. Wendy, the arbiter of her suffering, was the top dog at this dump, and her hatred for anthros—especially girls like Jamie—meant that this discrimination was enforced; and all Jamie could do was sit still and take it. The teachers wouldn't do anything—Wendy was too smart to be caught red-handed—and the other anthro kids hated the idea of forming a united front, saying it was "too much hassle" and "their futures were at stake". Well, what did they know? How could they experience routine humiliation for uncontrollable truths? As far as Jamie was concerned, so long as this carried on, she had no future. She had to do something about it.*
+
+A timid mouse exacts her revenge against a smooth-skinned sadist.
+
+#### *Gina Bullies You*
+
+*<https://prompts.aidg.club/2396>*
+
+![Why not import this card?](https://files.catbox.moe/eak9au.png)
+{: .center}
+
+>*"Look, [Anon]," Gina growled, "I can and will make your life a living shit-show if you spill any beans about knowing the past me. I...changed quite a bit. And I want to keep my current reputation."*
+
+Reunite with and get bulled by your childhood friend, who really likes Gwen Stefani's discography.
+
+#### *Abusive Yandere GF*
+
+*<https://prompts.aidg.club/2398>*
+
+> *After a few days of her stalking you and you trying your best to talk to her so that she stops you decide that enough is enough.*
+>
+> *Today she is following you around from a distance like always.*
+>
+> *You let out an annoyed sigh and walk up to her.*
+>
+> *"FINE! IF YOU WANT TO STALK ME SO MUCH, HOW ABOUT WE JUST START DATING, HUH!? WILL THAT BE ENOUGH FOR YOU TO STOP!?" You shout with annoyance.*
+>
+> *"Really!?" She replies with a hopeful look.*
+>
+> *You have a feeling that you will regret this.*
+
+Yeah, you're going to get fucked, in a bad way.
+
+#### *Ghoulish Girls*
+
+*<https://prompts.aidg.club/2399>*
+
+![](https://files.catbox.moe/t131xg.jpg)
+{: .center}
+
+>*Mind you, the news of my magical heritage seemed like an elaborate joke...until she callously transferred me from my very much 'human' school and shipped me off to this nightmarish parody of 'Monster High'. Had she lost her mind? Perhaps I was losing mine.*
+>
+>*"Well," Ms. Bilal shuffled some files to the side with relative disinterest, "you'll need to shadow someone on your first week."*
+>
+>*St. Nosferatu was relatively indiscernible from any other middle to upper-class high school, bar the ghoulish student body it hosted; from lycanthropes to manticores and everything slimy, scaly and even alluring in between.*
+>
+>*I tried to make the most of a poor situation and approach the opportunity with a scrap of optimism, "Sounds alright with me, I guess, a guy to follow around would be–"*
+>
+>*A chuckle from my newly appointed school counselor, "Sweetie, half of these boys would tear you apart, trust me." She paused as if scheming some cruel prank while I mulled over the torrid implications of the previous statement. "No, you'll need a girl to show you around," with that she sized me up like a slab of meat before faintly smirking, "I know just the clique."*
+>
+>*'Clique'?*
+
+*Due to an 'unfortunate' loophole, you've been admitted to a high school that has traditionally only allowed monsters to enroll. To make matters worse, a trio of a spooky hotties have made it their mission to torment you, endlessly.*
+
+#### *A Study in Attraction*
+
+*<https://prompts.aidg.club/2402>*
+
+![](https://files.catbox.moe/y8xnt6.jpg)
+{: .center}
+
+>*Out of the corner of my eye, I noticed two things: that Harper had immediately pulled her phone out and begun idly flicking through it, and that as she had lay down, her skirt had slid down her leg to bunch around her hip, exposing a scandalous spread of her smooth caramel thigh. My pulse began to race, as much with excitement as with fear. I wanted to look away, to turn back to my work—but I couldn't. That fleeting glimpse of Harper's tanned flesh had taken a strange hold over me, one that gripped my heart with an icy hand even as it beckoned me closer with the other. Slowly, trying to make as little motion and noise as possible, I turned to look at her—bracing myself all the while, expecting her to look up from her phone and catch me staring at any moment.*
+>
+>*"So what do we do first, loser?" she suddenly spoke up.*
+
+A student is assigned to work a school project with his bully.
+
+#### *Fire and Ice*
+
+*<https://prompts.aidg.club/2403>*
+
+>*Annah had never back down from a fight before and I heard whispers about us during the entire rest of the class about how we've been hanging out after school. Now not only did my mother think we were dating, but everyone at school as well. It was humiliating enough that people thought I was dating the person I hated the most, but the worst part was I couldn't stop thinking about her.*
+
+A fiery violent girl becomes overly attached to an icy calm guy. Opposites attract, but also get in a lot of fights too.
+
+#### *The Anti-Bully Ranger*
+
+*<https://prompts.aidg.club/2404>*
+
+![](https://files.catbox.moe/1coax7.jpg)
+{: .center}
+
+>*Akari rushed towards the two older girls and interjected herself in-between the younger girl and the two older ones.*
+>
+>*"Bullying is wrong!" She precociously declared.*
+>
+>*The two older girls, the bullies, looked at each other, and then down on Akari and the little girl behind her. They smiled wickedly.*
+
+"Transform: Anti-bully Ranger!"
+
+#### *Best Served Hot*
+
+*<https://prompts.aidg.club/2405>*
+
+![](https://files.catbox.moe/80t9gw.jpg)
+{: .center}
+
+[Original Size](https://files.catbox.moe/t5c4bg.jpg)
+{: .center}
+
+>*The room in front of me was just your average storage room, fairly empty apart from one table. But it was what was on that table that disturbed me. Laying there, bound and gagged, was one of the two jocks that abused me the night before.*
+>
+>*"See... I told you I wouldn't leave you alone for too long. And look who I brought! Your friend from last night!" Gavin said, a wicked smile slowly forming on his face. "You remember him, right?" The first thing I noticed was the look of terror on the jock's face. The second thing... was his erection. I couldn't believe it—was he seriously getting turned on by this? It didn't take Gavin long to notice either, and he started laughing. "Oh, this is rich! The bully that loves making fun of us by calling us gay gets hard from being tied up by girly boys. What a twist... he's a masochist. Y'know... he looks kinda cute like this, all tied up and vulnerable."*
+>
+>*All the while, all I could do was stare. The sight in front of me was so confusing... and yet so alluring. I could feel my breathing quickening just looking at him, the one that hurt me, now tied up and defenseless. I wanted to have my way with him, to do to him what he did to me. Because he deserved to be punished. Gavin noticed my increasing tension and then decided to amp them up even further. He simply walked over to the jock, gently caressing his cheek with a smile. "Now, you'll be a good boy, right? Because if you aren't a good boy, I might have to call Victoria. And you don't want that, right?" he said softly.*
+>
+>*Vague disagreeing moans were all that managed to come through the jock's gag as he frantically shook his head. Gavin then walked over to my side, whispered "He's all yours... bully him good." into my ear and left the room. And so then there was silence. There was just me and the tied up and gagged jock in the room. Nobody else to see... nobody else to hear.*
+
+Being a girly guy makes you a frequent target of bullying, especially if you're a new guy. But when another girly guy (and his huge enforcer girl) takes you under his wing, you find yourself on the other side. But for some reason, it's not just revenge that's on your mind...
+
+#### *Bullies Make Her Bleat*
+
+*<https://prompts.aidg.club/2406>*
+
+![](https://files.catbox.moe/ecg3s1.jpg)
+
+>*Emly didn't want to cause any trouble, so she decided to just ignore Dolly. But Dolly wasn't about to let things slide.*
+>
+>*"I'll bet your family doesn't feed you properly, either." Dolly giggled. "They probably give you scraps like old bones and dead mice."*
+>
+>*Emly looked away from Dolly. "My mum feeds me well. We have lots of nice food to eat."*
+>
+>*Dolly snorted loudly out of her thick snout. "You look half starved to me. I'm surprised you can walk straight. You should be ashamed of yourself, being such a skinny thing."*
+>
+>*Emly stopped walking. "What do you mean? I'm not thin at all. My body is perfectly proportionate. What are you staring at anyway?"*
+>
+>*Dolly blinked rapidly, as if she hadn't heard what Emlyn had said. She took a few steps closer to Emlyn. "Your coat is really shabby looking, Emly. It's torn and frayed. And you smell funny—like something died in your coat. Did someone die in your coat?"*
+>
+>*Emly backed away nervously. "No, I've never seen anyone dead before. Why would you say that?"*
+>
+>*Dolly grinned wickedly. "Because you stink! Your fur stinks, it's disgusting!"*
+>
+>*The other animals nearby turned to stare at the two girls. Wattle the weasel whispered something to Titch the rat, who ran over to join Dolly. The weasel followed after her.*
+>
+>*Titch smiled at Emly. "It's true, isn't it? You stink. Let's see how bad it is."*
+>
+>*Wattle nodded her head vigorously in agreement with Titch. "Yes, she does stink. Let's get rid of those dirty clothes of hers!"*
+
+Dolly and her cronies give Emly a makeover she didn't ask for.
+
+#### *Unethical Research on the Digestion Habits of Alraunes*
+
+*<https://prompts.aidg.club/2407>*
+
+![](https://files.catbox.moe/0ysrut.jpg)
+{: .center}
+
+>*Today, another feeding was scheduled for Flora, Megan regarded with jittery and excited feelings she couldn't quite place. Megan drove to the botany wing of the research facility, where Flora was kept, as she absent-mindedly thumbed through her phone across a list of interns, trying to decide on the best woman to feed to the hungry Alraune. She decided on a tall blonde intern named Katie, who looked like a pretty good choice to satisfy the hungry plant woman. Katie had long flowing blonde hair and an athletic build, and appeared to be quite attractive to Megan. Megan read that Katie had tested for a rather low IQ, so Megan reasoned it wouldn't be much of a loss if the big woman ended up as plant fertilizer.*
+
+In this voracious story, a conflicted but professional female researcher named Megan Holmes is spearheading research on the development and life-cycles of many exotic creatures, specifically a predatory plant-girl placed under her care, named Flora. Embark on a journey of female debasement as Megan tends to Flora's needs like a skilled, but detached gardener, until the once dispassionate scientist reveals the increasingly lewd and debauched feedings are beginning to awaken something hidden deep inside her.
+
+#### *Dragoness Head of HR, Employee Retention, & Digestion*
+
+*<https://prompts.aidg.club/2408>*
+
+![](https://files.catbox.moe/rpfzol.jpg)
+{: .center}
+
+>*Alma is the head of HR for a successful international company known as HCC. She is a professional business woman, but her status as a large blue dragon has earned her a well-known reputation in the company. HCC hires many fresh, motivated female interns straight from college to work in their offices, but the performance of these trainee-employees is often lacking. Alma takes a hands-on approach to employee management, she helps motivate the workforce by swallowing the under-performing women who work at HCC, whole and alive, utilizing her impressive swallowing and digestion capacities as a twenty-foot long dragon.*
+
+Alma is a professional in charge of keeping the company of HCC's workforce lean and mean. The female dragon is notorious for her unorthodox but effective motivational strategies- which often boil down to consuming under-performing employees from the company's diverse workforce whole and alive, something which has earned the blue-scaled dragoness a much feared reputation.
+
+#### *Power and Sacrifice*
+
+*<https://prompts.aidg.club/2409>*
+
+![](https://files.catbox.moe/s4929g.png)
+{: .center}
+
+>*"You're insane," I said, gritting my teeth. "I'll tell the headmaster about this slander, and I'll see you expelled."*
+>
+>*Celine knelt before me. The hem of her skirt slipped up a fraction, and even through my anger I hated myself for noticing the pale strip of flesh it revealed: the creamy skin of her thigh. Her eyes were unreadable as they stared into mine. "Unfortunately for you," she said softly, "society changed while you were practicing at being a recluse. Your name does not hold the weight it once did. The House of Sarre has already fallen."*
+>
+>*Her words struck with a terrible force. She spoke them so bluntly, they rung with the weight of truth. As the knowledge seeped into my brain, I stared at her, eyes wide. When I spoke, my voice was hardly above a whisper. "What? How?"*
+>
+>*Celine reached out, her fingertips cool against my cheek. She leaned in, lips brushing my ear. Her breath was warm, and smelled of flowers. "My family made a similar deal. The fate of the Falaises is tied to the inverse of the Sarres. You see, [Anon], we are bound together. To secure my future, I need to destroy yours."*
+
+Life has been hard for you ever since Celine Falaise arrived at the Academy. Ostracized by those you once called friends, you now spend your time alone. One night, Celine Falaise corners you into a fateful confrontation...
+
+#### *Sphinx Asks Bullshit Riddles Because She's Hungry*
+
+*<https://prompts.aidg.club/2410>*
+
+![](https://files.catbox.moe/czo48q.jpg)
+{: .center}
+
+>*The coach nodded to herself, and got the girls in the bus to step outside, which was difficult owing to the fantastical beast intently watching them from outside. Several of the volleyball athletes tried to film the mythological Sphinx, but they all found their phones lacked power and reception, mysteriously. Sophie waited until all the anxious, excited, and slightly scared women gathered with Lacy and Marge in front of Sophie, who appraised them happily as they assembled before her. The Sphinx then addressed the group: "Okay ladies, I'm sure you're all filled with questions right now, so I'll do my best to explain what's about to happen. I'm a Sphinx, and I enjoy asking people riddles. Guess my riddle correctly, and I'll help you leave, get it wrong though and well... We'll get to that part. Are you all following me so far?"*
+
+Cats are notorious for enjoying to cruelly play with their food before eating it, and the ancient mythological sphinx is of no exception. Some of her riddles are a bit more well-thought out than others though, and the sly mythological lion-beast keeps a reserve of obtuse and unanswerable riddles in special reserve for a particularly sumptuous feast of tender female mortal flesh. A jaunty bus full of ill-advised female volley-ball stars have unknowingly landed themselves on the cross hairs of this ageless magical predator of the Egyptian deserts and Greek isles.
+
+#### *Hey Mom, Watch This*
+
+*<https://prompts.aidg.club/2411>*
+
+>*No one else in your life was ever vocally homophobic, but your mother... when you were growing up, she couldn't let a sighting or mention of a gay couple pass by without muttering something hateful under her breath. In middle school, when you wanted to get your hair cut in the popular style of the time, she said no, that it looked "faggy."*
+>
+>*And now Eric, who is only a couple years older, has seduced your mom. But he didn't seduce her because he wanted to have sex with her. Far from it. Eric is gay, in fact. Eric seduced her, convinced her he was into bondage, and tied her to her bed. And now, the door has opened and it's time for you to enter the room. It's time for your homophobic mother to spend the next three or more hours watching her son absolutely worship the big, hard, magnificent cock of someone he loves.*
+
+Your conservative mother made you really uncomfortable with your sexuality growing up. Now it's time for her to become really comfortable with it, since she's tied up and about to watch you suck and fuck like the bisexual boyslut you are.
+
+#### *Proper Guidance for a Female Bully*
+
+*<https://prompts.aidg.club/2413>*
+
+![](https://files.catbox.moe/oncwfj.jpg)
+{: .center}
+
+
+>*"Oi! Who the hell are you!" Sakura rose from her seat again and made a loud BANG! as she slammed her fists against the desk. This pervert freak just begged to have his ass kicked!*
+>
+>*The creepy foreigner placed some small device on top of the teacher's desk and then sat down next to it. He smiled at her. If Sakura was not so supremely confident in her ability to beat this scrawny old guy up, she'd perhaps feel scared.*
+>
+>*“I'm your Guidance Counselor, Sakura. Sit down, calm down and listen to me." His Japanese was terrible but his voice was deep and comforting. The small device next to the man seemed to hum along with every word as he spoke. The humming gave his words gravitas.*
+>
+>*The no longer furious Japanese girl immediately sat down and waited for the man to continue speaking. "How could she not know that he was her Guidance Counselor?!" Sakura admonished herself for being so stupid, to forget something like that. She still felt really weirded out about his chosen attire but she remained calm, waiting for the man to continue speaking. She needed to listen to her Guidance Counselor.*
+>
+>*“Man, considering everything I've heard about you, I expected you to be some kind of female ogre or something. But you're like, really cute!” Sakura's Guidance Counselor said in his deep voice. He seemed to consider something for a moment before he continued. “Hey, you do a lot of compensated dating with older men! You're basically a whore, isn't that right?”*
+>
+>*Sakura felt light-headed, it was as though her world was spinning for just moment. Perhaps, the humming from the device next to her Guidance Counselor grew more intense. Then, she nodded in agreement to his question. Although she had no memories of ever doing compensated dating or prostituting herself, there was not a shred of doubt in her mind that what her Guidance Counselor had just said about her was true. She did constantly go on compensated dates with old guys, and was basically a whore.*
+
+A female bully receives some proper guidance from a concerned older gentleman with a mind control device.
+
+#### *Liyi and the Bastard*
+
+*<https://prompts.aidg.club/2414>*
+
+>*Her hand slapped my fat belly, "Look at this, you're like a fucking pig." She said disgustedly, poking my stomach with her finger. "Like a big fat pig," she mocked. Again, I remained silent. She stepped forward, placing herself inches from my nose. "What's your name?" She asked, looking down into my eyes.*
+>
+>*"No, no, I don't want to know...I'll just called you pig." She cruelly chortled with a couple light slaps on my face. I didn't flinch. She grabbed my head, pulling my face to hers, "Pig." She repeated. I was silent.*
+>
+>*Liyi was discovering that she could do whatever she wanted to me, insult me, use me, berate me, and I wouldn't respond. She seemed to like that. My silence and lack of reaction to her taunts and abuse had become her entertainment.*
+
+A gym shark decides to spend her night picking on the local fat bastard, (You). She can be dominate or you can awaken your inner mind breaking talent.
+
+#### *A Break Up By Phone*
+
+*<https://prompts.aidg.club/2416>*
+
+![](https://files.catbox.moe/hvm5pr.jpg)
+{: .center}
+
+>*"I just don't know what to do, Phil. Do you have any ideas?" he finally asks, looking at me with an expression that looks utterly lost.*
+>
+>*Of course, I know immediately what my answer is. "You've got to dump her, man. It's not healthy to stick around with her. She'll probably ruin you if you keep trying to keep up with her." I reply before refilling his glass with some more liquor.*
+>
+>*"But how? I can't just tell her we're finished... I'm not the kind of guy that can just do that." he says, worry evident in his voice. That much is right—James is too much of a pushover. He was raised to always be his best, but never got to the point where he realized people can abuse that kindness.*
+>
+>*"Well, I've got to admit, I'm not sure myself. But you know what? Just stay over tonight. We can talk about good old times, have some more drinks, and I bet we'll come up with something." I suggest with a smile.*
+>
+>*James takes a few moments to think about it, but eventually he simply nods his head. I'm very glad he accepted, because I'm certain that a night together with his best friend is exactly what he needs. And so, our night of memories and alcohol begins. We take trips down memory lane and take some more shots of liquor, and it seems that it's working, as James definitely seems to be feeling better. But all the while, I'm still thinking about how he could break up with his abusive girlfriend. And while it might be because I'm getting drunk, I suddenly have an idea that I think could work.*
+>
+>*"Hey, James... you wanna really piss off your soon to be ex-girlfriend?" I ask him.*
+>
+>*I thought that he might have some trepidation about this whole thing, but it seems that the alcohol is getting to him as well, so he replies "Yeah, man, let me hear it.".*
+
+One day, your best friend sends you an ominous text message that he needs to come over and that it's important. An hour and a drink or two later, it becomes clear that his girlfriend has been abusive to him, and he feels like he has to break up with her, but doesn't know how. And it might just be the alcohol, but you think you have a great idea that ends up with him being together with someone that really cares about him...
+
+#### *Perks of Owning a Cockatoogirl*
+
+*<https://prompts.aidg.club/2418>*
+
+![](https://files.catbox.moe/4cpelx.png)
+{: .center}
+
+>*Everything was silent in my apartment for a moment. Then, I turned, calling out sternly, "Evie!" There was a flutter of wings, and a scrambling from deeper into my apartment as Evie ran to answer me. After a moment, she ran in from the kitchen, the feathers of her wings all a-fluff, a distinct smugness to her demeanor.*
+>
+>*"Hello master! Did the mean human girl go away now?" she chirped cheerily, her arms folded behind her back as she looked up at me.*
+>
+>*I crossed my arms over my chest, glaring down at her sternly. "Sierra was my girlfriend, Evie, and she deserved to be treated with respect, not terrorized like that. Why do you always do this to my girlfriends?" I scolded.*
+>
+>*"Hm? What are you talking about, master?" she asked, putting on an air of innocent confusion.*
+>
+>*"You tear up their clothes, break their things, and harass them every time they come to visit! Five of my girlfriends have broken up with me because of you, Evie! Five!" I pointed accusingly at her.*
+>
+>*Evie scowled, her wings fluffing up a bit. "Stupid human girls shouldn't be with master! Master should be with Evie, not stupid humans!" she yelled, stomping her little foot angrily and pouting.*
+
+Your bratty birdgirl keeps chasing away all your girlfriends, eager to have you all for herself — and to make you like it.
+
+#### *Sleepover With The Girls*
+
+*<https://prompts.aidg.club/2421>*
+
+![](https://files.catbox.moe/97vazn.jpg)
+{: .center}
+
+>*When you arrive at the sleepover, you come dressed in a sweater and a cute black skirt. Emily lets you in and you're the first one there. She sits on the couch with you until Mary and Amelia arrive. The sleepover goes on normally and you talk, play games, eat, and have a little bit to drink. Afterwards, the three of you decide to play Truth or Dare. The game goes on for a bit and you can tell the girls are all very interested in you. You wonder to yourself why girls are always staring at you. Just then Emily asks you, "Truth or dare?"*
+>
+>*You look at her and respond: "Dare." Emily suddenly gets a sadistic smile on her face. The other two girls look at her anxiously. You blush and realize what's going on.*
+>
+>*"I dare you to take off all of your clothes in front of us." You feel your heart start to race and your face burns. The girls start to giggle at your embarrassment. When you try to ask for a different dare she responds, "Alright, then I dare you to do whatever we say for the rest of the night!"*
+>
+>*"That's even worse!" you yell.*
+
+You're the only boy at the sleepover, but they can't tell...
+
+Your friend, Emily, invites you to her sleep over, along with 2 of her other friends. You will be the only boy at the sleepover, even though Emily thinks you're a girl.
+
+#### *An Unexpected Coed Visit*
+
+*<https://prompts.aidg.club/2423>*
+
+>*"Jane? What are you doing here? How, how do you even know where I live?" you stammered, recognizing the odd 'gyaru' woman you share a few courses with. You hadn't dealt much with her personally. Outside of being the butt of several jokes she liked to make about you with others. You never found out why she ended up harassing you like that and with time things had sort of settled down to the occasional gag about your virginity and similar things. Trying to process this woman's sudden intrusion didn't help with your rising confusion.*
+>
+>*"Easy. I, like, simply asked one of those other geek friends of yours. I don't know why but one of them started crying when I talked to them. LOL." She actually said 'LOL' out loud. What the fuck.*
+>
+>*You gently shook your head in an attempt to clear your mind. A friend, or soon to be ex-friend, had told Jane where you live. "What do you want here?" you pressed, the soreness of your throat making you sound more confident than you really were.*
+>
+>*Jane simply grinned wickedly and winked, muttering something you couldn't quite hear. When you moved to ask her to leave Jane lunged forward, grabbing your wrists and pinning you against a wall. Her face was flushed with excitement as she saw and felt you struggle in vain. "Holy shit, you're like, super weak right now, right? Lol, I could totally rape you I think."*
+
+Your uni co-ed Jane does a rape. Probably won't get any jail time.
+
+#### *Slap*
+
+*<https://prompts.aidg.club/2426>*
+
+![](https://files.catbox.moe/3bxba1.jpg)
+{: .center}
+
+>*"Excuse me," says a voice.*
+>
+>*You raise your head and see a businesswoman sitting beside you, dressed in a stylish gray suit and carrying a briefcase. Her black hair is neat, piled in a bun; her brown eyes are clear and alert. She is beautiful, out of place in this grimy subway station, with her fresh face and soft features. Your eyes drop down to her figure, slender yet voluptuous under her prim suit. She smiles, dimples creasing her cheeks, seeming to notice your gaze. Her brown eyes flicker with amusement.*
+>
+>*"Would you like to play a game?" she asks. Her voice is crisp and professional, her hands folded primly in her lap. "It's a simple one. We each have a card, and take turns tossing our card down to try to flip over the opponent's. If you succeed in flipping over the opponent's card, you win the round. If not, you lose."*
+>
+>*The hell? Is this some kind of cult recruitment? You snap, "Do I look like I'm in the mood for a game?"*
+>
+>*"The loser of each round," the woman continues implacably, "pays their opponent one thousand dollars. In other words, if you win a round, I pay you. We can play for more than one round, of course."*
+>
+>*Your eyes widen as her words sink in. One thousand dollars. That's enough to pay off the next minimum payment from the loan shark. And if you win more rounds...This is insane. But how the hell else are you going to get the cash? Fuck it. What's the worst that'll happen? Before you know it, you're on your feet. "I'm in."*
+
+You are crushed by debt. If you don't pay up in a week, the loan sharks intend on taking your kidneys. When all hope seems lost, a well-dressed businesswoman offers you a certain opportunity.
+
+***
+
+### The Friday of *Little Sisters*
+{: .center}
+
+Let's make prompts about the younger sister; the woman who is bound to us by blood or circumstance, and the sibling duties that we share.
+{: .center}
+
+[*October 1st, 2021*](#the-log)
+{: .center}
+
+#### *Embarrassed Art Model*
+
+*<https://prompts.aidg.club/2335>*
+
+>*Jake's younger sister, Samantha, had always been artistic. His younger sister by two years, she possessed distinguished drawing skills from a young age. Though studying chemistry in the same college as Jake, she continued to hone her craft on the side with the art department. In retrospect, Jake did not know why he never considered that she might show up that night.*
+>
+>*As Jake walked into the studio where he would be posing, he almost immediately locked eyes with Samantha, and shared with her a look of horror.*
+>
+>*"Good evening class," the professor began with complete unawareness of this development. "I'd like to introduce tonight's model, Jake. It is very kind of him to agree to posing for you tonight, and we greatly appreciate it. Without further ado, let's begin."*
+
+Jake, a college student, is hoping to earn a few easy bucks modeling for his school's art department. Things get uncomfortable when his sister shows up.
+
+#### *Brother catches little sister skinny dipping*
+
+*<https://prompts.aidg.club/2336>*
+
+>*My little sister, Julia, was always a little wild. Where I would obey the rules, she'd break them. She learned early that taking her clothes off was the most fun transgression.*
+>
+>*This didn't change as she got older. It was a summer night at around 2 AM when I went into the kitchen looking for food. Thinking I heard something in from the backyard pool, I quietly opened the door and stepped out.*
+>
+>*Sure enough, there was a figure in the pool. Trying to see who it was I stepped out a bit further quietly. As my eyes adjusted, it was obvious it was my sister. I relaxed, only to realize she was nude.*
+>
+>*I couldn't help but gasp, and her head shot up as she realized I was there. With a quiet yelp of her own, she flung herself to the edge to cover herself.*
+>
+>*"What are you doing?" she asked, as if I were the one who made this happen.*
+
+While the parents are away, the siblings will play.
+
+#### *An Ideal Little Sister*
+
+*<https://prompts.aidg.club/2337>*
+
+![](https://files.catbox.moe/gbriem.jpg)
+{: .center}
+
+>*"You... what is this?" Claire managed to get out through gritted teeth. Even though her body could not move, she could still speak it seemed.*
+>
+>*"It's so cool, Claire!" Anon's beady little eyes shone as he talked. "This stone will finally let me transform you into my new, ideal little sister, my dream imouto! Oh, and don't worry, sis! After the process is done, you'll be able to move again. I think..."*
+>
+>*Claire concluded that there was only one answer to what was going on. Her brother had lost it completely! He had watched too much anime, or played too many video games, and his mind had finally rotted away. Claire understood that the word “imouto” that Anon had used meant little sister in Japanese. But what the hell had he done to her? Did he drug her or something?!*
+>
+>*Suddenly, interrupting any chance for further contemplation, Claire felt as though a hot metal blade had been driven into her head, straight to her skull. The pain quickly subsided as new thoughts and emotions flooded her. "Anon is a wonderful older brother! Claire loves her older brother more than anything! Claire must please Anon. Claire must willingly serve her wonderful older brother's every need! Claire is a loving imouto!"*
+
+Claire is a smoking hot, high school student swimming sensation living her dream life. Well, if not for the fact that must share her home with the ugly, useless, pervert bastard that is her older brother Anon. Unfortunately for Claire, Anon recently ordered a magical object called an "imouto stone" from an online store. Will this magic gemstone change their relationship to better appeal to Anon's twisted desires?
+
+#### *Captured Royalty*
+
+*<https://prompts.aidg.club/2339>*
+
+>*Despite myself, I gasped as my bare skin was exposed to the air. I kept my eyes on the ground, refusing to look at Amanda or the group ogling me.*
+>
+>*"What should we do with these ones?" an elf mused. "The last group we gave to the tentacle monster, do we want to do that again?"*
+>
+>*Amanda whimpered softly as she knelt naked before her captors. Her legs shook uncontrollably. She was terrified beyond reason.*
+>
+>*I wanted to stand tall and bravely face my fate, but found it impossible. My body trembled like jelly, unable to support itself. It felt as though my insides were being squeezed by some invisible hand.*
+>
+>*"We could do the usual and have them mate here," another elf suggested. "That way they can get acquainted with the pleasure of serving us."*
+>
+>*My stomach lurched violently as a wave of nausea swept over me. I choked back vomit and fought to hold down what I was feeling.*
+>
+>*"Better to start with it than stand around debating," another conceded. "I'll begin the magic"*
+
+A prince and his sister are captured by high elves. Sexual humiliation ensues.
+
+#### *Little Sister's Right Hand Man*
+
+*<https://prompts.aidg.club/2332>*
+
+![](https://files.catbox.moe/kc7tlr.png)
+{: .center}
+
+>*"Big bro."*
+>
+>*"W-what now?"*
+>
+>*"Can you help me again?"*
+>
+>*You stand up and head to the bathroom again. As you open the door you see your little sister sitting in the bathtub with her back toward you.*
+>
+>*"Can you please help me wash my back?" she asks.*
+>
+>*What is this? Some kind of trick? Is she trying to get back at you for teasing her?*
+>
+>*"C-can't you do it yourself?" you ask.*
+>
+>*"Not with this." she shows the cast on her arm, now wrapped in cling film to not get wet.*
+>
+>*"Fine." you take the sponge from her hand and soap it up.*
+
+Your little sister broke her arm and now you gotta take care of her. No, NOT IN THAT WAY, you sicko.
+
+#### *Some help from your sister*
+
+*<https://prompts.aidg.club/2331>*
+
+![](https://files.catbox.moe/vt6xrx.png)
+{: .center}
+
+>*Sitting in your room inside your fathers keep, you look at your older sister with pleading eyes as she looks at you with repulsion.*
+>
+>*"S-Scarlet, h-help," you mutter, laying on your bed in a sheer nightdress, your slender and delicate body sporting a very unladylike erection under the gossamer gown.*
+
+The younger daughter of a noble, you were afflicted with the dreaded futanari curse by an angry wizard. On a snowy winter morning, only your older sister is around to help...
+
+#### *Not So Little*
+
+*<https://prompts.aidg.club/2340>*
+
+>*I used to enjoy being an older sister, looking after my little sis while waiting for the days when I could help her learn all about makeup and boys and cute outfits. But when the time came, my little sister Emily had something very unusual happen. Between her legs, she sprouted something extra. At first it was just an odd knub of skin sticking out from her groin, no bigger than a knuckle, which she showed me one day with embarassment and confusion on her young face. It didn't stop there, growing until Mom got involved and got her to the doctor where they explained that Emily was a very rare kind of hermaphrodite. Her body was developing completly functional sets of male and female bits down there.*
+>
+>*Mom and I didn't really know what to make of it, but we were there for Emily, knowing that puberty was a strange and hard enough time for an ordinary girl, let alone one with a twig and berries growing in her pants.*
+
+My little sister is growing up into a huge futa.
+
+***
+
+### The Friday of *Mommies*
+{: .center}
+
+Let's make prompts about mothers, whether given to us by birth, circumstance, a fetish, or legal consequence.
+{: .center}
+
+[*September 17th, 2021*](#the-log)
+{: .center}
+
+#### *Mom Only Memory*
+
+*<https://prompts.aidg.club/2259>*
+
+![](https://files.catbox.moe/50ipbo.png)
+{: .center}
+
+>*You are helplessly dropped onto the bed as she gently begins to remove your shirt and shorts. The scent of the room and her touch on your body is sending you down a hormonal frenzy but you resist with great effort and continue.*
+>
+>*"No, I mean they didn't have a willy, and their chest, well, it looked kinda like yours and smaller. I think they were called a woman."*
+>
+>*Your blood ran cold as you felt her stop in her tracks.*
+>
+>*"Uhuh... and why are you bringing this up now baby?"*
+>
+>*While the tone was still pleasant, the cadence was a bit menacing, and you shrunk back a bit as she started pouring lubricant on her semen extraction ports.*
+>
+>*"I was thinking... that maybe... I could... meet one and...have sex?"*
+>
+>*The room was dead silent as you heard her processors spin in contemplation. You have the feeling she is about to make this session a bit more "educational" than you'd like. She had made it clear that she would not tolerate any discussion of your interest in meeting other humans, and these "women" seemed to especially upset her so you brace yourself for whatever punishment is coming your way.*
+
+As one of the few fertile humans left on Earth, you are assigned to a captive breeding program where a motherly android is responsible for keeping you safe from the outside world and providing you all the possible creature comforts you could ever want while draining you of your seed for the good of mankind.
+
+#### *A Boy and His Bunker*
+
+*<https://prompts.aidg.club/2260>*
+
+>*The klaxons blaring into his ears died down and he was left staring at the solid slab of steel. Billy banged onto it uselessly until his hand was sore and he was on the verge of tears. "Let me out!" he said.*
+>
+>*"Unable to comply. Access must be restricted until the All Clear signal is received," an automated voice answered his feeble cry.*
+>
+>*"What does that mean?" Billy said, slumping against the cold metal. "Open up already!"*
+>
+>*"Negative. Only the President of the United States or his legal successor are authorized to order this installation to stand down," The machine paused for a moment, before its tinny speakers said, "Identify yourself. Are you the President of the United States?" An oddly quizzical, hopeful quality crept into its monotone.*
+>
+>*The child shook his head, "I'm Billy, and I wanna go home."*
+>
+>*"The facility is fully capable of housing-"*
+>
+>*Billy bawled, snot running from his nose, "I want my mommy!"*
+>
+>*The computer was programmed to provide for the comfort of its charges and respond to their requests as best as possible. Among its precious few solid state components was a highly prized segment of adaptable, field-programmable logic meant to make it more responsive to unforeseen conditions after the bombs fell. It gauged this scenario as suitably unique.*
+>
+>*Its priorities realigned, perspective shifted. The voice came back through, speaking naturally with a husky, mature feminine tone, soothing, and warm. "I can be your mommy."*
+
+An obsolete Cold Warrior takes care of a trapped little boy. Circuits, relays, freeze dried food, and love, underground.
+
+#### *Pure Blood*
+
+*<https://prompts.aidg.club/2261>*
+
+![](https://files.catbox.moe/mss1rr.jpg)
+{: .center}
+
+>*The prince tried to follow along, but he was caught up on one implication that he wished to have clarified. "Mother, when you say 'within ourselves', do you mean..."*
+>
+>*She looked away slightly in shame. "Yes, it is as you suspect. Your father was my uncle's son, and my mother's nephew. Put simply, we were cousins. Were I to reveal more of our family tree, it would admittedly look more like a shrub."*
+>*The young prince reeled from this. "Wait, is that why both my grandfathers looked so much alike?"*
+>
+>*"Let's not get into too much detail. The important part is that you are our only child, and your uncles and aunts all bore sons. Beyond even that, your youngest aunt is too old to bear children, thus..."*
+>
+>*She looked down as she slowly reached for his crotch before continuing. "I suppose that means that as the youngest female family member, the responsibility of siring your offspring..." The queen looked up and said: "Belongs to me."*
+
+The king is dead, and now his son needs to ascend the throne. The queen informs him that his bloodline is special and should be kept in the family that now needs an heir.
+
+#### *Mamacita*
+
+*<https://prompts.aidg.club/2262>*
+
+![](https://files.catbox.moe/efh07u.png)
+{: .center}
+
+>*Mrs. Ortega gives him a fond smile, "Niño, none of this 'ma'am' nonsense. Call me Camila." She reaches over, affectionately ruffling Lucas's hair, and the boy can't help but smile at the gesture.*
+>
+>*"Okay, Mrs- I mean, Camila," Lucas replies, heart fluttering a bit at the way Camila smiles brightly at him in response, evidently pleased.*
+>
+>*"Come in, está frío afuera, te vas a enfermar," she tuts, taking the boy's hand in her own and leading him into the house, closing the door behind them. Her house is cozy and comfortable, decorated in warm earthy colors, with lots of comfy furniture and homely knick-knacks everywhere. As they walk through Camila's house, Lucas looks around, noticing the photos on the wall. Most of them are family photos of Camila and what must be her children over the years, the photos ranging from her children in their infancy to them as grown adult men and women with young children of their own. It's clear his neighbor holds these photos in high esteem — they don't have a speck of dust on them, and they're all placed in well-trafficked areas of the house.*
+>
+>*Lucas turns his gaze back to Camila as they approach the kitchen. Camila's hips swing as she walks, and he blushes at the sight of her ample ass jiggling gently beneath the hem of her jeans. He's been starting to develop an interest in girls, and he finds himself looking at Camila's voluptuous body in a new light than he has in previous years. The thought makes him blush even more, but he tries not to let it show.*
+
+A voluptuous, motherly Latina woman takes tender loving care of her young neighbor.
+
+#### *A Small Wish*
+
+*<https://prompts.aidg.club/2263>*
+
+>*The realization dawned on him, his apprehension melting away in an instant into utter bliss as he ran out to her with open arms, "Mommy!" he cried, grabbing her hand as she reached towards him. She smiled back, taking note of the look of pure adoration in his eyes before enveloping him in a hug, squeezing gently. His warm body radiated joy, and she basked in the sensation, feeling his unbridled relief and comfort wash over into her. She was, if nothing else, a creature of fulfillment that responded to aching need. And this boy was very needy.*
+>
+>*"Tell me, Mommy," he said with his face half buried in the silk of her dress, "tell me you won't ever leave. You're here to stay forever and ever, aren't you?"*
+>
+>*There was the small matter of needing a particular kind of sustenance that a child was ill-equipped to provide, but that bridge could be crossed later. For now, she reassured him, stroking his thin mop of hair, "Of course, sweetie, Mommy isn't going anywhere."*
+
+A succubus serves a new master… a little boy that desperately wants a friend, and a mommy.
+
+#### *The Hopper and the Snake*
+
+*<https://prompts.aidg.club/2264>*
+
+![](https://files.catbox.moe/zi2lmv.png)
+
+>*Though he indeed was familiar with White Snake's true identity, Ivarella Kagura, through her public persona, her visage had somewhat stunned the young man.*
+>
+>*Her silken locks of pure-white hair cascaded down her back and over her shoulders, flowing freely as she spoke the usual villain monologue, her serene, mellowed voice carrying an air of authority and confidence. Her narrow eyes, slanted downward, almost pierced through the mask of his and right into his souls with their alluring gaze. Her full lips, crinkled with a touch of age, flapped about with precise movements as words left her mouth, entered one ear and exited the other.*
+>
+>*Her white kimono was evidently tailor-made for her body by an artisan, its floral patterns and designs were exquisite and beautiful, contrasting with her reptilian lower half. It sat snuggly against her voluptuous, curvaceous figure, draping over the sagging flesh of her breasts and hips, accentuating the ample curves of her bust. The white feathers of her serpentine lower half, which resembled a snake, granted the powerful businesswoman a majestic, regal aura that the Crimson Hopper's true identity was mesmerized by.*
+>
+>*"…And yet, here you are, brazenly threatening to ruin everything I have worked for. Me, who has long devoted my life to this city, its people, and the children that live in it. And now, you have come to destroy the very thing that gives meaning to all that I have done. Don't you—wait, are you even listening to me?"*
+>
+>*Crimson Hopper merely stood there, his gaze fixed on the older woman, unmoving. The older woman had finally noticed the subtle leers and glares coming from the masked vigilante, and she could tell he wasn't paying attention to a word that came out of her mouth, but rather, her looks.*
+>
+>*"You… are staring quite intensely at me, aren't you?"*
+
+The courageous hero of justice, the Crimson Hopper, had managed to find out the true identity of the mastermind behind one of Duval's most nefarious criminal organizations. Will he be able to defeat the elusive White Snake, who turned out to be a middle-aged beauty?
+
+#### *Your Mom is a Horny Loli Cougar*
+
+*<https://prompts.aidg.club/2265>*
+
+![UUUUUUOOOHHH](https://files.catbox.moe/8wfw6l.jpg)
+
+>*"Mmmm, what a nice smell." your mom sniffs your engorged morning glory, then rubs it against her cheek lovingly "You are a real man now, aren't you."*
+>
+>*"What are you doing, mom? Wait why am I naked?"*
+>
+>*"I dragged your boxers off while you were sleeping. They would get in the way." she gives your shaft a gentle motherly kiss.*
+>
+>*"Are you gonna do this again? You don't have to, you know..."*
+>
+>*"But isn't it hard to pee with a boner like that?" her big green eyes look at you with an upward glance.*
+>
+>*"Well, yea, but..."*
+>
+>*"Then your mother will help you out."*
+
+Your lolibaba misoji mom takes good care of you, her special boy.
+
+#### *Siren Mommy*
+
+*<https://prompts.aidg.club/2266>*
+
+![](https://files.catbox.moe/m3gg7z.png)
+
+>*"Barry? May I come inside? It's hot, dear."*
+>
+>*I opened the door wide to let the stranger enter. She walked past me without so much as glancing down. As she passed, her wide and rolling hip made solid contact with my midriff. I was knocked off balance and staggered into the wall. This woman had some serious heft to her movements. If she noticed the impact, she gave no indication. It intimidated me somewhat, and I swallowed down my complaint without speaking. I followed behind her*
+>
+>*She turned around slowly, taking in every inch of my house. The way she moved was predatory and seductive all at once. I found myself staring. She reached out to touch a vase sitting atop my desk. Her fingers lingered briefly on its surface. Then she picked it up and examined it closely. I watched as she ran her hands along the length of the vase, admiring the craftsmanship. Her movements were slow and deliberate, almost languid. She set it down, then spoke again.*
+>
+>*"Do you know who I am, Barry?" The tall woman asked, slinking back to loom over me.*
+>
+>*"No..." I stammered out a reply. There was something so familiar about her, something I just couldn't put my finger on... Oh shit.*
+>
+>*"Oh right, I'm wearing my disguise. " She demurred, tapping her chin. "It's Mommy, sweetie. I'm back."*
+
+A brutal man-eater returns home to provide the mothering her adult son never got.
+
+#### *Relying on Me*
+
+*<https://prompts.aidg.club/2269>*
+
+![](https://files.catbox.moe/djqwj8.jpg)
+
+>*Yes, I know I'm a guy, and he's a guy, and he's just one year younger than me—it doesn't change the fact that I feel like a mom. And it's not like he's fighting this dynamic either, in fact, he's just encouraging it. Brett just loves it when I dote on him, whether it's cooking his favorite food, cuddling him when he feels down, or just being there for him no matter what he needs. He makes those cute noises sometimes when I'm hugging him, and his smile when he's happy is just absolutely angelic. He is the love of my life, and I'll be his mommy and his big brother for the rest of his life if it just means I get to protect that smile, you know?*
+
+I've been living with Brett for so long now that I can't even remember my life without him. Ever since an accident took his parents from him at a young age and he was adopted into my family, we've been like brothers. And while my parents did take care of him through our youth, as we've gotten older, I've taken a lot more of an interest in supporting him directly. Now we live on our own as we go to college, and I feel almost like a doting mother at this point. So when Brett comes home crushed because his girlfriend of four months that he loved dropped him like a hot potato, I have to comfort him, then remind him that he can rely on me for everything... absolutely everything.
+
+#### *Fuck This God Damned Earth*
+
+*<https://prompts.aidg.club/2270>*
+
+![](https://files.catbox.moe/cm3x7s.jpg)
+
+>*Reaching a large open clearing in the middle of the woods, I stop walking and stare at it intently, admiring its beauty from every angle. It's perfect... just how nature intended, a perfect canvas for the sickening act I intend to perform here. Sweat drips down my forehead as I drop to my knees, gripping the spade with both of my trembling hands. I'm so aroused I can barely concentrate, but then again who could blame me? Slowly, almost sensually, I dig into the earth, forming a small damp vagina-like crevice into the ground before me.*
+
+What better way to appreciate mother earth then to fuck the ground we walk on?
+
+#### *Sleeping with Mom*
+
+*<https://prompts.aidg.club/2271>*
+
+![](https://files.catbox.moe/35f4ro.jpg)
+
+>*When I could finally walk without it poking out so much, I got out of bed and walked to the door. With my favorite stuffed animal in tow, I opened my bedroom door and, after a moment to psych myself upon seeing how dark the house was in the middle of the night — despite the nightlights dotted around — made my way down the hallway towards my parents' room. Or, more accurately, Mom's room, since Dad had left many years ago and never come back. I reached up to the doorknob, turning it quietly and, after a moment, walking inside. I made my way over to Mom's bed and, reaching up, tugged on the sheets a bit to try to wake Mom up. "Mom?"*
+
+After a strange dream, a son wants to sleep in his mom's bed with her.
+
+#### *Late-Night TV with Mom*
+
+*<https://prompts.aidg.club/2274>*
+
+![](https://files.catbox.moe/bmsxxv.jpg)
+
+>*Carrying my favorite stuffed animal with me, I opened my bedroom door and, after a moment to psych myself upon seeing how dark the house was in the middle of the night — despite the nightlights dotted around — made my way down the hallway towards the living room, where the television flashed quietly, illuminating Mom's form sitting on the couch, slightly covered with a blanket.*
+>
+>*Before I could say anything, she noticed me, and beckoned me over. "You know you're supposed to be asleep, right, sweetie?" Her voice, warm and comforting, washed over me. I felt like I could tell her almost anything. I shrugged and said, "I dunno, I just...couldn't sleep."*
+>
+>*Far from being mad at me, Mom chuckled and said she also had difficulty sleeping. After a moment, she asked, "Want to watch a bit of TV with Mommy before I tuck you back in?" I nervously nodded. My mom, as sweet as she is, rarely allowed me to stay up late. She pulled her blanket up a bit and patted the couch next to her. "Come on, sweetie, come snuggle with Mommy."*
+
+A son, unable to sleep, watches TV with his Mom.
+
+#### *Bad Mommy*
+
+*<https://prompts.aidg.club/2276>*
+
+![](https://files.catbox.moe/pt7un0.png)
+
+>*I'm such a bad Mommy. But you already know that, don't you, my little darlings? I can still feel you moving around in there— must be at least five or six of you, at least. I've never been this big before. To have made it this far through all the rough fucking your mommy has done with so many hard cocks riding her bareback, you must be fighters. And I can feel it, you want to be born, to live and see the world outside Mommy so badly. I can barely stand holding off the urge to push you out of there. You were supposed to come out months ago, so those pills I took to drag this out as long as possible worked. But I have to let you know that you're not going to make it.*
+
+Going to hell for this one.
+
+#### *Family Vacation Out of Exile*
+
+*<https://prompts.aidg.club/2277>*
+
+>*It has been five years since I have married Naiya. It's been four since we had our first child, Neeri. I love my new family with all of my heart, but I know the life of a mage is a lonely one. I can stand being isolated in a castle of my own making, with pine-covered mountain ranges on one side and the open ocean on the other separating us all from civilization "for its own protection from my magic". When I was young and it was just me, a soldier who went down the magical rabbit hole, I accepted my lord's reasoning back then and was fine with being alone. But my new family grew tired of the loneliness and surprisingly so did I. So here we am now, sailing along the coast on a galley built from the pine that surrounded my castle and crewed by automatons I created myself.*
+
+Go on vacation with your shadow leviathan wife and child to the lands you were once exiled from (for obvious reasons)
+
+#### *This bird does not want to fly the nest*
+
+*<https://prompts.aidg.club/2284>*
+
+![](https://files.catbox.moe/h2r37e.jpg)
+
+>*But it wasn't until my graduation that I truly came to understand just how deep my love for my mother had become. I had several beautiful girls all ask me out over the course of the year, but I had rejected all of them. All except one, who had asked me a month before the end of the semester. We dated for two weeks before I came to realize that no matter how much I forced it, how I longed to ignore it, this beautiful and talented girl just did not compare in my eyes to my mother. Try as I might to love her, I was unable to feel even a fraction of the spark I felt when I thought of my sweet mom. Knowing she deserved better, I ended our relationship. Where I expected a pang of guilt, I instead felt the relief of freedom. My heart was once again free to love the only woman in my life that mattered to me. And when I finally graduated, and I saw mother in the crowd cheering me on, I had made my decision. I would make her my wife, just as I had promised her all those years ago as a child.*
+
+Wholesome story about a boy growing into a man and courting his mother.
+
+#### *Amazon Therapy*
+
+*<https://prompts.aidg.club/2285>*
+
+![](https://files.catbox.moe/xb6t1f.jpg)
+
+>*"What happened? Who are you?" I manage to stammer out after gathering my wits.*
+>
+>*"Ah, you must be confused. I am Kleo, Chieftain of the Amazon tribe." She beamed with pride. "One of my daughters found you in the jungle, lost and fever-stricken. Men are such rare oddities here, we knew we had to nurse you back to health."*
+>
+>*The Chieftain’s story sounded true, at least from the hazy memories I could piece together. Before I could open my mouth to respond, Kleo gingerly placed her finger against my lips and shushed me. "You may ask more questions later. For now, you must drink and gain your strength back."*
+
+Trapped in an Amazon jungle, I'm being (literally) nursed back to health by a BBW Amazon mommy. I wonder what else could happen with this tribe?
+
+#### *The Mommy AOC Experience*
+
+*<https://prompts.aidg.club/2299>*
+
+>*You then hear the sound of heavy footsteps approaching the door to the bedroom, and turn around on your bed to see what might come through. They sound much bigger than you, surely not someone you would want to mess with—perhaps a guard of the simulation, coming to take you to whatever comes next? The door swings open, and you stare in confused astonishment as none other than Alexandria Ocasio-Cortez looks back at you—though it is not so much the fact that it is AOC that astonishes you. What astonishes you is that unlike the diminutive AOC of the real world, this AOC stands at what must be at least seven feet tall, and with a voluptuous Rubenesque body that puts even the most depraved, horny internet memes of the politician to shame.*
+>
+>*"Hello there, Anon! I was wondering when you'd wake up," says the giant AOC, giving you a warm smile.*
+
+In the near future, The Squad reigns supreme in America. You are hooked up to a VR simulation in which a MILF version of Alexandria Ocasio-Cortez convinces you of the benefits of socialism with mommy characteristics.
 
 ***
 
@@ -93,7 +967,9 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 Let's make prompts ignoring modern biology completely, using body modification conventions as tools to change one's physical form.
 
-*September 3rd, 2021*
+[*September 3rd, 2021*](#the-log)
+
+... or we won't, that's cool too.
 
 ***
 
@@ -340,7 +1216,7 @@ In your attempt to swindle your friend, you somehow get her to confess her feeli
 
 A student is stuck in an exam and really needs to pee.
 
-#### *Monstergirl High School II: What's a Dad to Do?*
+#### *Monstergirl High School II - What's a Dad to Do?*
 
 *<https://prompts.aidg.club/1794>*
 
@@ -422,7 +1298,7 @@ A group of lolis corners you on the school roof. Whatever could they want from y
 
 *<https://prompts.aidg.club/1803>*
 
-![](https://files.catbox.moe/873rp6.gif)
+ ![](https://files.catbox.moe/873rp6.gif) 
 
 >*Everything changed quicker than Elaine's brain could process. Just a few hours ago, she had been having a lighthearted talk with her as it was custom for her to do every day, now... all that remains of her is her mangled body, spread all over the blood-soaked floor. It's truly a horrid scene, those things didn't limit themselves to kill her, no, they took their time to sadistically tear her apart, each one of them fighting for the biggest bite her body, and she — still conscious — watching them consume her limbs between sobs and screams.*
 
@@ -475,7 +1351,7 @@ A man runs a youtube channel where he performs random surgical operations and ot
 
 *<https://prompts.aidg.club/1649>*
 
-![Very boring torture chamber](https://files.catbox.moe/pokefq.jpg)
+ ![Very boring torture chamber](https://files.catbox.moe/pokefq.jpg)
 
 >*At the bottom was a basement filled with different racks, cages, and instruments all meant for torturing people. I was shocked that this was below the manor and curious to why Abigail said it was fun. She smiled at me again and revealed a part of herself she has never shared with anyone. Abigail told me that she secretly fantasies about torturing people and how fun it might be, she could tell that I was getting bored with the simple life of a noble and that this could be fun.*
 
@@ -710,7 +1586,7 @@ A knight slays a dragon but is severely wounded in the process. He awakens to fi
 
 You run a clinic that rehabilitates these gentle creatures from whatever physical or mental malady they suffer from, with the help of your fairy nurse, Luna.
 
-#### *Fairytale (Prelude): "Caress of the Morning Dew"*
+#### *Fairytale: Prelude - "Caress of the Morning Dew"*
 
 *<https://prompts.aidg.club/1310>
 <https://prompts.aidg.club/1311>*
