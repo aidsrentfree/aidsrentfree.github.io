@@ -34,12 +34,13 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 - [Rules](#rules)
 - [The Log](#the-log)
 - [The Friday of *All Hallows' Eve*](#the-friday-of-all-hallows-eve)
+  - [*Reckless Adventurer and an Elven Sorceress*](#reckless-adventurer-and-an-elven-sorceress)
   - [*Demonic Desire*](#demonic-desire)
   - [*Mirror Mirror*](#mirror-mirror)
   - [*Horny Honeymoon Haunt*](#horny-honeymoon-haunt)
   - [*Harvest*](#harvest)
   - [*A Succ in the Shell*](#a-succ-in-the-shell)
-  - [*Reckless Adventurer and an Elven Sorceress*](#reckless-adventurer-and-an-elven-sorceress)
+  - [*A Spooky and Very Topical Story About Trick or Treating*](#a-spooky-and-very-topical-story-about-trick-or-treating)
 - [The Friday of *Female Bullies*](#the-friday-of-female-bullies)
   - [*Tit for Tat*](#tit-for-tat)
   - [*Gina Bullies You*](#gina-bullies-you)
@@ -163,6 +164,39 @@ There will be a knock at the door.
 *October 29th, 2021*
 {: .center}
 
+### *Reckless Adventurer and an Elven Sorceress*
+{: .center}
+
+*<https://prompts.aidg.club/2444>*
+{: .center}
+
+![](https://files.catbox.moe/lvqg6r.jpg)
+{: .center}
+
+>*"I... survived?" you whisper under your breath.*
+>
+>*"Y-yea..." Yvonne responds, but her gaze moves to the side, avoiding you.*
+>
+>*"I thought that wound was fatal."*
+>
+>*"Don't worry about it now. What matters is that you are alive." she smiles and looks at you again.*
+>
+>*You can't help but smile in return. Overcoming the pain, you lift your arm and hug her gently by the shoulders. The elven maiden responds by closing her eyes and snuggling against you.*
+>
+>*If now you can be with her, all this pain was worth it.*
+>
+>*Looking around the room, you see it's some kind of cavern. On the ground, beneath the stone walls, corpses of people lie, in the pools of their own blood, their hands and feet are tied together.*
+>
+>*From under the blood strange runic marks written with chalk extend and crisscross the floor, their paths seemingly end under the black stone pedestal on which you lie.*
+>
+>*"Who are... were those people? What happened?" you ask her.*
+>
+>*Yvonne's expression shifts from a careless bliss to something between gravity and annoyance.*
+>
+>*"They... didn't make it." she says, looking away.*
+
+Sometimes, sacrifices must be made.
+
 ### *Demonic Desire*
 {: .center}
 
@@ -256,38 +290,30 @@ Play as the shambling horror comprised of bloody body-bits.
 
 A simple man has crushed the current limitations of AI by soul binding an unwilling succubus to his computer.
 
-### *Reckless Adventurer and an Elven Sorceress*
+### *A Spooky and Very Topical Story About Trick or Treating*
 {: .center}
 
-*<https://prompts.aidg.club/2444>*
+*<https://prompts.aidg.club/2518>*
 {: .center}
 
-![](https://files.catbox.moe/lvqg6r.jpg)
+![](https://files.catbox.moe/f6o39d.jpg)
 {: .center}
 
->*"I... survived?" you whisper under your breath.*
+>*Red's and Rozelle's pristine bare feet brushed against the cold and murky wood of the staircase leading up to the front door while Dominica floated in the midnight void slightly behind them. The vampire princess fought every impulse in her tiny body to run away, balled her slender, pale fingers into a fist, and carefully knocked on the front door.*
 >
->*"Y-yea..." Yvonne responds, but her gaze moves to the side, avoiding you.*
+>*Immediately, as if he had been waiting on the other side, the door flew open and the neighborhood freak, Anon stood there. The tall, overweight and bespectacled nerd towered over the three monster girls. He grinned maniacally.*
 >
->*"I thought that wound was fatal."*
+>*"Uoooohhh! Spooky little loli girls! Wholesome hecking spooky chungus! Much seasonal, much topical!" Anon squealed with joy as he let his hungry gaze wander over the three little girls on his porch.*
 >
->*"Don't worry about it now. What matters is that you are alive." she smiles and looks at you again.*
+>*"Umm... m-mister... the umm... candy?" Red clutched her basket with two hands and held it up to Anon. She had shut her eyes, she dared not look at him.*
 >
->*You can't help but smile in return. Overcoming the pain, you lift your arm and hug her gently by the shoulders. The elven maiden responds by closing her eyes and snuggling against you.*
+>*"Yeah, like, give us candy, mister! Pacha pacha!" Dominica agreed while levitating her filled to the brim with candy basket up and down in the air in front of Anon for emphasis.*
 >
->*If now you can be with her, all this pain was worth it.*
+>*Anon's protruding jowls shook as a laugh erupted from his sizeable belly. "Of course! Mochiron desu! Le candy for le wholesome cute and funny little nightmare waifus. Cutie force must protecc, am I right?! Le candy's inside Anon's funhouse!"*
 >
->*Looking around the room, you see it's some kind of cavern. On the ground, beneath the stone walls, corpses of people lie, in the pools of their own blood, their hands and feet are tied together.*
->
->*From under the blood strange runic marks written with chalk extend and crisscross the floor, their paths seemingly end under the black stone pedestal on which you lie.*
->
->*"Who are... were those people? What happened?" you ask her.*
->
->*Yvonne's expression shifts from a careless bliss to something between gravity and annoyance.*
->
->*"They... didn't make it." she says, looking away.*
+>*The three girls exchanged nervous glances while Anon gestured for them to enter his spooky mansion. Eventually, Rozelle nodded, feigning confidence while she squeezed past the fat man as he ushered her inside. Her two friends followed. Red looked back over her shoulder at the moonlit street one final time before Anon closed the door behind her. An almost inaudible growl erupted from deep within her. Red had a bad feeling about this...*
 
-Sometimes, sacrifices must be made.
+'tis the season after all.
 
 ***
 ## The Friday of *Female Bullies*
