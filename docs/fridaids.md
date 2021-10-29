@@ -1083,6 +1083,7 @@ Let's make prompts ignoring modern biology completely, using body modification c
 {: .center}
 
 ... or we won't, that's cool too.
+{: .center}
 
 ***
 
