@@ -41,6 +41,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Harvest*](#harvest)
   - [*A Succ in the Shell*](#a-succ-in-the-shell)
   - [*A Spooky and Very Topical Story About Trick or Treating*](#a-spooky-and-very-topical-story-about-trick-or-treating)
+  - [*A Puppy's Tricks and Treats*](#a-puppys-tricks-and-treats)
 - [The Friday of *Female Bullies*](#the-friday-of-female-bullies)
   - [*Tit for Tat*](#tit-for-tat)
   - [*Gina Bullies You*](#gina-bullies-you)
@@ -314,6 +315,31 @@ A simple man has crushed the current limitations of AI by soul binding an unwill
 >*The three girls exchanged nervous glances while Anon gestured for them to enter his spooky mansion. Eventually, Rozelle nodded, feigning confidence while she squeezed past the fat man as he ushered her inside. Her two friends followed. Red looked back over her shoulder at the moonlit street one final time before Anon closed the door behind her. An almost inaudible growl erupted from deep within her. Red had a bad feeling about this...*
 
 'tis the season after all.
+
+### *A Puppy's Tricks and Treats*
+{: .center}
+
+*<https://prompts.aidg.club/2520>*
+{: .center}
+
+![](https://files.catbox.moe/6brncw.jpg)
+{: .center}
+
+>*The serval looked back at the pathetic looking monochromatic dog who was trembling with fear and humiliation. "I'm not going to hurt you," she said reassuringly. "Just get over here."*
+>
+>*Cathy hesitated, then slowly inched forward until she could feel the cold air from outside blowing against her body. She let out an involuntary whimper when she felt the coolness of the wind ruffle through her fur and caress her nipples. It tickled her sensitive ears and made her tail tuck between her legs involuntarily. Her heart pounded in her chest as she stared down at the floor, waiting for whatever would happen next.*
+>
+>*"Cat," Jada whispered softly as Cathy continued to stare at the ground. "Do you know why I'm making you do this?"*
+>
+>*Cathy's gaze flickered to her roommate, her penitence apparent. "Jad, I'm really s—"*
+>
+>*"Shhh," Jada interrupted, pressing a finger against the border collie's snout. "I'm not mad anymore. I know it was just a mistake, and I've had a bit of time to get over it, but I think you still need some punishment before we go back to normal, and I figured Halloween was the perfect opportunity for it. Agreed?"*
+>
+>*"Y-yeah..." Cathy stammered, unsure what exactly Jada wanted from her or if she even knew herself.*
+>
+>*"Good," the serval purred, letting out a soft sigh that caused the border collie to shiver. "Now let's get your 'costume' on. You're gonna be my little puppy tonight."*
+
+A serval decides on her roommate's costume for Halloween.
 
 ***
 ## The Friday of *Female Bullies*
