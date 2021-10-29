@@ -152,10 +152,10 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 ## The Friday of *All Hallows' Eve*
 {: .center}
 
-***(Spookiness + Trick or Treating)***
+There will be a knock at the door.
 {: .center}
 
-There will be a knock at the door.
+***(Spookiness + Trick or Treating)***
 {: .center}
 
 *October 29th, 2021*
