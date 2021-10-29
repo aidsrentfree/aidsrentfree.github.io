@@ -3,4 +3,4 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 kramdown:
-  auto_ids: false
+  auto_ids: true
