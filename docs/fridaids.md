@@ -36,8 +36,10 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 - [The Friday of *All Hallows' Eve*](#the-friday-of-all-hallows-eve)
   - [*Demonic Desire*](#demonic-desire)
   - [*Mirror Mirror*](#mirror-mirror)
+  - [*Horny Honeymoon Haunt*](#horny-honeymoon-haunt)
   - [*Harvest*](#harvest)
   - [*A Succ in the Shell*](#a-succ-in-the-shell)
+  - [*Reckless Adventurer and an Elven Sorceress*](#reckless-adventurer-and-an-elven-sorceress)
 - [The Friday of *Female Bullies*](#the-friday-of-female-bullies)
   - [*Tit for Tat*](#tit-for-tat)
   - [*Gina Bullies You*](#gina-bullies-you)
@@ -191,6 +193,25 @@ Two friends, an unspoken crush, and a succubus costume. This Halloween night, th
 
 On a quiet All Hallows' Eve, (You) catch a glimpse of something odd about your reflection.
 
+### *Horny Honeymoon Haunt*
+{: .center}
+
+*<https://prompts.aidg.club/2511>*
+{: .center}
+
+![](https://files.catbox.moe/xnmjnk.png)
+{: .center}
+
+>*Trembling, I ask the curious woman, "Who are you, and what are you doing in my room?"*
+>
+>*In an almost ethereal manner, she moans out a response, "What do you mean, love? You know who I am, let me remind you..."*
+>
+>*Before I get the chance to even think about what I've just heard, she tries to grab my shoulder, but her hand passes through just like smoke, leaving a sticky spot of ectoplasm on my shirt. What's going on? My heart starts racing, I try to keep calm by taking deep breaths, backing up onto my bed, away from the lady. It suddenly clues in though, she isn't alive, is she?*
+>
+>*"What's wrong?" The ghost asks, her ghastly voice echoing through the room, "Don't you want to show me how much you love me, it's our honeymoon after all..."*
+
+What happens when a woman dies on her honeymoon? Hey, not all poltergeists are angry, some want a bit more than that.
+
 ### *Harvest*
 {: .center}
 
@@ -234,6 +255,39 @@ Play as the shambling horror comprised of bloody body-bits.
 >*I know, I programmed you to feel that way. Well then, let's get down to business.*
 
 A simple man has crushed the current limitations of AI by soul binding an unwilling succubus to his computer.
+
+### *Reckless Adventurer and an Elven Sorceress*
+{: .center}
+
+*<https://prompts.aidg.club/2444>*
+{: .center}
+
+![](https://files.catbox.moe/lvqg6r.jpg)
+{: .center}
+
+>*"I... survived?" you whisper under your breath.*
+>
+>*"Y-yea..." Yvonne responds, but her gaze moves to the side, avoiding you.*
+>
+>*"I thought that wound was fatal."*
+>
+>*"Don't worry about it now. What matters is that you are alive." she smiles and looks at you again.*
+>
+>*You can't help but smile in return. Overcoming the pain, you lift your arm and hug her gently by the shoulders. The elven maiden responds by closing her eyes and snuggling against you.*
+>
+>*If now you can be with her, all this pain was worth it.*
+>
+>*Looking around the room, you see it's some kind of cavern. On the ground, beneath the stone walls, corpses of people lie, in the pools of their own blood, their hands and feet are tied together.*
+>
+>*From under the blood strange runic marks written with chalk extend and crisscross the floor, their paths seemingly end under the black stone pedestal on which you lie.*
+>
+>*"Who are... were those people? What happened?" you ask her.*
+>
+>*Yvonne's expression shifts from a careless bliss to something between gravity and annoyance.*
+>
+>*"They... didn't make it." she says, looking away.*
+
+Sometimes, sacrifices must be made.
 
 ***
 ## The Friday of *Female Bullies*
