@@ -149,7 +149,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 ***
 
-### The Friday of *All Hallows' Eve*
+## The Friday of *All Hallows' Eve*
 {: .center}
 
 ***(Spookiness + Trick or Treating)***
@@ -161,7 +161,7 @@ There will be a knock at the door.
 *October 29th, 2021*
 {: .center}
 
-#### *Demonic Desire*
+### *Demonic Desire*
 {: .center}
 
 *<https://prompts.aidg.club/2500>*
@@ -174,9 +174,11 @@ There will be a knock at the door.
 
 Two friends, an unspoken crush, and a succubus costume. This Halloween night, they come together and find out just how far they are willing to go.
 
-#### *Mirror Mirror*
+### *Mirror Mirror*
+{: .center}
 
 *<https://prompts.aidg.club/2510>*
+{: .center}
 
 ![](https://files.catbox.moe/2grep8.jpg)
 {: .center}
@@ -189,9 +191,11 @@ Two friends, an unspoken crush, and a succubus costume. This Halloween night, th
 
 On a quiet All Hallows' Eve, (You) catch a glimpse of something odd about your reflection.
 
-#### *Harvest*
+### *Harvest*
+{: .center}
 
 *<https://prompts.aidg.club/2514>*
+{: .center}
 
 ![](https://files.catbox.moe/j7l5eh.jpg)
 {: .center}
@@ -208,9 +212,11 @@ On a quiet All Hallows' Eve, (You) catch a glimpse of something odd about your r
 
 Play as the shambling horror comprised of bloody body-bits.
 
-#### *A Succ in the Shell*
+### *A Succ in the Shell*
+{: .center}
 
 *<https://prompts.aidg.club/2515>*
+{: .center}
 
 ![](https://files.catbox.moe/4a58dz.jpg)
 {: .center}
@@ -230,7 +236,7 @@ Play as the shambling horror comprised of bloody body-bits.
 A simple man has crushed the current limitations of AI by soul binding an unwilling succubus to his computer.
 
 ***
-### The Friday of *Female Bullies*
+## The Friday of *Female Bullies*
 {: .center}
 
 Let's make prompts about those mean girls that just won't leave us alone god damnit
@@ -239,17 +245,21 @@ Let's make prompts about those mean girls that just won't leave us alone god dam
 [*October 15th, 2021*](#the-log)
 {: .center}
 
-#### *Tit for Tat*
+### *Tit for Tat*
+{: .center}
 
 *<https://prompts.aidg.club/2387>*
+{: .center}
 
 >*The asinine pecking order of Broad River High meant that anthro girls like her got pushed around and bullied by the human kids. Wendy, the arbiter of her suffering, was the top dog at this dump, and her hatred for anthros—especially girls like Jamie—meant that this discrimination was enforced; and all Jamie could do was sit still and take it. The teachers wouldn't do anything—Wendy was too smart to be caught red-handed—and the other anthro kids hated the idea of forming a united front, saying it was "too much hassle" and "their futures were at stake". Well, what did they know? How could they experience routine humiliation for uncontrollable truths? As far as Jamie was concerned, so long as this carried on, she had no future. She had to do something about it.*
 
 A timid mouse exacts her revenge against a smooth-skinned sadist.
 
-#### *Gina Bullies You*
+### *Gina Bullies You*
+{: .center}
 
 *<https://prompts.aidg.club/2396>*
+{: .center}
 
 ![Why not import this card?](https://files.catbox.moe/eak9au.png)
 {: .center}
@@ -258,9 +268,11 @@ A timid mouse exacts her revenge against a smooth-skinned sadist.
 
 Reunite with and get bulled by your childhood friend, who really likes Gwen Stefani's discography.
 
-#### *Abusive Yandere GF*
+### *Abusive Yandere GF*
+{: .center}
 
 *<https://prompts.aidg.club/2398>*
+{: .center}
 
 > *After a few days of her stalking you and you trying your best to talk to her so that she stops you decide that enough is enough.*
 >
@@ -276,7 +288,7 @@ Reunite with and get bulled by your childhood friend, who really likes Gwen Stef
 
 Yeah, you're going to get fucked, in a bad way.
 
-#### *Ghoulish Girls*
+### *Ghoulish Girls*
 
 *<https://prompts.aidg.club/2399>*
 
@@ -297,7 +309,7 @@ Yeah, you're going to get fucked, in a bad way.
 
 *Due to an 'unfortunate' loophole, you've been admitted to a high school that has traditionally only allowed monsters to enroll. To make matters worse, a trio of a spooky hotties have made it their mission to torment you, endlessly.*
 
-#### *A Study in Attraction*
+### *A Study in Attraction*
 
 *<https://prompts.aidg.club/2402>*
 
@@ -310,7 +322,7 @@ Yeah, you're going to get fucked, in a bad way.
 
 A student is assigned to work a school project with his bully.
 
-#### *Fire and Ice*
+### *Fire and Ice*
 
 *<https://prompts.aidg.club/2403>*
 
@@ -318,7 +330,7 @@ A student is assigned to work a school project with his bully.
 
 A fiery violent girl becomes overly attached to an icy calm guy. Opposites attract, but also get in a lot of fights too.
 
-#### *The Anti-Bully Ranger*
+### *The Anti-Bully Ranger*
 
 *<https://prompts.aidg.club/2404>*
 
@@ -333,7 +345,7 @@ A fiery violent girl becomes overly attached to an icy calm guy. Opposites attra
 
 "Transform: Anti-bully Ranger!"
 
-#### *Best Served Hot*
+### *Best Served Hot*
 
 *<https://prompts.aidg.club/2405>*
 
@@ -353,7 +365,7 @@ A fiery violent girl becomes overly attached to an icy calm guy. Opposites attra
 
 Being a girly guy makes you a frequent target of bullying, especially if you're a new guy. But when another girly guy (and his huge enforcer girl) takes you under his wing, you find yourself on the other side. But for some reason, it's not just revenge that's on your mind...
 
-#### *Bullies Make Her Bleat*
+### *Bullies Make Her Bleat*
 
 *<https://prompts.aidg.club/2406>*
 
@@ -383,7 +395,7 @@ Being a girly guy makes you a frequent target of bullying, especially if you're 
 
 Dolly and her cronies give Emly a makeover she didn't ask for.
 
-#### *Unethical Research on the Digestion Habits of Alraunes*
+### *Unethical Research on the Digestion Habits of Alraunes*
 
 *<https://prompts.aidg.club/2407>*
 
@@ -394,7 +406,7 @@ Dolly and her cronies give Emly a makeover she didn't ask for.
 
 In this voracious story, a conflicted but professional female researcher named Megan Holmes is spearheading research on the development and life-cycles of many exotic creatures, specifically a predatory plant-girl placed under her care, named Flora. Embark on a journey of female debasement as Megan tends to Flora's needs like a skilled, but detached gardener, until the once dispassionate scientist reveals the increasingly lewd and debauched feedings are beginning to awaken something hidden deep inside her.
 
-#### *Dragoness Head of HR, Employee Retention, & Digestion*
+### *Dragoness Head of HR, Employee Retention, & Digestion*
 
 *<https://prompts.aidg.club/2408>*
 
@@ -405,7 +417,7 @@ In this voracious story, a conflicted but professional female researcher named M
 
 Alma is a professional in charge of keeping the company of HCC's workforce lean and mean. The female dragon is notorious for her unorthodox but effective motivational strategies- which often boil down to consuming under-performing employees from the company's diverse workforce whole and alive, something which has earned the blue-scaled dragoness a much feared reputation.
 
-#### *Power and Sacrifice*
+### *Power and Sacrifice*
 
 *<https://prompts.aidg.club/2409>*
 
@@ -422,7 +434,7 @@ Alma is a professional in charge of keeping the company of HCC's workforce lean 
 
 Life has been hard for you ever since Celine Falaise arrived at the Academy. Ostracized by those you once called friends, you now spend your time alone. One night, Celine Falaise corners you into a fateful confrontation...
 
-#### *Sphinx Asks Bullshit Riddles Because She's Hungry*
+### *Sphinx Asks Bullshit Riddles Because She's Hungry*
 
 *<https://prompts.aidg.club/2410>*
 
@@ -433,7 +445,7 @@ Life has been hard for you ever since Celine Falaise arrived at the Academy. Ost
 
 Cats are notorious for enjoying to cruelly play with their food before eating it, and the ancient mythological sphinx is of no exception. Some of her riddles are a bit more well-thought out than others though, and the sly mythological lion-beast keeps a reserve of obtuse and unanswerable riddles in special reserve for a particularly sumptuous feast of tender female mortal flesh. A jaunty bus full of ill-advised female volley-ball stars have unknowingly landed themselves on the cross hairs of this ageless magical predator of the Egyptian deserts and Greek isles.
 
-#### *Hey Mom, Watch This*
+### *Hey Mom, Watch This*
 
 *<https://prompts.aidg.club/2411>*
 
@@ -443,7 +455,7 @@ Cats are notorious for enjoying to cruelly play with their food before eating it
 
 Your conservative mother made you really uncomfortable with your sexuality growing up. Now it's time for her to become really comfortable with it, since she's tied up and about to watch you suck and fuck like the bisexual boyslut you are.
 
-#### *Proper Guidance for a Female Bully*
+### *Proper Guidance for a Female Bully*
 
 *<https://prompts.aidg.club/2413>*
 
@@ -465,7 +477,7 @@ Your conservative mother made you really uncomfortable with your sexuality growi
 
 A female bully receives some proper guidance from a concerned older gentleman with a mind control device.
 
-#### *Liyi and the Bastard*
+### *Liyi and the Bastard*
 
 *<https://prompts.aidg.club/2414>*
 
@@ -477,7 +489,7 @@ A female bully receives some proper guidance from a concerned older gentleman wi
 
 A gym shark decides to spend her night picking on the local fat bastard, (You). She can be dominate or you can awaken your inner mind breaking talent.
 
-#### *A Break Up By Phone*
+### *A Break Up By Phone*
 
 *<https://prompts.aidg.club/2416>*
 
@@ -500,7 +512,7 @@ A gym shark decides to spend her night picking on the local fat bastard, (You). 
 
 One day, your best friend sends you an ominous text message that he needs to come over and that it's important. An hour and a drink or two later, it becomes clear that his girlfriend has been abusive to him, and he feels like he has to break up with her, but doesn't know how. And it might just be the alcohol, but you think you have a great idea that ends up with him being together with someone that really cares about him...
 
-#### *Perks of Owning a Cockatoogirl*
+### *Perks of Owning a Cockatoogirl*
 
 *<https://prompts.aidg.club/2418>*
 
@@ -521,7 +533,7 @@ One day, your best friend sends you an ominous text message that he needs to com
 
 Your bratty birdgirl keeps chasing away all your girlfriends, eager to have you all for herself — and to make you like it.
 
-#### *Sleepover With The Girls*
+### *Sleepover With The Girls*
 
 *<https://prompts.aidg.club/2421>*
 
@@ -540,7 +552,7 @@ You're the only boy at the sleepover, but they can't tell...
 
 Your friend, Emily, invites you to her sleep over, along with 2 of her other friends. You will be the only boy at the sleepover, even though Emily thinks you're a girl.
 
-#### *An Unexpected Coed Visit*
+### *An Unexpected Coed Visit*
 
 *<https://prompts.aidg.club/2423>*
 
@@ -554,7 +566,7 @@ Your friend, Emily, invites you to her sleep over, along with 2 of her other fri
 
 Your uni co-ed Jane does a rape. Probably won't get any jail time.
 
-#### *Slap*
+### *Slap*
 
 *<https://prompts.aidg.club/2426>*
 
@@ -577,7 +589,7 @@ You are crushed by debt. If you don't pay up in a week, the loan sharks intend o
 
 ***
 
-### The Friday of *Little Sisters*
+## The Friday of *Little Sisters*
 {: .center}
 
 Let's make prompts about the younger sister; the woman who is bound to us by blood or circumstance, and the sibling duties that we share.
@@ -586,7 +598,7 @@ Let's make prompts about the younger sister; the woman who is bound to us by blo
 [*October 1st, 2021*](#the-log)
 {: .center}
 
-#### *Embarrassed Art Model*
+### *Embarrassed Art Model*
 
 *<https://prompts.aidg.club/2335>*
 
@@ -598,7 +610,7 @@ Let's make prompts about the younger sister; the woman who is bound to us by blo
 
 Jake, a college student, is hoping to earn a few easy bucks modeling for his school's art department. Things get uncomfortable when his sister shows up.
 
-#### *Brother catches little sister skinny dipping*
+### *Brother catches little sister skinny dipping*
 
 *<https://prompts.aidg.club/2336>*
 
@@ -614,7 +626,7 @@ Jake, a college student, is hoping to earn a few easy bucks modeling for his sch
 
 While the parents are away, the siblings will play.
 
-#### *An Ideal Little Sister*
+### *An Ideal Little Sister*
 
 *<https://prompts.aidg.club/2337>*
 
@@ -631,7 +643,7 @@ While the parents are away, the siblings will play.
 
 Claire is a smoking hot, high school student swimming sensation living her dream life. Well, if not for the fact that must share her home with the ugly, useless, pervert bastard that is her older brother Anon. Unfortunately for Claire, Anon recently ordered a magical object called an "imouto stone" from an online store. Will this magic gemstone change their relationship to better appeal to Anon's twisted desires?
 
-#### *Captured Royalty*
+### *Captured Royalty*
 
 *<https://prompts.aidg.club/2339>*
 
@@ -651,7 +663,7 @@ Claire is a smoking hot, high school student swimming sensation living her dream
 
 A prince and his sister are captured by high elves. Sexual humiliation ensues.
 
-#### *Little Sister's Right Hand Man*
+### *Little Sister's Right Hand Man*
 
 *<https://prompts.aidg.club/2332>*
 
@@ -678,7 +690,7 @@ A prince and his sister are captured by high elves. Sexual humiliation ensues.
 
 Your little sister broke her arm and now you gotta take care of her. No, NOT IN THAT WAY, you sicko.
 
-#### *Some help from your sister*
+### *Some help from your sister*
 
 *<https://prompts.aidg.club/2331>*
 
@@ -691,7 +703,7 @@ Your little sister broke her arm and now you gotta take care of her. No, NOT IN 
 
 The younger daughter of a noble, you were afflicted with the dreaded futanari curse by an angry wizard. On a snowy winter morning, only your older sister is around to help...
 
-#### *Not So Little*
+### *Not So Little*
 
 *<https://prompts.aidg.club/2340>*
 
@@ -703,7 +715,7 @@ My little sister is growing up into a huge futa.
 
 ***
 
-### The Friday of *Mommies*
+## The Friday of *Mommies*
 {: .center}
 
 Let's make prompts about mothers, whether given to us by birth, circumstance, a fetish, or legal consequence.
@@ -712,7 +724,7 @@ Let's make prompts about mothers, whether given to us by birth, circumstance, a 
 [*September 17th, 2021*](#the-log)
 {: .center}
 
-#### *Mom Only Memory*
+### *Mom Only Memory*
 
 *<https://prompts.aidg.club/2259>*
 
@@ -735,7 +747,7 @@ Let's make prompts about mothers, whether given to us by birth, circumstance, a 
 
 As one of the few fertile humans left on Earth, you are assigned to a captive breeding program where a motherly android is responsible for keeping you safe from the outside world and providing you all the possible creature comforts you could ever want while draining you of your seed for the good of mankind.
 
-#### *A Boy and His Bunker*
+### *A Boy and His Bunker*
 
 *<https://prompts.aidg.club/2260>*
 
@@ -759,7 +771,7 @@ As one of the few fertile humans left on Earth, you are assigned to a captive br
 
 An obsolete Cold Warrior takes care of a trapped little boy. Circuits, relays, freeze dried food, and love, underground.
 
-#### *Pure Blood*
+### *Pure Blood*
 
 *<https://prompts.aidg.club/2261>*
 
@@ -777,7 +789,7 @@ An obsolete Cold Warrior takes care of a trapped little boy. Circuits, relays, f
 
 The king is dead, and now his son needs to ascend the throne. The queen informs him that his bloodline is special and should be kept in the family that now needs an heir.
 
-#### *Mamacita*
+### *Mamacita*
 
 *<https://prompts.aidg.club/2262>*
 
@@ -794,7 +806,7 @@ The king is dead, and now his son needs to ascend the throne. The queen informs 
 
 A voluptuous, motherly Latina woman takes tender loving care of her young neighbor.
 
-#### *A Small Wish*
+### *A Small Wish*
 
 *<https://prompts.aidg.club/2263>*
 
@@ -806,7 +818,7 @@ A voluptuous, motherly Latina woman takes tender loving care of her young neighb
 
 A succubus serves a new master… a little boy that desperately wants a friend, and a mommy.
 
-#### *The Hopper and the Snake*
+### *The Hopper and the Snake*
 
 *<https://prompts.aidg.club/2264>*
 
@@ -826,7 +838,7 @@ A succubus serves a new master… a little boy that desperately wants a friend, 
 
 The courageous hero of justice, the Crimson Hopper, had managed to find out the true identity of the mastermind behind one of Duval's most nefarious criminal organizations. Will he be able to defeat the elusive White Snake, who turned out to be a middle-aged beauty?
 
-#### *Your Mom is a Horny Loli Cougar*
+### *Your Mom is a Horny Loli Cougar*
 
 *<https://prompts.aidg.club/2265>*
 
@@ -848,7 +860,7 @@ The courageous hero of justice, the Crimson Hopper, had managed to find out the 
 
 Your lolibaba misoji mom takes good care of you, her special boy.
 
-#### *Siren Mommy*
+### *Siren Mommy*
 
 *<https://prompts.aidg.club/2266>*
 
@@ -868,7 +880,7 @@ Your lolibaba misoji mom takes good care of you, her special boy.
 
 A brutal man-eater returns home to provide the mothering her adult son never got.
 
-#### *Relying on Me*
+### *Relying on Me*
 
 *<https://prompts.aidg.club/2269>*
 
@@ -878,7 +890,7 @@ A brutal man-eater returns home to provide the mothering her adult son never got
 
 I've been living with Brett for so long now that I can't even remember my life without him. Ever since an accident took his parents from him at a young age and he was adopted into my family, we've been like brothers. And while my parents did take care of him through our youth, as we've gotten older, I've taken a lot more of an interest in supporting him directly. Now we live on our own as we go to college, and I feel almost like a doting mother at this point. So when Brett comes home crushed because his girlfriend of four months that he loved dropped him like a hot potato, I have to comfort him, then remind him that he can rely on me for everything... absolutely everything.
 
-#### *Fuck This God Damned Earth*
+### *Fuck This God Damned Earth*
 
 *<https://prompts.aidg.club/2270>*
 
@@ -888,7 +900,7 @@ I've been living with Brett for so long now that I can't even remember my life w
 
 What better way to appreciate mother earth then to fuck the ground we walk on?
 
-#### *Sleeping with Mom*
+### *Sleeping with Mom*
 
 *<https://prompts.aidg.club/2271>*
 
@@ -898,7 +910,7 @@ What better way to appreciate mother earth then to fuck the ground we walk on?
 
 After a strange dream, a son wants to sleep in his mom's bed with her.
 
-#### *Late-Night TV with Mom*
+### *Late-Night TV with Mom*
 
 *<https://prompts.aidg.club/2274>*
 
@@ -912,7 +924,7 @@ After a strange dream, a son wants to sleep in his mom's bed with her.
 
 A son, unable to sleep, watches TV with his Mom.
 
-#### *Bad Mommy*
+### *Bad Mommy*
 
 *<https://prompts.aidg.club/2276>*
 
@@ -922,7 +934,7 @@ A son, unable to sleep, watches TV with his Mom.
 
 Going to hell for this one.
 
-#### *Family Vacation Out of Exile*
+### *Family Vacation Out of Exile*
 
 *<https://prompts.aidg.club/2277>*
 
@@ -930,7 +942,7 @@ Going to hell for this one.
 
 Go on vacation with your shadow leviathan wife and child to the lands you were once exiled from (for obvious reasons)
 
-#### *This bird does not want to fly the nest*
+### *This bird does not want to fly the nest*
 
 *<https://prompts.aidg.club/2284>*
 
@@ -940,7 +952,7 @@ Go on vacation with your shadow leviathan wife and child to the lands you were o
 
 Wholesome story about a boy growing into a man and courting his mother.
 
-#### *Amazon Therapy*
+### *Amazon Therapy*
 
 *<https://prompts.aidg.club/2285>*
 
@@ -954,7 +966,7 @@ Wholesome story about a boy growing into a man and courting his mother.
 
 Trapped in an Amazon jungle, I'm being (literally) nursed back to health by a BBW Amazon mommy. I wonder what else could happen with this tribe?
 
-#### *The Mommy AOC Experience*
+### *The Mommy AOC Experience*
 
 *<https://prompts.aidg.club/2299>*
 
@@ -966,7 +978,7 @@ In the near future, The Squad reigns supreme in America. You are hooked up to a 
 
 ***
 
-### The Friday of *Transformation*
+## The Friday of *Transformation*
 
 Let's make prompts ignoring modern biology completely, using body modification conventions as tools to change one's physical form.
 
@@ -976,13 +988,13 @@ Let's make prompts ignoring modern biology completely, using body modification c
 
 ***
 
-### The Friday of *Personality Alteration*
+## The Friday of *Personality Alteration*
 
 Let's make prompts ignoring modern psychology completely, using hypnosis or other mind breaking things as tools to change one's identity.
 
 [*August 20th, 2021*](#the-log)
 
-#### *Measuring the Effects of Increased Sexual Arousal when Consuming Love Potions*
+### *Measuring the Effects of Increased Sexual Arousal when Consuming Love Potions*
 
 *<https://prompts.aidg.club/1999>*
 
@@ -992,7 +1004,7 @@ A documentation of the effects of Hyde brand Love Potions on participants. This 
 
 This paper was prepared by Anonne Mause and Jerkyll Hyde of the University of London.
 
-#### *Sex Slave Headset*
+### *Sex Slave Headset*
 
 *<https://prompts.aidg.club/2030>*
 
@@ -1000,7 +1012,7 @@ This paper was prepared by Anonne Mause and Jerkyll Hyde of the University of Lo
 
 You are a lecherous creep who cares little for the concept of "consent"
 
-#### *Re: Programmed to Serve*
+### *Re: Programmed to Serve*
 
 *<https://prompts.aidg.club/2031>*
 
@@ -1018,7 +1030,7 @@ You are a lecherous creep who cares little for the concept of "consent"
 
 In a futuristic dystopia, help a revolutionary obtain a key piece of technology, and in return, receive a sex slave in the form of the hot android cop chick that was giving you chase!
 
-#### *The Controller*
+### *The Controller*
 
 *<https://prompts.aidg.club/2032>*
 
@@ -1044,7 +1056,7 @@ In a futuristic dystopia, help a revolutionary obtain a key piece of technology,
 
 You encounter a strange man walking home from work and come into possession of an object that is claimed to have immense power. Does it actually work? Can it do what the strange man claims? Why don’t you try it out?
 
-#### *MOONLIGHT WHITE*
+### *MOONLIGHT WHITE*
 
 *<https://prompts.aidg.club/2033>*
 
@@ -1056,7 +1068,7 @@ You encounter a strange man walking home from work and come into possession of a
 
 A prompt where there's something terribly wrong with the night sky.
 
-#### *The Mind-Bender's Challenge*
+### *The Mind-Bender's Challenge*
 
 *<https://prompts.aidg.club/2034>*
 
@@ -1070,7 +1082,7 @@ A prompt where there's something terribly wrong with the night sky.
 
 A rare breed of monster hunter, you are the Mind-Bender, a master of psychic battles. You are facing what could be your toughest opponent yet, a powerful Mindflayer. Best this creature in a contest of will to free the many slaves she keeps and to save your own life from her treacherous intentions! Equally matched in power to you, this foe will not go down without a fight. Remember, to the victor go the spoils.
 
-#### *Mind Control Thingy*
+### *Mind Control Thingy*
 
 *<https://prompts.aidg.club/2035>*
 
@@ -1086,7 +1098,7 @@ A rare breed of monster hunter, you are the Mind-Bender, a master of psychic bat
 
 Get controlled by a disembodied voice in your head.
 
-#### *Con-fidence at the Con*
+### *Con-fidence at the Con*
 
 *<https://prompts.aidg.club/2037>*
 
@@ -1100,13 +1112,13 @@ Play as teenage trap at their first anime convention trying to gain confidence b
 
 ***
 
-### The Friday of *Dwarves*
+## The Friday of *Dwarves*
 
 Let's make prompts ignoring boorish elves completely, using dwarves or other dwarvish things as tools and alcohol.
 
 [*August 6th, 2021*](#the-log)
 
-#### *Out of the Furnace, Into the...*
+### *Out of the Furnace, Into the...*
 
 *<https://prompts.aidg.club/1867>*
 
@@ -1122,7 +1134,7 @@ Let's make prompts ignoring boorish elves completely, using dwarves or other dwa
 
 Iron-Hand Arms. The lovechild of you and your Dwarven business associate Gilda. All is going well until an old grudge results in Gilda being cursed with age regression; it appears the curse has some other side-effects as well.
 
-#### *Deep Rock Galactic*
+### *Deep Rock Galactic*
 
 *<https://prompts.aidg.club/1917>*
 
@@ -1134,7 +1146,7 @@ Iron-Hand Arms. The lovechild of you and your Dwarven business associate Gilda. 
 
 A mission goes wrong when the Drop Pod fails to extract. Abandoned thousands of meters underground by Mission Control, the Dwarves are determined to return to the Space Rig.
 
-#### *Urist's Tryst*
+### *Urist's Tryst*
 
 *<https://prompts.aidg.club/1918>*
 
@@ -1152,12 +1164,12 @@ A dwarf, Urist, is possessed by a strange mood, and makes his way deep into the 
 
 ***
 
-### The Friday of *School*
+## The Friday of *School*
 
 Let's make prompts ignoring Mormon's trash filter completely, using students or other academic concepts as tools for storytelling.
 *July 23rd, 2021*
 
-#### *Clair de Lune*
+### *Clair de Lune*
 
 *<https://prompts.aidg.club/1787>*
 
@@ -1167,7 +1179,7 @@ Let's make prompts ignoring Mormon's trash filter completely, using students or 
 
 A mysterious call for piano students on the school pin board has gotten me closer to the school's hated rich kid than I ever thought I would, and it turns out he's just a scared boy that wants someone to like him for who he is[.](https://www.youtube.com/watch?v=ea2WoUtbzuw)
 
-#### *Beneath The Cherry Blossoms*
+### *Beneath The Cherry Blossoms*
 
 *<https://prompts.aidg.club/1788>*
 
@@ -1177,7 +1189,7 @@ A mysterious call for piano students on the school pin board has gotten me close
 
 Two childhood friends find themselves realizing that the feelings they have for each other are starting to go beyond just friendship. And as they sit below a cherry blossom tree after school, they have a moment that will change their relationship forever.
 
-#### *Quarterback Sneak*
+### *Quarterback Sneak*
 
 *<https://prompts.aidg.club/1789>*
 
@@ -1187,7 +1199,7 @@ Two childhood friends find themselves realizing that the feelings they have for 
 
 When I, the star quarterback of the school, was caught in my hobby of wearing women's panties in secret by a diminutive nerd, I thought my athletic career was either over or worse, I was going to be blackmailed. But when the nerd simply gave me a piece of paper with his address that told me to come over at midnight, I found myself in an intimate night of revelations about myself.
 
-#### *Morning Commute*
+### *Morning Commute*
 
 *<https://prompts.aidg.club/1791>*
 
@@ -1197,7 +1209,7 @@ When I, the star quarterback of the school, was caught in my hobby of wearing wo
 
 It is early in the morning in the dead of winter, and school is miles away. Wait in the train station, drinking coffee and eating homemade bread, with Erin, your soft-spoken classmate.
 
-#### *Tomfoolery*
+### *Tomfoolery*
 
 *<https://prompts.aidg.club/1792>*
 
@@ -1207,7 +1219,7 @@ It is early in the morning in the dead of winter, and school is miles away. Wait
 
 In your attempt to swindle your friend, you somehow get her to confess her feelings for you.
 
-#### *An Exam Under Pressure*
+### *An Exam Under Pressure*
 
 *<https://prompts.aidg.club/1793>*
 
@@ -1219,7 +1231,7 @@ In your attempt to swindle your friend, you somehow get her to confess her feeli
 
 A student is stuck in an exam and really needs to pee.
 
-#### *Monstergirl High School II - What's a Dad to Do?*
+### *Monstergirl High School II - What's a Dad to Do?*
 
 *<https://prompts.aidg.club/1794>*
 
@@ -1241,7 +1253,7 @@ Recently, your son enrolled at Euryale High, the once monstergirl-only school th
 At the parent-teacher conference for your son, his teachers revealed that he's been doing very well. Additionally, you've caught their attention when you revealed you were a single father.
 Now, you're caught in the affections of an Arachne, a Papillon, a Merrow, a Gazer, a Nekomata, and a Dragon-girl!
 
-#### *Valediction*
+### *Valediction*
 
 *<https://prompts.aidg.club/1795>*
 
@@ -1253,7 +1265,7 @@ Now, you're caught in the affections of an Arachne, a Papillon, a Merrow, a Gaze
 
 On the morning following graduation, my former bully turned study partner shows up at my door, looking to tie up loose ends.
 
-#### *Heartbeat Running Away*
+### *Heartbeat Running Away*
 
 *<https://prompts.aidg.club/1797>*
 
@@ -1263,7 +1275,7 @@ On the morning following graduation, my former bully turned study partner shows 
 
 It's the height of Spring Break, and you are at ground zero: Miami Beach. At a scorching pool party, you meet Skye: a beautiful girl who offers you a chance to indulge in all the decadent pleasures that Spring Break has to offer.
 
-#### *Ms. McKenzie's Sex-Ed Class Gets Out of Hand*
+### *Ms. McKenzie's Sex-Ed Class Gets Out of Hand*
 
 *<https://prompts.aidg.club/1800>*
 
@@ -1273,7 +1285,7 @@ It's the height of Spring Break, and you are at ground zero: Miami Beach. At a s
 
 The novice, young teacher Ms. McKenzie is teaching her first sex-ed lesson. Her class, however, seems intent on asking lewd, inappropriate questions. After ignoring them at first, Ms. McKenzie soon seems to take their vulgarity in stride...
 
-#### *Nude Modelling for the Top of the Class*
+### *Nude Modelling for the Top of the Class*
 
 *<https://prompts.aidg.club/1801>*
 
@@ -1289,7 +1301,7 @@ The novice, young teacher Ms. McKenzie is teaching her first sex-ed lesson. Her 
 
 Miss Flores adopts a more active role in teaching her star pupils.
 
-#### *Trapped on the Rooftop*
+### *Trapped on the Rooftop*
 
 *<https://prompts.aidg.club/1804>*
 
@@ -1297,7 +1309,7 @@ Miss Flores adopts a more active role in teaching her star pupils.
 
 A group of lolis corners you on the school roof. Whatever could they want from you?
 
-#### *Bloody Playground*
+### *Bloody Playground*
 
 *<https://prompts.aidg.club/1803>*
 
@@ -1307,7 +1319,7 @@ A group of lolis corners you on the school roof. Whatever could they want from y
 
 Elaine tries to escape from the Lovecraftian terrors that stalk the empty blood soaked halls of her school.
 
-#### *Mrs. Smith's Hands-On Lesson*
+### *Mrs. Smith's Hands-On Lesson*
 
 *<https://prompts.aidg.club/1805>*
 
@@ -1319,7 +1331,7 @@ Elaine tries to escape from the Lovecraftian terrors that stalk the empty blood 
 
 You are kept after class by your teacher. What could she want?
 
-#### *An "Innocent" Prank*
+### *An "Innocent" Prank*
 
 *<https://prompts.aidg.club/1806>*
 
@@ -1329,12 +1341,12 @@ You're a teacher for a class full of mischievous girls. What could go wrong?
 
 ***
 
-### The Friday of *Human Experimentation / Farming*
+## The Friday of *Human Experimentation / Farming*
 
 Let's make prompts about ignoring human rights completely, and using humans or other sapient creatures as guinea pigs and cattle.
 [*July 9th, 2021*](#the-log)
 
-#### *New Content*
+### *New Content*
 
 *<https://prompts.aidg.club/1647>*
 
@@ -1350,7 +1362,7 @@ Let's make prompts about ignoring human rights completely, and using humans or o
 
 A man runs a youtube channel where he performs random surgical operations and other acts of torture on women.
 
-#### *Boredom of the Nobles*
+### *Boredom of the Nobles*
 
 *<https://prompts.aidg.club/1649>*
 
@@ -1360,7 +1372,7 @@ A man runs a youtube channel where he performs random surgical operations and ot
 
 You are the bored Prince, Victor Lux. You and your sister have recently been charged with the task of lording over a newly conquered city named Yallen. As the tedious task of taking of bringing law and order to the town as it is rebuilding takes a toll on you, your sister makes an interesting discovery. There is a secret basement in the old Lord's Manor that you currently occupy and in there is a torture chamber. Your normally reserved sister reveals a sadistic side of herself and wants to start torturing people to quench her dark desires. You agree if nothing else it is a way to spice up your mundane life.
 
-#### *Treasure in the Dunes*
+### *Treasure in the Dunes*
 
 *<https://prompts.aidg.club/1661>*
 
@@ -1370,7 +1382,7 @@ You are the bored Prince, Victor Lux. You and your sister have recently been cha
 
 As a battle goes on in a vast desert, a young tactician and a young thief remain behind, searching the dunes for treasure. When they stumble across an odd potion, they figure they could either let a mage identify it... or they could just experiment, try it, and see what happens. And so, thanks to some goading from the thief and some bets, both of them try the potion... only to find it was a love potion. And so, both forget they're close to a battle, the thief forgot his grief about his slain lover, and the tactician forgot all the restraint they told themselves they'd show, and desire takes hold.
 
-#### *Fujoshi Forcefully Fornicated by Frightful Frankenstein*
+### *Fujoshi Forcefully Fornicated by Frightful Frankenstein*
 
 *<https://prompts.aidg.club/1674>*
 
@@ -1388,7 +1400,7 @@ As a battle goes on in a vast desert, a young tactician and a young thief remain
 
 You are a woman in your late thirties. As a huge fan of video games, you need some extra cash for the Ultimate Edition of your most anticipated release. You join a suspicious medical trial for women of your unique qualifications and end up getting more than you bargain for!
 
-#### *Horns*
+### *Horns*
 
 *<https://prompts.aidg.club/1682>*
 
@@ -1402,7 +1414,7 @@ You are a woman in your late thirties. As a huge fan of video games, you need so
 
 Something of a capitalist, you understand the market demand for two things: fresh Draph milk and their powdered horns. Luckily for you, you hold a monopoly on both.
 
-#### *Pollinating Fairies*
+### *Pollinating Fairies*
 
 *<https://prompts.aidg.club/1683>*
 
@@ -1418,7 +1430,7 @@ Something of a capitalist, you understand the market demand for two things: fres
 
 After a horrible catastrophe wiped out all bees and many other insects humans had to employ fairies to prevent most types of plants from going extinct.
 
-#### *The Little God*
+### *The Little God*
 
 *<https://prompts.aidg.club/1684>*
 
@@ -1428,7 +1440,7 @@ After a horrible catastrophe wiped out all bees and many other insects humans ha
 
 One janitor's day is made interesting when his workplace implodes from within because of its star research endeavor.
 
-#### *A.nimal B.rain S.wap E.xperiment*
+### *A.nimal B.rain S.wap E.xperiment*
 
 *<https://prompts.aidg.club/1685>*
 
@@ -1446,7 +1458,7 @@ One janitor's day is made interesting when his workplace implodes from within be
 
 Play as a morally bankrupt scientist and get off on swapping the brains of animals and people.
 
-#### *Monster Breeding Factory Inspection*
+### *Monster Breeding Factory Inspection*
 
 AI Dungeon Version - *<https://prompts.aidg.club/1687>*
 NovelAI Version - *<https://prompts.aidg.club/1688>*
@@ -1465,7 +1477,7 @@ NovelAI Version - *<https://prompts.aidg.club/1688>*
 
 Play as Demon Lord Guren and be humbly invited to inspect his recently completed monster breeding facility.
 
-#### *The Quest for the Phallic Fragrance*
+### *The Quest for the Phallic Fragrance*
 
 *<https://prompts.aidg.club/1693>*
 
@@ -1481,7 +1493,7 @@ Play as Demon Lord Guren and be humbly invited to inspect his recently completed
 
 Letting your dog girl assistant sniff your crotch a little is a small price to pay when you're pursuing the noble goal of creating a perfume that smells exactly like dick.
 
-#### *Holstaur Farm*
+### *Holstaur Farm*
 
 *<https://prompts.aidg.club/1691>*
 
@@ -1495,7 +1507,7 @@ Letting your dog girl assistant sniff your crotch a little is a small price to p
 
 What had started as a minor disagreement over milk quotas, spiralled into something much more sinister. Fed up with their human oppressors, the once docile Holstaurs had risen up, capturing their owners and forcing them to submit to the same exploitation they doled out—being milked dry every day.
 
-#### *Breast Unrest*
+### *Breast Unrest*
 
 *<https://prompts.aidg.club/1694>*
 
@@ -1505,7 +1517,7 @@ What had started as a minor disagreement over milk quotas, spiralled into someth
 
 A humble 'human heifer' farmer, you aren't too pleased when some damn liberal comes and interrupts your operations. Well, let's just say you do things differently on your farm.
 
-#### *It ain't much, but it's honest work*
+### *It ain't much, but it's honest work*
 
 *<https://prompts.aidg.club/1698>*
 
@@ -1517,12 +1529,12 @@ Help acclimate an office lady to life on the farm.
 
 ***
 
-### The Friday of *Native Subjugation*
+## The Friday of *Native Subjugation*
 
 Let's make prompts about ignoring human rights completely, and using natives as foot stools.
 [*June 25th, 2021*](#the-log)
 
-#### *An Account of Mankind's Conquest of the Elves*
+### *An Account of Mankind's Conquest of the Elves*
 
 *<https://prompts.aidg.club/1547>*
 
@@ -1530,7 +1542,7 @@ Let's make prompts about ignoring human rights completely, and using natives as 
 
 A bored European nobleman abandons his life of luxury to become a seafaring explorer. Written in the style of an old memoire, self-styled adventurer Cornelius von Fredrickson chronicles his discovery of an isolated island populated by elves, and vows to bring them under the heel of mankind.
 
-#### *The Nightmare of Nanjing*
+### *The Nightmare of Nanjing*
 
 *<https://prompts.aidg.club/1548>*
 
@@ -1541,7 +1553,7 @@ A bored European nobleman abandons his life of luxury to become a seafaring expl
 
 The following is a fictional prompt based loosely on the alleged atrocities committed by the Imperial Japanese army in Nanjing during December, 1937.
 
-#### *Custer's Revenge*
+### *Custer's Revenge*
 
 *<https://prompts.aidg.club/1551>*
 
@@ -1549,7 +1561,7 @@ The following is a fictional prompt based loosely on the alleged atrocities comm
 
 You are Custer, and your job is to fuck the Native American Girl.
 
-#### *Memoirs from the Amazonian Jungle*
+### *Memoirs from the Amazonian Jungle*
 
 *<https://prompts.aidg.club/1553>*
 
@@ -1559,12 +1571,12 @@ Conquistador turns a native tribe into his harem, beginning with their finest wa
 
 ***
 
-### The Friday of *Fairies*
+## The Friday of *Fairies*
 
 Let's make prompts about ignoring fairy rights completely.
 [*May 28th, 2021*](#the-log)
 
-#### *Dryad Encounter*
+### *Dryad Encounter*
 
 *<https://prompts.aidg.club/294>*
 
@@ -1577,7 +1589,7 @@ Let's make prompts about ignoring fairy rights completely.
 >*"I am Lydia, dryad of this forest. Your actions have saved my domain. I am forever in your service."*
 A knight slays a dragon but is severely wounded in the process. He awakens to find his life has been saved by the thankful forest dryad.
 
-#### *The Sunshine Sanctuary for Sick Fairies*
+### *The Sunshine Sanctuary for Sick Fairies*
 
 *<https://prompts.aidg.club/361>*
 
@@ -1589,7 +1601,7 @@ A knight slays a dragon but is severely wounded in the process. He awakens to fi
 
 You run a clinic that rehabilitates these gentle creatures from whatever physical or mental malady they suffer from, with the help of your fairy nurse, Luna.
 
-#### *Fairytale: Prelude - "Caress of the Morning Dew"*
+### *Fairytale: Prelude - "Caress of the Morning Dew"*
 
 *<https://prompts.aidg.club/1310>
 <https://prompts.aidg.club/1311>*
@@ -1608,7 +1620,7 @@ You run a clinic that rehabilitates these gentle creatures from whatever physica
 
 You got isekai'd into the world full of fairies. And then things got lewd.
 
-#### *Tentacle Respect Online*
+### *Tentacle Respect Online*
 
 *<https://prompts.aidg.club/1312>*
 
@@ -1616,7 +1628,7 @@ You got isekai'd into the world full of fairies. And then things got lewd.
 
 In this prompt you get to take control of those tentacle monsters from Sword Art Online.
 
-#### *You Find a Fairy in Distress*
+### *You Find a Fairy in Distress*
 
 *<https://prompts.aidg.club/1313>*
 
@@ -1630,12 +1642,12 @@ You found a little fairy, take good care of her (or torture her, I don't care).
 
 ***
 
-### The Friday of *Cuteness and Hilarity*
+## The Friday of *Cuteness and Hilarity*
 
 Let's make prompts about ignoring human rights completely, and using children as cum socks.
 [*May 14th, 2021*](#the-log)
 
-#### *A Basket of Kittens*
+### *A Basket of Kittens*
 
 *<https://prompts.aidg.club/1237>*
 
@@ -1643,7 +1655,7 @@ Let's make prompts about ignoring human rights completely, and using children as
 
 Lonely fisherman in his 20s saves a basket full of neko lolis.
 
-#### *Your Daughter will Do Anything to Have You Back*
+### *Your Daughter will Do Anything to Have You Back*
 
 *<https://prompts.aidg.club/1238>*
 
@@ -1651,7 +1663,7 @@ Lonely fisherman in his 20s saves a basket full of neko lolis.
 
 Uh oh, your life took a weird turn... Help your daughter figure it out?
 
-#### *Ben and Gwen Tennyson in: Omnifriks*
+### *Ben and Gwen Tennyson in: Omnifriks*
 
 *<https://prompts.aidg.club/1241>*
 
@@ -1675,7 +1687,7 @@ Uh oh, your life took a weird turn... Help your daughter figure it out?
 
 A Ben 10 nsfw prompt, where you play as Ben shagging his cute cousin Gwen.
 
-#### *Goblin girl in Heat*
+### *Goblin girl in Heat*
 
 *<https://prompts.aidg.club/1242>*
 
