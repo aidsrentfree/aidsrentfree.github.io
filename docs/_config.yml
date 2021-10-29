@@ -1,4 +1,5 @@
 title: /aids/ rentries
 markdown: kramdown
+auto_ids: false
 plugins:
   - jekyll-feed
