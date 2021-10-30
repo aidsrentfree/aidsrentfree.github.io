@@ -1955,6 +1955,7 @@ Let's make prompts about ignoring fairy rights completely.
 >*From out of the lush foliage emerged a humanoid form! Her silvery hair was adorned with a variety of flowers. Her ample breasts and womanly hips were barely covered by a tangle of vines, her only clothing.*
 >
 >*"I am Lydia, dryad of this forest. Your actions have saved my domain. I am forever in your service."*
+
 A knight slays a dragon but is severely wounded in the process. He awakens to find his life has been saved by the thankful forest dryad.
 
 ### *The Sunshine Sanctuary for Sick Fairies*
