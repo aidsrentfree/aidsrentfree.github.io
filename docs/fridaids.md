@@ -42,6 +42,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*A Succ in the Shell*](#a-succ-in-the-shell)
   - [*A Spooky and Very Topical Story About Trick or Treating*](#a-spooky-and-very-topical-story-about-trick-or-treating)
   - [*A Puppy's Tricks and Treats*](#a-puppys-tricks-and-treats)
+  - [*Don't Trust Strange Witches*](#dont-trust-strange-witches)
 - [The Friday of *Female Bullies*](#the-friday-of-female-bullies)
   - [*Tit for Tat*](#tit-for-tat)
   - [*Gina Bullies You*](#gina-bullies-you)
@@ -340,6 +341,27 @@ A simple man has crushed the current limitations of AI by soul binding an unwill
 >*"Good," the serval purred, letting out a soft sigh that caused the border collie to shiver. "Now let's get your 'costume' on. You're gonna be my little puppy tonight."*
 
 A serval decides on her roommate's costume for Halloween.
+
+### *Don't Trust Strange Witches*
+{: .center}
+
+*<https://prompts.aidg.club/2522>*
+{: .center}
+
+![](https://files.catbox.moe/xz0pab.jpg)
+{: .center}
+
+>*"Do they taste good?"*
+>
+>*You smile and continue to eat like a starving dog. About halfway through the meal however, you start to feel funny. A bit lightheaded and woozy, your body starts to waver to and fro.*
+>
+>*"These cookies taste kinda funny..." you say as your vision starts to blur and your feel your surroundings are a mile away.*
+>
+>*"That just means it's working. How lucky am I to find a cute boy like you here on Halloween?" you faintly hear before you fall limply back onto the couch and black out.*
+
+You came to the wrong neighborhood.
+
+A boy goes trick or treating alone and ends up at a strange house with a lady dressed in black leather and a witch hat. He thinks it's treat time and ends up getting drugged and tricked instead.
 
 ***
 ## The Friday of *Female Bullies*
