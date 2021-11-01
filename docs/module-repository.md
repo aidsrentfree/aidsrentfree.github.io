@@ -235,8 +235,8 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [The Bible](#the-bible)
     - [Blood Meridian](#blood-meridian)
     - [BOLO](#bolo)
-    - [Conan The Barbarian](#conan-the-barbarian)
     - [The Chronicles of Amber](#the-chronicles-of-amber)
+    - [Conan The Barbarian](#conan-the-barbarian)
     - [The Culture](#the-culture)
     - [The Dark Tower](#the-dark-tower)
     - [Discworld](#discworld)
@@ -2829,12 +2829,6 @@ A.K.A Green's Eagle Vision
 >
 >And then, suddenly, something changes. I cannot tell you why. Perhaps some subroutine has just failed, throwing off the entire calculation process. But whatever the cause, a new variable enters into the equation: hope.
 
-#### [Conan The Barbarian](https://files.catbox.moe/pfwghl.module)
-
-[by Virgil Knightley](https://discord.com/channels/854479693503660032/870494065446248458/874078595348320256)
-
-*Not strictly NSFW, though it may get into moderately sexy territory, I have gathered all the Conan stories by Robert E. Howard and used them to train the AI. Here is the module!*
-
 #### [The Chronicles of Amber](https://files.catbox.moe/nia579.module)
 
 [by Dan!](https://discord.com/channels/836774308772446268/870449646391156776/904849178054754404)
@@ -2850,6 +2844,12 @@ A.K.A Green's Eagle Vision
 >It was like a whisper on my left ear, and it seemed to emanate from some dark place near my right foot—or maybe just inside my head. I tried to see where the sound came from, though. The candle had burned out again, leaving only darkness before my eyes. I listened carefully for a moment or two more, then decided that there were no other sounds in the room with me. There was nothing else to hear, anyway, save the slow dripping of water somewhere far off.
 >
 >I raised myself up onto one elbow and stared into the gloom before me. It did not appear as if anything at all lay beyond the circle of light cast by my own body. My hands hung limp at my sides; I felt chilled to the bone despite the warmth of this chamber. Even so, my mind continued working feverishly through possibilities; Perhaps it is someone outside trying to get in? Or perhaps he has been here long enough that his presence now matches mine? But how could this have happened unless I entered while asleep?
+
+#### [Conan The Barbarian](https://files.catbox.moe/pfwghl.module)
+
+[by Virgil Knightley](https://discord.com/channels/854479693503660032/870494065446248458/874078595348320256)
+
+*Not strictly NSFW, though it may get into moderately sexy territory, I have gathered all the Conan stories by Robert E. Howard and used them to train the AI. Here is the module!*
 
 #### [The Culture](https://files.catbox.moe/cjcf4z.module)
 
