@@ -26,13 +26,15 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+- Added [Chronicles of Amber](#the-chronicles-of-amber) module
+- Added [The Bee Movie](#the-bee-movie) module
+- Updated [Mom and Son](#mom-and-son) with the new links
 - Added [Carl Jung](#carl-gustav-jung) module
 - Added [101 Noir/Pulp Fiction Books (Hard Case Crime Collection)](#noir) module
 - Added [Final Fantasy XVI](#final-fantasy-xvi) module
 - Added [Undertale/Deltarune](#underune) module
 - Added [Worm](#worm) module
 - Added [Trump Tweets](#trump-tweets) module
-- Added [Mom and Son](#mom-and-son) module
 - Added [Star Wars Prequel Era](#star-wars-prequel-trilogy) module
 - Added [Fate/Zero](#fatezero) module
 - Added [Sentiments & Summaries](#sentiments-and-summaries) utility module
@@ -229,10 +231,12 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [Assassin's Creed: Ezio Auditore](#assassins-creed-ezio-auditore)
     - [Bartimaeus Sequence](#bartimaeus-sequence)
     - [Battlefield Earth](#battlefield-earth)
+    - [The Bee Movie](#the-bee-movie)
     - [The Bible](#the-bible)
     - [Blood Meridian](#blood-meridian)
     - [BOLO](#bolo)
     - [Conan The Barbarian](#conan-the-barbarian)
+    - [The Chronicles of Amber](#the-chronicles-of-amber)
     - [The Culture](#the-culture)
     - [The Dark Tower](#the-dark-tower)
     - [Discworld](#discworld)
@@ -2500,11 +2504,11 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 >
 >Her stomach was flat and tight while there was an indentation right where her belly button would be if she had one. My cock twitched involuntarily at the thought of sliding inside those soft curves.
 
-#### [Mom and Son](https://litter.catbox.moe/8hfdth.module)
+#### [Mom and Son](https://files.catbox.moe/7hr4ox.module)
 
-[500 Steps Vers.](https://litter.catbox.moe/oupp3d.module)
+[500 Steps Vers.](https://files.catbox.moe/a8b0jy.module)
 
-[by Anon](https://arch.b4k.co/vg/thread/356846369/#356982139)
+[by Anon](https://arch.b4k.co/vg/thread/358093639/#358155594)
 
 *Forgive me for not having this out a few Fridays ago. Because no one has released anything like this, I took my own stories, a combination of ye olde AID and NAI and made a Mommy /ss/ module. Is it refined and perfect? No, but it does talk about good boys and pregnant mommies. Apologies for the data being in second (cancer) POV, but it does seem to do something in other perspectives too.*
 
@@ -2744,6 +2748,45 @@ A.K.A Green's Eagle Vision
 
 *From my biased brief looks at the writing, it's a wonder that it was made into a movie.*
 
+#### [The Bee Movie](https://files.catbox.moe/mh74ef.module)
+
+[by kumah](https://discord.com/channels/836774308772446268/870449646391156776/904490097574051871)
+
+*This was built using nothing but the script of the bee movie.*
+
+*420.22% Trained, Average Loss: 2.4197, Last Loss: 2.3853*
+
+>A long, long time ago in a galaxy far, far away...
+>
+>The earth was the center of the universe. The sun and moon revolved around it, and everything else did too. There were no people; there was only Adam and Eve, who lived in the Garden of Eden, which was surrounded by an endless ocean of water. Everything was perfect, until one day God took a bite out of the apple that had been given to him by the snake, and gave man the knowledge of good and evil. He then banished Adam and Eve from the Garden of Eden, saying: "You may not eat from any tree in this garden." But they disobeyed, and ate from the forbidden fruit. As punishment for their sin, God sent them into exile on Earth, where they would live forever as bees.
+>
+>This is the story that every child learns when he or she goes to school. And it's all true. Except for the part about the apple. That part isn't true. In fact, I've never even seen an apple. But I know what it looks like because I have read several books written by someone named Mark Twain.
+>
+>But back to my story.
+>
+>BARRY: Hi, honey.
+>ADAM: Hey, baby.
+>
+>BARRY: What are you doing?
+>
+>ADAM: Watching TV.
+>
+>BARRY: Yeah? What are we watching?
+>
+>ADAM: Well, let's see... It's called "The Honeymooners," and Ralph Kramden is beating up his wife.
+>
+>BARRY: You're kidding!
+>
+>ADAM: No, I'm not. (pause) Did you say something?
+>
+>BARRY: No.
+>
+>ADAM: Okay.
+>
+>BARRY: So, how was work today?
+>
+>ADAM: Oh, fine.
+
 #### [The Bible](https://files.catbox.moe/8agh6y.module)
 
 [by El Inquisidor](https://discord.com/channels/836774308772446268/870449646391156776/870891899156856892)
@@ -2791,6 +2834,22 @@ A.K.A Green's Eagle Vision
 [by Virgil Knightley](https://discord.com/channels/854479693503660032/870494065446248458/874078595348320256)
 
 *Not strictly NSFW, though it may get into moderately sexy territory, I have gathered all the Conan stories by Robert E. Howard and used them to train the AI. Here is the module!*
+
+#### [The Chronicles of Amber](https://files.catbox.moe/nia579.module)
+
+[by Dan!](https://discord.com/channels/836774308772446268/870449646391156776/904849178054754404)
+
+*Based on the bestselling science fantasy series written by Roger Zelazny. The Amber stories take place in two contrasting "true" worlds, Amber and Chaos, and in shadow worlds (Shadows) that lie between the two. These shadows, including our Earth, are parallel worlds that exist in, and were created from, the tension between opposing magical forces of Amber and Chaos. The Courts of Chaos are situated at the very edge of an Abyss. Members of the royal family of Amber, after walking a Pattern that is central to Amber, can travel freely through the Shadows. While traveling (shifting) between Shadows, one can alter reality or create a new reality by choosing which elements of which Shadows to keep or add, and which to subtract.*
+
+*135% trained. Average Loss: 2.6513, Last Loss: 2.6541*
+
+>A voice, too quiet to be heard by anyone but me.
+>
+>"You know the Pattern."
+>
+>It was like a whisper on my left ear, and it seemed to emanate from some dark place near my right foot—or maybe just inside my head. I tried to see where the sound came from, though. The candle had burned out again, leaving only darkness before my eyes. I listened carefully for a moment or two more, then decided that there were no other sounds in the room with me. There was nothing else to hear, anyway, save the slow dripping of water somewhere far off.
+>
+>I raised myself up onto one elbow and stared into the gloom before me. It did not appear as if anything at all lay beyond the circle of light cast by my own body. My hands hung limp at my sides; I felt chilled to the bone despite the warmth of this chamber. Even so, my mind continued working feverishly through possibilities; Perhaps it is someone outside trying to get in? Or perhaps he has been here long enough that his presence now matches mine? But how could this have happened unless I entered while asleep?
 
 #### [The Culture](https://files.catbox.moe/cjcf4z.module)
 
