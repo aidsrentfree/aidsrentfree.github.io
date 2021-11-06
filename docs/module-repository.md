@@ -24,7 +24,9 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ***
 
-## Recent Changes (6th November, 2021)
+## Recent Changes
+
+(6th November, 2021)
 
 - Added [Space Exploration](#greens-among-the-stars) module
 - Added [Dune](#dune) module
@@ -34,7 +36,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## [Table of Contents](#modules)
 
-- [Recent Changes (6th November, 2021)](#recent-changes-6th-november-2021)
+- [Recent Changes](#recent-changes)
 - [Table of Contents](#table-of-contents)
 - [Modules](#modules)
 - [Writers](#writers)
