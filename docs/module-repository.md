@@ -24,33 +24,17 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ***
 
-## Recent Changes
+## Recent Changes (6th November, 2021)
 
-- Added [Chronicles of Amber](#the-chronicles-of-amber) module
-- Added [The Bee Movie](#the-bee-movie) module
-- Updated [Mom and Son](#mom-and-son) with the new links
-- Added [Carl Jung](#carl-gustav-jung) module
-- Added [101 Noir/Pulp Fiction Books (Hard Case Crime Collection)](#noir) module
-- Added [Final Fantasy XVI](#final-fantasy-xvi) module
-- Added [Undertale/Deltarune](#underune) module
-- Added [Worm](#worm) module
-- Added [Trump Tweets](#trump-tweets) module
-- Added [Star Wars Prequel Era](#star-wars-prequel-trilogy) module
-- Added [Fate/Zero](#fatezero) module
-- Added [Sentiments & Summaries](#sentiments-and-summaries) utility module
-- Added [Ice Age](#prehistoric-ice-age) module
-- Added [New and Improved KonoSuba](#konosuba-1-14) module
-- Added [Star Wars OT Era](#star-wars-original-trilogy) module
-- Added [Jake and Amir](#jake-and-amir) module
-- Added [Comprehensive SlutWriter](#slutwriter) module
-- Added [The Manwhore Module](#the-manwhore-module)
-- Replaced [Purple Prose](#purely-purple-prose) predecessor with Properly Prim permutation
+- Added [Space Exploration](#greens-among-the-stars) module
+- Added [Dune](#dune) module
+- Look at that, I'm timestamping "Recent Changes" now.
 
 ***
 
 ## [Table of Contents](#modules)
 
-- [Recent Changes](#recent-changes)
+- [Recent Changes (6th November, 2021)](#recent-changes-6th-november-2021)
 - [Table of Contents](#table-of-contents)
 - [Modules](#modules)
 - [Writers](#writers)
@@ -139,6 +123,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [Forbidden Lands (Encounters)](#forbidden-lands-encounters)
     - [Gay](#gay)
     - [Gay 2](#gay-2)
+    - [Green's Among the Stars](#greens-among-the-stars)
     - [Green's RPG](#greens-rpg)
     - [Gryphons](#gryphons)
     - [Learning Magic](#learning-magic)
@@ -241,6 +226,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [The Dark Tower](#the-dark-tower)
     - [Discworld](#discworld)
     - [The Divine Comedy](#the-divine-comedy)
+    - [Dune](#dune)
     - [Finnegan's Wake](#finnegans-wake)
     - [Forbidden Fruit](#forbidden-fruit)
     - [Good Intentions](#good-intentions)
@@ -1701,6 +1687,25 @@ A.K.A "Toby Fox Module"
 
 *A redux of my first tuning, high-quality material clocked at ~7MB trained ~100% on ~7000 steps. Romance your bro, discover yourself as you find brotherhood as part of the hockey or football team, find love and rejection in the big city or the sleepy rural town, as Sigurd embraces masculine fondness. This shouldn't swap your sex and allows for a variety of M/M scenarios. Expect a V3 at some point in the far future when I have time to correct thousands of grammar and spelling mistakes. (Please stop abusing hyphens, parentheses, and "...". Learn how to use a comma, you monsters.)*
 
+#### [Green's Among the Stars](https://files.catbox.moe/9axvlv.module)
+
+[by SGreen](https://discord.com/channels/836774308772446268/870449646391156776/905455337912537139)
+
+*A module made for Space travel, and exploration of new worlds.*
+
+- *Startide Rising by David Brin ~751kb*
+- *To Sleep in a Sea of Stars by Christopher Paolini ~1316kb*
+- *Nova by Samuel R. Delany ~424kb*
+
+*Trained 1200 steps ~45%*
+
+>Tall ships floated on the horizon of the star-filled night sky. Stars shone brightly in their constellations. A few dozen ships were visible from Kira's vantage point as she flew through space. All of them were different sizes, shapes, and colors. Some were streamlined, others resembled an octopus or squid with tentacles that ended in what looked like engines. Others were more angular, resembling large, elongated triangles. Still others had sharp corners or rounded curves to them, making it hard to tell what they were at first glance. Some ships appeared to be made out of metal while others seemed to be organic in nature. There was one ship, however, which was made out of a strange material that glowed blue when it caught the light of the sun. Another ship had four arms extending from its center, and it was unclear whether these were arms or legs. One of the ships was shaped like a diamond, and another resembled a giant eyeball with a long, thin stalk coming off of it. And then there was one ship that was almost completely covered by two sets of wings. Its shape reminded her of a dragonfly or a butterfly, but it also looked somewhat mechanical in nature. The strangest thing about all of them, though, was how they moved. Some of them hovered in place, while others drifted slowly through space. Many of them maneuvered through the starscape using some kind of propulsion system, while others simply flew in straight lines across the night sky. One ship even took flight and soared into the heavens. This last ship looked like a dragonfly or a butterfly. It is possible that this ship was capable of flight, but its wings were folded against its body. Instead, it used a set of propellers attached to its tail to propel itself forward. As it traveled through space, it opened its wings and flew freely.
+
+>**[ Scene: I'm exploring new planets. ]**
+>
+>I'm standing on a rocky, wind-swept world that looks like it's been blasted by an explosion from the inside out. The sky is so dark that there's no stars to be seen and the only light comes from the dim glow of my flashlight. A strange, whirring sound fills the air around me. It sounds like some kind of giant machine. The planet has been stripped bare by some kind of force or natural process, leaving behind nothing but jagged rocks and patches of blackened sand. There are no trees, plants, or even insects.
+>
+>A moment later, I hear something else. It's faint at first, but soon grows louder as it approaches. I turn toward the noise and see what looks like a huge, white worm crawling across the ground. As it gets closer, I realize it's not a worm. It's much larger than anything I've ever seen before. It stops just a few feet away from me. Its body is covered in thousands of tiny eyes. Each eye stares straight into mine. They're all different sizes and colors, but they all look the same—they all have a hunger in them. The creature moves forward slowly, dragging its long tail along the ground.
 #### [Green's RPG](https://files.catbox.moe/7i4db0.module)
 
 [by SGreen](https://discord.com/channels/836774308772446268/870449646391156776/873549751386259548)
@@ -2888,6 +2893,20 @@ A.K.A Green's Eagle Vision
 *With the aid of ght901 and Gnurro, we present you with one of the most influential religious works outside the bible itself. (if of the Christian / Catholic side)*
 
 *A module made from Dante's Divine Comedy!*
+
+#### [Dune](https://files.catbox.moe/p740ht.module)
+
+[by Khoa Phan](https://discord.com/channels/836774308772446268/870449646391156776/905374612127383614)
+
+*Based on the original six Dune novels authored by Frank Herbert.*
+
+*~100% Trained at 4500 steps*
+
+>“I don’t know what you are talking about, Reverend Mother. Your words are a code I do not understand. No one could be so stupid as to use such nonsense in the presence of my Mentat! Why should he want me dead?” She sensed his discomfiture and increased her volume: “You think him insane or weak-willed enough for that kind of treachery? If it comes from Idaho … then your own people have betrayed us all by letting this man survive on Gammu with their precious memory core intact! That must never happen again—never! He is dangerous!”
+>
+>She waited while Leto pondered those statements. The tension between them was palpable but she did not break away. It would take more than an old woman’s threats to send Leto into action against Duncan Idaho now. As long ago as when they had first met, Idaho knew how much Leto valued loyalty above everything else. And yet…
+>
+>He said finally, “If there were any evidence at all which might prove Idaho guilty of something worse than stupidity—if we had even some hint of a pattern connecting him with conspiracies within our own society—you yourself would give him up without hesitation, wouldn’t you, Sister Dorotea? You certainly wouldn’t hesitate over anything pertaining to Paulus Atreides. This matter has nothing to do with Idaho! Nothing!”
 
 #### [Finnegan's Wake](https://files.catbox.moe/4eb33o.module)
 
