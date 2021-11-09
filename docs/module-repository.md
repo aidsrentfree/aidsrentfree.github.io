@@ -26,6 +26,11 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(9th November, 2021)
+
+- Updated [Communism](#communism) module
+- Added [Malazan Book of the Fallen](#malazan-book-of-the-fallen) module
+
 (6th November, 2021)
 
 - Added [Space Exploration](#greens-among-the-stars) module
@@ -242,6 +247,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [Horus Heresy Selection One](#horus-heresy-selection-one)
     - [The King James Bible](#the-king-james-bible)
     - [The Kushiel Saga](#the-kushiel-saga)
+    - [Malazan Book of the Fallen](#malazan-book-of-the-fallen)
     - [Le Morte D'Arthur](#le-morte-darthur)
     - [Mistborn Trilogy](#mistborn-trilogy)
     - [My Struggle](#my-struggle)
@@ -1592,11 +1598,14 @@ A.K.A "Toby Fox Module"
 >
 >The girls looked like human females with cat ears or tails attached. Their eyes were blue instead of brown but their pupils were circular rather than oval shaped. It didn't look as if they had fur on their bodies because you could see their skin under their clothes.
 
-#### [Communism](https://files.catbox.moe/wmqa70.module)
+#### [Communism](https://files.catbox.moe/3c2pyz.module)
 
-[by Pure](https://discord.com/channels/836774308772446268/870449646391156776/893277209157066762)
+[by Pure](https://discord.com/channels/836774308772446268/870449646391156776/907359288920535090)
 
-*A basic module made from several works of classic communist, socialist, and anarchist literature. Doesn't have many steps, it was just for testing purposes. Enjoy.*
+*A more complex edition of my previous communism module, built with more works of literature from more authors. Trained on various works of classical communist and socialist literature.*
+
+![An example](https://files.catbox.moe/q55iin.png)
+{: .center}
 
 #### [Count Grey](https://files.catbox.moe/ozd9iw.module)
 
@@ -3032,6 +3041,28 @@ Text looked like this:
 >Phaedra made a gesture, indicating the other three. "And these people claim otherwise."
 >
 >There was nothing else to say after that. My heart beat hard within my breast. This was why we came: to prove the truth of our words. If they believed us, then... well, I knew not what would happen next. But if they didn't believe us, then we had done harm enough already. For now, though, there was nothing more to be gained.
+
+#### [Malazan Book of the Fallen](https://files.catbox.moe/roy9ha.module)
+
+[by Samanamel](https://discord.com/channels/836774308772446268/870449646391156776/907244234996867092)
+
+*Based on the 10 books within the Malazan Book of the Fallen series by Steven Erikson—one of the greatest (and longest) fantasy series of all time.*
+
+*I've done my best to run it through a clearer to remove things like chapter breaks, paragraph breaks, notes, and copyright, etc. Sadly, I do not have all of the details (Average Loss and Last Loss, but think around 2.7?), but it runs quite well.*
+
+*Great prose and description. It will, however, pull character names and places from the books at times. If you add your own characters and setting, it seems to ease off.*
+
+*19MB, 7250 Steps, 35% Coverage*
+
+>The wagon's wheels clattered on the cobblestones, and then a low rumble sounded as it rolled into motion.
+>
+>The carriage was black lacquered wood with red leather straps that crossed its back like an ornate saddle. Four matched horses pulled it at a slow walk along the street, their heads down in perfect step. A lone figure sat high up behind them. The hood of his cloak had been thrown back to reveal dark hair, a thin face with a long nose and sharp chin, and eyes so pale they seemed almost white. His hands were folded within the sleeves of his long coat.
+>
+>Beside him stood two soldiers, one on either side. They wore matching cloaks trimmed in red-and-black fur, and each held a sword at the ready.
+>
+>Two women rode inside the carriage: the driver, her head bowed, and beside her the man who had spoken earlier. He sat opposite from the woman with the scarred face, while she stared out through the window at the passing city streets. Her gaze seemed fixed upon some distant place, yet her expression was unreadable beneath a veil of shadows.
+>
+>On this day, three of those people would die.
 
 #### [Le Morte D'Arthur](https://files.catbox.moe/ybr3ah.module)
 
