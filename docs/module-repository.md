@@ -32,6 +32,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Updated [Feudal Japan](#feudal-japan) module with V4 successor.
 - Added [Nineteen Eighty-Four](#nineteen-eighty-four)
 - Updated [George Orwell](#george-orwell), [Rod Serling](#rod-serling), and [Western](#western) modules.
+- Updated [C. S. Lewis](#c-s-lewis) module with V4 successor.
 
 (9th November, 2021)
 
@@ -55,7 +56,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
   - [Published Authors](#published-authors)
     - [(V3) Carl Gustav Jung](#v3-carl-gustav-jung)
     - [(V3) Charles Dickens](#v3-charles-dickens)
-    - [(V3) C. S. Lewis](#v3-c-s-lewis)
+    - [C. S. Lewis](#c-s-lewis)
     - [(V3) Franz Kafka](#v3-franz-kafka)
     - [George Orwell](#george-orwell)
     - [(V3) Hunter S. Thompson](#v3-hunter-s-thompson)
@@ -315,7 +316,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
   - [(V3) The Club](#v3-the-club)
   - [(V3) Director View](#v3-director-view)
   - [(V3) DND Monster Generator](#v3-dnd-monster-generator)
-  - [Math](#math)
+  - [(V3) Math](#v3-math)
   - [(V3) Pokédex](#v3-pokédex)
   - [(V3) Python](#v3-python)
   - [(V3) Sentiments and Summaries](#v3-sentiments-and-summaries)
@@ -368,13 +369,13 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 *Trained off the text of Charles Dickens' "A Christmas Carol", "A Tale of Two Cities", "Great Expectations", "Little Doritt", and "Oliver Twist"*
 
-#### [(V3) C. S. Lewis](https://mega.nz/file/ESB0VJ6Z#Y31SF_GG4VefJXSmFNBs3WgB0yEGTAQ8S-kPeS43W8M)
+#### [C. S. Lewis](https://mega.nz/file/BKxgSRBa#2ZR118ouG6KfLuKm_2vo6fAGQGWSE8MVvkDaHM8660M)
 
-[10K Step Vers.](https://mega.nz/file/9W4EVD7Y#zlX2DM6Ypf-QHYet2JoUeUJ7neLeVdniseEYxvSo48c)
+[10K Step V3 Sigurd Vers.](https://mega.nz/file/9W4EVD7Y#zlX2DM6Ypf-QHYet2JoUeUJ7neLeVdniseEYxvSo48c)
 
-[by Anon](https://arch.b4k.co/vg/thread/345503749/#345504083)
+[by Anon](https://arch.b4k.co/vg/thread/359155218/#359498762)
 
-*My CS Lewis module is complete.*
+*LewisAnon here. I've just retrained my CS Lewis module for Sigurd V4, haven't had much time to test it yet, but it's working.*
 
 *Training data was all of the major fiction works:*
 
@@ -3841,7 +3842,7 @@ Use Example:
 >
 > Lore: The only thing that can stop this man is another man."
 
-### Math
+### (V3) Math
 
 [Decimal](https://files.catbox.moe/53vgto.module)
 
