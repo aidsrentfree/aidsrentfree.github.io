@@ -29,6 +29,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 (10th November, 2021)
 
 - With the release of Sigurd V4 for Opus users, it's time to tell the difference between a V3 module (that can be used with V4) and a V4 module (that can be used on V3). For now, anything that doesn't have (V3) is a V4 trained module.
+- Updated [Feudal Japan](#feudal-japan) module with V4 successor.
 
 (9th November, 2021)
 
@@ -86,7 +87,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Classic Cyberpunk](#v3-classic-cyberpunk)
     - [(V3) Cyberpunk 2222](#v3-cyberpunk-2222)
     - [(V3) Dark Academia](#v3-dark-academia)
-    - [(V3) Feudal Japan](#v3-feudal-japan)
+    - [Feudal Japan](#feudal-japan)
     - [(V3) Final Fantasy XVI](#v3-final-fantasy-xvi)
     - [(V3) Folk Fantasy](#v3-folk-fantasy)
     - [(V3) Forgotten Realms](#v3-forgotten-realms)
@@ -867,19 +868,55 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 - *Special Friendships by Roger Peyrefitte*
 - *The Bone Clocks by David Mitchell (edited to just the Hugo Lamb scenes)*
 
-#### [(V3) Feudal Japan](https://files.catbox.moe/quvngg.module)
+#### [Feudal Japan](https://files.catbox.moe/x9os0f.module)
 
-[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/883971016525754380)
-
-[13K 60% Coverage Vers.](https://files.catbox.moe/lb70od.module)
-
-[7K 30% Coverage Vers.](https://files.catbox.moe/3z3cpf.module)
+[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/908017750176321629)
 
 *This Feudal Japan module draws upon works such as Musashi, Taiko by Eiji Yoshiwaka, Shogun and Gaijin by James Clavell, and mysteries, epics, biographies from other authors to cover Feudal Japan from the 13th to the 19th Century.*
 
-*20mb, 22,500 steps, 100% coverage, 2.753 loss*
+*NOTE: This is the 13k version trained on the v4 model, and will work fine with the v3 model.*
 
 *It's a refinement and expansion of the earlier [Genroku Era](#genroku-era) module.*
+
+*20mb, 13,000 steps, 60% coverage, 2.7359 loss*
+
+>**The woman stood before the samurai proudly and yelled, "Go ahead, kill me! Take away the stain of dishonor on my family I am!"** She was not afraid.
+>
+>"Stop this nonsense," said Hideyoshi impatiently. "You are a beautiful woman." He smiled at her with his warmest smile. Her eyes widened in surprise, but she did not stop shouting.
+>
+>"I have never been so insulted by any man! I am a member of the Ashikaga family, and you dare to say that I am beautiful?"
+>
+>Hideyoshi's smile broadened into a grin. "It is true. You are beautiful. But your beauty has nothing to do with it. If you were ugly, would I be saying these things? Would anyone listen if I told them how pretty you are?" The woman stopped yelling and stared at him in amazement.
+>
+>"Listen carefully," he continued, looking directly into her eyes. "Your name is Lady Naka no Kimi. Your husband died last year. Now you are all alone, living with your two children."
+>
+>Naka looked down at the ground. Then suddenly she lifted her head and shouted, "Yes, I am alone. My husband left me for another woman. But I still love my dead husband. Do you understand? And I will always remember him as long as I live."
+>
+>Hideyoshi nodded sympathetically. "That is good. I know what you mean. Even though you loved your husband, he abandoned you when you needed him most. But don't worry. There is someone who loves you now. Someone who wants to help you. Will you let him?"
+>
+>Naka shook her head vigorously. "No, I won't. I cannot allow such a thing. It is too late. My life is over."
+>
+>"Don't be so sure. Listen to me. You must make up your mind. Either you will accept this person's offer or you will die."
+>
+>Naka stood there silently. Her face was red with anger. Suddenly she turned around and ran away from Hideyoshi.
+
+>**The ronin's hand hovered on the handle of his sheathed katana,** then he shook himself and went inside. The heavy wooden door creaked shut behind him with a thud that seemed to echo in the stillness. He could hear no sound from above or below. But there was something else—a smell, faint but unmistakable: blood.
+>
+>"I'm home." Yoshi walked across the room. "Is anyone here?" His voice echoed hollowly in the silence. There was no answer. With a sigh he sank into one of the tatami mats and sat cross-legged, gazing at nothing. For several minutes he said nothing more. Then he heard footsteps descending the stairs. A moment later, Taro appeared in the doorway.
+>
+>Yoshi stood up quickly. "What happened? Is anything wrong?"
+>
+>Taro nodded slowly. "Yes. Your father is dead."
+>
+>"Dead! How?" Yoshi felt as though someone had hit him hard between the eyes. He swayed slightly.
+>
+>"He died peacefully last night," Taro said gently. "Your mother was beside herself with grief when she learned about it this morning. She wanted you to come home immediately."
+>
+>Yoshi closed his eyes tightly for a second, then opened them again. "Did they say how he died?"
+>
+>"No. Only that he died suddenly, without warning. No one knows why. It appears he suffered a stroke."
+>
+>Yoshi stared blankly at the floor. For several seconds he remained motionless, not speaking. Finally, he raised his head and looked directly at Taro.
 
 #### [(V3) Final Fantasy XVI](https://files.catbox.moe/dkm3wd.module)
 
