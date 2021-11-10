@@ -30,6 +30,8 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 - With the release of Sigurd V4 for Opus users, it's time to tell the difference between a V3 module (that can be used with V4) and a V4 module (that can be used on V3). For now, anything that doesn't have (V3) is a V4 trained module.
 - Updated [Feudal Japan](#feudal-japan) module with V4 successor.
+- Added [Nineteen Eighty-Four](#nineteen-eighty-four)
+- Updated [George Orwell](#george-orwell), [Rod Serling](#rod-serling), and [Western](#western) modules.
 
 (9th November, 2021)
 
@@ -55,12 +57,12 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Charles Dickens](#v3-charles-dickens)
     - [(V3) C. S. Lewis](#v3-c-s-lewis)
     - [(V3) Franz Kafka](#v3-franz-kafka)
-    - [(V3) George Orwell](#v3-george-orwell)
+    - [George Orwell](#george-orwell)
     - [(V3) Hunter S. Thompson](#v3-hunter-s-thompson)
     - [(V3) J. R. R. Tolkien](#v3-j-r-r-tolkien)
     - [(V3) Jane Austen](#v3-jane-austen)
     - [(V3) Oscar Wilde](#v3-oscar-wilde)
-    - [(V3) Rod Serling](#v3-rod-serling)
+    - [Rod Serling](#rod-serling)
     - [(V3) Shirley Jackson](#v3-shirley-jackson)
     - [(V3) Stephen King](#v3-stephen-king)
     - [(V3) Tom Clancy](#v3-tom-clancy)
@@ -118,7 +120,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Underune](#v3-underune)
     - [(V3) Vampire: The Masquerade](#v3-vampire-the-masquerade)
     - [(V3) West into the Weird](#v3-west-into-the-weird)
-    - [(V3) Western](#v3-western)
+    - [Western](#western)
     - [(V3) World of Pokémon](#v3-world-of-pokémon)
     - [(V3) Xenoarchaeology and Relics](#v3-xenoarchaeology-and-relics)
     - [(V3) Zombie Apocalypse](#v3-zombie-apocalypse)
@@ -257,6 +259,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Mistborn Trilogy](#v3-mistborn-trilogy)
     - [(V3) My Struggle](#v3-my-struggle)
     - [(V3) Native American Myths and Legends](#v3-native-american-myths-and-legends)
+    - [Nineteen Eighty-Four](#nineteen-eighty-four)
     - [(V3) Neuromancer](#v3-neuromancer)
     - [(V3) The Old Kingdom Trilogy](#v3-the-old-kingdom-trilogy)
     - [(V3) Oz](#v3-oz)
@@ -402,9 +405,9 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - *The Trial*
 - *The Castle*
 
-#### [(V3) George Orwell](https://mega.nz/file/iqI2AJQJ#u-RpEIiP0Mik-9oK9xflq9cq331BBBdEFVMpjljZQwI)
+#### [George Orwell](https://files.catbox.moe/9rs18l.zip)
 
-[by](https://arch.b4k.co/vg/thread/347718642/#347813685) [Anons](https://arch.b4k.co/vg/thread/347951663/#347987649)
+[by Anon](https://arch.b4k.co/vg/thread/359155218/#359495805)
 
 *Someone suggested to do this as a module. Done.*
 
@@ -443,9 +446,9 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 *Trained on selected works such as The Picture of Dorian Gray, Poems and Poems in Prose*
 
-#### [(V3) Rod Serling](https://files.catbox.moe/fktkh3.zip)
+#### [Rod Serling](https://files.catbox.moe/azd2eq.zip)
 
-[by Anon](https://arch.b4k.co/vg/thread/345503749/#345504110)
+[by Anon](https://arch.b4k.co/vg/thread/359155218/#359495805)
 
 *The Rod Serling module. Trained on:*
 
@@ -1453,9 +1456,9 @@ A.K.A "Toby Fox Module"
 >
 > He stopped in his tracks, feeling a chill run up his spine. He'd heard stories about this place, of course. Stories about how it was a lawless city, a haven for outlaws and murderers and other criminals.
 
-#### [(V3) Western](https://files.catbox.moe/hlsm2x.zip)
+#### [Western](https://files.catbox.moe/xm4z2j.zip)
 
-[by Anon](https://arch.b4k.co/vg/thread/348767728/#348780553)
+[by Anon](https://arch.b4k.co/vg/thread/359155218/#359495805)
 
 *This is a western model. Trained for about 35% of steps (about 3500) on the following: Butcher's Crossing, Centennial, Hondo, Little Big Man, Lonesome Dove, Riders of the Purple Sage, Shane, The Log of a Cowboy, The Ox-Bow Incident, The Searchers, The Shootist, and True Grit.*
 
@@ -3136,6 +3139,12 @@ Text looked like this:
 >**Coyote** was a great medicine man. He could cure all diseases, and he knew how to make medicines from the roots of many plants. One day when Coyote went hunting in his favorite place on top of Mount Taylor, he found an eagle's nest with four eggs. The mother bird had just laid them, but they were so big that she couldn't carry them away. So Coyote took pity on her and carried one egg home for himself. When it hatched out, it became a beautiful boy who looked exactly like Coyote except that he had wings instead of arms or legs. His name was Eagle Boy.
 >
 >Eagle Boy grew up fast and learned everything there was about healing people and curing their illnesses. But because he wasn't human, no one would listen to him. People thought he was crazy, and nobody believed anything he said. Finally Eagle Boy decided to leave this world altogether and become a spirit. So he flew off into the sky until he came to another country where he met a wise old woman named White Buffalo Woman. She told Eagle Boy to go back down below ground and find some good
+
+#### [Nineteen Eighty-Four](https://files.catbox.moe/2pb5tl.zip)
+
+[by Anon](https://arch.b4k.co/vg/thread/359155218/#359495805)
+
+Alright, I guess I just bit the bullet. Here's [four](#nineteen-eighty-four) [of](#george-orwell) [the](#rod-serling) [modules](#western) I made the training data for, trained with Sigurd V4. All four of these are already in the Rentry in their V3 forms, so those would just be updated. Now have names consistent with NAI module naming schemes and also have images coming with the module file. ZIP files contain the module, the training data, the image, and the base for the training data I formatted. So if at some point Sigurd V5 or 22 beaks or whatever the fuck comes out and I'm not there to retrain the modules, you'll have everything you need.
 
 #### [(V3) Neuromancer](https://files.catbox.moe/ybbjl8.module)
 
