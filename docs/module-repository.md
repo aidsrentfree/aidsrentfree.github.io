@@ -82,7 +82,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [Classic Cyberpunk](#classic-cyberpunk)
     - [Cyberpunk 2222](#cyberpunk-2222)
     - [Dark Academia](#dark-academia)
-    - [Underune](#underune)
     - [Feudal Japan](#feudal-japan)
     - [Final Fantasy XVI](#final-fantasy-xvi)
     - [Folk Fantasy](#folk-fantasy)
@@ -111,6 +110,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [Star Wars: Original Trilogy](#star-wars-original-trilogy)
     - [Star Wars: Prequel Trilogy](#star-wars-prequel-trilogy)
     - [Touhou Project](#touhou-project)
+    - [Underune](#underune)
     - [Vampire: The Masquerade](#vampire-the-masquerade)
     - [West into the Weird](#west-into-the-weird)
     - [Western](#western)
@@ -863,22 +863,6 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 - *Special Friendships by Roger Peyrefitte*
 - *The Bone Clocks by David Mitchell (edited to just the Hugo Lamb scenes)*
 
-#### [Underune](https://files.catbox.moe/hxmtn1.module)
-
-[by Peco4188](https://discord.com/channels/836774308772446268/870449646391156776/902285787561873509)
-
-A.K.A "Toby Fox Module"
-
-*A module trained on modified text dumps of Undertale and Deltarune (chapter 1+2).*
-
-*Works fairly well, however somewhat centric to the main character of Deltarune (Kris) because of the game's usage of his name in it's dialogue.*
-
-*Defo would work better with more context and lorebook info, however for now I am just sharing what I have made so far.*
-
-> You fall down Mt.Ebott, with a bed of yellow flowers cushioning your fall, probably saving your life. You get up and walk deeper into the cave, where you see a monster; a
-
-*1200~ steps trained on around 900kb~ of text; Average Loss: 2.8902; Last Loss: 2.8563*
-
 #### [Feudal Japan](https://files.catbox.moe/quvngg.module)
 
 [by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/883971016525754380)
@@ -1368,6 +1352,22 @@ A.K.A "Toby Fox Module"
 > **Kaguya and Mokou came flying at each other,** both taking great leaps over trees towards their opponent. The two girls were quite close now as they darted around one another like playful cats or dogs while occasionally giving little pokes from behind. Both made sure not to land any blows on the backside of either girl; for if they did it would be considered an attack against them- which was highly frowned upon by all three fairies. But neither seemed concerned about this rule. They fought hard enough that should have been impossible considering how fast they moved so far apart yet still managed to give occasional punches without landing. It looked more like dancing than actual combat between these two. In fact, I couldn't help but feel that there wasn't much real danger involved here... despite what happened next. Fortunately though, it didn't seem likely that anyone else saw it coming anyway. As soon as the last few sparks flew off into nothingness, however, my suspicions turned to certainty after seeing just who had won this battle: Kaguya! And she hadn't done anything particularly special to win. No spell-casting prowess, no fancy martial arts moves, no superhuman speed or strength. Just a simple trick up her sleeve: immortality.
 >
 > At some point during this whole thing (and most certainly before), Kaguya's body was slightly altered through means unknown - possibly due to being exposed to something weirdly powerful, maybe getting hit by lightning again, maybe having magic cast directly onto her? Whatever the case may be, when the dust settled and everything fell quiet once more, Kaguya stood triumphantly atop a small hillock surrounded by several fallen foes. Her victory celebration consisted mostly of laughing loudly whilst throwing dirt everywhere until finally falling asleep beneath a tree.
+
+#### [Underune](https://files.catbox.moe/hxmtn1.module)
+
+[by Peco4188](https://discord.com/channels/836774308772446268/870449646391156776/902285787561873509)
+
+A.K.A "Toby Fox Module"
+
+*A module trained on modified text dumps of Undertale and Deltarune (chapter 1+2).*
+
+*Works fairly well, however somewhat centric to the main character of Deltarune (Kris) because of the game's usage of his name in it's dialogue.*
+
+*Defo would work better with more context and lorebook info, however for now I am just sharing what I have made so far.*
+
+> You fall down Mt.Ebott, with a bed of yellow flowers cushioning your fall, probably saving your life. You get up and walk deeper into the cave, where you see a monster; a
+
+*1200~ steps trained on around 900kb~ of text; Average Loss: 2.8902; Last Loss: 2.8563*
 
 #### [Vampire: The Masquerade](https://files.catbox.moe/dy9gk2.module)
 
