@@ -29,24 +29,26 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 (11th November, 2021)
 
 - Updated [Second Proseon](#second-proseon) module with V4 successor.
+- Updated [Prinny](#prinny) module with V4 successor.
+- Added [World of Kouros](#world-of-kouros) module.
 
 (10th November, 2021)
 
 - With the release of Sigurd V4 for Opus users, it's time to tell the difference between a V3 module (that can be used with V4) and a V4 module (that can be used on V3). For now, anything that doesn't have (V3) is a V4 trained module.
 - Updated [Feudal Japan](#feudal-japan) module with V4 successor.
-- Added [Nineteen Eighty-Four](#nineteen-eighty-four)
+- Added [Nineteen Eighty-Four](#nineteen-eighty-four) module.
 - Updated [George Orwell](#george-orwell), [Rod Serling](#rod-serling), and [Western](#western) modules.
 - Updated [C. S. Lewis](#c-s-lewis) module with V4 successor.
 
 (9th November, 2021)
 
-- Updated [Communism](#communism) module
-- Added [Malazan Book of the Fallen](#malazan-book-of-the-fallen) module
+- Updated [Communism](#communism) module.
+- Added [Malazan Book of the Fallen](#malazan-book-of-the-fallen) module.
 
 (6th November, 2021)
 
-- Added [Space Exploration](#greens-among-the-stars) module
-- Added [Dune](#dune) module
+- Added [Space Exploration](#greens-among-the-stars) module.
+- Added [Dune](#dune) module.
 - Look at that, I'm timestamping "Recent Changes" now.
 
 ***
@@ -75,7 +77,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
   - [Web Authors](#web-authors)
     - [(V3) Benjamin R. "Yahtzee" Croshaw](#v3-benjamin-r-yahtzee-croshaw)
     - [(V3) Joe Forest](#v3-joe-forest)
-    - [(V3) Prinny](#v3-prinny)
+    - [Prinny](#prinny)
     - [(V3) SlutWriter](#v3-slutwriter)
       - [(V3) Slutty](#v3-slutty)
 - [Themes](#themes)
@@ -126,6 +128,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Vampire: The Masquerade](#v3-vampire-the-masquerade)
     - [(V3) West into the Weird](#v3-west-into-the-weird)
     - [Western](#western)
+    - [World of Kouros](#world-of-kouros)
     - [(V3) World of Pokémon](#v3-world-of-pokémon)
     - [(V3) Xenoarchaeology and Relics](#v3-xenoarchaeology-and-relics)
     - [(V3) Zombie Apocalypse](#v3-zombie-apocalypse)
@@ -533,9 +536,9 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 *I'm new to training the AI though, so I only went for 100% of the training (so about 1500 steps), I don't really know if that's enough or not.*
 
-#### [(V3) Prinny](https://files.catbox.moe/d669ox.module)
+#### [Prinny](https://www37.zippyshare.com/v/jNj6o9up/file.html)
 
-[by Anon](https://arch.b4k.co/vg/thread/345358791/#345486924)
+[by Anon](https://arch.b4k.co/vg/thread/359507552/#359566881)
 
 *This module is based on my [favorite monster/human female unwilling/erotic vore author](https://aryion.com/g4/gallery/PrinnyDood).*
 
@@ -1468,6 +1471,58 @@ A.K.A "Toby Fox Module"
 *This is a western model. Trained for about 35% of steps (about 3500) on the following: Butcher's Crossing, Centennial, Hondo, Little Big Man, Lonesome Dove, Riders of the Purple Sage, Shane, The Log of a Cowboy, The Ox-Bow Incident, The Searchers, The Shootist, and True Grit.*
 
 *The archive contains the original EPUBs I worked from, the Pandoc TXT conversion, my edited TXT files, and the module itself.*
+
+#### [World of Kouros](https://files.catbox.moe/bo1cr9.module)
+
+[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/908179081458245692)
+
+*This is a module that is specifically trained for a scenario called World of Kouros as it is trained on the outputs of it in addition to poetic fantasy works as well as rather risque and controversial novels.*
+
+*20mb, 13,000 steps, 60% coverage, 2.664 loss*
+
+- ***Title:** Dune, **Author:** Frank Herbert, **Genre:** Science Fiction*
+- ***Title:** Kushiel's Dart, **Author:** Jacqueline Carey, **Genre:** Fantasy*
+- ***Title:** Kushiel's Scion, **Author:** Jacqueline Carey, **Genre:** Fantasy*
+- ***Title:** Namaah's Kiss, **Author:** Jacqueline Carey **Genre:** Fantasy*
+- ***Title:** Book of Atrix Wolfe, The, **Author:** Patricia A. McKillip, **Genre:** Fantasy*
+- ***Title:** Forgotten Beasts of Eld, **Author:** Patricia A. McKillip, **Genre:** Fantasy*
+- ***Title:** Ombria in Shadow, **Author:** Patricia A. McKillip, **Genre:** Fantasy*
+- ***Title:** Golem and the Jinni, **Author:** Helene Wecker, **Genre:** Fantasy*
+- ***Title:** King of Elfland's Daughter, The, **Author:** Lord Dunsany, **Genre:** Fantasy*
+- ***Title:** Last Unicorn, The, **Author:** Peter S. Beagle, **Genre:** Fantasy*
+- ***Title:** Curse of Chalion, **Author:** Lois McMaster Bujold, **Genre:** Fantasy*
+- ***Title:** Penric and the Shaman, **Author:** Lois McMaster Bujold, **Genre:** Fantasy*
+- ***Title:** Penric's Demon, **Author:** Lois McMaster Bujold, **Genre:** Fantasy*
+- ***Title:** Penric's Mission, **Author:**Lois McMaster Bujold, **Genre:** Fantasy*
+- ***Title:** Tigana, **Author:** Guy Gavriel Kay, **Genre:** Fantasy*
+- ***Title:** Titus Groan, **Author:** Mervyn Peake, **Genre:** Fantasy*
+- ***Title:** Uprooted, **Author:** Naomi Novik, **Genre:** Fantasy*
+- ***Title:** Wizard of Earthsea, **Author:** Ursula K. le Guin, **Genre:** Fantasy*
+- ***Title:** Tarnsman of Gor, **Author:** John Norman, **Genre:** Fantasy*
+- ***Title:** Assassin of Gor, **Author:** John Norman, **Genre:** Fantasy*
+- ***Title:** Smugglers of Gor, **Author:** John Norman, **Genre:** Fantasy*
+- ***Title:** Rebels of Gor, **Author:** John Norman, **Genre:** Fantasy*
+- ***Title:** Shogun's Agents, **Author:** Akahige Namban, **Genre:**  Historical Fantasy*
+- ***Title:** Woman of the Mountain, Warriors of the Town, **Author:** Akahige Namban, **Genre:**  Historical Fantasy*
+- ***Title:** The Women of Gion, **Author:** Akahige Namban, **Genre:**  Historical Fantasy*
+- ***Title:** Chrysanthemum, Rose, and the Samurai, **Author:** Akahiege Namban, **Genre:**  Historical Fantasy*
+- ***Title:** World of Kouros, **Author:** OccultSage, NovleAI, and Others, **Genre:** Fantasy*
+
+>**The blade slashed through the air, as the girl danced** around him. She was a lithe creature of sinuous grace and perfect beauty, her eyes bright with an inner fire that burned like stars in dark night skies. Her hair hung down over one shoulder in two thick braids that reached to below her waist; it shone with glints of gold and silver. In the shadows she looked more than human, but he knew better. A part of his mind noted that the tips of her pointed ears were tipped by tiny slivers of horn. The rest of his mind was lost in lust for this dangerous toy. He watched her move through the dance as if it were all choreographed. Her movements had a natural fluidity that spoke of long practice and skill. His own body moved almost without thought, matching hers in rhythm, while his hands traced patterns on the air as if guided by another's will. And then...
+>
+>She came at him suddenly, lunging forward into a sudden lunge that ended in a kick aimed directly at his groin. With practiced ease he shifted to block her blow, and caught her leg in mid-swing. Before she could recover from her attack, he dropped low and wrapped both arms around her waist. She struggled briefly, trying to twist free, but found herself trapped between his chest and the wall behind him. She kicked out desperately, but her foot only grazed his ribs before she was pulled back against his body. Her head lolled loosely against his shoulder, her hair tickling his cheek.
+
+>**I am a Templar of the Queen**'s Guard. I will not be afraid. She has seen me and knows what I am. The first time she saw me, she was but five years old. Now she is grown into womanhood, with all her powers. And yet she still fears me; for she sees in my eyes that which no one else can see. It is only by chance that I have found her at this moment. Had it been any other time, I might never have known where to find her. Even now, had I not met you on the road, I would not know how to reach her. But here we are together, and soon she will be safe from those who seek to destroy her.
+>
+>"You have heard of Agenor?" he asked. "He is a great sorcerer, as well as an evil man."
+>
+>She nodded. "But I do not understand why they fear him so much."
+>
+>"Agenor is dangerous," said the giant warrior. "His power is great. He has made himself mighty among men."
+>
+>"But surely his magic cannot harm us!" she exclaimed.
+>
+>"No, but there are others who might," he replied grimly. "The demons who live in the deep places of the earth may be summoned up to destroy us. Or Agenor might summon them himself."
 
 #### [(V3) World of Pokémon](https://files.catbox.moe/wc23lm.module)
 
