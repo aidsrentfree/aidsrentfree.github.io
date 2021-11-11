@@ -31,6 +31,8 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Updated [Second Proseon](#second-proseon) module with V4 successor.
 - Updated [Prinny](#prinny) module with V4 successor.
 - Added [World of Kouros](#world-of-kouros) module.
+- Added [Western Romance](#western-romance) module.
+- Added [Interracial Cuckoldry](#interracial-cuckoldry) module.
 
 (10th November, 2021)
 
@@ -167,6 +169,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Trump Tweets](#v3-trump-tweets)
     - [(V3) Twilight 2000 (Encounters)](#v3-twilight-2000-encounters)
     - [(V3) Weird](#v3-weird)
+    - [Western Romance](#western-romance)
     - [(V3) Wildlife](#v3-wildlife)
     - [(V3) Zombies](#v3-zombies)
   - [Sexual](#sexual)
@@ -205,6 +208,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Giantess World](#v3-giantess-world)
     - [(V3) Girl Thoughts](#v3-girl-thoughts)
     - [(V3) Harem Fantasy](#v3-harem-fantasy)
+    - [Interracial Cuckoldry](#interracial-cuckoldry)
     - [(V3) Lesbémon](#v3-lesbémon)
     - [(V3) Loli](#v3-loli)
     - [(V3) Longform Mind Control](#v3-longform-mind-control)
@@ -2133,6 +2137,50 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *For the anon who gave me the data to train his Kafkaesque/Weird module, it's done. It got jammed in the queue, and I didn't realize it got fixed until a few hours afterwards. I trained it up to about 100.12%, so it should lean on that type of output regularly.*
 
+#### [Western Romance](https://files.catbox.moe/yz9coz.module)
+
+[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/908236941726728233)
+
+*Yee haw! This module focuses on the Western Romance genre, but is leavened out by ordinary Westerns. LGBT and People of Color perspectives were also added in. Have fun roundin' them all up!*
+
+*8.5mb, 9440 steps, 100% coverage, 2.57 loss*
+
+>**She rode, and rode after the love of her life.** She had to find him. Had to make sure he was okay. But she could not stop thinking about what had happened between them that night. What it meant. And how much more there was for both of them.
+>
+>"I am a fool," she said aloud as she rode into town behind the stagecoach. "A stupid, blind fool."
+>
+>The day before yesterday she had been in San Francisco. She had thought only one thing then: to get away from Jake Morgan. Now she wanted nothing but to see him again. To tell him everything.
+>
+>And to feel his arms around her once more.
+>
+>Her hands were shaking when she reached the hotel where he worked as a clerk. The man who came out to greet her was dressed in a fine suit with a white shirt and bow tie. He looked like any other clerk, but something told her this man was no ordinary employee.
+>
+>He took one look at her face and his eyes widened. "Miss Gentry?"
+>
+>"Yes." She dismounted and handed the reins to the young boy who had brought up the coach. Then she walked toward him.
+>
+>His voice dropped low when he spoke. "I'm sorry I wasn't here yesterday. We got held up by some drunks on the road. They attacked us and we barely escaped with our lives."
+>
+>She nodded. "I know. My friend told me."
+>
+>He smiled. "You're lucky to have such good friends."
+>
+>She shook her head. "No. It's just that I knew you would be here today."
+>
+>"Well, Miss Gentry, it looks like you found me."
+>
+>"Did Mr. Morgan leave town?"
+>
+>He glanced down the street. "Not yet. I'll go fetch him for you. Do you want to wait inside or out front?"
+>
+>She turned to gaze at the hotel. Her room was upstairs. "Outside. Please."
+>
+>As he hurried off, she walked back to the porch. A few minutes later, Jake came out. His hair was still damp and hung loose around his shoulders. He wore a new pair of trousers and a clean white shirt, which was buttoned all the way up to his neck.
+>
+>"What is it, Annie? You look like you've seen a ghost."
+>
+>She took hold of his hand and led him to the bench beneath an oak tree. There they sat and stared at each other for long moments.
+
 #### [(V3) Wildlife](https://files.catbox.moe/16j6pd.module)
 
 [by lion](https://discord.com/channels/836774308772446268/870449646391156776/877026780626698260)
@@ -2525,6 +2573,14 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 *This collects about 40 full-length novels in the harem lit fantasy genre by authors such as Eric Vall, Logan Jacobs, Dante King, Michael Scott Earle, and many more, and trains them at about 45% at 10,000 steps. As far as I know, this is the biggest and most comprehensive such module for the harem fantasy genre.*
 
 *If you like Monster Girls and explicit harem dynamics in your high fantasy and urban fantasy novels, look no further.*
+
+#### [Interracial Cuckoldry](https://files.catbox.moe/jvuy25.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/359507552/#359635882)
+
+*Sigv4 interracial cuckolding module is finished*
+
+*pretty much what you would expect. mostly for first and third person, second person should work okay but didn't try it out*
 
 #### [(V3) Lesbémon](https://files.catbox.moe/zcf0k2.zip)
 
