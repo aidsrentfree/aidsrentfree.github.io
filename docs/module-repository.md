@@ -200,7 +200,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Genroku Ero](#v3-genroku-ero)
     - [(V3) Giantess](#v3-giantess)
     - [(V3) Giantess World](#v3-giantess-world)
-    - [Girl Thoughts](#girl-thoughts)
+    - [(V3) Girl Thoughts](#v3-girl-thoughts)
     - [(V3) Harem Fantasy](#v3-harem-fantasy)
     - [(V3) Lesbémon](#v3-lesbémon)
     - [(V3) Loli](#v3-loli)
@@ -2428,7 +2428,7 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *Have fun in The City Anons.*
 
-#### Girl Thoughts
+#### (V3) Girl Thoughts
 
 [25%](https://files.catbox.moe/gb4qjk.module)
 
