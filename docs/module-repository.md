@@ -26,6 +26,10 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(11th November, 2021)
+
+- Updated [Second Proseon](#second-proseon) module with V4 successor.
+
 (10th November, 2021)
 
 - With the release of Sigurd V4 for Opus users, it's time to tell the difference between a V3 module (that can be used with V4) and a V4 module (that can be used on V3). For now, anything that doesn't have (V3) is a V4 trained module.
@@ -152,7 +156,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Mormon](#v3-mormon)
     - [(V3) Purely Purple Prose](#v3-purely-purple-prose)
     - [(V3) Second Person](#v3-second-person)
-    - [(V3) Second Proseon](#v3-second-proseon)
+    - [Second Proseon](#second-proseon)
     - [(V3) Sergals](#v3-sergals)
     - [(V3) Surrealistic Look Through The Glass](#v3-surrealistic-look-through-the-glass)
     - [(V3) Sweet Time](#v3-sweet-time)
@@ -1952,13 +1956,13 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *For anyone wanting AID-like 2nd person stories, this makes it way better at 2nd person. It's trained on some of the AID dataset so Count Grey might show up lol.*
 
-#### [(V3) Second Proseon](https://files.catbox.moe/ya8awm.module)
+#### [Second Proseon](https://files.catbox.moe/lslr2i.module)
 
-[by Anon](https://arch.b4k.co/vg/thread/348943230/#349074308)
+[by Anon](https://arch.b4k.co/vg/thread/359507552/#359543509)
 
-*Final version of 2nd person respect module. If you need respect, slavery, corruption with a focus on magic or fantasy creatures or whatever people, this should work.*
+*2nd person respect module for v4 with some other improvements. Still focused on respect, reluctance, blackmail, slavery, corruption with a focus on fantasy races and magic.*
 
-*I'll improve on this more in the future, it can be better.*
+*Try biasing words related to hatred and resistance for extra fun.*
 
 #### [(V3) Sergals](https://files.catbox.moe/ybq80n.module)
 
