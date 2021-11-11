@@ -42,13 +42,13 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 (9th November, 2021)
 
-- Updated [Communism](#communism) module.
-- Added [Malazan Book of the Fallen](#malazan-book-of-the-fallen) module.
+- Updated [Communism](#v3-communism) module.
+- Added [Malazan Book of the Fallen](#v3-malazan-book-of-the-fallen) module.
 
 (6th November, 2021)
 
-- Added [Space Exploration](#greens-among-the-stars) module.
-- Added [Dune](#dune) module.
+- Added [Space Exploration](#v3-greens-among-the-stars) module.
+- Added [Dune](#v3-dune) module.
 - Look at that, I'm timestamping "Recent Changes" now.
 
 ***
