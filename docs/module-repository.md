@@ -884,7 +884,7 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 
 *NOTE: This is the 13k version trained on the v4 model, and will work fine with the v3 model.*
 
-*It's a refinement and expansion of the earlier [Genroku Era](#genroku-era) module.*
+*It's a refinement and expansion of the earlier [Genroku Era](#v3-genroku-era) module.*
 
 *20mb, 13,000 steps, 60% coverage, 2.7359 loss*
 
