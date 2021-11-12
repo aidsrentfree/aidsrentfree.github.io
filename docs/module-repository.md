@@ -26,6 +26,13 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(12th November, 2021)
+
+- Updated [Purely Purple Prose](#purely-purple-prose) module with V4 successor.
+- Updated [Male Prisons](#male-prison) module with V4 successor.
+- Updated [Beastars](#beastars) module with V4 successor.
+- Updated [Pack Street](#pack-street) module with V4 successor.
+
 (11th November, 2021)
 
 - Updated [Second Proseon](#second-proseon) module with V4 successor.
@@ -93,7 +100,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Aztec, Inca and Mayan Mythology](#v3-aztec-inca-and-mayan-mythology)
     - [(V3) Batman](#v3-batman)
     - [(V3) Battletech](#v3-battletech)
-    - [(V3) Beastars](#v3-beastars)
+    - [Beastars](#beastars)
     - [(V3) Celtic Mythology](#v3-celtic-mythology)
     - [(V3) Classic Cyberpunk](#v3-classic-cyberpunk)
     - [(V3) Cyberpunk 2222](#v3-cyberpunk-2222)
@@ -109,7 +116,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Genroku Era](#v3-genroku-era)
     - [(V3) Mad Max](#v3-mad-max)
     - [(V3) Magic: The Gathering](#v3-magic-the-gathering)
-    - [(V3) Male Prison](#v3-male-prison)
+    - [Male Prison](#male-prison)
     - [(V3) Mass Effect](#v3-mass-effect)
     - [(V3) Middle-Earth](#v3-middle-earth)
     - [(V3) My Little Pony: Friendship Extended](#v3-my-little-pony-friendship-extended)
@@ -159,7 +166,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Mermaids and Mermen](#v3-mermaids-and-mermen)
     - [(V3) Modern Detective Work](#v3-modern-detective-work)
     - [(V3) Mormon](#v3-mormon)
-    - [(V3) Purely Purple Prose](#v3-purely-purple-prose)
+    - [Purely Purple Prose](#purely-purple-prose)
     - [(V3) Second Person](#v3-second-person)
     - [Second Proseon](#second-proseon)
     - [(V3) Sergals](#v3-sergals)
@@ -315,7 +322,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Harry Potter of Our Own](#v3-harry-potter-of-our-own)
     - [(V3) Homestuck](#v3-homestuck)
     - [(V3) Jake and Amir](#v3-jake-and-amir)
-    - [(V3) Pack Street](#v3-pack-street)
+    - [Pack Street](#pack-street)
     - [(V3) Pinwheel](#v3-pinwheel)
     - [(V3) Sex and Marmota Nights](#v3-sex-and-marmota-nights)
     - [(V3) A Sexy Day in Suburbia](#v3-a-sexy-day-in-suburbia)
@@ -822,11 +829,15 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 >
 >She moved the crosshairs to the next target and fired again, this time hitting a nearby Clan OmniMech. It staggered backward under the onslaught, then fell.
 
-#### [(V3) Beastars](https://files.catbox.moe/a9an3f.module)
+#### [Beastars](https://files.catbox.moe/26usa1.module)
 
-[by Anon](https://arch.b4k.co/vg/thread/348541970/#348673138)
+[by Anon](https://arch.b4k.co/vg/thread/359694347/#359707706)
 
-*This is my first time training a module with a lot of data so I would like any comments and/or criticisms from those who are interested. It's only been trained off of the best rated stories off of AO3, about fifty or so stories which adds up to 7.43 MB of data. Trained to 34%, exactly 3000 steps.*
+*Beastars Sigurdv4 trained at 34%*
+
+>*It's only been trained off of the best rated stories off of AO3, about fifty or so stories which adds up to 7.43 MB of data. Trained to 34%, exactly 3000 steps.*
+
+*As always for those that are interested, tell me how good or how shit they are.*
 
 #### [(V3) Celtic Mythology](https://files.catbox.moe/xhulkq.module)
 
@@ -1094,15 +1105,13 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 
 *Now with more short stories from a variety of different settings! Including stories like The Blight of Our Own, The Promised End, The Truth of Names, etc.*
 
-#### [(V3) Male Prison](https://files.catbox.moe/zov2u1.rar)
+#### [Male Prison](https://files.catbox.moe/1vywld.module)
 
-[by Anon](https://arch.b4k.co/vg/thread/350292737/#350329558)
+[by Anon](https://arch.b4k.co/vg/thread/359694347/#359707706)
 
-*Here is the second version of the male prison module. I trained it at 50% so it will have a stronger influence than the first version.*
+*Male Prison Sigurdv4 trained at 50%*
 
-*The rar includes the first and second version of the male prison modules as well as the sources and the old and new finetune data.*
-
-*As always, if you are interested in this module please feel free to provide feedback on how I could improve it.*
+*As always for those that are interested, tell me how good or how shit they are.*
 
 #### [(V3) Mass Effect](https://files.catbox.moe/p2kdgi.module)
 
@@ -1997,17 +2006,17 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *Here's my whole 8000 steps used on text_adventures.txt (cut down a bit to fit into the file size limit)*
 
-#### [(V3) Purely Purple Prose](https://drive.google.com/file/d/15Z-MAqQkyLdgtkB-7ymjrYYQZWQf--C1/view?usp=sharing)
+#### [Purely Purple Prose](https://drive.google.com/file/d/17iMgCgBeBYr-TEe81ekuEJRsCukZzL1D/view?usp=sharing)
 
-[by Dichotomy](https://discord.com/channels/836774308772446268/870449646391156776/896338666358726676)
+[by Dichotomy](https://discord.com/channels/836774308772446268/870449646391156776/908617137835360296)
 
-*Expect a healthy dash of Victorian spice. Where version one of Purely Purple Prose was made to give people a feel for what the Purple Prose Supplementary Data could add to one's own modules, version two was crafted specifically to hone in on the "Classical" nature inherent with fiction under Creative Commons. To that end I cleaned up a few of the completed works to train alongside the regular dataset, giving you the benefits of the tags with nothing to hold the prose back.*
+*Expect a tasteful dash of Victorian spice. Where version one of Purely Purple Prose was made to give people a feel for what the Purple Prose Supplementary Dataset could add to one's own modules, and version two was crafted specifically to hone in on the "Classical" nature inherent with fiction under Creative Commons and so trained alongside a few of the completed works... version three was basically just bestowed upon us by the devs and their outstanding work on Sigurd V4. All I did was retrain it for the new finetune, and things are looking more coherent than ever. Nicely moody, while not overpowering you with olden day references.*
 
-*3.26MBs trained for 5k steps (%131 data coverage)*
+*3.26MBs trained for %115 data coverage.*
 
-> **The night** was dark and the storm still raging. The wind howled through the trees, which bent before it like reeds in a flood; and every now and then came a great clap of thunder that shook the old house to its foundations. It was very wild weather; but there were those who loved it well, for they felt themselves nearer Nature’s heart on such nights as these.
+> **The night** was dark, and the stars shone with a pale lustre. The wind went moaning by, like a low distant sea; and there were no clouds in the sky. From time to time, one of those sudden gusts of cold air came rushing down from the north-east, and set all the woods rustling, and brought a white sheet of spray across the lake, which rose up before it as if startled out of its sleep. But this night-breeze had passed away again, when the figure that stood on the bridge, shivered and shook convulsively for some seconds, and then fell forward into the water.
 >
-> Mr. Lorry sat with his friend in the little parlour of the Golden Cross, looking out into the darkness from time to time, with his head resting on his hand.
+>It was a man’s shape; but not a living man: even in the faint starlight, you might have told that at once. There was something hanging about it, which made it look more like a corpse than anything else. It lay face downwards in the shadow of the bridge, and moved not when the boat touched it. A few strokes took us alongside. We drew our knives, and leaped on shore. I stooped over the body, and felt it heartily.
 
 #### [(V3) Second Person](https://files.catbox.moe/2erchz.module)
 
@@ -3784,11 +3793,15 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 >
 > AMIR: Okay, but before we get into that... How do you feel about sex with your sister?
 
-#### [(V3) Pack Street](https://files.catbox.moe/gjqsyh.module)
+#### [Pack Street](https://files.catbox.moe/xmo4sr.module)
 
-[by Anon](https://arch.b4k.co/vg/thread/345503749/#345553878)
+[by Anon](https://arch.b4k.co/vg/thread/359694347/#359707706)
 
-*I fixed up my formatting for my Pack Street Module trained on just Weaver's Zootopia stories. It mostly outputs stuff like adjusting to life in the slums of Zootopia. Which is what Pack Street is mostly about.*
+*Pack Street Sigurdv4 trained at 125%*
+
+>*I fixed up my formatting for my Pack Street Module trained on just Weaver's Zootopia stories. It mostly outputs stuff like adjusting to life in the slums of Zootopia. Which is what Pack Street is mostly about.*
+
+*As always for those that are interested, tell me how good or how shit they are.*
 
 #### [(V3) Pinwheel](https://files.catbox.moe/9q14g9.module)
 
