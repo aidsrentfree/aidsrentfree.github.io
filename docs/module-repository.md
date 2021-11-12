@@ -835,7 +835,7 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 
 *Beastars Sigurdv4 trained at 34%*
 
->*It's only been trained off of the best rated stories off of AO3, about fifty or so stories which adds up to 7.43 MB of data. Trained to 34%, exactly 3000 steps.*
+>\>*It's only been trained off of the best rated stories off of AO3, about fifty or so stories which adds up to 7.43 MB of data. Trained to 34%, exactly 3000 steps.*
 
 *As always for those that are interested, tell me how good or how shit they are.*
 
@@ -3799,7 +3799,7 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 
 *Pack Street Sigurdv4 trained at 125%*
 
->*I fixed up my formatting for my Pack Street Module trained on just Weaver's Zootopia stories. It mostly outputs stuff like adjusting to life in the slums of Zootopia. Which is what Pack Street is mostly about.*
+>\>*I fixed up my formatting for my Pack Street Module trained on just Weaver's Zootopia stories. It mostly outputs stuff like adjusting to life in the slums of Zootopia. Which is what Pack Street is mostly about.*
 
 *As always for those that are interested, tell me how good or how shit they are.*
 
