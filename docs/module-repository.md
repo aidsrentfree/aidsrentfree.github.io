@@ -28,6 +28,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 (12th November, 2021)
 
+- Added [Kinky Friedman](#richard-samet-kinky-friedman) module.
 - Updated [Purely Purple Prose](#purely-purple-prose) module with V4 successor.
 - Updated [Male Prisons](#male-prison) module with V4 successor.
 - Updated [Beastars](#beastars) module with V4 successor.
@@ -78,6 +79,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) J. R. R. Tolkien](#v3-j-r-r-tolkien)
     - [(V3) Jane Austen](#v3-jane-austen)
     - [(V3) Oscar Wilde](#v3-oscar-wilde)
+    - [Richard Samet "Kinky" Friedman](#richard-samet-kinky-friedman)
     - [Rod Serling](#rod-serling)
     - [(V3) Shirley Jackson](#v3-shirley-jackson)
     - [(V3) Stephen King](#v3-stephen-king)
@@ -464,6 +466,15 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 [by Jorgith Blastercrotch](https://discord.com/channels/836774308772446268/870449646391156776/871265822704803910)
 
 *Trained on selected works such as The Picture of Dorian Gray, Poems and Poems in Prose*
+
+
+#### [Richard Samet "Kinky" Friedman](https://files.catbox.moe/vb8ohm.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/359694347/#359762371)
+
+*I've made a module that no one asked for and probably no one wants. It's trained on the detective mystery/comedy novels written by and starring Kinky Friedman and his cat.*
+
+*It has a tendency towards non-nonsensical dialog, inner monologues, and metaphors. [The screenshot](https://files.catbox.moe/m3ilvh.png) is on a completely empty prompt. Results are slightly less nonsensical when used with an actual prompt*
 
 #### [Rod Serling](https://files.catbox.moe/azd2eq.zip)
 
