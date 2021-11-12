@@ -28,6 +28,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 (12th November, 2021)
 
+- Updated [Netorare](#netorare) module with V4 successor.
 - Added [Kinky Friedman](#richard-samet-kinky-friedman) module.
 - Updated [Purely Purple Prose](#purely-purple-prose) module with V4 successor.
 - Updated [Male Prisons](#male-prison) module with V4 successor.
@@ -231,7 +232,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Mom and Son](#v3-mom-and-son)
     - [(V3) Multiple Partners](#v3-multiple-partners)
     - [(V3) Mysterotica](#v3-mysterotica)
-    - [(V3) Netorare](#v3-netorare)
+    - [Netorare](#netorare)
     - [(V3) NonConsent and Reluctance](#v3-nonconsent-and-reluctance)
     - [(V3) Pokémon](#v3-pokémon)
     - [(V3) Raunchy](#v3-raunchy)
@@ -2756,13 +2757,13 @@ Just in case you don't know, that means that this is a collection of modules tra
 - Voyeurism
 - (Unfaithful) Wives
 
-#### [(V3) Netorare](https://files.catbox.moe/c15sly.module)
+#### [Netorare](https://files.catbox.moe/e95exd.module)
 
-[by CobraPL](https://discord.com/channels/870618914323849228/870619535600922644/876209231299223592)
+[by CobraPL](https://discord.com/channels/870618914323849228/870619535600922644/908610913991553055)
 
-*This is my fourth NTR Module. It is based on 400 HQ NTR short stories (curated for many hours by me).*
+*I used over 400 short NTR/cuck stories downloaded form Internet. I cleaned them both by some tools and by hand.*
 
-*Used [online clean tool by ari](https://ermela.net/dumb-reformatter/), 11k-steps big, process ran by Jahkyah#9412 with 3999 steps config since I have zero steps remaining*
+*10k steps used for ~11k data.*
 
 #### [(V3) NonConsent and Reluctance](https://files.catbox.moe/8cjwhg.module)
 
