@@ -34,7 +34,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 (12th November, 2021)
 
-- Updated [Expoenent](#exponent) module with V4 sucessor.
+- Updated [Exponent](#exponent) module with V4 sucessor.
 - Updated [Netorare](#netorare) module with V4 successor.
 - Added [Kinky Friedman](#richard-samet-kinky-friedman) module.
 - Updated [Purely Purple Prose](#purely-purple-prose) module with V4 successor.
