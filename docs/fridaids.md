@@ -33,6 +33,22 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 - [Rules](#rules)
 - [The Log](#the-log)
+- [The Friday of *Office Women*](#the-friday-of-office-women)
+    - [*Spess Loli on a Spess Station (SS13)*](#spess-loli-on-a-spess-station-ss13)
+    - [*Akame Sings Metal*](#akame-sings-metal)
+    - [*SalemSales: A Lifelong Career*](#salemsales-a-lifelong-career)
+    - [*Dark Elf Cordelia*](#dark-elf-cordelia)
+    - [*Raika's After Hours Confession*](#raikas-after-hours-confession)
+    - [*Bring Your Loli to Work Day!*](#bring-your-loli-to-work-day)
+    - [*Office Footsies*](#office-footsies)
+    - [*After Hours Performance Review*](#after-hours-performance-review)
+    - [*A Boring Job*](#a-boring-job)
+    - [*Gay Comforts*](#gay-comforts)
+    - [*Help me, coworker!*](#help-me-coworker)
+    - [*Office Goblin*](#office-goblin)
+    - [*Office Loli in Space*](#office-loli-in-space)
+    - [*An Afterlife of Servitude*](#an-afterlife-of-servitude)
+    - [*Ruling the World is a Job*](#ruling-the-world-is-a-job)
 - [The Friday of *All Hallows' Eve*](#the-friday-of-all-hallows-eve)
   - [*Reckless Adventurer and an Elven Sorceress*](#reckless-adventurer-and-an-elven-sorceress)
   - [*Demonic Desire*](#demonic-desire)
@@ -151,6 +167,328 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Your Daughter will Do Anything to Have You Back*](#your-daughter-will-do-anything-to-have-you-back)
   - [*Ben and Gwen Tennyson in: Omnifriks*](#ben-and-gwen-tennyson-in-omnifriks)
   - [*Goblin girl in Heat*](#goblin-girl-in-heat)
+
+***
+
+## The Friday of *Office Women*
+{: .center}
+
+Let's make prompts about the corporate crusaders; our coworkers, supervisors, and secretaries, all possessing a quintessential womanly touch.
+{: .center}
+
+*November 12th, 2021*
+{: .center}
+
+#### *Spess Loli on a Spess Station (SS13)*
+{: .center}
+
+*<https://prompts.aidg.club/2539>*
+{: .center}
+
+![](https://files.catbox.moe/7rk47l.jpg)
+{: .center}
+
+>*All at once, the station's AI delivers a robotic warning: 'DANGER. THREAT ELEVATED TO RED: CRITICAL POWER FAILURE. POSSIBLE CULTISTS ACTIVITY. ALL SECURITY ARE PERMITTED TO CARRY WEAPONS. EMERGENCY SHUTTLE CALLED. AWAITING RESPONSE.' The fluorescent lights of the interrogation room flicker and dull as the station switches over to auxiliary power; I can hear faint screams in the distance. Communications go silent.*
+>
+>*I knew this shift was going to be a mess.*
+>
+>*My wannabe arresting officer nearly careens out of her chair, quivering in place, "M-My uncle said this would be an easy assignment! I'm going to die with a bunch of peasants, aren't I?" This kid isn't a badass in the slightest, let alone commanding officer material; I shake my shackles to make my presence known again.*
+>
+>*"Listen, uncuff me so we can get to the armory." This girl is a mess, but at present holds all the power; her keycard is almost like a skeleton key given she's a JCO. For a moment, I see her for what she really is: a scared little girl. I'm no action hero, but it would be pretty fucked up for me to just bolt on her, and again, I need her as much as she may need me if we wanna escape.*
+>
+>*"Fuck," a long sigh slips past my lips, "uncuff me and...I'll do my best to make sure we make it out of here alive."*
+>
+>*The cuffs unlock with a digital 'beep', "You're d-damn right you'll do your best! I-I'm a top priority!" Behind that authoritative bark is a panicky child; tearful eyes and a quivering pout prove that.*
+
+Framed for a murder that you obviously didn't commit, a pencil-pushing Junior Command Officer LARPs as security personnel for your interrogation; when the station comes under threat her façade is blown. Can you evacuate the station alive?
+
+#### *Akame Sings Metal*
+{: .center}
+
+*<https://prompts.aidg.club/2563>*
+{: .center}
+
+>*It was hard to tell whether minutes or hours that had passed, though I assumed the former when Ms. Nagoi released a short sigh. The HR lead rose, giving her stocking clad thighs a quick brushing. Something compelled me to remain seated as she wordlessly passed over the crushed beer cans and abandoned eating utensils; Akame's expression unaffectionate as as she reached the song selection terminal. Watching the passionless office lady spend so much time selecting a song was a slight mindfuck. Was she looking for something in particular? Or did she have no clue what to do?*
+>
+>*It seemed that the electronic catalogue of songs was nearing its end, until Akame's index finger settled upon some unseen number.*
+>
+>*The room's automatic lights dimmed as the petite woman took the stage, their rainbow incandescence replaced with a harsh shade of red; what song had she picked? I soon had my answer as a fiendish guitar rift penetrated the silence and nearly spooked me senseless. Akame's head bobbed to the devilish trills, slow at first, then increasingly savage as if possessed by the spirit of 'Metal'.*
+
+The feared Akame Nagoi is often viewed as a mute enforcer of corporate policy, quick to terminate employees as her responsibility of senior HR staff dictates. As the night progresses at a mandatory karaoke night, you alone witness Akame reveal her true colors.
+
+#### *SalemSales: A Lifelong Career*
+{: .center}
+
+*<https://prompts.aidg.club/2564>*
+{: .center}
+
+>*"You know," Seraph mused, her silvery eyes settling upon mine, "you should really relax more often." We paused at the copying room before entering, my witchy companion pressing the creases of her dark, pencil dress. "It's good for you."*
+>
+>*"'Relax'," I guffawed, "Please enlighten me, Seraph, what constitutes 'relaxation' in this office?"*
+>
+>*She laughed. "I'm just saying, you're not getting any younger, and you don't look like you've been sleeping well lately."*
+>
+>*"Oh, I sleep fine," I lied.*
+>
+>*Upper-management had magically sealed me inside of the office a few years back; a handful supervisors complaining that I wasn't there to provide a fresh shot of spunk to their morning cup of joe. Escape was impossible, and I'd consented to being their on-demand fucktoy with drab resignation, "Just can't get enough of my work, I guess."*
+
+Hired on as a mailroom associate, the witches of SalemSales see you as their perfect little cum-bag. What's a guy to do but resign himself to his fate? Perhaps the opportunity to escape may arise? Probably not.
+
+#### *Dark Elf Cordelia*
+{: .center}
+
+*<https://prompts.aidg.club/2576>*
+{: .center}
+
+>*"Did you buy these," Cordelia inquired, a wary eyebrow raised, "because I was quite clear with the department's 'office planning' committee concerning office-kitchen etiquette, I–"*
+>
+>*"They're donuts, Cordelia." My eyes were half-open, a thermos of coffee glued to my lips; I had no time for the dark elf's peculiarities and reached around to retrieve a syrupy, golden bun.*
+>
+>*My lack of outrage to her plight, or apologetic groveling at minimum, made the neurotic gal nearly pop a gasket, "My point exactly! Your world's artificially-sweetened confectionaries are - vile, insidious creations! My superior metabolism cannot adequately digest these alchemical abominations!" A small piece of sugary pastry fell from Cordelia's lips as she ranted on about their nutritional content.*
+>
+>*"Wait, are you eating one?" I asked incredulously, tilting my head to the side.*
+>
+>*Exposed, wide-eyed, mouth agape, Cordelia shrieked, "What? N-No, I am not!"*
+
+Long after the merging of our worlds, Dark Elf Cordelia and I come to a peculiar crossroads as her addiction to sugary sweets compels her to make a most scandalous proposition.
+
+#### *Raika's After Hours Confession*
+{: .center}
+
+*<https://prompts.aidg.club/2577>*
+{: .center}
+
+>*"So, uh, are you gonna come out with me tonight?" I asked, hoping to get her mind off whatever it was.*
+>
+>*"I'm heading home after I get my stuff; maybe later, dude." It was as if every word was some effort to her, oozing angst.*
+>
+>*My gut churned, "You're not going to tell me why?"*
+>
+>*She shook her head, "No, I've had my fill." We'd arrived at her desk. Lo and behold, her personals were scattered across its top; the air hung thick with one-sided tension. Even as I looked to her eyes to find some inkling of vulnerability, Raika averted her gaze.*
+>
+>*"Ok, cool. Well, see ya tomorrow then." My tone was curt, I could feel myself getting angry. She might be upset, but I couldn't let this go unchallenged.*
+>
+>*"Maybe."*
+>
+>*There was a long pause. Even as Raika held her door keys, neither of us budged. In my peripheral vision, I watched her chest rise and fall with each breath. Then, finally, she turned to me, the weight of her stare heavy. Her lips parted slightly, she stared down at me, eyes pleading.*
+>
+>*She looked frozen, so I started with an awkward affirmation, "You can tell me anything, you know. So if something is bothering you–"*
+>
+>*"Can I?" she cut in, interrupting me. The last thing I expected was such sharpness from an easygoing friend, but I was willing to give her space to vent. With a sigh, she said, "You don't even see me, do you? After all this time." Raika's voice was a whisper, as if she was talking through me; she shook her head in shameful disbelief.*
+
+The emotions of a one-sided infatuation explode to the surface after a corporate softball tourny, your tomboy BFF and officemate opening herself to you in ways never before imagined.
+
+#### *Bring Your Loli to Work Day!*
+{: .center}
+
+*<https://prompts.aidg.club/2579>*
+{: .center}
+
+>*Authority and submission went a long way between us, so the message was immediately received. Maddy nuzzled her ebony locks into my neckline as we hugged to seal her apology, "Ok, 'Daddy', I won't do it again." The glaring size difference between us was apparent when we embraced; a whiff of Maddy's natural smell exciting the part of me I generally kept subdued in public.*
+>
+>*For 2 years, I'd trained Madeline to masquerade as my daughter, a deep rooted obedience ingrained into her psyche by rigorous Pavlovian conditioning. "Can I fix it so you aren't upset?" Such an innocent question laced with deviant implication.*
+>
+>*Just bringing my little plaything to work had been a burst of exhilaration, the danger of being outed only strengthening my lust; why did voyeurism excite me so? I looked around to make sure no one was lingering in the immediate vicinity of my desk; it was clear.*
+>
+>*"I'm not upset, silly goose, but you can help me." Maddy's silken locks felt amazing as I massaged the dark crown of her hair, scratching at the little girl's scalp to milk a childish coo. We were of one mind, my little sweetheart and I, a primal heat filling her cheeks under my ministrations.*
+
+Under the cover of 'Bring Your Child to Work Day', your lovely little loli accompanies you to the office for some down and dirty voyeurism. How many lewd hijinks can you get into before getting caught?!
+
+#### *Office Footsies*
+{: .center}
+
+*<https://prompts.aidg.club/2582>*
+{: .center}
+
+![](https://files.catbox.moe/40itjn.jpg)
+{: .center}
+
+>*At first it felt odd to repeatedly touch, massage and feel up Rochelle's feet and lower legs, but you'd soon developed a taste for it. Hell, you even looked forward to overtime when Rochelle was around. Even just the sight of Rochelle walking past you could send memories of the feel of her hot and soaked feet, the gentle, feminine smell of her sweat to your brain. The resulting erections made you consider jerking off in the office restrooms, but you avoided doing that, for now.*
+
+\>Be (You), working as a new-ish guy in IT under a sexy lady
+\>Be lady, getting dumped on a holiday while working overtime alone with you
+Hilarity ensues
+
+#### *After Hours Performance Review*
+{: .center}
+
+*<https://prompts.aidg.club/2583>*
+{: .center}
+
+![](https://files.catbox.moe/48hcqf.jpg)
+{: .center}
+
+>*"Come on in, not so timid, I don't bite! Take a seat, John... I can call you John, right?" he asks, that wide smile never leaving his face.*
+
+
+>*Unsure in general, but sure of my station beneath him, I nod and give him a curt answer of "Of course, Mr. Adams.".*
+>
+>*The smile on his face is replaced by a look of mock disappointment. "Oh, John, you don't need to be so formal. Just call me Steve, we're all part of one big family here at GeneroCorp! Though we're not related by blood, so we can love each other all we want, too..." he says, sexual tension already building between us just from his tone of voice and phrasing. Then, with one swift movement of his hand under his desk, the lamps in the room begin to dim and the candlelight starts taking over the lighting. It's becoming more and more clear just what is going on here, and it seems like my boss is taking some sort of pleasure in making me squirm here, knowing full well that I can't disagree with anything without putting my job in jeopardy.*
+>
+>*With timidity audible in my voice, I just reply "Alright, M... um, Steve.", then look away. Right now, I'm out of my depth in every way—I had no idea he would be this blatant in hitting on me. But at the same time... he's cute. That smile of his seems so sincere, like he's not doing this just because he gets off on the power dynamic of bossing around his subordinates, but is actually into me in a personal way. And there's a part of me that is falling for it. Something about his immaculate feminine appearance is just so alluring that I can't help but start feeling turned on by it.*
+
+It's been a few weeks since the owner's son has been installed as your new boss. While he has a few eccentric behaviors, none is more noticeable than his flamboyant behavior and his penchant for wearing women's clothing. If only he didn't look so god damn cute doing it, you might just be able to ignore it. Making matters worse, he's called you into his office after hours for a one-on-one performance review...
+
+#### *A Boring Job*
+{: .center}
+
+*<https://prompts.aidg.club/2584>*
+{: .center}
+
+>*"Good morning," I greet them as I enter the office, sitting down at my tiny desk in one corner of the room. It's the only desk without a PC on it as well, which is entirely inappropriate, considering that they hired me as a programmer. 'Don't worry, we'll build you one tomorrow,' is what Jake set on my first day, but now it's been a week and I still don't have a way to actually work on any code. I brought my own laptop to work today though. Up to now, I used to just awkwardly sit in the corner, all dolled up as required by my personal dress code and twiddling my thumbs while the guys glance over now and then and stare at my tits for a while.*
+
+You get hired as the only female employee to do programming at a small startup, but all you get is a bunch of brogrammers ordering you around, having you fetch coffee and making sexist comments. At least the pay is good.
+
+#### *Gay Comforts*
+{: .center}
+
+*<https://prompts.aidg.club/2585>*
+{: .center}
+
+![](https://files.catbox.moe/0slxza.png)
+{: .center}
+
+>*"Stay calm, [Anon], you'll get through this day," you tell yourself as you inspected yourself in your office's bathroom mirror. A frown forced itself upon your lips as you kept staring, feeling your confidence falter at the sight of how much your eyes were trembling, giving away your anxiety. Today would be one of the most stressful days of your career. Your supervisor volunteered you to become a project lead a few weeks ago, and today you were asked to give your first report on the project's progress. It was the first time ever you would do such a thing.*
+>
+>*The week leading up to your report could not have gone worse, sadly. Some setbacks occurred, sure. But worst of all a new nickname for you spread around the office like wildfire.*
+
+Be an (androgynous) gay, do crimes. But only if it's professional misconduct in the office.
+
+#### *Help me, coworker!*
+{: .center}
+
+*<https://prompts.aidg.club/2586>*
+{: .center}
+
+![](https://files.catbox.moe/213u9d.jpg)
+{: .center}
+
+>*CRRREEEEKKK*
+>
+>*BDUSH!*
+>
+>*A horrible sound is heard and the shelf above, perhaps because of her knocking against the wall, falls from its mounting and crashes on top of her.*
+>
+>*"Are you okay?!" you jump from your chair and rush toward her.*
+>
+>*"Eh? What happened?" she tries to get back up, but the rubble prevents her from doing so.*
+>
+>*As you look closer, it seems the shelf did not fall on her directly but wedged itself around her body. Jess herself is unharmed but immobilized by the tangle of furniture in this embarrassing position.*
+>
+>*"I'll get you out of there, just wait." you grab your phone and start taking pictures of that lovely butt sticking helplessly from the mess.*
+>
+>*"What are you doing?" you hear her voice.*
+>
+>*"I need to make sure it doesn't collapse farther, so just..." you are stalling for time when you notice that she looks at you through the cracks in the wooden jumble.*
+>
+>*"I, emm..."*
+>
+>*"Do you... want to do it?" she says in a quivering voice.*
+
+Clumsy new girl got herself into a peculiar situation.
+
+#### *Office Goblin*
+{: .center}
+
+*<https://prompts.aidg.club/2588>*
+{: .center}
+
+![](https://files.catbox.moe/83ypu3.png)
+{: .center}
+
+>*When the elevator reaches the 4th floor it stops.*
+>
+>*'Good, someone else to make this less awkward,' I thought to myself.*
+>
+>*But the door didn't open.*
+>
+>*'Oh no...'*
+>
+>*"Gwen... What did you do?" I instinctively ask the goblin.*
+>
+>*"Eh? You say somethin', newbie?" she responds, oblivious to our predicament.*
+>
+>*"The elevator has stopped," I explain. "It must have broken or something..."*
+>
+>*I reach down my pocket to grab my smartphone, but it's not there.*
+>
+>*"Oh, great, I forgot my phone in the office! We'll have to use yours," I tell Gwen.*
+>
+>*"As expected of the newbie, he doesn't know anything!" she snickers. "He doesn't even know that Gwen doesn't have a phone!"*
+>
+>*"What!? How does someone—an office worker not have a phone in this day and age!?" I say dumbfounded. "What do you even carry in that purse of yours?"*
+>
+>*"Girl stuff~" she replies with a wink.*
+
+Get stuck in an elevator with a snarky goblin that inexplicably works in the same office as you.
+
+#### *Office Loli in Space*
+{: .center}
+
+*<https://prompts.aidg.club/2589>*
+{: .center}
+
+![](https://files.catbox.moe/rd63vx.jpg)
+{: .center}
+
+>*"Aww... then what about this?" you say and start to gently massage her small shoulders.*
+>
+>*"This feels nice" you feel her relax in your arms.*
+>
+>*Then, you gently lay her petite body on the couch.*
+>
+>*"Onii... chan?" she looks at you, surprised.*
+>
+>*You reach out and take her tiny feet in your palms. They are so small that you can easily wrap your hands around them.*
+>
+>*"You feel pretty tense here. Are your shoes comfortable?" you say as you start giving her a foot massage.*
+>
+>*"They are fine..." Ruka starts to fidget "Oniichan, this tickles."*
+>
+>*"Do you dislike it?" you ask, continuing to rub her delicate soles with your thumbs.*
+>
+>*"Hi-hi-hi... stop, oniichan!" the girl twists on the couch as you knead her little feet.*
+>
+>*"What? Don't act like a child, that's just a foot massage." you proceed to service her, but then notice something "Ooh, what do we have here?"*
+>
+>*"W-what?"*
+
+Because why not.
+
+#### *An Afterlife of Servitude*
+{: .center}
+
+*<https://prompts.aidg.club/2590>*
+{: .center}
+
+![](https://files.catbox.moe/09aikr.jpg)
+{: .center}
+
+>*He picked it up, giving it a quick glance. It seemed to be a contract of employment, detailing the terms of a new position within her company. His eyes scanned over the page once more, noting that he was to work as an administrative assistant. A number of clauses detailed compensation and responsibilities, but there was nothing that stood out as particularly unusual. Nothing jumped out at him to indicate that something was wrong with it. In fact, it all seemed perfectly legitimate and just.*
+>
+>*"Due to the ambiguity of your soul, your employer has decided to employ your services for divine rehabilitation…" it stated plainly, ending with a line that read: "If any discrepancies arise between these terms and your actual performance in your role, your fate will be sealed."*
+>
+>*“And who is it who decides my fate?” he asked, turning a critical eye upon her face. "Or is this simply some sort of joke?”*
+>
+>*“All in due time,” she answered cryptically. “Just know that you have been hired for this task based on your past failures, impeccable work ethic, and high tolerance for pain.”*
+>
+>*He paused for a moment, weighing the situation. It was either remain left in the dark without a clue of who he was, or oblige and simply hope the woman would eventually reveal some truth. It should have been obvious which choice to make. He picked up the pen and signed the bottom line, using the only moniker he could think of at the moment: “Number 32.”*
+
+Work for the right to enter Heaven. Simple, right?
+
+#### *Ruling the World is a Job*
+{: .center}
+
+*<https://prompts.aidg.club/2592>*
+{: .center}
+
+![](https://files.catbox.moe/hz6nhn.jpg)
+{: .center}
+
+>*As you approach the door, you can already hear Sadra's screams as she wrings another goblin's neck. You make sure to step to the side as you open the door, ensuring the goblin that gets the "red stain" treatment on the wall behind you doesn't sully your clothes. Upon entering you find the former succubus empress of the underworks chugging down a cup of 'vitality-enriched' espresso in seductive office wear that shows off her red body's curves in all the right places. Her blonde hair seems a bit more "burnt by hellfire" than usual, her cocytus-blue eyes are strained, and she's just finished crumpling the drink in her hand and tossing it into the pile of identical drinks behind her before addressing you in a sarcastic tone. "Oh hellooooo your evilness. I'm oh soooo honored you could make it 15 minutes late to the budget meeting on virgin blood tithes. Need I remind you we have a board room meeting with the Telesian mafia in an hour on protection racket rates? I don't know what I hate more, that I lost to you at Veningrad, or that you put me in charge of this mess of a world government while you are off playing tyrant with Dranoch the Glacial Lich."*
+
+Being the evil overlord requires a lot of paperwork, good thing you have a succubus secretary to sort it (among other things) all out for you.
+
 
 ***
 
