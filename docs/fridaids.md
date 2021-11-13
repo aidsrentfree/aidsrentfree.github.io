@@ -319,8 +319,7 @@ Hilarity ensues
 {: .center}
 
 >*"Come on in, not so timid, I don't bite! Take a seat, John... I can call you John, right?" he asks, that wide smile never leaving his face.*
-
-
+>
 >*Unsure in general, but sure of my station beneath him, I nod and give him a curt answer of "Of course, Mr. Adams.".*
 >
 >*The smile on his face is replaced by a look of mock disappointment. "Oh, John, you don't need to be so formal. Just call me Steve, we're all part of one big family here at GeneroCorp! Though we're not related by blood, so we can love each other all we want, too..." he says, sexual tension already building between us just from his tone of voice and phrasing. Then, with one swift movement of his hand under his desk, the lamps in the room begin to dim and the candlelight starts taking over the lighting. It's becoming more and more clear just what is going on here, and it seems like my boss is taking some sort of pleasure in making me squirm here, knowing full well that I can't disagree with anything without putting my job in jeopardy.*
