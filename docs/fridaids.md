@@ -34,21 +34,21 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 - [Rules](#rules)
 - [The Log](#the-log)
 - [The Friday of *Office Women*](#the-friday-of-office-women)
-    - [*Spess Loli on a Spess Station (SS13)*](#spess-loli-on-a-spess-station-ss13)
-    - [*Akame Sings Metal*](#akame-sings-metal)
-    - [*SalemSales: A Lifelong Career*](#salemsales-a-lifelong-career)
-    - [*Dark Elf Cordelia*](#dark-elf-cordelia)
-    - [*Raika's After Hours Confession*](#raikas-after-hours-confession)
-    - [*Bring Your Loli to Work Day!*](#bring-your-loli-to-work-day)
-    - [*Office Footsies*](#office-footsies)
-    - [*After Hours Performance Review*](#after-hours-performance-review)
-    - [*A Boring Job*](#a-boring-job)
-    - [*Gay Comforts*](#gay-comforts)
-    - [*Help me, coworker!*](#help-me-coworker)
-    - [*Office Goblin*](#office-goblin)
-    - [*Office Loli in Space*](#office-loli-in-space)
-    - [*An Afterlife of Servitude*](#an-afterlife-of-servitude)
-    - [*Ruling the World is a Job*](#ruling-the-world-is-a-job)
+  - [*Spess Loli on a Spess Station (SS13)*](#spess-loli-on-a-spess-station-ss13)
+  - [*Akame Sings Metal*](#akame-sings-metal)
+  - [*SalemSales: A Lifelong Career*](#salemsales-a-lifelong-career)
+  - [*Dark Elf Cordelia*](#dark-elf-cordelia)
+  - [*Raika's After Hours Confession*](#raikas-after-hours-confession)
+  - [*Bring Your Loli to Work Day!*](#bring-your-loli-to-work-day)
+  - [*Office Footsies*](#office-footsies)
+  - [*After Hours Performance Review*](#after-hours-performance-review)
+  - [*A Boring Job*](#a-boring-job)
+  - [*Gay Comforts*](#gay-comforts)
+  - [*Help me, coworker!*](#help-me-coworker)
+  - [*Office Goblin*](#office-goblin)
+  - [*Office Loli in Space*](#office-loli-in-space)
+  - [*An Afterlife of Servitude*](#an-afterlife-of-servitude)
+  - [*Ruling the World is a Job*](#ruling-the-world-is-a-job)
 - [The Friday of *All Hallows' Eve*](#the-friday-of-all-hallows-eve)
   - [*Reckless Adventurer and an Elven Sorceress*](#reckless-adventurer-and-an-elven-sorceress)
   - [*Demonic Desire*](#demonic-desire)
@@ -179,7 +179,7 @@ Let's make prompts about the corporate crusaders; our coworkers, supervisors, an
 *November 12th, 2021*
 {: .center}
 
-#### *Spess Loli on a Spess Station (SS13)*
+### *Spess Loli on a Spess Station (SS13)*
 {: .center}
 
 *<https://prompts.aidg.club/2539>*
@@ -202,7 +202,7 @@ Let's make prompts about the corporate crusaders; our coworkers, supervisors, an
 
 Framed for a murder that you obviously didn't commit, a pencil-pushing Junior Command Officer LARPs as security personnel for your interrogation; when the station comes under threat her façade is blown. Can you evacuate the station alive?
 
-#### *Akame Sings Metal*
+### *Akame Sings Metal*
 {: .center}
 
 *<https://prompts.aidg.club/2563>*
@@ -216,7 +216,7 @@ Framed for a murder that you obviously didn't commit, a pencil-pushing Junior Co
 
 The feared Akame Nagoi is often viewed as a mute enforcer of corporate policy, quick to terminate employees as her responsibility of senior HR staff dictates. As the night progresses at a mandatory karaoke night, you alone witness Akame reveal her true colors.
 
-#### *SalemSales: A Lifelong Career*
+### *SalemSales: A Lifelong Career*
 {: .center}
 
 *<https://prompts.aidg.club/2564>*
@@ -234,7 +234,7 @@ The feared Akame Nagoi is often viewed as a mute enforcer of corporate policy, q
 
 Hired on as a mailroom associate, the witches of SalemSales see you as their perfect little cum-bag. What's a guy to do but resign himself to his fate? Perhaps the opportunity to escape may arise? Probably not.
 
-#### *Dark Elf Cordelia*
+### *Dark Elf Cordelia*
 {: .center}
 
 *<https://prompts.aidg.club/2576>*
@@ -252,7 +252,7 @@ Hired on as a mailroom associate, the witches of SalemSales see you as their per
 
 Long after the merging of our worlds, Dark Elf Cordelia and I come to a peculiar crossroads as her addiction to sugary sweets compels her to make a most scandalous proposition.
 
-#### *Raika's After Hours Confession*
+### *Raika's After Hours Confession*
 {: .center}
 
 *<https://prompts.aidg.club/2577>*
@@ -278,7 +278,7 @@ Long after the merging of our worlds, Dark Elf Cordelia and I come to a peculiar
 
 The emotions of a one-sided infatuation explode to the surface after a corporate softball tourny, your tomboy BFF and officemate opening herself to you in ways never before imagined.
 
-#### *Bring Your Loli to Work Day!*
+### *Bring Your Loli to Work Day!*
 {: .center}
 
 *<https://prompts.aidg.club/2579>*
@@ -294,7 +294,7 @@ The emotions of a one-sided infatuation explode to the surface after a corporate
 
 Under the cover of 'Bring Your Child to Work Day', your lovely little loli accompanies you to the office for some down and dirty voyeurism. How many lewd hijinks can you get into before getting caught?!
 
-#### *Office Footsies*
+### *Office Footsies*
 {: .center}
 
 *<https://prompts.aidg.club/2582>*
@@ -309,7 +309,7 @@ Under the cover of 'Bring Your Child to Work Day', your lovely little loli accom
 \>Be lady, getting dumped on a holiday while working overtime alone with you
 Hilarity ensues
 
-#### *After Hours Performance Review*
+### *After Hours Performance Review*
 {: .center}
 
 *<https://prompts.aidg.club/2583>*
@@ -329,7 +329,7 @@ Hilarity ensues
 
 It's been a few weeks since the owner's son has been installed as your new boss. While he has a few eccentric behaviors, none is more noticeable than his flamboyant behavior and his penchant for wearing women's clothing. If only he didn't look so god damn cute doing it, you might just be able to ignore it. Making matters worse, he's called you into his office after hours for a one-on-one performance review...
 
-#### *A Boring Job*
+### *A Boring Job*
 {: .center}
 
 *<https://prompts.aidg.club/2584>*
@@ -339,7 +339,7 @@ It's been a few weeks since the owner's son has been installed as your new boss.
 
 You get hired as the only female employee to do programming at a small startup, but all you get is a bunch of brogrammers ordering you around, having you fetch coffee and making sexist comments. At least the pay is good.
 
-#### *Gay Comforts*
+### *Gay Comforts*
 {: .center}
 
 *<https://prompts.aidg.club/2585>*
@@ -354,7 +354,7 @@ You get hired as the only female employee to do programming at a small startup, 
 
 Be an (androgynous) gay, do crimes. But only if it's professional misconduct in the office.
 
-#### *Help me, coworker!*
+### *Help me, coworker!*
 {: .center}
 
 *<https://prompts.aidg.club/2586>*
@@ -387,7 +387,7 @@ Be an (androgynous) gay, do crimes. But only if it's professional misconduct in 
 
 Clumsy new girl got herself into a peculiar situation.
 
-#### *Office Goblin*
+### *Office Goblin*
 {: .center}
 
 *<https://prompts.aidg.club/2588>*
@@ -422,7 +422,7 @@ Clumsy new girl got herself into a peculiar situation.
 
 Get stuck in an elevator with a snarky goblin that inexplicably works in the same office as you.
 
-#### *Office Loli in Space*
+### *Office Loli in Space*
 {: .center}
 
 *<https://prompts.aidg.club/2589>*
@@ -455,7 +455,7 @@ Get stuck in an elevator with a snarky goblin that inexplicably works in the sam
 
 Because why not.
 
-#### *An Afterlife of Servitude*
+### *An Afterlife of Servitude*
 {: .center}
 
 *<https://prompts.aidg.club/2590>*
@@ -476,7 +476,7 @@ Because why not.
 
 Work for the right to enter Heaven. Simple, right?
 
-#### *Ruling the World is a Job*
+### *Ruling the World is a Job*
 {: .center}
 
 *<https://prompts.aidg.club/2592>*
