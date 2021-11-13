@@ -26,8 +26,13 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(13th November, 2021)
+
+- Added [Stand Up Routines](#stand-up-routines) module.
+
 (12th November, 2021)
 
+- Updated [Expoenent](#exponent) module with V4 sucessor.
 - Updated [Netorare](#netorare) module with V4 successor.
 - Added [Kinky Friedman](#richard-samet-kinky-friedman) module.
 - Updated [Purely Purple Prose](#purely-purple-prose) module with V4 successor.
@@ -197,7 +202,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Eroguro](#v3-eroguro)
     - [(V3) Erotic Horror](#v3-erotic-horror)
     - [(V3) Erotic Roleplay](#v3-erotic-roleplay)
-    - [(V3) Exponent](#v3-exponent)
+    - [Exponent](#exponent)
     - [(V3) Fantasy Anthro](#v3-fantasy-anthro)
     - [(V3) Femdom](#v3-femdom)
     - [(V3) Foot](#v3-foot)
@@ -341,6 +346,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
   - [(V3) Pokédex](#v3-pokédex)
   - [(V3) Python](#v3-python)
   - [(V3) Sentiments and Summaries](#v3-sentiments-and-summaries)
+  - [Stand Up Routines](#stand-up-routines)
   - [(V3) World Generator](#v3-world-generator)
   - [(V3) Yōkai](#v3-yōkai)
 
@@ -2390,9 +2396,9 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *It's vorefag stuff, but we did all sorts of fetish stuff from feet to inflation. It's unformatted so the first few outputs will have timestamps. but that goes away almost instantly once you purge some of it.*
 
-#### [(V3) Exponent](https://files.catbox.moe/g80glt.module)
+#### [Exponent](https://files.catbox.moe/ah9be0.module)
 
-[by Anon](https://arch.b4k.co/vg/thread/346210503/#346281993)
+[by Anon](https://arch.b4k.co/vg/thread/359694347/#359772994)
 
 *I made a module trained on stories I generated, it focuses on monster fucking, but works well for robots and other shit too.*
 
@@ -4056,6 +4062,14 @@ Use Example:
 - *The Dunwich Horror by HP Lovecraft*
 - *The Mysterious Affair at Styles by Agatha Christie*
 - *Oliver Twist by Charles Dickens*
+
+### [Stand Up Routines](https://files.catbox.moe/2gt8t1.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/359507552/#359655371)
+
+*It's amateur hour at the /aids/ comedy club. and Sigurd is ready to do some stand-up. Although, he might struggle to actually form any kind of jokes.*
+
+*Anyway, this stand-up routine module was trained at 35% on stand-up routine from many famous stand-ups (And some amateur thrown in as well.). With the goal of making Sigurd produce a stand-up routine that might give you one giggle before you realize that AIs are not any good at writing jokes.*
 
 ### [(V3) World Generator](https://files.catbox.moe/zswaxs.module)
 
