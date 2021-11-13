@@ -29,6 +29,8 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 (13th November, 2021)
 
 - Added [Stand Up Routines](#stand-up-routines) module.
+- Added [Bad Writing](#bad-writing) module.
+- Replaced the previous Gay Romance modules with this [new V4 one](#gay).
 
 (12th November, 2021)
 
@@ -152,6 +154,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
   - [Elements](#elements)
     - [(V3) Androids, Artificial Intelligence, and Robots](#v3-androids-artificial-intelligence-and-robots)
     - [(V3) Angels and Demons](#v3-angels-and-demons)
+    - [Bad Writing](#bad-writing)
     - [(V3) Catgirls](#v3-catgirls)
     - [(V3) Communism](#v3-communism)
     - [(V3) Count Grey](#v3-count-grey)
@@ -160,8 +163,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Duke Nukem](#v3-duke-nukem)
     - [(V3) The Elder Scrolls In-Game Texts](#v3-the-elder-scrolls-in-game-texts)
     - [(V3) Forbidden Lands (Encounters)](#v3-forbidden-lands-encounters)
-    - [(V3) Gay](#v3-gay)
-    - [(V3) Gay 2](#v3-gay-2)
+    - [Gay](#gay)
     - [(V3) Green's Among the Stars](#v3-greens-among-the-stars)
     - [(V3) Green's RPG](#v3-greens-rpg)
     - [(V3) Gryphons](#v3-gryphons)
@@ -1723,6 +1725,14 @@ A.K.A "Toby Fox Module"
 >
 >Adam. That was the same man whose soul Lorelei had stolen. Her chest tightened. She couldn't imagine the pain of losing your life and having it taken away. It was unimaginable.
 
+#### [Bad Writing](https://files.catbox.moe/uivlq6.module)
+
+[by Potato](https://discord.com/channels/836774308772446268/870449646391156776/908977641342791741)
+
+*This module is like the worst! It's got the worst of the worst! English is the greatest language for bad writing because of how popular it is! This module will make your inner 5 year old writer look kinda like Shakespeare! If one can't serve in literary heaven, might as well rule in the bowels of literary hell.*
+
+*I am legit making up crap because I have no idea how bad this module is.*
+
 #### [(V3) Catgirls](https://files.catbox.moe/khewvl.module)
 
 [by Cass](https://discord.com/channels/836774308772446268/870449646391156776/874923857667059732)
@@ -1821,17 +1831,43 @@ A.K.A "Toby Fox Module"
 *A module trained on material from Forbidden Lands, a Swedish open world dark fantasy RPG. Trained on the 42 random encounter from the GM guide (51 steps of data, trained with 500 steps (976%).*
 *Will need some rerolling + editing to generate something useful. Tends to break down after the first encounter, so it is recommended to start over anew for each encounter.*
 
-#### [(V3) Gay](https://files.catbox.moe/t0kvvx.module)
+#### [Gay](https://files.catbox.moe/v52asc.module)
 
-[by H4RV3YD3NT](https://discord.com/channels/836774308772446268/870449646391156776/870457336270053427)
+[by HARVEYDENT](https://discord.com/channels/836774308772446268/870449646391156776/909058444374466601)
 
-*Trained on about 4mb of M/M romance novels and 1.6mb of smut in ~3k steps. Only the highest quality I could find, of course. Should give the AI more awareness of gay stuff, allow for variety of scenarios that don't suddenly turn you into a woman. Focused more on masculine traits. Lemme know how it goes.*
+*Romance your bro, discover your masculinity, find love in the big city or a small, sleepy town as Sigurd embraces gay romance and is tempered towards a variety of scenarios in the realm of M/M. Refined, polished and ready for Sigurd V4.*
 
-#### [(V3) Gay 2](https://files.catbox.moe/acjraa.module)
+*~8Mb,  10,000 steps, 103% coverage, 2.7802 loss*
 
-[by H4RV3YD3NT](https://discord.com/channels/836774308772446268/870449646391156776/871719405007036426)
+>**The pitter patter of rain** on the roof. The smell of damp and mold. The sound of distant thunder.
+>
+>"I don't want to do this anymore," Tate said, his voice soft. "I just... I'm tired."
+>
+>Tate's head was bowed as he sat in a chair across from Nico. His long hair hung over his face, obscuring it completely. It had been two days since they'd last seen each other. He hadn't wanted to come here at all. But Nico had insisted. They needed to talk.
+>
+>Nico felt bad for him. That wasn't like Tate. He never backed down from anything or anyone.
+>
+>"You're scared," Nico said.
+>
+>A faint smile tugged at Tate's lips. "Maybe."
 
-*A redux of my first tuning, high-quality material clocked at ~7MB trained ~100% on ~7000 steps. Romance your bro, discover yourself as you find brotherhood as part of the hockey or football team, find love and rejection in the big city or the sleepy rural town, as Sigurd embraces masculine fondness. This shouldn't swap your sex and allows for a variety of M/M scenarios. Expect a V3 at some point in the far future when I have time to correct thousands of grammar and spelling mistakes. (Please stop abusing hyphens, parentheses, and "...". Learn how to use a comma, you monsters.)*
+>**Your fingertips drum the surface of the wooden** table. You lift your eyes to look at him and he looks back, his lips parted slightly in surprise. Your heart is beating so fast you can feel it against your chest. He swallows hard before saying anything. "I've never been here before." His voice is low and smooth. It's like velvet wrapped around a razor blade.
+>
+>"This place?" You ask.
+>
+>He nods.
+>
+>"What do I need to know?" You say, trying not to sound nervous.
+>
+>He tilts his head slightly and gives you a small smile. "Everything."
+>
+>You swallow thickly. "Right..." You take another sip from your glass. "Well, we're sitting down here, but then what happens?"
+>
+>His dark brows pull together for a moment before relaxing again. "We eat dinner," he says simply. "Then we talk."
+>
+>You nod slowly. "And after that?"
+>
+>He shrugs.
 
 #### [(V3) Green's Among the Stars](https://files.catbox.moe/9axvlv.module)
 
