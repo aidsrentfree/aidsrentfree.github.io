@@ -26,6 +26,13 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(14th November, 2021)
+
+- Added [Indian Fantasy](#indian-fantasy) module
+- Updated [Surrealistic Look Through the Glass](#surrealistic-look-through-the-glass) module with V4 successor.
+- Updated [Generation Ship](#generation-ship) module with V4 successor.
+- Updated [Gender Bender](#gender-bender) module with V4 successor.
+
 (13th November, 2021)
 
 - Added [Stand Up Routines](#stand-up-routines) module.
@@ -122,8 +129,9 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Four Horsemen Universe](#v3-four-horsemen-universe)
     - [(V3) Furry Scipunktasy](#v3-furry-scipunktasy)
     - [(V3) Girls' Frontline](#v3-girls-frontline)
-    - [(V3) Generation Ship](#v3-generation-ship)
+    - [Generation Ship](#generation-ship)
     - [(V3) Genroku Era](#v3-genroku-era)
+    - [Indian Fantasy](#indian-fantasy)
     - [(V3) Mad Max](#v3-mad-max)
     - [(V3) Magic: The Gathering](#v3-magic-the-gathering)
     - [Male Prison](#male-prison)
@@ -180,7 +188,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Second Person](#v3-second-person)
     - [Second Proseon](#second-proseon)
     - [(V3) Sergals](#v3-sergals)
-    - [(V3) Surrealistic Look Through The Glass](#v3-surrealistic-look-through-the-glass)
+    - [Surrealistic Look Through The Glass](#surrealistic-look-through-the-glass)
     - [(V3) Sweet Time](#v3-sweet-time)
     - [(V3) text_adventures.txt](#v3-text_adventurestxt)
     - [(V3) Trump Tweets](#v3-trump-tweets)
@@ -219,7 +227,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Gay Hyper Muscle Growth](#v3-gay-hyper-muscle-growth)
     - [(V3) Gaykémon](#v3-gaykémon)
     - [(V3) Gay Monsterfucking](#v3-gay-monsterfucking)
-    - [(V3) Gender Bender](#v3-gender-bender)
+    - [Gender Bender](#gender-bender)
     - [(V3) Genroku Ero](#v3-genroku-ero)
     - [(V3) Giantess](#v3-giantess)
     - [(V3) Giantess World](#v3-giantess-world)
@@ -1074,17 +1082,19 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 >
 >"You're going to pay for that, BR55."
 
-#### [(V3) Generation Ship](https://files.catbox.moe/ezfjoh.module)
+#### [Generation Ship](https://files.catbox.moe/pubhtk.module)
 
-[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/874064376850690149)
+[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/909556544524390430)
 
 *Journeys between stars across multiple generations at slower than light! Some are escaping a doomed Earth, others have forgotten that they are generation ships, and further, society breaks down; a few are grand odysseys in the hard scifi tradition.*
 
->**\*\*\***
+>**The generation ship Odysseus burned for the stars, its giant fusion torch pushing it as close as possible to lightspeed,** so that the years would pass in mere months. The crew was already selected and trained by the time they left Earth orbit, with only a few weeks of training before departure. They had all grown up together, most having gone through school and college together. Most were married or engaged, but no one seemed particularly upset when their friends or relatives decided not to go along on this voyage.
 >
->**The generation ship Odysseus burned for the stars, its giant fusion torch pushing it as close as possible to lightspeed,** but even at that velocity it would take centuries—centuries of travel time. But in addition to the Odysseus there was a second ship: Hermes II, also carrying colonists from Earth and Luna. The two ships were separated by almost a hundred million kilometers; one could see them only when they passed through each other's shadow or emerged briefly into sunlight on opposite sides of Sol. In those brief moments, though, they both looked like streaks of light against the sky, bright points of light racing toward their destination. And now, after nearly thirty years, the two ships had met again.
+>In fact, there wasn't much of an argument about leaving Earth at all. Everyone knew that the Odysseus could never return home; it was designed to be a one-way trip. The planet's biosphere had been destroyed by nuclear war long ago, and there was no chance of finding another suitable world within the solar system where humans could live safely. So why not take off for the stars? It was better than dying in a radioactive wasteland.
+
+>**The generation ship's fusion engines burned as it consumed hydrogen, and it maneuvers towards the Sun for a gravity-assisted boost closer to the speed of light, its passengers in cryogenic suspension and insulated from the effects of the hard acceleration.** The fusion engine is burning so hot that it has melted some of the nickel-iron core material into liquid metal. It flows through pipes inside the ship and then back out again, radiating heat like a giant radiator.
 >
->"We're going to be talking about this all day," said Hockenberry. "I think." He nodded his head forward, toward the window. They were passing through the shadow of another star now, and he couldn't make out anything more than the vague shapes of the trees outside the car. The world seemed small. It was hard to believe that the world contained so much space between people.
+>On board the planetoid they call Bussard's Viewing Room, I'm sitting at my desk in front of the window, looking down on the tiny red dot that is our home world. A small robot arm with a stylus attached to it extends from the wall behind me and makes an erratic scratching motion across the screen, which changes every few seconds. On another monitor, a view of Earth shows the same thing happening there. I've been watching this show for years now, ever since we were all woken up by the crew waking us from suspended animation.
 
 #### [(V3) Genroku Era](https://files.catbox.moe/agf8ib.module)
 
@@ -1102,6 +1112,42 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 - *The Concubine’s Tattoo, Laura Joh Rowland*
 - *The Samurai’s Wife, Laura Joh Rowland*
 - *The Tokaido Road, Lucia St, Clair Robson*
+
+#### [Indian Fantasy](https://files.catbox.moe/7qkhsg.module)
+
+[by Samanamel](https://discord.com/channels/836774308772446268/870449646391156776/909544004935385099)
+
+*Based on fantasy books inspired by Indian culture and religion. Steps: 2930, Loss: 2.68, 60% trained*
+
+- *The Black Company - Books of the South - Book 1*
+- *The Black Company - Books of the South - Book 2*
+- *Realm of Ash*
+- *The Jasmine Throne*
+- *The Star Touched Queen*
+- *A Crown of Wishes*
+- *Hunted by the Sky*
+
+(Storywriter)
+>**She peeked from the palanquin,** watching as her escort led them to a small temple. The priestess of Kali stood outside, hands folded in supplication. A few other women were already there, kneeling before the goddess's image. Some of them were weeping.
+>
+>"Are they going to sacrifice us?" asked Megha. "We should run."
+>
+>Priya shook her head. "They're praying for mercy."
+>
+>Megha looked skeptical.
+>
+>The priestess bowed low before entering the temple. She held up one hand in prayer and began to sing. Priya felt the sound vibrate through her body, deep within her bones. It was a song of longing, a song of yearning.
+>
+>And it rose around her, an echo in the air, so that she could feel its call on her lips.
+
+(Creative Coherency)
+>**He drew his dagger** and held it up in the air. It was a silver blade, old as time itself, with runes etched into its surface that glowed like fireflies trapped inside of glass. He had no idea what they meant; he'd never bothered to learn their meaning. But he knew this much: it would cut through anything—even solid stone—as if it were butter on a hot griddle. Once upon a time, he could have used such a weapon even without knowing how.
+>
+>Now... not so much. His arm ached where the wound from the manticore's fang still lingered. The magic within him felt sluggish now, too weak to heal himself or anyone else. Even Kale couldn't help but feel it. They all did.
+>
+>"I'm sorry," said Arwa. "It wasn't my—"
+>
+>Kale gestured for silence, then turned back toward the village.
 
 #### [(V3) Mad Max](https://files.catbox.moe/3izcto.module)
 
@@ -2098,19 +2144,49 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 >
 > Sergals tend to see their work within each individual village differently compared to how outsiders might perceive them. They may view themselves as protecting, defending, assisting, supporting... whatever words suit your fancy. What matters isn't the meaning, however, but rather its results. As long as the end result is favourable to everyone involved, even if there's been bloodshed along the way, it doesn't matter how they got there so long as everything eventually leads towards peace and prosperity for both parties.
 
-#### [(V3) Surrealistic Look Through The Glass](https://files.catbox.moe/eut7pg.module)
+#### [Surrealistic Look Through The Glass](https://files.catbox.moe/pxmwlb.module)
 
-[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/872175279567695872)
+[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/909549236767563778)
 
 *This is a theme module for those that enjoy surrealistic, whimsical, and sometimes dark stories along the vein of Lewis Carrol's Alice's Adventure in Wonderland, or Neil Gaiman's Neverwhere.*
 
->**The journey** to the station was long and tedious, with many stops at stations. I remember that we had tea in a little cafe near Victoria Station. And there were crowds of people waiting for trains: men with newspapers under their arms, women clutching parcels; children playing on the platforms and running about as if they owned them.
+>**Morgan's brows furrowed, and he stared** at me for a long moment. "How do you know that?" he asked finally.
 >
->"You don't have to go," said Richard, but she insisted. "I'll be all right."
+>"Because it was in the book," I said, pointing to my lap where The Wind in the Willows lay open on my knee. "I read it when I was little."
 >
->She bought some sandwiches from one of those stalls you see everywhere—the ones that sell only bread, cheese, ham, or fish-and-chips—which seemed very odd to me. She gave her ticket to the porter who came around collecting fares, then sat down beside him on an empty bench, eating her sandwich and reading The Times. I watched her for a while. She looked so peaceful sitting there, nibbling away like that. I wanted to sit next to her. But it wasn't my place. I didn't want to intrude. So I went back into the station and wandered up and down looking at the posters and trying not to look too interested.
+>"That book? It's not real."
 >
->It was getting dark by now. A train pulled in.
+>"Of course it is," I insisted. "It's all about a river and an otter who lives in it."
+>
+>"Otters don't live in rivers."
+>
+>"They do in this one."
+>
+>Morgan snorted. "I've never heard of such a thing. You're making up stories." He shook his head, frowning. "No one has ever seen an otter or a river in Faerie."
+>
+>"Yes they have," I said stubbornly. "The otter lived with the king's daughter in her garden. And there was a river—"
+>
+>"A stream," Morgan interrupted. "You can't call a trickle of water a river."
+>
+>I gave him a haughty look. "We can if we want to."
+>
+>He rolled his eyes. "Fine. A stream then."
+>
+>"There were fish in it," I continued. "And frogs. And ducks. And sometimes—sometimes it rained."
+>
+>Morgan looked like he wanted to argue, but instead he just sighed and ran a hand through his hair.
+
+>**Once upon a time** there was a little girl who lived at the bottom of a well. She had never been out, and she didn't know how to get out. So every day, when her mother came down to fetch water from the pump in the yard above, she would climb up the rope ladder and sit on the edge of the bucket while her mother filled it. Then they would both go back up again. It was lonely living at the bottom of a well, but you have to remember that this was a long time ago, before people used buckets for everything.
+>
+>The little girl had a white dress with red spots all over it; and because she was so small, she could easily hide inside the bucket when her mother wasn't looking. The handle of the bucket was wooden, carved in the shape of an elephant's head.
+>
+>One day, as her mother went up to the pump, the little girl slipped out of the bucket and ran away. There were no grown-ups around, so she climbed onto the top of the well and sat there until her mother came home.
+>
+>"What are you doing up there?" asked her mother. "Come down at once!"
+>
+>But the little girl didn't want to come down, because it was such a nice place to be. So she said: "I'm too old to play games. I'll stay here till tomorrow."
+>
+>And she stayed there all night, even though it began to rain very hard. When her mother came into the kitchen next morning, she found the little girl lying under the table, fast asleep.
 
 #### [(V3) Sweet Time](https://files.catbox.moe/apztai.module)
 
@@ -2550,11 +2626,11 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *Hand-selected M/M monster and anthro fics from sites like Literotica, SoFurry, Furaffinity and AO3. Excludes any extreme fetishes like watersports and vore. 108 fics, 2.60mb, trained at 49.55% for 1506 steps.*
 
-#### [(V3) Gender Bender](https://files.catbox.moe/1v3evi.module)
+#### [Gender Bender](https://files.catbox.moe/ghe5n6.module)
 
-[by Anon](https://arch.b4k.co/vg/thread/345923845/#345940003)
+[by Anon](https://arch.b4k.co/vg/thread/359952842/#359977382)
 
-*It is done: The TG/Gender bender module. It's mostly trained from TGStorytime.com from a combination of top and hand picked stories, skipping over crossdressing, body swapping, and realistic surgery. The vast majority of stories used are rated explicit or deviant because of course they are.*
+*Good evening, deviants. I have retrained my Gender Bender module for Sigurd v4. The data is pulled from TGstorytime.com primarily from sci fi and fantasy based male-to-female transformations, so cross dressing or realistic surgery won't be as well supported. Also plenty of sex because you why you're here.*
 
 #### [(V3) Genroku Ero](https://files.catbox.moe/9c3mvf.module)
 
