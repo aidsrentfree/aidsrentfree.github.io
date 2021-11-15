@@ -31,6 +31,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Added [Beatrix Potter](#beatrix-potter) module.
 - Updated [Poetic Fantasy](#poetic-fantasy) module with V4 successor.
 - Updated [Russian Fantasy and Folklore](#russian-fantasy-and-folklore) module with V4 successor.
+- Updated [The Beginning After The End](#the-beginning-after-the-end) module with V4 successor.
 
 (14th November, 2021)
 
@@ -320,7 +321,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Steins;Gate](#v3-steinsgate)
     - [(V3) Tales of Androgyny](#v3-tales-of-androgyny)
   - [Light Novel](#light-novel)
-    - [(V3) Beginning After The End](#v3-beginning-after-the-end)
+    - [The Beginning After The End](#the-beginning-after-the-end)
     - [(V3) Fantasies](#v3-fantasies)
     - [(V3) Goblin Slayer](#v3-goblin-slayer)
     - [(V3) Highschool DxD (1-10)](#v3-highschool-dxd-1-10)
@@ -3727,13 +3728,29 @@ Alright, I guess I just bit the bullet. Here's [four](#nineteen-eighty-four) [of
 
 ### [Light Novel](#works)
 
-#### [(V3) Beginning After The End](https://files.catbox.moe/xgykqw.module)
+#### [The Beginning After The End](https://files.catbox.moe/xzi6v8.module)
 
-[by SGreen](https://discord.com/channels/836774308772446268/870449646391156776/870493546250137650)
+[by SGreen](https://discord.com/channels/836774308772446268/870449646391156776/909913259358961664)
 
-*Module trained on the current 7 books(Chapter 1 - 253 light novels) from The Beginning After the End. I forgot to add the latest, 8th, book. So Chapter 254-340 are missing. Trained with 3k steps, from max 4k. ~75%*
+*A module trained on the first 8 novels of the series The Beginning After the End.*
 
-*From what I saw, it works amazing. It gave me some really amazing output from the perspective of Arthur.*
+*4,76mb, 5613 Steps, 100% coverage, 2.759 loss*
+
+*Tags used: Title: The beginning after the end; Author: Brandon Lee; Genre: high Fantasy*
+
+>**I grabbed my sword's hilt**, but before I could even swing it, a large mass of metal slammed into me from behind. It felt like someone had hit me with an iron bar and threw me to the ground. The impact caused the air around me to shimmer as if I was standing in front of a powerful wind storm. As I lay on the ground trying to get my bearings, I saw the shadow of a man-like figure looming over me. He looked down at me with his eyes glowing red, then he pulled back his arm to strike again. Before he could, however—
+>
+>"Stop!"
+>
+>The voice that echoed through the night sounded familiar to me, but I couldn't quite place it. Then, just as suddenly as it came, the attack stopped. I slowly sat up, rubbing my head where I'd been struck by the man's fist. Looking around, I realized that we were surrounded by several men dressed in black armor. They all wore hoods that covered their faces except for their eyes. There were six of them surrounding us, each holding a long spear or sword. Each of them had the same red glow in their eyes that I'd seen earlier.
+>
+>"What do you want?" one of them asked, staring at me with his crimson gaze. "We don't know who you are."
+>
+>I didn't answer right away. After taking a moment to gather my thoughts, I stood up and brushed off my clothes. My body still ached from the blow, but I tried not to let it show as I took a step forward, pushing aside my doubts about whether they would actually help me. Maybe this is what they're here for... to capture me? Or maybe they wanted to kill me outright. I wouldn't put it past them. I'm not sure how many people knew I was coming here, but I couldn't imagine anyone else knowing. Even so, I couldn't be too careful. I needed to find out more.
+
+>**The beast screamed at me** as I ran past, but the wind from my blade cut through its skin and muscle like a hot knife through butter. The beast's howl of pain was deafening in the enclosed space, echoing off the stone walls around us. My mind went blank as I focused on the task at hand—killing this monster before it killed me. I spun my blade again, slashing at the beast's neck while leaping over its back to avoid another attack from behind. It turned and tried to snap at me with its teeth, but I managed to dodge by jumping into the air and kicking out with both legs at the same time, sending the creature flying backward into the wall. The impact caused cracks to form in the stone, which quickly spread outward as the beast bounced off it several times until finally slamming against the far wall and falling limp onto the ground where it lay still.
+>
+>I stood there for a moment, panting heavily, my breath coming in ragged gasps as I struggled to regain control of myself. My heart was racing so fast that I could feel each beat pounding in my ears. Sweat dripped down my forehead and stung my eyes as I looked down at the beast lying dead on the floor. There was no doubt in my mind that it had been one of the monsters I'd seen in the visions, but I couldn't help feeling disappointed. Maybe I just wanted to kill something because it felt good to do so? This wasn't exactly the first time I'd killed someone, after all...
 
 #### [(V3) Fantasies](https://files.catbox.moe/j2rgei.module)
 
