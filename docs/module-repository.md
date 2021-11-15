@@ -32,6 +32,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Updated [Surrealistic Look Through the Glass](#surrealistic-look-through-the-glass) module with V4 successor.
 - Updated [Generation Ship](#generation-ship) module with V4 successor.
 - Updated [Gender Bender](#gender-bender) module with V4 successor.
+- Updated [The Manwhore Module](#the-manwhore-module) with his V4 template scenario successor.
 
 (13th November, 2021)
 
@@ -179,7 +180,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) LitRPG](#v3-litrpg)
     - [(V3) Magical Girls: Battle Royale](#v3-magical-girls-battle-royale)
     - [(V3) Magical Girls: Romance](#v3-magical-girls-romance)
-    - [(V3) The Manwhore Module](#v3-the-manwhore-module)
+    - [The Manwhore Module](#the-manwhore-module)
     - [(V3) Melee Combat](#v3-melee-combat)
     - [(V3) Mermaids and Mermen](#v3-mermaids-and-mermen)
     - [(V3) Modern Detective Work](#v3-modern-detective-work)
@@ -2045,11 +2046,19 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 >
 >My vision started getting blurry again. And then...
 
-#### [(V3) The Manwhore Module](https://files.catbox.moe/osl7r9.module)
+#### [The Manwhore Module](https://files.catbox.moe/l0c1sg.scenario)
 
-[by Manwhore](https://arch.b4k.co/vg/thread/354827610/#354996248)
+[by Manwhore](https://arch.b4k.co/vg/thread/359952842/#360055304)
 
-*Like I said before, it's trained on a bunch of my previous writings and play-throughs, curated and edited for maximum quality. This module's data is entirely in first-person past tense, but you might still be able to get it to work with other perspectives. Strengths include monster-girls, maternal femdom, and purple prose. Have a blast, bros.*
+*Bear witness, gentlemen, to my newest coomtech creation!*
+
+*I've been hitting the lab ever since v4 dropped to get my template scenario polished up and hitting even higher smut-producing heights. And now, it's ready for you to mutilate as you see fit.*
+
+*Inside you'll find further refinements of my low-randomness TFS settings package, a fresh bundle of redone phrase biases at new weights paired with a banned token or two, and most importantly, the fifth version of my personal module, retrained with new data and higher percentage of steps for Sigurd v4.*
+
+*I've taken this package for a spin on multiple different prompts from my private reserve, and so far the thing's been an incredible workhorse. On a sunny day this bad boy takes me from start to finish on a scenario for a whopping three to four re-rolls total, with everything from vanilla sex to moth-girl maternal femdom involving four hands and aphrodisiac powder. Let me know what I fucked up, how it runs, etc.*
+
+*Enjoy.*
 
 #### [(V3) Melee Combat](https://files.catbox.moe/sz6pz1.module)
 
