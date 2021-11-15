@@ -26,6 +26,12 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(15th November, 2021)
+
+- Added [Beatrix Potter](#beatrix-potter) module.
+- Updated [Poetic Fantasy](#poetic-fantasy) module with V4 successor.
+- Updated [Russian Fantasy and Folklore](#russian-fantasy-and-folklore) module with V4 successor.
+
 (14th November, 2021)
 
 - Added [Indian Fantasy](#indian-fantasy) module
@@ -71,12 +77,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Updated [Communism](#v3-communism) module.
 - Added [Malazan Book of the Fallen](#v3-malazan-book-of-the-fallen) module.
 
-(6th November, 2021)
-
-- Added [Space Exploration](#v3-greens-among-the-stars) module.
-- Added [Dune](#v3-dune) module.
-- Look at that, I'm timestamping "Recent Changes" now.
-
 ***
 
 ## [Table of Contents](#modules)
@@ -86,6 +86,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - [Modules](#modules)
 - [Writers](#writers)
   - [Published Authors](#published-authors)
+    - [Beatrix Potter](#beatrix-potter)
     - [(V3) Carl Gustav Jung](#v3-carl-gustav-jung)
     - [(V3) Charles Dickens](#v3-charles-dickens)
     - [C. S. Lewis](#c-s-lewis)
@@ -142,10 +143,10 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) New California](#v3-new-california)
     - [(V3) Noir](#v3-noir)
     - [(V3) Norse](#v3-norse)
-    - [(V3) Poetic Fantasy](#v3-poetic-fantasy)
+    - [Poetic Fantasy](#poetic-fantasy)
     - [(V3) Post-Apocalyptic Fallout](#v3-post-apocalyptic-fallout)
     - [(V3) Prehistoric Ice Age](#v3-prehistoric-ice-age)
-    - [(V3) Russian Fantasy and Folklore](#v3-russian-fantasy-and-folklore)
+    - [Russian Fantasy and Folklore](#russian-fantasy-and-folklore)
     - [(V3) A Song of Ice and Fire](#v3-a-song-of-ice-and-fire)
     - [(V3) Star Trek: The Next Generation](#v3-star-trek-the-next-generation)
     - [(V3) Star Trek: The Original Series](#v3-star-trek-the-original-series)
@@ -382,6 +383,19 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 ***
 
 ### [Published Authors](#writers)
+
+#### [Beatrix Potter](https://gitgud.io/CuriousNekomimi/MoM/-/raw/master/Modules/CuriousNekomimis_Beatrix_Potter_v1.module?inline=false)
+
+[by Mimi](https://discord.com/channels/836774308772446268/870449646391156776/909604576473251891)
+
+*Trained on 21 of Beatrix Potter's children's stories. Expect Victorian era, United Kingdom, countryside living with talking animals and (surprisingly dark) plotlines.*
+
+*215kb, 246 steps, 100% coverage, 2.775 loss*
+
+>**Mrs. Tabitha Twitchit is a cat who lives in a countryside cottage with her three kittens, Tom, Moppet, and Mittens. She enjoys sitting on the hearth and listening to the fire crackle.** Her favourite pastime is telling stories about her adventures when she was a kitten. One day Mrs. Twitchit comes across some mice who have built their home under the floorboards of her cottage. The mice are trying to steal from her pantry but they find themselves trapped in a trap set by Mrs. Twitchit herself. When the mice promise not to tell anyone else about what happened, Mrs. Twitchit decides to let them go free. However, as soon as they leave the house she sets her traps again and catches another group of mice.
+>
+>Mrs. Twitchit is quite a nimble cat and very good at catching mice. In fact, so good is she that even other cats begin to fear her. But Mrs. Twitchit does not care. She continues to catch mice, trapping them in jars and bottles, until one day a large black rat arrives at her door. He tells her that he has been sent by the King himself to warn her that if she doesn't stop chasing him and his friends around her garden, then they will be forced to come up with an invention which will make her life miserable.
+
 
 #### [(V3) Carl Gustav Jung](https://anonfiles.com/Z8t7U7Q1u1/Carl_Jung_Seminar_Module_v1_module)
 
@@ -1275,19 +1289,37 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 
 *Trained on 2/3 historical fiction, with 1/3 mythology/fantasy.*
 
-#### [(V3) Poetic Fantasy](https://files.catbox.moe/17mbhl.module)
+#### [Poetic Fantasy](https://files.catbox.moe/0mnm38.module)
 
-[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/875105564814880819)
+[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/909665868789710848)
 
-[12K Step Vers.](https://files.catbox.moe/p9a805.module)
+[12K Step (V3) Vers.](https://files.catbox.moe/p9a805.module)
 
 *Some of the best and most poetic fantasy written went into this module, from Guy Gavriel Kay, Mervyn Peake, Patricia A. McKillip and others. If you want beautiful prose in an almost fairy-tale setting, this is the module for you!*
 
->**The mermaid sang upon the rocks,** and her voice was like a silver bell. The sun shone down on the sea-green water as it rippled in waves around the rocky islet where she lay. There were no other creatures to be seen, only an occasional gull or seagull; but for these there was nothing remarkable about them at all except that they did not sing. But this one had come out of curiosity, perhaps from some place far away, because it flew slowly round the island and then settled itself on the ledge beside the mermaid's head. She lifted up her long hair which fell over her shoulders into a shining cascade of green seaweed and watched with half-closed eyes while the bird perched contentedly above her. It seemed to her that its feathers glowed with tiny lights of their own, so bright that they made her look again when suddenly, without warning, the bird began to speak: "I am sorry," he said, "but I cannot stay here any longer." He flapped his wings once more and rose higher than ever before. "You are too beautiful!" cried the mermaid sadly. Then she turned back to face the world of men.
+*6.8mb, 12000 steps, 154% coverage, 2.809 loss*
+
+>**The mermaid sang upon the rocks,** her voice a thin silver thread that wound around them all. The water lapped against their feet and she looked up at the stars with wide green eyes. She was very beautiful. Her hair fell like seaweed down to her waist, black as night itself. A faint glow lit her pale skin, as if moonlight shone through her from behind. And then the sea swallowed her again, leaving only bubbles on the sand.
 >
->"Oh my poor little sister," sighed the dragon who had been watching her all day from the topmost branches of the great tree, "how can you bear such loneliness? How will your heart survive?" His tears came streaming down his huge scaly cheeks, and he wept until he could weep no more. And when the mermaid saw him weeping, she knew how much she loved him, although she had never known love herself. So she called him close to her side and held him tight against her breast. Her arms went around him, and she pressed his head beneath her chin. "Now don't cry anymore," she whispered, "because if you do, I shall die also."
+>"She's gone," said Alberic softly. He looked over his shoulder at the others. "What do you say?" he asked the sailors. They murmured in agreement.
 >
->And she told him what had happened since the time when he had gone away. As she spoke, she grew sadder and sadder, and when she finished speaking she sat quite still, gazing silently ahead of her into the distance. The dragon felt her sadness through every scale of his body, and he understood that now she would never return home again. With a sigh he laid himself down across her lap, resting his head between her breasts. They stayed thus together for many hours, neither moving nor saying anything.
+>They turned back toward home.
+
+>**The witch was mercurial and beautiful** as she laughed, her eyes flashing in the firelight. "I have a plan," she said, pulling me close to her again. Her lips brushed my ear, making it tingle. She whispered, "If I kill you now..."
+>
+>"You'll be sorry?" I finished for her.
+>
+>She smiled. "Yes."
+>
+>We were silent then, listening to the crackle of flames. The room was still and warm with the heat from our bodies; only a faint draft moved through the open window. My mind began racing, trying to figure out how I could escape this woman's clutches. I couldn't just leave Cook behind--the witch would know that. But if I killed her, I'd have no chance of getting back into the palace without being caught myself. And what about Cook? What if she woke up before we got away?
+>
+>But there was nothing else to do but wait and hope. We sat together on the edge of the bed, leaning against each other like two lovers sharing secrets. I felt dizzy and sick, wishing I had something stronger than wine to drink. The witch seemed to sense my weakness; she stroked my hair and murmured words of comfort. "Shh," she said, kissing me lightly on the forehead. "Don't worry, little one. You're safe here."
+>
+>My eyes closed; I lay back against her chest, feeling strangely calm. Perhaps she could help me after all. I fell asleep, and when I woke again, it was morning.
+>
+>I opened my eyes slowly, wondering where I was.
+
+
 
 #### [(V3) Post-Apocalyptic Fallout](https://files.catbox.moe/eavy49.module)
 
@@ -1337,19 +1369,33 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 >
 > Then she heard something. A soft rustling sound. It grew louder and closer until she recognized the distinctive footfalls of a small creature padding softly across the floor behind her. She turned quickly, expecting to see another animal, perhaps a fox or a wolf.
 
-#### [(V3) Russian Fantasy and Folklore](https://files.catbox.moe/08g7lc.module)
+#### [Russian Fantasy and Folklore](https://files.catbox.moe/5xu90x.module)
 
-[by lion (and Zaltys)](https://discord.com/channels/836774308772446268/870449646391156776/875639605767053332)
+[by lion (and Zaltys)](https://discord.com/channels/836774308772446268/870449646391156776/909615787214532650)
 
-*Trained on select Russian folktales and fantasy tales, this module manifests some of the dark whimsy of your favorite folk stories. Special thanks to Zaltys for cleaning and prepping the dataset.*
+*Russian folktales and fantasy tales retrained for Sigurd v4 now with additional works. This module manifests some of the dark whimsy of your favorite folk stories. Special thanks once again to Zaltys for cleaning and prepping the dataset. I only provided the steps.*
 
->**The snow** was deep, and the wind howled around them. The horses stumbled along through drifts that reached their chests. It took all of Sergei’s skill to keep his mount from breaking its leg in a hidden hole or slipping on an unseen rock. His breath came out like smoke as he struggled with the reins. He could feel the cold seeping into him. As if it were taking over his body, freezing his bones and heart and lungs until they would no longer obey him.
+- ***Arkady & Boris Strugatsky*** - Hard to Be a God
+- ***Arkady & Boris Strugatsky*** - Monday Starts on Saturday
+- ***David Clement-Davies*** - Fell
+- ***Edward Rutherfurd*** - Russka
+- ***Emma Woodcock*** - Kikimora
+- ***Karah Sutton*** - A Wolf for a Spell
+- ***Katherine Arden*** - The Winternight trilogy
+- ***Leo Tolstoy*** - Anna Karenina
+- ***Marina & Sergey Dyachenko*** - Vita Nostra
+- ***Mariam Petrosyan*** - The Gray House
+- ***Michael Thomas Ford*** - Lily
+- ***Mikhail Bulgakov*** - The Master and Margarita
+- ***Orson Scott Card*** - Enchantment
+- ***Robert Chandler*** - Russian Magic Tales from Pushkin to Platonov
+- ***T. Kingfisher*** - Summer in Orcus
+
+>"It's time," said the woman. "Come, it is almost dark."
 >
->Ahead, Alexei saw the blackened ruin of what had once been a house. A small village. But there was nothing left now but a few charred timbers sticking up above the snow. Everything else had vanished under the white blanket. And beyond, the forest loomed darkly against the sky. Darker than any night before.
+>The old man was sitting in a corner of his room, listening to the ticking of the clock and looking at the closed door through which the other two had gone. The old man listened with interest: there were voices beyond that door; he could hear them talking softly, as if they did not wish to be overheard. And then suddenly all three voices ceased. He heard footsteps approaching along the corridor, and presently he saw the door open.
 >
->It is coming, thought Sergei. He knew this feeling well. This terror at the sight of something vast and unknowable. Something evil and powerful.
->
->They rode closer, toward the burned-out shell of the house. There were more ruins farther back—the remains of barns and sheds. No people. Only the ashes and broken wood. No bodies anywhere. Not even animals. Just the bitter cold and the silence of death.
+>He got up quickly from his chair and went out into the passage. It was quite dark now, but he knew that they would have lit their candles before going down into the crypt.
 
 #### [(V3) A Song of Ice and Fire](https://files.catbox.moe/kpg3en.module)
 
