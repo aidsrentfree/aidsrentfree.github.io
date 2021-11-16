@@ -30,6 +30,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 - Updated [Xenoarchaeology and Relics](#xenoarchaeology-and-relics) module with V4 successor.
 - Updated [Touhou Project](#touhou-project) module with V4 successor.
+- Updated [Mad Max](#mad-max) module with V4 successor.
 
 (15th November, 2021)
 
@@ -135,7 +136,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [Generation Ship](#generation-ship)
     - [(V3) Genroku Era](#v3-genroku-era)
     - [Indian Fantasy](#indian-fantasy)
-    - [(V3) Mad Max](#v3-mad-max)
+    - [Mad Max](#mad-max)
     - [(V3) Magic: The Gathering](#v3-magic-the-gathering)
     - [Male Prison](#male-prison)
     - [(V3) Mass Effect](#v3-mass-effect)
@@ -1165,21 +1166,40 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 >
 >Kale gestured for silence, then turned back toward the village.
 
-#### [(V3) Mad Max](https://files.catbox.moe/3izcto.module)
+#### [Mad Max](https://files.catbox.moe/cd6rvq.module)
 
-[by H4RV3YD3NT](https://discord.com/channels/836774308772446268/870449646391156776/877274743458369587)
+[by HARVEYDENT](https://discord.com/channels/836774308772446268/870449646391156776/910143352761094154)
 
-*An updated and refined version of my previous Mad Max module, this should enhance scenarios based on the film series.*
+*This module grants focus to scenarios that revolve around enduring a sandy waste akin to that of Mad Max.*
 
->**The roar of the engine**, the hiss and crackle of a radio transmission. The wind whipped at their faces as they raced down the road in an open-topped jeep.
+*Please note, good material is hard to find so it might be useful to bias against certain names or organics like Max, grass, horse, etc. depending on what you're trying to do.*
+
+*~4.5Mb,  5,400 steps, 10% coverage, 2.7802 loss*
+
+- ***The Purple Prose Pack***
+- ***Title:** A Boy and His Dog **Author:** Harlan Ellison*
+- ***Title:** Earth Abides **Author:** George Rippey Stewart*
+- ***Title:** Mad Max 1 **Author:** Terry Kaye*
+- ***Title:** Mad Max 2 **Author:** Carl Ruhen*
+- ***Title:** Mad Max 3 **Author:** Joan D. Vinge*
+- ***Title:** Mad **Max:** The Lost Warrior **Author:** TimeFury1347*
+- ***Title:** On The Beach **Author:** Nevil Shute*
+- ***Title:** Sand **Author:** Hugh Howey*
+- ***Title:** The Length and Breadth of Fury Road **Author:** sacrificethemtothesquid*
+- ***Title:** The Outrider #1-5 **Author:** Richard Harding*
+- ***Title:** The Road **Author:** Cormac McCarthy__*
+
+>**The roar of the engine** filled his ears. He could hear nothing else, not even his own thoughts. The sound was like a beast snarling and growling as it came closer to him.
 >
->"It's going to be close," said Max. "They're almost on us." He glanced over his shoulder again. Two cars were coming up behind them. They had turned off onto another dirt track leading toward the same town. There was no way he could lose them now; not with this speed...
+>He was moving again, he realised suddenly. He was on his feet, running for all he was worth. There were no lights in sight now. His eyes had adjusted to the dark and he could see nothing but the road ahead. He ran across the desert floor, trying to put some distance between himself and whatever was chasing him.
 >
->Max slowed down slightly. It wasn't enough for him to risk losing control, but it would slow the pursuers down just that little bit more. Just enough time for them to reach the end of the road before they caught up with him.
+>His lungs burned with the effort. It seemed that he would never be able to catch his breath. But then he saw something looming up in front of him. A large shape blocking out the stars.
+
+>**The sand beneath my feet** was hot and dry, the wind whipping at me. I was tired from the journey, but my mind was racing with thoughts of revenge. The last time we had met, he had taken a piece of my soul. He would pay for that now. I ran across the sand towards him, knowing what was about to happen. I knew that once I got close enough, he'd kill me.
 >
->He pulled into the side of the road, braking hard, skidding around a corner so sharply that gravel flew from beneath the wheels. Then he hit the accelerator again, gunning the engine until he felt the car lurch forward once more. But the two pursuing vehicles were still gaining fast.
+>I heard his voice before I saw him. "Come on then, you little bitch," he shouted as he started running towards me. I could hear his heavy breathing and the pounding of his feet against the sand. I didn't stop or turn around. I just kept going straight ahead. When he reached me, I jumped up and kicked him in the face. His head snapped back and blood flew out from his nose. He fell backwards onto the ground and I landed on top of him. I pulled one of my knives from its sheath and held it to his throat.
 >
->And then there was nowhere else to go.
+>"Where's your fucking water?" I screamed at him. He tried to say something, but all that came out was a bloody gurgle.
 
 #### [(V3) Magic: The Gathering](https://files.catbox.moe/robqen.module)
 
