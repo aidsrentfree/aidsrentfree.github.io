@@ -1517,7 +1517,7 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 >
 > "flamesquench?" Kenobi suggested lightly.
 
-#### [Touhou Project](https://files.catbox.moe/imyand.module)
+#### [Touhou Project](https://files.catbox.moe/po4ykc.module)
 
 [by Imperishable_NEET (and Bunray)](https://discord.com/channels/836774308772446268/870449646391156776/910119451880464405)
 
