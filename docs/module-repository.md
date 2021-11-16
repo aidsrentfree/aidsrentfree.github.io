@@ -2481,6 +2481,7 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 *This was an experiment in seeing if we could use higher quality sourced erotica around a theme; these were all sourced from bought ebooks, in the theory that you get what you pay for.*
 
 >**\*\*\***
+>
 >**The alien gazed at me with desire in its eyes.** I couldn't help but feel a stirring inside of my loins as it continued to stare into my soul, and the longer we looked at each other, the more I wanted this creature. It was an animalistic thing that drew on primal instincts; I could see how it had been able to take over so many humans and assimilate them into their society. And now it wanted me? The thought made my heart race with excitement. If only it were possible for us to have sex...
 >
 >"You are very beautiful," I said after a moment's pause. "I would like to touch you." My voice sounded strange coming from my mouth, and there was something different about my face, too. I wasn't sure what exactly changed when I spoke, but it seemed to make my speech slightly slurred. But then again, maybe that was just because I'd been drinking wine all night. Either way, I didn't care if I stumbled or stuttered. All I cared about right now was getting close enough to kiss this sexy alien girl.
@@ -2845,7 +2846,7 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *All stories painstakingly cleaned and formatted to have perfect formatting, no blank lines, normalized quote formats etc (took me the whole damn day)*
 
-**What was included:*
+*What was included:*
 
 - *Focus was mostly on stories about telepathic or magic mind control, rather than "realistic" methods like hypnosis, drugs or brainwashing*
 - *I included a handful of loli mc stories from web.archive.org's archive of Piper's Domain, but they made up less than 10% of the total*
