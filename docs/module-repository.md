@@ -26,6 +26,11 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(16th November, 2021)
+
+- Updated [Xenoarchaeology and Relics](#xenoarchaeology-and-relics) module with V4 successor.
+- Updated [Touhou Project](#touhou-project) module with V4 successor.
+
 (15th November, 2021)
 
 - Added [Beatrix Potter](#beatrix-potter) module.
@@ -72,11 +77,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Added [Nineteen Eighty-Four](#nineteen-eighty-four) module.
 - Updated [George Orwell](#george-orwell), [Rod Serling](#rod-serling), and [Western](#western) modules.
 - Updated [C. S. Lewis](#c-s-lewis) module with V4 successor.
-
-(9th November, 2021)
-
-- Updated [Communism](#v3-communism) module.
-- Added [Malazan Book of the Fallen](#v3-malazan-book-of-the-fallen) module.
 
 ***
 
@@ -153,14 +153,14 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Star Trek: The Original Series](#v3-star-trek-the-original-series)
     - [(V3) Star Wars: Original Trilogy](#v3-star-wars-original-trilogy)
     - [(V3) Star Wars: Prequel Trilogy](#v3-star-wars-prequel-trilogy)
-    - [(V3) Touhou Project](#v3-touhou-project)
+    - [Touhou Project](#touhou-project)
     - [(V3) Underune](#v3-underune)
     - [(V3) Vampire: The Masquerade](#v3-vampire-the-masquerade)
     - [(V3) West into the Weird](#v3-west-into-the-weird)
     - [Western](#western)
     - [World of Kouros](#world-of-kouros)
     - [(V3) World of Pokémon](#v3-world-of-pokémon)
-    - [(V3) Xenoarchaeology and Relics](#v3-xenoarchaeology-and-relics)
+    - [Xenoarchaeology and Relics](#xenoarchaeology-and-relics)
     - [(V3) Zombie Apocalypse](#v3-zombie-apocalypse)
   - [Elements](#elements)
     - [(V3) Androids, Artificial Intelligence, and Robots](#v3-androids-artificial-intelligence-and-robots)
@@ -1517,20 +1517,23 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 >
 > "flamesquench?" Kenobi suggested lightly.
 
-#### [(V3) Touhou Project](https://files.catbox.moe/imyand.module)
+#### [Touhou Project](https://files.catbox.moe/imyand.module)
 
-[by Imperishable_NEET](https://discord.com/channels/836774308772446268/870449646391156776/894721362541826088)
+[by Imperishable_NEET (and Bunray)](https://discord.com/channels/836774308772446268/870449646391156776/910119451880464405)
 
-*Larger Touhou Project module trained on fanfics scraped from touhou-project.com and AO3, along with a selection of Japanese historical fiction and Western fantasy. Special thanks to @haru  and @OccultSage  for assistance!*<br>
-*Trained on 47.8 MB of various novels and fanfictions, using 18.4K steps.*
+*Assembled by ImperishableNEET, trained by Bunray.*
 
-> **On a clear day in Gensokyo,** the sun shines over Utsuta Shrine, which has an unusually large red torii gate at its entrance. At night, you can see stars twinkling through gaps between buildings on Hieda Street. There was once an old shrine near here dedicated to Amaterasu Ōmikami (the Goddess who created this world). But now there isn't any sign that anyone worshipped her anymore. For some reason, people living nearby have decided not to worship her either—and they've put up signs saying so all along the road leading into town. This used to make me wonder if maybe she'd gone back home or something...but I guess we don't really know what happens after death? Anyway, since the only things left behind were those signs, most folks just ignore them these days.
+*Special thanks to haru, AO3, and touhou-project.com.*
+
+*Includes 25~ MB of curated Touhou fanfic and Japanese or Japan-centric literature for literary solidity.*
+
+*Trained to 55.55% (27.950 steps).*
+
+(using Coherent Creativity and Akyuu's Knowledge for NovelAI)
+
+>**Reimu turned to face the path in front of her shrine, seeing the silhouette of a youkai she knew very well slowly emerge from the stone stairs leading up towards it: “Oho!” The figure had long blonde hair cascading all over her frame and a smug smile on her face. It was unmistakeably Yukari Yakumo,** who always managed to appear whenever something bad happened in this world. And now here she stood right outside Reimu's home. This would normally mean trouble, but since today wasn't even Sunday yet... Well, as far as Reimu could remember, Yukari never came anywhere near her house before noon. Not only did she want some time away from everyone else, she didn't seem interested in causing any more problems than necessary either. So Reimu decided to give her space while still keeping an eye out for what might happen next. As soon as she saw the girl stop walking though, Reimu couldn't help herself anymore: “So? What brings ya back here so early?"
 >
-> The village itself consists mostly of farmhouses and other small wooden structures. Some houses even look like yurakucho -style homes built without using modern building techniques! Yet despite being relatively close together, none of their roofs ever leak because each house sits atop a stone pillar buried underground. The pillars aren't very wide though, so sometimes kids playing outside get stuck under one. That's why residents pretty much avoid going past the central plaza during festivals, where these giant piles of stones stand sentinel. They're called "stone columns" for obvious reasons. In fact, the whole area around the main roads is known as Stone Pillar District, while everything else is referred to simply as Old Town. It makes sense given how many temples, shrines and family owned businesses exist here, making it feel more like a real city than the neighboring villages.
-
-> **Kaguya and Mokou came flying at each other,** both taking great leaps over trees towards their opponent. The two girls were quite close now as they darted around one another like playful cats or dogs while occasionally giving little pokes from behind. Both made sure not to land any blows on the backside of either girl; for if they did it would be considered an attack against them- which was highly frowned upon by all three fairies. But neither seemed concerned about this rule. They fought hard enough that should have been impossible considering how fast they moved so far apart yet still managed to give occasional punches without landing. It looked more like dancing than actual combat between these two. In fact, I couldn't help but feel that there wasn't much real danger involved here... despite what happened next. Fortunately though, it didn't seem likely that anyone else saw it coming anyway. As soon as the last few sparks flew off into nothingness, however, my suspicions turned to certainty after seeing just who had won this battle: Kaguya! And she hadn't done anything particularly special to win. No spell-casting prowess, no fancy martial arts moves, no superhuman speed or strength. Just a simple trick up her sleeve: immortality.
->
-> At some point during this whole thing (and most certainly before), Kaguya's body was slightly altered through means unknown - possibly due to being exposed to something weirdly powerful, maybe getting hit by lightning again, maybe having magic cast directly onto her? Whatever the case may be, when the dust settled and everything fell quiet once more, Kaguya stood triumphantly atop a small hillock surrounded by several fallen foes. Her victory celebration consisted mostly of laughing loudly whilst throwing dirt everywhere until finally falling asleep beneath a tree.
+>"Well I suppose we should get straight into why I'm really here..." Yukari said with another grin as she walked through the shrine's gate. In spite of everything that they'd been through together during their friendship, there were times when Yukari seemed like such a little brat that Reimu just wanted to smack her upside the head.
 
 #### [(V3) Underune](https://files.catbox.moe/hxmtn1.module)
 
@@ -1697,21 +1700,56 @@ A.K.A "Toby Fox Module"
 
 *Note: These examples were done on an otherwise new vanilla scenario (default settings, no bias, lorebooks, or anything) however I do recommend using [Loki's Pokédex phrase bias](https://rentry.co/biases#pokedex) or an otherwise similar bias to help reinforce Pokémon appearance, etc.*
 
-#### [(V3) Xenoarchaeology and Relics](https://files.catbox.moe/p3s53j.module)
+#### [Xenoarchaeology and Relics](https://files.catbox.moe/n7sz15.module)
 
-[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/873782530443182110)
+[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/910028027369517116)
 
 *This module draws from books that have a strong sense of xenoarchaeology and discovering ancient alien treasures as well as large, and small wonders from the past. Many of the sources are narrow, and some of the others are broad in scope.*
 
->**The light of the blue star beat down on Alexandria's head, as she bent over the relic that her crew had dug out in the pit.**
+*8.5mb, 6000 steps, 60% coverage, 2.86 average loss*
+
+- ***Title:** To Sleep in a Sea of Stars; **Author:** Christopher Paolini; **Genre:** Science Fiction*
+- ***Title:** A Fire Upon The Deep; **Author:** Vernor Vinge; **Genre:** Science Fiction*
+- ***Title:** Bone Silence; **Author:** Alastair Reynolds; **Genre:** Science Fiction*
+- ***Title:** Wasteland of Flint; **Author:** Thomas Harlan; **Genre:** Science Fiction*
+- ***Title:** Boundary; **Author:** Eric Flint, Ryk E. Spoor; **Genre:** Science Fiction*
+- ***Title:** Into Everywhere; **Author:** Paul McAuley; **Genre:** Science Fiction*
+- ***Title:** Engines of God; **Author:** Jack McDevitt; **Genre:** Science Fiction*
+- ***Title:** Newton's Wake; **Author:** Ken MacLeod; **Genre:** Science Fiction*
+- ***Title:** Wanderer's Escape; **Author:** Simon Goodson; **Genre:** Science Fiction*
+- ***Title:** Rendezvous with Rama; **Author:** Arthur C. Clarke; **Genre:** Science Fiction*
+
+>**The light of the blue star beat down on Alexandria's head, as she bent over the relic that her crew had dug out in the pit.** She wore a heavy helmet and goggles, but even so it was uncomfortably hot. The metal of the digging tools was already glowing red-hot under its sunlamps. They would need to cool before they could be used again.
 >
->It was a dark lumpy thing about half an arm long and two fingers thick. It looked like something from another world: all strange angles and curves, with sharp edges everywhere, some shiny, others dull or pitted by corrosion. The top of it tapered into a point; its bottom widened to form what might be a hand-hold. There were no markings anywhere.
+>"It looks like an old robot," Alex said. "But there's no way we can tell what kind."
 >
->"What is this?" asked Alexandria. "I've never seen anything quite like it." She poked at the object with one finger.
+>A robot? That didn't make sense. Robots were built by humans; if this thing was human, then it must have been made by something else entirely. But she couldn't imagine who or what. It certainly wasn't anything from Earth. And it wasn't even possible for them to send a message back home—not with their radio damaged.
 >
->"Don't touch it!" snapped Fura. "You'll get splinters. And don't breathe too close either—it could kill you instantly if your lungs are filled with air particles."
+>Alex straightened up and wiped sweat off her brow with one gloved hand. "We'll have to take it apart," she told Haveram. "I don't think we can do much more without burning it."
 >
->Alexandria drew back immediately, but before she did so she noticed a faint smell coming off the artifact. It wasn't unpleasant, just odd, and somehow familiar. Like... yes, like the scent of fresh bread baking in a kitchen oven. Or hot metal being poured. But there was more than one kind of heat involved here, and none of them belonged to any human construct.
+>Haveram nodded and walked away toward the other side of the dig site, where he had set up his own work area.
+>
+>"What's wrong?" asked Captain Jenkins. He'd arrived at the dig site while Alex was talking to Haveram. "You look worried."
+>
+>"Nothing's wrong," Alex replied. "But I'm not sure how much good we're going to be able to do here. We might need to get some help from the base."
+
+>**Alexandria piloted the ship closer, and turned on her spotlight, illuminating the eons old alien derelict ship.** The light was swallowed by the hull as she moved into position beside it. A small, faint blue glow lit up the interior of the vessel.
+>
+>“It’s been here for a long time,” said Halsey. “Centuries at least.”
+>
+>She had left the hatch open, and they could see inside the ancient craft. It was dark, but there were traces of light—small points of glowing blue that seemed to move slowly across the walls. They reminded Alexandria of fireflies, or the luminous bacteria in some deep sea trenches. But these lights didn’t seem to be coming from any living creature; they glowed with an eerie regularity.
+>
+>“There are no signs of damage,” said Halsey. “But I can’t say what might have happened to the crew.” She glanced over at Alexandria. “I don’t think we should go in.”
+>
+>Alexandria frowned. “We need to find out what’s going on here.”
+>
+>“And how do you propose we do that?” asked Halsey. “You saw the size of this thing. We wouldn’t even fit inside.”
+>
+>Alexandria thought about it for a moment. “How big is the bridge?”
+>
+>Halsey shook her head. “No idea.”
+>
+>“Then we’ll start with the bridge,” Alexandria Kira. “The rest will follow.”
 
 #### [(V3) Zombie Apocalypse](https://files.catbox.moe/x2og31.module)
 
