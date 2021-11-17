@@ -26,6 +26,11 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(17th November, 2021)
+
+- To make it easier to see at a glance, I've reordered V4 modules to be above V3 modules.
+- Updated [Futarotica](#futarotica) module with V4 successor.
+
 (16th November, 2021)
 
 - Updated [Xenoarchaeology and Relics](#xenoarchaeology-and-relics) module with V4 successor.
@@ -71,14 +76,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Added [Western Romance](#western-romance) module.
 - Added [Interracial Cuckoldry](#interracial-cuckoldry) module.
 
-(10th November, 2021)
-
-- With the release of Sigurd V4 for Opus users, it's time to tell the difference between a V3 module (that can be used with V4) and a V4 module (that can be used on V3). For now, anything that doesn't have (V3) is a V4 trained module.
-- Updated [Feudal Japan](#feudal-japan) module with V4 successor.
-- Added [Nineteen Eighty-Four](#nineteen-eighty-four) module.
-- Updated [George Orwell](#george-orwell), [Rod Serling](#rod-serling), and [Western](#western) modules.
-- Updated [C. S. Lewis](#c-s-lewis) module with V4 successor.
-
 ***
 
 ## [Table of Contents](#modules)
@@ -89,29 +86,41 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - [Writers](#writers)
   - [Published Authors](#published-authors)
     - [Beatrix Potter](#beatrix-potter)
+    - [C. S. Lewis](#c-s-lewis)
+    - [George Orwell](#george-orwell)
+    - [Richard Samet "Kinky" Friedman](#richard-samet-kinky-friedman)
+    - [Rod Serling](#rod-serling)
     - [(V3) Carl Gustav Jung](#v3-carl-gustav-jung)
     - [(V3) Charles Dickens](#v3-charles-dickens)
-    - [C. S. Lewis](#c-s-lewis)
     - [(V3) Franz Kafka](#v3-franz-kafka)
-    - [George Orwell](#george-orwell)
     - [(V3) Hunter S. Thompson](#v3-hunter-s-thompson)
     - [(V3) J. R. R. Tolkien](#v3-j-r-r-tolkien)
     - [(V3) Jane Austen](#v3-jane-austen)
     - [(V3) Oscar Wilde](#v3-oscar-wilde)
-    - [Richard Samet "Kinky" Friedman](#richard-samet-kinky-friedman)
-    - [Rod Serling](#rod-serling)
     - [(V3) Shirley Jackson](#v3-shirley-jackson)
     - [(V3) Stephen King](#v3-stephen-king)
     - [(V3) Tom Clancy](#v3-tom-clancy)
     - [(V3) Vladimir Nabokov](#v3-vladimir-nabokov)
   - [Web Authors](#web-authors)
+    - [Prinny](#prinny)
     - [(V3) Benjamin R. "Yahtzee" Croshaw](#v3-benjamin-r-yahtzee-croshaw)
     - [(V3) Joe Forest](#v3-joe-forest)
-    - [Prinny](#prinny)
     - [(V3) SlutWriter](#v3-slutwriter)
       - [(V3) Slutty](#v3-slutty)
 - [Themes](#themes)
   - [Setting](#setting)
+    - [Beastars](#beastars)
+    - [Feudal Japan](#feudal-japan)
+    - [Generation Ship](#generation-ship)
+    - [Indian Fantasy](#indian-fantasy)
+    - [Mad Max](#mad-max)
+    - [Male Prison](#male-prison)
+    - [Poetic Fantasy](#poetic-fantasy)
+    - [Russian Fantasy and Folklore](#russian-fantasy-and-folklore)
+    - [Touhou Project](#touhou-project)
+    - [Western](#western)
+    - [World of Kouros](#world-of-kouros)
+    - [Xenoarchaeology and Relics](#xenoarchaeology-and-relics)
     - [(V3) Action Movies](#v3-action-movies)
     - [(V3) Alien Franchise](#v3-alien-franchise)
     - [(V3) Ancient Historical Rome](#v3-ancient-historical-rome)
@@ -121,52 +130,46 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Aztec, Inca and Mayan Mythology](#v3-aztec-inca-and-mayan-mythology)
     - [(V3) Batman](#v3-batman)
     - [(V3) Battletech](#v3-battletech)
-    - [Beastars](#beastars)
     - [(V3) Celtic Mythology](#v3-celtic-mythology)
     - [(V3) Classic Cyberpunk](#v3-classic-cyberpunk)
     - [(V3) Cyberpunk 2222](#v3-cyberpunk-2222)
     - [(V3) Dark Academia](#v3-dark-academia)
-    - [Feudal Japan](#feudal-japan)
     - [(V3) Final Fantasy XVI](#v3-final-fantasy-xvi)
     - [(V3) Folk Fantasy](#v3-folk-fantasy)
     - [(V3) Forgotten Realms](#v3-forgotten-realms)
     - [(V3) Four Horsemen Universe](#v3-four-horsemen-universe)
     - [(V3) Furry Scipunktasy](#v3-furry-scipunktasy)
     - [(V3) Girls' Frontline](#v3-girls-frontline)
-    - [Generation Ship](#generation-ship)
     - [(V3) Genroku Era](#v3-genroku-era)
-    - [Indian Fantasy](#indian-fantasy)
-    - [Mad Max](#mad-max)
     - [(V3) Magic: The Gathering](#v3-magic-the-gathering)
-    - [Male Prison](#male-prison)
     - [(V3) Mass Effect](#v3-mass-effect)
     - [(V3) Middle-Earth](#v3-middle-earth)
     - [(V3) My Little Pony: Friendship Extended](#v3-my-little-pony-friendship-extended)
     - [(V3) New California](#v3-new-california)
     - [(V3) Noir](#v3-noir)
     - [(V3) Norse](#v3-norse)
-    - [Poetic Fantasy](#poetic-fantasy)
     - [(V3) Post-Apocalyptic Fallout](#v3-post-apocalyptic-fallout)
     - [(V3) Prehistoric Ice Age](#v3-prehistoric-ice-age)
-    - [Russian Fantasy and Folklore](#russian-fantasy-and-folklore)
     - [(V3) A Song of Ice and Fire](#v3-a-song-of-ice-and-fire)
     - [(V3) Star Trek: The Next Generation](#v3-star-trek-the-next-generation)
     - [(V3) Star Trek: The Original Series](#v3-star-trek-the-original-series)
     - [(V3) Star Wars: Original Trilogy](#v3-star-wars-original-trilogy)
     - [(V3) Star Wars: Prequel Trilogy](#v3-star-wars-prequel-trilogy)
-    - [Touhou Project](#touhou-project)
     - [(V3) Underune](#v3-underune)
     - [(V3) Vampire: The Masquerade](#v3-vampire-the-masquerade)
     - [(V3) West into the Weird](#v3-west-into-the-weird)
-    - [Western](#western)
-    - [World of Kouros](#world-of-kouros)
     - [(V3) World of Pokémon](#v3-world-of-pokémon)
-    - [Xenoarchaeology and Relics](#xenoarchaeology-and-relics)
     - [(V3) Zombie Apocalypse](#v3-zombie-apocalypse)
   - [Elements](#elements)
+    - [Bad Writing](#bad-writing)
+    - [Gay](#gay)
+    - [The Manwhore Module](#the-manwhore-module)
+    - [Purely Purple Prose](#purely-purple-prose)
+    - [Surrealistic Look Through The Glass](#surrealistic-look-through-the-glass)
+    - [Second Proseon](#second-proseon)
+    - [Western Romance](#western-romance)
     - [(V3) Androids, Artificial Intelligence, and Robots](#v3-androids-artificial-intelligence-and-robots)
     - [(V3) Angels and Demons](#v3-angels-and-demons)
-    - [Bad Writing](#bad-writing)
     - [(V3) Catgirls](#v3-catgirls)
     - [(V3) Communism](#v3-communism)
     - [(V3) Count Grey](#v3-count-grey)
@@ -175,7 +178,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Duke Nukem](#v3-duke-nukem)
     - [(V3) The Elder Scrolls In-Game Texts](#v3-the-elder-scrolls-in-game-texts)
     - [(V3) Forbidden Lands (Encounters)](#v3-forbidden-lands-encounters)
-    - [Gay](#gay)
     - [(V3) Green's Among the Stars](#v3-greens-among-the-stars)
     - [(V3) Green's RPG](#v3-greens-rpg)
     - [(V3) Gryphons](#v3-gryphons)
@@ -183,25 +185,25 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) LitRPG](#v3-litrpg)
     - [(V3) Magical Girls: Battle Royale](#v3-magical-girls-battle-royale)
     - [(V3) Magical Girls: Romance](#v3-magical-girls-romance)
-    - [The Manwhore Module](#the-manwhore-module)
     - [(V3) Melee Combat](#v3-melee-combat)
     - [(V3) Mermaids and Mermen](#v3-mermaids-and-mermen)
     - [(V3) Modern Detective Work](#v3-modern-detective-work)
     - [(V3) Mormon](#v3-mormon)
-    - [Purely Purple Prose](#purely-purple-prose)
     - [(V3) Second Person](#v3-second-person)
-    - [Second Proseon](#second-proseon)
     - [(V3) Sergals](#v3-sergals)
-    - [Surrealistic Look Through The Glass](#surrealistic-look-through-the-glass)
     - [(V3) Sweet Time](#v3-sweet-time)
     - [(V3) text_adventures.txt](#v3-text_adventurestxt)
     - [(V3) Trump Tweets](#v3-trump-tweets)
     - [(V3) Twilight 2000 (Encounters)](#v3-twilight-2000-encounters)
     - [(V3) Weird](#v3-weird)
-    - [Western Romance](#western-romance)
     - [(V3) Wildlife](#v3-wildlife)
     - [(V3) Zombies](#v3-zombies)
   - [Sexual](#sexual)
+    - [Exponent](#exponent)
+    - [Futarotica](#futarotica)
+    - [Gender Bender](#gender-bender)
+    - [Interracial Cuckoldry](#interracial-cuckoldry)
+    - [Netorare](#netorare)
     - [(V3) /hmofa/](#v3-hmofa)
     - [(V3) Anal](#v3-anal)
     - [(V3) Androids, Robots, Aliens, Harems](#v3-androids-robots-aliens-harems)
@@ -216,14 +218,12 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Eroguro](#v3-eroguro)
     - [(V3) Erotic Horror](#v3-erotic-horror)
     - [(V3) Erotic Roleplay](#v3-erotic-roleplay)
-    - [Exponent](#exponent)
     - [(V3) Fantasy Anthro](#v3-fantasy-anthro)
     - [(V3) Femdom](#v3-femdom)
     - [(V3) Foot](#v3-foot)
     - [(V3) Furbianism](#v3-furbianism)
     - [(V3) Furcest](#v3-furcest)
     - [(V3) Furry (Short Stories)](#v3-furry-short-stories)
-    - [(V3) Futarotica](#v3-futarotica)
     - [(V3) Futrap](#v3-futrap)
     - [(V3) Gardevoir](#v3-gardevoir)
     - [(V3) Gay BDSM](#v3-gay-bdsm)
@@ -231,13 +231,11 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Gay Hyper Muscle Growth](#v3-gay-hyper-muscle-growth)
     - [(V3) Gaykémon](#v3-gaykémon)
     - [(V3) Gay Monsterfucking](#v3-gay-monsterfucking)
-    - [Gender Bender](#gender-bender)
     - [(V3) Genroku Ero](#v3-genroku-ero)
     - [(V3) Giantess](#v3-giantess)
     - [(V3) Giantess World](#v3-giantess-world)
     - [(V3) Girl Thoughts](#v3-girl-thoughts)
     - [(V3) Harem Fantasy](#v3-harem-fantasy)
-    - [Interracial Cuckoldry](#interracial-cuckoldry)
     - [(V3) Lesbémon](#v3-lesbémon)
     - [(V3) Loli](#v3-loli)
     - [(V3) Longform Mind Control](#v3-longform-mind-control)
@@ -251,7 +249,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Mom and Son](#v3-mom-and-son)
     - [(V3) Multiple Partners](#v3-multiple-partners)
     - [(V3) Mysterotica](#v3-mysterotica)
-    - [Netorare](#netorare)
     - [(V3) NonConsent and Reluctance](#v3-nonconsent-and-reluctance)
     - [(V3) Pokémon](#v3-pokémon)
     - [(V3) Raunchy](#v3-raunchy)
@@ -267,6 +264,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Wild and Silly](#v3-wild-and-silly)
 - [Works](#works)
   - [Literature](#literature)
+    - [Nineteen Eighty-Four](#nineteen-eighty-four)
     - [(V3) Animorphs](#v3-animorphs)
     - [(V3) Assassin's Creed: Ezio Auditore](#v3-assassins-creed-ezio-auditore)
     - [(V3) Bartimaeus Sequence](#v3-bartimaeus-sequence)
@@ -300,7 +298,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Mistborn Trilogy](#v3-mistborn-trilogy)
     - [(V3) My Struggle](#v3-my-struggle)
     - [(V3) Native American Myths and Legends](#v3-native-american-myths-and-legends)
-    - [Nineteen Eighty-Four](#nineteen-eighty-four)
     - [(V3) Neuromancer](#v3-neuromancer)
     - [(V3) The Old Kingdom Trilogy](#v3-the-old-kingdom-trilogy)
     - [(V3) Oz](#v3-oz)
@@ -339,12 +336,12 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Paraphore](#v3-paraphore)
     - [(V3) Trials in Tainted Space](#v3-trials-in-tainted-space)
   - [Web Fiction](#web-fiction)
+    - [Pack Street](#pack-street)
     - [(V3) Code Lyoko](#v3-code-lyoko)
     - [(V3) A Dragon Ranch in Suburbia](#v3-a-dragon-ranch-in-suburbia)
     - [(V3) Harry Potter of Our Own](#v3-harry-potter-of-our-own)
     - [(V3) Homestuck](#v3-homestuck)
     - [(V3) Jake and Amir](#v3-jake-and-amir)
-    - [Pack Street](#pack-street)
     - [(V3) Pinwheel](#v3-pinwheel)
     - [(V3) Sex and Marmota Nights](#v3-sex-and-marmota-nights)
     - [(V3) A Sexy Day in Suburbia](#v3-a-sexy-day-in-suburbia)
@@ -352,6 +349,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Welcome to Night Vale](#v3-welcome-to-night-vale)
     - [(V3) Worm](#v3-worm)
 - [Utilities](#utilities)
+  - [Stand Up Routines](#stand-up-routines)
   - [(V3) Advertisements](#v3-advertisements)
   - [(V3) The Club](#v3-the-club)
   - [(V3) Director View](#v3-director-view)
@@ -360,7 +358,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
   - [(V3) Pokédex](#v3-pokédex)
   - [(V3) Python](#v3-python)
   - [(V3) Sentiments and Summaries](#v3-sentiments-and-summaries)
-  - [Stand Up Routines](#stand-up-routines)
   - [(V3) World Generator](#v3-world-generator)
   - [(V3) Yōkai](#v3-yōkai)
 
@@ -398,31 +395,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 >
 >Mrs. Twitchit is quite a nimble cat and very good at catching mice. In fact, so good is she that even other cats begin to fear her. But Mrs. Twitchit does not care. She continues to catch mice, trapping them in jars and bottles, until one day a large black rat arrives at her door. He tells her that he has been sent by the King himself to warn her that if she doesn't stop chasing him and his friends around her garden, then they will be forced to come up with an invention which will make her life miserable.
 
-
-#### [(V3) Carl Gustav Jung](https://anonfiles.com/Z8t7U7Q1u1/Carl_Jung_Seminar_Module_v1_module)
-
-[by](https://rentry.co/Jungshit) [Anon](https://arch.b4k.co/vg/thread/357586350/#357604959)
-
-*Here's the Jung module, I would have liked to test it more but life got in the way.*
-
-*Since it is trained mostly on data from his seminars (And the rest formatted to look like it is) your writing should follow a specific script format, which the AI works with quite well.*
-
-*I included [the seminar-like scenario](https://anonfiles.com/Z5s3U3Qdud/The_Seminar_scenario) I made to playtest it, no guarantee that it is optimal and fiddling is encouraged.*
-
-*Worst case in scenario Jung and the other people present will tell you they have no idea what the dream or vision you showed them means, a majority of the time they will shed some light on it but mostly ask you what you think, and some percentage of the time they will expand appropriately on the symbols. If you handhold it at first it works better.*
-
-*It also doesn't have to be about dreams at all, there's data for interpreting poems, aphorisms, intrusive thoughts, fetishes, and basically anything, though you might have to reformat the scenario to make it fit.*
-
-*I also included [the training data](https://anonfiles.com/V7qdU5Q6u5/Jung2_txt) in case you want to know the format to follow or whatever. The works included are in the module's description.*
-
-*Big thanks to OccultSage for his advice on data formatting and for training the module.*
-
-#### [(V3) Charles Dickens](https://files.catbox.moe/pq9lqe.module)
-
-[by Anon](https://arch.b4k.co/vg/thread/347254891/#347266948)
-
-*Trained off the text of Charles Dickens' "A Christmas Carol", "A Tale of Two Cities", "Great Expectations", "Little Doritt", and "Oliver Twist"*
-
 #### [C. S. Lewis](https://mega.nz/file/BKxgSRBa#2ZR118ouG6KfLuKm_2vo6fAGQGWSE8MVvkDaHM8660M)
 
 [10K Step V3 Sigurd Vers.](https://mega.nz/file/9W4EVD7Y#zlX2DM6Ypf-QHYet2JoUeUJ7neLeVdniseEYxvSo48c)
@@ -449,6 +421,58 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 *I had about 2000 steps left over that I could have used to include more of his non-fiction books, but I was concerned that including too much of it would drown out the fiction in terms of effect on the AI's output. I might try a fiction-only version next month when my steps reset.*
 *The results seem pretty great so far, better than I expected. Let me know how you get on with it.*
 
+#### [George Orwell](https://files.catbox.moe/9rs18l.zip)
+
+[by Anon](https://arch.b4k.co/vg/thread/359155218/#359495805)
+
+*Someone suggested to do this as a module. Done.*
+
+#### [Richard Samet "Kinky" Friedman](https://files.catbox.moe/vb8ohm.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/359694347/#359762371)
+
+*I've made a module that no one asked for and probably no one wants. It's trained on the detective mystery/comedy novels written by and starring Kinky Friedman and his cat.*
+
+*It has a tendency towards non-nonsensical dialog, inner monologues, and metaphors. [The screenshot](https://files.catbox.moe/m3ilvh.png) is on a completely empty prompt. Results are slightly less nonsensical when used with an actual prompt*
+
+#### [Rod Serling](https://files.catbox.moe/azd2eq.zip)
+
+[by Anon](https://arch.b4k.co/vg/thread/359155218/#359495805)
+
+*The Rod Serling module. Trained on:*
+
+- *Stories from the Twilight Zone*
+- *More Stories from the Twilight Zone*
+- *New Stories from the Twilight Zone*
+- *Night Gallery*
+- *Night Gallery 2*
+
+*Those were the only ones I could find easily. I think The Season To Be Wary would've fit in well as well, but I couldn't find it. Maybe that's for V2 of the model, if that will become a thing. Anyway, I decided to include all my files with the module, so you get the original ebooks I used, the original parsing in plaintext that Pandoc made, and my final edited text files that I used for the training. Maybe it's interesting for someone to see how the module was made. Note: I had an ebook that combined the three Twilight Zone books into one, so there's three ebooks in total.*
+
+#### [(V3) Carl Gustav Jung](https://anonfiles.com/Z8t7U7Q1u1/Carl_Jung_Seminar_Module_v1_module)
+
+[by](https://rentry.co/Jungshit) [Anon](https://arch.b4k.co/vg/thread/357586350/#357604959)
+
+*Here's the Jung module, I would have liked to test it more but life got in the way.*
+
+*Since it is trained mostly on data from his seminars (And the rest formatted to look like it is) your writing should follow a specific script format, which the AI works with quite well.*
+
+*I included [the seminar-like scenario](https://anonfiles.com/Z5s3U3Qdud/The_Seminar_scenario) I made to playtest it, no guarantee that it is optimal and fiddling is encouraged.*
+
+*Worst case in scenario Jung and the other people present will tell you they have no idea what the dream or vision you showed them means, a majority of the time they will shed some light on it but mostly ask you what you think, and some percentage of the time they will expand appropriately on the symbols. If you handhold it at first it works better.*
+
+*It also doesn't have to be about dreams at all, there's data for interpreting poems, aphorisms, intrusive thoughts, fetishes, and basically anything, though you might have to reformat the scenario to make it fit.*
+
+*I also included [the training data](https://anonfiles.com/V7qdU5Q6u5/Jung2_txt) in case you want to know the format to follow or whatever. The works included are in the module's description.*
+
+*Big thanks to OccultSage for his advice on data formatting and for training the module.*
+
+#### [(V3) Charles Dickens](https://files.catbox.moe/pq9lqe.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/347254891/#347266948)
+
+*Trained off the text of Charles Dickens' "A Christmas Carol", "A Tale of Two Cities", "Great Expectations", "Little Doritt", and "Oliver Twist"*
+
 #### [(V3) Franz Kafka](https://files.catbox.moe/6gwcym.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/345503749/#345510501)
@@ -459,12 +483,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - *Amerika*
 - *The Trial*
 - *The Castle*
-
-#### [George Orwell](https://files.catbox.moe/9rs18l.zip)
-
-[by Anon](https://arch.b4k.co/vg/thread/359155218/#359495805)
-
-*Someone suggested to do this as a module. Done.*
 
 #### [(V3) Hunter S. Thompson](https://files.catbox.moe/klnhls.module)
 
@@ -500,29 +518,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 [by Jorgith Blastercrotch](https://discord.com/channels/836774308772446268/870449646391156776/871265822704803910)
 
 *Trained on selected works such as The Picture of Dorian Gray, Poems and Poems in Prose*
-
-
-#### [Richard Samet "Kinky" Friedman](https://files.catbox.moe/vb8ohm.module)
-
-[by Anon](https://arch.b4k.co/vg/thread/359694347/#359762371)
-
-*I've made a module that no one asked for and probably no one wants. It's trained on the detective mystery/comedy novels written by and starring Kinky Friedman and his cat.*
-
-*It has a tendency towards non-nonsensical dialog, inner monologues, and metaphors. [The screenshot](https://files.catbox.moe/m3ilvh.png) is on a completely empty prompt. Results are slightly less nonsensical when used with an actual prompt*
-
-#### [Rod Serling](https://files.catbox.moe/azd2eq.zip)
-
-[by Anon](https://arch.b4k.co/vg/thread/359155218/#359495805)
-
-*The Rod Serling module. Trained on:*
-
-- *Stories from the Twilight Zone*
-- *More Stories from the Twilight Zone*
-- *New Stories from the Twilight Zone*
-- *Night Gallery*
-- *Night Gallery 2*
-
-*Those were the only ones I could find easily. I think The Season To Be Wary would've fit in well as well, but I couldn't find it. Maybe that's for V2 of the model, if that will become a thing. Anyway, I decided to include all my files with the module, so you get the original ebooks I used, the original parsing in plaintext that Pandoc made, and my final edited text files that I used for the training. Maybe it's interesting for someone to see how the module was made. Note: I had an ebook that combined the three Twilight Zone books into one, so there's three ebooks in total.*
 
 #### [(V3) Shirley Jackson](https://files.catbox.moe/k37k7r.module)
 
@@ -572,6 +567,12 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ### [Web Authors](#writers)
 
+#### [Prinny](https://www37.zippyshare.com/v/jNj6o9up/file.html)
+
+[by Anon](https://arch.b4k.co/vg/thread/359507552/#359566881)
+
+*This module is based on my [favorite monster/human female unwilling/erotic vore author](https://aryion.com/g4/gallery/PrinnyDood).*
+
 #### [(V3) Benjamin R. "Yahtzee" Croshaw](https://files.catbox.moe/t8dbtp.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/345615202/#345707116)
@@ -591,12 +592,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 *I'm not really sure how well it does at writing smut yet in an actual story, but for what it's worth, I pressed enter on a blank prompt and it went head first into generating a sex scene.*
 
 *I'm new to training the AI though, so I only went for 100% of the training (so about 1500 steps), I don't really know if that's enough or not.*
-
-#### [Prinny](https://www37.zippyshare.com/v/jNj6o9up/file.html)
-
-[by Anon](https://arch.b4k.co/vg/thread/359507552/#359566881)
-
-*This module is based on my [favorite monster/human female unwilling/erotic vore author](https://aryion.com/g4/gallery/PrinnyDood).*
 
 #### [(V3) SlutWriter](https://files.catbox.moe/cri87u.module)
 
@@ -638,6 +633,346 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 ***
 
 ### [Setting](#themes)
+
+#### [Beastars](https://files.catbox.moe/26usa1.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/359694347/#359707706)
+
+*Beastars Sigurdv4 trained at 34%*
+
+>\>*It's only been trained off of the best rated stories off of AO3, about fifty or so stories which adds up to 7.43 MB of data. Trained to 34%, exactly 3000 steps.*
+
+#### [Feudal Japan](https://files.catbox.moe/x9os0f.module)
+
+[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/908017750176321629)
+
+*This Feudal Japan module draws upon works such as Musashi, Taiko by Eiji Yoshiwaka, Shogun and Gaijin by James Clavell, and mysteries, epics, biographies from other authors to cover Feudal Japan from the 13th to the 19th Century.*
+
+*NOTE: This is the 13k version trained on the v4 model, and will work fine with the v3 model.*
+
+*It's a refinement and expansion of the earlier [Genroku Era](#v3-genroku-era) module.*
+
+*20mb, 13,000 steps, 60% coverage, 2.7359 loss*
+
+>**The woman stood before the samurai proudly and yelled, "Go ahead, kill me! Take away the stain of dishonor on my family I am!"** She was not afraid.
+>
+>"Stop this nonsense," said Hideyoshi impatiently. "You are a beautiful woman." He smiled at her with his warmest smile. Her eyes widened in surprise, but she did not stop shouting.
+>
+>"I have never been so insulted by any man! I am a member of the Ashikaga family, and you dare to say that I am beautiful?"
+>
+>Hideyoshi's smile broadened into a grin. "It is true. You are beautiful. But your beauty has nothing to do with it. If you were ugly, would I be saying these things? Would anyone listen if I told them how pretty you are?" The woman stopped yelling and stared at him in amazement.
+>
+>"Listen carefully," he continued, looking directly into her eyes. "Your name is Lady Naka no Kimi. Your husband died last year. Now you are all alone, living with your two children."
+>
+>Naka looked down at the ground. Then suddenly she lifted her head and shouted, "Yes, I am alone. My husband left me for another woman. But I still love my dead husband. Do you understand? And I will always remember him as long as I live."
+>
+>Hideyoshi nodded sympathetically. "That is good. I know what you mean. Even though you loved your husband, he abandoned you when you needed him most. But don't worry. There is someone who loves you now. Someone who wants to help you. Will you let him?"
+>
+>Naka shook her head vigorously. "No, I won't. I cannot allow such a thing. It is too late. My life is over."
+>
+>"Don't be so sure. Listen to me. You must make up your mind. Either you will accept this person's offer or you will die."
+>
+>Naka stood there silently. Her face was red with anger. Suddenly she turned around and ran away from Hideyoshi.
+
+>**The ronin's hand hovered on the handle of his sheathed katana,** then he shook himself and went inside. The heavy wooden door creaked shut behind him with a thud that seemed to echo in the stillness. He could hear no sound from above or below. But there was something else—a smell, faint but unmistakable: blood.
+>
+>"I'm home." Yoshi walked across the room. "Is anyone here?" His voice echoed hollowly in the silence. There was no answer. With a sigh he sank into one of the tatami mats and sat cross-legged, gazing at nothing. For several minutes he said nothing more. Then he heard footsteps descending the stairs. A moment later, Taro appeared in the doorway.
+>
+>Yoshi stood up quickly. "What happened? Is anything wrong?"
+>
+>Taro nodded slowly. "Yes. Your father is dead."
+>
+>"Dead! How?" Yoshi felt as though someone had hit him hard between the eyes. He swayed slightly.
+>
+>"He died peacefully last night," Taro said gently. "Your mother was beside herself with grief when she learned about it this morning. She wanted you to come home immediately."
+>
+>Yoshi closed his eyes tightly for a second, then opened them again. "Did they say how he died?"
+>
+>"No. Only that he died suddenly, without warning. No one knows why. It appears he suffered a stroke."
+>
+>Yoshi stared blankly at the floor. For several seconds he remained motionless, not speaking. Finally, he raised his head and looked directly at Taro.
+
+#### [Generation Ship](https://files.catbox.moe/pubhtk.module)
+
+[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/909556544524390430)
+
+*Journeys between stars across multiple generations at slower than light! Some are escaping a doomed Earth, others have forgotten that they are generation ships, and further, society breaks down; a few are grand odysseys in the hard scifi tradition.*
+
+>**The generation ship Odysseus burned for the stars, its giant fusion torch pushing it as close as possible to lightspeed,** so that the years would pass in mere months. The crew was already selected and trained by the time they left Earth orbit, with only a few weeks of training before departure. They had all grown up together, most having gone through school and college together. Most were married or engaged, but no one seemed particularly upset when their friends or relatives decided not to go along on this voyage.
+>
+>In fact, there wasn't much of an argument about leaving Earth at all. Everyone knew that the Odysseus could never return home; it was designed to be a one-way trip. The planet's biosphere had been destroyed by nuclear war long ago, and there was no chance of finding another suitable world within the solar system where humans could live safely. So why not take off for the stars? It was better than dying in a radioactive wasteland.
+
+>**The generation ship's fusion engines burned as it consumed hydrogen, and it maneuvers towards the Sun for a gravity-assisted boost closer to the speed of light, its passengers in cryogenic suspension and insulated from the effects of the hard acceleration.** The fusion engine is burning so hot that it has melted some of the nickel-iron core material into liquid metal. It flows through pipes inside the ship and then back out again, radiating heat like a giant radiator.
+>
+>On board the planetoid they call Bussard's Viewing Room, I'm sitting at my desk in front of the window, looking down on the tiny red dot that is our home world. A small robot arm with a stylus attached to it extends from the wall behind me and makes an erratic scratching motion across the screen, which changes every few seconds. On another monitor, a view of Earth shows the same thing happening there. I've been watching this show for years now, ever since we were all woken up by the crew waking us from suspended animation.
+
+#### [Indian Fantasy](https://files.catbox.moe/7qkhsg.module)
+
+[by Samanamel](https://discord.com/channels/836774308772446268/870449646391156776/909544004935385099)
+
+*Based on fantasy books inspired by Indian culture and religion. Steps: 2930, Loss: 2.68, 60% trained*
+
+- *The Black Company - Books of the South - Book 1*
+- *The Black Company - Books of the South - Book 2*
+- *Realm of Ash*
+- *The Jasmine Throne*
+- *The Star Touched Queen*
+- *A Crown of Wishes*
+- *Hunted by the Sky*
+
+(Storywriter)
+>**She peeked from the palanquin,** watching as her escort led them to a small temple. The priestess of Kali stood outside, hands folded in supplication. A few other women were already there, kneeling before the goddess's image. Some of them were weeping.
+>
+>"Are they going to sacrifice us?" asked Megha. "We should run."
+>
+>Priya shook her head. "They're praying for mercy."
+>
+>Megha looked skeptical.
+>
+>The priestess bowed low before entering the temple. She held up one hand in prayer and began to sing. Priya felt the sound vibrate through her body, deep within her bones. It was a song of longing, a song of yearning.
+>
+>And it rose around her, an echo in the air, so that she could feel its call on her lips.
+
+(Creative Coherency)
+>**He drew his dagger** and held it up in the air. It was a silver blade, old as time itself, with runes etched into its surface that glowed like fireflies trapped inside of glass. He had no idea what they meant; he'd never bothered to learn their meaning. But he knew this much: it would cut through anything—even solid stone—as if it were butter on a hot griddle. Once upon a time, he could have used such a weapon even without knowing how.
+>
+>Now... not so much. His arm ached where the wound from the manticore's fang still lingered. The magic within him felt sluggish now, too weak to heal himself or anyone else. Even Kale couldn't help but feel it. They all did.
+>
+>"I'm sorry," said Arwa. "It wasn't my—"
+>
+>Kale gestured for silence, then turned back toward the village.
+
+#### [Mad Max](https://files.catbox.moe/cd6rvq.module)
+
+[by HARVEYDENT](https://discord.com/channels/836774308772446268/870449646391156776/910143352761094154)
+
+*This module grants focus to scenarios that revolve around enduring a sandy waste akin to that of Mad Max.*
+
+*Please note, good material is hard to find so it might be useful to bias against certain names or organics like Max, grass, horse, etc. depending on what you're trying to do.*
+
+*~4.5Mb,  5,400 steps, 10% coverage, 2.7802 loss*
+
+- ***The Purple Prose Pack***
+- ***Title:** A Boy and His Dog **Author:** Harlan Ellison*
+- ***Title:** Earth Abides **Author:** George Rippey Stewart*
+- ***Title:** Mad Max 1 **Author:** Terry Kaye*
+- ***Title:** Mad Max 2 **Author:** Carl Ruhen*
+- ***Title:** Mad Max 3 **Author:** Joan D. Vinge*
+- ***Title:** Mad **Max:** The Lost Warrior **Author:** TimeFury1347*
+- ***Title:** On The Beach **Author:** Nevil Shute*
+- ***Title:** Sand **Author:** Hugh Howey*
+- ***Title:** The Length and Breadth of Fury Road **Author:** sacrificethemtothesquid*
+- ***Title:** The Outrider #1-5 **Author:** Richard Harding*
+- ***Title:** The Road **Author:** Cormac McCarthy__*
+
+>**The roar of the engine** filled his ears. He could hear nothing else, not even his own thoughts. The sound was like a beast snarling and growling as it came closer to him.
+>
+>He was moving again, he realised suddenly. He was on his feet, running for all he was worth. There were no lights in sight now. His eyes had adjusted to the dark and he could see nothing but the road ahead. He ran across the desert floor, trying to put some distance between himself and whatever was chasing him.
+>
+>His lungs burned with the effort. It seemed that he would never be able to catch his breath. But then he saw something looming up in front of him. A large shape blocking out the stars.
+
+>**The sand beneath my feet** was hot and dry, the wind whipping at me. I was tired from the journey, but my mind was racing with thoughts of revenge. The last time we had met, he had taken a piece of my soul. He would pay for that now. I ran across the sand towards him, knowing what was about to happen. I knew that once I got close enough, he'd kill me.
+>
+>I heard his voice before I saw him. "Come on then, you little bitch," he shouted as he started running towards me. I could hear his heavy breathing and the pounding of his feet against the sand. I didn't stop or turn around. I just kept going straight ahead. When he reached me, I jumped up and kicked him in the face. His head snapped back and blood flew out from his nose. He fell backwards onto the ground and I landed on top of him. I pulled one of my knives from its sheath and held it to his throat.
+>
+>"Where's your fucking water?" I screamed at him. He tried to say something, but all that came out was a bloody gurgle.
+
+#### [Male Prison](https://files.catbox.moe/1vywld.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/359694347/#359707706)
+
+*Male Prison Sigurdv4 trained at 50%*
+
+*As always for those that are interested, tell me how good or how shit they are.*
+
+#### [Poetic Fantasy](https://files.catbox.moe/0mnm38.module)
+
+[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/909665868789710848)
+
+[12K Step (V3) Vers.](https://files.catbox.moe/p9a805.module)
+
+*Some of the best and most poetic fantasy written went into this module, from Guy Gavriel Kay, Mervyn Peake, Patricia A. McKillip and others. If you want beautiful prose in an almost fairy-tale setting, this is the module for you!*
+
+*6.8mb, 12000 steps, 154% coverage, 2.809 loss*
+
+>**The mermaid sang upon the rocks,** her voice a thin silver thread that wound around them all. The water lapped against their feet and she looked up at the stars with wide green eyes. She was very beautiful. Her hair fell like seaweed down to her waist, black as night itself. A faint glow lit her pale skin, as if moonlight shone through her from behind. And then the sea swallowed her again, leaving only bubbles on the sand.
+>
+>"She's gone," said Alberic softly. He looked over his shoulder at the others. "What do you say?" he asked the sailors. They murmured in agreement.
+>
+>They turned back toward home.
+
+>**The witch was mercurial and beautiful** as she laughed, her eyes flashing in the firelight. "I have a plan," she said, pulling me close to her again. Her lips brushed my ear, making it tingle. She whispered, "If I kill you now..."
+>
+>"You'll be sorry?" I finished for her.
+>
+>She smiled. "Yes."
+>
+>We were silent then, listening to the crackle of flames. The room was still and warm with the heat from our bodies; only a faint draft moved through the open window. My mind began racing, trying to figure out how I could escape this woman's clutches. I couldn't just leave Cook behind--the witch would know that. But if I killed her, I'd have no chance of getting back into the palace without being caught myself. And what about Cook? What if she woke up before we got away?
+>
+>But there was nothing else to do but wait and hope. We sat together on the edge of the bed, leaning against each other like two lovers sharing secrets. I felt dizzy and sick, wishing I had something stronger than wine to drink. The witch seemed to sense my weakness; she stroked my hair and murmured words of comfort. "Shh," she said, kissing me lightly on the forehead. "Don't worry, little one. You're safe here."
+>
+>My eyes closed; I lay back against her chest, feeling strangely calm. Perhaps she could help me after all. I fell asleep, and when I woke again, it was morning.
+>
+>I opened my eyes slowly, wondering where I was.
+
+#### [Russian Fantasy and Folklore](https://files.catbox.moe/5xu90x.module)
+
+[by lion (and Zaltys)](https://discord.com/channels/836774308772446268/870449646391156776/909615787214532650)
+
+*Russian folktales and fantasy tales retrained for Sigurd v4 now with additional works. This module manifests some of the dark whimsy of your favorite folk stories. Special thanks once again to Zaltys for cleaning and prepping the dataset. I only provided the steps.*
+
+- ***Arkady & Boris Strugatsky*** - Hard to Be a God
+- ***Arkady & Boris Strugatsky*** - Monday Starts on Saturday
+- ***David Clement-Davies*** - Fell
+- ***Edward Rutherfurd*** - Russka
+- ***Emma Woodcock*** - Kikimora
+- ***Karah Sutton*** - A Wolf for a Spell
+- ***Katherine Arden*** - The Winternight trilogy
+- ***Leo Tolstoy*** - Anna Karenina
+- ***Marina & Sergey Dyachenko*** - Vita Nostra
+- ***Mariam Petrosyan*** - The Gray House
+- ***Michael Thomas Ford*** - Lily
+- ***Mikhail Bulgakov*** - The Master and Margarita
+- ***Orson Scott Card*** - Enchantment
+- ***Robert Chandler*** - Russian Magic Tales from Pushkin to Platonov
+- ***T. Kingfisher*** - Summer in Orcus
+
+>"It's time," said the woman. "Come, it is almost dark."
+>
+>The old man was sitting in a corner of his room, listening to the ticking of the clock and looking at the closed door through which the other two had gone. The old man listened with interest: there were voices beyond that door; he could hear them talking softly, as if they did not wish to be overheard. And then suddenly all three voices ceased. He heard footsteps approaching along the corridor, and presently he saw the door open.
+>
+>He got up quickly from his chair and went out into the passage. It was quite dark now, but he knew that they would have lit their candles before going down into the crypt.
+
+#### [Touhou Project](https://files.catbox.moe/po4ykc.module)
+
+[by Imperishable_NEET (and Bunray)](https://discord.com/channels/836774308772446268/870449646391156776/910119451880464405)
+
+*Assembled by ImperishableNEET, trained by Bunray.*
+
+*Special thanks to haru, AO3, and touhou-project.com.*
+
+*Includes 25~ MB of curated Touhou fanfic and Japanese or Japan-centric literature for literary solidity.*
+
+*Trained to 55.55% (27.950 steps).*
+
+(using Coherent Creativity and Akyuu's Knowledge for NovelAI)
+
+>**Reimu turned to face the path in front of her shrine, seeing the silhouette of a youkai she knew very well slowly emerge from the stone stairs leading up towards it: “Oho!” The figure had long blonde hair cascading all over her frame and a smug smile on her face. It was unmistakeably Yukari Yakumo,** who always managed to appear whenever something bad happened in this world. And now here she stood right outside Reimu's home. This would normally mean trouble, but since today wasn't even Sunday yet... Well, as far as Reimu could remember, Yukari never came anywhere near her house before noon. Not only did she want some time away from everyone else, she didn't seem interested in causing any more problems than necessary either. So Reimu decided to give her space while still keeping an eye out for what might happen next. As soon as she saw the girl stop walking though, Reimu couldn't help herself anymore: “So? What brings ya back here so early?"
+>
+>"Well I suppose we should get straight into why I'm really here..." Yukari said with another grin as she walked through the shrine's gate. In spite of everything that they'd been through together during their friendship, there were times when Yukari seemed like such a little brat that Reimu just wanted to smack her upside the head.
+
+#### [Western](https://files.catbox.moe/xm4z2j.zip)
+
+[by Anon](https://arch.b4k.co/vg/thread/359155218/#359495805)
+
+*This is a western model. Trained for about 35% of steps (about 3500) on the following: Butcher's Crossing, Centennial, Hondo, Little Big Man, Lonesome Dove, Riders of the Purple Sage, Shane, The Log of a Cowboy, The Ox-Bow Incident, The Searchers, The Shootist, and True Grit.*
+
+*The archive contains the original EPUBs I worked from, the Pandoc TXT conversion, my edited TXT files, and the module itself.*
+
+#### [World of Kouros](https://files.catbox.moe/bo1cr9.module)
+
+[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/908179081458245692)
+
+*This is a module that is specifically trained for a scenario called World of Kouros as it is trained on the outputs of it in addition to poetic fantasy works as well as rather risque and controversial novels.*
+
+*20mb, 13,000 steps, 60% coverage, 2.664 loss*
+
+- ***Title:** Dune, **Author:** Frank Herbert, **Genre:** Science Fiction*
+- ***Title:** Kushiel's Dart, **Author:** Jacqueline Carey, **Genre:** Fantasy*
+- ***Title:** Kushiel's Scion, **Author:** Jacqueline Carey, **Genre:** Fantasy*
+- ***Title:** Namaah's Kiss, **Author:** Jacqueline Carey **Genre:** Fantasy*
+- ***Title:** Book of Atrix Wolfe, The, **Author:** Patricia A. McKillip, **Genre:** Fantasy*
+- ***Title:** Forgotten Beasts of Eld, **Author:** Patricia A. McKillip, **Genre:** Fantasy*
+- ***Title:** Ombria in Shadow, **Author:** Patricia A. McKillip, **Genre:** Fantasy*
+- ***Title:** Golem and the Jinni, **Author:** Helene Wecker, **Genre:** Fantasy*
+- ***Title:** King of Elfland's Daughter, The, **Author:** Lord Dunsany, **Genre:** Fantasy*
+- ***Title:** Last Unicorn, The, **Author:** Peter S. Beagle, **Genre:** Fantasy*
+- ***Title:** Curse of Chalion, **Author:** Lois McMaster Bujold, **Genre:** Fantasy*
+- ***Title:** Penric and the Shaman, **Author:** Lois McMaster Bujold, **Genre:** Fantasy*
+- ***Title:** Penric's Demon, **Author:** Lois McMaster Bujold, **Genre:** Fantasy*
+- ***Title:** Penric's Mission, **Author:**Lois McMaster Bujold, **Genre:** Fantasy*
+- ***Title:** Tigana, **Author:** Guy Gavriel Kay, **Genre:** Fantasy*
+- ***Title:** Titus Groan, **Author:** Mervyn Peake, **Genre:** Fantasy*
+- ***Title:** Uprooted, **Author:** Naomi Novik, **Genre:** Fantasy*
+- ***Title:** Wizard of Earthsea, **Author:** Ursula K. le Guin, **Genre:** Fantasy*
+- ***Title:** Tarnsman of Gor, **Author:** John Norman, **Genre:** Fantasy*
+- ***Title:** Assassin of Gor, **Author:** John Norman, **Genre:** Fantasy*
+- ***Title:** Smugglers of Gor, **Author:** John Norman, **Genre:** Fantasy*
+- ***Title:** Rebels of Gor, **Author:** John Norman, **Genre:** Fantasy*
+- ***Title:** Shogun's Agents, **Author:** Akahige Namban, **Genre:**  Historical Fantasy*
+- ***Title:** Woman of the Mountain, Warriors of the Town, **Author:** Akahige Namban, **Genre:**  Historical Fantasy*
+- ***Title:** The Women of Gion, **Author:** Akahige Namban, **Genre:**  Historical Fantasy*
+- ***Title:** Chrysanthemum, Rose, and the Samurai, **Author:** Akahiege Namban, **Genre:**  Historical Fantasy*
+- ***Title:** World of Kouros, **Author:** OccultSage, NovleAI, and Others, **Genre:** Fantasy*
+
+>**The blade slashed through the air, as the girl danced** around him. She was a lithe creature of sinuous grace and perfect beauty, her eyes bright with an inner fire that burned like stars in dark night skies. Her hair hung down over one shoulder in two thick braids that reached to below her waist; it shone with glints of gold and silver. In the shadows she looked more than human, but he knew better. A part of his mind noted that the tips of her pointed ears were tipped by tiny slivers of horn. The rest of his mind was lost in lust for this dangerous toy. He watched her move through the dance as if it were all choreographed. Her movements had a natural fluidity that spoke of long practice and skill. His own body moved almost without thought, matching hers in rhythm, while his hands traced patterns on the air as if guided by another's will. And then...
+>
+>She came at him suddenly, lunging forward into a sudden lunge that ended in a kick aimed directly at his groin. With practiced ease he shifted to block her blow, and caught her leg in mid-swing. Before she could recover from her attack, he dropped low and wrapped both arms around her waist. She struggled briefly, trying to twist free, but found herself trapped between his chest and the wall behind him. She kicked out desperately, but her foot only grazed his ribs before she was pulled back against his body. Her head lolled loosely against his shoulder, her hair tickling his cheek.
+
+>**I am a Templar of the Queen**'s Guard. I will not be afraid. She has seen me and knows what I am. The first time she saw me, she was but five years old. Now she is grown into womanhood, with all her powers. And yet she still fears me; for she sees in my eyes that which no one else can see. It is only by chance that I have found her at this moment. Had it been any other time, I might never have known where to find her. Even now, had I not met you on the road, I would not know how to reach her. But here we are together, and soon she will be safe from those who seek to destroy her.
+>
+>"You have heard of Agenor?" he asked. "He is a great sorcerer, as well as an evil man."
+>
+>She nodded. "But I do not understand why they fear him so much."
+>
+>"Agenor is dangerous," said the giant warrior. "His power is great. He has made himself mighty among men."
+>
+>"But surely his magic cannot harm us!" she exclaimed.
+>
+>"No, but there are others who might," he replied grimly. "The demons who live in the deep places of the earth may be summoned up to destroy us. Or Agenor might summon them himself."
+
+#### [Xenoarchaeology and Relics](https://files.catbox.moe/n7sz15.module)
+
+[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/910028027369517116)
+
+*This module draws from books that have a strong sense of xenoarchaeology and discovering ancient alien treasures as well as large, and small wonders from the past. Many of the sources are narrow, and some of the others are broad in scope.*
+
+*8.5mb, 6000 steps, 60% coverage, 2.86 average loss*
+
+- ***Title:** To Sleep in a Sea of Stars; **Author:** Christopher Paolini; **Genre:** Science Fiction*
+- ***Title:** A Fire Upon The Deep; **Author:** Vernor Vinge; **Genre:** Science Fiction*
+- ***Title:** Bone Silence; **Author:** Alastair Reynolds; **Genre:** Science Fiction*
+- ***Title:** Wasteland of Flint; **Author:** Thomas Harlan; **Genre:** Science Fiction*
+- ***Title:** Boundary; **Author:** Eric Flint, Ryk E. Spoor; **Genre:** Science Fiction*
+- ***Title:** Into Everywhere; **Author:** Paul McAuley; **Genre:** Science Fiction*
+- ***Title:** Engines of God; **Author:** Jack McDevitt; **Genre:** Science Fiction*
+- ***Title:** Newton's Wake; **Author:** Ken MacLeod; **Genre:** Science Fiction*
+- ***Title:** Wanderer's Escape; **Author:** Simon Goodson; **Genre:** Science Fiction*
+- ***Title:** Rendezvous with Rama; **Author:** Arthur C. Clarke; **Genre:** Science Fiction*
+
+>**The light of the blue star beat down on Alexandria's head, as she bent over the relic that her crew had dug out in the pit.** She wore a heavy helmet and goggles, but even so it was uncomfortably hot. The metal of the digging tools was already glowing red-hot under its sunlamps. They would need to cool before they could be used again.
+>
+>"It looks like an old robot," Alex said. "But there's no way we can tell what kind."
+>
+>A robot? That didn't make sense. Robots were built by humans; if this thing was human, then it must have been made by something else entirely. But she couldn't imagine who or what. It certainly wasn't anything from Earth. And it wasn't even possible for them to send a message back home—not with their radio damaged.
+>
+>Alex straightened up and wiped sweat off her brow with one gloved hand. "We'll have to take it apart," she told Haveram. "I don't think we can do much more without burning it."
+>
+>Haveram nodded and walked away toward the other side of the dig site, where he had set up his own work area.
+>
+>"What's wrong?" asked Captain Jenkins. He'd arrived at the dig site while Alex was talking to Haveram. "You look worried."
+>
+>"Nothing's wrong," Alex replied. "But I'm not sure how much good we're going to be able to do here. We might need to get some help from the base."
+
+>**Alexandria piloted the ship closer, and turned on her spotlight, illuminating the eons old alien derelict ship.** The light was swallowed by the hull as she moved into position beside it. A small, faint blue glow lit up the interior of the vessel.
+>
+>“It’s been here for a long time,” said Halsey. “Centuries at least.”
+>
+>She had left the hatch open, and they could see inside the ancient craft. It was dark, but there were traces of light—small points of glowing blue that seemed to move slowly across the walls. They reminded Alexandria of fireflies, or the luminous bacteria in some deep sea trenches. But these lights didn’t seem to be coming from any living creature; they glowed with an eerie regularity.
+>
+>“There are no signs of damage,” said Halsey. “But I can’t say what might have happened to the crew.” She glanced over at Alexandria. “I don’t think we should go in.”
+>
+>Alexandria frowned. “We need to find out what’s going on here.”
+>
+>“And how do you propose we do that?” asked Halsey. “You saw the size of this thing. We wouldn’t even fit inside.”
+>
+>Alexandria thought about it for a moment. “How big is the bridge?”
+>
+>Halsey shook her head. “No idea.”
+>
+>“Then we’ll start with the bridge,” Alexandria Kira. “The rest will follow.”
+
+
 
 #### [(V3) Action Movies](https://files.catbox.moe/91n3eo.module)
 
@@ -874,13 +1209,7 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 >
 >She moved the crosshairs to the next target and fired again, this time hitting a nearby Clan OmniMech. It staggered backward under the onslaught, then fell.
 
-#### [Beastars](https://files.catbox.moe/26usa1.module)
 
-[by Anon](https://arch.b4k.co/vg/thread/359694347/#359707706)
-
-*Beastars Sigurdv4 trained at 34%*
-
->\>*It's only been trained off of the best rated stories off of AO3, about fifty or so stories which adds up to 7.43 MB of data. Trained to 34%, exactly 3000 steps.*
 
 *As always for those that are interested, tell me how good or how shit they are.*
 
@@ -938,56 +1267,6 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 - *Picnic at Hanging Rock by Joan Lindsay*
 - *Special Friendships by Roger Peyrefitte*
 - *The Bone Clocks by David Mitchell (edited to just the Hugo Lamb scenes)*
-
-#### [Feudal Japan](https://files.catbox.moe/x9os0f.module)
-
-[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/908017750176321629)
-
-*This Feudal Japan module draws upon works such as Musashi, Taiko by Eiji Yoshiwaka, Shogun and Gaijin by James Clavell, and mysteries, epics, biographies from other authors to cover Feudal Japan from the 13th to the 19th Century.*
-
-*NOTE: This is the 13k version trained on the v4 model, and will work fine with the v3 model.*
-
-*It's a refinement and expansion of the earlier [Genroku Era](#v3-genroku-era) module.*
-
-*20mb, 13,000 steps, 60% coverage, 2.7359 loss*
-
->**The woman stood before the samurai proudly and yelled, "Go ahead, kill me! Take away the stain of dishonor on my family I am!"** She was not afraid.
->
->"Stop this nonsense," said Hideyoshi impatiently. "You are a beautiful woman." He smiled at her with his warmest smile. Her eyes widened in surprise, but she did not stop shouting.
->
->"I have never been so insulted by any man! I am a member of the Ashikaga family, and you dare to say that I am beautiful?"
->
->Hideyoshi's smile broadened into a grin. "It is true. You are beautiful. But your beauty has nothing to do with it. If you were ugly, would I be saying these things? Would anyone listen if I told them how pretty you are?" The woman stopped yelling and stared at him in amazement.
->
->"Listen carefully," he continued, looking directly into her eyes. "Your name is Lady Naka no Kimi. Your husband died last year. Now you are all alone, living with your two children."
->
->Naka looked down at the ground. Then suddenly she lifted her head and shouted, "Yes, I am alone. My husband left me for another woman. But I still love my dead husband. Do you understand? And I will always remember him as long as I live."
->
->Hideyoshi nodded sympathetically. "That is good. I know what you mean. Even though you loved your husband, he abandoned you when you needed him most. But don't worry. There is someone who loves you now. Someone who wants to help you. Will you let him?"
->
->Naka shook her head vigorously. "No, I won't. I cannot allow such a thing. It is too late. My life is over."
->
->"Don't be so sure. Listen to me. You must make up your mind. Either you will accept this person's offer or you will die."
->
->Naka stood there silently. Her face was red with anger. Suddenly she turned around and ran away from Hideyoshi.
-
->**The ronin's hand hovered on the handle of his sheathed katana,** then he shook himself and went inside. The heavy wooden door creaked shut behind him with a thud that seemed to echo in the stillness. He could hear no sound from above or below. But there was something else—a smell, faint but unmistakable: blood.
->
->"I'm home." Yoshi walked across the room. "Is anyone here?" His voice echoed hollowly in the silence. There was no answer. With a sigh he sank into one of the tatami mats and sat cross-legged, gazing at nothing. For several minutes he said nothing more. Then he heard footsteps descending the stairs. A moment later, Taro appeared in the doorway.
->
->Yoshi stood up quickly. "What happened? Is anything wrong?"
->
->Taro nodded slowly. "Yes. Your father is dead."
->
->"Dead! How?" Yoshi felt as though someone had hit him hard between the eyes. He swayed slightly.
->
->"He died peacefully last night," Taro said gently. "Your mother was beside herself with grief when she learned about it this morning. She wanted you to come home immediately."
->
->Yoshi closed his eyes tightly for a second, then opened them again. "Did they say how he died?"
->
->"No. Only that he died suddenly, without warning. No one knows why. It appears he suffered a stroke."
->
->Yoshi stared blankly at the floor. For several seconds he remained motionless, not speaking. Finally, he raised his head and looked directly at Taro.
 
 #### [(V3) Final Fantasy XVI](https://files.catbox.moe/dkm3wd.module)
 
@@ -1099,20 +1378,6 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 >
 >"You're going to pay for that, BR55."
 
-#### [Generation Ship](https://files.catbox.moe/pubhtk.module)
-
-[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/909556544524390430)
-
-*Journeys between stars across multiple generations at slower than light! Some are escaping a doomed Earth, others have forgotten that they are generation ships, and further, society breaks down; a few are grand odysseys in the hard scifi tradition.*
-
->**The generation ship Odysseus burned for the stars, its giant fusion torch pushing it as close as possible to lightspeed,** so that the years would pass in mere months. The crew was already selected and trained by the time they left Earth orbit, with only a few weeks of training before departure. They had all grown up together, most having gone through school and college together. Most were married or engaged, but no one seemed particularly upset when their friends or relatives decided not to go along on this voyage.
->
->In fact, there wasn't much of an argument about leaving Earth at all. Everyone knew that the Odysseus could never return home; it was designed to be a one-way trip. The planet's biosphere had been destroyed by nuclear war long ago, and there was no chance of finding another suitable world within the solar system where humans could live safely. So why not take off for the stars? It was better than dying in a radioactive wasteland.
-
->**The generation ship's fusion engines burned as it consumed hydrogen, and it maneuvers towards the Sun for a gravity-assisted boost closer to the speed of light, its passengers in cryogenic suspension and insulated from the effects of the hard acceleration.** The fusion engine is burning so hot that it has melted some of the nickel-iron core material into liquid metal. It flows through pipes inside the ship and then back out again, radiating heat like a giant radiator.
->
->On board the planetoid they call Bussard's Viewing Room, I'm sitting at my desk in front of the window, looking down on the tiny red dot that is our home world. A small robot arm with a stylus attached to it extends from the wall behind me and makes an erratic scratching motion across the screen, which changes every few seconds. On another monitor, a view of Earth shows the same thing happening there. I've been watching this show for years now, ever since we were all woken up by the crew waking us from suspended animation.
-
 #### [(V3) Genroku Era](https://files.catbox.moe/agf8ib.module)
 
 [by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/870656993084452905)
@@ -1130,90 +1395,11 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 - *The Samurai’s Wife, Laura Joh Rowland*
 - *The Tokaido Road, Lucia St, Clair Robson*
 
-#### [Indian Fantasy](https://files.catbox.moe/7qkhsg.module)
-
-[by Samanamel](https://discord.com/channels/836774308772446268/870449646391156776/909544004935385099)
-
-*Based on fantasy books inspired by Indian culture and religion. Steps: 2930, Loss: 2.68, 60% trained*
-
-- *The Black Company - Books of the South - Book 1*
-- *The Black Company - Books of the South - Book 2*
-- *Realm of Ash*
-- *The Jasmine Throne*
-- *The Star Touched Queen*
-- *A Crown of Wishes*
-- *Hunted by the Sky*
-
-(Storywriter)
->**She peeked from the palanquin,** watching as her escort led them to a small temple. The priestess of Kali stood outside, hands folded in supplication. A few other women were already there, kneeling before the goddess's image. Some of them were weeping.
->
->"Are they going to sacrifice us?" asked Megha. "We should run."
->
->Priya shook her head. "They're praying for mercy."
->
->Megha looked skeptical.
->
->The priestess bowed low before entering the temple. She held up one hand in prayer and began to sing. Priya felt the sound vibrate through her body, deep within her bones. It was a song of longing, a song of yearning.
->
->And it rose around her, an echo in the air, so that she could feel its call on her lips.
-
-(Creative Coherency)
->**He drew his dagger** and held it up in the air. It was a silver blade, old as time itself, with runes etched into its surface that glowed like fireflies trapped inside of glass. He had no idea what they meant; he'd never bothered to learn their meaning. But he knew this much: it would cut through anything—even solid stone—as if it were butter on a hot griddle. Once upon a time, he could have used such a weapon even without knowing how.
->
->Now... not so much. His arm ached where the wound from the manticore's fang still lingered. The magic within him felt sluggish now, too weak to heal himself or anyone else. Even Kale couldn't help but feel it. They all did.
->
->"I'm sorry," said Arwa. "It wasn't my—"
->
->Kale gestured for silence, then turned back toward the village.
-
-#### [Mad Max](https://files.catbox.moe/cd6rvq.module)
-
-[by HARVEYDENT](https://discord.com/channels/836774308772446268/870449646391156776/910143352761094154)
-
-*This module grants focus to scenarios that revolve around enduring a sandy waste akin to that of Mad Max.*
-
-*Please note, good material is hard to find so it might be useful to bias against certain names or organics like Max, grass, horse, etc. depending on what you're trying to do.*
-
-*~4.5Mb,  5,400 steps, 10% coverage, 2.7802 loss*
-
-- ***The Purple Prose Pack***
-- ***Title:** A Boy and His Dog **Author:** Harlan Ellison*
-- ***Title:** Earth Abides **Author:** George Rippey Stewart*
-- ***Title:** Mad Max 1 **Author:** Terry Kaye*
-- ***Title:** Mad Max 2 **Author:** Carl Ruhen*
-- ***Title:** Mad Max 3 **Author:** Joan D. Vinge*
-- ***Title:** Mad **Max:** The Lost Warrior **Author:** TimeFury1347*
-- ***Title:** On The Beach **Author:** Nevil Shute*
-- ***Title:** Sand **Author:** Hugh Howey*
-- ***Title:** The Length and Breadth of Fury Road **Author:** sacrificethemtothesquid*
-- ***Title:** The Outrider #1-5 **Author:** Richard Harding*
-- ***Title:** The Road **Author:** Cormac McCarthy__*
-
->**The roar of the engine** filled his ears. He could hear nothing else, not even his own thoughts. The sound was like a beast snarling and growling as it came closer to him.
->
->He was moving again, he realised suddenly. He was on his feet, running for all he was worth. There were no lights in sight now. His eyes had adjusted to the dark and he could see nothing but the road ahead. He ran across the desert floor, trying to put some distance between himself and whatever was chasing him.
->
->His lungs burned with the effort. It seemed that he would never be able to catch his breath. But then he saw something looming up in front of him. A large shape blocking out the stars.
-
->**The sand beneath my feet** was hot and dry, the wind whipping at me. I was tired from the journey, but my mind was racing with thoughts of revenge. The last time we had met, he had taken a piece of my soul. He would pay for that now. I ran across the sand towards him, knowing what was about to happen. I knew that once I got close enough, he'd kill me.
->
->I heard his voice before I saw him. "Come on then, you little bitch," he shouted as he started running towards me. I could hear his heavy breathing and the pounding of his feet against the sand. I didn't stop or turn around. I just kept going straight ahead. When he reached me, I jumped up and kicked him in the face. His head snapped back and blood flew out from his nose. He fell backwards onto the ground and I landed on top of him. I pulled one of my knives from its sheath and held it to his throat.
->
->"Where's your fucking water?" I screamed at him. He tried to say something, but all that came out was a bloody gurgle.
-
 #### [(V3) Magic: The Gathering](https://files.catbox.moe/robqen.module)
 
 [by Footlong Goosesize](https://discord.com/channels/836774308772446268/870449646391156776/893374227066019851)
 
 *Now with more short stories from a variety of different settings! Including stories like The Blight of Our Own, The Promised End, The Truth of Names, etc.*
-
-#### [Male Prison](https://files.catbox.moe/1vywld.module)
-
-[by Anon](https://arch.b4k.co/vg/thread/359694347/#359707706)
-
-*Male Prison Sigurdv4 trained at 50%*
-
-*As always for those that are interested, tell me how good or how shit they are.*
 
 #### [(V3) Mass Effect](https://files.catbox.moe/p2kdgi.module)
 
@@ -1310,38 +1496,6 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 
 *Trained on 2/3 historical fiction, with 1/3 mythology/fantasy.*
 
-#### [Poetic Fantasy](https://files.catbox.moe/0mnm38.module)
-
-[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/909665868789710848)
-
-[12K Step (V3) Vers.](https://files.catbox.moe/p9a805.module)
-
-*Some of the best and most poetic fantasy written went into this module, from Guy Gavriel Kay, Mervyn Peake, Patricia A. McKillip and others. If you want beautiful prose in an almost fairy-tale setting, this is the module for you!*
-
-*6.8mb, 12000 steps, 154% coverage, 2.809 loss*
-
->**The mermaid sang upon the rocks,** her voice a thin silver thread that wound around them all. The water lapped against their feet and she looked up at the stars with wide green eyes. She was very beautiful. Her hair fell like seaweed down to her waist, black as night itself. A faint glow lit her pale skin, as if moonlight shone through her from behind. And then the sea swallowed her again, leaving only bubbles on the sand.
->
->"She's gone," said Alberic softly. He looked over his shoulder at the others. "What do you say?" he asked the sailors. They murmured in agreement.
->
->They turned back toward home.
-
->**The witch was mercurial and beautiful** as she laughed, her eyes flashing in the firelight. "I have a plan," she said, pulling me close to her again. Her lips brushed my ear, making it tingle. She whispered, "If I kill you now..."
->
->"You'll be sorry?" I finished for her.
->
->She smiled. "Yes."
->
->We were silent then, listening to the crackle of flames. The room was still and warm with the heat from our bodies; only a faint draft moved through the open window. My mind began racing, trying to figure out how I could escape this woman's clutches. I couldn't just leave Cook behind--the witch would know that. But if I killed her, I'd have no chance of getting back into the palace without being caught myself. And what about Cook? What if she woke up before we got away?
->
->But there was nothing else to do but wait and hope. We sat together on the edge of the bed, leaning against each other like two lovers sharing secrets. I felt dizzy and sick, wishing I had something stronger than wine to drink. The witch seemed to sense my weakness; she stroked my hair and murmured words of comfort. "Shh," she said, kissing me lightly on the forehead. "Don't worry, little one. You're safe here."
->
->My eyes closed; I lay back against her chest, feeling strangely calm. Perhaps she could help me after all. I fell asleep, and when I woke again, it was morning.
->
->I opened my eyes slowly, wondering where I was.
-
-
-
 #### [(V3) Post-Apocalyptic Fallout](https://files.catbox.moe/eavy49.module)
 
 [by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/871490240844529666)
@@ -1389,34 +1543,6 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 > She looked around at the familiar surroundings again, then stepped forward into the dark space. It was large enough for two or three people to stand side by side, though only one could comfortably walk through it. She noticed some differences; the smell of smoke wasn't so strong anymore. There was also a faint odor of fresh water nearby. She moved slowly toward the back wall, feeling her way along the rough stone. The cave seemed much larger now than before, and the air was warmer. When she reached the back wall, she stopped, still not sure what to do next.
 >
 > Then she heard something. A soft rustling sound. It grew louder and closer until she recognized the distinctive footfalls of a small creature padding softly across the floor behind her. She turned quickly, expecting to see another animal, perhaps a fox or a wolf.
-
-#### [Russian Fantasy and Folklore](https://files.catbox.moe/5xu90x.module)
-
-[by lion (and Zaltys)](https://discord.com/channels/836774308772446268/870449646391156776/909615787214532650)
-
-*Russian folktales and fantasy tales retrained for Sigurd v4 now with additional works. This module manifests some of the dark whimsy of your favorite folk stories. Special thanks once again to Zaltys for cleaning and prepping the dataset. I only provided the steps.*
-
-- ***Arkady & Boris Strugatsky*** - Hard to Be a God
-- ***Arkady & Boris Strugatsky*** - Monday Starts on Saturday
-- ***David Clement-Davies*** - Fell
-- ***Edward Rutherfurd*** - Russka
-- ***Emma Woodcock*** - Kikimora
-- ***Karah Sutton*** - A Wolf for a Spell
-- ***Katherine Arden*** - The Winternight trilogy
-- ***Leo Tolstoy*** - Anna Karenina
-- ***Marina & Sergey Dyachenko*** - Vita Nostra
-- ***Mariam Petrosyan*** - The Gray House
-- ***Michael Thomas Ford*** - Lily
-- ***Mikhail Bulgakov*** - The Master and Margarita
-- ***Orson Scott Card*** - Enchantment
-- ***Robert Chandler*** - Russian Magic Tales from Pushkin to Platonov
-- ***T. Kingfisher*** - Summer in Orcus
-
->"It's time," said the woman. "Come, it is almost dark."
->
->The old man was sitting in a corner of his room, listening to the ticking of the clock and looking at the closed door through which the other two had gone. The old man listened with interest: there were voices beyond that door; he could hear them talking softly, as if they did not wish to be overheard. And then suddenly all three voices ceased. He heard footsteps approaching along the corridor, and presently he saw the door open.
->
->He got up quickly from his chair and went out into the passage. It was quite dark now, but he knew that they would have lit their candles before going down into the crypt.
 
 #### [(V3) A Song of Ice and Fire](https://files.catbox.moe/kpg3en.module)
 
@@ -1537,24 +1663,6 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 >
 > "flamesquench?" Kenobi suggested lightly.
 
-#### [Touhou Project](https://files.catbox.moe/po4ykc.module)
-
-[by Imperishable_NEET (and Bunray)](https://discord.com/channels/836774308772446268/870449646391156776/910119451880464405)
-
-*Assembled by ImperishableNEET, trained by Bunray.*
-
-*Special thanks to haru, AO3, and touhou-project.com.*
-
-*Includes 25~ MB of curated Touhou fanfic and Japanese or Japan-centric literature for literary solidity.*
-
-*Trained to 55.55% (27.950 steps).*
-
-(using Coherent Creativity and Akyuu's Knowledge for NovelAI)
-
->**Reimu turned to face the path in front of her shrine, seeing the silhouette of a youkai she knew very well slowly emerge from the stone stairs leading up towards it: “Oho!” The figure had long blonde hair cascading all over her frame and a smug smile on her face. It was unmistakeably Yukari Yakumo,** who always managed to appear whenever something bad happened in this world. And now here she stood right outside Reimu's home. This would normally mean trouble, but since today wasn't even Sunday yet... Well, as far as Reimu could remember, Yukari never came anywhere near her house before noon. Not only did she want some time away from everyone else, she didn't seem interested in causing any more problems than necessary either. So Reimu decided to give her space while still keeping an eye out for what might happen next. As soon as she saw the girl stop walking though, Reimu couldn't help herself anymore: “So? What brings ya back here so early?"
->
->"Well I suppose we should get straight into why I'm really here..." Yukari said with another grin as she walked through the shrine's gate. In spite of everything that they'd been through together during their friendship, there were times when Yukari seemed like such a little brat that Reimu just wanted to smack her upside the head.
-
 #### [(V3) Underune](https://files.catbox.moe/hxmtn1.module)
 
 [by Peco4188](https://discord.com/channels/836774308772446268/870449646391156776/902285787561873509)
@@ -1614,66 +1722,6 @@ A.K.A "Toby Fox Module"
 >
 > He stopped in his tracks, feeling a chill run up his spine. He'd heard stories about this place, of course. Stories about how it was a lawless city, a haven for outlaws and murderers and other criminals.
 
-#### [Western](https://files.catbox.moe/xm4z2j.zip)
-
-[by Anon](https://arch.b4k.co/vg/thread/359155218/#359495805)
-
-*This is a western model. Trained for about 35% of steps (about 3500) on the following: Butcher's Crossing, Centennial, Hondo, Little Big Man, Lonesome Dove, Riders of the Purple Sage, Shane, The Log of a Cowboy, The Ox-Bow Incident, The Searchers, The Shootist, and True Grit.*
-
-*The archive contains the original EPUBs I worked from, the Pandoc TXT conversion, my edited TXT files, and the module itself.*
-
-#### [World of Kouros](https://files.catbox.moe/bo1cr9.module)
-
-[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/908179081458245692)
-
-*This is a module that is specifically trained for a scenario called World of Kouros as it is trained on the outputs of it in addition to poetic fantasy works as well as rather risque and controversial novels.*
-
-*20mb, 13,000 steps, 60% coverage, 2.664 loss*
-
-- ***Title:** Dune, **Author:** Frank Herbert, **Genre:** Science Fiction*
-- ***Title:** Kushiel's Dart, **Author:** Jacqueline Carey, **Genre:** Fantasy*
-- ***Title:** Kushiel's Scion, **Author:** Jacqueline Carey, **Genre:** Fantasy*
-- ***Title:** Namaah's Kiss, **Author:** Jacqueline Carey **Genre:** Fantasy*
-- ***Title:** Book of Atrix Wolfe, The, **Author:** Patricia A. McKillip, **Genre:** Fantasy*
-- ***Title:** Forgotten Beasts of Eld, **Author:** Patricia A. McKillip, **Genre:** Fantasy*
-- ***Title:** Ombria in Shadow, **Author:** Patricia A. McKillip, **Genre:** Fantasy*
-- ***Title:** Golem and the Jinni, **Author:** Helene Wecker, **Genre:** Fantasy*
-- ***Title:** King of Elfland's Daughter, The, **Author:** Lord Dunsany, **Genre:** Fantasy*
-- ***Title:** Last Unicorn, The, **Author:** Peter S. Beagle, **Genre:** Fantasy*
-- ***Title:** Curse of Chalion, **Author:** Lois McMaster Bujold, **Genre:** Fantasy*
-- ***Title:** Penric and the Shaman, **Author:** Lois McMaster Bujold, **Genre:** Fantasy*
-- ***Title:** Penric's Demon, **Author:** Lois McMaster Bujold, **Genre:** Fantasy*
-- ***Title:** Penric's Mission, **Author:**Lois McMaster Bujold, **Genre:** Fantasy*
-- ***Title:** Tigana, **Author:** Guy Gavriel Kay, **Genre:** Fantasy*
-- ***Title:** Titus Groan, **Author:** Mervyn Peake, **Genre:** Fantasy*
-- ***Title:** Uprooted, **Author:** Naomi Novik, **Genre:** Fantasy*
-- ***Title:** Wizard of Earthsea, **Author:** Ursula K. le Guin, **Genre:** Fantasy*
-- ***Title:** Tarnsman of Gor, **Author:** John Norman, **Genre:** Fantasy*
-- ***Title:** Assassin of Gor, **Author:** John Norman, **Genre:** Fantasy*
-- ***Title:** Smugglers of Gor, **Author:** John Norman, **Genre:** Fantasy*
-- ***Title:** Rebels of Gor, **Author:** John Norman, **Genre:** Fantasy*
-- ***Title:** Shogun's Agents, **Author:** Akahige Namban, **Genre:**  Historical Fantasy*
-- ***Title:** Woman of the Mountain, Warriors of the Town, **Author:** Akahige Namban, **Genre:**  Historical Fantasy*
-- ***Title:** The Women of Gion, **Author:** Akahige Namban, **Genre:**  Historical Fantasy*
-- ***Title:** Chrysanthemum, Rose, and the Samurai, **Author:** Akahiege Namban, **Genre:**  Historical Fantasy*
-- ***Title:** World of Kouros, **Author:** OccultSage, NovleAI, and Others, **Genre:** Fantasy*
-
->**The blade slashed through the air, as the girl danced** around him. She was a lithe creature of sinuous grace and perfect beauty, her eyes bright with an inner fire that burned like stars in dark night skies. Her hair hung down over one shoulder in two thick braids that reached to below her waist; it shone with glints of gold and silver. In the shadows she looked more than human, but he knew better. A part of his mind noted that the tips of her pointed ears were tipped by tiny slivers of horn. The rest of his mind was lost in lust for this dangerous toy. He watched her move through the dance as if it were all choreographed. Her movements had a natural fluidity that spoke of long practice and skill. His own body moved almost without thought, matching hers in rhythm, while his hands traced patterns on the air as if guided by another's will. And then...
->
->She came at him suddenly, lunging forward into a sudden lunge that ended in a kick aimed directly at his groin. With practiced ease he shifted to block her blow, and caught her leg in mid-swing. Before she could recover from her attack, he dropped low and wrapped both arms around her waist. She struggled briefly, trying to twist free, but found herself trapped between his chest and the wall behind him. She kicked out desperately, but her foot only grazed his ribs before she was pulled back against his body. Her head lolled loosely against his shoulder, her hair tickling his cheek.
-
->**I am a Templar of the Queen**'s Guard. I will not be afraid. She has seen me and knows what I am. The first time she saw me, she was but five years old. Now she is grown into womanhood, with all her powers. And yet she still fears me; for she sees in my eyes that which no one else can see. It is only by chance that I have found her at this moment. Had it been any other time, I might never have known where to find her. Even now, had I not met you on the road, I would not know how to reach her. But here we are together, and soon she will be safe from those who seek to destroy her.
->
->"You have heard of Agenor?" he asked. "He is a great sorcerer, as well as an evil man."
->
->She nodded. "But I do not understand why they fear him so much."
->
->"Agenor is dangerous," said the giant warrior. "His power is great. He has made himself mighty among men."
->
->"But surely his magic cannot harm us!" she exclaimed.
->
->"No, but there are others who might," he replied grimly. "The demons who live in the deep places of the earth may be summoned up to destroy us. Or Agenor might summon them himself."
-
 #### [(V3) World of Pokémon](https://files.catbox.moe/wc23lm.module)
 
 [by lion](https://discord.com/channels/836774308772446268/870449646391156776/896327531790217217)
@@ -1720,57 +1768,6 @@ A.K.A "Toby Fox Module"
 
 *Note: These examples were done on an otherwise new vanilla scenario (default settings, no bias, lorebooks, or anything) however I do recommend using [Loki's Pokédex phrase bias](https://rentry.co/biases#pokedex) or an otherwise similar bias to help reinforce Pokémon appearance, etc.*
 
-#### [Xenoarchaeology and Relics](https://files.catbox.moe/n7sz15.module)
-
-[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/910028027369517116)
-
-*This module draws from books that have a strong sense of xenoarchaeology and discovering ancient alien treasures as well as large, and small wonders from the past. Many of the sources are narrow, and some of the others are broad in scope.*
-
-*8.5mb, 6000 steps, 60% coverage, 2.86 average loss*
-
-- ***Title:** To Sleep in a Sea of Stars; **Author:** Christopher Paolini; **Genre:** Science Fiction*
-- ***Title:** A Fire Upon The Deep; **Author:** Vernor Vinge; **Genre:** Science Fiction*
-- ***Title:** Bone Silence; **Author:** Alastair Reynolds; **Genre:** Science Fiction*
-- ***Title:** Wasteland of Flint; **Author:** Thomas Harlan; **Genre:** Science Fiction*
-- ***Title:** Boundary; **Author:** Eric Flint, Ryk E. Spoor; **Genre:** Science Fiction*
-- ***Title:** Into Everywhere; **Author:** Paul McAuley; **Genre:** Science Fiction*
-- ***Title:** Engines of God; **Author:** Jack McDevitt; **Genre:** Science Fiction*
-- ***Title:** Newton's Wake; **Author:** Ken MacLeod; **Genre:** Science Fiction*
-- ***Title:** Wanderer's Escape; **Author:** Simon Goodson; **Genre:** Science Fiction*
-- ***Title:** Rendezvous with Rama; **Author:** Arthur C. Clarke; **Genre:** Science Fiction*
-
->**The light of the blue star beat down on Alexandria's head, as she bent over the relic that her crew had dug out in the pit.** She wore a heavy helmet and goggles, but even so it was uncomfortably hot. The metal of the digging tools was already glowing red-hot under its sunlamps. They would need to cool before they could be used again.
->
->"It looks like an old robot," Alex said. "But there's no way we can tell what kind."
->
->A robot? That didn't make sense. Robots were built by humans; if this thing was human, then it must have been made by something else entirely. But she couldn't imagine who or what. It certainly wasn't anything from Earth. And it wasn't even possible for them to send a message back home—not with their radio damaged.
->
->Alex straightened up and wiped sweat off her brow with one gloved hand. "We'll have to take it apart," she told Haveram. "I don't think we can do much more without burning it."
->
->Haveram nodded and walked away toward the other side of the dig site, where he had set up his own work area.
->
->"What's wrong?" asked Captain Jenkins. He'd arrived at the dig site while Alex was talking to Haveram. "You look worried."
->
->"Nothing's wrong," Alex replied. "But I'm not sure how much good we're going to be able to do here. We might need to get some help from the base."
-
->**Alexandria piloted the ship closer, and turned on her spotlight, illuminating the eons old alien derelict ship.** The light was swallowed by the hull as she moved into position beside it. A small, faint blue glow lit up the interior of the vessel.
->
->“It’s been here for a long time,” said Halsey. “Centuries at least.”
->
->She had left the hatch open, and they could see inside the ancient craft. It was dark, but there were traces of light—small points of glowing blue that seemed to move slowly across the walls. They reminded Alexandria of fireflies, or the luminous bacteria in some deep sea trenches. But these lights didn’t seem to be coming from any living creature; they glowed with an eerie regularity.
->
->“There are no signs of damage,” said Halsey. “But I can’t say what might have happened to the crew.” She glanced over at Alexandria. “I don’t think we should go in.”
->
->Alexandria frowned. “We need to find out what’s going on here.”
->
->“And how do you propose we do that?” asked Halsey. “You saw the size of this thing. We wouldn’t even fit inside.”
->
->Alexandria thought about it for a moment. “How big is the bridge?”
->
->Halsey shook her head. “No idea.”
->
->“Then we’ll start with the bridge,” Alexandria Kira. “The rest will follow.”
-
 #### [(V3) Zombie Apocalypse](https://files.catbox.moe/x2og31.module)
 
 [by Basileus](https://discord.com/channels/836774308772446268/870449646391156776/875929471184695296)
@@ -1788,6 +1785,174 @@ A.K.A "Toby Fox Module"
 ***
 
 ### [Elements](#themes)
+
+#### [Bad Writing](https://files.catbox.moe/uivlq6.module)
+
+[by Potato](https://discord.com/channels/836774308772446268/870449646391156776/908977641342791741)
+
+*This module is like the worst! It's got the worst of the worst! English is the greatest language for bad writing because of how popular it is! This module will make your inner 5 year old writer look kinda like Shakespeare! If one can't serve in literary heaven, might as well rule in the bowels of literary hell.*
+
+*I am legit making up crap because I have no idea how bad this module is.*
+
+#### [Gay](https://files.catbox.moe/v52asc.module)
+
+[by HARVEYDENT](https://discord.com/channels/836774308772446268/870449646391156776/909058444374466601)
+
+*Romance your bro, discover your masculinity, find love in the big city or a small, sleepy town as Sigurd embraces gay romance and is tempered towards a variety of scenarios in the realm of M/M. Refined, polished and ready for Sigurd V4.*
+
+*~8Mb,  10,000 steps, 103% coverage, 2.7802 loss*
+
+>**The pitter patter of rain** on the roof. The smell of damp and mold. The sound of distant thunder.
+>
+>"I don't want to do this anymore," Tate said, his voice soft. "I just... I'm tired."
+>
+>Tate's head was bowed as he sat in a chair across from Nico. His long hair hung over his face, obscuring it completely. It had been two days since they'd last seen each other. He hadn't wanted to come here at all. But Nico had insisted. They needed to talk.
+>
+>Nico felt bad for him. That wasn't like Tate. He never backed down from anything or anyone.
+>
+>"You're scared," Nico said.
+>
+>A faint smile tugged at Tate's lips. "Maybe."
+
+>**Your fingertips drum the surface of the wooden** table. You lift your eyes to look at him and he looks back, his lips parted slightly in surprise. Your heart is beating so fast you can feel it against your chest. He swallows hard before saying anything. "I've never been here before." His voice is low and smooth. It's like velvet wrapped around a razor blade.
+>
+>"This place?" You ask.
+>
+>He nods.
+>
+>"What do I need to know?" You say, trying not to sound nervous.
+>
+>He tilts his head slightly and gives you a small smile. "Everything."
+>
+>You swallow thickly. "Right..." You take another sip from your glass. "Well, we're sitting down here, but then what happens?"
+>
+>His dark brows pull together for a moment before relaxing again. "We eat dinner," he says simply. "Then we talk."
+>
+>You nod slowly. "And after that?"
+>
+>He shrugs.
+
+#### [The Manwhore Module](https://files.catbox.moe/l0c1sg.scenario)
+
+[by Manwhore](https://arch.b4k.co/vg/thread/359952842/#360055304)
+
+*Bear witness, gentlemen, to my newest coomtech creation!*
+
+*I've been hitting the lab ever since v4 dropped to get my template scenario polished up and hitting even higher smut-producing heights. And now, it's ready for you to mutilate as you see fit.*
+
+*Inside you'll find further refinements of my low-randomness TFS settings package, a fresh bundle of redone phrase biases at new weights paired with a banned token or two, and most importantly, the fifth version of my personal module, retrained with new data and higher percentage of steps for Sigurd v4.*
+
+*I've taken this package for a spin on multiple different prompts from my private reserve, and so far the thing's been an incredible workhorse. On a sunny day this bad boy takes me from start to finish on a scenario for a whopping three to four re-rolls total, with everything from vanilla sex to moth-girl maternal femdom involving four hands and aphrodisiac powder. Let me know what I fucked up, how it runs, etc.*
+
+*Enjoy.*
+
+#### [Purely Purple Prose](https://drive.google.com/file/d/17iMgCgBeBYr-TEe81ekuEJRsCukZzL1D/view?usp=sharing)
+
+[by Dichotomy](https://discord.com/channels/836774308772446268/870449646391156776/908617137835360296)
+
+*Expect a tasteful dash of Victorian spice. Where version one of Purely Purple Prose was made to give people a feel for what the Purple Prose Supplementary Dataset could add to one's own modules, and version two was crafted specifically to hone in on the "Classical" nature inherent with fiction under Creative Commons and so trained alongside a few of the completed works... version three was basically just bestowed upon us by the devs and their outstanding work on Sigurd V4. All I did was retrain it for the new finetune, and things are looking more coherent than ever. Nicely moody, while not overpowering you with olden day references.*
+
+*3.26MBs trained for %115 data coverage.*
+
+> **The night** was dark, and the stars shone with a pale lustre. The wind went moaning by, like a low distant sea; and there were no clouds in the sky. From time to time, one of those sudden gusts of cold air came rushing down from the north-east, and set all the woods rustling, and brought a white sheet of spray across the lake, which rose up before it as if startled out of its sleep. But this night-breeze had passed away again, when the figure that stood on the bridge, shivered and shook convulsively for some seconds, and then fell forward into the water.
+>
+>It was a man’s shape; but not a living man: even in the faint starlight, you might have told that at once. There was something hanging about it, which made it look more like a corpse than anything else. It lay face downwards in the shadow of the bridge, and moved not when the boat touched it. A few strokes took us alongside. We drew our knives, and leaped on shore. I stooped over the body, and felt it heartily.
+
+#### [Surrealistic Look Through The Glass](https://files.catbox.moe/pxmwlb.module)
+
+[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/909549236767563778)
+
+*This is a theme module for those that enjoy surrealistic, whimsical, and sometimes dark stories along the vein of Lewis Carrol's Alice's Adventure in Wonderland, or Neil Gaiman's Neverwhere.*
+
+>**Morgan's brows furrowed, and he stared** at me for a long moment. "How do you know that?" he asked finally.
+>
+>"Because it was in the book," I said, pointing to my lap where The Wind in the Willows lay open on my knee. "I read it when I was little."
+>
+>"That book? It's not real."
+>
+>"Of course it is," I insisted. "It's all about a river and an otter who lives in it."
+>
+>"Otters don't live in rivers."
+>
+>"They do in this one."
+>
+>Morgan snorted. "I've never heard of such a thing. You're making up stories." He shook his head, frowning. "No one has ever seen an otter or a river in Faerie."
+>
+>"Yes they have," I said stubbornly. "The otter lived with the king's daughter in her garden. And there was a river—"
+>
+>"A stream," Morgan interrupted. "You can't call a trickle of water a river."
+>
+>I gave him a haughty look. "We can if we want to."
+>
+>He rolled his eyes. "Fine. A stream then."
+>
+>"There were fish in it," I continued. "And frogs. And ducks. And sometimes—sometimes it rained."
+>
+>Morgan looked like he wanted to argue, but instead he just sighed and ran a hand through his hair.
+
+>**Once upon a time** there was a little girl who lived at the bottom of a well. She had never been out, and she didn't know how to get out. So every day, when her mother came down to fetch water from the pump in the yard above, she would climb up the rope ladder and sit on the edge of the bucket while her mother filled it. Then they would both go back up again. It was lonely living at the bottom of a well, but you have to remember that this was a long time ago, before people used buckets for everything.
+>
+>The little girl had a white dress with red spots all over it; and because she was so small, she could easily hide inside the bucket when her mother wasn't looking. The handle of the bucket was wooden, carved in the shape of an elephant's head.
+>
+>One day, as her mother went up to the pump, the little girl slipped out of the bucket and ran away. There were no grown-ups around, so she climbed onto the top of the well and sat there until her mother came home.
+>
+>"What are you doing up there?" asked her mother. "Come down at once!"
+>
+>But the little girl didn't want to come down, because it was such a nice place to be. So she said: "I'm too old to play games. I'll stay here till tomorrow."
+>
+>And she stayed there all night, even though it began to rain very hard. When her mother came into the kitchen next morning, she found the little girl lying under the table, fast asleep.
+
+#### [Second Proseon](https://files.catbox.moe/lslr2i.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/359507552/#359543509)
+
+*2nd person respect module for v4 with some other improvements. Still focused on respect, reluctance, blackmail, slavery, corruption with a focus on fantasy races and magic.*
+
+*Try biasing words related to hatred and resistance for extra fun.*
+
+#### [Western Romance](https://files.catbox.moe/yz9coz.module)
+
+[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/908236941726728233)
+
+*Yee haw! This module focuses on the Western Romance genre, but is leavened out by ordinary Westerns. LGBT and People of Color perspectives were also added in. Have fun roundin' them all up!*
+
+*8.5mb, 9440 steps, 100% coverage, 2.57 loss*
+
+>**She rode, and rode after the love of her life.** She had to find him. Had to make sure he was okay. But she could not stop thinking about what had happened between them that night. What it meant. And how much more there was for both of them.
+>
+>"I am a fool," she said aloud as she rode into town behind the stagecoach. "A stupid, blind fool."
+>
+>The day before yesterday she had been in San Francisco. She had thought only one thing then: to get away from Jake Morgan. Now she wanted nothing but to see him again. To tell him everything.
+>
+>And to feel his arms around her once more.
+>
+>Her hands were shaking when she reached the hotel where he worked as a clerk. The man who came out to greet her was dressed in a fine suit with a white shirt and bow tie. He looked like any other clerk, but something told her this man was no ordinary employee.
+>
+>He took one look at her face and his eyes widened. "Miss Gentry?"
+>
+>"Yes." She dismounted and handed the reins to the young boy who had brought up the coach. Then she walked toward him.
+>
+>His voice dropped low when he spoke. "I'm sorry I wasn't here yesterday. We got held up by some drunks on the road. They attacked us and we barely escaped with our lives."
+>
+>She nodded. "I know. My friend told me."
+>
+>He smiled. "You're lucky to have such good friends."
+>
+>She shook her head. "No. It's just that I knew you would be here today."
+>
+>"Well, Miss Gentry, it looks like you found me."
+>
+>"Did Mr. Morgan leave town?"
+>
+>He glanced down the street. "Not yet. I'll go fetch him for you. Do you want to wait inside or out front?"
+>
+>She turned to gaze at the hotel. Her room was upstairs. "Outside. Please."
+>
+>As he hurried off, she walked back to the porch. A few minutes later, Jake came out. His hair was still damp and hung loose around his shoulders. He wore a new pair of trousers and a clean white shirt, which was buttoned all the way up to his neck.
+>
+>"What is it, Annie? You look like you've seen a ghost."
+>
+>She took hold of his hand and led him to the bench beneath an oak tree. There they sat and stared at each other for long moments.
 
 #### [(V3) Androids, Artificial Intelligence, and Robots](https://files.catbox.moe/fjk5vk.module)
 
@@ -1876,14 +2041,6 @@ A.K.A "Toby Fox Module"
 >The angel walked over to one of the closest beds and knelt down. It was empty. "This one was lost when the angels fell from heaven," he said. "He was one of the first, and the last. His name was Adam."
 >
 >Adam. That was the same man whose soul Lorelei had stolen. Her chest tightened. She couldn't imagine the pain of losing your life and having it taken away. It was unimaginable.
-
-#### [Bad Writing](https://files.catbox.moe/uivlq6.module)
-
-[by Potato](https://discord.com/channels/836774308772446268/870449646391156776/908977641342791741)
-
-*This module is like the worst! It's got the worst of the worst! English is the greatest language for bad writing because of how popular it is! This module will make your inner 5 year old writer look kinda like Shakespeare! If one can't serve in literary heaven, might as well rule in the bowels of literary hell.*
-
-*I am legit making up crap because I have no idea how bad this module is.*
 
 #### [(V3) Catgirls](https://files.catbox.moe/khewvl.module)
 
@@ -1983,44 +2140,6 @@ A.K.A "Toby Fox Module"
 *A module trained on material from Forbidden Lands, a Swedish open world dark fantasy RPG. Trained on the 42 random encounter from the GM guide (51 steps of data, trained with 500 steps (976%).*
 *Will need some rerolling + editing to generate something useful. Tends to break down after the first encounter, so it is recommended to start over anew for each encounter.*
 
-#### [Gay](https://files.catbox.moe/v52asc.module)
-
-[by HARVEYDENT](https://discord.com/channels/836774308772446268/870449646391156776/909058444374466601)
-
-*Romance your bro, discover your masculinity, find love in the big city or a small, sleepy town as Sigurd embraces gay romance and is tempered towards a variety of scenarios in the realm of M/M. Refined, polished and ready for Sigurd V4.*
-
-*~8Mb,  10,000 steps, 103% coverage, 2.7802 loss*
-
->**The pitter patter of rain** on the roof. The smell of damp and mold. The sound of distant thunder.
->
->"I don't want to do this anymore," Tate said, his voice soft. "I just... I'm tired."
->
->Tate's head was bowed as he sat in a chair across from Nico. His long hair hung over his face, obscuring it completely. It had been two days since they'd last seen each other. He hadn't wanted to come here at all. But Nico had insisted. They needed to talk.
->
->Nico felt bad for him. That wasn't like Tate. He never backed down from anything or anyone.
->
->"You're scared," Nico said.
->
->A faint smile tugged at Tate's lips. "Maybe."
-
->**Your fingertips drum the surface of the wooden** table. You lift your eyes to look at him and he looks back, his lips parted slightly in surprise. Your heart is beating so fast you can feel it against your chest. He swallows hard before saying anything. "I've never been here before." His voice is low and smooth. It's like velvet wrapped around a razor blade.
->
->"This place?" You ask.
->
->He nods.
->
->"What do I need to know?" You say, trying not to sound nervous.
->
->He tilts his head slightly and gives you a small smile. "Everything."
->
->You swallow thickly. "Right..." You take another sip from your glass. "Well, we're sitting down here, but then what happens?"
->
->His dark brows pull together for a moment before relaxing again. "We eat dinner," he says simply. "Then we talk."
->
->You nod slowly. "And after that?"
->
->He shrugs.
-
 #### [(V3) Green's Among the Stars](https://files.catbox.moe/9axvlv.module)
 
 [by SGreen](https://discord.com/channels/836774308772446268/870449646391156776/905455337912537139)
@@ -2040,6 +2159,7 @@ A.K.A "Toby Fox Module"
 >I'm standing on a rocky, wind-swept world that looks like it's been blasted by an explosion from the inside out. The sky is so dark that there's no stars to be seen and the only light comes from the dim glow of my flashlight. A strange, whirring sound fills the air around me. It sounds like some kind of giant machine. The planet has been stripped bare by some kind of force or natural process, leaving behind nothing but jagged rocks and patches of blackened sand. There are no trees, plants, or even insects.
 >
 >A moment later, I hear something else. It's faint at first, but soon grows louder as it approaches. I turn toward the noise and see what looks like a huge, white worm crawling across the ground. As it gets closer, I realize it's not a worm. It's much larger than anything I've ever seen before. It stops just a few feet away from me. Its body is covered in thousands of tiny eyes. Each eye stares straight into mine. They're all different sizes and colors, but they all look the same—they all have a hunger in them. The creature moves forward slowly, dragging its long tail along the ground.
+
 #### [(V3) Green's RPG](https://files.catbox.moe/7i4db0.module)
 
 [by SGreen](https://discord.com/channels/836774308772446268/870449646391156776/873549751386259548)
@@ -2151,20 +2271,6 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 >
 >My vision started getting blurry again. And then...
 
-#### [The Manwhore Module](https://files.catbox.moe/l0c1sg.scenario)
-
-[by Manwhore](https://arch.b4k.co/vg/thread/359952842/#360055304)
-
-*Bear witness, gentlemen, to my newest coomtech creation!*
-
-*I've been hitting the lab ever since v4 dropped to get my template scenario polished up and hitting even higher smut-producing heights. And now, it's ready for you to mutilate as you see fit.*
-
-*Inside you'll find further refinements of my low-randomness TFS settings package, a fresh bundle of redone phrase biases at new weights paired with a banned token or two, and most importantly, the fifth version of my personal module, retrained with new data and higher percentage of steps for Sigurd v4.*
-
-*I've taken this package for a spin on multiple different prompts from my private reserve, and so far the thing's been an incredible workhorse. On a sunny day this bad boy takes me from start to finish on a scenario for a whopping three to four re-rolls total, with everything from vanilla sex to moth-girl maternal femdom involving four hands and aphrodisiac powder. Let me know what I fucked up, how it runs, etc.*
-
-*Enjoy.*
-
 #### [(V3) Melee Combat](https://files.catbox.moe/sz6pz1.module)
 
 [by lion (and Monky)](https://discord.com/channels/836774308772446268/870449646391156776/871148731980984320)
@@ -2220,31 +2326,11 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *Here's my whole 8000 steps used on text_adventures.txt (cut down a bit to fit into the file size limit)*
 
-#### [Purely Purple Prose](https://drive.google.com/file/d/17iMgCgBeBYr-TEe81ekuEJRsCukZzL1D/view?usp=sharing)
-
-[by Dichotomy](https://discord.com/channels/836774308772446268/870449646391156776/908617137835360296)
-
-*Expect a tasteful dash of Victorian spice. Where version one of Purely Purple Prose was made to give people a feel for what the Purple Prose Supplementary Dataset could add to one's own modules, and version two was crafted specifically to hone in on the "Classical" nature inherent with fiction under Creative Commons and so trained alongside a few of the completed works... version three was basically just bestowed upon us by the devs and their outstanding work on Sigurd V4. All I did was retrain it for the new finetune, and things are looking more coherent than ever. Nicely moody, while not overpowering you with olden day references.*
-
-*3.26MBs trained for %115 data coverage.*
-
-> **The night** was dark, and the stars shone with a pale lustre. The wind went moaning by, like a low distant sea; and there were no clouds in the sky. From time to time, one of those sudden gusts of cold air came rushing down from the north-east, and set all the woods rustling, and brought a white sheet of spray across the lake, which rose up before it as if startled out of its sleep. But this night-breeze had passed away again, when the figure that stood on the bridge, shivered and shook convulsively for some seconds, and then fell forward into the water.
->
->It was a man’s shape; but not a living man: even in the faint starlight, you might have told that at once. There was something hanging about it, which made it look more like a corpse than anything else. It lay face downwards in the shadow of the bridge, and moved not when the boat touched it. A few strokes took us alongside. We drew our knives, and leaped on shore. I stooped over the body, and felt it heartily.
-
 #### [(V3) Second Person](https://files.catbox.moe/2erchz.module)
 
 [by eliminable](https://discord.com/channels/836774308772446268/870449646391156776/870675442791759872)
 
 *For anyone wanting AID-like 2nd person stories, this makes it way better at 2nd person. It's trained on some of the AID dataset so Count Grey might show up lol.*
-
-#### [Second Proseon](https://files.catbox.moe/lslr2i.module)
-
-[by Anon](https://arch.b4k.co/vg/thread/359507552/#359543509)
-
-*2nd person respect module for v4 with some other improvements. Still focused on respect, reluctance, blackmail, slavery, corruption with a focus on fantasy races and magic.*
-
-*Try biasing words related to hatred and resistance for extra fun.*
 
 #### [(V3) Sergals](https://files.catbox.moe/ybq80n.module)
 
@@ -2257,50 +2343,6 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 > **Just like any other sergal, I'm** not exactly proud of my past. In fact, it's something that every member of our clan has in common. However, when you hear the story behind why we're called the Silver Fang Clan, you can't help but find a bit of pride for us. It was the name given to us by one of our original members and founder after he fought off an entire horde of enemies with nothing more than his two swords — the only weapons he had on him at the time. And because of this, we became known as the Silver Fangs ever since then. We are no longer considered a small mercenary band and have risen up from strength to strength over these many years. Though there is always some who claim otherwise, that particular nickname will be carried forward forevermore! Not all clans and soldiers alike come into existence through war or fighting against another group. Some clans formed by merchants or traders who needed protection; others developed out of friendships between members of different villages. While most do join together because they share similar goals, motivations vary greatly amongst those seeking what seems to be the same thing: profit.
 >
 > Sergals tend to see their work within each individual village differently compared to how outsiders might perceive them. They may view themselves as protecting, defending, assisting, supporting... whatever words suit your fancy. What matters isn't the meaning, however, but rather its results. As long as the end result is favourable to everyone involved, even if there's been bloodshed along the way, it doesn't matter how they got there so long as everything eventually leads towards peace and prosperity for both parties.
-
-#### [Surrealistic Look Through The Glass](https://files.catbox.moe/pxmwlb.module)
-
-[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/909549236767563778)
-
-*This is a theme module for those that enjoy surrealistic, whimsical, and sometimes dark stories along the vein of Lewis Carrol's Alice's Adventure in Wonderland, or Neil Gaiman's Neverwhere.*
-
->**Morgan's brows furrowed, and he stared** at me for a long moment. "How do you know that?" he asked finally.
->
->"Because it was in the book," I said, pointing to my lap where The Wind in the Willows lay open on my knee. "I read it when I was little."
->
->"That book? It's not real."
->
->"Of course it is," I insisted. "It's all about a river and an otter who lives in it."
->
->"Otters don't live in rivers."
->
->"They do in this one."
->
->Morgan snorted. "I've never heard of such a thing. You're making up stories." He shook his head, frowning. "No one has ever seen an otter or a river in Faerie."
->
->"Yes they have," I said stubbornly. "The otter lived with the king's daughter in her garden. And there was a river—"
->
->"A stream," Morgan interrupted. "You can't call a trickle of water a river."
->
->I gave him a haughty look. "We can if we want to."
->
->He rolled his eyes. "Fine. A stream then."
->
->"There were fish in it," I continued. "And frogs. And ducks. And sometimes—sometimes it rained."
->
->Morgan looked like he wanted to argue, but instead he just sighed and ran a hand through his hair.
-
->**Once upon a time** there was a little girl who lived at the bottom of a well. She had never been out, and she didn't know how to get out. So every day, when her mother came down to fetch water from the pump in the yard above, she would climb up the rope ladder and sit on the edge of the bucket while her mother filled it. Then they would both go back up again. It was lonely living at the bottom of a well, but you have to remember that this was a long time ago, before people used buckets for everything.
->
->The little girl had a white dress with red spots all over it; and because she was so small, she could easily hide inside the bucket when her mother wasn't looking. The handle of the bucket was wooden, carved in the shape of an elephant's head.
->
->One day, as her mother went up to the pump, the little girl slipped out of the bucket and ran away. There were no grown-ups around, so she climbed onto the top of the well and sat there until her mother came home.
->
->"What are you doing up there?" asked her mother. "Come down at once!"
->
->But the little girl didn't want to come down, because it was such a nice place to be. So she said: "I'm too old to play games. I'll stay here till tomorrow."
->
->And she stayed there all night, even though it began to rain very hard. When her mother came into the kitchen next morning, she found the little girl lying under the table, fast asleep.
 
 #### [(V3) Sweet Time](https://files.catbox.moe/apztai.module)
 
@@ -2390,50 +2432,6 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *For the anon who gave me the data to train his Kafkaesque/Weird module, it's done. It got jammed in the queue, and I didn't realize it got fixed until a few hours afterwards. I trained it up to about 100.12%, so it should lean on that type of output regularly.*
 
-#### [Western Romance](https://files.catbox.moe/yz9coz.module)
-
-[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/908236941726728233)
-
-*Yee haw! This module focuses on the Western Romance genre, but is leavened out by ordinary Westerns. LGBT and People of Color perspectives were also added in. Have fun roundin' them all up!*
-
-*8.5mb, 9440 steps, 100% coverage, 2.57 loss*
-
->**She rode, and rode after the love of her life.** She had to find him. Had to make sure he was okay. But she could not stop thinking about what had happened between them that night. What it meant. And how much more there was for both of them.
->
->"I am a fool," she said aloud as she rode into town behind the stagecoach. "A stupid, blind fool."
->
->The day before yesterday she had been in San Francisco. She had thought only one thing then: to get away from Jake Morgan. Now she wanted nothing but to see him again. To tell him everything.
->
->And to feel his arms around her once more.
->
->Her hands were shaking when she reached the hotel where he worked as a clerk. The man who came out to greet her was dressed in a fine suit with a white shirt and bow tie. He looked like any other clerk, but something told her this man was no ordinary employee.
->
->He took one look at her face and his eyes widened. "Miss Gentry?"
->
->"Yes." She dismounted and handed the reins to the young boy who had brought up the coach. Then she walked toward him.
->
->His voice dropped low when he spoke. "I'm sorry I wasn't here yesterday. We got held up by some drunks on the road. They attacked us and we barely escaped with our lives."
->
->She nodded. "I know. My friend told me."
->
->He smiled. "You're lucky to have such good friends."
->
->She shook her head. "No. It's just that I knew you would be here today."
->
->"Well, Miss Gentry, it looks like you found me."
->
->"Did Mr. Morgan leave town?"
->
->He glanced down the street. "Not yet. I'll go fetch him for you. Do you want to wait inside or out front?"
->
->She turned to gaze at the hotel. Her room was upstairs. "Outside. Please."
->
->As he hurried off, she walked back to the porch. A few minutes later, Jake came out. His hair was still damp and hung loose around his shoulders. He wore a new pair of trousers and a clean white shirt, which was buttoned all the way up to his neck.
->
->"What is it, Annie? You look like you've seen a ghost."
->
->She took hold of his hand and led him to the bench beneath an oak tree. There they sat and stared at each other for long moments.
-
 #### [(V3) Wildlife](https://files.catbox.moe/16j6pd.module)
 
 [by lion](https://discord.com/channels/836774308772446268/870449646391156776/877026780626698260)
@@ -2461,6 +2459,50 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 ***
 
 ### [Sexual](#themes)
+
+#### [Exponent](https://files.catbox.moe/ah9be0.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/359694347/#359772994)
+
+*I made a module trained on stories I generated, it focuses on monster fucking, but works well for robots and other shit too.*
+
+- *It's kind of shit if the thing you're dicking is a human as it tends to call things "creature" or "monster", and can give them fur/scales randomly.*
+- *All material was first person, so it is extremely hard to break away from that, even forcing third person makes the story introduce you as a bystander.*
+- *Heavily focused on inner monologue stuff, and sense of touch/scale/hearing.*
+- *For some reason I feel it's both making the dialogue more coherent, and introducing random ass grammatical errors into the dialogue. Wasn't even much dialogue in the training set, so my writing must have tapped into something.*
+- *Makes the AI really degenerate too, a small breeze blowing on you (the protagonist) makes your dick spring to life, but takes a while to coom.*
+
+*Please enjoy.*
+
+#### [Futarotica](https://files.catbox.moe/f7x0wt.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/360272051/#360480403)
+
+*Still in the process of revamping my dataset, but here's the V4 retrain of Futarotica. This time to 100% coverage (15K steps)*
+
+*Trained on all 88 futa literotica stories.*
+
+#### [Gender Bender](https://files.catbox.moe/ghe5n6.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/359952842/#359977382)
+
+*Good evening, deviants. I have retrained my Gender Bender module for Sigurd v4. The data is pulled from TGstorytime.com primarily from sci fi and fantasy based male-to-female transformations, so cross dressing or realistic surgery won't be as well supported. Also plenty of sex because you why you're here.*
+
+#### [Interracial Cuckoldry](https://files.catbox.moe/jvuy25.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/359507552/#359635882)
+
+*Sigv4 interracial cuckolding module is finished*
+
+*pretty much what you would expect. mostly for first and third person, second person should work okay but didn't try it out*
+
+#### [Netorare](https://files.catbox.moe/e95exd.module)
+
+[by CobraPL](https://discord.com/channels/870618914323849228/870619535600922644/908610913991553055)
+
+*I used over 400 short NTR/cuck stories downloaded form Internet. I cleaned them both by some tools and by hand.*
+
+*10k steps used for ~11k data.*
 
 #### [(V3) /hmofa/](https://files.catbox.moe/usqtbw.module)
 
@@ -2623,20 +2665,6 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *It's vorefag stuff, but we did all sorts of fetish stuff from feet to inflation. It's unformatted so the first few outputs will have timestamps. but that goes away almost instantly once you purge some of it.*
 
-#### [Exponent](https://files.catbox.moe/ah9be0.module)
-
-[by Anon](https://arch.b4k.co/vg/thread/359694347/#359772994)
-
-*I made a module trained on stories I generated, it focuses on monster fucking, but works well for robots and other shit too.*
-
-- *It's kind of shit if the thing you're dicking is a human as it tends to call things "creature" or "monster", and can give them fur/scales randomly.*
-- *All material was first person, so it is extremely hard to break away from that, even forcing third person makes the story introduce you as a bystander.*
-- *Heavily focused on inner monologue stuff, and sense of touch/scale/hearing.*
-- *For some reason I feel it's both making the dialogue more coherent, and introducing random ass grammatical errors into the dialogue. Wasn't even much dialogue in the training set, so my writing must have tapped into something.*
-- *Makes the AI really degenerate too, a small breeze blowing on you (the protagonist) makes your dick spring to life, but takes a while to coom.*
-
-*Please enjoy.*
-
 #### [(V3) Fantasy Anthro](https://files.catbox.moe/d21f5o.module)
 
 [by Lykmn](https://discord.com/channels/854479693503660032/870494065446248458/878011610533339136)
@@ -2682,14 +2710,6 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 > I crawled between those soft thighs like some kind of moth drawn in by her alluring perfume. She grabbed hold of my wrists and pulled them up above my head, trapping me there while she pushed me down until my muzzle pressed firmly against her wet cuntlips.
 >
 > "Mmm..." The words escaped from her mouth as a moan. "So nice." Her fingers came together in an arch behind my shoulders, squeezing lightly at first before releasing again, forcing me even further towards her slick folds.
-
-#### [(V3) Futarotica](https://files.catbox.moe/x3lugm.module)
-
-[by Anon](https://arch.b4k.co/vg/thread/348276163/#348342634)
-
-*Because the last version was "overtrained" and didn't even encompass all 88 stories, here is the third version of Futarotica. Trained on all 88 stories (13MB) to 3600~ steps.*
-
-*Be interesting to see if this one is an improvement or not.*
 
 #### [(V3) Futrap](https://files.catbox.moe/m3ouwu.module)
 
@@ -2740,12 +2760,6 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 [by room](https://discord.com/channels/854479693503660032/870494065446248458/874239027140784168)
 
 *Hand-selected M/M monster and anthro fics from sites like Literotica, SoFurry, Furaffinity and AO3. Excludes any extreme fetishes like watersports and vore. 108 fics, 2.60mb, trained at 49.55% for 1506 steps.*
-
-#### [Gender Bender](https://files.catbox.moe/ghe5n6.module)
-
-[by Anon](https://arch.b4k.co/vg/thread/359952842/#359977382)
-
-*Good evening, deviants. I have retrained my Gender Bender module for Sigurd v4. The data is pulled from TGstorytime.com primarily from sci fi and fantasy based male-to-female transformations, so cross dressing or realistic surgery won't be as well supported. Also plenty of sex because you why you're here.*
 
 #### [(V3) Genroku Ero](https://files.catbox.moe/9c3mvf.module)
 
@@ -2827,14 +2841,6 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 *This collects about 40 full-length novels in the harem lit fantasy genre by authors such as Eric Vall, Logan Jacobs, Dante King, Michael Scott Earle, and many more, and trains them at about 45% at 10,000 steps. As far as I know, this is the biggest and most comprehensive such module for the harem fantasy genre.*
 
 *If you like Monster Girls and explicit harem dynamics in your high fantasy and urban fantasy novels, look no further.*
-
-#### [Interracial Cuckoldry](https://files.catbox.moe/jvuy25.module)
-
-[by Anon](https://arch.b4k.co/vg/thread/359507552/#359635882)
-
-*Sigv4 interracial cuckolding module is finished*
-
-*pretty much what you would expect. mostly for first and third person, second person should work okay but didn't try it out*
 
 #### [(V3) Lesbémon](https://files.catbox.moe/zcf0k2.zip)
 
@@ -2990,14 +2996,6 @@ Just in case you don't know, that means that this is a collection of modules tra
 - Voyeurism
 - (Unfaithful) Wives
 
-#### [Netorare](https://files.catbox.moe/e95exd.module)
-
-[by CobraPL](https://discord.com/channels/870618914323849228/870619535600922644/908610913991553055)
-
-*I used over 400 short NTR/cuck stories downloaded form Internet. I cleaned them both by some tools and by hand.*
-
-*10k steps used for ~11k data.*
-
 #### [(V3) NonConsent and Reluctance](https://files.catbox.moe/8cjwhg.module)
 
 !!! note Literotica Scrapes
@@ -3137,6 +3135,12 @@ Mostly male human x female pokemon, but there are a few in there that contain ma
 ***
 
 ### [Literature](#works)
+
+#### [Nineteen Eighty-Four](https://files.catbox.moe/2pb5tl.zip)
+
+[by Anon](https://arch.b4k.co/vg/thread/359155218/#359495805)
+
+Alright, I guess I just bit the bullet. Here's [four](#nineteen-eighty-four) [of](#george-orwell) [the](#rod-serling) [modules](#western) I made the training data for, trained with Sigurd V4. All four of these are already in the Rentry in their V3 forms, so those would just be updated. Now have names consistent with NAI module naming schemes and also have images coming with the module file. ZIP files contain the module, the training data, the image, and the base for the training data I formatted. So if at some point Sigurd V5 or 22 beaks or whatever the fuck comes out and I'm not there to retrain the modules, you'll have everything you need.
 
 #### [(V3) Animorphs](https://files.catbox.moe/uo24ou.module)
 
@@ -3509,12 +3513,6 @@ Text looked like this:
 >**Coyote** was a great medicine man. He could cure all diseases, and he knew how to make medicines from the roots of many plants. One day when Coyote went hunting in his favorite place on top of Mount Taylor, he found an eagle's nest with four eggs. The mother bird had just laid them, but they were so big that she couldn't carry them away. So Coyote took pity on her and carried one egg home for himself. When it hatched out, it became a beautiful boy who looked exactly like Coyote except that he had wings instead of arms or legs. His name was Eagle Boy.
 >
 >Eagle Boy grew up fast and learned everything there was about healing people and curing their illnesses. But because he wasn't human, no one would listen to him. People thought he was crazy, and nobody believed anything he said. Finally Eagle Boy decided to leave this world altogether and become a spirit. So he flew off into the sky until he came to another country where he met a wise old woman named White Buffalo Woman. She told Eagle Boy to go back down below ground and find some good
-
-#### [Nineteen Eighty-Four](https://files.catbox.moe/2pb5tl.zip)
-
-[by Anon](https://arch.b4k.co/vg/thread/359155218/#359495805)
-
-Alright, I guess I just bit the bullet. Here's [four](#nineteen-eighty-four) [of](#george-orwell) [the](#rod-serling) [modules](#western) I made the training data for, trained with Sigurd V4. All four of these are already in the Rentry in their V3 forms, so those would just be updated. Now have names consistent with NAI module naming schemes and also have images coming with the module file. ZIP files contain the module, the training data, the image, and the base for the training data I formatted. So if at some point Sigurd V5 or 22 beaks or whatever the fuck comes out and I'm not there to retrain the modules, you'll have everything you need.
 
 #### [(V3) Neuromancer](https://files.catbox.moe/ybbjl8.module)
 
@@ -3986,6 +3984,16 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 
 ### [Web Fiction](#works)
 
+#### [Pack Street](https://files.catbox.moe/xmo4sr.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/359694347/#359707706)
+
+*Pack Street Sigurdv4 trained at 125%*
+
+>\>*I fixed up my formatting for my Pack Street Module trained on just Weaver's Zootopia stories. It mostly outputs stuff like adjusting to life in the slums of Zootopia. Which is what Pack Street is mostly about.*
+
+*As always for those that are interested, tell me how good or how shit they are.*
+
 #### [(V3) Code Lyoko](https://files.catbox.moe/8bzmiq.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/349576360/#349675614)
@@ -4053,16 +4061,6 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 > JAKE: Yeah. It's really bad. And you're not gonna believe how bad it is.
 >
 > AMIR: Okay, but before we get into that... How do you feel about sex with your sister?
-
-#### [Pack Street](https://files.catbox.moe/xmo4sr.module)
-
-[by Anon](https://arch.b4k.co/vg/thread/359694347/#359707706)
-
-*Pack Street Sigurdv4 trained at 125%*
-
->\>*I fixed up my formatting for my Pack Street Module trained on just Weaver's Zootopia stories. It mostly outputs stuff like adjusting to life in the slums of Zootopia. Which is what Pack Street is mostly about.*
-
-*As always for those that are interested, tell me how good or how shit they are.*
 
 #### [(V3) Pinwheel](https://files.catbox.moe/9q14g9.module)
 
@@ -4141,6 +4139,14 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 
 ## [Utilities](#modules)
 {: .center}
+
+### [Stand Up Routines](https://files.catbox.moe/2gt8t1.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/359507552/#359655371)
+
+*It's amateur hour at the /aids/ comedy club. and Sigurd is ready to do some stand-up. Although, he might struggle to actually form any kind of jokes.*
+
+*Anyway, this stand-up routine module was trained at 35% on stand-up routine from many famous stand-ups (And some amateur thrown in as well.). With the goal of making Sigurd produce a stand-up routine that might give you one giggle before you realize that AIs are not any good at writing jokes.*
 
 ### [(V3) Advertisements](https://files.catbox.moe/ve8atp.module)
 
@@ -4305,14 +4311,6 @@ Use Example:
 - *The Dunwich Horror by HP Lovecraft*
 - *The Mysterious Affair at Styles by Agatha Christie*
 - *Oliver Twist by Charles Dickens*
-
-### [Stand Up Routines](https://files.catbox.moe/2gt8t1.module)
-
-[by Anon](https://arch.b4k.co/vg/thread/359507552/#359655371)
-
-*It's amateur hour at the /aids/ comedy club. and Sigurd is ready to do some stand-up. Although, he might struggle to actually form any kind of jokes.*
-
-*Anyway, this stand-up routine module was trained at 35% on stand-up routine from many famous stand-ups (And some amateur thrown in as well.). With the goal of making Sigurd produce a stand-up routine that might give you one giggle before you realize that AIs are not any good at writing jokes.*
 
 ### [(V3) World Generator](https://files.catbox.moe/zswaxs.module)
 
