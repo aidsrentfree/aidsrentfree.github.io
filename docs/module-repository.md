@@ -2480,9 +2480,9 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 #### [Beings](#sexual)
 
-##### [Dragon Smut](https://files.catbox.moe/8ytx5e.module)
+##### [Dragon Smut](https://files.catbox.moe/6yn00s.module)
 
-[by Anon](https://arch.b4k.co/vg/thread/360490436/#360584447)
+[by Anon](https://arch.b4k.co/vg/thread/360490436/#360591314)
 
 *It's just dragon smut, nothing too extreme.*
 
@@ -2514,9 +2514,9 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 #### [Circumstances](#sexual)
 
-##### [Embarrassed Naked Furry](https://files.catbox.moe/6t29eg.module)
+##### [Embarrassed Naked Furry](https://files.catbox.moe/83wce4.module)
 
-[by Anon](https://arch.b4k.co/vg/thread/360490436/#360584447)
+[by Anon](https://arch.b4k.co/vg/thread/360490436/#360591314)
 
 *Contains Bondage and Dominance, NonConsent*
 
@@ -2528,11 +2528,11 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *Good evening, deviants. I have retrained my Gender Bender module for Sigurd v4. The data is pulled from TGstorytime.com primarily from sci fi and fantasy based male-to-female transformations, so cross dressing or realistic surgery won't be as well supported. Also plenty of sex because you why you're here.*
 
-##### [Scalyuri](https://files.catbox.moe/ok2c4s.module)
+##### [Scalyuri](https://files.catbox.moe/nchcow.module)
 
-[by Anon](https://arch.b4k.co/vg/thread/360490436/#360584447)
+[by Anon](https://arch.b4k.co/vg/thread/360490436/#360591314)
 
->*\>Trained for [3000 steps] on 160kb so it'll probably have weird quirks. If anyone else is going to use this I can still take ideas for writing more data for it.*
+>*\>Trained for [3000 steps] on [200kb] so it'll probably have weird quirks. If anyone else is going to use this I can still take ideas for writing more data for it.*
 
 >*\>Wrote another story so I could use the last of my steps training an updated version of my scaly yuri module:*
 
