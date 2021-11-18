@@ -206,7 +206,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Zombies](#v3-zombies)
   - [Sexual](#sexual)
     - [Beings](#beings)
-    - [Dragon Smut](#dragon-smut)
+      - [Dragon Smut](#dragon-smut)
       - [Futarotica](#futarotica)
     - [Acts](#acts)
       - [Interracial Cuckoldry](#interracial-cuckoldry)
@@ -2480,7 +2480,7 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 #### [Beings](#sexual)
 
-#### [Dragon Smut](https://files.catbox.moe/8ytx5e.module)
+##### [Dragon Smut](https://files.catbox.moe/8ytx5e.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/360490436/#360584447)
 
