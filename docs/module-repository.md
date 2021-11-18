@@ -35,6 +35,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Updated [Furry ENF](#embarrassed-naked-furry) module with V4 successor.
 - Updated [Dragon Smut](#dragon-smut) module with V4 successor.
 - Updated [Scaly Yuri](#scalyuri) module with V4 successor.
+- Updated [The King James Bible](#the-king-james-bible) module with V4 successor.
 
 (17th November, 2021)
 
@@ -304,7 +305,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Harry Potter](#v3-harry-potter)
     - [(V3) Hitchiker's Guide to the Galaxy](#v3-hitchikers-guide-to-the-galaxy)
     - [(V3) Horus Heresy Selection One](#v3-horus-heresy-selection-one)
-    - [(V3) The King James Bible](#v3-the-king-james-bible)
     - [(V3) The Kushiel Saga](#v3-the-kushiel-saga)
     - [(V3) Malazan Book of the Fallen](#v3-malazan-book-of-the-fallen)
     - [(V3) Mistborn Trilogy](#v3-mistborn-trilogy)
@@ -324,6 +324,8 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Wheel of Time](#v3-wheel-of-time)
     - [(V3) The Witcher](#v3-the-witcher)
   - [Non-Fiction](#non-fiction)
+    - [Religious](#religious)
+      - [The King James Bible](#the-king-james-bible)
     - [(V3) Art of War](#v3-art-of-war)
   - [Visual Novel](#visual-novel)
     - [(V3) Fate/stay ataraxia](#v3-fatestay-ataraxia)
@@ -3469,17 +3471,6 @@ A.K.A Green's Eagle Vision
 
 *A few can arguably be moved out and replaced with other novels, but most are certified to be the finest writing the series has to offer.*
 
-#### [(V3) The King James Bible](https://files.catbox.moe/98k64l.module)
-
-[by The McD](https://discord.com/channels/836774308772446268/870449646391156776/871020363167989830)
-
-*Trained on the King James Bible. Formatting intact!*
-
-Text looked like this:
->GENESIS
->1:1: In the beginning God created the heaven and the earth.
->1:2: And the earth was without form, and void;
-
 #### [(V3) The Kushiel Saga](https://files.catbox.moe/0h1xtb.module)
 
 [by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/871234309439250482)
@@ -3721,6 +3712,20 @@ Text looked like this:
 ***
 
 ### [Non-Fiction](#works)
+
+#### [Religious](#non-fiction)
+
+##### [The King James Bible](https://files.catbox.moe/3x1gj7.zip)
+
+[by The McD](https://arch.b4k.co/vg/thread/360490436/#360591931)
+
+*Alright, I think this is the last module of mine to be updated for V4: Inspiration - The King James Bible.*
+
+![](https://files.catbox.moe/4c690n.png)
+
+*Formatting is intact for this, as shown in the image. Prompt to try out with this: https://prompts.aidg.club/575*
+
+*You will have to edit it a bit to fully conform with the format, though.*
 
 #### [(V3) Art of War](https://files.catbox.moe/0f2qlw.module)
 
