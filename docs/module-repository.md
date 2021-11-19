@@ -167,12 +167,12 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Male Prison](#male-prison)
       - [Wildlife](#wildlife)
     - [Abstract](#abstract)
+      - [Gay](#gay)
     - [Style](#style)
       - [Bad Writing](#bad-writing)
       - [The Manwhore Module](#the-manwhore-module)
       - [Purely Purple Prose](#purely-purple-prose)
       - [Surrealistic Look Through The Glass](#surrealistic-look-through-the-glass)
-    - [Gay](#gay)
     - [(V3) Androids, Artificial Intelligence, and Robots](#v3-androids-artificial-intelligence-and-robots)
     - [(V3) Angels and Demons](#v3-angels-and-demons)
     - [(V3) Catgirls](#v3-catgirls)
@@ -1890,6 +1890,44 @@ A.K.A "Toby Fox Module"
 
 #### [Abstract](#elements)
 
+##### [Gay](https://files.catbox.moe/v52asc.module)
+
+[by HARVEYDENT](https://discord.com/channels/836774308772446268/870449646391156776/909058444374466601)
+
+*Romance your bro, discover your masculinity, find love in the big city or a small, sleepy town as Sigurd embraces gay romance and is tempered towards a variety of scenarios in the realm of M/M. Refined, polished and ready for Sigurd V4.*
+
+*~8Mb,  10,000 steps, 103% coverage, 2.7802 loss*
+
+>**The pitter patter of rain** on the roof. The smell of damp and mold. The sound of distant thunder.
+>
+>"I don't want to do this anymore," Tate said, his voice soft. "I just... I'm tired."
+>
+>Tate's head was bowed as he sat in a chair across from Nico. His long hair hung over his face, obscuring it completely. It had been two days since they'd last seen each other. He hadn't wanted to come here at all. But Nico had insisted. They needed to talk.
+>
+>Nico felt bad for him. That wasn't like Tate. He never backed down from anything or anyone.
+>
+>"You're scared," Nico said.
+>
+>A faint smile tugged at Tate's lips. "Maybe."
+
+>**Your fingertips drum the surface of the wooden** table. You lift your eyes to look at him and he looks back, his lips parted slightly in surprise. Your heart is beating so fast you can feel it against your chest. He swallows hard before saying anything. "I've never been here before." His voice is low and smooth. It's like velvet wrapped around a razor blade.
+>
+>"This place?" You ask.
+>
+>He nods.
+>
+>"What do I need to know?" You say, trying not to sound nervous.
+>
+>He tilts his head slightly and gives you a small smile. "Everything."
+>
+>You swallow thickly. "Right..." You take another sip from your glass. "Well, we're sitting down here, but then what happens?"
+>
+>His dark brows pull together for a moment before relaxing again. "We eat dinner," he says simply. "Then we talk."
+>
+>You nod slowly. "And after that?"
+>
+>He shrugs.
+
 #### [Style](#elements)
 
 ##### [Bad Writing](https://files.catbox.moe/uivlq6.module)
@@ -1969,44 +2007,6 @@ A.K.A "Toby Fox Module"
 >But the little girl didn't want to come down, because it was such a nice place to be. So she said: "I'm too old to play games. I'll stay here till tomorrow."
 >
 >And she stayed there all night, even though it began to rain very hard. When her mother came into the kitchen next morning, she found the little girl lying under the table, fast asleep.
-
-#### [Gay](https://files.catbox.moe/v52asc.module)
-
-[by HARVEYDENT](https://discord.com/channels/836774308772446268/870449646391156776/909058444374466601)
-
-*Romance your bro, discover your masculinity, find love in the big city or a small, sleepy town as Sigurd embraces gay romance and is tempered towards a variety of scenarios in the realm of M/M. Refined, polished and ready for Sigurd V4.*
-
-*~8Mb,  10,000 steps, 103% coverage, 2.7802 loss*
-
->**The pitter patter of rain** on the roof. The smell of damp and mold. The sound of distant thunder.
->
->"I don't want to do this anymore," Tate said, his voice soft. "I just... I'm tired."
->
->Tate's head was bowed as he sat in a chair across from Nico. His long hair hung over his face, obscuring it completely. It had been two days since they'd last seen each other. He hadn't wanted to come here at all. But Nico had insisted. They needed to talk.
->
->Nico felt bad for him. That wasn't like Tate. He never backed down from anything or anyone.
->
->"You're scared," Nico said.
->
->A faint smile tugged at Tate's lips. "Maybe."
-
->**Your fingertips drum the surface of the wooden** table. You lift your eyes to look at him and he looks back, his lips parted slightly in surprise. Your heart is beating so fast you can feel it against your chest. He swallows hard before saying anything. "I've never been here before." His voice is low and smooth. It's like velvet wrapped around a razor blade.
->
->"This place?" You ask.
->
->He nods.
->
->"What do I need to know?" You say, trying not to sound nervous.
->
->He tilts his head slightly and gives you a small smile. "Everything."
->
->You swallow thickly. "Right..." You take another sip from your glass. "Well, we're sitting down here, but then what happens?"
->
->His dark brows pull together for a moment before relaxing again. "We eat dinner," he says simply. "Then we talk."
->
->You nod slowly. "And after that?"
->
->He shrugs.
 
 #### [(V3) Androids, Artificial Intelligence, and Robots](https://files.catbox.moe/fjk5vk.module)
 
