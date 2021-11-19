@@ -109,7 +109,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
   - [Setting](#setting)
     - [Established](#established)
       - [Beastars](#beastars)
-    - [The Elder Scrolls](#the-elder-scrolls)
+      - [The Elder Scrolls](#the-elder-scrolls)
       - [Final Fantasy XVI](#final-fantasy-xvi)
       - [Mad Max](#mad-max)
       - [Touhou Project](#touhou-project)
@@ -655,7 +655,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 >\>*It's only been trained off of the best rated stories off of AO3, about fifty or so stories which adds up to 7.43 MB of data. Trained to 34%, exactly 3000 steps.*
 
-#### [The Elder Scrolls](https://files.catbox.moe/j8ceta.module)
+##### [The Elder Scrolls](https://files.catbox.moe/j8ceta.module)
 
 [by ScalyWanderer](https://discord.com/channels/836774308772446268/870449646391156776/911370661107204166)
 
