@@ -165,7 +165,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
   - [Elements](#elements)
     - [Concrete](#concrete)
       - [Male Prison](#male-prison)
-    - [Wildlife](#wildlife)
+      - [Wildlife](#wildlife)
     - [Abstract](#abstract)
     - [Style](#style)
       - [Bad Writing](#bad-writing)
@@ -1873,7 +1873,7 @@ A.K.A "Toby Fox Module"
 
 *As always for those that are interested, tell me how good or how shit they are.*
 
-#### [Wildlife](https://files.catbox.moe/lzymrx.module)
+##### [Wildlife](https://files.catbox.moe/lzymrx.module)
 
 [by lion](https://arch.b4k.co/vg/thread/360670534/#360787508)
 
