@@ -30,6 +30,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 - Added [Annotated Writing](#annotated-writing) utility module, a follow up to both [Director's View](#v3-director-view) and [Sentiments and Summaries](#v3-sentiments-and-summaries).
 - Updated [The Elder Scrolls In Game Texts](#the-elder-scrolls) module with V4 successor.
+- Updated [Wildlife](#wildlife) module with V4 successor.
 
 (18th November, 2021)
 
@@ -164,6 +165,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
   - [Elements](#elements)
     - [Concrete](#concrete)
       - [Male Prison](#male-prison)
+    - [Wildlife](#wildlife)
     - [Abstract](#abstract)
     - [Style](#style)
       - [Bad Writing](#bad-writing)
@@ -198,7 +200,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Trump Tweets](#v3-trump-tweets)
     - [(V3) Twilight 2000 (Encounters)](#v3-twilight-2000-encounters)
     - [(V3) Weird](#v3-weird)
-    - [(V3) Wildlife](#v3-wildlife)
     - [(V3) Zombies](#v3-zombies)
   - [Sexual](#sexual)
     - [Beings](#beings)
@@ -1872,6 +1873,21 @@ A.K.A "Toby Fox Module"
 
 *As always for those that are interested, tell me how good or how shit they are.*
 
+#### [Wildlife](https://files.catbox.moe/lzymrx.module)
+
+[by lion](https://arch.b4k.co/vg/thread/360670534/#360787508)
+
+*Trained on Nonfiction Nature books that emphasize description and focus on the biology, history, and habits of animals and creatures, this module aims to breathe life into your story's wilds.*
+
+- ***Last Chance to See** - Douglas Adams, Mark Carwardine*
+- ***The Animal Dialogues: Uncommon Encounters in the Wild** - Craig Childs*
+- ***The Truth About Animals: Stoned Sloths, Lovelorn Hippos, and Other Tales from the Wild Side of Wildlife** - Lucy Cooke*
+- ***The Zoologist's Guide to the Galaxy** - Arik Kershenbaum*
+- ***The Soul of an Octopus** - Sy Montgomery*
+- ***Owls of the Eastern Ice** - Jonathan C. Slaght*
+
+![I shit you not that was the first thing it generated, no fuckery here.](https://files.catbox.moe/p6uonr.png)
+
 #### [Abstract](#elements)
 
 #### [Style](#elements)
@@ -2451,14 +2467,6 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 [by Anon](https://arch.b4k.co/vg/thread/345615202/#345621865)
 
 *For the anon who gave me the data to train his Kafkaesque/Weird module, it's done. It got jammed in the queue, and I didn't realize it got fixed until a few hours afterwards. I trained it up to about 100.12%, so it should lean on that type of output regularly.*
-
-#### [(V3) Wildlife](https://files.catbox.moe/16j6pd.module)
-
-[by lion](https://discord.com/channels/836774308772446268/870449646391156776/877026780626698260)
-
-*Trained on Nonfiction Nature books that emphasize description and focus on the biology, history, and habits of animals and creatures, this module aims to breathe life into your story's wilds.*
-
->The story of the red-crowned crane is a classic example of how one species can have an impact on another. The first record of this bird's existence in North America was by early explorers, who saw it as they sailed up and down what we now know to be the Mississippi River. They described its coloration—red crown, black back, white underparts with dark spots—and noted that their descriptions were very similar to those written about Asian cranes. These observations led scientists to believe that these birds had been brought over from Asia during the 1600s when Europeans started exploring the continent.
 
 #### [(V3) Zombies](https://files.catbox.moe/lbbrdx.module)
 
