@@ -26,6 +26,11 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(19th November, 2021)
+
+- Added [Annotated Writing](#annotated-writing) utility module, a follow up to both [Director's View](#v3-director-view) and [Sentiments and Summaries](#v3-sentiments-and-summaries).
+- Updated [The Elder Scrolls In Game Texts](#the-elder-scrolls) module with V4 successor.
+
 (18th November, 2021)
 
 - Updated [Final Fantasy XVI](#final-fantasy-xvi) module with V4 successor.
@@ -69,16 +74,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Added [Bad Writing](#bad-writing) module.
 - Replaced the previous Gay Romance modules with this [new V4 one](#gay).
 
-(12th November, 2021)
-
-- Updated [Exponent](#exponent) module with V4 sucessor.
-- Updated [Netorare](#netorare) module with V4 successor.
-- Added [Kinky Friedman](#richard-samet-kinky-friedman) module.
-- Updated [Purely Purple Prose](#purely-purple-prose) module with V4 successor.
-- Updated [Male Prisons](#male-prison) module with V4 successor.
-- Updated [Beastars](#beastars) module with V4 successor.
-- Updated [Pack Street](#pack-street) module with V4 successor.
-
 ***
 
 ## [Table of Contents](#modules)
@@ -114,6 +109,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
   - [Setting](#setting)
     - [Established](#established)
       - [Beastars](#beastars)
+    - [The Elder Scrolls](#the-elder-scrolls)
       - [Final Fantasy XVI](#final-fantasy-xvi)
       - [Mad Max](#mad-max)
       - [Touhou Project](#touhou-project)
@@ -183,7 +179,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Cross-Genre](#v3-cross-genre)
     - [(V3) Cross-Genre: Romance](#v3-cross-genre-romance)
     - [(V3) Duke Nukem](#v3-duke-nukem)
-    - [(V3) The Elder Scrolls In-Game Texts](#v3-the-elder-scrolls-in-game-texts)
     - [(V3) Forbidden Lands (Encounters)](#v3-forbidden-lands-encounters)
     - [(V3) Green's Among the Stars](#v3-greens-among-the-stars)
     - [(V3) Green's RPG](#v3-greens-rpg)
@@ -364,6 +359,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Welcome to Night Vale](#v3-welcome-to-night-vale)
     - [(V3) Worm](#v3-worm)
 - [Utilities](#utilities)
+  - [Annotated Writing](#annotated-writing)
   - [Stand Up Routines](#stand-up-routines)
   - [(V3) Advertisements](#v3-advertisements)
   - [(V3) The Club](#v3-the-club)
@@ -658,6 +654,28 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 *Beastars Sigurdv4 trained at 34%*
 
 >\>*It's only been trained off of the best rated stories off of AO3, about fifty or so stories which adds up to 7.43 MB of data. Trained to 34%, exactly 3000 steps.*
+
+#### [The Elder Scrolls](https://files.catbox.moe/j8ceta.module)
+
+[by ScalyWanderer](https://discord.com/channels/836774308772446268/870449646391156776/911370661107204166)
+
+*The module is trained on The Elder Scrolls 2-5 & TESO in-game texts (books, notes, etc.) + the official novels by Greg Keyes. 7.04 Mb, 2500 steps, 30.8% coverage, Loss: 2.686.*
+
+*The Infernal City and Lord of Souls by Greg Keyes + in-game books & notes from TES II: Daggerfall, TES III: Morrowind, TES IV: Oblivion, TES V: Skyrim and TES Online.*
+
+>**Come Nerevar, friend or traitor, come. Come and**see what I have found in the deepest vault of Black Marsh. It is a secret so great that even the Empire will not know it exists...
+>
+>The Night Mother’s Grimoire!
+>
+>This grimoire was discovered by a curious Khajiit named Rijja while digging through the ruins of an ancient ruin near Lion's Arch. She claimed to have stumbled upon it while searching for some missing scrolls. The book itself has been well preserved, though its pages are covered in strange writing. Rijja claims she could not understand a word of it, but it seems as if someone else may have had the same problem.
+
+>**"Have you seen those warriors from Hammerfell?" the Argonian whispered, "They have curved**swords and armor made of leather."
+>
+>The Nord shook his head. "No one has seen them in weeks," he said. "I heard they were marching to join up with the Empire at last."
+>
+>"That's what I heard too," the Argonian replied. He took a long pull on his ale skin and wiped his mouth with the back of his hand. "It's not right," he continued. "The Emperor should be meeting us in battle, not sending these cowards to fight our battles for him!"
+>
+>The Nord laughed loudly. "You're drunk again! You'll get your head chopped off if you keep that up!"
 
 ##### [Final Fantasy XVI](https://files.catbox.moe/kdr171.module)
 
@@ -2134,24 +2152,6 @@ A.K.A "Toby Fox Module"
 *Of course, you do!*
 
 *That is why I'm happy to present the 'Duke Nukem's Quote' module! Now you too can have your AI punch up its dialogue with quotes that sound like they came from Duke Nukem! Train on quotes from various Duke Nukem games! So instead of chewing some ass, try this module, today!*
-
-#### [(V3) The Elder Scrolls In-Game Texts](https://files.catbox.moe/6vvi4q.module)
-
-[by ScalyWanderer](https://discord.com/channels/836774308772446268/870449646391156776/883144310575480892)
-
-*The module is trained on The Elder Scrolls 2-5 & TESO in-game texts (books, notes, etc.) + the official novels by Greg Keyes.*
-
-> \*\*\*
->
-> **"Why walk when you can ride?" the Dunmer smiles**. "It’s more fun, and I know how to do it properly."
->
-> The Khajiit says nothing for a moment; she is not accustomed to being told what to do by others. Then her eyes flash with anger as she speaks in an icy tone: “I am no slave! And if your kind are so good at riding horses, then why don't you come down here from that wagon of yours? Why don't we see who rides whom? If you think you're going to get away with this... well ... let me tell you something about us Khajiiti. We have sharp claws, yes — but also sharper teeth. You won’t live long enough to regret crossing my path.”
->
-> Her words send chills up the Dark Elf’s spine. He turns pale and drops his hand back onto the reins. The caravan stops moving again.
->
-> A few moments later, he looks over at the Khajiit once more. She has climbed back into the wagon, leaving him alone on top of the carriage. Her tail flops angrily against one side of the vehicle, while her ears twitch nervously. It appears she is trying to decide whether or not to jump off right now.
->
-> He smiles inwardly. Perhaps there will be another chance to test himself against this female. After all, the Khajiits were known throughout Tamriel as fierce warriors - perhaps they would prove useful allies after all.
 
 #### [(V3) Forbidden Lands (Encounters)](https://files.catbox.moe/ltj7zh.module)
 
@@ -4233,6 +4233,35 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 
 ## [Utilities](#modules)
 {: .center}
+
+### [Annotated Writing](https://files.catbox.moe/rxvq1j.module)
+
+[by Magenta.Darkstar](https://discord.com/channels/836774308772446268/870449646391156776/911277636179873893)
+
+*A follow up from Director's View and Sentiments&Summaries, this is a module for directing the story with annotations. Aligns well with [lion's Pocket Notes](https://rentry.co/biases#pocket-notes), supporting Describe, Do, Dialogue, Setup, Start1, Start3, and Plot.*
+
+    [ Genre: Space Opera. ]
+    [ Plot: adventure, romance. ]
+    In the year 2057, a new star is discovered in the constellation of Orion. A small group of scientists and politicians are sent to investigate it. They find an alien spacecraft that has crashed into the Earth's atmosphere. The aliens have been living on our planet for centuries, but they are now dying out due to their own biology...
+
+    ***
+    [ Start1: Willow, human, female. ]
+    Willow was born on a farm near the village of Greenfield. She was raised by her father, mother, and brother. Her parents worked hard to provide food and shelter for their family. They did not want to burden their children with debt or worry.
+
+    [ Describe: me. ]
+    I am Willow. I am a slave.
+    My name is Willow. My life is worth nothing.
+    When I was a child, my father told me stories about the world.
+
+    [ Do: I look for a way to escape. ]
+    One night, when the moon was full, the guards brought me to the auction block.
+
+    [ Dialogue: The queen tells me, "You're pretty, for a human." ]
+    Every day, the servants brought me a meal. Sometimes they served me food that I'd never tasted before.
+
+    ***
+    [ Setup: A cool winds blows over an icy vale. ]
+    In the middle of winter, a traveler was walking through a snowy valley. He was a tall man, dressed in furs. His face was covered by a black hood. He carried a staff in his left hand, and a large pack on his back.
 
 ### [Stand Up Routines](https://files.catbox.moe/2gt8t1.module)
 
