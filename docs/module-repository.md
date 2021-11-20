@@ -26,6 +26,10 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(20th November, 2021)
+
+- Updated [World of Pokemon](#world-of-pokémon) module with V4 successor.
+
 (19th November, 2021)
 
 - Added [Annotated Writing](#annotated-writing) utility module, a follow up to both [Director's View](#v3-director-view) and [Sentiments and Summaries](#v3-sentiments-and-summaries).
@@ -112,6 +116,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Beastars](#beastars)
       - [The Elder Scrolls](#the-elder-scrolls)
       - [Final Fantasy XVI](#final-fantasy-xvi)
+    - [World of Pokémon](#world-of-pokémon)
       - [Mad Max](#mad-max)
       - [Touhou Project](#touhou-project)
       - [World of Kouros](#world-of-kouros)
@@ -160,7 +165,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Underune](#v3-underune)
     - [(V3) Vampire: The Masquerade](#v3-vampire-the-masquerade)
     - [(V3) West into the Weird](#v3-west-into-the-weird)
-    - [(V3) World of Pokémon](#v3-world-of-pokémon)
     - [(V3) Zombie Apocalypse](#v3-zombie-apocalypse)
   - [Elements](#elements)
     - [Concrete](#concrete)
@@ -703,6 +707,52 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 >Aliapoh didn't need any further encouragement to hurry along after the other two keepers who had gone ahead earlier in the day. They were all old men—the youngest was nearly seventy years old himself! And yet their bodies still moved like boys half their age with energy enough to rival a hatchling dragonet. It made no sense.
 >
 >It wasn't long until they arrived at the market square near the docks, where countless stalls stood selling everything under the sun: fruits and vegetables, meat and breads.
+
+#### [World of Pokémon](https://files.catbox.moe/ffc4y9.module)
+
+[by lion](https://arch.b4k.co/vg/thread/360670534/#360830524)
+
+*As with v1, this module is trained on similar adventure series, literary RPGs, nature books, and other resources that have been 'Pokémonized' to match the names, abilities, rules, and other aspects of the Pokémon universe.*
+
+*Version 2 is better cleaned and pruned with a focus on quality over quantity.*
+
+*I removed the Jim Butcher (Furies of Calderon) books and the Lucy Cooke one as they were too stylistically different even with the changes to names and terms. I also further cleaned up the Djinn Tamer series and some others and tried to better balance out the usage of Pokémon content. The dataset is otherwise the same.*
+
+*As a result, battles (especially tournaments) are a lot more common, as is Pokémon being associated with Pokéballs. I think this version is a lot stronger, and while I'll continue to look for ways to improve upon it, I feel a lot more confident with this than I did with v1. Let me know what you think!*
+
+> It's a little over an hour before the tournament is set to begin. The gym has been cleaned and organized, with tables in place for all of the trainers and a podium ready for any announcements. I'm standing at the front of the room next to Professor Pepper, who's dressed in her usual black lab coat. She looks exhausted, but happy that she got through another day. Her eyes are heavy, like they've seen far too much over the past few days.
+>
+> I glance around the room as people start trickling in. There are maybe thirty or so trainers here today, which isn't surprising considering how many were in the last group. A lot of them have Pokémon that are clearly stronger than mine. Some even have two or three of them! My confidence wavers slightly.
+>
+> "All right everyone," Professor Pepper says from behind me. "We're going to get started in just a moment."
+
+> After a few minutes of training, Vic left to get ready for her match. "I'm going to go shower and change," she said, getting up from her chair. She was about to walk out the door when Emmit stopped her.
+>
+> "You don't have to do that," he said, pointing at Vic's Poke-balls. "They're not like your Pokémon — they'll be fine."
+>
+> "It doesn't matter," she said. "I've been living with these creatures since I was four years old. They're my life."
+>
+> Vic walked over to the table where the Poke-balls were lined up next to each other. One of them was different from the others: it was a green ball with black lines around it. Vic picked it up and tossed it into her bag.
+>
+> "I'm bringing Banette with me anyway," she said, walking back towards the door. "She's my partner. She can take care of me if anything happens."
+>
+> Emmit nodded as Vic walked out of his room.
+
+> **Wandering through the tall grass,** I saw a group of three Pokémon standing around something in the middle. A small human boy stood beside them, holding out his hand as he pointed to one of the Pokémon. It was an Onix that looked like it had been digging up dirt and throwing rocks for fun. The other two were a pair of Pidgey, flapping their wings and squawking at each other.
+>
+> "Hello," I said as I approached them. "Do you mind if I take a look?"
+
+> **I hear a screech and suddenly a group of** four Hariyama are charging at me. I leap to the side, dodging their claws as they try to get around my left flank. I'm not sure what I can do against them with my own Pokémon but I don't have time to think about it now. They're fast, but not nearly as quick as my Arcanine. As one of the Hariyama gets close enough to attack, I order Arcanine to use its Quick Attack on him while I throw a Fire Stone in his direction. The Hariyama lets out an angry roar and leaps away from me.
+>
+>"That's two down!" I shout as I check my map for more enemies. "Let's keep going."
+>
+> We continue through the jungle until we reach another clearing where there is a small stream running across our path. There's a bridge that leads over the water and beyond it, I see the faint outline of a building surrounded by trees. It looks like a temple or something similar, but I can't be sure because the light is too dim to make anything out clearly.
+>
+> "Should we rest here?" I ask Treyni.
+>
+> She shakes her head. "No, we need to find the way inside before nightfall."
+
+*Note: These examples were done on an otherwise new vanilla scenario (default settings, no bias, lorebooks, or anything) however I do recommend using [Loki's Pokédex phrase bias](https://rentry.co/biases#pokedex) or an otherwise similar bias to help reinforce Pokémon appearance, etc.*
 
 
 ##### [Mad Max](https://files.catbox.moe/cd6rvq.module)
@@ -1799,51 +1849,7 @@ A.K.A "Toby Fox Module"
 >
 > He stopped in his tracks, feeling a chill run up his spine. He'd heard stories about this place, of course. Stories about how it was a lawless city, a haven for outlaws and murderers and other criminals.
 
-#### [(V3) World of Pokémon](https://files.catbox.moe/wc23lm.module)
 
-[by lion](https://discord.com/channels/836774308772446268/870449646391156776/896327531790217217)
-
-*As with v1, this module is trained on similar adventure series, literary RPGs, nature books, and other resources that have been 'Pokémonized' to match the names, abilities, rules, and other aspects of the Pokémon universe.*
-
-*Version 2 is better cleaned and pruned with a focus on quality over quantity.*
-
-*I removed the Jim Butcher (Furies of Calderon) books and the Lucy Cooke one as they were too stylistically different even with the changes to names and terms. I also further cleaned up the Djinn Tamer series and some others and tried to better balance out the usage of Pokémon content. The dataset is otherwise the same.*
-
-*As a result, battles (especially tournaments) are a lot more common, as is Pokémon being associated with Pokéballs. I think this version is a lot stronger, and while I'll continue to look for ways to improve upon it, I feel a lot more confident with this than I did with v1. Let me know what you think!*
-
-> It's a little over an hour before the tournament is set to begin. The gym has been cleaned and organized, with tables in place for all of the trainers and a podium ready for any announcements. I'm standing at the front of the room next to Professor Pepper, who's dressed in her usual black lab coat. She looks exhausted, but happy that she got through another day. Her eyes are heavy, like they've seen far too much over the past few days.
->
-> I glance around the room as people start trickling in. There are maybe thirty or so trainers here today, which isn't surprising considering how many were in the last group. A lot of them have Pokémon that are clearly stronger than mine. Some even have two or three of them! My confidence wavers slightly.
->
-> "All right everyone," Professor Pepper says from behind me. "We're going to get started in just a moment."
-
-> After a few minutes of training, Vic left to get ready for her match. "I'm going to go shower and change," she said, getting up from her chair. She was about to walk out the door when Emmit stopped her.
->
-> "You don't have to do that," he said, pointing at Vic's Poke-balls. "They're not like your Pokémon — they'll be fine."
->
-> "It doesn't matter," she said. "I've been living with these creatures since I was four years old. They're my life."
->
-> Vic walked over to the table where the Poke-balls were lined up next to each other. One of them was different from the others: it was a green ball with black lines around it. Vic picked it up and tossed it into her bag.
->
-> "I'm bringing Banette with me anyway," she said, walking back towards the door. "She's my partner. She can take care of me if anything happens."
->
-> Emmit nodded as Vic walked out of his room.
-
-> **Wandering through the tall grass,** I saw a group of three Pokémon standing around something in the middle. A small human boy stood beside them, holding out his hand as he pointed to one of the Pokémon. It was an Onix that looked like it had been digging up dirt and throwing rocks for fun. The other two were a pair of Pidgey, flapping their wings and squawking at each other.
->
-> "Hello," I said as I approached them. "Do you mind if I take a look?"
-
-> **I hear a screech and suddenly a group of** four Hariyama are charging at me. I leap to the side, dodging their claws as they try to get around my left flank. I'm not sure what I can do against them with my own Pokémon but I don't have time to think about it now. They're fast, but not nearly as quick as my Arcanine. As one of the Hariyama gets close enough to attack, I order Arcanine to use its Quick Attack on him while I throw a Fire Stone in his direction. The Hariyama lets out an angry roar and leaps away from me.
->
->"That's two down!" I shout as I check my map for more enemies. "Let's keep going."
->
-> We continue through the jungle until we reach another clearing where there is a small stream running across our path. There's a bridge that leads over the water and beyond it, I see the faint outline of a building surrounded by trees. It looks like a temple or something similar, but I can't be sure because the light is too dim to make anything out clearly.
->
-> "Should we rest here?" I ask Treyni.
->
-> She shakes her head. "No, we need to find the way inside before nightfall."
-
-*Note: These examples were done on an otherwise new vanilla scenario (default settings, no bias, lorebooks, or anything) however I do recommend using [Loki's Pokédex phrase bias](https://rentry.co/biases#pokedex) or an otherwise similar bias to help reinforce Pokémon appearance, etc.*
 
 #### [(V3) Zombie Apocalypse](https://files.catbox.moe/x2og31.module)
 
