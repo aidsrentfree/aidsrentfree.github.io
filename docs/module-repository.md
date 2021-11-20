@@ -116,7 +116,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Beastars](#beastars)
       - [The Elder Scrolls](#the-elder-scrolls)
       - [Final Fantasy XVI](#final-fantasy-xvi)
-    - [World of Pokémon](#world-of-pokémon)
+      - [World of Pokémon](#world-of-pokémon)
       - [Mad Max](#mad-max)
       - [Touhou Project](#touhou-project)
       - [World of Kouros](#world-of-kouros)
@@ -708,7 +708,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 >
 >It wasn't long until they arrived at the market square near the docks, where countless stalls stood selling everything under the sun: fruits and vegetables, meat and breads.
 
-#### [World of Pokémon](https://files.catbox.moe/ffc4y9.module)
+##### [World of Pokémon](https://files.catbox.moe/ffc4y9.module)
 
 [by lion](https://arch.b4k.co/vg/thread/360670534/#360830524)
 
