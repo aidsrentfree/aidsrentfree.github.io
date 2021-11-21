@@ -26,6 +26,10 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(21st November, 2021)
+
+- Updated [The Manwhore Scenaridule](#the-manwhore-module).
+
 (20th November, 2021)
 
 - Updated [World of Pokemon](#world-of-pokémon) module with V4 successor.
@@ -72,12 +76,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Updated [Generation Ship](#generation-ship) module with V4 successor.
 - Updated [Gender Bender](#gender-bender) module with V4 successor.
 - Updated [The Manwhore Module](#the-manwhore-module) with his V4 template scenario successor.
-
-(13th November, 2021)
-
-- Added [Stand Up Routines](#stand-up-routines) module.
-- Added [Bad Writing](#bad-writing) module.
-- Replaced the previous Gay Romance modules with this [new V4 one](#gay).
 
 ***
 
@@ -1910,7 +1908,7 @@ A.K.A "Toby Fox Module"
 
 *I am legit making up crap because I have no idea how bad this module is.*
 
-##### [The Manwhore Module](https://files.catbox.moe/l0c1sg.scenario)
+##### [The Manwhore Module](https://files.catbox.moe/q8on0d.scenario)
 
 [by Manwhore](https://arch.b4k.co/vg/thread/359952842/#360055304)
 
