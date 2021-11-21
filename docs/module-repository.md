@@ -29,6 +29,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 (21st November, 2021)
 
 - Updated [The Manwhore Scenaridule](#the-manwhore-module).
+- Updated [Giantess](#giantess) module with V4 successor
 
 (20th November, 2021)
 
@@ -68,14 +69,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Updated [Poetic Fantasy](#poetic-fantasy) module with V4 successor.
 - Updated [Russian Fantasy and Folklore](#russian-fantasy-and-folklore) module with V4 successor.
 - Updated [The Beginning After The End](#the-beginning-after-the-end) module with V4 successor.
-
-(14th November, 2021)
-
-- Added [Indian Fantasy](#indian-fantasy) module
-- Updated [Surrealistic Look Through the Glass](#surrealistic-look-through-the-glass) module with V4 successor.
-- Updated [Generation Ship](#generation-ship) module with V4 successor.
-- Updated [Gender Bender](#gender-bender) module with V4 successor.
-- Updated [The Manwhore Module](#the-manwhore-module) with his V4 template scenario successor.
 
 ***
 
@@ -207,6 +200,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [Beings](#beings)
       - [Dragon Smut](#dragon-smut)
       - [Futarotica](#futarotica)
+      - [Giantess](#giantess)
     - [Acts](#acts)
       - [Interracial Cuckoldry](#interracial-cuckoldry)
       - [Netorare](#netorare)
@@ -242,7 +236,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Gaykémon](#v3-gaykémon)
     - [(V3) Gay Monsterfucking](#v3-gay-monsterfucking)
     - [(V3) Genroku Ero](#v3-genroku-ero)
-    - [(V3) Giantess](#v3-giantess)
     - [(V3) Giantess World](#v3-giantess-world)
     - [(V3) Girl Thoughts](#v3-girl-thoughts)
     - [(V3) Harem Fantasy](#v3-harem-fantasy)
@@ -2474,6 +2467,26 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *Trained on all 88 futa literotica stories.*
 
+##### [Giantess](https://mega.nz/file/KRkD3YRS#YMnXxfG7keNgl4B6n6UuscwXEgS2c6MVhtXJsaQsgDg)
+
+[by Anon](https://arch.b4k.co/vg/thread/360879939/#361048959)
+
+*Fine, I redid the giantess module for v4.*
+
+*Stories Included:*
+
+- *Beauty Treatment (cleaned up version)*
+- *Click*
+- *Beyond the Best Part*
+- *Before the Best Part*
+- *Amazing Growing Zoey*
+- *Part of Out of Las Vegas (the growth through to the end)*
+- *Megan In the City*
+- *The Breaking Point*
+- *Undeserved Power*
+- *Big Nymphomaniac*
+- *Growing At the Mall*
+
 #### [Acts](#sexual)
 
 ##### [Interracial Cuckoldry](https://files.catbox.moe/jvuy25.module)
@@ -2778,26 +2791,6 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 [by OccultSage](https://discord.com/channels/854479693503660032/870494065446248458/870802095467548752)
 
 *This variant module covers Japans Genroku period, around the 17th century. It draws from authors Laura Joh Rowland and Lucai St. Clair Robinson. Foreigners, samurai, and detectives abound! With a special helping of erotica by Akahiege Namban.*
-
-#### [(V3) Giantess](https://mega.nz/file/aU8SnQzI#5sUnfdg9lDc_OUbEKt5FqAAsxH4Bfx43VtAeh4EE1l4)
-
-[by Anon](https://arch.b4k.co/vg/thread/345503749/#345615234)
-
-*It's more focused on growth, but I'll throw my shitty giantess module out there.*
-
-*Stories Included:*
-
-- *Beauty Treatment (cleaned up version)*
-- *Click*
-- *Beyond the Best Part*
-- *Before the Best Part*
-- *Amazing Growing Zoey*
-- *Part of Out of Las Vegas (the growth through to the end)*
-- *Megan In the City*
-- *The Breaking Point*
-- *Undeserved Power*
-- *Big Nymphomaniac*
-- *Growing At the Mall*
 
 #### [(V3) Giantess World](https://files.catbox.moe/lwiquz.module)
 
