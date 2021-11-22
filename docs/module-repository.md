@@ -26,6 +26,10 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(22nd November, 2021)
+
+- Added [WW1 - Western Front](#the-great-war---western-front) module
+
 (21st November, 2021)
 
 - Updated [The Manwhore Scenaridule](#the-manwhore-module).
@@ -62,13 +66,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Updated [Xenoarchaeology and Relics](#xenoarchaeology-and-relics) module with V4 successor.
 - Updated [Touhou Project](#touhou-project) module with V4 successor.
 - Updated [Mad Max](#mad-max) module with V4 successor.
-
-(15th November, 2021)
-
-- Added [Beatrix Potter](#beatrix-potter) module.
-- Updated [Poetic Fantasy](#poetic-fantasy) module with V4 successor.
-- Updated [Russian Fantasy and Folklore](#russian-fantasy-and-folklore) module with V4 successor.
-- Updated [The Beginning After The End](#the-beginning-after-the-end) module with V4 successor.
 
 ***
 
@@ -119,6 +116,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Western Romance](#western-romance)
     - [Feudal Japan](#feudal-japan)
     - [Generation Ship](#generation-ship)
+    - [The Great War - Western Front](#the-great-war---western-front)
     - [Xenoarchaeology and Relics](#xenoarchaeology-and-relics)
     - [(V3) Action Movies](#v3-action-movies)
     - [(V3) Alien Franchise](#v3-alien-franchise)
@@ -1029,6 +1027,16 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 >**The generation ship's fusion engines burned as it consumed hydrogen, and it maneuvers towards the Sun for a gravity-assisted boost closer to the speed of light, its passengers in cryogenic suspension and insulated from the effects of the hard acceleration.** The fusion engine is burning so hot that it has melted some of the nickel-iron core material into liquid metal. It flows through pipes inside the ship and then back out again, radiating heat like a giant radiator.
 >
 >On board the planetoid they call Bussard's Viewing Room, I'm sitting at my desk in front of the window, looking down on the tiny red dot that is our home world. A small robot arm with a stylus attached to it extends from the wall behind me and makes an erratic scratching motion across the screen, which changes every few seconds. On another monitor, a view of Earth shows the same thing happening there. I've been watching this show for years now, ever since we were all woken up by the crew waking us from suspended animation.
+
+#### [The Great War - Western Front](https://files.catbox.moe/4qysmm.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/360879939/#361072013)
+
+*Alright, enough teasing. Why am I releasing this now during animal fucker week instead of ten days before when it would have been most appropriate? Ah, well the demands of my autism have mostly been sated for now. Gentlemen, behold!*
+
+*A module about The First World War! Tragedy, terror, combat, patriotism, loss, despair, and the occasionally boring minutiae of soldiering. Collected from historical and fictional accounts, all in first person past tense (but the module should still work in other tenses) from the perspective of the German, French, B.E.F (including Canadian), and American forces. Specifically focusing on the Western front because the Italian front, the East, and other places like the Ottoman front would be vastly different to describe. And also limited to the infantry perspective because aerial combat is also very different.*
+
+*I doubt many people here want to write autistic historical fiction, but I encourage you to experiment with it when you want descriptions of combat, ravaged landscapes and commentary from the perspective of disaffected young men.*
 
 #### [Xenoarchaeology and Relics](https://files.catbox.moe/n7sz15.module)
 
