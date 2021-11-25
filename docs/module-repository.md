@@ -208,8 +208,8 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Netorare](#netorare)
     - [Circumstances](#circumstances)
       - [Embarrassed Naked Furry](#embarrassed-naked-furry)
+      - [Furry (Short Stories)](#furry-short-stories)
       - [Gender Bender](#gender-bender)
-    - [Furry (Short Stories)](#furry-short-stories)
       - [Scalyuri](#scalyuri)
     - [Exponent](#exponent)
     - [Second Proseon](#second-proseon)
@@ -2584,13 +2584,7 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *Embarrassed nude females, who are anthropomorphic animals interacting with other anthropomorphic animals.*
 
-##### [Gender Bender](https://files.catbox.moe/ghe5n6.module)
-
-[by Anon](https://arch.b4k.co/vg/thread/359952842/#359977382)
-
-*Good evening, deviants. I have retrained my Gender Bender module for Sigurd v4. The data is pulled from TGstorytime.com primarily from sci fi and fantasy based male-to-female transformations, so cross dressing or realistic surgery won't be as well supported. Also plenty of sex because you why you're here.*
-
-#### [Furry (Short Stories)](https://files.catbox.moe/ydj7uh.module)
+##### [Furry (Short Stories)](https://files.catbox.moe/ydj7uh.module)
 
 [by ScalyWanderer](https://discord.com/channels/854479693503660032/870494065446248458/911378202256113704)
 
@@ -2599,6 +2593,12 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 *A general furry module not focusing on particular species or topics. The module is trained on a vast amount of short and medium-sized texts. Most of them are NSFW, both M/F and M/M, without any extreme fetishes, apart from several BDSM stories. A fair amount of dragon/gryphon material is included, too. As you can see from the examples, this module makes NAI horny from the very start. 96 hand-picked and cleaned furry novels and short stories taken from FurAffinity and several other sources.*
 
 *5.2 Mb, 2411 steps, 40% coverage, Loss: 2.696.*
+
+##### [Gender Bender](https://files.catbox.moe/ghe5n6.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/359952842/#359977382)
+
+*Good evening, deviants. I have retrained my Gender Bender module for Sigurd v4. The data is pulled from TGstorytime.com primarily from sci fi and fantasy based male-to-female transformations, so cross dressing or realistic surgery won't be as well supported. Also plenty of sex because you why you're here.*
 
 ##### [Scalyuri](https://files.catbox.moe/nchcow.module)
 
