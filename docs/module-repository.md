@@ -26,14 +26,22 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(25th November, 2021)
+
+- Updated [Androids, Robots, Aliens, Harems](#androids-robots-aliens-harems) module with V4 successor.
+- Updated [Sergals](#sergals) module with V4 successor.
+- Updated [Furry (Short Stories)](#furry-short-stories) module with V4 successor.
+
+
 (22nd November, 2021)
 
-- Added [WW1 - Western Front](#the-great-war---western-front) module
+- Added [WW1 - Western Front](#the-great-war---western-front) module.
+- Added [Smalltown Folk](#smalltown-folklore) module.
 
 (21st November, 2021)
 
 - Updated [The Manwhore Scenaridule](#the-manwhore-module).
-- Updated [Giantess](#giantess) module with V4 successor
+- Updated [Giantess](#giantess) module with V4 successor.
 
 (20th November, 2021)
 
@@ -60,12 +68,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 - To make it easier to see at a glance, I've reordered V4 modules to be above V3 modules.
 - Updated [Futarotica](#futarotica) module with V4 successor.
-
-(16th November, 2021)
-
-- Updated [Xenoarchaeology and Relics](#xenoarchaeology-and-relics) module with V4 successor.
-- Updated [Touhou Project](#touhou-project) module with V4 successor.
-- Updated [Mad Max](#mad-max) module with V4 successor.
 
 ***
 
@@ -117,6 +119,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [Feudal Japan](#feudal-japan)
     - [Generation Ship](#generation-ship)
     - [The Great War - Western Front](#the-great-war---western-front)
+    - [Smalltown Folklore](#smalltown-folklore)
     - [Xenoarchaeology and Relics](#xenoarchaeology-and-relics)
     - [(V3) Action Movies](#v3-action-movies)
     - [(V3) Alien Franchise](#v3-alien-franchise)
@@ -158,6 +161,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
   - [Elements](#elements)
     - [Concrete](#concrete)
       - [Male Prison](#male-prison)
+      - [Sergals](#sergals)
       - [Wildlife](#wildlife)
     - [Abstract](#abstract)
       - [Gay](#gay)
@@ -187,7 +191,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Modern Detective Work](#v3-modern-detective-work)
     - [(V3) Mormon](#v3-mormon)
     - [(V3) Second Person](#v3-second-person)
-    - [(V3) Sergals](#v3-sergals)
     - [(V3) Sweet Time](#v3-sweet-time)
     - [(V3) text_adventures.txt](#v3-text_adventurestxt)
     - [(V3) Trump Tweets](#v3-trump-tweets)
@@ -196,6 +199,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Zombies](#v3-zombies)
   - [Sexual](#sexual)
     - [Beings](#beings)
+      - [Androids, Robots, Aliens, Harems](#androids-robots-aliens-harems)
       - [Dragon Smut](#dragon-smut)
       - [Futarotica](#futarotica)
       - [Giantess](#giantess)
@@ -205,12 +209,12 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [Circumstances](#circumstances)
       - [Embarrassed Naked Furry](#embarrassed-naked-furry)
       - [Gender Bender](#gender-bender)
+    - [Furry (Short Stories)](#furry-short-stories)
       - [Scalyuri](#scalyuri)
     - [Exponent](#exponent)
     - [Second Proseon](#second-proseon)
     - [(V3) /hmofa/](#v3-hmofa)
     - [(V3) Anal](#v3-anal)
-    - [(V3) Androids, Robots, Aliens, Harems](#v3-androids-robots-aliens-harems)
     - [(V3) ATR Degredation](#v3-atr-degredation)
     - [(V3) Cannibalism](#v3-cannibalism)
     - [(V3) Cross-Pornre](#v3-cross-pornre)
@@ -225,7 +229,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Foot](#v3-foot)
     - [(V3) Furbianism](#v3-furbianism)
     - [(V3) Furcest](#v3-furcest)
-    - [(V3) Furry (Short Stories)](#v3-furry-short-stories)
     - [(V3) Futrap](#v3-futrap)
     - [(V3) Gardevoir](#v3-gardevoir)
     - [(V3) Gay BDSM](#v3-gay-bdsm)
@@ -1038,6 +1041,14 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 *I doubt many people here want to write autistic historical fiction, but I encourage you to experiment with it when you want descriptions of combat, ravaged landscapes and commentary from the perspective of disaffected young men.*
 
+#### [Smalltown Folklore](https://files.catbox.moe/sminlt.module)
+
+[by Dan!]()
+
+*Ever wondered what was goin' on in the middle of nowhere? Find out! Based on the works of Garrison Keillor and Stuart McLean.*
+
+*110% Coverage, 3.7k Steps.*
+
 #### [Xenoarchaeology and Relics](https://files.catbox.moe/n7sz15.module)
 
 [by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/910028027369517116)
@@ -1844,6 +1855,16 @@ A.K.A "Toby Fox Module"
 
 *As always for those that are interested, tell me how good or how shit they are.*
 
+##### [Sergals](https://files.catbox.moe/kaftiw.module)
+
+[ScalyWanderer](https://discord.com/channels/854479693503660032/870494065446248458/911378009951440956)
+
+*The module is retrained for Sigurd v4; the material and parameters are the same as before.*
+
+*The purpose of this module is to give NAI a better idea of sergals, both in canon and non-canon stories. Most of the texts used are SFW, but there're some erotic scenes too. Official Vilous Wiki (the data is cleaned by hand) + several well-written fan-fiction texts taken from FurAffinity.*
+
+*4.4 Mb, 1300 steps, 35% coverage, Loss: 2.9415.*
+
 ##### [Wildlife](https://files.catbox.moe/lzymrx.module)
 
 [by lion](https://arch.b4k.co/vg/thread/360670534/#360787508)
@@ -2339,18 +2360,6 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *For anyone wanting AID-like 2nd person stories, this makes it way better at 2nd person. It's trained on some of the AID dataset so Count Grey might show up lol.*
 
-#### [(V3) Sergals](https://files.catbox.moe/ybq80n.module)
-
-[ScalyWanderer](https://discord.com/channels/854479693503660032/870494065446248458/883152451975385129)
-
-*The purpose of this module is to give NAI a better idea of sergals, both in canon and non-canon stories. Most of the texts used are SFW, but there're some erotic scenes too. Official Vilous Wiki (the data is cleaned by hand) + several well-written fan-fiction texts taken from FurAffinity.*
-
-*4.4 Mb, 1300 steps, 35% coverage, Loss: 2.9415.*
-
-> **Just like any other sergal, I'm** not exactly proud of my past. In fact, it's something that every member of our clan has in common. However, when you hear the story behind why we're called the Silver Fang Clan, you can't help but find a bit of pride for us. It was the name given to us by one of our original members and founder after he fought off an entire horde of enemies with nothing more than his two swords — the only weapons he had on him at the time. And because of this, we became known as the Silver Fangs ever since then. We are no longer considered a small mercenary band and have risen up from strength to strength over these many years. Though there is always some who claim otherwise, that particular nickname will be carried forward forevermore! Not all clans and soldiers alike come into existence through war or fighting against another group. Some clans formed by merchants or traders who needed protection; others developed out of friendships between members of different villages. While most do join together because they share similar goals, motivations vary greatly amongst those seeking what seems to be the same thing: profit.
->
-> Sergals tend to see their work within each individual village differently compared to how outsiders might perceive them. They may view themselves as protecting, defending, assisting, supporting... whatever words suit your fancy. What matters isn't the meaning, however, but rather its results. As long as the end result is favourable to everyone involved, even if there's been bloodshed along the way, it doesn't matter how they got there so long as everything eventually leads towards peace and prosperity for both parties.
-
 #### [(V3) Sweet Time](https://files.catbox.moe/apztai.module)
 
 [by SGreen](https://discord.com/channels/854479693503660032/870494065446248458/875879715594960956)
@@ -2461,6 +2470,58 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 #### [Beings](#sexual)
 
+##### [Androids, Robots, Aliens, Harems](https://files.catbox.moe/zy9rf3.module)
+
+[by OccultSage](https://discord.com/channels/854479693503660032/870494065446248458/911007779978874922)
+
+*This draws from higher quality erotica that covers aliens, robots, androids from various gender and narrative perspectives. Themes involve strange aliens with multiple genitals, sexy androids, abduction, and non-consent! Lust is blind!*
+
+*This has been retrained for Sigurd v4.*
+
+*This was an experiment in seeing if we could use higher quality sourced erotica around a theme; these were all sourced from bought ebooks, in the theory that you get what you pay for.*
+
+*Content Warning: Some NonCon, Some DubCon, and lots of strange alien sex!*
+
+*4.2mb, ~2400 steps, ~50% coverage, 2.78 averge loss*
+
+>**The beautiful android woman's eyes opened and after a moment of gazing at me, her eyelashes fluttered at me and her lips curled into a smile.** "You're here to see me." Her voice was soft and melodic. I smiled back at her. She reached out with one hand and placed it on my cheek. The touch sent a jolt through my body. "I'm glad you came," she said as she leaned forward and kissed me. Her lips were warm and soft. It felt like heaven. I couldn't help but kiss her back. Our tongues touched briefly and then our mouths opened slightly. We shared a passionate kiss for what seemed like an eternity. When we finally parted, I looked down at the floor and saw a small tear in my shirt. I quickly wiped it away.
+>
+>"Sorry," she said. "It's been a long time since I've seen another human being. It was so good to feel your touch again."
+>
+>She sat up and looked at me expectantly. My heart started pounding in my chest. I didn't know what to say or do. I wanted to ask her how she had come to be here and why she was naked, but I wasn't sure if that would be appropriate. She seemed to read my thoughts because she laughed softly and shook her head. "Don't worry about it. I'm not going anywhere until you tell me what you want from me."
+>
+>I took a deep breath and let it out slowly. "I'm sorry," I said. "My name is Dane. What's yours?"
+>
+>"Ava," she replied. "You can call me Ava."
+>
+>"Thank you for letting me visit you," I said. "I've never met an android before."
+>
+>"Why are you here?" she asked. "Are you looking for a lover? Do you need someone to take care of you?"
+>
+>I looked down at my hands. They were shaking. I looked back up at her. "No," I said. "I don't need anyone to take care of me. I just wanted to see you."
+>
+>She smiled at me again. "That's all?"
+
+>**The alien gazed at me with desire in its eyes.** It was a beautiful creature, all sleek muscle and sinewy strength. Its body was covered in fur, which glistened under the light of the sun as it lay on the ground, waiting for my touch. I could smell the sweet musk that emanated from its body, and I wanted to taste it.
+>
+>I stepped forward, reaching out with one hand and placing it against the alien's chest. The fur was soft beneath my fingers, and it felt like silk. My cock twitched inside my pants as I slid my hand down its side, feeling the hard muscles underneath.
+>
+>"Come here," I whispered. "Let me take you."
+>
+>It got up on all fours, presenting itself to me. I reached down and grasped the base of its tail, pulling it toward me. I pulled harder, making sure I didn't hurt it.
+>
+>The alien whimpered softly as I lifted it into the air, holding it by the tail so that I could see every inch of it. It had a beautiful body, long and lean, but not too muscular. There were no visible scars or wounds on its skin, and it was covered in the same silky fur that coated its legs and arms.
+>
+>I ran my hands over its back, feeling the firmness of its flesh. I traced my fingers along its spine, running them down the length of its tail until they reached its tip. I grasped it gently, and then slowly began stroking it.
+>
+>I moved my hand up and down its tail, enjoying the way the alien shivered beneath my touch. It was an exquisite creature, and I wanted nothing more than to get to know it better. I couldn't wait to explore every inch of it.
+>
+>My other hand moved between its legs, rubbing the soft fur there. I felt the heat emanating from it, and I knew that it was excited.
+>
+>"Do you want this?" I asked. "Do you want me to take you?"
+>
+>It nodded its head. I smiled, knowing that I had made the right decision. I needed to take care of it, and if it wanted me to do that, then I would.
+
 ##### [Dragon Smut](https://files.catbox.moe/6yn00s.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/360490436/#360591314)
@@ -2529,6 +2590,16 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *Good evening, deviants. I have retrained my Gender Bender module for Sigurd v4. The data is pulled from TGstorytime.com primarily from sci fi and fantasy based male-to-female transformations, so cross dressing or realistic surgery won't be as well supported. Also plenty of sex because you why you're here.*
 
+#### [Furry (Short Stories)](https://files.catbox.moe/ydj7uh.module)
+
+[by ScalyWanderer](https://discord.com/channels/854479693503660032/870494065446248458/911378202256113704)
+
+*The module is retrained for Sigurd v4; the material and parameters are the same as before.*
+
+*A general furry module not focusing on particular species or topics. The module is trained on a vast amount of short and medium-sized texts. Most of them are NSFW, both M/F and M/M, without any extreme fetishes, apart from several BDSM stories. A fair amount of dragon/gryphon material is included, too. As you can see from the examples, this module makes NAI horny from the very start. 96 hand-picked and cleaned furry novels and short stories taken from FurAffinity and several other sources.*
+
+*5.2 Mb, 2411 steps, 40% coverage, Loss: 2.696.*
+
 ##### [Scalyuri](https://files.catbox.moe/nchcow.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/360490436/#360591314)
@@ -2588,22 +2659,6 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 >"Well, maybe not the whole reason but... I guess because I'm horny too!" I blurted out.
 >
 >"Really?!" she exclaimed. "Why didn't you say something earlier?"
-
-#### [(V3) Androids, Robots, Aliens, Harems](https://files.catbox.moe/bmz64p.module)
-
-[by OccultSage](https://discord.com/channels/854479693503660032/870494065446248458/877655348616503336)
-
-*This draws from higher quality erotica that covers aliens, robots, androids from various gender and narrative perspectives. Themes involve strange aliens with multiple genitals, sexy androids, abduction, and non-consent! Lust is blind!*
-
-*This was an experiment in seeing if we could use higher quality sourced erotica around a theme; these were all sourced from bought ebooks, in the theory that you get what you pay for.*
-
->**\*\*\***
->
->**The alien gazed at me with desire in its eyes.** I couldn't help but feel a stirring inside of my loins as it continued to stare into my soul, and the longer we looked at each other, the more I wanted this creature. It was an animalistic thing that drew on primal instincts; I could see how it had been able to take over so many humans and assimilate them into their society. And now it wanted me? The thought made my heart race with excitement. If only it were possible for us to have sex...
->
->"You are very beautiful," I said after a moment's pause. "I would like to touch you." My voice sounded strange coming from my mouth, and there was something different about my face, too. I wasn't sure what exactly changed when I spoke, but it seemed to make my speech slightly slurred. But then again, maybe that was just because I'd been drinking wine all night. Either way, I didn't care if I stumbled or stuttered. All I cared about right now was getting close enough to kiss this sexy alien girl.
->
->It nodded its head once before stepping closer towards me. Its body swayed hypnotically as it moved, making it difficult to focus on anything else besides those sensual curves. When our lips met, I almost came immediately. Our tongues danced together for several moments, exploring one another's mouths. Then the alien wrapped her arms around my neck and pulled herself tightly against me. Her breasts pressed firmly against mine through the thin fabric.
 
 #### [(V3) ATR Degredation](https://files.catbox.moe/4enr2u.module)
 
@@ -2729,20 +2784,6 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 [by Anon](https://arch.b4k.co/vg/thread/348033881/#348078084)
 
 *Furcest module. Trained using an even mix of 5 top rated stories with Brother/Sister, Mother/Son, Father/Daughter, mixed gay and mixed lesbian incest.*
-
-#### [(V3) Furry (Short Stories)](https://files.catbox.moe/n072ye.module)
-
-[by ScalyWanderer](https://discord.com/channels/854479693503660032/870494065446248458/883151011202629714)
-
-*A general furry module not focusing on particular species or topics. The module is trained on a vast amount of short and medium-sized texts. Most of them are NSFW, both M/F and M/M, without any extreme fetishes, apart from several BDSM stories. A fair amount of dragon/gryphon material is included, too. As you can see from the examples, this module makes NAI horny from the very start. 96 hand-picked and cleaned furry novels and short stories taken from FurAffinity and several other sources.*
-
-*5.2 Mb, 2411 steps, 40% coverage, Loss: 2.696.*
-
-> **My tail twitched with excitement**, my cock was so hard I thought it might break. And then the tigress rolled to her back and spread those long legs of hers apart...and she raised one paw high into the air while the other reached for me, a beckoning motion that called me closer still as if telling me to come on over.
->
-> I crawled between those soft thighs like some kind of moth drawn in by her alluring perfume. She grabbed hold of my wrists and pulled them up above my head, trapping me there while she pushed me down until my muzzle pressed firmly against her wet cuntlips.
->
-> "Mmm..." The words escaped from her mouth as a moan. "So nice." Her fingers came together in an arch behind my shoulders, squeezing lightly at first before releasing again, forcing me even further towards her slick folds.
 
 #### [(V3) Futrap](https://files.catbox.moe/m3ouwu.module)
 
