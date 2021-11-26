@@ -251,7 +251,7 @@ Your sweet, innocent pet dog-girl, Skye, has gone into heat and her pheromones d
 Let's make prompts about the corporate crusaders; our coworkers, supervisors, and secretaries, all possessing a quintessential womanly touch.
 {: .center}
 
-*November 12th, 2021*
+[*November 12th, 2021*](#the-log)
 {: .center}
 
 ### *Spess Loli on a Spess Station (SS13)*
