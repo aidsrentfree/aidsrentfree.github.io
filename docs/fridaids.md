@@ -33,6 +33,11 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 - [Rules](#rules)
 - [The Log](#the-log)
+- [The Friday of *Animals*](#the-friday-of-animals)
+  - [*Seamen World*](#seamen-world)
+  - [*Mudsdale Used Body Press!*](#mudsdale-used-body-press)
+  - [*Kalphite Queen Head*](#kalphite-queen-head)
+  - [*A Dog-Girl in Heat*](#a-dog-girl-in-heat)
 - [The Friday of *Office Women*](#the-friday-of-office-women)
   - [*Spess Loli on a Spess Station (SS13)*](#spess-loli-on-a-spess-station-ss13)
   - [*Akame Sings Metal*](#akame-sings-metal)
@@ -49,6 +54,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Office Loli in Space*](#office-loli-in-space)
   - [*An Afterlife of Servitude*](#an-afterlife-of-servitude)
   - [*Ruling the World is a Job*](#ruling-the-world-is-a-job)
+  - [*Some Witty Office Lady Related Joke Title.*](#some-witty-office-lady-related-joke-title)
 - [The Friday of *All Hallows' Eve*](#the-friday-of-all-hallows-eve)
   - [*Reckless Adventurer and an Elven Sorceress*](#reckless-adventurer-and-an-elven-sorceress)
   - [*Demonic Desire*](#demonic-desire)
@@ -167,6 +173,75 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Your Daughter will Do Anything to Have You Back*](#your-daughter-will-do-anything-to-have-you-back)
   - [*Ben and Gwen Tennyson in: Omnifriks*](#ben-and-gwen-tennyson-in-omnifriks)
   - [*Goblin girl in Heat*](#goblin-girl-in-heat)
+
+***
+
+## The Friday of *Animals*
+{: .center}
+
+Let's make prompts involving the animal kingdom; the diverse fauna coexisting alongside us on this small blue planet, breathing, moving, and living as we yet so clearly distinct—a testament to life's wonders.
+{: .center}
+
+November 26th, 2021
+{: .center}
+
+### *Seamen World*
+{: .center}
+
+*<https://prompts.aidg.club/2614>*
+{: .center}
+
+![](https://files.catbox.moe/46ab6y.jpg)
+{: .center}
+
+>*I can hear the crowd starting to get restless, I know that if I don't do something fast, they're going to lose interest and leave. Dropping the ring in the pool, I start rubbing her dorsal fin in an attempt to calm her down and get her to regain her composure. "It's okay Cindy," I reassure her, "I'm just trying to help you concentrate, so we can show them how amazing you are!" I rub her fin some more, feeling her smooth, rubbery flesh, and after a while, she snaps out of her trance.*
+>
+>*"Alright, sorry folks!", I announce to the crowd, "It Looks like Cindy just needed a little motivation to perform for you all today!" I hold up the ring again and look back over, only to see the dolphin with her belly in the air. Her large, muscular tail is thrashing against the water, almost beckoning me to come closer. Worst of all, looking down at her nether regions, I can see that her slit is engorged, completely swollen, and dripping with anticipation for something.*
+>
+>*My heart sinks, and I quickly realize that Cindy must have recently gone into heat. That would explain why she isn't listening to me...*
+
+Everyone loves MarineLand? Well it seems some people like it a bit more than others...
+Well, the crowd is here for a show, I guess you and your dolphin are going to give them what they came here for...
+
+### *Mudsdale Used Body Press!*
+{: .center}
+
+*<https://prompts.aidg.club/2636>*
+{: .center}
+
+>*Stepping inside, I can see her there in the middle of the stable, pressing herself up against one of the wooden pillars. She's rubbing furiously back and forth against it, trying to scratch an itch or something. Her eyes are completely glazed over and she's completely lost in the moment as her whole body writhes and twitches, her tail swishing from side to side haphazardly. As I whistle to get her attention, she suddenly stops and turns around to look at me. The look on her face says everything, something is clearly bothering her, and that's not normal for Cappuccino.*
+>
+>*Walking up to her, I start to pat her on the back to cool her off, the mud covering her smearing into my hand, but it only seems to excite her further. With a loud whinny, she starts trembling under my touch, her tail whipping back and forth even faster now, splattering dirt across jacket. She seems much warmer than usual, and I can only notice how damp her coat is, her sweat dripping onto the ground beneath us in a muddy mixture. Oh god, I hope this doesn't mean what I think it means...*
+
+Weighing in at over 2000 lbs, mudsdales are heavy horses, and when they want something, you better give them it. When found between a horse and a hard place, you better hope your pelvis survives the pressure of mare ass.
+
+### *Kalphite Queen Head*
+{: .center}
+
+*<https://prompts.aidg.club/2630>*
+{: .center}
+
+>*Before I can turn around and leave, one of the guardians starts to signal to the queen, obviously having noticed me. The venom has sapped my strength to the point where all I can do is watch as she turns around and spots me, her antennae waving chaotically around as the group approaches me. My heart races as the kalphites then start to sniff at my armour, gently poking and prodding it with their huge mandibles. Still dazed from the venomous bite, I find myself frozen in place as this strange situation plays out before me. Slowly, one by one, my armour is removed by the kalphite queen's guardians, until I'm left in nothing but my leather breeches and boots. As I stand there naked before them, they stop moving and sit motionless, waiting for further instructions from their queen.*
+
+Getting a blowjob from a giant, monster bug?
+I guess that's one way you're going to complete the desert hard diaries (runescape joke).
+
+### *A Dog-Girl in Heat*
+{: .center}
+
+*<https://prompts.aidg.club/2639>*
+{: .center}
+
+![](https://files.catbox.moe/e405tj.png)
+{: .center}
+
+>*The feel of her soft breasts against me sent a shiver up my spine. My mind went blank for a second, and I found myself staring down at her. Her face was flushed, and she looked so cute. I snapped back to reality and tried to focus on getting dinner ready. "Okay, let me finish up," I said, turning away from her. I prepared a few more things for dinner with her hanging onto my arm and then we went to sit on the couch together.*
+>
+>*Skye laid herself across my lap and looked up at me. I always knew she was a cutie, but I hadn't realized how beautiful she had become until now. She wore a simple blue skirt, and her blouse was unbuttoned partway down, revealing her cleavage. I couldn't help but stare at her chest. What's going on with me today, I wondered. I felt so strange.*
+>
+>*She looked up at me adoringly and I recalled her symptoms: feeling hot, unable to get comfortable, excessively clingy and affectionate... All symptoms of a dog-girl in heat, but there was no way that could be true, right?*
+
+Your sweet, innocent pet dog-girl, Skye, has gone into heat and her pheromones drive you wild.
 
 ***
 
@@ -488,6 +563,21 @@ Work for the right to enter Heaven. Simple, right?
 
 Being the evil overlord requires a lot of paperwork, good thing you have a succubus secretary to sort it (among other things) all out for you.
 
+### *Some Witty Office Lady Related Joke Title.*
+{: .center}
+
+*<https://prompts.aidg.club/2594>*
+{: .center}
+
+>*You didn't really listen to Jackie though. You were lost in your imagination and continued "I'd motorboat her ass till next week."*
+>
+>*Jackie chuckles awkwardly at that before suddenly clearing his throat and excusing himself in a hurry. You watched Jackie leave without turning back to face you and felt an odd chill down your spine. "So that's why we keep running into each other so often, huh?" you heard Lena ask. She must've walked by as you were talking with Jackie.*
+>
+>*Before you could come up with any excuses Lena grabbed you by your hand and pulled you into her office, locking the door.*
+>
+>*"So, why don't we get started on what you so desperately want to do to me?", Lena said, catching you completely off guard.*
+
+Idle chatter over a watercooler shouldn't devolve into talking about lewd things involving superiors, buddy. Reap what you have sown, even if you don't deserve it.
 
 ***
 
