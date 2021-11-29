@@ -4012,7 +4012,7 @@ Output features the type of prose you would expect from well-translated Japanese
 
 [by](https://arch.b4k.co/vg/thread/361892759/#361994230) [Anons](https://arch.b4k.co/vg/thread/361892759/#361994710)
 
-*I exported all of the text from the game Teraurge.*
+*I exported [all of the text](https://files.catbox.moe/zi6dhj.txt) from the game Teraurge.*
 
 #### [(V3) Corruption of Champions](https://files.catbox.moe/r6cyts.module)
 
