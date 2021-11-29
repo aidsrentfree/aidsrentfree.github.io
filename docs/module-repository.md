@@ -326,9 +326,9 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Tales of Androgyny](#v3-tales-of-androgyny)
   - [Light Novel](#light-novel)
     - [The Beginning After The End](#the-beginning-after-the-end)
+    - [Highschool DxD (1-10)](#highschool-dxd-1-10)
     - [(V3) Fantasies](#v3-fantasies)
     - [(V3) Goblin Slayer](#v3-goblin-slayer)
-    - [(V3) Highschool DxD (1-10)](#v3-highschool-dxd-1-10)
     - [(V3) Highschool DxD (1-21)](#v3-highschool-dxd-1-21)
     - [(V3) KonoSuba](#v3-konosuba)
     - [(V3) KonoSuba (1-14)](#v3-konosuba-1-14)
@@ -3876,6 +3876,18 @@ A.K.A Green's Eagle Vision
 >
 >I stood there for a moment, panting heavily, my breath coming in ragged gasps as I struggled to regain control of myself. My heart was racing so fast that I could feel each beat pounding in my ears. Sweat dripped down my forehead and stung my eyes as I looked down at the beast lying dead on the floor. There was no doubt in my mind that it had been one of the monsters I'd seen in the visions, but I couldn't help feeling disappointed. Maybe I just wanted to kill something because it felt good to do so? This wasn't exactly the first time I'd killed someone, after all...
 
+#### [Highschool DxD (1-10)](https://files.catbox.moe/vidlcy.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/361892759/#361933625)
+
+*Here's my HighSchoolDxD module trained on v4, because i can use steps without a sub*
+
+*Trained to 80% with 2,900 steps.*
+
+>*\>For chuuni and boob lovers alike, reformatted and adjusted translations for volumes 1 to 10 of the High School DxD Light Novel!*
+>
+>*\>Many 'important terms' within the franchise are surrounded in [ ] brackets. Mileage may vary!*
+
 #### [(V3) Fantasies](https://files.catbox.moe/j2rgei.module)
 
 [by chrome](https://discord.com/channels/836774308772446268/870449646391156776/885273873686364170)
@@ -3912,15 +3924,6 @@ A.K.A Green's Eagle Vision
 [by Anon](https://arch.b4k.co/vg/thread/345615202/#345670484)
 
 *I used the first 5 volumes of Goblin Slayer and the first 2 volumes of Year one to make a module. I think I did screw up somewhere formatting wise since there is a symbol that will show up pretty often but it seems to work otherwise. I might go back to it once I have some more free time.*
-
-#### [(V3) Highschool DxD (1-10)](https://files.catbox.moe/arz3a3.module)
-
-[by Anon](https://arch.b4k.co/vg/thread/346069285/#346169117)
-
-*High School DxD (Volume 1 to 10)*
-
-*For chuuni and boob lovers alike, reformatted and adjusted translations for volumes 1 to 10 of the High School DxD Light Novel!*
-*Many 'important terms' within the franchise are surrounded in [ ] brackets. Mileage may vary!*
 
 #### [(V3) Highschool DxD (1-21)](https://files.catbox.moe/gotlng.module)
 
