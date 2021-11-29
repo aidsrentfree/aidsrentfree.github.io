@@ -26,6 +26,12 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(29th November, 2021)
+
+- Back from eternal slumber
+- Updated [Highschool DxD (1-10)](#highschool-dxd-1-10) module with V4 successor
+- Added [Teraurge](#teraurge) module
+
 (25th November, 2021)
 
 - Updated [Androids, Robots, Aliens, Harems](#androids-robots-aliens-harems) module with V4 successor.
@@ -337,6 +343,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Overlord (1-14)](#v3-overlord-1-14)
     - [(V3) Slime](#v3-slime)
   - [Text Game](#text-game)
+    - [Teraurge](#teraurge)
     - [(V3) Corruption of Champions](#v3-corruption-of-champions)
     - [(V3) Corruption of Champions 2](#v3-corruption-of-champions-2)
     - [(V3) Paraphore](#v3-paraphore)
@@ -4005,6 +4012,12 @@ Output features the type of prose you would expect from well-translated Japanese
 ***
 
 ### [Text Game](#works)
+
+#### [Teraurge](https://files.catbox.moe/51g9hf.module)
+
+[by](https://arch.b4k.co/vg/thread/361892759/#361994230) [Anons](https://arch.b4k.co/vg/thread/361892759/#361994710)
+
+*I exported all of the text from the game Teraurge.*
 
 #### [(V3) Corruption of Champions](https://files.catbox.moe/r6cyts.module)
 
