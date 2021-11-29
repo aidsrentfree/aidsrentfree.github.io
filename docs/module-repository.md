@@ -32,6 +32,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Updated [Highschool DxD (1-10)](#highschool-dxd-1-10) module with V4 successor.
 - Added [Teraurge](#teraurge) module.
 - Updated [Sweet Time](#sweet-time) module with V4 successor.
+- Added [Kobold](#kobolds) module.
 
 (25th November, 2021)
 
@@ -162,6 +163,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Zombie Apocalypse](#v3-zombie-apocalypse)
   - [Elements](#elements)
     - [Concrete](#concrete)
+      - [Kobolds](#kobolds)
       - [Male Prison](#male-prison)
       - [Sergals](#sergals)
       - [Wildlife](#wildlife)
@@ -1849,6 +1851,12 @@ A.K.A "Toby Fox Module"
 ### [Elements](#themes)
 
 #### [Concrete](#elements)
+
+##### [Kobolds](https://files.catbox.moe/dg86p2.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/361892759/#362059151)
+
+V4 Kobold module, since it looks like rentry anon was away and because I've been having a great time with these tiny lizards.
 
 ##### [Male Prison](https://files.catbox.moe/1vywld.module)
 
