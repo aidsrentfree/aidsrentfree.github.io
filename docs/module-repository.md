@@ -1856,7 +1856,7 @@ A.K.A "Toby Fox Module"
 
 [by Anon](https://arch.b4k.co/vg/thread/361892759/#362059151)
 
-V4 Kobold module, since it looks like rentry anon was away and because I've been having a great time with these tiny lizards.
+*V4 Kobold module, since it looks like rentry anon was away and because I've been having a great time with these tiny lizards.*
 
 ##### [Male Prison](https://files.catbox.moe/1vywld.module)
 
