@@ -28,9 +28,9 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 (29th November, 2021)
 
-- Back from eternal slumber
-- Updated [Highschool DxD (1-10)](#highschool-dxd-1-10) module with V4 successor
-- Added [Teraurge](#teraurge) module
+- Back from death.
+- Updated [Highschool DxD (1-10)](#highschool-dxd-1-10) module with V4 successor.
+- Added [Teraurge](#teraurge) module.
 
 (25th November, 2021)
 
