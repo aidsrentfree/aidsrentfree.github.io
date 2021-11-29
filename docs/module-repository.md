@@ -31,6 +31,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Back from death.
 - Updated [Highschool DxD (1-10)](#highschool-dxd-1-10) module with V4 successor.
 - Added [Teraurge](#teraurge) module.
+- Updated [Sweet Time](#sweet-time) module with V4 successor.
 
 (25th November, 2021)
 
@@ -166,6 +167,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Wildlife](#wildlife)
     - [Abstract](#abstract)
       - [Gay](#gay)
+      - [Sweet Time](#sweet-time)
     - [Style](#style)
       - [Bad Writing](#bad-writing)
       - [The Manwhore Module](#the-manwhore-module)
@@ -192,7 +194,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Modern Detective Work](#v3-modern-detective-work)
     - [(V3) Mormon](#v3-mormon)
     - [(V3) Second Person](#v3-second-person)
-    - [(V3) Sweet Time](#v3-sweet-time)
     - [(V3) text_adventures.txt](#v3-text_adventurestxt)
     - [(V3) Trump Tweets](#v3-trump-tweets)
     - [(V3) Twilight 2000 (Encounters)](#v3-twilight-2000-encounters)
@@ -1922,6 +1923,42 @@ A.K.A "Toby Fox Module"
 >
 >He shrugs.
 
+##### [Sweet Time](https://files.catbox.moe/wqnw3i.module)
+
+[by SGreen](https://discord.com/channels/870618914323849228/870619535600922644/914451003598848070)
+
+***Everything is the same, but retrained for v4***
+
+*Enjoy your time with a unbelievable romantic and sensitive experience. From butterflies to steamy scene, you will get what you desire. Used over 50 novels with a strong romance/erotic theme, with some scenes from each, and trained on 6 full novels.*
+
+*It doesn't force nsfw scenes from the nothing, but it's really good at them. It could also be used as a Slice of Life module*
+
+>He sat right in front of me, on the same table as me and my parents. I wanted him, desired him, but I had to wait until we have eaten. My parents were watching us with curiosity. It was only then that I felt like a real woman who has sex. He kept looking at me with lustful eyes while he ate his food. He started eating slowly, taking small bites from each piece of meat. When he reached the vegetables, he paused for a moment and looked up at me. I blushed and averted my gaze. But when I saw him take another bite, I became excited again. His tongue moved along the edge of his teeth before it slipped into his mouth. His hands caressed the sides of his face and neck. I could feel my own nipples harden under my top. They pressed against the thin material of my dress. The more he touched himself, the harder they got.
+>
+>I glanced around the restaurant and noticed all the other couples sitting together. Some people were holding hands, some kissed passionately. All of them seemed happy and satisfied. That's what I needed. I needed someone who would make me feel like that. And now I knew who it was. I smiled at him and leaned forward so that our faces were close enough to kiss. He looked back at me with surprise, but then quickly returned his attention to his meal. As soon as I realized that he didn't want to be caught doing something inappropriate in public, I stopped smiling. I straightened myself up and turned away from him. I picked up my fork and began eating. After a few minutes, I took a deep breath and relaxed my shoulders. My heart was beating faster than normal. I couldn't believe how much I'd been waiting for this man. Now that he was here, everything else seemed less important. This was the most exciting thing that ever happened to me.
+>
+>"Do you know why you're still single?" he asked after a long pause. "You're beautiful."
+>
+>I nodded shyly. I wasn't sure if I should say anything or not.
+>
+>"But there are many men who want you," he continued. "They just don't see your true beauty yet. You need to find one who will appreciate you completely."
+>
+>I closed my eyes and let out a sigh. He really did understand me. How lucky am I?
+>
+>"So tell me, Elena," he said softly. "What do you think about when you masturbate?"
+>
+>My eyes flew open wide. What does he mean by that? He knows what I'm thinking! Why is he asking me these questions? I tried to answer calmly, but I failed miserably. I stammered and blushed. He laughed at my discomfort.
+>
+>"Don't worry," he reassured me. "I won't judge you. It's perfectly natural to have fantasies. Especially since we've already established that you enjoy it."
+>
+>He winked at me. I blushed even deeper. I had no idea what to say next. Finally, I managed to ask him a question.
+>
+>"Can I please touch myself now?"
+>
+>His eyes sparkled with amusement. "Of course."
+>
+>He stood up and walked towards the door. Then he turned around and held his hand out to me. "Come on."
+
 #### [Style](#elements)
 
 ##### [Bad Writing](https://files.catbox.moe/uivlq6.module)
@@ -2361,40 +2398,6 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 [by eliminable](https://discord.com/channels/836774308772446268/870449646391156776/870675442791759872)
 
 *For anyone wanting AID-like 2nd person stories, this makes it way better at 2nd person. It's trained on some of the AID dataset so Count Grey might show up lol.*
-
-#### [(V3) Sweet Time](https://files.catbox.moe/apztai.module)
-
-[by SGreen](https://discord.com/channels/854479693503660032/870494065446248458/875879715594960956)
-
-*Enjoy your time with a unbelievable romantic and sensitive experience. From butterflies to steamy scene, you will get what you desire. Used over 50 novels with a strong romance/erotic theme, with some scenes from each, and trained on 6 full novels.*
-
-*It doesn't force nsfw scenes from the nothing, but it's really good at them. It could also be used as a Slice of Life module*
-
->He sat right in front of me, on the same table as me and my parents. I wanted him, desired him, but I had to wait until we have eaten. My parents were watching us with curiosity. It was only then that I felt like a real woman who has sex. He kept looking at me with lustful eyes while he ate his food. He started eating slowly, taking small bites from each piece of meat. When he reached the vegetables, he paused for a moment and looked up at me. I blushed and averted my gaze. But when I saw him take another bite, I became excited again. His tongue moved along the edge of his teeth before it slipped into his mouth. His hands caressed the sides of his face and neck. I could feel my own nipples harden under my top. They pressed against the thin material of my dress. The more he touched himself, the harder they got.
->
->I glanced around the restaurant and noticed all the other couples sitting together. Some people were holding hands, some kissed passionately. All of them seemed happy and satisfied. That's what I needed. I needed someone who would make me feel like that. And now I knew who it was. I smiled at him and leaned forward so that our faces were close enough to kiss. He looked back at me with surprise, but then quickly returned his attention to his meal. As soon as I realized that he didn't want to be caught doing something inappropriate in public, I stopped smiling. I straightened myself up and turned away from him. I picked up my fork and began eating. After a few minutes, I took a deep breath and relaxed my shoulders. My heart was beating faster than normal. I couldn't believe how much I'd been waiting for this man. Now that he was here, everything else seemed less important. This was the most exciting thing that ever happened to me.
->
->"Do you know why you're still single?" he asked after a long pause. "You're beautiful."
->
->I nodded shyly. I wasn't sure if I should say anything or not.
->
->"But there are many men who want you," he continued. "They just don't see your true beauty yet. You need to find one who will appreciate you completely."
->
->I closed my eyes and let out a sigh. He really did understand me. How lucky am I?
->
->"So tell me, Elena," he said softly. "What do you think about when you masturbate?"
->
->My eyes flew open wide. What does he mean by that? He knows what I'm thinking! Why is he asking me these questions? I tried to answer calmly, but I failed miserably. I stammered and blushed. He laughed at my discomfort.
->
->"Don't worry," he reassured me. "I won't judge you. It's perfectly natural to have fantasies. Especially since we've already established that you enjoy it."
->
->He winked at me. I blushed even deeper. I had no idea what to say next. Finally, I managed to ask him a question.
->
->"Can I please touch myself now?"
->
->His eyes sparkled with amusement. "Of course."
->
->He stood up and walked towards the door. Then he turned around and held his hand out to me. "Come on."
 
 #### [(V3) text_adventures.txt](https://files.catbox.moe/hh8vnf.module)
 
