@@ -70,11 +70,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Updated [Scaly Yuri](#scalyuri) module with V4 successor.
 - Updated [The King James Bible](#the-king-james-bible) module with V4 successor.
 
-(17th November, 2021)
-
-- To make it easier to see at a glance, I've reordered V4 modules to be above V3 modules.
-- Updated [Futarotica](#futarotica) module with V4 successor.
-
 ***
 
 ## [Table of Contents](#modules)
