@@ -33,6 +33,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Added [Teraurge](#teraurge) module.
 - Updated [Sweet Time](#sweet-time) module with V4 successor.
 - Added [Kobold](#kobolds) module.
+- Added [Warcraft](#warcraft) module
 
 (25th November, 2021)
 
@@ -111,6 +112,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Final Fantasy XVI](#final-fantasy-xvi)
       - [Mad Max](#mad-max)
       - [Touhou Project](#touhou-project)
+      - [Warcraft](#warcraft)
       - [World of Kouros](#world-of-kouros)
       - [World of Pokémon](#world-of-pokémon)
     - [Genre](#genre)
@@ -759,6 +761,47 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 >**Reimu turned to face the path in front of her shrine, seeing the silhouette of a youkai she knew very well slowly emerge from the stone stairs leading up towards it: “Oho!” The figure had long blonde hair cascading all over her frame and a smug smile on her face. It was unmistakeably Yukari Yakumo,** who always managed to appear whenever something bad happened in this world. And now here she stood right outside Reimu's home. This would normally mean trouble, but since today wasn't even Sunday yet... Well, as far as Reimu could remember, Yukari never came anywhere near her house before noon. Not only did she want some time away from everyone else, she didn't seem interested in causing any more problems than necessary either. So Reimu decided to give her space while still keeping an eye out for what might happen next. As soon as she saw the girl stop walking though, Reimu couldn't help herself anymore: “So? What brings ya back here so early?"
 >
 >"Well I suppose we should get straight into why I'm really here..." Yukari said with another grin as she walked through the shrine's gate. In spite of everything that they'd been through together during their friendship, there were times when Yukari seemed like such a little brat that Reimu just wanted to smack her upside the head.
+
+##### [Warcraft](https://files.catbox.moe/sh0fco.module)
+
+[by kumah](https://discord.com/channels/836774308772446268/870449646391156776/914943197531234355)
+
+*Contains novels spanning from WC3 era, through recent World of Warcraft novels. Knaak, Christie Golden, and Chris Metzen. Blank prompts are from the Horde perspective 9/10 of the time. With some nudging, can be encouraged to stick with Alliance perspectives.*
+
+*Books used:*
+
+- *Cycle of Hatred*
+- *Day of the Dragon*
+- *Tides of War*
+- *Lord of the Clans*
+- *Night of the Dragon*
+- *Rise of the Horde*
+- *The Demon Soul*
+- *The Shattering*
+- *The Sundering*
+- *Twilight of the Aspects*
+- *Blood and Honor*
+- *War of the Ancients Series*
+- *Rise of the Lich King*
+- *Beyond the Dark Portal*
+- *Tides of Darkness*
+- *Wolfheart*
+- *Stormrage*
+- *+2MB of Fanfiction*
+
+*In total, 14.5MB of text.*
+
+*Books were cleaned of chapter breaks, paragraph breaks, author notes, commentary, and copyright info. 13,050 Steps, 100.00% Trained, Average Loss: 2.69, Last Loss: 2.69.*
+
+>"And that's the last of them," said an orc, as he and his companions stood over a dead draenei. "They're all down."
+>
+>The orc was a grizzled veteran who had seen many battles, both on the battlefield and in tavern brawls. He wore leather armor, with several small pouches hanging from it. His thick beard was streaked with grey, but his eyes were bright and alert. A heavy axe hung at his side. The weapon was covered with blood—both his own and others'.
+>
+>"I've never seen so many draenei together before," said another orc, one of the younger ones. "Where did they come from?"
+>
+>"I don't know," replied the first orc, shaking his head. "But I'm glad we got here when we did."
+>
+>The other orcs grunted their agreement, then moved off to tend to the wounded. The older orc knelt next to the body of a draenei female. She was dressed in robes similar to those worn by most of the females present. Her hair was long and dark brown, almost black. There was a large bruise on her face, and she looked quite dead.
 
 ##### [World of Kouros](https://files.catbox.moe/bo1cr9.module)
 
