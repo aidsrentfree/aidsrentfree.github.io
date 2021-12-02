@@ -26,6 +26,11 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(2nd December, 2021)
+
+- Added [The Adepta Sororitas W40K](#the-adepta-sororitas-daughters-of-the-emperor) module.
+- Added [Kobold Adventure](#kobold-adventure) module.
+
 (29th November, 2021)
 
 - Back from death.
@@ -40,7 +45,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Updated [Androids, Robots, Aliens, Harems](#androids-robots-aliens-harems) module with V4 successor.
 - Updated [Sergals](#sergals) module with V4 successor.
 - Updated [Furry (Short Stories)](#furry-short-stories) module with V4 successor.
-
 
 (22nd November, 2021)
 
@@ -61,17 +65,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Added [Annotated Writing](#annotated-writing) utility module, a follow up to both [Director's View](#v3-director-view) and [Sentiments and Summaries](#v3-sentiments-and-summaries).
 - Updated [The Elder Scrolls In Game Texts](#the-elder-scrolls) module with V4 successor.
 - Updated [Wildlife](#wildlife) module with V4 successor.
-
-(18th November, 2021)
-
-- Updated [Final Fantasy XVI](#final-fantasy-xvi) module with V4 successor.
-- Added [Hazbin Hotel/Helluva Boss](#helluva-hotel) module.
-- Updated [Le Morte D' Arthur](#le-morte-darthur) module with V4 successor.
-- The [beginnings of further categorizations](#table-of-contents)...
-- Updated [Furry ENF](#embarrassed-naked-furry) module with V4 successor.
-- Updated [Dragon Smut](#dragon-smut) module with V4 successor.
-- Updated [Scaly Yuri](#scalyuri) module with V4 successor.
-- Updated [The King James Bible](#the-king-james-bible) module with V4 successor.
 
 ***
 
@@ -165,6 +158,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Zombie Apocalypse](#v3-zombie-apocalypse)
   - [Elements](#elements)
     - [Concrete](#concrete)
+      - [The Adepta Sororitas, Daughters of the Emperor](#the-adepta-sororitas-daughters-of-the-emperor)
       - [Kobolds](#kobolds)
       - [Male Prison](#male-prison)
       - [Sergals](#sergals)
@@ -343,6 +337,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Overlord (1-14)](#v3-overlord-1-14)
     - [(V3) Slime](#v3-slime)
   - [Text Game](#text-game)
+    - [Kobold Adventure](#kobold-adventure)
     - [Teraurge](#teraurge)
     - [(V3) Corruption of Champions](#v3-corruption-of-champions)
     - [(V3) Corruption of Champions 2](#v3-corruption-of-champions-2)
@@ -1894,6 +1889,27 @@ A.K.A "Toby Fox Module"
 ### [Elements](#themes)
 
 #### [Concrete](#elements)
+
+##### [The Adepta Sororitas, Daughters of the Emperor](https://files.catbox.moe/qwgetf.module)
+
+[by Kitty](https://discord.com/channels/836774308772446268/870449646391156776/915828240738840599)
+
+*The Adepta Sororitas, or Sisters of Battle, are the military arm of the Ecclesiarchy, and their remit is to prosecute the enemies of mankind with extreme prejudice.  Uniquely among the fighting forces of the Imperium, all the warriors of this organisation are female. Clad in ceramite power armour, they fight with fanatical fervor for the glory of the Emperor, scourging both xenos and heretic alike with bolter and flamer.*
+
+*Trained on Adepta Sororitas-specific prose from Games Workshop, including an 8E codex, 10 novels, and 13 novellas.*
+
+*The files were converted with Calibre and cleaned under the Datasetting Guide. 4.7mb, 5460 steps, 100% coverage, 3.00 loss*
+
+>'So, the enemy's not going to make it any easier for us,' said Sister Anya. 'We have to move quickly.'
+>The word came from behind her, but she didn't turn around. She was busy with the last of the bodies in the hall, stripping them of their armour and weapons.
+>
+>'Yes, sister,' said Miriya. 'And we're going to need a lot more firepower than this if we want to survive the next few hours.'
+>
+>Anya turned around then, looking at the primarch-crafted bolter that had been fired into the floor by the fallen guard. The weapon looked like something out of myth or legend, its barrel as long as her arm and tipped with black iron spikes. Its handle was carved from bone and bound in silver wire, while the heavy ammunition belt was made from human teeth. It was an antique, a relic of another age. And it would be hers now.
+>
+>She picked up the weapon, hefting it gently in her hands before slinging it across her back. The weight was comforting, familiar and reassuring. She felt like herself again.
+>
+>'Let's go,' she said.
 
 ##### [Kobolds](https://files.catbox.moe/dg86p2.module)
 
@@ -4061,6 +4077,14 @@ Output features the type of prose you would expect from well-translated Japanese
 ***
 
 ### [Text Game](#works)
+
+#### [Kobold Adventure](https://files.catbox.moe/qca91a.module)
+
+[by Reilit](https://discord.com/channels/870618914323849228/870619535600922644/915294301653725244)
+
+*KoboldAdventure v4*
+
+*Used text from the game KoboldAdventure to make this module. Not sure how well it works..( ~400 steps).*
 
 #### [Teraurge](https://files.catbox.moe/51g9hf.module)
 
