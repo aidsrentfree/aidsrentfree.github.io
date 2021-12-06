@@ -26,6 +26,11 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(6th December, 2021)
+
+- Added [1950s Science Fiction](#1950s-science-fiction) module
+- Added [Technology (Annotated)](#technology-annotated) module
+
 (2nd December, 2021)
 
 - Added [The Adepta Sororitas W40K](#the-adepta-sororitas-daughters-of-the-emperor) module.
@@ -59,12 +64,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 (20th November, 2021)
 
 - Updated [World of Pokemon](#world-of-pokémon) module with V4 successor.
-
-(19th November, 2021)
-
-- Added [Annotated Writing](#annotated-writing) utility module, a follow up to both [Director's View](#v3-director-view) and [Sentiments and Summaries](#v3-sentiments-and-summaries).
-- Updated [The Elder Scrolls In Game Texts](#the-elder-scrolls) module with V4 successor.
-- Updated [Wildlife](#wildlife) module with V4 successor.
 
 ***
 
@@ -109,6 +108,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [World of Kouros](#world-of-kouros)
       - [World of Pokémon](#world-of-pokémon)
     - [Genre](#genre)
+      - [1950s Science Fiction](#1950s-science-fiction)
       - [Indian Fantasy](#indian-fantasy)
       - [Poetic Fantasy](#poetic-fantasy)
       - [Russian Fantasy and Folklore](#russian-fantasy-and-folklore)
@@ -162,6 +162,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Kobolds](#kobolds)
       - [Male Prison](#male-prison)
       - [Sergals](#sergals)
+      - [Technology (Annotated)](#technology-annotated)
       - [Wildlife](#wildlife)
     - [Abstract](#abstract)
       - [Gay](#gay)
@@ -863,6 +864,12 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - *DaystarEld - Pokemon: The Origin of Species*
 
 #### [Genre](#setting)
+
+##### [1950s Science Fiction](https://files.catbox.moe/e6cx3o.module)
+
+[by BaronJoshua](https://discord.com/channels/836774308772446268/870449646391156776/917227552735649872)
+
+*A module trained on science fiction published between or during the years 1950 and 1959. The dataset is still growing through currently the most common authors are Isaac Asimov and Philip K. Dick. Most of the stories the module was trained on come from Galaxy Science Fiction magazine as I wanted to start with some short files and to get a diversity. The largest of these texts are "Black Amazon of Mars", "Voodoo Planet", and "Wolfsbane".*
 
 ##### [Indian Fantasy](https://files.catbox.moe/7qkhsg.module)
 
@@ -1934,6 +1941,14 @@ A.K.A "Toby Fox Module"
 *The purpose of this module is to give NAI a better idea of sergals, both in canon and non-canon stories. Most of the texts used are SFW, but there're some erotic scenes too. Official Vilous Wiki (the data is cleaned by hand) + several well-written fan-fiction texts taken from FurAffinity.*
 
 *4.4 Mb, 1300 steps, 35% coverage, Loss: 2.9415.*
+
+##### [Technology (Annotated)](https://files.catbox.moe/j5hzlk.module)
+
+[by Magenta.Darkstar](https://discord.com/channels/836774308772446268/870449646391156776/917495176795131995)
+
+*A module that may improve the AI's understanding of speculative technology. In experiments, the AI is already okay at this in the tested context. Fully compatible with Pocket Notes.*
+
+*Trained on Wikipedia entries considered Hypothetical or Emerging Technologies. Annotated with `[ Describe: <tech name>; category: technology. ]` or `[ Describe: <tech name>; Tags: sci-fi; category: technology. ]`*
 
 ##### [Wildlife](https://files.catbox.moe/lzymrx.module)
 
