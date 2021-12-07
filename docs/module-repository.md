@@ -26,6 +26,13 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(7th December, 2021)
+
+- Added [(Talking About) Video Games](#video-games) module.
+- Added [Female Wrestling](#female-wrestling) module.
+- Added [Jokester](#jokester) module.
+- Updated [Girl Thoughts](#girl-thoughts) module with V4 successor(s).
+
 (6th December, 2021)
 
 - Added [1950s Science Fiction](#1950s-science-fiction) module
@@ -60,10 +67,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 - Updated [The Manwhore Scenaridule](#the-manwhore-module).
 - Updated [Giantess](#giantess) module with V4 successor.
-
-(20th November, 2021)
-
-- Updated [World of Pokemon](#world-of-pokémon) module with V4 successor.
 
 ***
 
@@ -159,10 +162,12 @@ Thus the repo continues here, where character limit concerns are a thing of the 
   - [Elements](#elements)
     - [Concrete](#concrete)
       - [The Adepta Sororitas, Daughters of the Emperor](#the-adepta-sororitas-daughters-of-the-emperor)
+      - [Female Wrestling](#female-wrestling)
       - [Kobolds](#kobolds)
       - [Male Prison](#male-prison)
       - [Sergals](#sergals)
       - [Technology (Annotated)](#technology-annotated)
+      - [Video Games](#video-games)
       - [Wildlife](#wildlife)
     - [Abstract](#abstract)
       - [Gay](#gay)
@@ -211,6 +216,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Embarrassed Naked Furry](#embarrassed-naked-furry)
       - [Furry (Short Stories)](#furry-short-stories)
       - [Gender Bender](#gender-bender)
+      - [Girl Thoughts](#girl-thoughts)
       - [Scalyuri](#scalyuri)
     - [Exponent](#exponent)
     - [Second Proseon](#second-proseon)
@@ -239,7 +245,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Gay Monsterfucking](#v3-gay-monsterfucking)
     - [(V3) Genroku Ero](#v3-genroku-ero)
     - [(V3) Giantess World](#v3-giantess-world)
-    - [(V3) Girl Thoughts](#v3-girl-thoughts)
     - [(V3) Harem Fantasy](#v3-harem-fantasy)
     - [(V3) Lesbémon](#v3-lesbémon)
     - [(V3) Loli](#v3-loli)
@@ -360,6 +365,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Worm](#v3-worm)
 - [Utilities](#utilities)
   - [Annotated Writing](#annotated-writing)
+  - [Jokester](#jokester)
   - [Stand Up Routines](#stand-up-routines)
   - [(V3) Advertisements](#v3-advertisements)
   - [(V3) The Club](#v3-the-club)
@@ -1918,6 +1924,14 @@ A.K.A "Toby Fox Module"
 >
 >'Let's go,' she said.
 
+##### [Female Wrestling](https://files.catbox.moe/wlbzbc.module)
+
+[by davits1](https://discord.com/channels/836774308772446268/870449646391156776/917813830648754236)
+
+*As the title says, this module is trained on women wrestling fanfics. It is highly focused on wrestling moves, so it could provide a good detailed description of the matches. No sexual stuff, only wrestling literature.*
+
+*You can try writing "X vs X" and you might get a good detailed match. Trained on a few fanfics from "Wanna be the strongest in the world" and Rumble Roses. Mostly 3rd person, past tense (1962 steps, 100% coverage).*
+
 ##### [Kobolds](https://files.catbox.moe/dg86p2.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/361892759/#362059151)
@@ -1949,6 +1963,23 @@ A.K.A "Toby Fox Module"
 *A module that may improve the AI's understanding of speculative technology. In experiments, the AI is already okay at this in the tested context. Fully compatible with Pocket Notes.*
 
 *Trained on Wikipedia entries considered Hypothetical or Emerging Technologies. Annotated with `[ Describe: <tech name>; category: technology. ]` or `[ Describe: <tech name>; Tags: sci-fi; category: technology. ]`*
+
+##### [Video Games](https://files.catbox.moe/6gh0ub.module)
+
+[by Zaltys](https://discord.com/channels/836774308772446268/870449646391156776/917881326244352030)
+
+*I was testing what'd happen if I trained a module on bunch of gaming related nonfiction - reviews, biographies, dash of Zero Punctuation, etc. Ended up with a module that talks about video games, but rarely gets the facts right. I wasn't planning to publish this, but it's good at creating fake reviews and coming up with weird game ideas. Maybe someone has use for that.*
+
+*Average loss 2.71, trained at 108% (18900 steps).*
+
+*(Disable bracket ban if you want data blocks in reviews.)*
+
+***Blank generation sample, first try:***
+>A man with a gun is not necessarily the most dangerous thing in video games. A man with a knife or a sword can be just as deadly, and there are plenty of other ways to kill someone without ever drawing blood at all. But what if you're playing an action game, and it turns out that your only weapon is a pair of scissors? Or worse yet, two toothbrushes?
+>
+>If this sounds like something straight from Tim Burton's nightmare factory, then congratulations: You've got The Adventures of Andi! It was developed by American studio Monolith Soft for Nintendo DS back in 2006. This bizarre little title sees players taking control of a young girl named Andi who has inherited her family home – a dilapidated mansion on the edge of town – after her parents died mysteriously one day. To get rid of any unwanted visitors (such as nosy neighbors or vengeful spirits), she must use whatever household objects are lying around to scare them away. From hammers to brooms, toilet plungers to milk jugs, these everyday items will transform into a variety of makeshift weapons as Andi wields them against her foes.
+>
+>Andi may look harmless enough, but when you see how easily she handles herself with a toothbrush...
 
 ##### [Wildlife](https://files.catbox.moe/lzymrx.module)
 
@@ -2687,6 +2718,43 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 *Good evening, deviants. I have retrained my Gender Bender module for Sigurd v4. The data is pulled from TGstorytime.com primarily from sci fi and fantasy based male-to-female transformations, so cross dressing or realistic surgery won't be as well supported. Also plenty of sex because you why you're here.*
 
+##### Girl Thoughts
+
+[25%](https://files.catbox.moe/4bjkh0.module)
+
+[50%](https://files.catbox.moe/zj5v61.module)
+
+[100%](https://files.catbox.moe/t552c0.module)
+
+[200%](https://files.catbox.moe/n6cly6.module)
+
+[4000% (Girl in the Machine)](https://files.catbox.moe/u6vmzt.module)
+
+[by chmod007](https://discord.com/channels/870618914323849228/870619535600922644/916555908534898738)
+
+*An explicit AI-generated collection of 500 girl thoughts and 500 personalities. To incorporate greater dimensionality regarding female qualia.*
+
+*104/207/414/827 steps, 25%/50%/100%/200% trained, 1.7256/1.7377/1.6957/1.6326 avg losses*
+
+(V3) 500 Girl Thoughts [25%]
+>[ Tags: girl-dreams ]
+>
+>"I'm sorry, I didn't mean to..." The words came out before she could stop them. She was so embarrassed by the whole situation that her voice cracked and broke on 'sorry'. "It's just... it really feels like you're enjoying this."
+>
+>He laughed at her comment. "You have no idea how right you are." He took a deep breath as if he were about to say something important. When his eyes met hers again they had changed. They seemed different somehow.
+>
+>[ Tags: girl-doubts ]
+>
+>"What is it?" she asked him with trepidation in her voice.
+>
+>His smile widened and he pulled her into an embrace. "Nothing," he said softly against her hair. His arms tightened around her shoulders and then released her. He looked down at her for a moment and then turned away from her. "Come here," he commanded gently.
+>
+>She followed him slowly towards the bed and lay back on top of it. Her head rested against one of the pillows and she stared up at him. He knelt between her legs and leaned over her body. Then he pressed his lips against hers and kissed her deeply. A shiver went through her when his tongue entered her mouth. He moved lower until his face hovered above her pussy.
+>
+>[ Tags: girl-smells ]
+>
+>The smell of her arousal filled his nostrils and sent another rush of desire coursing through his veins. He inhaled sharply but did not move any closer to her opening. Instead, he ran his hands lightly across her thighs. As he touched her skin, goose bumps rose all along her flesh. His fingers traced every curve and crevice of her legs. Each touch made her nipples harden even more.
+
 ##### [Scalyuri](https://files.catbox.moe/nchcow.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/360490436/#360591314)
@@ -2939,41 +3007,6 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 *I used 2.5 MB of data and 2750 steps.*
 
 *Have fun in The City Anons.*
-
-#### (V3) Girl Thoughts
-
-[25%](https://files.catbox.moe/gb4qjk.module)
-
-[50%](https://files.catbox.moe/0f8pkx.module)
-
-[100%](https://files.catbox.moe/mp06c5.module)
-
-[200%](https://files.catbox.moe/rsvghm.module)
-
-[by chmod007](https://discord.com/channels/870618914323849228/870619535600922644/886714120693481474)
-
-*An experimental collection of 500 explicit AI-generated girl thoughts to incorporate greater dimensionality regarding female qualia.*
-
-*50/100/200/400 steps, 25%/50%/100%/200% trained, 1.7737/1.8192/1.7311/1.7126 avg losses*
-
-500 Girl Thoughts [25%]
->[ Tags: girl-dreams ]
->
->"I'm sorry, I didn't mean to..." The words came out before she could stop them. She was so embarrassed by the whole situation that her voice cracked and broke on 'sorry'. "It's just... it really feels like you're enjoying this."
->
->He laughed at her comment. "You have no idea how right you are." He took a deep breath as if he were about to say something important. When his eyes met hers again they had changed. They seemed different somehow.
->
->[ Tags: girl-doubts ]
->
->"What is it?" she asked him with trepidation in her voice.
->
->His smile widened and he pulled her into an embrace. "Nothing," he said softly against her hair. His arms tightened around her shoulders and then released her. He looked down at her for a moment and then turned away from her. "Come here," he commanded gently.
->
->She followed him slowly towards the bed and lay back on top of it. Her head rested against one of the pillows and she stared up at him. He knelt between her legs and leaned over her body. Then he pressed his lips against hers and kissed her deeply. A shiver went through her when his tongue entered her mouth. He moved lower until his face hovered above her pussy.
->
->[ Tags: girl-smells ]
->
->The smell of her arousal filled his nostrils and sent another rush of desire coursing through his veins. He inhaled sharply but did not move any closer to her opening. Instead, he ran his hands lightly across her thighs. As he touched her skin, goose bumps rose all along her flesh. His fingers traced every curve and crevice of her legs. Each touch made her nipples harden even more.
 
 #### [(V3) Harem Fantasy](https://files.catbox.moe/cuj1am.module)
 
@@ -4386,6 +4419,14 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
     ***
     [ Setup: A cool winds blows over an icy vale. ]
     In the middle of winter, a traveler was walking through a snowy valley. He was a tall man, dressed in furs. His face was covered by a black hood. He carried a staff in his left hand, and a large pack on his back.
+
+### [Jokester](https://files.catbox.moe/ioxcg4.module)
+
+[by o_xyzzy](https://discord.com/channels/836774308772446268/870449646391156776/917850781879783535)
+
+*A module trained on a subset of the **Reddit jokes** data at https://github.com/taivop/joke-dataset. Training data is about 3MB, has only one-liners (i.e. the body contains 250 characters or less and has no newlines) with a score of 10 and higher. 100% coverage.*
+
+*I didn't get great results with this one and am not too surprised - humor is difficult even with GPT3. Wanted to share anyway in case someone wants to experiment.*
 
 ### [Stand Up Routines](https://files.catbox.moe/2gt8t1.module)
 
