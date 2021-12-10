@@ -26,6 +26,15 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(10th December, 2021)
+
+- Updated [The Manwhore Module](#the-manwhore-module).
+- Added [P. G. Wodehouse](#pelham-grenville-wodehouse) module.
+- Added [Disney's Tales of Pixie Hollow](#tales-of-pixie-hollow) module.
+- Added [Seinfeld](#seinfeld) module.
+- Updated [Femdom](#femdom) module with V4 successor.
+- Added [Cougar](#cougars) module.
+
 (9th December, 2021)
 
 - Added [Lolicon/Shotacon](#lolis-and-shotas) module.
@@ -64,16 +73,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Updated [Sergals](#sergals) module with V4 successor.
 - Updated [Furry (Short Stories)](#furry-short-stories) module with V4 successor.
 
-(22nd November, 2021)
-
-- Added [WW1 - Western Front](#the-great-war---western-front) module.
-- Added [Smalltown Folk](#smalltown-folklore) module.
-
-(21st November, 2021)
-
-- Updated [The Manwhore Scenaridule](#the-manwhore-module).
-- Updated [Giantess](#giantess) module with V4 successor.
-
 ***
 
 ## [Table of Contents](#modules)
@@ -87,6 +86,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [C. S. Lewis](#c-s-lewis)
     - [George Orwell](#george-orwell)
     - [Meggin Patricia Cabot](#meggin-patricia-cabot)
+    - [Pelham Grenville Wodehouse](#pelham-grenville-wodehouse)
     - [Richard Samet "Kinky" Friedman](#richard-samet-kinky-friedman)
     - [Rod Serling](#rod-serling)
     - [(V3) Carl Gustav Jung](#v3-carl-gustav-jung)
@@ -213,11 +213,13 @@ Thus the repo continues here, where character limit concerns are a thing of the 
   - [Sexual](#sexual)
     - [Beings](#beings)
       - [Androids, Robots, Aliens, Harems](#androids-robots-aliens-harems)
+      - [Cougars](#cougars)
       - [Dragon Smut](#dragon-smut)
       - [Futarotica](#futarotica)
       - [Giantess](#giantess)
       - [Lolis and Shotas](#lolis-and-shotas)
     - [Acts](#acts)
+      - [Femdom](#femdom)
       - [Interracial Cuckoldry](#interracial-cuckoldry)
       - [Netorare](#netorare)
     - [Circumstances](#circumstances)
@@ -240,7 +242,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Erotic Horror](#v3-erotic-horror)
     - [(V3) Erotic Roleplay](#v3-erotic-roleplay)
     - [(V3) Fantasy Anthro](#v3-fantasy-anthro)
-    - [(V3) Femdom](#v3-femdom)
     - [(V3) Foot](#v3-foot)
     - [(V3) Furbianism](#v3-furbianism)
     - [(V3) Furcest](#v3-furcest)
@@ -283,6 +284,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
   - [Literature](#literature)
     - [Classic](#classic)
       - [Le Morte D'Arthur](#le-morte-darthur)
+      - [Tales of Pixie Hollow](#tales-of-pixie-hollow)
     - [Modern](#modern)
       - [Nineteen Eighty-Four](#nineteen-eighty-four)
     - [(V3) Animorphs](#v3-animorphs)
@@ -371,6 +373,8 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Trial By Tenderness](#v3-trial-by-tenderness)
     - [(V3) Welcome to Night Vale](#v3-welcome-to-night-vale)
     - [(V3) Worm](#v3-worm)
+  - [Scripts](#scripts)
+    - [Seinfeld](#seinfeld)
 - [Utilities](#utilities)
   - [Aesop Rock Lyrics](#aesop-rock-lyrics)
   - [Annotated Writing](#annotated-writing)
@@ -462,6 +466,18 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 *The testing I've done shows a pretty decent emulation of her writing style, lending to choppy sentences that sound like they came straight out of a teenage girl's mouth. Plenty of "I mean"s, "like"s, "whatever"s, and rhetorical questions to the reader that makes narration feel your best gal pal is complaining about trivialities and cavalierly glossing over more horrifying topics while you take a Seventeen magazine quiz.*
 
 *This is not going to be a module that lends toward verbose or cerebral story-telling. It's pure guilty pleasure for when you're just Not Like Other Girls, and you can't even bother to pretend today. Trained at 35.52% with 1,500 steps.*
+
+#### [Pelham Grenville Wodehouse](https://files.catbox.moe/bsx6ei.module)
+
+[by Spoder](https://discord.com/channels/836774308772446268/870449646391156776/918734700892282910)
+
+*Wodehouse was a legendary humorist and the creator of Jeeves&Wooster. Occasionally produces really good results, but to be fair I find myself hitting retry quite a bit until I find something that continues the flow. If you're looking for dry, self-deprecating British humor that reeks of public schools and Edwardian smug it's probably a good module to try.*
+
+*Trained to 50.02% with 4080 steps.*
+
+*Trained on 22 full novels and collections; 608,000+ words.*
+
+*Much Obliged, Jeeves, The Inimitable Jeeves, Stiff Upper Lip, Jeeves, Right Ho Jeeves, Jeeves in the Offing, My Man Jeeves, The Man with Two Left Feet, The Girl on the Boat, Psmith in the City, Three Men and a Maid, Tales of St. Austin's, The Adventures of Sally, The Clicking of Cuthbert, The Prince and Betty, The Gold Bat, The Coming Of Bill, The Little Nugget, Something New, Spring Fever, Mike and Psmith, Not George Washington , Love Among The Chickens*
 
 #### [Richard Samet "Kinky" Friedman](https://files.catbox.moe/vb8ohm.module)
 
@@ -2101,20 +2117,21 @@ A.K.A "Toby Fox Module"
 
 *I am legit making up crap because I have no idea how bad this module is.*
 
-##### [The Manwhore Module](https://files.catbox.moe/q8on0d.scenario)
+##### [The Manwhore Module](https://files.catbox.moe/bi08mv.module)
 
-[by Manwhore](https://arch.b4k.co/vg/thread/359952842/#360055304)
+[by Manwhore](https://arch.b4k.co/vg/thread/363371321/#363469298)
 
-*Bear witness, gentlemen, to my newest coomtech creation!*
+*A most pleasant evening to you, my fellow coomers!*
 
-*I've been hitting the lab ever since v4 dropped to get my template scenario polished up and hitting even higher smut-producing heights. And now, it's ready for you to mutilate as you see fit.*
+*I emerge once again from my musty laboratory with a brand new machination of maniacal masturbation for your general meddling and mutilation. Indeed, this is no version bump, but a brand-new module I have produced following a strange line of thinking: reducing my training data. Sounds weird, I know, but I decided to conduct a thorough audit of all the stuff I had thrown into the original Manwhore Module, and discovered that a lot of it was some mixture of out-dated, cringe, or unchecked AI-spooled mush.*
 
-*Inside you'll find further refinements of my low-randomness TFS settings package, a fresh bundle of redone phrase biases at new weights paired with a banned token or two, and most importantly, the fifth version of my personal module, retrained with new data and higher percentage of steps for Sigurd v4.*
+*This resulted in a purge of nearly 70% of the module's extant data, which had me very concerned. But, in a real "eh fuck it moment", I decided to clean, format, and train a module on what remained instead of waiting to beef up the dataset with new written material. The results were... shocking, to say the least. It's almost embarrassing to admit, but this module and its newly-derived series of accompanying settings actually performs better than the original Manwhore Module on all my test runs by a considerable (subjective) margin. Just like its predecessor, this module is trained to excel at a wide range of first-person storytelling, with a general focus on smut/romance with monster-girls.
 
-*I've taken this package for a spin on multiple different prompts from my private reserve, and so far the thing's been an incredible workhorse. On a sunny day this bad boy takes me from start to finish on a scenario for a whopping three to four re-rolls total, with everything from vanilla sex to moth-girl maternal femdom involving four hands and aphrodisiac powder. Let me know what I fucked up, how it runs, etc.*
+*[Here is] the new template scenario, which includes updated companion settings, phrase biases, and banned tokens: https://files.catbox.moe/l7t0w9.scenario*
 
-*Enjoy.*
+*This new template version represents another round of refinements for my low-randomness TFS formula: a 0.005 increase in randomness to help cure a lack of initiative from the AI, maximized output length, a mildly-incremented TFS value, extended repetition penalty range, and the addition of 'tight' to the banned tokens—because holy shit that word gets annoying.*
 
+*Hope it treats you well, bros. Enjoy.*
 ##### [Purely Purple Prose](https://drive.google.com/file/d/17iMgCgBeBYr-TEe81ekuEJRsCukZzL1D/view?usp=sharing)
 
 [by Dichotomy](https://discord.com/channels/836774308772446268/870449646391156776/908617137835360296)
@@ -2659,6 +2676,12 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 >
 >It nodded its head. I smiled, knowing that I had made the right decision. I needed to take care of it, and if it wanted me to do that, then I would.
 
+##### [Cougars](https://files.catbox.moe/gdm9g4.module)
+
+[by Naliamegod](https://discord.com/channels/870618914323849228/870619535600922644/918466029301170208)
+
+*A module I made based around mature and older women tagged stories of Literotic.  Does not just contain stories from the mature category, but I try to grab a bit from a variety of categories as well.  Works well any any scenario involving a older woman/younger man.  Also expect a bit of femdom, incest, and group play.  Made with V4 in mind, but I labelled it V3 when training because this was my third attempt at this.*
+
 ##### [Dragon Smut](https://files.catbox.moe/6yn00s.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/360490436/#360591314)
@@ -2700,6 +2723,12 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 *The best of four modules from ATF.*
 
 #### [Acts](#sexual)
+
+##### [Femdom](https://files.catbox.moe/ksusci.module)
+
+[by Naliamegod](https://discord.com/channels/870618914323849228/870619535600922644/918464075581767700)
+
+*This is an update to my Femdom module I made a while ago. This uses more data based on the Liteerotic collection and is updated to V4 (ignore anything that says V3 about the file; this is in reference to being my third whack at it).  Unfortunately, I did this a while ago but it was about 11 mb of text trained at 30%.*
 
 ##### [Interracial Cuckoldry](https://files.catbox.moe/jvuy25.module)
 
@@ -2938,12 +2967,6 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 [by Lykmn](https://discord.com/channels/854479693503660032/870494065446248458/878011610533339136)
 
 *Module based on curated LitErotica stories. Focused on anthro / monstergirl with misc. fantasy elements. ~3000 steps*
-
-#### [(V3) Femdom](https://files.catbox.moe/e8llfo.module)
-
-[by Naliamegod](https://discord.com/channels/854479693503660032/870494065446248458/884103607186763856)
-
-*As requested, here is a module of Femdom tagged entries from Literotic with my free steps.*
 
 #### [(V3) Foot](https://files.catbox.moe/qifdgc.module)
 
@@ -3322,6 +3345,7 @@ Mostly male human x female pokemon, but there are a few in there that contain ma
 - [Light Novel](#light-novel) - *Japanese young adult novels.*
 - [Text Game](#text-game) - *Text-based computer games, usually NSFW.*
 - [Web Fiction](#web-fiction) - *Another generic term for any written fiction that is first uploaded and intended to be consumed on or through the internet.*
+- [Scripts](#Scripts) - *Text versions of dialog and actions in media, to then be used as a guideline for TVs, films, and other performance media.*
 
 ***
 
@@ -3350,6 +3374,29 @@ Mostly male human x female pokemon, but there are a few in there that contain ma
 >"Nay," said the small knight, "I will keep faith with you, for I love you better than my soul."
 >
 >So they parted, and Sir Percival rode to Camelot, and told the king of the matter, and the king bade make the small knight welcome, and let bring him into the hall.
+
+##### [Tales of Pixie Hollow](https://files.catbox.moe/i91z3x.module)
+
+[by Kitty](https://discord.com/channels/836774308772446268/870449646391156776/918779800418680863)
+
+*If you head toward the second star on your right and fly straight on till morning, you'll come to Never Land, a magical island where mermaids play and children never grow up. When you arrive, you might hear something like the tinkling of little bells. Follow that sound and you'll find Pixie Hollow, the secret heart of Never Land, along with hundreds of fairies and sparrow men. Some can do water magic, others can fly like the wind, and still others can speak to animals. You see, each fairy who lives here has a special, extraordinary talent...*
+
+*Contains all 24 books from the Tales from Pixie Hollow series.*
+
+*The files were converted with Calibre and then cleaned under the Datasetting Guide. (1.29mb, 1520 steps, 100% coverage, 2.3 loss)*
+
+*This module tends to use simple sentence structures. This can be fixed with negative bias sets like Story Flow Control, alternate presets, and by adding verbose somewhere in the A/N.*
+
+(Storywriter, no prompt/biases)
+>"You know, Tink," said Fawn. "I'm going to miss you." She squeezed her friend's shoulder with one hand and reached out with the other for a hug.
+>
+>Tinker Bell blushed. She couldn't bear it when someone touched her wings—they were so delicate! But she didn't want to say no. So instead she gave Fawn a quick hug and stepped back.
+>
+>Fawn looked disappointed. "Well, I guess that's it then." She picked up the lantern. "Good-bye, Tinker Bell!" With that, she flew off into the night.
+>
+>"Good-bye, Fawn," called Tink. She watched until she was sure the fairy had flown far enough away. Then she turned toward Pixie Hollow. The air smelled of lilacs and sweet clover as she flew over the meadow.
+>
+>She landed on a tree branch near the Home Tree.
 
 #### [Modern](#works)
 
@@ -4410,6 +4457,61 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 [by Somdudewillson](https://discord.com/channels/836774308772446268/870449646391156776/902351613879001109)
 
 *A remake of my earlier module made from Wildbow's web serial Worm, but this time with 100% coverage using ~10.6k steps.*
+
+***
+
+### [Scripts](#works)
+
+#### [Seinfeld](https://files.catbox.moe/rwa3y8.module)
+
+[by o_xyzzy](https://discord.com/channels/836774308772446268/870449646391156776/918837944511516693)
+
+*Seinfeld for Sigurd v4. Trained on [[this] transcript](https://www.kaggle.com/luongleanstocode/seinfeld-text-corpus/version/3) to 100% with 4520 steps.*
+*Did minimal editing to align "Opening Monologue" tags and split the files into episodes using these.*
+
+>**[Jerry's Apartment]**
+>
+>(Kramer and Jerry are sitting on the couch.)
+>
+>JERRY: Hey, Kramer. You wanna play some poker?
+>
+>KRAMER: Yeah! I'll take a break from my day job to come over here and play with you guys.
+>
+>JERRY: (Sarcastically) Oh yeah, well you're gonna be out of work soon anyway.
+>
+>KRAMER: What?!
+>
+>JERRY: Well it looks like your time is up. It's all over for you.
+>
+>KRAMER: No way!
+>
+>JERRY: Yes way! Your boss called me this morning and told me that they were going to fire you. And he said that if I wanted a recommendation letter for another company, I should tell him about it right now.
+>
+>KRAMER: He can't do that! I'm the best thing ever happened to this place!
+>
+>JERRY: Well unfortunately, you're not good enough anymore.
+>
+>KRAMER: I don't believe this!
+>
+>JERRY: Believe it.
+>
+>(George walks in.)
+>
+>GEORGE: Hey Jerry, did you hear the news? They fired Kram-er!
+>
+>KRAMER: That's terrible!
+>
+>JERRY: Come on, George. He's just kidding around.
+>
+>GEORGE: Really? Because I think he's serious.
+>
+>KRAMER: (To Jerry) Okay, look. You know what? I'll get you back. I'll get you back.
+>
+>JERRY: All right, let's play cards.
+>
+>KRAMER: No, no, we gotta find out who killed Mrs. Kubitzki.
+>
+>GEORGE: Whoa, wait a minute, wait a minute.
 
 ***
 
