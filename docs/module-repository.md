@@ -29,6 +29,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 (9th December, 2021)
 
 - Added [Lolicon/Shotacon](#lolis-and-shotas) module
+- Added [Aesop Rock Lyrics](#aesop-rock-lyrics) module
 
 (7th December, 2021)
 
@@ -369,6 +370,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Welcome to Night Vale](#v3-welcome-to-night-vale)
     - [(V3) Worm](#v3-worm)
 - [Utilities](#utilities)
+  - [Aesop Rock Lyrics](#aesop-rock-lyrics)
   - [Annotated Writing](#annotated-writing)
   - [Jokester](#jokester)
   - [Stand Up Routines](#stand-up-routines)
@@ -4401,6 +4403,62 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 
 ## [Utilities](#modules)
 {: .center}
+
+### [Aesop Rock Lyrics](https://files.catbox.moe/hmmx06.module)
+
+[by Churgethoth](https://discord.com/channels/836774308772446268/870449646391156776/918259696257884220)
+
+*I copies all the lyrics from rap artist Aesop Rock's albums Garbology, Spirit World Field Guide, Malibu Ken, Freedom Finger, Bestiary (Hail Mary Mallon), Are You Gonna Eat That? (Hail Mary Mallon), Impossible Kid, Skelethon, Bazooka Tooth, Labor Days, and several singles.*
+
+*It generates some free verse song lyrics reflecting the style and subject matter of Aesop Rock. Occasionally interesting rhymes are buried between the lines.*
+
+>We see this behavior from time to time, like an ode to Bob Ross
+>
+>Killing wolves out of season, why would anyone do that?
+>
+>Backwoods lunatics. Really bored twats who take their animals as pets
+>
+>Eggs for our good king, no problem. When I say stolen things
+>
+>To the raincoated bros clapping around the dinner table
+>
+>Tattoo me green and tattoo me glad, old blood-crawling spider grubs
+>
+>Healing scars only fans will ever understand
+>
+>After each vacation, I miss my space friend, I missed him then
+>
+>Bumpin' to BPM my booty clap while screaming something angry
+>
+>It ain't hip hop and it ain't punk, but I'll roll like a postman
+>
+>Slowing down that clock to witness myself live like art gone free
+>
+>The body inside out, it need four weeks in the tube
+>
+>Take enough sapphire needles through your flesh to call a plane crash
+>
+>I pray for a reversal so those three colors can collide
+>
+>When they crash and burn all hope they were asleep at night
+>
+>They seem shocked at the accident, another mile or two into the sky
+>
+>"Shit, it wasn't supposed to happen." So, I say they don't die young
+>
+>Everyone says what everyone says
+>
+>When all I know is everything, all these mistakes are too loud
+>
+>If we had wings, that'd be cheating, but when you're stuck here
+>
+>Might as well want to fly away to land in a black void where I sit alone
+>
+>In free fall if gravity was bad, God would have us stay put
+>
+>On the lips of others like family dead poets complaining
+>
+>This thing called poetry.
 
 ### [Annotated Writing](https://files.catbox.moe/rxvq1j.module)
 
