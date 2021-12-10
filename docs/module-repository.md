@@ -26,6 +26,10 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(9th December, 2021)
+
+- Added [Lolicon/Shotacon](#lolis-and-shotas) module
+
 (7th December, 2021)
 
 - Added [(Talking About) Video Games](#video-games) module.
@@ -209,6 +213,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Dragon Smut](#dragon-smut)
       - [Futarotica](#futarotica)
       - [Giantess](#giantess)
+      - [Lolis and Shotas](#lolis-and-shotas)
     - [Acts](#acts)
       - [Interracial Cuckoldry](#interracial-cuckoldry)
       - [Netorare](#netorare)
@@ -2673,6 +2678,12 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 - *Undeserved Power*
 - *Big Nymphomaniac*
 - *Growing At the Mall*
+
+##### [Lolis and Shotas](https://files.catbox.moe/g1o05d.module)
+
+[procured by Anon](https://arch.b4k.co/vg/thread/362119817/#q362312148)
+
+*The best of four modules from ATF.*
 
 #### [Acts](#sexual)
 
