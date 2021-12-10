@@ -28,8 +28,9 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 (9th December, 2021)
 
-- Added [Lolicon/Shotacon](#lolis-and-shotas) module
-- Added [Aesop Rock Lyrics](#aesop-rock-lyrics) module
+- Added [Lolicon/Shotacon](#lolis-and-shotas) module.
+- Added [Aesop Rock Lyrics](#aesop-rock-lyrics) module.
+- Added [Meg Cabot (Teen Romance)](#meggin-patricia-cabot) module.
 
 (7th December, 2021)
 
@@ -85,6 +86,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [Beatrix Potter](#beatrix-potter)
     - [C. S. Lewis](#c-s-lewis)
     - [George Orwell](#george-orwell)
+    - [Meggin Patricia Cabot](#meggin-patricia-cabot)
     - [Richard Samet "Kinky" Friedman](#richard-samet-kinky-friedman)
     - [Rod Serling](#rod-serling)
     - [(V3) Carl Gustav Jung](#v3-carl-gustav-jung)
@@ -450,6 +452,16 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 [by Anon](https://arch.b4k.co/vg/thread/359155218/#359495805)
 
 *Someone suggested to do this as a module. Done.*
+
+#### [Meggin Patricia Cabot](https://files.catbox.moe/5s7173.module)
+
+[by tsuki](https://discord.com/channels/836774308772446268/870449646391156776/918660280102313986)
+
+*Small module trained on some of Meg Cabot's teen romance novels that have a paranormal or fantasy element to them. The Princess Diaries are NOT included.*
+
+*The testing I've done shows a pretty decent emulation of her writing style, lending to choppy sentences that sound like they came straight out of a teenage girl's mouth. Plenty of "I mean"s, "like"s, "whatever"s, and rhetorical questions to the reader that makes narration feel your best gal pal is complaining about trivialities and cavalierly glossing over more horrifying topics while you take a Seventeen magazine quiz.*
+
+*This is not going to be a module that lends toward verbose or cerebral story-telling. It's pure guilty pleasure for when you're just Not Like Other Girls, and you can't even bother to pretend today. Trained at 35.52% with 1,500 steps.*
 
 #### [Richard Samet "Kinky" Friedman](https://files.catbox.moe/vb8ohm.module)
 
