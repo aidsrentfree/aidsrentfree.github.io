@@ -2127,7 +2127,7 @@ A.K.A "Toby Fox Module"
 
 *This resulted in a purge of nearly 70% of the module's extant data, which had me very concerned. But, in a real "eh fuck it moment", I decided to clean, format, and train a module on what remained instead of waiting to beef up the dataset with new written material. The results were... shocking, to say the least. It's almost embarrassing to admit, but this module and its newly-derived series of accompanying settings actually performs better than the original Manwhore Module on all my test runs by a considerable (subjective) margin. Just like its predecessor, this module is trained to excel at a wide range of first-person storytelling, with a general focus on smut/romance with monster-girls.
 
-*[Here is] the new template scenario, which includes updated companion settings, phrase biases, and banned tokens: https://files.catbox.moe/l7t0w9.scenario*
+*Here is the new template scenario, which includes updated companion settings, phrase biases, and banned tokens: https://files.catbox.moe/l7t0w9.scenario*
 
 *This new template version represents another round of refinements for my low-randomness TFS formula: a 0.005 increase in randomness to help cure a lack of initiative from the AI, maximized output length, a mildly-incremented TFS value, extended repetition penalty range, and the addition of 'tight' to the banned tokens—because holy shit that word gets annoying.*
 
