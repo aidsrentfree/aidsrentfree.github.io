@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "/aids/ Theme Event Fridays"
-permalink: /fridays/
+permalink: /fridaids/
 ---
 
 <style>
@@ -33,11 +33,53 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 - [Rules](#rules)
 - [The Log](#the-log)
+- [The Friday of *Villainesses*](#the-friday-of-villainesses)
+  - [*True Love's First (Cloacal) Kiss*](#true-loves-first-cloacal-kiss)
+  - [*Under the Heel*](#under-the-heel)
+  - [*A Better, More Demonic World*](#a-better-more-demonic-world)
+  - [*Vampiric Mistress*](#vampiric-mistress)
+  - [*Albedo Makes Herself a Toy-Ainz*](#albedo-makes-herself-a-toy-ainz)
+  - [*Twisted Rose*](#twisted-rose)
+  - [*Madam White Snake Abuses Privilege and Concubines*](#madam-white-snake-abuses-privilege-and-concubines)
+  - [*The Prince(ss) of Crime*](#the-princess-of-crime)
+  - [*Trapped by Mirai*](#trapped-by-mirai)
+  - [*Close Encounters of the Erotic Kind*](#close-encounters-of-the-erotic-kind)
+  - [*The Slaver of Gratia*](#the-slaver-of-gratia)
+  - [*The Villainess's Fate After Reaching The True End*](#the-villainesss-fate-after-reaching-the-true-end)
+  - [*Devil Mother*](#devil-mother)
+  - [*Unexpected Villain*](#unexpected-villain)
+  - [*Madam Silverpaw the Villainess Fox-Thief Faces Masculine Justice*](#madam-silverpaw-the-villainess-fox-thief-faces-masculine-justice)
+  - [*Mistress Mei Teaches Dark Magic*](#mistress-mei-teaches-dark-magic)
+  - [*In Sickness and in Health*](#in-sickness-and-in-health)
+  - [*Blood for the Blood... Girl?*](#blood-for-the-blood-girl)
 - [The Friday of *Animals*](#the-friday-of-animals)
   - [*Seamen World*](#seamen-world)
   - [*Mudsdale Used Body Press!*](#mudsdale-used-body-press)
   - [*Kalphite Queen Head*](#kalphite-queen-head)
   - [*A Dog-Girl in Heat*](#a-dog-girl-in-heat)
+  - [*Dread Pirate Gloria and Her Voracious Wolf Fluffy*](#dread-pirate-gloria-and-her-voracious-wolf-fluffy)
+  - [*Feathered Serpent Mayan 'Goddess' Enjoys Sacrificial Female Feast*](#feathered-serpent-mayan-goddess-enjoys-sacrificial-female-feast)
+  - [*Fat Knot Rock*](#fat-knot-rock)
+  - [*Unwanted Allure*](#unwanted-allure)
+  - [*Griffon Rider Knight Helps His Bird-of-Prey Dispense Gooey Justice*](#griffon-rider-knight-helps-his-bird-of-prey-dispense-gooey-justice)
+  - [*A Ride Out*](#a-ride-out)
+  - [*Chateau au Chattes*](#chateau-au-chattes)
+  - [*Succu-joints, CH1! The Cold Embrace*](#succu-joints-ch1-the-cold-embrace)
+  - [*Sheep Rekt*](#sheep-rekt)
+  - [*Bat Intruder*](#bat-intruder)
+  - [*Liquid Feargasm*](#liquid-feargasm)
+  - [*Turkey Tail*](#turkey-tail)
+  - [*Paladin Moralizes at Petulent, Predatory Dragoness*](#paladin-moralizes-at-petulent-predatory-dragoness)
+  - [*Smug Gnome Druid Fertilizes Forest With Amazons*](#smug-gnome-druid-fertilizes-forest-with-amazons)
+  - [*Animal Town*](#animal-town)
+  - [*Beasties and Swampy Cities - Guzzle*](#beasties-and-swampy-cities---guzzle)
+  - [*Dog Almighty*](#dog-almighty)
+  - [*The Gluttunous Beasts of Galon Intergalactic Zoo*](#the-gluttunous-beasts-of-galon-intergalactic-zoo)
+  - [*Adventure Family and Scouring the Pig Wood*](#adventure-family-and-scouring-the-pig-wood)
+  - [*A Goblin and His Wolf*](#a-goblin-and-his-wolf)
+  - [*Not That Type of Dog Person*](#not-that-type-of-dog-person)
+  - [*Little Pet Shop of Horrors*](#little-pet-shop-of-horrors)
+  - [*A Haunting at Goldenrod Academy*](#a-haunting-at-goldenrod-academy)
 - [The Friday of *Office Women*](#the-friday-of-office-women)
   - [*Spess Loli on a Spess Station (SS13)*](#spess-loli-on-a-spess-station-ss13)
   - [*Akame Sings Metal*](#akame-sings-metal)
@@ -176,6 +218,356 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 ***
 
+## The Friday of *Villainesses*
+{: .center}
+
+Let's make prompts about the antagonists, those like us but morally opposed; our greatest (female) adversaries.
+{: .center}
+
+December 10th, 2021
+{: .center}
+
+### *True Love's First (Cloacal) Kiss*
+{: .center}
+
+*<https://prompts.aidg.club/2741>*
+{: .center}
+
+![Import me!](https://files.catbox.moe/g5jj5n.png)
+{: .center}
+
+>*With a plume of billowing green smoke, Maleficent began to transform. Sprouting huge tattered wings and a long serpentine tail, she grew bigger and bigger until she was a gigantic, winged monster. With black scales covering her body, and bright green eyes glowing in the darkness, she was a fearsome sight. Her tongue flicked in and out, tasting the air as she looked upon the Prince with malice and contempt.*
+>
+>*"Come now, don't tell me you're scared of a mere dragon." Maleficent teased, licking the side of her mouth with her long, forked tongue, "I can practically hear your heart beating through your chest. I can smell your intoxicating fear!"*
+>
+>*Prince Phillip, however, did not back down. "I am not afraid of you, witch!" he shouted, "I will not let you hurt anyone else ever again!"*
+>
+>*"Well, if it isn't fear that I smell, what is it?" Maleficent asked, her tone becoming more contemptuous, "Is it desire?"*
+
+Normally when the villainess converts the hero over to her side, manipulating him with her body, and forcing him to fall for her and for her plans, it would be considered a bad end. In this case, since Maleficent is the best Disney girl, that doesn't apply in this case, this is absolutely the best ending possible. Why would you pick some sleeping slut over the best dragon in media?
+
+### *Under the Heel*
+{: .center}
+
+*<https://prompts.aidg.club/2745>*
+{: .center}
+
+![](https://files.catbox.moe/og74jg.jpg)
+{: .center}
+
+>*Everybody on the first floor immediately ceased their frenzy and quickly assembled into two makeshift parallel lines besides the main doorway as the shadows of two very large body guards opened the doors and rolled out a red carpet upon the floor. The novices shook in place from terror, while the veterans gulped in fear. Soon after the sound of clacking heels could be heard as a pale woman dressed in a sharp white suit slowly entered the building and stopped past the door's entrance. A golden helmet obscured her face, but even so her intent and demeanor was known to all in attendance. Judging by the general hostility exuding from her and the multiple smoking bits of hair and clothing, it was safe to surmise that her latest encounter with the local crusader of justice had not gone as she had anticipated, and her killing aura desired nothing more than to surge outward and slay the whole of the buildings occupants.*
+
+Working under a villainess is hard work.
+
+### *A Better, More Demonic World*
+{: .center}
+
+*<https://prompts.aidg.club/2746>*
+{: .center}
+
+![](https://files.catbox.moe/1qb253.jpg)
+{: .center}
+
+>*"Quiet, demon. You will fall just like all your underlings," I reply, pointing my holy blade at her. A lot of my enemies try to talk, but at this point, I really do not have any time to spare for this idle prattle. A quick thrust will do away with her just fine, or so I thought. For as I stab forwards, expecting my sword to meet her flesh, she simply blinks out of existence, reappearing a few feet further away.*
+>
+>*"Oooh, so forceful! You must be pent up beyond compare, great hero! I bet with all the demons, sorcerers, dark knights and more that need slaying, you must not have had a lot of time for laying, eh?" Again, she cackles, way too pleased at her own joke. "C'mon now, Rich—I can call you Rich, right?—I know a guy that hasn't fucked in months when I see one. Is it really worth it, doing all this for some goddess with tits like mountains that never puts out?"*
+>
+>*Another stab from my end, and another teleport from her. "Do not besmirch the great name of Taris with your vile demonic language, Pitchtail! I will cut you down where you stand!" I yell, even though I can't help but feel like there's something wrong here. This shouldn't be this difficult.*
+>
+>*The demon queen's haughty behavior only intensifies with her amusement at my struggle. "Oh, what's this? Can't thrust like you used to, Rich? I don't think you'll be needing that sharp thing anymore, you'l just hurt yourself. Let me deal with that." And then, with a swift move of her hand, my sword flies out of my hand and straight out a window. While I cannot see my own face, the expression on it must now be one of total shock. This wasn't supposed to happen! Isn't this exactly what Taris protected me against?*
+>
+>*Again, she cackles, even louder this time. "Awww... did I take your toy away? If only your goddess had protected you against demon women like me! Oh wait... I'm not a demon woman. If only your useless goddess was able to cast more general spells, you wouldn't be surprised when a demon boy shows up!"*
+
+When you set out to defeat the evil demon queen with protection from the goddess that prevents you from falling prey to seduction from demonic women, you didn't expect the specific wording of the spell to be an issue. Turns out, you expected wrong.
+
+### *Vampiric Mistress*
+{: .center}
+
+*<https://prompts.aidg.club/2744>*
+{: .center}
+
+![](https://files.catbox.moe/bjy792.jpg)
+{: .center}
+
+>*I tried to ignore her seductive looks, but my mind kept returning to the countess' ample chest. Though, a question came to mind, one I had to ask. "Why would you need my help anyway? You're a powerful vampire. What do you need a human hunter for?"*
+>
+>*Anastasia's eyes flashed red, and she leaned closer to me. "I am not all powerful yet. Many others seek my head, more than I can deal with. Attacking them myself would draw too much attention, but a vampire hunter doing so? No one will suspect a thing. Now, what do you say, little hunter? Will you join me?"*
+>
+>*Anastasia's words were sweet, but her eyes gave her true intentions away. She wanted me to work for her, but only because she knew I wouldn't be able to resist her charms. That's why she made the offer. And even though I wasn't stupid enough to fall for her flattery, I still had to consider my options. If I refused, I'm dead. If I joined her, maybe I could survive.*
+>
+>*"What kind of terms do you have in mind?" I asked, hoping to find a way out of this mess.*
+
+(You) are a vampire hunter who gets caught by a vampire.
+
+### *Albedo Makes Herself a Toy-Ainz*
+{: .center}
+
+*<https://prompts.aidg.club/2747>*
+{: .center}
+
+![](https://files.catbox.moe/xsiens.jpg)
+{: .center}
+
+>*Today these emotions had come to a climax; Albedo-sama changed my voice to perfectly mimic that of Ainz. To test how true to the original my voice sounded I simply said her name, and told her she did a good job. I figured it was a simple enough thing. And it was, it made her happy. Too happy. Nobody could have expected how her joyous face twisted into a mask of mad ecstasy. Her arousal at hearing a perfect copy of Master Ainz's voice echoing from my skeletal maw seemed to have triggered something inside her. She was panting as she looked me up and down, her long tongue darting out to languidly lash across her lush lips, her entire body vibrating with excitement.*
+
+Be Albedo's toy. Things can get pretty weird, but it's fun; at least to me.
+
+### *Twisted Rose*
+{: .center}
+
+*<https://prompts.aidg.club/2748>*
+{: .center}
+
+![](https://files.catbox.moe/dv2ofb.jpg)
+{: .center}
+
+>*"After all the harm you've done? I'm pretty sure I'll manage to choke the life out of you long before any help gets here." You say confidently as you tighten your grip around her neck.*
+>
+>*She simply laughs as much as she can as her airways begin to constrict. She says as mockingly as she can, "Then do it. But don't expect to see your beloved Delilah again if you do."*
+>
+>*"What?!" You exclaim in surprise.*
+>
+>*Her eyes widen in amusement as she continues, "Oh, did you really think she was dead? That was one of my sloppiest fake deaths and you fell for it so easily. I suppose love does cloud one's judgment She's still alive, he-ro."*
+>
+>*Your heart sinks and you let go of her neck. As she tries to pull away, you grab her and slam her back down against the concrete floor. You lean down close to her face and glare into her eyes. "Where is she?!"*
+>
+>*She seems to enjoy the fear in your eyes as she answers, "Don't worry, He-ro. She's closer than you think."*
+>
+>*"Tell me!" You demand.*
+>
+>*She looks up at you with pity in her eyes. "Do you really want to know? Could you handle the heartbreak?"*
+>
+>*You are a bit disturbed by how genuine her normally monstrous voice is starting to sound.*
+>
+>*"I'll give you a hint. It's a place you would never think to look." She coos with a knowing smirk.*
+
+Capturing your nemesis was supposed to be something worth celebrating. It wasn't.
+
+### *Madam White Snake Abuses Privilege and Concubines*
+{: .center}
+
+*<https://prompts.aidg.club/2749>*
+{: .center}
+
+![](https://files.catbox.moe/bz24bm.jpg)
+{: .center}
+
+>*Only hours later, Lady Bai shivered with perverse anticipation as the eunuch guards lead her through the emperor's personal, walled, harem-complex. She had resumed her human disguise, but could barely disguise her leering, predatory gaze, which made the normally respected concubines shiver in fear as she passed. As she passed through the ornate grounds, she wordlessly gestured for the guards to gather women of her choosing, one after another, until the eunuchs were leading a congregation of four scared concubines, who wordlessly followed their directions in submissive grace. She had the guards lead the four, increasingly scared young women up to her new quarters in the harem complex. She beamed inwardly with pride, as she saw the imperial porters bringing expensive lacquered furniture and other lavish trappings to her room, at Huang's bidding. As the eunuch guards lined the four concubines up in her room, Lady Bai flippantly dismissed the porters and guards with a wave, as the four women jumped as the large, wooden doors to her room shut firmly behind the last departing guard.*
+>
+>*The witch shuddered with excitement, as she wordlessly marched back and fourth in front of the gathered concubines, who kept their almond-shaped eyes downcast as they waited for her to break the silence, "You women shall call me Lady Bai. Considering how incredibly intimate we are all about to become, I think it's best if I dropped any pretenses about myself, or my intentions towards you all." said smugly, as she dismissed her enchanted disguised, and assumed her true-form as a snake-woman.*
+
+Emperor Huang, first to unify China as a single empire, fears death. He has posted notices across the four corners of ancient China, calling for all who know of ways to extend life to visit his court and share their methods for Imperial boons. Two mystical, semi-spirit animal creatures that have long been at odds, the turtle Fahai and white serpent Bai Suzhen, sense an opportunity to curry favor with the powerful monarch, and set out to impress him. However, it is the girl-hungry snake witch Bai, with her promises of the life-extending effects of mercury, that earns Huang's imperial seal of approval.
+
+### *The Prince(ss) of Crime*
+{: .center}
+
+*<https://prompts.aidg.club/2750>*
+{: .center}
+
+![](https://files.catbox.moe/4imbir.jpg)
+{: .center}
+
+>*A smile creeps into his expression, and it's not a welcoming, warm one. It's a vicious, cold one, like a predator that is about to toy with its prey. "Alright, Jack, welcome to your new job. Here's how this is going to go: When I speak, you listen. When I command, you follow. And above all... you don't blab to anybody. If what you've seen here today gets out in any way, I will make sure you regret it for every last minute of what will be the very short remainder of your miserable existence, got it?" A wordless nod is all I can muster as a response, and with another one of those creepy chuckles, he takes a step away, giving me a better look at his entire figure in that dress. "I know you like how I look. Of course you do, I'm the best looking god damn thing your perverted eyes have ever been able to witness. And guess what... you're going to fuck this beautiful thing, right now."*
+
+A life spiraling out of control and increasing amounts of debt lead to you being drafted into the mob in order to repay it. However, you did not expect that you would end up being one of the people told to guard the boss's son. And when you stumble into his room and see something you shouldn't, your job is about to become a lot more... intimate.
+
+### *Trapped by Mirai*
+{: .center}
+
+*<https://prompts.aidg.club/2751>*
+{: .center}
+
+![](https://files.catbox.moe/9phwz2.jpg)
+{: .center}
+
+>*The whole circumstance was so strange that Richard hesitated too long and could only watch as an avalanche, set off by the strange roar, engulfed the cave's only entrance in an icy wall of snow. The giggling returned. Thankful for the torch's light a figure approached. Long, slender legs and a traditional robe walked into the light, revealing a beautiful young woman with the widest, most self-satisfied smirk Richard had ever seen. The brilliance of her eyes were so distracting it took a few moments longer for Richard to notice the woman's head bore the ears of a fox, and a long, bushy paint-brushy tail was swaying behind her.*
+>
+>*"You've such a heart of gold, dear Ranger," the fox woman said, greeting Richard, who was still standing by the snowed in entrance of the cave by way of a courtsey, "My name is Mirai and you will be my plaything. Oh, and worry not about the dame you thought was chased into this cavern by a ferocious beast. That was I. Come now. Enter my cavern proper so that we may speak."*
+
+You only had good intentions. Instead, your good Karma only lead you astray, straight into the clutches of a feisty Kitsune; during winter no less! Check easy mode for easy snusnu.
+
+### *Close Encounters of the Erotic Kind*
+{: .center}
+
+*<https://prompts.aidg.club/2754>*
+{: .center}
+
+![](https://files.catbox.moe/jjfwa2.jpg)
+{: .center}
+
+>*The simple farmer man could scarcely believe what he was seeing, as a grey-skinned alien with huge, black, almond-shaped eyes strode through the swirling fog and approached the slab he was immobilized against. The creature's body was far thinner than a humans and showed no trace of hair or muscles, a thin, foil-like alloy material covering the creature's Lanky body below the neck. It had a small, narrow mouth, and no ears, chin, nose besides two nostril slits, or other distinct facial features on its perfect, smooth grey face. His mind was a chaotic flurry as he gazed at the alien creature calmly approaching him. He became even more confused, as the alien grey communicated wordlessly with him, its shrill, feminine voice telepathically ringing through his head, \<Do not worry human, I do not intend to harm you. My people require something incredibly precious from you; we need your seed. Do not bother trying to verbally communicate, I can read your mind.\> As soon as the alien mentioned that it could read his mind, Edgar's thoughts spontaneously raced through every terrible deed or dirty thought he had ever conceived of, as the terrified yokel tried to steady and organize his thoughts as the alien released a strange "Ack-ack-ack-ack!" sound at his distressed, guilty thoughts, and he realized it was laughing at him.*
+
+Edgar Cletus is a secluded Montana flax farmer, content to continue his life of self-imposed isolation, until an other-worldly being abducts him from his beat-up pick-up truck, and takes the naive farmer incredibly far outside of his comfort zone. This strange interplanetary interloper seems to be interested in stealing his precious seed and his long guarded V card, using the primitive Earth man to satisfy her/its own debasement kinks.
+
+### *The Slaver of Gratia*
+{: .center}
+
+*<https://prompts.aidg.club/2753>*
+{: .center}
+
+![](https://files.catbox.moe/vxjrge.png)
+{: .center}
+
+>*Our family has made its wealth off of the slave trade. There once was a time when a slave from the Servitos family would have been worth a small fortune, known for their obedience and good pedigree. However, the family business has dwindled over the years. My uncle was the last one in the family actively training slaves. I had not considered taking up the trade until I saw on paper just all that would receive in inheritance. My uncle's estate is on the edge of the city of Gratia and has been in the family for generations. The manor is equipped with everything someone would need to keep and train slaves. The more I thought about it, the more interesting the idea had become. The life of your typical aristocrat was starting to become drab to me and there was something romantic about the idea of rejuvenating the family business. So I decided to do just that. I sold off some of my remaining assets and packed my things.*
+
+You are the descendant of a famous slaver family in a Victorian fantasy world. Your family has slowly moved away from slaving and your uncle was the last. Now that he has passed he has left his estate in the city of Gratia to you.
+
+### *The Villainess's Fate After Reaching The True End*
+{: .center}
+
+*<https://prompts.aidg.club/2755>*
+{: .center}
+
+![](https://files.catbox.moe/2j5ax2.jpg)
+{: .center}
+
+>*But before he could condemn me to death like a common criminal, that woman interrupted him. A quick whisper into his ear, a soft sadness around her eyes. Amelia Sternenbund. Did she believe I wished for her pity, that whore? And she is so close to him. Just watching that made me wish to rush at her and claw at her eyes—it wrenched my heart. Surely the guards would cut me down on the spot before I could even scramble to my feet, so all I could do is wait for my beloved to pronounce my sentence. His eyes widened and he continued to speak.*
+>
+>*"By the mercy of your future queen, you shall be incarcerated for life without parole and never again see the light of the sun. Guards, take her away!"*
+>
+>*Burly hands roughly grasped my arms and shoulders, pulling me away from the Prince's icy gaze, my knees scraping over the pebbles, the trivial pain barely registering over the anguish filling my mind at losing him to that filthy peasant whore.*
+
+You are Lady Anthesia von Eisenburgen, the betrothed of Prince Lichterstahl. Well, that would be ex-betrothed, because despite your relentless efforts in bullying her out of the academy, that filthy peasant thieving cat who always plays the goody two shoes has stolen him away from you and now even your final—very final, if it had succeeded—plan against her has been revealed.
+
+### *Devil Mother*
+{: .center}
+
+*<https://prompts.aidg.club/2756>*
+{: .center}
+
+![](https://files.catbox.moe/g30lij.png)
+{: .center}
+
+>*Raising his spear higher and aiming true for her black heart, the hero growled in the depths of the darkness, "You were the one to rob me of my mother, you heartless bitch!" the seventeen-year-old hero yelled in a rage, the vivid images of the Devil Queen's troops sacking Vautur's home in his younger years, and his late parent screaming for help before her demise flashing in the corner of his memory.*
+>
+>*Although having realized that this stranger possessed a personal grudge against her, the old woman was not yet deterred in her attempts at pleading for her life and well-being. "I meant no harm to you!," claimed she, despite not having the first clue of what the young hero meant, and continuing to cling at the wound, hoping in vain for a miraculous miracle of the gods themselves. "Pity my plight! My p-plea for clemency! If you desire, I shall reform my vile and wicked ways! Yes, yes! No longer will my minions ravish, plunder, and pillage in the streets and villages of human land! So, prithee! Spare this elderly devil of her life, young sir!" cried out the wicked, red demon as she begged the man who bested her in battle in the middle of her castle itself.*
+>
+>*The oil chandeliers overhead shined their flickering candlelight against the dark marble floors of the grand castle's great hall. "Then, become mine, you wicked witch," the blond human commanded. "You took something precious away from me, so you shall now pay by providing another. Become my mother, or you will perish."*
+>
+>*"W… What?"*
+
+After a long war with the monsters, the young, orphaned Vautur saved humanity by defeating the wicked Devil Queen once and for all, the same woman responsible for his mother's death. But, it turned out the young human had other plans for the likes of the ageing, elderly queen of all monsters…
+
+### *Unexpected Villain*
+{: .center}
+
+*<https://prompts.aidg.club/2757>*
+{: .center}
+
+![](https://files.catbox.moe/8x9x6m.jpg)
+{: .center}
+
+>*"A pity, then..." Regnor says in a disappointed tone. "Then your endeavors shall end here!"*
+>
+>*Regnor takes his War-Axe in hand and jumps straight at me.*
+>
+>*I'm ready for it.*
+>
+>*In my previous battles with him, I figured that the key to his might is his enchanted heavy armor. With it, it's impossible for me to harm him with any means I have.*
+>
+>*For that reason, I've searched and acquired a magic artifact: The fabled 'Hephaestus Hammer!' A pocket-sized hammer capable of dismantling even the Gods' weapons and armors.*
+>
+>*As he leaps through the air, I dash forward myself.*
+>
+>*Overconfident in his armor, Regnor holds his Axe high and leaves his defenses wide open. That's when I strike.*
+>
+>*I carefully strike his abdomen with the tiny hammer, and a loud, high-pitched \*PING\* sound echoes through the throne room.*
+>
+>*The small hammer immediately shatters in my hand.*
+>
+>*Surprised by the unexpected sound, Regnor doesn't complete his overhead swing, and instead quickly kicks me to the side.*
+>
+>*I endure the hit and roll back to my feet.*
+>
+>*"What the- What did you just do!?" Regnor asks. And just as he does, a crack appears on his armor, right where the 'Hephaestus Hammer' struck. "N-no way!"*
+>
+>*Before the Regnor could do anything, the crack expanded until it covered his entire heavy armor, causing it to explode shortly after, scattering smoke and metal shrapnel all around.*
+
+Prompt about fighting the main villain of an epic story.
+The villain in question wears a big, bulky, and dark full plate armor, and wields a badass Battle-Axe!
+Except there's a twist...
+
+### *Madam Silverpaw the Villainess Fox-Thief Faces Masculine Justice*
+{: .center}
+
+*<https://prompts.aidg.club/2758>*
+{: .center}
+
+![](https://files.catbox.moe/o1k218.jpg)
+{: .center}
+
+>*The blue spandex-clad man sauntered up to her raised dais, arms imposingly crossed over his chest, as he regarded her with an affable nod, his outrageous, bulging muscles rippling under his tight, flamboyant garb. "Madam Silvarpaw, I see your addiction to rare art and exotic cosmetics has left your criminal empire destitute again! Robbing banks? Doesn't that seem a bit below a villainess of your caliber?" he said condescendingly, a smirk revealing his blinding-white teeth. The fox woman was incredibly tired of this man's shit, as she struggled to maintain her composure in the face of this looming clash.*
+>
+>*"You've fallen right into my trap, Nipple-man, but even your accursed powers won't deliver you from your final fate at my furious cla-- fangs!" the kimono-clad super villain shrieked down at him, trying to sound confident. "Animal-Squad, attack!" she declared triumphantly, as she pressed the secret button that activated her under-foot henchman deployment platforms to emerge from trapdoors in the floor. Her vulpine face dropped in panic, as she realized her platforms had only produced three, scared-looking minions that visibly trembled before the legendary Nipple-man.*
+
+Madam Silverpaw is an ingenuous kitsune villainess brought to desperate measures, as she uses her technological marvels to rob a local bank. Her heist is quickly thwarted, however, by a masked vigilante keen on ensuring Justice is swiftly served for the felonious fox lady.
+
+### *Mistress Mei Teaches Dark Magic*
+{: .center}
+
+*<https://prompts.aidg.club/2759>*
+{: .center}
+
+![](https://files.catbox.moe/y7rmta.jpg)
+{: .center}
+
+>*With a slow motion, Mei peeled away one of her velvet gloves, exposing manicured digits, "What do you know of my species, young master?"*
+>
+>*Was this a quiz? Mei's subtle questions often birthed greater inquiries. "Of the Hakutaku? You are excellent teachers; that much is obvious."*
+>
+>*"What else?" She was clearly leading me to a certain conclusion, like a sheepdog nipping at the heels of its flock.*
+>
+>*"Your kind can transmit knowledge through touch." Though it seemed like common knowledge, it wasn't until that moment that I realized Mei had yet to actually touch me; I blushed.*
+>
+>*Mei grinned, "How adorable. Yes, perhaps it's time I teach you something about our kind. Touch me, young master."*
+
+Taken in by an enigmatic Hakutaku named Mei, you're pushed to the limits of the dark arcane arts. Mei's peculiar motivations remain a mystery, yet there is something alluring about her wicked schemes.
+
+### *In Sickness and in Health*
+{: .center}
+
+*<https://prompts.aidg.club/2760>*
+{: .center}
+
+![](https://files.catbox.moe/nopo1p.png)
+{: .center}
+
+>*Professionalism meant that Vera had to compartmentalize her thoughts and emotions whenever dealing with clients. Still, it was nigh impossible to ignore the chasm between the bickering couple; one was stern and regal, while the other was friendly and modest. Experience taught her that opposites attract, and so she could guess at the source of their argument by listening to their conversation, even if she had to force herself to keep a straight face.*
+>
+>*Vera let out a sigh to clear away the tension in the air. "Do you feel comfortable sharing details now?"*
+>
+>*"Yes." Mara placed her palms together and rested them on her lap. "But first, I should admit to my real identity."*
+>
+>*"Please do." Vera pulled a chair over near the couch for the husband, but Joachim motioned for her to take it instead, choosing to remain standing.*
+>
+>*After a brief pause, Mara spoke again, "I am Death incarnate, in human form." Her voice sounded confident and unwavering, betraying none of the nerves that came with such a confession.*
+>
+>*An unsurprising shiver ran down her spine. "You’re kidding."*
+
+Marriage counseling is a rough job. Even more so when Death knocks on the door and demands an immediate appointment.
+
+### *Blood for the Blood... Girl?*
+{: .center}
+
+*<https://prompts.aidg.club/2761>*
+{: .center}
+
+![](https://files.catbox.moe/54z4a1.jpg)
+{: .center}
+
+>*"What a big man...all that warm, icky goodness'..." She giggled again, this time with an edge of madness to it. A sagging, burgundy cap flopped from the crown of her downy, white locks; characteristic of her species, "Don't be shy now!"*
+>
+>*The creature's nature was not lost upon me, a crimson glow filling her cheeks and pupils dilating until they were little more than pinpricks. "You know what I want." The white, gossamer gown that clung to the pint-sized butcher teased her prepubescent form; horns the color of coagulated gore poked past her brow.*
+>
+>*"Please," my voice was barely a croak, "I can't take anymore..."*
+>
+>*The pitiful display coaxed a wicked laugh from the Redcap, a sound like the tinkling of broken glass. "What's the matter? Scared?" She stepped closer, the hem of her dress dragging across the wet grass. "You know," a tiny foot flashed forward, pale toes pressing into the softness of my crotch, "you'd make a pretty good husband...or a nice, stiff piece of meat."*
+
+Cornered by a lewd little butcher, you're quickly fucked into husbandhood.
+
+
+***
+
 ## The Friday of *Animals*
 {: .center}
 
@@ -242,6 +634,390 @@ I guess that's one way you're going to complete the desert hard diaries (runesca
 >*She looked up at me adoringly and I recalled her symptoms: feeling hot, unable to get comfortable, excessively clingy and affectionate... All symptoms of a dog-girl in heat, but there was no way that could be true, right?*
 
 Your sweet, innocent pet dog-girl, Skye, has gone into heat and her pheromones drive you wild.
+
+### *Dread Pirate Gloria and Her Voracious Wolf Fluffy*
+{: .center}
+
+*<https://prompts.aidg.club/2640>*
+{: .center}
+
+>*"N...nooooo! I have rich family members, I'm worth so much more to you alive, than as food for your beast!" said the terrified elven slut, trying one final time to plead her case. Gloria walked up to the elf and grabbed her head assertively by her chin, turning it to face her own, as she leaned forward.*
+>
+>*"Listen, bitch, the choice has been made. I am not interested in hearing you complain, and whining isn't going to make a difference, believe me. So if you'd be so kind as to take your big head, and stick it into Fluffy's waiting maw?"*
+
+In this story, a domineering fox woman/kitsune pirate captain leans into her obsession with keeping her large pet Dire Wolf over-fed on prime females of various shapes and sizes, looted from her daring naval exploits.
+
+### *Feathered Serpent Mayan 'Goddess' Enjoys Sacrificial Female Feast*
+{: .center}
+
+*<https://prompts.aidg.club/2642>*
+{: .center}
+
+![](https://files.catbox.moe/gaohsa.png)
+{: .center}
+
+>*Kuku felt excited beyond belief, she knew today was her birthday, and that Zola was preparing a particularly delicious feast of girls for her to devour, whole and alive. Kuku started drooling at the thought of it, her hungry serpent stomach rumbling, as she fidgeted and slithered around in her bed. Zola finally came to the doorway, her expression grim and solemn as she bowed deeply before the living sacred idol of her god. After performing the necessary oblations before the deified serpent, Zola spoke in her deep, husky voice "The sacrificial offerings await outside your chambers"*
+
+A gluttonous serpent honored as a living embodiment of a god is offered a seemingly endless parade of pious young women to feast on. Her priestly manager, Zola, has grown numb from seeing the boisterous, growing serpent consume countless live women, and has prepared a special feast of loyal young female acolytes, oiled for the feathered snake's enjoyment. Most promising of all, is the slimy, brightly-colored frog girl that has been proffered for Kuku's enjoyment; little does the snake deity know, but this special treat's skin is intensely hallucinogenic!
+
+### *Fat Knot Rock*
+{: .center}
+
+*<https://prompts.aidg.club/2643>*
+{: .center}
+
+![](https://files.catbox.moe/obhbjb.png)
+{: .center}
+
+>*Kyra stared at it for a moment before taking a step closer. The stone was cold and damp, and it felt good to touch it. The dragoness pressed her snout against the tip, sniffing at it curiously. It smelled faintly like earth and wet rock. She rubbed her face against it, feeling its rough texture against her scales.*
+>
+>*She knew she was being absurd, flirting with a random piece of land that resembled a dragon's genitalia, but there were no witnesses here. Nobody would see what she did next. This was an act of pure madness, but her body was screaming for relief, and she couldn't deny it anymore.*
+
+A dragoness in heat, desperate for more private relief, accidentally shish kebabs herself in the middle of wyvern territory.
+
+### *Unwanted Allure*
+{: .center}
+
+*<https://prompts.aidg.club/2644>*
+{: .center}
+
+>*Klyiarna's claws were curled around a silver goblet that she lifted, swirling it in her paw and sniffing the liquid inside. She set it down on a nearby table and glared down at Rilka. "Leave us."*
+>
+>*With that, the queen rose from her cushioned seat, and the guards withdrew from her presence. Rilka's legs trembled, her heart pounded painfully in her chest, and she felt dizzy with fear. She stayed on the ground, head bowed and staring down at the polished stone, unable to lift her eyes until she heard pawsteps coming towards her.*
+>
+>*"...You drank some, didn't you?" Klyiarna growled, stepping close to her. Rilka could feel the warmth of the dragoness' breath against her face, and... was that drool pattering against the floor? Was the royal actually slobbering at her? No... that couldn't be right.*
+>
+>*The alchemist raised her eyes and looked at the monarch's muzzle, then up at her, her pupils widening with terror as the queen loomed even closer. She reached for the collar of Rilka's dress and tore open the front, revealing the vial hidden there. "Hrrrr... Naughty girl, you've derailed all my plans for you tonight..." The queen snarled, then snapped up the bottle in her talons. "Do you realize how distracting you're being, swanning around, practically glowing with allure?"*
+>
+>*Rilka's muscles tightened reflexively, and she tensed, her tail thrashing back and forth in alarm. 'Your plans?! How in the skies did I catch the attention of the queen of all dragons?!' she wondered frantically.*
+
+A dragoness proficient in alchemy accidentally doses herself with an allure potion, unknowingly kindling a desire held secretly by one of the most powerful dragons in the kingdom.
+
+### *Griffon Rider Knight Helps His Bird-of-Prey Dispense Gooey Justice*
+{: .center}
+
+*<https://prompts.aidg.club/2646>*
+{: .center}
+
+![](https://files.catbox.moe/kf98s6.jpg)
+{: .center}
+
+>*Peter had noticed his griffon taking a particular liking to 'punishing' the female reprobates by swallowing them whole and alive, earning her a fearsome reputation among the female criminal class in the city. Peter almost found it chilling how much Zara seemed to enjoy and indulge in the squirming resistance of her live female prey, as they were sent wriggling down her beak, into her wide griffon gullet, down into her tight, stretchy stomach, which was covered in soft tan fur. Peter had come to learn with grim disgust, that many of the women Zara swallowed could last for days in the griffons slowly churning gut, before her weak stomach acids would finish digesting them to death. Truly a grim fate, but Peter rationalized that justice must be served.*
+
+A brave knight and his fearsome griffon stead become the hapless arbiters of cruel justice in a kingdom dependent on draconian punishments to enforce their corrupt rule of law. Four young women are sentenced to an unspeakable end, for the simple crime of selling their bodies on the streets. Prostitution without a license being a capitol offense in Devo, due to the corrupt ruling council's eagerness to force more women into their many abusive brothel establishments. Note for continuing the story: Several days after dispensing justice, a desperate farmer approaches Peter. The impoverished dunkard of a farmer cannot afford to feed his many, many daughters or pay their dowries, and hates the thought of sending them to the whorehouses, so he requests the knight give several of his older girls a 'dignified' end in Zara's belly.
+
+### *A Ride Out*
+{: .center}
+
+*<https://prompts.aidg.club/2650>*
+{: .center}
+
+![](https://files.catbox.moe/lwh76t.jpg)
+{: .center}
+
+>*Still, the shock of it all has me falling into silence for a while, simply brushing my horse without responding. But since I don't protest, he simply continues. "If push comes to shove, you would be taking over as duke, my liege. As his only descendant, you have a clear claim and no rival claimants. And that is why I have taken an interest in you recently—I had to confirm for myself that you would be a good ruler. Thankfully, my instincts about you were correct." With a smile on his face, he walks over to me and starts petting my horse. "How someone treats animals can tell you a lot about a person, and everything you've shown me tells me that you are kind-hearted and caring. You do not deign yourself above caring for an animal, even though a noble of your station would always have the servants take care of it. Even though I told you to do it, you never complained or resisted in any way, and your horse is repaying you for it. I can tell he likes you a lot, and trusts you. And I trust you as well, my liege. So if we were to put our plan into action... would you support us?"*
+>
+>*All I can do is nod as I finish up the brushing. Turning to face Anders, his face lights up. "I knew I could believe in you. But now that we've talked about my secret, how about we talk about your secret?" he then says, and my heart skips a beat.*
+
+As the prince and sole heir of a small duchy, you have spent your life so far in luxury, isolated from the political intrigues of the realm. But on one of the riding lessons, your tutor, the marshal of the duchy, reveals some troubling news of discontent at court and requests your assistance if things should escalate. And then, he also reveals that he knows a few... intimate details about you.
+
+### *Chateau au Chattes*
+{: .center}
+
+*<https://prompts.aidg.club/2651>*
+{: .center}
+
+![](https://files.catbox.moe/iw2tay.png)
+{: .center}
+
+>*Looking up from where you lay you saw a tall, well groomed humanoid cat lady stood right before you. She was dressed in a royal looking gown, a gently smoking pipe in her hand. Behind here stood two other cat people, a redheaded female cat dressed in a maid outfit and a male cat with round ears in what you could only describe as a butler's uniform. The crook-eared cat stood off to the side, seemingly embarrassed about having tripped you on your entry.*
+>
+>*The lady gracefully nodded her head to you as your eyes met.*
+>
+>*"Greetings, human. Your name is Jane, correct?" the lady asked with a voice that put your worries at ease.*
+
+The cat got more than your tongue this time around. At least you may have some fun.
+
+### *Succu-joints, CH1! The Cold Embrace*
+{: .center}
+
+*<https://prompts.aidg.club/2653>*
+{: .center}
+
+->![](https://files.catbox.moe/drvtpx.png)<-
+{: .center}
+
+>*The room itself looked about as you expected. It was fashioned after an underwater cave with a small pool functioning as a waterway access to someplace else. There was only a couch and a bed shaped out of the stone the room is made of, so you decided to inspect the waterway. You could see a small black shape in the distance approaching you. Your succu-girl was part aquatic lizard, you could tell that much. But what would she be? The excitement had you panting.*
+>
+>*Your succu-girl's arrival, however, had you screaming like a girl. Instead of a small, slender amphibian slowly slipping out of the sloshing waters a behemoth of a succu-girl jumped out, announcing herself as Nilea as she wrapped you in an embrace that swept you off your feet. She stood as tall as you'd imagine a minotaur might. She had the head of a gator, snout and all a torso shaped like that of a well built amazon woman and a tail as long as your body.*
+>
+>*"It is not often one of your kind seeks the services of a queen of the Nile, such as myself," Nilea cooed, her voice dominant and sappy. Her body was still dripping with water, her muscles glistening in the dim light of the cavern. A low rumble sounded from her throat as she turned her head to inspect you up close with one eye.*
+
+Visit joints, get laid.
+
+### *Sheep Rekt*
+{: .center}
+
+*<https://prompts.aidg.club/2652>*
+{: .center}
+
+![](https://files.catbox.moe/9leuj3.png)
+{: .center}
+
+>*As I get closer I start to make out what it really is:*
+>
+>*A green creature wearing what seems to be a white leotard with layers of cotton poorly glued to it.*
+>
+>*I'm baffled. A goblin came all the way out here to try and steal some lamb? And more importantly, did it really think such a crude disguise would fool anyone?*
+>
+>*Before I can think of what to do next, I hear a high-pitched, scratchy, yet feminine voice.*
+>
+>*"Keeheehee~ My plan was a success," the goblin says. "None of them noticed I'm not a real sheep!"*
+
+A wily little goblin thinks she's so smart: Disguising herself as a sheep to get into your herd to steal some lamb.
+Alas, her clever disguise is way too obvious. So you, the shepherd, decide to fuck with her.
+
+### *Bat Intruder*
+{: .center}
+
+*<https://prompts.aidg.club/2654>*
+{: .center}
+
+![](https://files.catbox.moe/8i99ou.jpg)
+{: .center}
+
+>*"Evening, citizen." the man addresses you "Have you, by a chance, seen any bats tonight?" he starts to point the light to the corners of your room.*
+>
+>*"No...?"*
+>
+>*"You should close the windows so they can't get in. They carry dangerous diseases, you know, little buggers." the man continues with a smirk.*
+>
+>*"Good idea. Thank you." you walk toward the window and close it in the man's face, then lower the blinds.*
+>
+>*"I don't have any diseases." the girl says, sticking her pouty face from under the blanket. Wrapped in it she looks like a cute little loli burrito.*
+>
+>*"What the hell are you, even?" you stare at her in confusion.*
+>
+>*"Haven't you realized yet? I thought vampires are quite popular in modern media." she crawls out of her hiding place and stands up.*
+>
+>*The pale skin of her naked body looks almost chalk-white, a stark contrast to her ruby-red eyes The long blonde hair wraps around her delicate form like a cloak but barely covers her front so you can see everything.*
+>
+>*"Hey, cover yourself." you turn your head away.*
+
+A bat flies into your house and you try to chase it away, but then...
+
+### *Liquid Feargasm*
+{: .center}
+
+*<https://prompts.aidg.club/2655>*
+{: .center}
+
+![](https://files.catbox.moe/gl29uw.jpg)
+{: .center}
+
+>*"So, you are Anon." her voice echoed in my head, husky, deep, and filled with violent urgency. "My name is Kali. Your deeds have summoned me and I have answered."*
+>
+>*I couldn't respond; stunned to silence by the massive predator who stalked me with an absolute confidence that shook my soul to its core. However, sensing my question, she answered.*
+>
+>*"How did you summon me? Why, you drank the ritual drink to summon me. Now we are bound you and I."*
+>
+>*"W-what do you want of me?" I gasped as her tail caressed the small of my back.*
+>
+>*"To complete the ritual."*
+>
+>*Her voice was like a church-bell's toll. As she said those words, it felt as if no paths lead hence. Not waiting for my response, Kali loomed closer, her feline nose bristling at my limp cock.*
+>
+>*"I shall take you, wholly." she said. "You will belong to me and I will wring every drop of pleasure from you. I will use your body like a sexual object and drain from you every ounce of vitality. There is nowhere you can go to escape my power."*
+>
+>*"No," I gasped under my breath, but in her presence this fate seemed assured.*
+>
+>*"But it is not fun to simply take you, no," Kali's low growl becoming a deep purr. "I wish to hunt; to chase. So run! Run my little morsel. For once I have my way with you, I shall kill you."*
+>
+>*Kali stepped away from me, reclining nearby in the dream's landscape. She stared at me, never blinking, as I stood there, too stunned to act.*
+>
+>*"If you do not run," she said curtly. "Then I shall be done with you presently and kill you where you stand."*
+
+After drinking a strange, cursed, semen-laced beverage at a niche bar, you are plagued by nightmares of a sexually aggressive lioness. According to the legends, if she ever has her way with you in the dream, you die in real life. You must last seven nights haunted by the curse of the Liquid Feargasm before you are safe.
+
+### *Turkey Tail*
+{: .center}
+
+*<https://prompts.aidg.club/2656>*
+{: .center}
+
+![](https://files.catbox.moe/na19ku.gif)
+{: .center}
+
+>*The turkey, turned around and lifted its tail-feathers, revealing a moist, dripping cloaca. The turkey's thick, powerful legs rippled with strength and invited me to the warm hole between. It quietly cooed as it waited for my action. Though no words were exchanged between us, we both shared an unspoken connection. In a moment of what could only be described as madness, I threw down my rifle and pulled down my pants.*
+
+While hunting for a Thanksgiving dinner, a young man encounters a turkey that has developed an unusual way of escaping her would-be killers.
+
+### *Paladin Moralizes at Petulent, Predatory Dragoness*
+{: .center}
+
+*<https://prompts.aidg.club/2657>*
+{: .center}
+
+![](https://files.catbox.moe/gsjcn8.jpg)
+{: .center}
+
+>*Kason takes a moment to reflect on his own life, wondering if he's made the right decision to raise a dragon, as he sits down to his meal. Kason suddenly hears a feminine voice in his head, as he feels a presence slide up next to him, as he realizes Kim has stealthily made her way into the tavern while invisible. "Wow, what do you think of that maid?" Kim's cheerful voice rang out into Kason's mind, as the dragoness sat down besides her paladin.*
+>
+>*"I know you haven't eaten in a while Kim, but I'm not sure about this. We should probably keep a low profile, so no one else notices us. Someone might miss her." Kason replied in his thoughts, as he felt Kim's slimy bifurcated tongue lick at his ear playfully.*
+>
+>*"Oh, come on! What harm could a quick snack do, you really think anyone's going to notice she's gone before we are? You get to enjoy a nice warm meal, why not me? Besides, I've been craving some meat for a while now, and this is the perfect opportunity to eat something tasty!" Kim teased.*
+
+Kason is an earnest, but overwhelmed paladin, blatantly faltering in his charge of leading his life-long dragon ward, Kim, towards the path of Good. Despite years of moralizing and preaching at the playful young dragoness, she has leaned into her predatory nature and wantonly consumes numerous sentient women across the lands of Mendes. Following along her parental paladin guardian, often invisible, Kim does as she pleases as Kason battles the forces of evil and tries to steer her back towards a humane path. Remember, the dragoness can turn invisible, but the prey inside her stomach cannot! Possible plot elements to include later in the story: Kason feels bad about Kim's prey, and tries to use healing magic and buffs to alleviate their discomfort, but only makes things worse. Kim uses good vs evil battle language as innuendo to goad the paladin into illicit love-making.
+
+### *Smug Gnome Druid Fertilizes Forest With Amazons*
+{: .center}
+
+*<https://prompts.aidg.club/2658>*
+{: .center}
+
+![](https://files.catbox.moe/hhnvnt.jpg)
+{: .center}
+
+>*The small gnome, garbed in a heap of stinking, recycled rags and old-animal skins, sauntered out to the center of the glen and awaited the approaching war-party. As the tall, muscular Amazonian shield-maidens approached with characteristic zeal, wantonly trampling his herbal gardens, the gnome smirked smugly to himself, realizing they were dooming themselves as the hulking sergeant of the female troop called out to the small druid "Foul little stink-worm! I have come to face you in single battle like a woman! Face me if you dare, or be cut down like the animal you are!" though her bellowing words were mighty, Shamus could already see an unsteady, sluggish tilt spreading across the well-armed squad, as the women began rubbing their increasingly sore, stiff muscles. A look of concern spread over the sergeant's face, as she called out "What foul devilry is---Hhyuurk!" her sentence was cut-off mid-word, as he jaw muscles seized and stiffened, the twelve or so women coming to an awkward halt as they simply froze in place, their impressive muscular bodies twitching and seizing as the paralytic plant venom kept them motionless. Several of the troop fell down, still frozen in awkward poses on the ground, as a gentle rustling in the tall glen grass could be heard, as something slithered nearby the incapacitated warrior women.*
+>
+>*Shamus strode up to the stilled sergeant, calmly saying as he stroked his matted, gray beard "You women from your 'mighty' civilization think you have grown beyond the power of nature, that your farms and walls and dams can thwart and tame the elements, that you have become the absolute masters of all you see, but this is a grave error in thought. We are all a part of nature, a part of the cycle of life, and you haughty despoilers will soon find out exactly where you women rank on this forest's food-chain." with his speech over, the small druid let out a loud hissing sound, eliciting a louder rustling from the surrounding brush. The last remaining mobile part of the paralyzed Amazonian warrior women, their eyes, all swiveled to the mighty sight of a rearing anaconda, much larger than any snake normally should be, as its long, bifurcated tongue flicked at the air, tasting the scent of the women's sweat and fear.*
+
+A gnome druid renounces civilization and finds peace in the natural world, until a militant nation of Amazonian warrior women sees his forest as the perfect patch of land to exploit for their burgeoning war-machine. The druid desperately tries to fend off this advanced, superior foe, using guerilla warfare, the forest's might, and his hungry anaconda animal companion, which has defeated many burly harridans with its expansive stomach. Use Shamus's powers to call animals, enchanted plants, and other natural allies to defeat the invading forces of civilization.
+
+### *Animal Town*
+{: .center}
+
+*<https://prompts.aidg.club/2659>*
+{: .center}
+
+![](https://files.catbox.moe/q2cgmr.jpg)
+{: .center}
+
+>*My name is Bill Alger. I'm a human rookie architect from the big city, but I've been invited by the mayor of a new small town that was impressed by my work to help him plan the town's development. The town is named Palm Leaf and is located between two mountains and close to the beach.*
+>
+>*I'm really excited about arriving. I was happy to hear someone was interested in my work, I was starting to have trouble getting a job. Plus city life in the city has become repetitive and unfulfilling. Spending some time on a nearly private beach for a few months will be the perfect break. Then the light started to peer out of the darkness and the train had finally passed through the tunnel. Looking out the window again I saw the beautiful stretch of nature leading out towards the beach. From atop the hill, I can see a river flowing from the forest through the plains and out into the ocean. In the open area, there are a few buildings along a small road that must be the town. The train starts to slow as it approaches and I see the small platform that is the town's train station.*
+
+Take on the role of Bill Alger an amateur architect the only human resident in the small town of Palm Leaf. Recently purchased from an elderly by Mayor Nook. He wants you to help him develop the town into a tourist destination.
+
+### *Beasties and Swampy Cities - Guzzle*
+{: .center}
+
+*<https://prompts.aidg.club/2660>*
+{: .center}
+
+>*A cacophony of giant insects and otherworldly life echoed through dense clusters of cypress trees as the night wore on. Neon lights flickered dimly through the gloom, casting a jaundiced glow. Steam rose up from the murky canals that infested and overflowed through the city, giving the place a febrile atmosphere. The deep hum of industrial machinery and the chaotic clangor of revelry and rough-housing filled the air. Big black eyes stared up at the encroaching fog—the eyes of a wandering opossum waif named Guzzle. Her fur was sooty, matted and filthy; she was a skinny creature, haggard and ragged, clad in a tattered sweater that hung loose about her shoulders. Hopping over a pile of broken bricks, she gazed blankly at the dim light of a leaning lamppost and clutched at the knife hidden beneath her sweater. "I'm 'ungry," the emaciated opossum muttered, licking her dry black lips. "Need to find somefin' to eat."*
+
+Guzzle tries to survive in the harsh city of Gutterstain.
+
+### *Dog Almighty*
+{: .center}
+
+*<https://prompts.aidg.club/2661>*
+{: .center}
+
+![](https://files.catbox.moe/0axwi3.png)
+{: .center}
+
+>*The dog walks out of an alley. Not many people notice it at first.*
+>
+>*Soon, a boy riding his bicycle notices the dog.*
+>
+>*"Doggy!" the boy exclaims, stopping his bike in its tracks and approaching the dog by foot.*
+>
+>*He pets the dog and plays with it.*
+>
+>*By the time the dog finally had enough and decides to go elsewhere, the boy leaves his most favorite action figure for the dog to use as a chewing toy.*
+>
+>*Then the dog continues walking around the street.*
+
+Prompt where a "magic" dog is for some reason treated like a king by anyone around it.
+
+### *The Gluttunous Beasts of Galon Intergalactic Zoo*
+{: .center}
+
+*<https://prompts.aidg.club/2662>*
+{: .center}
+
+![](https://files.catbox.moe/n5uv4o.jpg)
+{: .center}
+
+>*In fact, these shows where women are swallowed down screaming by the unique animals are often the most popular for spectators to watch. The cosmopolitan crowds are often fascinated, and even sickened, by the sight of hapless women being slowly dragged into the slimy maws of creatures capable of stuffing countless writhing female feeding slaves into their stretchy stomachs. Some of the zoo's predatory creatures are so tame, visitors are allowed to walk up and pet their bloated stomachs. Some enjoy to marvel at the sight, feeling, and sound of the poor girls writhing in their dominating predator's stomach, enduring a lengthy digestion process as zoo patrons gawk at their consumer's bloated bellies and line up for photos. A particularly skilled and experienced tour guide is leading a group of excited tourists along the most popular zoo attractions the facility has to offer, during feeding time for the animals.*
+
+A capricious, callously operated zoo capitalizes on easy to acquire, but hard to care-for voracious alien beasts, by putting on grisly live-feeding shows for their morbid audience of high-paying spectators. A skilled tour-guide leads a gaggle of gawking tourists along to observe the zoo's infamous live animal feeding shows. The tour guide, Avril, is exposing the eager, nervous watchers to the various feasting styles of the zoo's bizarre animals, starting with the ever-popular gulp-lizard.
+
+### *Adventure Family and Scouring the Pig Wood*
+{: .center}
+
+*<https://prompts.aidg.club/2663>*
+{: .center}
+
+>*They really should have retreated from the woods but the young adventurers were a bit greedy and so sure of their ability to complete several quests in a row that they would be in for a quite eventful few weeks in these dank woods.*
+>
+>*When Linko came to Violet this morning announcing that he had accepted a quest in the pig woods, she could barely contain her excitement. Maybe it would be possible to finally realize her fantasy.*
+>
+>*Violet knows what fat pigs are really like. She imagines their three precious adventurer girls getting fucked and bred by them and how much cum they will spray out of those beastly penises. Violet loves these girls but she cant help it, Her pussy gets nice and wet when she thinks his son´s important childhood friends might end up becoming breeding cattle for fat pigs.*
+
+An nice adventuring group is torn asunder by the fetishes of the heroes mother. She wishes to see their darling girls become a fat animals livestock. This variation focuses on the fat pigs of the pig wood.
+
+### *A Goblin and His Wolf*
+{: .center}
+
+*<https://prompts.aidg.club/2664>*
+{: .center}
+
+![](https://files.catbox.moe/op532g.jpg)
+{: .center}
+
+>*From Piddler's back, the goblin wildling had delivered swift justice to many unsuspecting elven archers with his rusty dirk. Piddler could pad along so softly on his big furry paws, that even an elf's long ears often failed to detect the mounted beast prowling up from behind. Snignag had perfected the art of catching lone elves with Piddler, the dynamic duo sneaking up on, then startling their elf enemies during the crucial moments of ambush with a mighty howl and shrieking goblin war-cry. There was nothing the measly green goblin loved more, than laying haughty elven warrior low, and subjecting them to Piddler's more bestial inclinations, as well as Snignag's randy, wanton goblin sex-drive.*
+
+A small, malformed green creature happens upon the abandoned runt of a ferocious canine predator species, and a life-long friendship is born. Snigsnag the goblin rides Piddler the dire wolf like a knight riding a mighty steed, and in Quixotic grandeur, hunts the elves that have mercilessly tried to exterminate his diminutive species for centuries. His wolf is more concerned with getting his knot pleasured, and his belly filled, than Snigsnag is obsessed with mocking and degrading whatever hapless elf he can get in his stubby-green clutches, or under Piddler's mighty, furry paws.
+
+### *Not That Type of Dog Person*
+{: .center}
+
+*<https://prompts.aidg.club/2669>*
+{: .center}
+
+![](https://files.catbox.moe/8ec52a.jpg)
+{: .center}
+
+>*Greg was lost as to what to do next. Jumping back onto the bed, he glanced through the window, and there he saw his reflection superimposed on the bedroom view he had grown to tolerate. He looked like the quintessential short-haired, pointy-eared, stray dog with cream fur—an appearance as noteworthy as he had been until yesterday. Behind him, a stiff tail wagged like a metronome. He had never fancied himself a ‘dog person’—the label made him groan; the irony even more so—but he had to admit he would have petted him, were not for his predicament.*
+
+One morning, as Greg Samil was waking up from anxious dreams, he discovered that in bed he had been changed into a mongrel.
+
+### *Little Pet Shop of Horrors*
+{: .center}
+
+*<https://prompts.aidg.club/2668>*
+{: .center}
+
+![](https://files.catbox.moe/f26hmd.png)
+{: .center}
+
+>*Eventually, the college student reasoned that this man must simply be dangerously senile, before leading Matt to a back-room filled with security monitors, as the old man pushed in an old VHS taped and said "Look, just watch this and you'll understand." as the fuzzy tape footage played, and Matt observed a security recording play out. It featured Yancy heaving the gigantic octopus Matt had observed earlier, which gripped around the old man securely with all eight appendages as he teetered and tottered under its weight, before awkwardly chucking it into a nearby floor-pool. Yancy motioned for him to look at a door which opened straight to the pool, as a dark-skinned Asian woman strode in, immediately falling into the water below, with the giant octopus. Matt's heart started racing at what he saw, as he realized the footage looked genuine, as he watched the octopus wrap it's slimy tentacles over her thrashing body in the turbulent water. "Keep watching, darn thing's been debeaked apparently, so it puts on quite a show..." the old man mused, as Matt sat transfixed, watching the grizzly footage.*
+
+Matt is a financially strapped college student that hears about a lucrative job opportunity in a college town that doesn't have much work to offer. The awkward freshman walks to the obscure location in his Sunday best, to try to land his first big job, only to be greeted by a huge, sprawling, dilapidated concrete compound, ominously titled 'Yancy Randall's Exotic Pets! (Tours by appointment only)'. Matt quickly discovers that the old man's shop is the end-of-the-line for a bio-engineering lab's many freakishly enlarged, woman-hungry mutant animals, as he is featured to a graphic depiction of what his new duties keeping the many pet animals 'fed' entails.
+
+### *A Haunting at Goldenrod Academy*
+{: .center}
+
+*<https://files.catbox.moe/dphmvu.scenario>*
+{: .center}
+
+![](https://files.catbox.moe/edx5in.jpg)
+{: .center}
+
+>*"A few days ago, the student council president came in and told us that the dorms are haunted and she and her Pokémon had been possessed."*
+>
+>*"Then this sounds like something Professor Fir or the staff should handle, not the new student."*
+>
+>*"Well..." Whitney cleared her throat. "The student council president said we can't let them find out about this. You see," she began gesturing, "when she was possessed, she said it made her feel ...strange," Whitney looked down and blushed. "It made her do... things. With her Pokémon."*
+>
+>*"What kind of things?" Riley asked, feeling a hot flush sweep across his face.*
+>
+>*"...Let's just say none of the female students or council members feel comfortable handling this, and leave it at that."*
+
+A young Pokémon breeder encounters a supernatural presence causing students and their Pokémon to act strangely.
 
 ***
 
