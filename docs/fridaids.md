@@ -224,7 +224,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 Let's make prompts about the antagonists, those like us but morally opposed; our greatest (female) adversaries.
 {: .center}
 
-December 10th, 2021
+*December 10th, 2021*
 {: .center}
 
 ### *True Love's First (Cloacal) Kiss*
@@ -565,7 +565,6 @@ Marriage counseling is a rough job. Even more so when Death knocks on the door a
 
 Cornered by a lewd little butcher, you're quickly fucked into husbandhood.
 
-
 ***
 
 ## The Friday of *Animals*
@@ -574,7 +573,7 @@ Cornered by a lewd little butcher, you're quickly fucked into husbandhood.
 Let's make prompts involving the animal kingdom; the diverse fauna coexisting alongside us on this small blue planet, breathing, moving, and living as we yet so clearly distinct—a testament to life's wonders.
 {: .center}
 
-November 26th, 2021
+[*November 26th, 2021*](#the-log)
 {: .center}
 
 ### *Seamen World*
