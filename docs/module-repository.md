@@ -31,6 +31,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Updated [Battletech](#battletech) module with V4 successor.
 - Added [R. A Lafferty](#raphael-aloysius-lafferty) module.
 - Added [Stygian Delving](#stygian-delving) module.
+- Updated [Communism](#communism) module with V4 successor.
 
 (10th December, 2021)
 
@@ -185,6 +186,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Video Games](#video-games)
       - [Wildlife](#wildlife)
     - [Abstract](#abstract)
+      - [Communism](#communism)
       - [Gay](#gay)
       - [Sweet Time](#sweet-time)
     - [Style](#style)
@@ -195,7 +197,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Androids, Artificial Intelligence, and Robots](#v3-androids-artificial-intelligence-and-robots)
     - [(V3) Angels and Demons](#v3-angels-and-demons)
     - [(V3) Catgirls](#v3-catgirls)
-    - [(V3) Communism](#v3-communism)
     - [(V3) Count Grey](#v3-count-grey)
     - [(V3) Cross-Genre](#v3-cross-genre)
     - [(V3) Cross-Genre: Romance](#v3-cross-genre-romance)
@@ -2079,6 +2080,16 @@ A.K.A "Toby Fox Module"
 
 #### [Abstract](#elements)
 
+##### [Communism](https://files.catbox.moe/c2ixlh.module)
+
+[by Pure](https://discord.com/channels/836774308772446268/870449646391156776/919673195156611125)
+
+*A new version of my Communism module, now on V4. Built with more works of literature from more authors. Trained on various works of classical communist, socialist, and anarchist literature such as Das Kaptial, One Dimensional Man, and The Communist Manifesto. *
+
+![An example](https://files.catbox.moe/b5x42z.png)
+{: .center}
+
+
 ##### [Gay](https://files.catbox.moe/v52asc.module)
 
 [by HARVEYDENT](https://discord.com/channels/836774308772446268/870449646391156776/909058444374466601)
@@ -2331,15 +2342,6 @@ A.K.A "Toby Fox Module"
 > [ Describe the Catgirls ]
 >
 >The girls looked like human females with cat ears or tails attached. Their eyes were blue instead of brown but their pupils were circular rather than oval shaped. It didn't look as if they had fur on their bodies because you could see their skin under their clothes.
-
-#### [(V3) Communism](https://files.catbox.moe/3c2pyz.module)
-
-[by Pure](https://discord.com/channels/836774308772446268/870449646391156776/907359288920535090)
-
-*A more complex edition of my previous communism module, built with more works of literature from more authors. Trained on various works of classical communist and socialist literature.*
-
-![An example](https://files.catbox.moe/q55iin.png)
-{: .center}
 
 #### [(V3) Count Grey](https://files.catbox.moe/ozd9iw.module)
 
