@@ -2084,7 +2084,7 @@ A.K.A "Toby Fox Module"
 
 [by Pure](https://discord.com/channels/836774308772446268/870449646391156776/919673195156611125)
 
-*A new version of my Communism module, now on V4. Built with more works of literature from more authors. Trained on various works of classical communist, socialist, and anarchist literature such as Das Kaptial, One Dimensional Man, and The Communist Manifesto. *
+*A new version of my Communism module, now on V4. Built with more works of literature from more authors. Trained on various works of classical communist, socialist, and anarchist literature such as Das Kaptial, One Dimensional Man, and The Communist Manifesto.*
 
 ![An example](https://files.catbox.moe/b5x42z.png)
 {: .center}
