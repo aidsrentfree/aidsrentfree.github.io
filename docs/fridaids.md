@@ -56,6 +56,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Amorous Alien Xenomorph Queen*](#amorous-alien-xenomorph-queen)
   - [*Kyuubi-sama and I*](#kyuubi-sama-and-i)
   - [*An Apple a Day to Keep Old-Age Away*](#an-apple-a-day-to-keep-old-age-away)
+  - [*Succ, the Succening*](#succ-the-succening)
 - [The Friday of *Animals*](#the-friday-of-animals)
   - [*Seamen World*](#seamen-world)
   - [*Mudsdale Used Body Press!*](#mudsdale-used-body-press)
@@ -624,6 +625,21 @@ The desperate elders of a fox-people village are forced to make a hard choice. T
 >*Somehow, the witch knew, she could not feed this hunger with her mouth, oh no, this particular demon preferred inhabiting a different part of the witch's female anatomy. "Hope, oh dear sweet hope. Could you show your old, Auntie Agatha what it means, to be a good wife to your future husband? Come close dear, don't be ashamed..." the witch said, as she raised her robe high, revealing her hairy snatch, which twitched and wriggled unnaturally as she approached the submissively kneeling elf. Hope barely regarded the strange scene, as the witch woman's snarling snatch closely approached her placid, serene face, Agatha excitedly yelling out "Come on dearie! Give Auntie a big wet kiss!" as she spread her legs over Hope's sweet, innocent face.*
 
 Agatha Hazelbrook is a crazed, blasphemy-spewing old biddy, who is rapidly approaching the end of her rope. Hoping to avoid her destined meeting with lucifer for another few centuries, Agatha has been communing with some Ugly Spirits to get the scoop on how to keep up appearances, as she extorts an indebted monarch into providing her the critical ingredient: Innocent, virgin elves.
+
+### *Succ, the Succening*
+{: .center}
+
+*<https://prompts.aidg.club/2768>*
+{: .center}
+
+>*"My soul," Jonah replied immediately, causing Jezzebel to pause, her brows furrowing.
+"Your own soul? You wish to forfeit your existence for one night of passion with a demon of your own summoning?" she asked incredulously.*
+>
+>*Being questioned about his offering like that made Jonah worry. "I-is that not enough?" was all he could muster to ask. Again he gave Jezzebel pause, before she exploded into raucous laughter.*
+>
+>*"Not enough? Not enough, little human? The society you live in must value their own lives very little if you think your own soul is such a tiny wager," she said, the amusement draining form her voice with every word as she leaned down, cupping your face with both hands, the glow of her eyes intensifying, "But no matter. You've offered your soul as the payment to lay with me; and it is with the utmost pleasure - for myself at the very least - that I accept your generous offer, dear human. With this our pact is sealed."*
+
+You've made the virgin mistake of summoning a succubus and instantly offering all of your soul for one single otherworldly romp.
 
 ***
 
