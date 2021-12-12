@@ -53,6 +53,9 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Mistress Mei Teaches Dark Magic*](#mistress-mei-teaches-dark-magic)
   - [*In Sickness and in Health*](#in-sickness-and-in-health)
   - [*Blood for the Blood... Girl?*](#blood-for-the-blood-girl)
+  - [*Amorous Alien Xenomorph Queen*](#amorous-alien-xenomorph-queen)
+  - [*Kyuubi-sama and I*](#kyuubi-sama-and-i)
+  - [*An Apple a Day to Keep Old-Age Away*](#an-apple-a-day-to-keep-old-age-away)
 - [The Friday of *Animals*](#the-friday-of-animals)
   - [*Seamen World*](#seamen-world)
   - [*Mudsdale Used Body Press!*](#mudsdale-used-body-press)
@@ -256,7 +259,7 @@ Normally when the villainess converts the hero over to her side, manipulating hi
 ![](https://files.catbox.moe/emvv4q.jpg)
 {: .center}
 
->*Vanna snatched the bottle of booze from his hand with neither the grace of a monarch or a lady, and drank it down in several impressive gulps, utilizing her incredible demon constitution. The tiger-headed demon stared at him as he knelt, still glaring, but bleary-eyed, as she tore into a steak without breaking eye-contact. She hiccuped briefly, then emotionally hissed at him "H-how dare you speak to me as you did. You think our past means you can act above your station and... and wait, what are-- Stop that! What the hell!" she blurted out quickly, as Rana wordlessly stood up, and began slowly undressing before her. Vanna was so utterly confused by the sudden moved that she didn't know how to process the rapidly changing scene, the rapidly emptied bottle of heavy liquor doing nothing to help. Rana stared over his fearsome mistress as he undressed, gazing at her soft, orange-white fur, streaked artfully with black stripes, her simultaneously muscular and feminine frame, her deep amber eyes, and realized that deep down, he wanted this too.*
+>*Vanna snatched the bottle of booze from his hand with neither the grace of a monarch or a lady, and drank it down in several impressive gulps, utilizing her incredible demonic constitution. The tiger-headed demon stared at him as he knelt, still glaring, but bleary-eyed, as she tore into a steak without breaking eye-contact. She hiccuped briefly, then emotionally hissed at him "H-how dare you speak to me as you did in front of the council. You think our past means you can act above your station and... and wait, what are-- Stop that! What the hell!" she blurted out quickly, as Rana wordlessly stood up, and began slowly undressing before her. Vanna was so utterly confused by the sudden move that she didn't know how to process the rapidly changing scene, the expertly emptied bottle of heavy liquor doing nothing to help. Rana stared over his fearsome mistress as he undressed, gazing at her soft, orange-white fur, streaked artfully with black stripes, her simultaneously muscular and feminine frame, her deep amber eyes, and realized that deep down, he wanted this too.*
 
 Rakshasa's are animal-featured demons that have long inhabited the Indian sub-continent. In ancient Mythology, the terrible demon king Ravanna ruled over the destroyed fortress island of Lanka. In this story, his daughter has begun her quest to rekindle her fallen father's tyrannical, violent legacy, though her greatest obstacle may be her closest companion, who the young tigress shares an incredible, and increasingly close bond with.
 
@@ -578,6 +581,49 @@ Marriage counseling is a rough job. Even more so when Death knocks on the door a
 >*The pitiful display coaxed a wicked laugh from the Redcap, a sound like the tinkling of broken glass. "What's the matter? Scared?" She stepped closer, the hem of her dress dragging across the wet grass. "You know," a tiny foot flashed forward, pale toes pressing into the softness of my crotch, "you'd make a pretty good husband...or a nice, stiff piece of meat."*
 
 Cornered by a lewd little butcher, you're quickly fucked into husbandhood.
+
+### *Amorous Alien Xenomorph Queen*
+{: .center}
+
+*<https://prompts.aidg.club/2764>*
+{: .center}
+
+![](https://files.catbox.moe/qe7bks.png)
+{: .center}
+
+>*But before the mercenaries could deploy the final part of their non-lethal immobilization equipment, the dark xenomorph reared up, pulling with its incredible strength against its chemical bonds. The beast shrieked an inhuman yowl, as it ripped itself forward with frenzied motions, the struggle cracking the creature's carapace in places, as its bright-green blood spilled out, and filled the room with an acidic scent. The blood sizzled as it encountered the restraining glue, and dissolved it away, as the creature charged his squad before they could even start switching to their pulse-rifles. John felt distant and numb to the carnage that surrounded him, as he dispassionately watched the creature's long, spinal, jointed tail sweep across the soldiers, the bladed tip bisecting several men in one arc. He felt more warm than afraid or disgusted, as he was drenched in blood from the carnage, as he slipped on the cave-floor and hit his head hard. John decided to rest on the cool cave floor for a moment, as he barely noticed a huge shadow looming over him. His intoxicated vision was rendered even blurrier by the hard fall, and he had trouble making out the alien's eyeless, snarling maw as it slowly lowered over his face. Entranced by the strange situation, he tenderly reached out and grasped at the side of the huge alien xenomorph's long, thick, tapering head. The creature's saliva dripped over his face, as he marveled at it's imposing, metallic-hued fangs, as his consciousness faded.*
+
+Some bug fug. Fug de bug, or de bug fug you.
+
+### *Kyuubi-sama and I*
+{: .center}
+
+*<https://prompts.aidg.club/2766>*
+{: .center}
+
+![](https://files.catbox.moe/7eocjo.jpg)
+{: .center}
+
+>*"Hmm, so I was right, you smell like a boy... W-what is the meaning... of this..." she said, gesturing at his manhood, a strange emotion over-taking the powerful, predatory fox deity's face, her eight tails swishing around the air in agitation. The shame-faced youth got on his knees before the stormy-tempered master of his village, hoping beyond hope that he could somehow salvage the terrible insult, as he breathlessly explained "I.. even though I'm a boy I can't do any physical work.. I'm useless! But because I look like... this... they told me I could replace a girl, when the time for your offering came, so..." he trailed off weakly, as he stared dumb-struck at Kyuubi-sama.*
+>
+>*He realized, awkwardly, that Kyuubi-sama was weeping as she intently listened to his story, regarding him with a piercing, emotional stare as she daintily dabbed away at the corners of her teary-eyes with a silken-handkerchief.*
+
+The desperate elders of a fox-people village are forced to make a hard choice. Their patron guardian deity, a magically powerful nine-tailed kitsune, requires regular sacrificial, ceremonial offerings of the village's best young women. Reluctant to continue relinquishing their prized daughters, they offer up instead a hapless, effeminate orphaned male youth to sate the predatory fox-spirits need for live, sentient flesh. But instead, the dominating guardian deity finds comradely, intimacy, and perhaps a sense of decency in the embrace of her new, inexperienced paramour.
+
+### *An Apple a Day to Keep Old-Age Away*
+{: .center}
+
+*<https://prompts.aidg.club/2767>*
+{: .center}
+
+![](https://files.catbox.moe/2tcqa6.jpg)
+{: .center}
+
+>*Finally, she spoke the name of the creature that would co-inhabit her body briefly, just long enough for the terrible deed to be done, "Pah-Ras! Pah-Ras! Hylo-ton! Hylo-ton! Inhabit my body, eat your fill, and grant me the bounty I seeeeeeeeeeeeak!" Agatha rasped out, the last word drawing from her throat like a death-rattle, as the witch's antique muscles twitched and writhed unnaturally, as she felt a grim presence enter her, her entire body buzzing as if covered in flies, until the disturbing sensation seemed to internalize and fill her blood. Slowly, Agatha could feel an incredible hunger enter her body, a hunger unlike any other.*
+>
+>*Somehow, the witch knew, she could not feed this hunger with her mouth, oh no, this particular demon preferred inhabiting a different part of the witch's female anatomy. "Hope, oh dear sweet hope. Could you show your old, Auntie Agatha what it means, to be a good wife to your future husband? Come close dear, don't be ashamed..." the witch said, as she raised her robe high, revealing her hairy snatch, which twitched and wriggled unnaturally as she approached the submissively kneeling elf. Hope barely regarded the strange scene, as the witch woman's snarling snatch closely approached her placid, serene face, Agatha excitedly yelling out "Come on dearie! Give Auntie a big wet kiss!" as she spread her legs over Hope's sweet, innocent face.*
+
+Agatha Hazelbrook is a crazed, blasphemy-spewing old biddy, who is rapidly approaching the end of her rope. Hoping to avoid her destined meeting with lucifer for another few centuries, Agatha has been communing with some Ugly Spirits to get the scoop on how to keep up appearances, as she extorts an indebted monarch into providing her the critical ingredient: Innocent, virgin elves.
 
 ***
 

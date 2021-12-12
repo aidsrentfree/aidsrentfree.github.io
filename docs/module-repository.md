@@ -26,6 +26,12 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(12th December, 2021)
+
+- Updated [Battletech](#battletech) module with V4 successor.
+- Added [R. A Lafferty](#raphael-aloysius-lafferty) module.
+- Added [Stygian Delving](#stygian-delving) module.
+
 (10th December, 2021)
 
 - Updated [The Manwhore Module](#the-manwhore-module).
@@ -87,6 +93,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [George Orwell](#george-orwell)
     - [Meggin Patricia Cabot](#meggin-patricia-cabot)
     - [Pelham Grenville Wodehouse](#pelham-grenville-wodehouse)
+    - [Raphael Aloysius Lafferty](#raphael-aloysius-lafferty)
     - [Richard Samet "Kinky" Friedman](#richard-samet-kinky-friedman)
     - [Rod Serling](#rod-serling)
     - [(V3) Carl Gustav Jung](#v3-carl-gustav-jung)
@@ -109,6 +116,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - [Themes](#themes)
   - [Setting](#setting)
     - [Established](#established)
+      - [Battletech](#battletech)
       - [Beastars](#beastars)
       - [The Elder Scrolls](#the-elder-scrolls)
       - [Final Fantasy XVI](#final-fantasy-xvi)
@@ -137,7 +145,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) AR Video Game Reality](#v3-ar-video-game-reality)
     - [(V3) Aztec, Inca and Mayan Mythology](#v3-aztec-inca-and-mayan-mythology)
     - [(V3) Batman](#v3-batman)
-    - [(V3) Battletech](#v3-battletech)
     - [(V3) Celtic Mythology](#v3-celtic-mythology)
     - [(V3) Classic Cyberpunk](#v3-classic-cyberpunk)
     - [(V3) Cyberpunk 2222](#v3-cyberpunk-2222)
@@ -173,6 +180,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Kobolds](#kobolds)
       - [Male Prison](#male-prison)
       - [Sergals](#sergals)
+      - [Stygian Delving](#stygian-delving)
       - [Technology (Annotated)](#technology-annotated)
       - [Video Games](#video-games)
       - [Wildlife](#wildlife)
@@ -479,6 +487,32 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 *Much Obliged, Jeeves, The Inimitable Jeeves, Stiff Upper Lip, Jeeves, Right Ho Jeeves, Jeeves in the Offing, My Man Jeeves, The Man with Two Left Feet, The Girl on the Boat, Psmith in the City, Three Men and a Maid, Tales of St. Austin's, The Adventures of Sally, The Clicking of Cuthbert, The Prince and Betty, The Gold Bat, The Coming Of Bill, The Little Nugget, Something New, Spring Fever, Mike and Psmith, Not George Washington , Love Among The Chickens*
 
+#### [Raphael Aloysius Lafferty](https://files.catbox.moe/89qjxy.module)
+
+[by Spoder](https://discord.com/channels/836774308772446268/870449646391156776/919308289303527514)
+
+*Lafferty was singularly unique author who influenced many modern SF writers.  His style is entirely his own but contains in various measures tall tales, G.K. Chesterton, Science Fiction, Irish storytellers, historiography and more.  I don't know if it's really possible to capture him in a model, but it would be a shame not to try.*
+
+*Trained to 50.01% with 1550 steps. Trained on 106 short stories; 400,000+ words.*
+
+*Too many to list but includes Selenium Ghosts of the Eighteen-Seventies, Continued On Next Rock, About a Secret Crocodile, Slow Tuesday Night, Nine Hundred Grandmothers, And Now Walk Gently Through the Fire, Groaning Hinges of the World, Among the Hairy Earthmen, The World As Will and Wallpaper, Narrow Valley, Ginny Wrapped In the Sun, The Skinny People of Leptophlebo Street, Land of the Great Horses, Thus We Frustrate Charlemagne*
+
+>"They must have found a new place to graze in," Clem said.
+>
+>But as he turned back to her she held up one hand and pointed down by the side of the path that led toward the farmhouse. She was looking past it at something in front of it. It seemed like a black spot against the snow and it grew bigger as she stared. A man came out from behind the barn.
+>
+>It was John Smith.
+>
+>He stopped and stood very still when he saw them coming toward him.
+>
+>"You're going crazy," Mary told him as soon as she could speak after seeing his face and hearing his voice.
+>
+>John nodded and kept quiet until he got near enough to touch hands with her.
+>
+>Then: "I'm afraid I am, Mary." His words sounded slow and heavy.
+>
+>She took his arm and walked slowly along beside him as he made his way back to the farmhouse door.
+
 #### [Richard Samet "Kinky" Friedman](https://files.catbox.moe/vb8ohm.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/359694347/#359762371)
@@ -687,6 +721,71 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 ### [Setting](#themes)
 
 #### [Established](#setting)
+
+##### [Battletech](https://files.catbox.moe/t1h6si.module)
+
+[by guywhoknowsnothing](https://discord.com/channels/836774308772446268/870449646391156776/919216551150907394)
+
+*This module is trained with a focus on battle scenes from fiction set in the BattleTech tabletop universe and the related MechWarrior & MechCommander video games. 2mb, 1000 steps.*
+
+*Always refer to mechs as 'Mechs, and dropships as DropShips etc... for best results.*
+
+*Material curated and formatted in tandem with Human Error.*
+
+*Possible future updates to this module will include more lore and technical fluff text.*
+
+***What to expect from this module:***
+
+- *Epic battles of giant heavily armed and armored walking tanks known as 'Mechs, as well as other vehicles like conventional tanks, spacecrafts, jets, hovercrafts, naval vessels, and also infantry.*
+- *Missiles, lasers, ballistic weapons, airstrikes, and bombs.*
+- *Galactic scale political intrigue, betrayal, and sabotage.*
+- *Paid mercenary forces loyal only to the almighty C-Bill.*
+- *Professional bloodsport arena combat between mechs before a spectator audience.*
+
+***What not to expect from this module:***
+
+- *Lore accuracy. Don't hope for it, seriously.*
+
+(First Person)
+>**Your pulse races as you center your targeting reticle** on the enemy 'Mech. You hold down the trigger, sending a lance of long-range missiles at the lumbering machine. The missile launcher stutters in your hand, and the glowing red tracers race away from your cockpit. They hit the other BattleMech's left leg, shredding armor plating and tearing into its gyroscope. Your computer automatically adjusts your aim to compensate for the damage, and you send another salvo of missiles at the same spot. This time, they find their mark, blowing off more armor and ripping open the limb below.
+>
+>The other 'Mech staggers backward under the attack, but doesn't go down. It raises its arms, preparing to return fire. You wait until it is nearly in range, then pull back on your joystick. The 'Mech lurches forward as your jump jets ignite, rising up off of the ground like some kind of giant insect. As you clear the treeline, you see that the other 'Mech has moved with you. Its pilot is no doubt trying to bring his weapons to bear on you, but he's too late.
+>
+>You open fire with both autocannons and lasers, painting the 'Mech with hundreds of tiny explosions and brilliant beams of light. The other 'Mech reels under the onslaught, struggling to stay upright. Then, suddenly, it falls backward, crashing to the ground with an earth-shaking crash.
+>
+>"That was close," you say. "I thought I'd lost you there."
+>
+>Alicia's voice comes over the comm channel. "Well done, Mech Warrior," she says. "We'll be meeting them head-on soon enough. Keep your eyes peeled for more enemies. We're almost through this forest."
+>
+>As you continue your advance, you see several more 'Mechs moving through the trees. They are all painted with black and white camouflage patterns, but they move with a mechanical grace that belies their true nature. These must be Clan machines. You switch your comm channels to the general frequency.
+
+(Second Person)
+>**I enter the hanger at a brisk sprint as our commanding officer yells through a megaphone**. "All hands, this is Captain Anderle of the Ripper. We are under attack by a large number of enemy BattleMechs. All personnel are to secure your 'Mech and report to the command center."
+>
+>The commander's voice cuts off in mid-sentence. The hangers around me have been transformed into a war zone. I can see three burning 'Mechs on the ground outside, but they're not mine. Two other 'Mechs are missing their heads, while others are torn apart. I'm relieved that none of my people are down. At least we didn't lose anyone today.
+"Sierra One to Command Post," comes a radio transmission from one of the guards posted around the base. "We've got company out here. Looks like some kind of attack force. No sign of any hostile infantry or vehicles yet."
+>
+>"Roger that, Sierra One. Hold position and await further orders."
+>
+>I run up the ramp to my Valkyrie and find it already warmed up and ready for battle. My visor tells me that all systems are green, and I get an alert on my secondary display indicating that I am now linked to the command post.
+>
+>"Command Post to Ripper, all personnel accounted for. What's the situation?"
+>
+>"Sir, there are two companies of 'Mechs attacking us from the north. They appear to be coming from the direction of the spaceport. They are heavily armed with particle projection cannons and missiles. I don't know how many 'Mechs they have, but I estimate about thirty."
+>
+>"Understood. Get your men together and form up on me. Let's show these bastards what we can do."
+
+(Third Person)
+>**Suddenly, the tide of the battle turns for the worse. As Erik and his lance crest the small valley**'s ridge line, they find a platoon of medium 'Mechs standing guard over the village of Rolvaag. The enemy has been waiting for them, and now that they are here, their mission is clear: to destroy this new threat before it can threaten the front lines.
+The other side of the valley is a sheer cliff face, with only one way in or out—a narrow trail that winds up the mountain and into the village. It is impossible to fight back from there, but Erik knows he must try. He orders his lance forward, down the slope toward the town.
+>
+>They make it halfway to the edge of the village before the enemy 'Mechs open fire on them. His Wolverine staggers under the impact of two long-range missile volleys, then takes another hit as a Gauss rifle slams into its right arm. The shot tears off the limb like a twig, leaving Erik unable to bring the weapon's massive autocannon online.
+Erik banks hard left, seeking cover behind a row of houses. A second volley follows, hammering the Wolverine's torso and right leg. Then the ground erupts in a shower of dirt and rock as a pair of anti-'Mech missiles slam into the street where Erik had just been standing.
+>
+>"Fall back!" he shouts, trying to get the rest of his lance to follow him. "Fall back! We have to pull back!"
+>
+>But the order is too late. An explosion rips through the middle of the street, sending shrapnel flying everywhere. Erik feels the heat of the blast wash over him, even though he is several dozen meters away. As he pulls back, he sees the other three members of his lance fall in quick succession, their machines torn apart by the explosions.
+He fights against the rising panic, forcing himself to stay calm. There is nothing he can do for the fallen. But if he doesn't escape, he will be next.
 
 ##### [Beastars](https://files.catbox.moe/26usa1.module)
 
@@ -1360,78 +1459,6 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 >
 > And then she turned and walked away, her bare feet making no sound on the marble floor.
 
-#### [(V3) Battletech](https://files.catbox.moe/bxh36b.module)
-
-[by guywhoknowsnothing](https://discord.com/channels/836774308772446268/870449646391156776/885393240004636732)
-
-*This module is trained with a focus on battle scenes from fiction set in the BattleTech tabletop universe and the related MechWarrior & MechCommander video games. 2mb, 1000 steps.*
-
-*Always refer to mechs as 'Mechs, and dropships as DropShips etc... for best results.*
-
-*Material curated and formatted in tandem with Human Error.*
-
-*Possible future updates to this module will include more lore and technical fluff text.*
-
-***What to expect from this module:***
-
-- *Epic battles of giant heavily armed and armored walking tanks known as 'Mechs, as well as other vehicles like conventional tanks, spacecrafts, jets, hovercrafts, naval vessels, and also infantry.*
-- *Missiles, lasers, ballistic weapons, airstrikes, and bombs.*
-- *Galactic scale political intrigue, betrayal, and sabotage.*
-- *Paid mercenary forces loyal only to the almighty C-Bill.*
-- *Professional bloodsport arena combat between mechs before a spectator audience.*
-
-***What not to expect from this module:***
-
-- *Lore accuracy. Don't hope for it, seriously.*
-
->"Contact!" A voice shouted over comms. "Two enemy 'Mechs approaching from the south-east quadrant. One hundred meters away."
->
->A chill ran down the spine of every MechWarrior present. That was the direction from which most of the bandits had come, and the only place on the island where 'Mechs would approach without being seen.
->
->"All units, prepare for combat maneuvers. Target priority: Bandits. Repeat, target priority: Bandits."
->
->Taylitha jerked the joystick, and the Atlas lurched forward on its massive legs. She hit the throttle and the 'Mech surged ahead, leaving the other 'Mechs behind it.
->
->"50 meters, 3 o'clock!"
->
->The warning came over the comm, followed by the sound of something tearing into the ground.
->
->"30 meters, 2 o'clock!"
->
->"20, 1 o'clock!"
->
->"10, straight ahead!"
->
->"Fire!"
->
->The battle erupted at once.
->
->"Bandit down," came the call over the comm.
->
->The Atlas slowed down and pulled back slightly so it wouldn't interfere with the others in the fight.
->
->"Enemy 'Mechs engaging the rest of the lance," another voice reported over the comm.
->
->"We're going after the leader," Kasten said.
->
->"Roger," replied the second voice.
->
->"What are your orders?"
->
->"I'll take the right flank. You cover the left," Kasten said.
->
->"Affirmative. I'm on my way."
->
->"Don't kill him unless you have to," Kasten added.
->
->Taylitha centered her reticle over a grouping of UrbanMechs, then mashed the primary firing group trigger, unleashing a barrage of PPC fire. The weapons spat blue lightning from their barrels, carving a path through the cluster of machines.
->
->She moved the crosshairs to the next target and fired again, this time hitting a nearby Clan OmniMech. It staggered backward under the onslaught, then fell.
-
-
-
-*As always for those that are interested, tell me how good or how shit they are.*
-
 #### [(V3) Celtic Mythology](https://files.catbox.moe/xhulkq.module)
 
 [by AvoWizard](https://discord.com/channels/836774308772446268/870449646391156776/889278231805562910)
@@ -1990,6 +2017,25 @@ A.K.A "Toby Fox Module"
 *The purpose of this module is to give NAI a better idea of sergals, both in canon and non-canon stories. Most of the texts used are SFW, but there're some erotic scenes too. Official Vilous Wiki (the data is cleaned by hand) + several well-written fan-fiction texts taken from FurAffinity.*
 
 *4.4 Mb, 1300 steps, 35% coverage, Loss: 2.9415.*
+
+##### [Stygian Delving](https://files.catbox.moe/xzpbjl.module)
+
+[by OccultSage and Fuzzy](https://discord.com/channels/836774308772446268/870449646391156776/919494499502280704)
+
+*This is a second person text adventure module that works really well, oriented towards gothic-dark dungeon crawls.*
+
+*This was a successful experiment in:*
+
+- *Starting with third person source material training a module, and playing through it in 2nd person.*
+- *Recursively training a module on the outputs of above runthroughs.*
+- *Engaging with the community to gather runthroughs.*
+
+*(2749 steps, 401% coverage, ~600kb)*
+
+- *Various contributions from the community in runthroughs! Thanks go to AlexeiP, [REDACTED], Wick Nalton from Longitude, Nyks, Finetuned David Locke, normalsoapguy, Guelch*
+- *Special thanks goes to Apatia for starting this whole thing with me.*
+
+![](https://files.catbox.moe/6qxhfs.png)
 
 ##### [Technology (Annotated)](https://files.catbox.moe/j5hzlk.module)
 
