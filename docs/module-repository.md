@@ -133,11 +133,13 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Russian Fantasy and Folklore](#russian-fantasy-and-folklore)
       - [Western](#western)
       - [Western Romance](#western-romance)
-    - [Feudal Japan](#feudal-japan)
-    - [Generation Ship](#generation-ship)
-    - [The Great War - Western Front](#the-great-war---western-front)
-    - [Smalltown Folklore](#smalltown-folklore)
-    - [Xenoarchaeology and Relics](#xenoarchaeology-and-relics)
+    - [Historical](#historical)
+      - [Feudal Japan](#feudal-japan)
+      - [The Great War - Western Front](#the-great-war---western-front)
+    - [Fantastical](#fantastical)
+      - [Generation Ship](#generation-ship)
+      - [Smalltown Folklore](#smalltown-folklore)
+      - [Xenoarchaeology and Relics](#xenoarchaeology-and-relics)
     - [(V3) Action Movies](#v3-action-movies)
     - [(V3) Alien Franchise](#v3-alien-franchise)
     - [(V3) Ancient Historical Rome](#v3-ancient-historical-rome)
@@ -369,7 +371,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Paraphore](#v3-paraphore)
     - [(V3) Trials in Tainted Space](#v3-trials-in-tainted-space)
   - [Web Fiction](#web-fiction)
-    - [Helluva Hotel](#helluva-hotel)
     - [Pack Street](#pack-street)
     - [(V3) Code Lyoko](#v3-code-lyoko)
     - [(V3) A Dragon Ranch in Suburbia](#v3-a-dragon-ranch-in-suburbia)
@@ -383,6 +384,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Welcome to Night Vale](#v3-welcome-to-night-vale)
     - [(V3) Worm](#v3-worm)
   - [Scripts](#scripts)
+    - [Helluva Hotel](#helluva-hotel)
     - [Seinfeld](#seinfeld)
 - [Utilities](#utilities)
   - [Aesop Rock Lyrics](#aesop-rock-lyrics)
@@ -1158,7 +1160,9 @@ He fights against the rising panic, forcing himself to stay calm. There is nothi
 >
 >She took hold of his hand and led him to the bench beneath an oak tree. There they sat and stared at each other for long moments.
 
-#### [Feudal Japan](https://files.catbox.moe/x9os0f.module)
+#### [Historical](#setting)
+
+##### [Feudal Japan](https://files.catbox.moe/x9os0f.module)
 
 [by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/908017750176321629)
 
@@ -1208,7 +1212,19 @@ He fights against the rising panic, forcing himself to stay calm. There is nothi
 >
 >Yoshi stared blankly at the floor. For several seconds he remained motionless, not speaking. Finally, he raised his head and looked directly at Taro.
 
-#### [Generation Ship](https://files.catbox.moe/pubhtk.module)
+##### [The Great War - Western Front](https://files.catbox.moe/4qysmm.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/360879939/#361072013)
+
+*Alright, enough teasing. Why am I releasing this now during animal fucker week instead of ten days before when it would have been most appropriate? Ah, well the demands of my autism have mostly been sated for now. Gentlemen, behold!*
+
+*A module about The First World War! Tragedy, terror, combat, patriotism, loss, despair, and the occasionally boring minutiae of soldiering. Collected from historical and fictional accounts, all in first person past tense (but the module should still work in other tenses) from the perspective of the German, French, B.E.F (including Canadian), and American forces. Specifically focusing on the Western front because the Italian front, the East, and other places like the Ottoman front would be vastly different to describe. And also limited to the infantry perspective because aerial combat is also very different.*
+
+*I doubt many people here want to write autistic historical fiction, but I encourage you to experiment with it when you want descriptions of combat, ravaged landscapes and commentary from the perspective of disaffected young men.*
+
+#### [Fantastical](#setting)
+
+##### [Generation Ship](https://files.catbox.moe/pubhtk.module)
 
 [by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/909556544524390430)
 
@@ -1222,25 +1238,15 @@ He fights against the rising panic, forcing himself to stay calm. There is nothi
 >
 >On board the planetoid they call Bussard's Viewing Room, I'm sitting at my desk in front of the window, looking down on the tiny red dot that is our home world. A small robot arm with a stylus attached to it extends from the wall behind me and makes an erratic scratching motion across the screen, which changes every few seconds. On another monitor, a view of Earth shows the same thing happening there. I've been watching this show for years now, ever since we were all woken up by the crew waking us from suspended animation.
 
-#### [The Great War - Western Front](https://files.catbox.moe/4qysmm.module)
+##### [Smalltown Folklore](https://files.catbox.moe/sminlt.module)
 
-[by Anon](https://arch.b4k.co/vg/thread/360879939/#361072013)
-
-*Alright, enough teasing. Why am I releasing this now during animal fucker week instead of ten days before when it would have been most appropriate? Ah, well the demands of my autism have mostly been sated for now. Gentlemen, behold!*
-
-*A module about The First World War! Tragedy, terror, combat, patriotism, loss, despair, and the occasionally boring minutiae of soldiering. Collected from historical and fictional accounts, all in first person past tense (but the module should still work in other tenses) from the perspective of the German, French, B.E.F (including Canadian), and American forces. Specifically focusing on the Western front because the Italian front, the East, and other places like the Ottoman front would be vastly different to describe. And also limited to the infantry perspective because aerial combat is also very different.*
-
-*I doubt many people here want to write autistic historical fiction, but I encourage you to experiment with it when you want descriptions of combat, ravaged landscapes and commentary from the perspective of disaffected young men.*
-
-#### [Smalltown Folklore](https://files.catbox.moe/sminlt.module)
-
-[by Dan!]()
+[by Dan!](https://discord.com/channels/836774308772446268/870449646391156776/911800084574904340)
 
 *Ever wondered what was goin' on in the middle of nowhere? Find out! Based on the works of Garrison Keillor and Stuart McLean.*
 
 *110% Coverage, 3.7k Steps.*
 
-#### [Xenoarchaeology and Relics](https://files.catbox.moe/n7sz15.module)
+##### [Xenoarchaeology and Relics](https://files.catbox.moe/n7sz15.module)
 
 [by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/910028027369517116)
 
@@ -4308,53 +4314,6 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 
 ### [Web Fiction](#works)
 
-#### [Helluva Hotel](https://files.catbox.moe/eeelvj.module)
-
-[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/910745384597475348)
-
-*This module is trained on the transcripts of the Hazbin Hotel and Helluva Boss adult themed animated comedy. Lots of singing, zany characters galore!*
-
-***TURN OFF BRACKET BANS FOR THIS ONE***
-
-*224kb, 500 steps, 500% coverage, 2.718 loss.*
-
-- **Episode:** That's Entertainment **Show:** Hazbin Hotel **Screenwriters:** Vivienne Medrano, Dave Capdevielle & Raymond Hernandez
-- **Episode:** Helluva Boss (pilot) **Show:** Helluva Boss **Screenwriters:** Brandon Rogers & Vivienne Medrano
-- **Episode:** Murder Family **Show:** Helluva Boss **Screenwriters:** Samantha Ambriz, Thomas Brooks & Nick Swift
-- **Episode:** Loo Loo Land **Show:** Helluva Boss **Screenwriters:** Seth Anderholm, Zach Giering, Jess Sims & Paul Villeco
-- **Episode:** Spring Broken **Show:** Helluva Boss **Screenwriters:** Zi Chen, Adam Ford, Zach Giering, Amanda Herd & Lidia Liu
-- **Episode:** C.H.E.R.U.B. **Show:** Helluva Boss **Screenwriters:** Seth Anderholm, Thomas Brooks, Kyle Bullock & Paul Villeco
-- **Episode:** The Harvest Moon Festival **Show:** Helluva Boss **Screenwriters:** Kyle Bullock, Zach Giering, Arielle Somerville, Nick Swift & Ang Vondra
-- **Episode:** Truth Seekers **Show:** Helluva Boss **Screenwriters:** Seth Anderholm, Zach Giering, Arielle Somerville, Samantha Ames and Nick Swift
-
->**[The scene opens to** the three boys and Millie in a dark alleyway, with two other men in black hoods. They turn to look at each other.]
->
->Millie: "Did you guys see that?"
->
->[All three boys nod and look away.]
->
->Blitzo: "Yeah, I saw it too." [To one of the men] "What did you think? Did they just jump out of nowhere?"
->
->[The man shakes his head.]
->
->Loxi: "Nah, I don't know. It looked like he was flying."
->
->[All three boys look back up to the sky, where Blitzo sees a small figure falling from the sky. He then looks down to find an unconscious Moxxie on the ground. The boys rush over to him and help him sit up. They all watch as Moxxie slowly stands up.]
->
->Moxxie: "I...I'm okay..." [He coughs and rubs his eyes. He then looks around, confused.]
->
->Blitzo: "Where are we?"
->
->[Moxxie turns to face Blitzo, but instead finds himself looking into the eyes of a woman wearing a black hood. She takes off her hood and reveals herself to be a demon in disguise. She smiles at the boys and gives them a thumbs-up.]
->
->Moxxie: "Whoa! A demon?!"
->
->[She reaches behind her back and pulls out a large knife. She points it at Blitzo and Loxi.]
->
->Demon: "Well, well, well. Look what we have here."
->
->[The boys stand up, shocked by the sudden appearance of the demon.
-
 #### [Pack Street](https://files.catbox.moe/xmo4sr.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/359694347/#359707706)
@@ -4509,6 +4468,53 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 ***
 
 ### [Scripts](#works)
+
+#### [Helluva Hotel](https://files.catbox.moe/eeelvj.module)
+
+[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/910745384597475348)
+
+*This module is trained on the transcripts of the Hazbin Hotel and Helluva Boss adult themed animated comedy. Lots of singing, zany characters galore!*
+
+***TURN OFF BRACKET BANS FOR THIS ONE***
+
+*224kb, 500 steps, 500% coverage, 2.718 loss.*
+
+- **Episode:** That's Entertainment **Show:** Hazbin Hotel **Screenwriters:** Vivienne Medrano, Dave Capdevielle & Raymond Hernandez
+- **Episode:** Helluva Boss (pilot) **Show:** Helluva Boss **Screenwriters:** Brandon Rogers & Vivienne Medrano
+- **Episode:** Murder Family **Show:** Helluva Boss **Screenwriters:** Samantha Ambriz, Thomas Brooks & Nick Swift
+- **Episode:** Loo Loo Land **Show:** Helluva Boss **Screenwriters:** Seth Anderholm, Zach Giering, Jess Sims & Paul Villeco
+- **Episode:** Spring Broken **Show:** Helluva Boss **Screenwriters:** Zi Chen, Adam Ford, Zach Giering, Amanda Herd & Lidia Liu
+- **Episode:** C.H.E.R.U.B. **Show:** Helluva Boss **Screenwriters:** Seth Anderholm, Thomas Brooks, Kyle Bullock & Paul Villeco
+- **Episode:** The Harvest Moon Festival **Show:** Helluva Boss **Screenwriters:** Kyle Bullock, Zach Giering, Arielle Somerville, Nick Swift & Ang Vondra
+- **Episode:** Truth Seekers **Show:** Helluva Boss **Screenwriters:** Seth Anderholm, Zach Giering, Arielle Somerville, Samantha Ames and Nick Swift
+
+>**[The scene opens to** the three boys and Millie in a dark alleyway, with two other men in black hoods. They turn to look at each other.]
+>
+>Millie: "Did you guys see that?"
+>
+>[All three boys nod and look away.]
+>
+>Blitzo: "Yeah, I saw it too." [To one of the men] "What did you think? Did they just jump out of nowhere?"
+>
+>[The man shakes his head.]
+>
+>Loxi: "Nah, I don't know. It looked like he was flying."
+>
+>[All three boys look back up to the sky, where Blitzo sees a small figure falling from the sky. He then looks down to find an unconscious Moxxie on the ground. The boys rush over to him and help him sit up. They all watch as Moxxie slowly stands up.]
+>
+>Moxxie: "I...I'm okay..." [He coughs and rubs his eyes. He then looks around, confused.]
+>
+>Blitzo: "Where are we?"
+>
+>[Moxxie turns to face Blitzo, but instead finds himself looking into the eyes of a woman wearing a black hood. She takes off her hood and reveals herself to be a demon in disguise. She smiles at the boys and gives them a thumbs-up.]
+>
+>Moxxie: "Whoa! A demon?!"
+>
+>[She reaches behind her back and pulls out a large knife. She points it at Blitzo and Loxi.]
+>
+>Demon: "Well, well, well. Look what we have here."
+>
+>[The boys stand up, shocked by the sudden appearance of the demon.
 
 #### [Seinfeld](https://files.catbox.moe/rwa3y8.module)
 
