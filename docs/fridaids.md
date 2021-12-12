@@ -34,8 +34,8 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 - [Rules](#rules)
 - [The Log](#the-log)
 - [The Friday of *Villainesses*](#the-friday-of-villainesses)
-  - [*Ride the Tiger*](#ride-the-tiger)
   - [*True Love's First (Cloacal) Kiss*](#true-loves-first-cloacal-kiss)
+  - [*Ride the Tiger*](#ride-the-tiger)
   - [*Under the Heel*](#under-the-heel)
   - [*A Better, More Demonic World*](#a-better-more-demonic-world)
   - [*Vampiric Mistress*](#vampiric-mistress)
@@ -228,19 +228,6 @@ Let's make prompts about the antagonists, those like us but morally opposed; our
 *December 10th, 2021*
 {: .center}
 
-### *Ride the Tiger*
-{: .center}
-
-*<https://prompts.aidg.club/2743>*
-{: .center}
-
-![](https://files.catbox.moe/emvv4q.jpg)
-{: .center}
-
->*Vanna snatched the bottle of booze from his hand with neither the grace of a monarch or a lady, and drank it down in several impressive gulps, utilizing her incredible demon constitution. The tiger-headed demon stared at him as he knelt, still glaring, but bleary-eyed, as she tore into a steak without breaking eye-contact. She hiccuped briefly, then emotionally hissed at him "H-how dare you speak to me as you did. You think our past means you can act above your station and... and wait, what are-- Stop that! What the hell!" she blurted out quickly, as Rana wordlessly stood up, and began slowly undressing before her. Vanna was so utterly confused by the sudden moved that she didn't know how to process the rapidly changing scene, the rapidly emptied bottle of heavy liquor doing nothing to help. Rana stared over his fearsome mistress as he undressed, gazing at her soft, orange-white fur, streaked artfully with black stripes, her simultaneously muscular and feminine frame, her deep amber eyes, and realized that deep down, he wanted this too.*
-
-Rakshasa's are animal-featured demons that have long inhabited the Indian sub-continent. In ancient Mythology, the terrible demon king Ravanna ruled over the destroyed fortress island of Lanka. In this story, his daughter has begun her quest to rekindle her fallen father's tyrannical, violent legacy, though her greatest obstacle may be her closest companion, who the young tigress shares an incredible, and increasingly close bond with.
-
 ### *True Love's First (Cloacal) Kiss*
 {: .center}
 
@@ -259,6 +246,19 @@ Rakshasa's are animal-featured demons that have long inhabited the Indian sub-co
 >*"Well, if it isn't fear that I smell, what is it?" Maleficent asked, her tone becoming more contemptuous, "Is it desire?"*
 
 Normally when the villainess converts the hero over to her side, manipulating him with her body, and forcing him to fall for her and for her plans, it would be considered a bad end. In this case, since Maleficent is the best Disney girl, that doesn't apply in this case, this is absolutely the best ending possible. Why would you pick some sleeping slut over the best dragon in media?
+
+### *Ride the Tiger*
+{: .center}
+
+*<https://prompts.aidg.club/2743>*
+{: .center}
+
+![](https://files.catbox.moe/emvv4q.jpg)
+{: .center}
+
+>*Vanna snatched the bottle of booze from his hand with neither the grace of a monarch or a lady, and drank it down in several impressive gulps, utilizing her incredible demon constitution. The tiger-headed demon stared at him as he knelt, still glaring, but bleary-eyed, as she tore into a steak without breaking eye-contact. She hiccuped briefly, then emotionally hissed at him "H-how dare you speak to me as you did. You think our past means you can act above your station and... and wait, what are-- Stop that! What the hell!" she blurted out quickly, as Rana wordlessly stood up, and began slowly undressing before her. Vanna was so utterly confused by the sudden moved that she didn't know how to process the rapidly changing scene, the rapidly emptied bottle of heavy liquor doing nothing to help. Rana stared over his fearsome mistress as he undressed, gazing at her soft, orange-white fur, streaked artfully with black stripes, her simultaneously muscular and feminine frame, her deep amber eyes, and realized that deep down, he wanted this too.*
+
+Rakshasa's are animal-featured demons that have long inhabited the Indian sub-continent. In ancient Mythology, the terrible demon king Ravanna ruled over the destroyed fortress island of Lanka. In this story, his daughter has begun her quest to rekindle her fallen father's tyrannical, violent legacy, though her greatest obstacle may be her closest companion, who the young tigress shares an incredible, and increasingly close bond with.
 
 ### *Under the Heel*
 {: .center}
