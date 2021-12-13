@@ -26,6 +26,13 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(13th December, 2021)
+
+- Added [Disco Elysium Skills](#disco-elysium-skills) module.
+- Added [Sailor Moon](#sailor-moon) module.
+- Added [Genshin Impact](#genshin-impact) module.
+- Added [Starcraft](#starcraft) module.
+
 (12th December, 2021)
 
 - Updated [Battletech](#battletech) module with V4 successor.
@@ -64,15 +71,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 - Added [The Adepta Sororitas W40K](#the-adepta-sororitas-daughters-of-the-emperor) module.
 - Added [Kobold Adventure](#kobold-adventure) module.
-
-(29th November, 2021)
-
-- Back from death.
-- Updated [Highschool DxD (1-10)](#highschool-dxd-1-10) module with V4 successor.
-- Added [Teraurge](#teraurge) module.
-- Updated [Sweet Time](#sweet-time) module with V4 successor.
-- Added [Kobold](#kobolds) module.
-- Added [Warcraft](#warcraft) module
 
 ***
 
@@ -115,7 +113,10 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Beastars](#beastars)
       - [The Elder Scrolls](#the-elder-scrolls)
       - [Final Fantasy XVI](#final-fantasy-xvi)
+      - [Genshin Impact](#genshin-impact)
       - [Mad Max](#mad-max)
+      - [Sailor Moon](#sailor-moon)
+      - [Starcraft](#starcraft)
       - [Touhou Project](#touhou-project)
       - [Warcraft](#warcraft)
       - [World of Kouros](#world-of-kouros)
@@ -183,6 +184,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Wildlife](#wildlife)
     - [Abstract](#abstract)
       - [Communism](#communism)
+      - [Disco Elysium: Skills](#disco-elysium-skills)
       - [Gay](#gay)
       - [Sweet Time](#sweet-time)
     - [Style](#style)
@@ -840,6 +842,15 @@ He fights against the rising panic, forcing himself to stay calm. There is nothi
 >
 >It wasn't long until they arrived at the market square near the docks, where countless stalls stood selling everything under the sun: fruits and vegetables, meat and breads.
 
+##### [Genshin Impact](https://files.catbox.moe/71q79j.module)
+
+[by AnimalCrossing](https://discord.com/channels/836774308772446268/870449646391156776/919792322592538724)
+
+*Here's my 5th gen Genshin Impact module! It's trained on fanfictions, ingame books, characters (copy-pasted like 500 times), and more! Works well with my Genshin lorebook that I will edit here soon after I'm done fine tuning my modules.*
+
+*Super trained on characters (bot thinks Jean is a male, will fix on next updates), fanfiction trained (about 6k words worth to keep it SFW and no pairings), female traveler is in here (named Ying), Mondstadt is completely trained with some Liyue locations!*
+
+*(Around 20k steps, 239kb, and 181% coverage).*
 
 ##### [Mad Max](https://files.catbox.moe/cd6rvq.module)
 
@@ -876,6 +887,21 @@ He fights against the rising panic, forcing himself to stay calm. There is nothi
 >
 >"Where's your fucking water?" I screamed at him. He tried to say something, but all that came out was a bloody gurgle.
 
+##### [Sailor Moon](https://files.catbox.moe/2hdlod.module)
+
+[by davits1](https://discord.com/channels/836774308772446268/870449646391156776/919779036241231922)
+
+*Here's another anime-based module. This one is trained on a few Sailor Moon fanfics and an official Sailor Moon novel. Some fanfics contain original characters, so don't expect it to be 100% canonical. Consider it a magical girl module. 3rd person, past tense (1954 steps, 100% coverage, 1.7 MB file).*
+
+*Note: For coherence purposes, I made sure all the material referred to the main character as "Usagi" and not "Serena".*
+
+*Note 2: All stories use the Japanese names.*
+
+##### [Starcraft](https://files.catbox.moe/ruw61d.module)
+
+[by davits1](https://discord.com/channels/836774308772446268/870449646391156776/919965325947174992)
+
+*I trained a module on official Starcraft novels (no fanfics, official novels only). 3rd person past tense, of course. 3.5k steps, 100% coverage (3 MB file size).*
 
 ##### [Touhou Project](https://files.catbox.moe/po4ykc.module)
 
@@ -2089,6 +2115,45 @@ A.K.A "Toby Fox Module"
 ![An example](https://files.catbox.moe/b5x42z.png)
 {: .center}
 
+##### [Disco Elysium: Skills](https://files.catbox.moe/8m2dyv.module)
+
+[by Dead Eye ☕](https://discord.com/channels/836774308772446268/870449646391156776/919776628605870091)
+
+*Aims to help generate internal monologue with the skills in the style of Disco Elysium.*
+
+*Source Material: Quotes from the Fandom wiki that involve the skills, formatted and annotated. Small dataset size, heavily biased towards Encyclopedia as it contains the most useful knowledge for the wiki. 123KB, ~1200 training steps. Might try on a larger dataset later if I can get a proper dump of the game text, but will try out combining this with a Lorebook first.*
+
+*The training data is basically a collection of annotated conversations with skills involved e.g.:*
+
+  KIM KITSURAGI: "Something the matter, detective?"
+  [Skill: AUTHORITY; Topic: Kim Kitsuragi]
+  AUTHORITY: (This guy's got Authority off the charts. With just a flick of his eyebrow he's able to make you his thrall.)
+
+>**(You are standing at the pier, facing west of Revachol)**
+>
+>**YOU: (What's in the west?)**
+>
+>**[Skill: SHIVERS; Topic: Revachol]**
+>
+>**SHIVERS: (More winding coastline lined with abandoned buildings. Crumbling piers salt water lapping at their dark piles. Grey and red, forgotten city blocks. What remains of the pre-revolutionary effort to gentrify the coast.)**
+>
+>**YOU: (And beyond that?)**
+>
+>**SHIVERS: (The waters turn black. Coal City in the shadow of Saint-Martin, a boom town, back when coal extracted from countless shafts near the city was need to power Revachol.)**
+>
+>**YOU: (And even beyond that?)**
+>
+>SHIVERS: (A great wall of fog rolls over the sea, blotting everything from view.)
+>
+>YOU: (I can't see anything past it.)
+>
+>SHIVERS: (That is because you have no eyes for what lies beyond.)
+>
+>YOU: (But I want to!)
+>
+>SHIVERS: (Then why don't you? You could walk along the shore until you reach the edge of the world. Or maybe you'd prefer to stay here on this pier, staring into the misty distance.)
+>
+>YOU: (No! No, I'm going.)
 
 ##### [Gay](https://files.catbox.moe/v52asc.module)
 
