@@ -32,6 +32,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Added [Sailor Moon](#sailor-moon) module.
 - Added [Genshin Impact](#genshin-impact) module.
 - Added [Starcraft](#starcraft) module.
+- Added [Is It Wrong to Try to Pick Up Girls in a Dungeon?](#is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon) module.
 
 (12th December, 2021)
 
@@ -350,6 +351,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
   - [Light Novel](#light-novel)
     - [The Beginning After The End](#the-beginning-after-the-end)
     - [Highschool DxD (1-10)](#highschool-dxd-1-10)
+    - [Is It Wrong to Try to Pick Up Girls in a Dungeon?](#is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon)
     - [(V3) Fantasies](#v3-fantasies)
     - [(V3) Goblin Slayer](#v3-goblin-slayer)
     - [(V3) Highschool DxD (1-21)](#v3-highschool-dxd-1-21)
@@ -4192,6 +4194,14 @@ A.K.A Green's Eagle Vision
 >*\>For chuuni and boob lovers alike, reformatted and adjusted translations for volumes 1 to 10 of the High School DxD Light Novel!*
 >
 >*\>Many 'important terms' within the franchise are surrounded in [ ] brackets. Mileage may vary!*
+
+#### [Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://files.catbox.moe/3z3j48.module)
+
+[by SekTheSun](https://discord.com/channels/836774308772446268/870449646391156776/920023692174577664)
+
+*Trained on **Volume 2 to 12** and **Volume 16** of Is it wrong to try to pick up girls in a dungeon? a.k.a. Dungeon ni deai wo motomeru no wa machigatteiru darou ka?*
+
+*100%, Average Loss: 2.5640, Last Loss: 2.5571*
 
 #### [(V3) Fantasies](https://files.catbox.moe/j2rgei.module)
 
