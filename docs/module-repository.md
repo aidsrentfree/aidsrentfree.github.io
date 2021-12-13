@@ -74,12 +74,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Added [Kobold](#kobolds) module.
 - Added [Warcraft](#warcraft) module
 
-(25th November, 2021)
-
-- Updated [Androids, Robots, Aliens, Harems](#androids-robots-aliens-harems) module with V4 successor.
-- Updated [Sergals](#sergals) module with V4 successor.
-- Updated [Furry (Short Stories)](#furry-short-stories) module with V4 successor.
-
 ***
 
 ## [Table of Contents](#modules)
