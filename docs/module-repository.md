@@ -33,7 +33,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Added [Kitsune](#kitsunes) module.
 - Added [Diverse Cyberpunk (Annotated)](#diverse-cyberpunk-annotated) module.
 - Updated [Angels and Demons](#angels-and-demons) module with V4 successor.
-
+- Added [Aphrodite's Curse](#aphrodites-curse) module.
 (13th December, 2021)
 
 - Added [Disco Elysium Skills](#disco-elysium-skills) module.
@@ -375,6 +375,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Paraphore](#v3-paraphore)
     - [(V3) Trials in Tainted Space](#v3-trials-in-tainted-space)
   - [Web Fiction](#web-fiction)
+    - [Aphrodite's Curse](#aphrodites-curse)
     - [Pack Street](#pack-street)
     - [(V3) Code Lyoko](#v3-code-lyoko)
     - [(V3) A Dragon Ranch in Suburbia](#v3-a-dragon-ranch-in-suburbia)
@@ -4471,6 +4472,15 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 ***
 
 ### [Web Fiction](#works)
+
+#### [Aphrodite's Curse](https://files.catbox.moe/xbldh8.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/364487183/#364490606)
+
+*Trained a femdom module based on Aphrodite's Curse by Gaius8666 (a Literotica author who has published some e-books). As the name suggests, it's based on mythology, involving various divinely beautiful goddesses who all happen to enjoy teasing and humiliating men.*
+
+![](https://files.catbox.moe/21pry7.png)
+{: .center}
 
 #### [Pack Street](https://files.catbox.moe/xmo4sr.module)
 
