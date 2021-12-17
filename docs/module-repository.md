@@ -34,6 +34,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Added [Diverse Cyberpunk (Annotated)](#diverse-cyberpunk-annotated) module.
 - Updated [Angels and Demons](#angels-and-demons) module with V4 successor.
 - Added [Aphrodite's Curse](#aphrodites-curse) module.
+
 (13th December, 2021)
 
 - Added [Disco Elysium Skills](#disco-elysium-skills) module.
