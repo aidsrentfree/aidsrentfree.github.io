@@ -32,6 +32,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Added [Disco Elysium: Conversations](#disco-elysium-conversations) module.
 - Added [Kitsune](#kitsunes) module.
 - Added [Diverse Cyberpunk (Annotated)](#diverse-cyberpunk-annotated) module.
+- Updated [Angels and Demons](#angels-and-demons) module with V4 successor.
 
 (13th December, 2021)
 
@@ -199,7 +200,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Purely Purple Prose](#purely-purple-prose)
       - [Surrealistic Look Through The Glass](#surrealistic-look-through-the-glass)
     - [(V3) Androids, Artificial Intelligence, and Robots](#v3-androids-artificial-intelligence-and-robots)
-    - [(V3) Angels and Demons](#v3-angels-and-demons)
     - [(V3) Catgirls](#v3-catgirls)
     - [(V3) Count Grey](#v3-count-grey)
     - [(V3) Cross-Genre](#v3-cross-genre)
@@ -226,6 +226,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
   - [Sexual](#sexual)
     - [Beings](#beings)
       - [Androids, Robots, Aliens, Harems](#androids-robots-aliens-harems)
+      - [Angels and Demons](#angels-and-demons)
       - [Cougars](#cougars)
       - [Dragon Smut](#dragon-smut)
       - [Futarotica](#futarotica)
@@ -2432,78 +2433,6 @@ Supporting Texts
 >
 >"You can see Earth now," Yuki told me. She pointed out the window. "We're going up."
 
-#### [(V3) Angels and Demons](https://files.catbox.moe/cl2t7p.module)
-
-[by OccultSage](https://discord.com/channels/854479693503660032/870494065446248458/878754833497206805)
-
-*Module focused on Angels and Demons trained on a variety of sources from authors like Michele Hauf, Bella Swann, Michael Dalton, Kathryn Moon and Elliot Kay -- high quality erotica.*
-
-*Strong themes of corruption, capture, and BDSM.*
-
-*Also has A Lady of Rooksgrave Manor twice to infuse a little bit of monstrous cross-genre, as it's such a fantastic work.*
-
-*6.8mb, ~8000 steps, ~100% coverage, 2.68 loss.*
-
->**\*\*\***
->
->**The Succubus smiled at me.** "You have a strong spirit, my dear." She leaned forward to kiss the top of my head and whisper in my ear. "I like that about you." Her lips brushed against mine as she spoke. I felt her warm breath on my neck. My skin tingled from it. It was an odd sensation -- almost pleasant. The demon's tongue flicked out and lapped at the side of my throat. A shiver ran down my spine.
->
->"Mmm," I moaned softly into her mouth. "What are you doing?"
->
->She laughed with glee, letting go of me so she could straighten up. "Enjoying myself for once!" She giggled again before turning back toward the mirror. Her hands moved over herself slowly, teasingly. "It is nice being able to touch your body this way. You are quite beautiful, Rachel. Your breasts look delicious."
->
->My face flushed hot. I couldn't help but notice how hard my nipples were beneath my shirt. They ached slightly even though they weren't erect yet. There was no denying what had happened when we'd kissed earlier, either. We both knew exactly where our bodies wanted each other to be touching right now.
->
->"Are there any more demons here besides us?" asked Alex. His voice sounded strained. He didn't seem comfortable talking around his sister. Maybe he wasn't sure if she would agree to speak with him or not? Or maybe he just didn't want to say anything else.
->
->"Not here, sweetie," said the succubus. "We're alone. But don't worry; I'm going to take care of you soon enough."
->
->Alex gulped loudly.
->
->I looked between them, trying to figure something out. What did they mean by 'take care' of him? Wasn't that kind of vague? Did she mean sexually? If so...well, I guess I should expect nothing less than the best from a succubus!
->
->"Don't worry, Alex," she continued, pulling off her blouse. "This won't hurt much at all."
->
->Her bra came next. Then she unbuttoned her skirt and let it drop to the floor. She stepped out of it completely, leaving only her white panties covering her dark pubic hair. Her legs were smooth and pale, except for some light tan lines running along their length. Her feet were small and dainty.
->
->All eyes were fixed upon her perfect body. Even the ones belonging to two who were supposed to be in love with each other.
->
->The Succubus grinned at me wickedly. "Do you like my new outfit?"
->
->"Um ... yeah, um ..." I stammered awkwardly.
->
->"Well then, why don't you get undressed too?"
-
->**\*\*\***
->
->**The angel** was waiting for her when she arrived. "Thank you, Lorelei," he said with a smile as the door shut behind them. He held out his hand and helped her down from the carriage. She took it gratefully. The air smelled like fresh rain on the wind that blew in through an open window. It had been months since she'd last visited this place. Her wings were still sore from their flight here, but they felt better than ever before.
->
->"How are you?" he asked. His voice was soft and warm.
->
->She smiled at him. "I'm well."
->
->He nodded once. "Good. I have something to show you."
->
->They walked past several rooms filled with bookshelves full of bound volumes, some old and worn, others new and crisp. There were no windows in these halls. Instead there were arched openings where light streamed in from above. They passed by paintings of angels and men and women holding hands or embracing each other, all smiling happily. Some looked up toward the ceiling, while others gazed down upon the floor below. In one painting, two lovers stood side-by-side, sharing a kiss. A third man watched over them both, his expression unreadable. Another showed three children sitting together around a table playing cards. Their smiles seemed genuine, though perhaps not entirely free of worry. Two more depicted scenes of violence: a woman being strangled by a demon's claws; another woman pinned beneath the body of a fallen soldier. Both images made Lorelei shiver.
->
->In contrast, a few pictures showed couples kissing tenderly under stars shining brightly overhead. One featured a young boy standing next to his mother. The way they looked into each other's eyes spoke volumes about how much love they shared.
->
->Lorelei stopped walking and turned back to look at the angel who led her. "What is this place? Is it Heaven?"
->
->His brow furrowed slightly. "No. This is my home. And it's yours too, if you choose to stay."
->
->"But why would I want to do such a thing? You're immortal, aren't you? Why would anyone bother to keep you alive?"
->
->"It's what we do," he answered simply. "We are angels. We serve God, just as any human does. But unlike humans, our purpose isn't limited to this world alone. Our souls live forever, so long as we continue to walk alongside Him. As for why someone might care enough to keep us here...that's between me and God." He paused for a moment, then added, "You don't need to know anything else unless you wish to learn."
->
->A chill ran down her spine at his words. He didn't seem particularly concerned with answering her questions, and she found herself wanting to press further. Was that because he wanted to keep things that way, or did he truly believe she wouldn't be interested? She wasn't sure which answer pleased her most. Either way, she decided to let him lead the conversation. After all, she could always ask later. If he refused to tell her, that was fine. She'd find out soon enough anyway.
->
->As they continued on, the doors opened onto a large room filled with dozens of beds. Each bed was occupied by an angel, either sleeping peacefully or staring blankly off into space. All wore white robes, and many had wings folded neatly against their backs. Most of them appeared healthy, but some looked ill, pale and thin. Many of the sickest ones lay curled up in fetal positions. Others were hooked up to IVs or machines. None of them moved or reacted when the pair entered the room. Lorelei wondered whether they were even aware of the people around them.
->
->The angel walked over to one of the closest beds and knelt down. It was empty. "This one was lost when the angels fell from heaven," he said. "He was one of the first, and the last. His name was Adam."
->
->Adam. That was the same man whose soul Lorelei had stolen. Her chest tightened. She couldn't imagine the pain of losing your life and having it taken away. It was unimaginable.
-
 #### [(V3) Catgirls](https://files.catbox.moe/khewvl.module)
 
 [by Cass](https://discord.com/channels/836774308772446268/870449646391156776/874923857667059732)
@@ -2894,6 +2823,52 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 >"Do you want this?" I asked. "Do you want me to take you?"
 >
 >It nodded its head. I smiled, knowing that I had made the right decision. I needed to take care of it, and if it wanted me to do that, then I would.
+
+##### [Angels and Demons](https://files.catbox.moe/9fq3vk.module)
+
+[by OccultSage](https://discord.com/channels/854479693503660032/870494065446248458/920534514164437034)
+
+*Module focused on Angels and Demons trained on a variety of sources from authors like Michele Hauf, Bella Swann, Michael Dalton, Kathryn Moon and Elliot Kay -- high quality erotica.*
+
+*Strong themes of corruption, capture, and BDSM.*
+
+*Also has A Lady of Rooksgrave Manor twice to infuse a little bit of monstrous cross-genre, as it's such a fantastic work.*
+
+*Content Warning: Some NonCon, Some DubCon, BDSM, and religious themes. 6.8mb, ~8000 steps (!), ~100% coverage, 2.71 loss.*
+
+- ***Title:** A Lady of Rooksgrave Manor **Author:** Kathryn Moon **Genre:** Paranormal Romance, Reverse Harem, Erotica*
+- ***Title:** Good Intentions **Author:** Elliot Kay **Genre:** Urban Fantasy, Erotica*
+- ***Title:** Personal Demons **Author:** Elliot Kay **Genre:** Urban Fantasy, Erotica*
+- ***Title:** Angel Slayer **Author:** Michele Hauf **Genre:** Paranormal Romance*
+- ***Title:** The Sin Eater's Promise **Author:** Michele Hauf **Genre:** Paranormal Romance*
+- ***Title:** Cursed **Author:** Melissa Riddel **Genre:** Paranormal Romance*
+- ***Title:** The Girls of My Dreams **Author:** Reed James **Genre:** Erotica, Paranormal Fantasy*
+- ***Title:** Light's Redemption **Author:** Reed James **Genre:** Erotica, Paranormal Romance*
+- ***Title:** My Familiar Succubus **Author:** Reed James **Genre:** Erotica, Paranormal Romance*
+- ***Title:** Wings of Gray **Author:** Reed James **Genre:** Erotica, Urban Fantasy*
+- ***Title:** White-Feathered Angel **Author:** Reed James **Genre:** Urban Fantasy, Erotica*
+- ***Title:** Succubus Summoning 101 **Author:** M.E. Hydra **Genre:** Urban Fantasy, Erotica*
+- ***Title:** The Claiming of Af, the Angel of Light **Author:** Bella Swann **Genre:** Erotica, Paranormal Fantasy*
+- ***Title:** The Claiming of Anahita, the Submissive Angel of Fertility **Author:** Bella Swann **Genre:** Erotica, Paranormal Fantasy*
+- ***Title:** The Claiming of Iris, the Sweet Angel of Hope **Author:** Bella Swann **Genre:** Erotica, Paranormal Fantasy*
+- ***Title:** The Claiming of Sophia, the Sheltered Angel of Wisdom **Author:** Bella Swann **Genre:** Erotica, Paranormal Fantasy*
+- ***Title:** Demon Hunter - Birthright **Author:** Michael Dalton **Genre:** Urban Fantasy, Harem Erotica*
+- ***Title:** Demon Hunter - The Breamstone Collective **Author:** Michael Dalton **Genre:** Urban Fantasy; Harem Erotica*
+- ***Title:** Demon Hunter - The Vermillion Cabal **Author:** Michael Dalton **Genre:** Urban Fantasy; Harem Erotica*
+
+>**The Succubus smiled at me.** "You are not going to like this, but I can't let you go." She moved her hand over the back of my head and I felt a slight tingle in my hair as she began pulling me into her body. It was much more intense than before. My breath caught and my heart beat faster. Her breasts pressed against my chest and I could feel them through her dress. I gasped as they rubbed against mine.
+>
+>"I am sorry," she whispered, "but I need you to stay here with me for a while longer."
+>
+>My eyes widened. "What?"
+>
+>She leaned forward until our lips were almost touching. "It's very important that you do exactly what I say. Do you understand? If you don't listen to me, then we will both be punished. You won't be able to leave or return to your own world for a long time. Is that clear?"
+>
+>"Yes," I breathed. The tingling in my hair grew stronger and my skin flushed with heat.
+>
+>Her mouth touched mine. A gentle kiss, but one which sent waves of pleasure washing over me. Her tongue flicked out between our mouths and brushed across mine. The sensation made my knees weak. She pulled away and grinned wickedly. "Good boy."
+>
+>She placed her hands on either side of my face and turned it towards hers. Our lips met again and this time there was no mistaking the passion behind her kiss. Her fingers slipped around my neck and pulled me closer. We kissed deeply, tongues dancing together. I could taste something sweet in her mouth.
 
 ##### [Cougars](https://files.catbox.moe/gdm9g4.module)
 
