@@ -26,6 +26,13 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(17th December, 2021)
+
+- Updated [Warriors](#warriors) module with V4 successor (and later improvement)
+- Added [Disco Elysium: Conversations](#disco-elysium-conversations) module.
+- Added [Kitsune](#kitsunes) module.
+- Added [Diverse Cyberpunk (Annotated)](#diverse-cyberpunk-annotated) module.
+
 (13th December, 2021)
 
 - Added [Disco Elysium Skills](#disco-elysium-skills) module.
@@ -67,11 +74,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 - Added [1950s Science Fiction](#1950s-science-fiction) module
 - Added [Technology (Annotated)](#technology-annotated) module
-
-(2nd December, 2021)
-
-- Added [The Adepta Sororitas W40K](#the-adepta-sororitas-daughters-of-the-emperor) module.
-- Added [Kobold Adventure](#kobold-adventure) module.
 
 ***
 
@@ -133,6 +135,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Feudal Japan](#feudal-japan)
       - [The Great War - Western Front](#the-great-war---western-front)
     - [Fantastical](#fantastical)
+      - [Diverse Cyberpunk (Annotated)](#diverse-cyberpunk-annotated)
       - [Generation Ship](#generation-ship)
       - [Smalltown Folklore](#smalltown-folklore)
       - [Xenoarchaeology and Relics](#xenoarchaeology-and-relics)
@@ -176,6 +179,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [Concrete](#concrete)
       - [The Adepta Sororitas, Daughters of the Emperor](#the-adepta-sororitas-daughters-of-the-emperor)
       - [Female Wrestling](#female-wrestling)
+      - [Kitsunes](#kitsunes)
       - [Kobolds](#kobolds)
       - [Male Prison](#male-prison)
       - [Sergals](#sergals)
@@ -185,6 +189,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Wildlife](#wildlife)
     - [Abstract](#abstract)
       - [Communism](#communism)
+      - [Disco Elysium: Conversations](#disco-elysium-conversations)
       - [Disco Elysium: Skills](#disco-elysium-skills)
       - [Gay](#gay)
       - [Sweet Time](#sweet-time)
@@ -295,6 +300,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Tales of Pixie Hollow](#tales-of-pixie-hollow)
     - [Modern](#modern)
       - [Nineteen Eighty-Four](#nineteen-eighty-four)
+      - [Warriors](#warriors)
     - [(V3) Animorphs](#v3-animorphs)
     - [(V3) Assassin's Creed: Ezio Auditore](#v3-assassins-creed-ezio-auditore)
     - [(V3) Bartimaeus Sequence](#v3-bartimaeus-sequence)
@@ -336,7 +342,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Vampire Diaries](#v3-vampire-diaries)
     - [(V3) War and Peace](#v3-war-and-peace)
     - [(V3) Warhammer 40k](#v3-warhammer-40k)
-    - [(V3) Warrior Cats](#v3-warrior-cats)
     - [(V3) Wheel of Time](#v3-wheel-of-time)
     - [(V3) The Witcher](#v3-the-witcher)
   - [Non-Fiction](#non-fiction)
@@ -1246,6 +1251,23 @@ He fights against the rising panic, forcing himself to stay calm. There is nothi
 
 #### [Fantastical](#setting)
 
+##### [Diverse Cyberpunk (Annotated)](https://files.catbox.moe/seijmh.module)
+
+[by Magenta.Darkstar](https://discord.com/channels/836774308772446268/870449646391156776/921281730147659836)
+
+*A collection of Cyberpunk and Cyberpunk related stories with Pocket Notes style annotations included. Texts were selected based on diversity of writing styles, diversity of characters, and inclusion of thematically appropriate elements.*
+
+*(Loss: 2.8995, Coverage: ~100%)*
+
+- *Brave New World (Auldous Huxley)*
+- *The Diamond Age (Neil Stephenson)*
+- *Snow Crash (Neil Stephenson)*
+- *Do Androids Dream of Electric Sheep (Phillip K Dick)*
+- *I Will Fear No Evil (Robert Heinlen)*
+- *Neurmancer (William Gibson)*
+- *Pattern Recognition (William Gibson)*
+- *Prey of Gods (Nicky Drayden)*
+
 ##### [Generation Ship](https://files.catbox.moe/pubhtk.module)
 
 [by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/909556544524390430)
@@ -2023,6 +2045,46 @@ A.K.A "Toby Fox Module"
 
 *You can try writing "X vs X" and you might get a good detailed match. Trained on a few fanfics from "Wanna be the strongest in the world" and Rumble Roses. Mostly 3rd person, past tense (1962 steps, 100% coverage).*
 
+##### [Kitsunes](https://files.catbox.moe/3yf740.module)
+
+[by Kitty](https://discord.com/channels/836774308772446268/870449646391156776/921264662195101766)
+
+*In Japanese legend, the kitsune is a paranormal fox that can shapeshift and cast illusions and foxfire. Most are portrayed as sly femme fatales who take the form of human women. This module draws from a curated pool of traditional folklore and fiction to recreate these fantastic creatures.*
+
+*Special thanks to Crimson and Zaltys for their help!*
+
+*(1.29mb, 3040 steps, 100% coverage, 2.66 loss)*
+
+*All sources are either direct writings or translations of the original kitsune folklore, or written by fiction authors who made the appropriate research.*
+
+Original Novels/Novellas
+
+- *Sandman: The Dream Hunters - Neil Gaiman*
+- *Shadow of the Fox - Julie Kagawa*
+- *The Fox Woman - Kij Johnson*
+- *Kitsune-Tsuki, Kitsune-Mochi - Laura VanArendok Baugh*
+
+Folklore
+
+- *Japanese Tales from Times Past (4 short stories) - Naoshi Koriyama*
+- *A Collection of Short Japanese Tales (2 major stories: The Tale of Tamamizu; Lady Tamamo) - Kelley Kimberly & Haruo Shirane*
+- *Tales of Old Japan (3 short stories) - Algernon Freeman-Mitford*
+- *Japanese Tales (10 short stories) - Royall Tyler*
+- *Come and Sleep, The Folklore of the Japanese Fox - Cristopher Kincaid*
+
+Supporting Texts
+
+- *Tanuki, The Folklore of Japan's Trickster - Cristopher Kincaid*
+
+(Storywriter, no prompt/biases)
+>"I am not going to marry you," the fox said. "You are a good man, but I will never be able to live with you." She had been crying again, and she sniffed loudly as she spoke.
+>
+>The monk bowed deeply. "I am sorry for my part in this," he said. He gestured toward the house where his master lived. "But please, come inside and tell me about it."
+>
+>The fox's ears flicked back and forth. Her tail twitched nervously. "No," she said at last. "I cannot go into that house. It is bad luck."
+>
+>"Please?" The monk extended his hand, palm up, showing that he was unarmed. "Come inside and rest. We can talk here."
+
 ##### [Kobolds](https://files.catbox.moe/dg86p2.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/361892759/#362059151)
@@ -2116,6 +2178,48 @@ A.K.A "Toby Fox Module"
 
 ![An example](https://files.catbox.moe/b5x42z.png)
 {: .center}
+
+##### [Disco Elysium: Conversations](https://files.catbox.moe/xjwfgc.module)
+
+[by Dead Eye ☕](https://discord.com/channels/836774308772446268/870449646391156776/920327082284810300)
+
+*Disco Elysium scenes including both internal monologue and conversations. Generated training data by randomly simulating conversations from all scenes in the internal game data. Does not contain any square bracket annotations. Only includes scenes with 3 lines or more. 8.6MB training data at 50%.*
+
+>**METAL GRILLE DOOR: The door that remains stubbornly closed and locked, no matter how much you push, pull, bang or yell at it.**
+>
+>**METAL GRILLE DOOR: "Who's there? Is that you, Maurice?"**
+>
+>**YOU: "Are you all communists? I'm looking for some communists."**
+>
+>**METAL GRILLE DOOR: "Who said communist? Did *we* say communist? Get out of here."**
+>
+>**YOU: "Listen, I've already built like .0001% of communism but now I need to get organised. Can you help me?"**
+>
+>METAL GRILLE DOOR: "No! Go away!"
+>
+>EMPATHY: (You're not going to convince this guy.)
+>
+>ENDURANCE: (But he'll probably have a good idea about what's happening in the city...)
+>
+>IDIOMS: (He'll know more than us.)
+>
+>GAMING TONE: (Let him do his thing.)
+>
+>HARD HATS: (What can we do?)
+>
+>INVISIBLE PEOPLE: (We should go back inside.)
+>
+>UNDERCOVER: (Back into the game!)
+>
+>RHETORIC: (Okay, okay. You win.)
+>
+>REACTION TIME: (A little bit of persuasion is all it takes.)
+>
+>YOU: "Look, I'm sorry about the misunderstanding. I was just curious. So, if you don't mind..."
+>
+>METAL GRILLE DOOR: "Mind? Mind? No, no, no.
+
+*Sigurd will make up skills/internal voices that don't exist in the game, as seen above. If you want to stick to the DE's own skillset Lorebook and biases are probably the way to go. The scenes in the training data are joined by `***` so control its generation via banning or biases. Unlike [the previous module](#disco-elysium-skills), the training data **does not** contain any annotations such as `[Skill:...;Topic:...]` and this allows the internal voices to butt-in without you having to explicitly ask for it.*
 
 ##### [Disco Elysium: Skills](https://files.catbox.moe/8m2dyv.module)
 
@@ -3521,6 +3625,26 @@ Mostly male human x female pokemon, but there are a few in there that contain ma
 
 Alright, I guess I just bit the bullet. Here's [four](#nineteen-eighty-four) [of](#george-orwell) [the](#rod-serling) [modules](#western) I made the training data for, trained with Sigurd V4. All four of these are already in the Rentry in their V3 forms, so those would just be updated. Now have names consistent with NAI module naming schemes and also have images coming with the module file. ZIP files contain the module, the training data, the image, and the base for the training data I formatted. So if at some point Sigurd V5 or 22 beaks or whatever the fuck comes out and I'm not there to retrain the modules, you'll have everything you need.
 
+##### [Warriors](https://files.catbox.moe/itye24.module)
+
+[by pume](https://discord.com/channels/836774308772446268/870449646391156776/920700703415107614)
+
+*v4. This module build on previous 'new direction' but include 1st person non-cats books - 'Percy Jackson#1' to help with the causal narration - 'Project Hail Mary' to help with scientist narration - 26 books - 35% - 4662step*
+
+>**Look I don't want to be a** warrior. You can keep your stupid honor and glory. I just want my life back!
+>
+>I'm not going to die here, but if I do you'll never see me again. So let's stop fighting and get out of this mess already.
+>
+>You know what? I think you're right. Let's go home.
+
+>**"So you want to know the distant between Thunderclan and Windclan right?"**
+>
+>**All right let's do some math.** Let's say we have a cat that is three miles from us, and another cat that is five miles away. If I can send my message through the forest at an average of two miles per hour, how long will it take for me to get a response?
+>
+>Well, if I'm sending a letter to someone who lives in a different Clan, then they're going to be traveling just as fast as I am. So I'll need to figure out what their speed is first.
+>
+>I don't know how fast cats are moving, but I can make a guess.
+
 #### [(V3) Animorphs](https://files.catbox.moe/uo24ou.module)
 
 [by pinekel](https://discord.com/channels/836774308772446268/870449646391156776/874503165997891644)
@@ -3997,16 +4121,6 @@ A.K.A Green's Eagle Vision
 >Moving rapidly through both chambers like a shark fin slicing its way through deep waters, the space marines sought everywhere to kill anything not armored under Imperial colors. Though most regarded them as demons from hell itself, many had never seen one themselves until now. Quickly realizing what their brethren wanted - no quarter given in order to achieve victory - the civilians turned and fled deeper into the cave system, leaving only short-lived resistance to be mopped up by the two companies' scouts already scouring the place.
 >
 >After entering the main chamber of the underground complex where the Chaos denizens often conducted their vile rituals, Captain Drakael found it empty except for six rough stone monoliths arranged about an altar in the center of the large room. Upon inspecting the crude carvings decorating some of the stones, the captain could make little sense of what might lie within each piece. There was much jagged imagery depicting creatures that seemed part beast, half human; daemonic shapes with dark, hungry gazes lurking beneath impenetrable hooded expressions on their faces. At least one showed framed over all this a blazing sun hung low above unbreathable skies filled with hideous monsters waving skeletal limbs high overhead while others featured unfortunate souls bound together with chains emerging from a central point.
-
-#### [(V3) Warrior Cats](https://files.catbox.moe/skn65j.module)
-
-[by pume_](https://discord.com/channels/836774308772446268/870449646391156776/892989858115620894)
-
-*3rd person, Trained on books about cats by Erin Hunter. TPB(12356) TNP(1235) POT(23) DOTC(5) AVOS(12346) FirestarQuest(1) +Fanfic(12)*
-
-*33% - 3400Steps - 20Books - 8.72MB*
-
-*This is the 2nd version of warriors cats, due to me being acess to more books, i selectively choose about 20 of them. this seires has 90books+ tho, but i don't want to push beyond ~3000steps much. prev version use only 10 books, i hope this one is better.*
 
 #### [(V3) Wheel of Time](https://files.catbox.moe/5h7lnf.module)
 
