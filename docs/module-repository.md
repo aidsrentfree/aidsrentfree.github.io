@@ -26,6 +26,11 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(19th December, 2021)
+
+- Updated [A Song of Ice and Fire](#a-song-of-ice-and-fire) module with V4 successor.
+- Added [Elizabethan/Jacobean Fantasy](#elizabethanjacobean-fantasy) module.
+
 (17th December, 2021)
 
 - Updated [Warriors](#warriors) module with V4 successor (and later improvement)
@@ -72,11 +77,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Added [Jokester](#jokester) module.
 - Updated [Girl Thoughts](#girl-thoughts) module with V4 successor(s).
 
-(6th December, 2021)
-
-- Added [1950s Science Fiction](#1950s-science-fiction) module
-- Added [Technology (Annotated)](#technology-annotated) module
-
 ***
 
 ## [Table of Contents](#modules)
@@ -121,6 +121,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Genshin Impact](#genshin-impact)
       - [Mad Max](#mad-max)
       - [Sailor Moon](#sailor-moon)
+      - [A Song of Ice and Fire](#a-song-of-ice-and-fire)
       - [Starcraft](#starcraft)
       - [Touhou Project](#touhou-project)
       - [Warcraft](#warcraft)
@@ -128,6 +129,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [World of Pokémon](#world-of-pokémon)
     - [Genre](#genre)
       - [1950s Science Fiction](#1950s-science-fiction)
+      - [Elizabethan/Jacobean Fantasy](#elizabethanjacobean-fantasy)
       - [Indian Fantasy](#indian-fantasy)
       - [Poetic Fantasy](#poetic-fantasy)
       - [Russian Fantasy and Folklore](#russian-fantasy-and-folklore)
@@ -168,7 +170,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Norse](#v3-norse)
     - [(V3) Post-Apocalyptic Fallout](#v3-post-apocalyptic-fallout)
     - [(V3) Prehistoric Ice Age](#v3-prehistoric-ice-age)
-    - [(V3) A Song of Ice and Fire](#v3-a-song-of-ice-and-fire)
     - [(V3) Star Trek: The Next Generation](#v3-star-trek-the-next-generation)
     - [(V3) Star Trek: The Original Series](#v3-star-trek-the-original-series)
     - [(V3) Star Wars: Original Trilogy](#v3-star-wars-original-trilogy)
@@ -907,6 +908,22 @@ He fights against the rising panic, forcing himself to stay calm. There is nothi
 
 *Note 2: All stories use the Japanese names.*
 
+##### [A Song of Ice and Fire](https://files.catbox.moe/lat936.module)
+
+[by Phil Scott](https://discord.com/channels/836774308772446268/870449646391156776/922125725820157952)
+
+*An upgrade to v4 of my earlier v3 module, with improved formatting and no page numbers. ASOIAF Books by George R.R Martin, should replicate his prose and the like.*
+
+*(9mb, 9000 steps, 90% coverage, ~2.6% loss)*
+
+- *A Game of Thrones - George R.R Martin*
+- *A Clash of Kings - George R.R Martin*
+- *A Storm of Swords - George R.R Martin*
+- *A Feast For Crows - George R.R Martin*
+- *A Dance With Dragons - George R.R Martin*
+
+*This replicates the general writing of the ASOIAF universe, so you may insert yourself as any character from within the books or try making your own. I would recommend complementing this module with a good lorebook about ASOIAF for the best experience.*
+
 ##### [Starcraft](https://files.catbox.moe/ruw61d.module)
 
 [by davits1](https://discord.com/channels/836774308772446268/870449646391156776/919965325947174992)
@@ -1043,6 +1060,37 @@ He fights against the rising panic, forcing himself to stay calm. There is nothi
 [by BaronJoshua](https://discord.com/channels/836774308772446268/870449646391156776/917227552735649872)
 
 *A module trained on science fiction published between or during the years 1950 and 1959. The dataset is still growing through currently the most common authors are Isaac Asimov and Philip K. Dick. Most of the stories the module was trained on come from Galaxy Science Fiction magazine as I wanted to start with some short files and to get a diversity. The largest of these texts are "Black Amazon of Mars", "Voodoo Planet", and "Wolfsbane".*
+
+##### [Elizabethan/Jacobean Fantasy](https://files.catbox.moe/aqvqvz.module)
+
+[by Kitty](https://discord.com/channels/836774308772446268/870449646391156776/921824295058022400)
+
+*In the late 19th/early 20th centuries, several talented writers penned fantasy stories about knights and magic using thees and thous, hoping to copy the style of the early Elizabethan and Jacobean eras. One of them was among Tolkien's many inspirations, while another was his friend. A third had translated the Arthurian Mabinogion, England's oldest piece of literature, in this style, and the fourth had authored King Solomon's Mines.*
+
+*Special thanks to Aedial for the steps~*
+
+*(3.50mb, 3070 steps, 75% coverage, 2.86 loss)*
+
+- *Eric Brighteyes - H. Rider Haggard*
+- *The Mabinogion - Lady Charlotte Guest*
+- *The Story of the Glittering Plain - William Morris*
+- *The Well at the World's End - William Morris*
+- *The Wood Beyond the World - William Morris*
+- *The Worm Ouroboros - E.R. Eddison*
+
+*This was made to emulate medieval English fantasy. Before, biasing for whence/whither and against you and so on would imbalance output due to duplicated tokens, and Jacobean English was not always guaranteed, as sometimes the accents would be Scottish, Pirate, Texan, etc.*
+
+*With this module, simply biasing against you and your guarantees balanced results!*
+
+*(Biasing against Ralph, Arthur, and Eric might also increase variation)*
+
+(Above biases at -0.3, default settings, no prompt)
+
+>THE FIRST STORY.
+>
+>The first tale is of the Knight who rode in search of his love, and came to a castle where he found a lady lying sick with a grievous malady; but when she saw him her sickness was cured, for she loved him well. Then they dwelt together in joy till one day as he sat at meat with her, there entered into the hall a man clad all in black, who said: "Wherefore do ye sit here feasting like men that have no fear?" The knight rose up then from table and drew his sword, saying: "I will smite off thy head." But the stranger held out his hand to stay him, saying: "This is my lord's house, and it were ill done to slay any within it, save only such as be guilty of murder or robbery." Therewithal the knight was ashamed and put up his weapon, for he deemed himself in the wrong. Then said the stranger: "Sit down again, Sir Knight, and I will tell thee somewhat concerning this castle wherein thou dwellest."
+
+>SOME men there be that love the sea, and would fain sail over it. But those who have never been at sea know not how great a thing is the ocean; for they have never seen its immensity or heard of its vastness, nor can they conceive the deeps thereof, or what wonders are therein. Now if thou hast ever looked on the ocean in thine own land, then thou wilt know how great a thing it is. And if thou seest it now, when it is full of waves and heaving to and fro, then thy heart will shrink within thee, and fear will seize upon thy soul. For thou mayst see nothing but water all about thee, and there is no other shore in sight, and yet even so there is a depth of sea beyond which none hath ever sailed.
 
 ##### [Indian Fantasy](https://files.catbox.moe/7qkhsg.module)
 
@@ -1344,8 +1392,6 @@ He fights against the rising panic, forcing himself to stay calm. There is nothi
 >
 >“Then we’ll start with the bridge,” Alexandria Kira. “The rest will follow.”
 
-
-
 #### [(V3) Action Movies](https://files.catbox.moe/91n3eo.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/346359371/#346360287)
@@ -1567,8 +1613,6 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 - *Picnic at Hanging Rock by Joan Lindsay*
 - *Special Friendships by Roger Peyrefitte*
 - *The Bone Clocks by David Mitchell (edited to just the Hugo Lamb scenes)*
-
-
 
 #### [(V3) Folk Fantasy](https://files.catbox.moe/nmcslr.module)
 
@@ -1818,20 +1862,6 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 > She looked around at the familiar surroundings again, then stepped forward into the dark space. It was large enough for two or three people to stand side by side, though only one could comfortably walk through it. She noticed some differences; the smell of smoke wasn't so strong anymore. There was also a faint odor of fresh water nearby. She moved slowly toward the back wall, feeling her way along the rough stone. The cave seemed much larger now than before, and the air was warmer. When she reached the back wall, she stopped, still not sure what to do next.
 >
 > Then she heard something. A soft rustling sound. It grew louder and closer until she recognized the distinctive footfalls of a small creature padding softly across the floor behind her. She turned quickly, expecting to see another animal, perhaps a fox or a wolf.
-
-#### [(V3) A Song of Ice and Fire](https://files.catbox.moe/kpg3en.module)
-
-[by Jeff Bezos](https://discord.com/channels/836774308772446268/870449646391156776/887117687707303997)
-
-*Revision of my earlier Game of Thrones module with more formatting. I have also regex'd the page numbers out, so AI shouldn't spit them out anymore.*
-
-*9.6 MB 6000 steps*
-
-- *A Game of Thrones*
-- *A Clash of Kings*
-- *A Storm of Swords*
-- *A Feast for Crows*
-- *A Dance with Dragon*
 
 #### [(V3) Star Trek: The Next Generation](https://files.catbox.moe/j33be6.module)
 
