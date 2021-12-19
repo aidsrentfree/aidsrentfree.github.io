@@ -129,10 +129,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [World of Pokémon](#world-of-pokémon)
     - [Genre](#genre)
       - [1950s Science Fiction](#1950s-science-fiction)
-      - [Elizabethan/Jacobean Fantasy](#elizabethanjacobean-fantasy)
-      - [Indian Fantasy](#indian-fantasy)
-      - [Poetic Fantasy](#poetic-fantasy)
-      - [Russian Fantasy and Folklore](#russian-fantasy-and-folklore)
       - [Western](#western)
       - [Western Romance](#western-romance)
     - [Historical](#historical)
@@ -141,6 +137,10 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [Fantastical](#fantastical)
       - [Diverse Cyberpunk (Annotated)](#diverse-cyberpunk-annotated)
       - [Generation Ship](#generation-ship)
+      - [Elizabethan/Jacobean Fantasy](#elizabethanjacobean-fantasy)
+      - [Indian Fantasy](#indian-fantasy)
+      - [Poetic Fantasy](#poetic-fantasy)
+      - [Russian Fantasy and Folklore](#russian-fantasy-and-folklore)
       - [Smalltown Folklore](#smalltown-folklore)
       - [Xenoarchaeology and Relics](#xenoarchaeology-and-relics)
     - [(V3) Action Movies](#v3-action-movies)
@@ -1061,131 +1061,6 @@ He fights against the rising panic, forcing himself to stay calm. There is nothi
 
 *A module trained on science fiction published between or during the years 1950 and 1959. The dataset is still growing through currently the most common authors are Isaac Asimov and Philip K. Dick. Most of the stories the module was trained on come from Galaxy Science Fiction magazine as I wanted to start with some short files and to get a diversity. The largest of these texts are "Black Amazon of Mars", "Voodoo Planet", and "Wolfsbane".*
 
-##### [Elizabethan/Jacobean Fantasy](https://files.catbox.moe/aqvqvz.module)
-
-[by Kitty](https://discord.com/channels/836774308772446268/870449646391156776/921824295058022400)
-
-*In the late 19th/early 20th centuries, several talented writers penned fantasy stories about knights and magic using thees and thous, hoping to copy the style of the early Elizabethan and Jacobean eras. One of them was among Tolkien's many inspirations, while another was his friend. A third had translated the Arthurian Mabinogion, England's oldest piece of literature, in this style, and the fourth had authored King Solomon's Mines.*
-
-*Special thanks to Aedial for the steps~*
-
-*(3.50mb, 3070 steps, 75% coverage, 2.86 loss)*
-
-- *Eric Brighteyes - H. Rider Haggard*
-- *The Mabinogion - Lady Charlotte Guest*
-- *The Story of the Glittering Plain - William Morris*
-- *The Well at the World's End - William Morris*
-- *The Wood Beyond the World - William Morris*
-- *The Worm Ouroboros - E.R. Eddison*
-
-*This was made to emulate medieval English fantasy. Before, biasing for whence/whither and against you and so on would imbalance output due to duplicated tokens, and Jacobean English was not always guaranteed, as sometimes the accents would be Scottish, Pirate, Texan, etc.*
-
-*With this module, simply biasing against you and your guarantees balanced results!*
-
-*(Biasing against Ralph, Arthur, and Eric might also increase variation)*
-
-(Above biases at -0.3, default settings, no prompt)
-
->THE FIRST STORY.
->
->The first tale is of the Knight who rode in search of his love, and came to a castle where he found a lady lying sick with a grievous malady; but when she saw him her sickness was cured, for she loved him well. Then they dwelt together in joy till one day as he sat at meat with her, there entered into the hall a man clad all in black, who said: "Wherefore do ye sit here feasting like men that have no fear?" The knight rose up then from table and drew his sword, saying: "I will smite off thy head." But the stranger held out his hand to stay him, saying: "This is my lord's house, and it were ill done to slay any within it, save only such as be guilty of murder or robbery." Therewithal the knight was ashamed and put up his weapon, for he deemed himself in the wrong. Then said the stranger: "Sit down again, Sir Knight, and I will tell thee somewhat concerning this castle wherein thou dwellest."
-
->SOME men there be that love the sea, and would fain sail over it. But those who have never been at sea know not how great a thing is the ocean; for they have never seen its immensity or heard of its vastness, nor can they conceive the deeps thereof, or what wonders are therein. Now if thou hast ever looked on the ocean in thine own land, then thou wilt know how great a thing it is. And if thou seest it now, when it is full of waves and heaving to and fro, then thy heart will shrink within thee, and fear will seize upon thy soul. For thou mayst see nothing but water all about thee, and there is no other shore in sight, and yet even so there is a depth of sea beyond which none hath ever sailed.
-
-##### [Indian Fantasy](https://files.catbox.moe/7qkhsg.module)
-
-[by Samanamel](https://discord.com/channels/836774308772446268/870449646391156776/909544004935385099)
-
-*Based on fantasy books inspired by Indian culture and religion. Steps: 2930, Loss: 2.68, 60% trained*
-
-- *The Black Company - Books of the South - Book 1*
-- *The Black Company - Books of the South - Book 2*
-- *Realm of Ash*
-- *The Jasmine Throne*
-- *The Star Touched Queen*
-- *A Crown of Wishes*
-- *Hunted by the Sky*
-
-(Storywriter)
->**She peeked from the palanquin,** watching as her escort led them to a small temple. The priestess of Kali stood outside, hands folded in supplication. A few other women were already there, kneeling before the goddess's image. Some of them were weeping.
->
->"Are they going to sacrifice us?" asked Megha. "We should run."
->
->Priya shook her head. "They're praying for mercy."
->
->Megha looked skeptical.
->
->The priestess bowed low before entering the temple. She held up one hand in prayer and began to sing. Priya felt the sound vibrate through her body, deep within her bones. It was a song of longing, a song of yearning.
->
->And it rose around her, an echo in the air, so that she could feel its call on her lips.
-
-(Creative Coherency)
->**He drew his dagger** and held it up in the air. It was a silver blade, old as time itself, with runes etched into its surface that glowed like fireflies trapped inside of glass. He had no idea what they meant; he'd never bothered to learn their meaning. But he knew this much: it would cut through anything—even solid stone—as if it were butter on a hot griddle. Once upon a time, he could have used such a weapon even without knowing how.
->
->Now... not so much. His arm ached where the wound from the manticore's fang still lingered. The magic within him felt sluggish now, too weak to heal himself or anyone else. Even Kale couldn't help but feel it. They all did.
->
->"I'm sorry," said Arwa. "It wasn't my—"
->
->Kale gestured for silence, then turned back toward the village.
-
-##### [Poetic Fantasy](https://files.catbox.moe/0mnm38.module)
-
-[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/909665868789710848)
-
-[12K Step (V3) Vers.](https://files.catbox.moe/p9a805.module)
-
-*Some of the best and most poetic fantasy written went into this module, from Guy Gavriel Kay, Mervyn Peake, Patricia A. McKillip and others. If you want beautiful prose in an almost fairy-tale setting, this is the module for you!*
-
-*6.8mb, 12000 steps, 154% coverage, 2.809 loss*
-
->**The mermaid sang upon the rocks,** her voice a thin silver thread that wound around them all. The water lapped against their feet and she looked up at the stars with wide green eyes. She was very beautiful. Her hair fell like seaweed down to her waist, black as night itself. A faint glow lit her pale skin, as if moonlight shone through her from behind. And then the sea swallowed her again, leaving only bubbles on the sand.
->
->"She's gone," said Alberic softly. He looked over his shoulder at the others. "What do you say?" he asked the sailors. They murmured in agreement.
->
->They turned back toward home.
-
->**The witch was mercurial and beautiful** as she laughed, her eyes flashing in the firelight. "I have a plan," she said, pulling me close to her again. Her lips brushed my ear, making it tingle. She whispered, "If I kill you now..."
->
->"You'll be sorry?" I finished for her.
->
->She smiled. "Yes."
->
->We were silent then, listening to the crackle of flames. The room was still and warm with the heat from our bodies; only a faint draft moved through the open window. My mind began racing, trying to figure out how I could escape this woman's clutches. I couldn't just leave Cook behind--the witch would know that. But if I killed her, I'd have no chance of getting back into the palace without being caught myself. And what about Cook? What if she woke up before we got away?
->
->But there was nothing else to do but wait and hope. We sat together on the edge of the bed, leaning against each other like two lovers sharing secrets. I felt dizzy and sick, wishing I had something stronger than wine to drink. The witch seemed to sense my weakness; she stroked my hair and murmured words of comfort. "Shh," she said, kissing me lightly on the forehead. "Don't worry, little one. You're safe here."
->
->My eyes closed; I lay back against her chest, feeling strangely calm. Perhaps she could help me after all. I fell asleep, and when I woke again, it was morning.
->
->I opened my eyes slowly, wondering where I was.
-
-##### [Russian Fantasy and Folklore](https://files.catbox.moe/5xu90x.module)
-
-[by lion (and Zaltys)](https://discord.com/channels/836774308772446268/870449646391156776/909615787214532650)
-
-*Russian folktales and fantasy tales retrained for Sigurd v4 now with additional works. This module manifests some of the dark whimsy of your favorite folk stories. Special thanks once again to Zaltys for cleaning and prepping the dataset. I only provided the steps.*
-
-- ***Arkady & Boris Strugatsky*** - Hard to Be a God
-- ***Arkady & Boris Strugatsky*** - Monday Starts on Saturday
-- ***David Clement-Davies*** - Fell
-- ***Edward Rutherfurd*** - Russka
-- ***Emma Woodcock*** - Kikimora
-- ***Karah Sutton*** - A Wolf for a Spell
-- ***Katherine Arden*** - The Winternight trilogy
-- ***Leo Tolstoy*** - Anna Karenina
-- ***Marina & Sergey Dyachenko*** - Vita Nostra
-- ***Mariam Petrosyan*** - The Gray House
-- ***Michael Thomas Ford*** - Lily
-- ***Mikhail Bulgakov*** - The Master and Margarita
-- ***Orson Scott Card*** - Enchantment
-- ***Robert Chandler*** - Russian Magic Tales from Pushkin to Platonov
-- ***T. Kingfisher*** - Summer in Orcus
-
->"It's time," said the woman. "Come, it is almost dark."
->
->The old man was sitting in a corner of his room, listening to the ticking of the clock and looking at the closed door through which the other two had gone. The old man listened with interest: there were voices beyond that door; he could hear them talking softly, as if they did not wish to be overheard. And then suddenly all three voices ceased. He heard footsteps approaching along the corridor, and presently he saw the door open.
->
->He got up quickly from his chair and went out into the passage. It was quite dark now, but he knew that they would have lit their candles before going down into the crypt.
-
 ##### [Western](https://files.catbox.moe/xm4z2j.zip)
 
 [by Anon](https://arch.b4k.co/vg/thread/359155218/#359495805)
@@ -1332,6 +1207,131 @@ He fights against the rising panic, forcing himself to stay calm. There is nothi
 >**The generation ship's fusion engines burned as it consumed hydrogen, and it maneuvers towards the Sun for a gravity-assisted boost closer to the speed of light, its passengers in cryogenic suspension and insulated from the effects of the hard acceleration.** The fusion engine is burning so hot that it has melted some of the nickel-iron core material into liquid metal. It flows through pipes inside the ship and then back out again, radiating heat like a giant radiator.
 >
 >On board the planetoid they call Bussard's Viewing Room, I'm sitting at my desk in front of the window, looking down on the tiny red dot that is our home world. A small robot arm with a stylus attached to it extends from the wall behind me and makes an erratic scratching motion across the screen, which changes every few seconds. On another monitor, a view of Earth shows the same thing happening there. I've been watching this show for years now, ever since we were all woken up by the crew waking us from suspended animation.
+
+##### [Elizabethan/Jacobean Fantasy](https://files.catbox.moe/aqvqvz.module)
+
+[by Kitty](https://discord.com/channels/836774308772446268/870449646391156776/921824295058022400)
+
+*In the late 19th/early 20th centuries, several talented writers penned fantasy stories about knights and magic using thees and thous, hoping to copy the style of the early Elizabethan and Jacobean eras. One of them was among Tolkien's many inspirations, while another was his friend. A third had translated the Arthurian Mabinogion, England's oldest piece of literature, in this style, and the fourth had authored King Solomon's Mines.*
+
+*Special thanks to Aedial for the steps~*
+
+*(3.50mb, 3070 steps, 75% coverage, 2.86 loss)*
+
+- *Eric Brighteyes - H. Rider Haggard*
+- *The Mabinogion - Lady Charlotte Guest*
+- *The Story of the Glittering Plain - William Morris*
+- *The Well at the World's End - William Morris*
+- *The Wood Beyond the World - William Morris*
+- *The Worm Ouroboros - E.R. Eddison*
+
+*This was made to emulate medieval English fantasy. Before, biasing for whence/whither and against you and so on would imbalance output due to duplicated tokens, and Jacobean English was not always guaranteed, as sometimes the accents would be Scottish, Pirate, Texan, etc.*
+
+*With this module, simply biasing against you and your guarantees balanced results!*
+
+*(Biasing against Ralph, Arthur, and Eric might also increase variation)*
+
+(Above biases at -0.3, default settings, no prompt)
+
+>THE FIRST STORY.
+>
+>The first tale is of the Knight who rode in search of his love, and came to a castle where he found a lady lying sick with a grievous malady; but when she saw him her sickness was cured, for she loved him well. Then they dwelt together in joy till one day as he sat at meat with her, there entered into the hall a man clad all in black, who said: "Wherefore do ye sit here feasting like men that have no fear?" The knight rose up then from table and drew his sword, saying: "I will smite off thy head." But the stranger held out his hand to stay him, saying: "This is my lord's house, and it were ill done to slay any within it, save only such as be guilty of murder or robbery." Therewithal the knight was ashamed and put up his weapon, for he deemed himself in the wrong. Then said the stranger: "Sit down again, Sir Knight, and I will tell thee somewhat concerning this castle wherein thou dwellest."
+
+>SOME men there be that love the sea, and would fain sail over it. But those who have never been at sea know not how great a thing is the ocean; for they have never seen its immensity or heard of its vastness, nor can they conceive the deeps thereof, or what wonders are therein. Now if thou hast ever looked on the ocean in thine own land, then thou wilt know how great a thing it is. And if thou seest it now, when it is full of waves and heaving to and fro, then thy heart will shrink within thee, and fear will seize upon thy soul. For thou mayst see nothing but water all about thee, and there is no other shore in sight, and yet even so there is a depth of sea beyond which none hath ever sailed.
+
+##### [Indian Fantasy](https://files.catbox.moe/7qkhsg.module)
+
+[by Samanamel](https://discord.com/channels/836774308772446268/870449646391156776/909544004935385099)
+
+*Based on fantasy books inspired by Indian culture and religion. Steps: 2930, Loss: 2.68, 60% trained*
+
+- *The Black Company - Books of the South - Book 1*
+- *The Black Company - Books of the South - Book 2*
+- *Realm of Ash*
+- *The Jasmine Throne*
+- *The Star Touched Queen*
+- *A Crown of Wishes*
+- *Hunted by the Sky*
+
+(Storywriter)
+>**She peeked from the palanquin,** watching as her escort led them to a small temple. The priestess of Kali stood outside, hands folded in supplication. A few other women were already there, kneeling before the goddess's image. Some of them were weeping.
+>
+>"Are they going to sacrifice us?" asked Megha. "We should run."
+>
+>Priya shook her head. "They're praying for mercy."
+>
+>Megha looked skeptical.
+>
+>The priestess bowed low before entering the temple. She held up one hand in prayer and began to sing. Priya felt the sound vibrate through her body, deep within her bones. It was a song of longing, a song of yearning.
+>
+>And it rose around her, an echo in the air, so that she could feel its call on her lips.
+
+(Creative Coherency)
+>**He drew his dagger** and held it up in the air. It was a silver blade, old as time itself, with runes etched into its surface that glowed like fireflies trapped inside of glass. He had no idea what they meant; he'd never bothered to learn their meaning. But he knew this much: it would cut through anything—even solid stone—as if it were butter on a hot griddle. Once upon a time, he could have used such a weapon even without knowing how.
+>
+>Now... not so much. His arm ached where the wound from the manticore's fang still lingered. The magic within him felt sluggish now, too weak to heal himself or anyone else. Even Kale couldn't help but feel it. They all did.
+>
+>"I'm sorry," said Arwa. "It wasn't my—"
+>
+>Kale gestured for silence, then turned back toward the village.
+
+##### [Poetic Fantasy](https://files.catbox.moe/0mnm38.module)
+
+[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/909665868789710848)
+
+[12K Step (V3) Vers.](https://files.catbox.moe/p9a805.module)
+
+*Some of the best and most poetic fantasy written went into this module, from Guy Gavriel Kay, Mervyn Peake, Patricia A. McKillip and others. If you want beautiful prose in an almost fairy-tale setting, this is the module for you!*
+
+*6.8mb, 12000 steps, 154% coverage, 2.809 loss*
+
+>**The mermaid sang upon the rocks,** her voice a thin silver thread that wound around them all. The water lapped against their feet and she looked up at the stars with wide green eyes. She was very beautiful. Her hair fell like seaweed down to her waist, black as night itself. A faint glow lit her pale skin, as if moonlight shone through her from behind. And then the sea swallowed her again, leaving only bubbles on the sand.
+>
+>"She's gone," said Alberic softly. He looked over his shoulder at the others. "What do you say?" he asked the sailors. They murmured in agreement.
+>
+>They turned back toward home.
+
+>**The witch was mercurial and beautiful** as she laughed, her eyes flashing in the firelight. "I have a plan," she said, pulling me close to her again. Her lips brushed my ear, making it tingle. She whispered, "If I kill you now..."
+>
+>"You'll be sorry?" I finished for her.
+>
+>She smiled. "Yes."
+>
+>We were silent then, listening to the crackle of flames. The room was still and warm with the heat from our bodies; only a faint draft moved through the open window. My mind began racing, trying to figure out how I could escape this woman's clutches. I couldn't just leave Cook behind--the witch would know that. But if I killed her, I'd have no chance of getting back into the palace without being caught myself. And what about Cook? What if she woke up before we got away?
+>
+>But there was nothing else to do but wait and hope. We sat together on the edge of the bed, leaning against each other like two lovers sharing secrets. I felt dizzy and sick, wishing I had something stronger than wine to drink. The witch seemed to sense my weakness; she stroked my hair and murmured words of comfort. "Shh," she said, kissing me lightly on the forehead. "Don't worry, little one. You're safe here."
+>
+>My eyes closed; I lay back against her chest, feeling strangely calm. Perhaps she could help me after all. I fell asleep, and when I woke again, it was morning.
+>
+>I opened my eyes slowly, wondering where I was.
+
+##### [Russian Fantasy and Folklore](https://files.catbox.moe/5xu90x.module)
+
+[by lion (and Zaltys)](https://discord.com/channels/836774308772446268/870449646391156776/909615787214532650)
+
+*Russian folktales and fantasy tales retrained for Sigurd v4 now with additional works. This module manifests some of the dark whimsy of your favorite folk stories. Special thanks once again to Zaltys for cleaning and prepping the dataset. I only provided the steps.*
+
+- ***Arkady & Boris Strugatsky*** - Hard to Be a God
+- ***Arkady & Boris Strugatsky*** - Monday Starts on Saturday
+- ***David Clement-Davies*** - Fell
+- ***Edward Rutherfurd*** - Russka
+- ***Emma Woodcock*** - Kikimora
+- ***Karah Sutton*** - A Wolf for a Spell
+- ***Katherine Arden*** - The Winternight trilogy
+- ***Leo Tolstoy*** - Anna Karenina
+- ***Marina & Sergey Dyachenko*** - Vita Nostra
+- ***Mariam Petrosyan*** - The Gray House
+- ***Michael Thomas Ford*** - Lily
+- ***Mikhail Bulgakov*** - The Master and Margarita
+- ***Orson Scott Card*** - Enchantment
+- ***Robert Chandler*** - Russian Magic Tales from Pushkin to Platonov
+- ***T. Kingfisher*** - Summer in Orcus
+
+>"It's time," said the woman. "Come, it is almost dark."
+>
+>The old man was sitting in a corner of his room, listening to the ticking of the clock and looking at the closed door through which the other two had gone. The old man listened with interest: there were voices beyond that door; he could hear them talking softly, as if they did not wish to be overheard. And then suddenly all three voices ceased. He heard footsteps approaching along the corridor, and presently he saw the door open.
+>
+>He got up quickly from his chair and went out into the passage. It was quite dark now, but he knew that they would have lit their candles before going down into the crypt.
 
 ##### [Smalltown Folklore](https://files.catbox.moe/sminlt.module)
 
