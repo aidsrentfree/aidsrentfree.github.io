@@ -136,8 +136,8 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [The Great War - Western Front](#the-great-war---western-front)
     - [Fantastical](#fantastical)
       - [Diverse Cyberpunk (Annotated)](#diverse-cyberpunk-annotated)
-      - [Generation Ship](#generation-ship)
       - [Elizabethan/Jacobean Fantasy](#elizabethanjacobean-fantasy)
+      - [Generation Ship](#generation-ship)
       - [Indian Fantasy](#indian-fantasy)
       - [Poetic Fantasy](#poetic-fantasy)
       - [Russian Fantasy and Folklore](#russian-fantasy-and-folklore)
@@ -1194,20 +1194,6 @@ He fights against the rising panic, forcing himself to stay calm. There is nothi
 - *Pattern Recognition (William Gibson)*
 - *Prey of Gods (Nicky Drayden)*
 
-##### [Generation Ship](https://files.catbox.moe/pubhtk.module)
-
-[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/909556544524390430)
-
-*Journeys between stars across multiple generations at slower than light! Some are escaping a doomed Earth, others have forgotten that they are generation ships, and further, society breaks down; a few are grand odysseys in the hard scifi tradition.*
-
->**The generation ship Odysseus burned for the stars, its giant fusion torch pushing it as close as possible to lightspeed,** so that the years would pass in mere months. The crew was already selected and trained by the time they left Earth orbit, with only a few weeks of training before departure. They had all grown up together, most having gone through school and college together. Most were married or engaged, but no one seemed particularly upset when their friends or relatives decided not to go along on this voyage.
->
->In fact, there wasn't much of an argument about leaving Earth at all. Everyone knew that the Odysseus could never return home; it was designed to be a one-way trip. The planet's biosphere had been destroyed by nuclear war long ago, and there was no chance of finding another suitable world within the solar system where humans could live safely. So why not take off for the stars? It was better than dying in a radioactive wasteland.
-
->**The generation ship's fusion engines burned as it consumed hydrogen, and it maneuvers towards the Sun for a gravity-assisted boost closer to the speed of light, its passengers in cryogenic suspension and insulated from the effects of the hard acceleration.** The fusion engine is burning so hot that it has melted some of the nickel-iron core material into liquid metal. It flows through pipes inside the ship and then back out again, radiating heat like a giant radiator.
->
->On board the planetoid they call Bussard's Viewing Room, I'm sitting at my desk in front of the window, looking down on the tiny red dot that is our home world. A small robot arm with a stylus attached to it extends from the wall behind me and makes an erratic scratching motion across the screen, which changes every few seconds. On another monitor, a view of Earth shows the same thing happening there. I've been watching this show for years now, ever since we were all woken up by the crew waking us from suspended animation.
-
 ##### [Elizabethan/Jacobean Fantasy](https://files.catbox.moe/aqvqvz.module)
 
 [by Kitty](https://discord.com/channels/836774308772446268/870449646391156776/921824295058022400)
@@ -1238,6 +1224,20 @@ He fights against the rising panic, forcing himself to stay calm. There is nothi
 >The first tale is of the Knight who rode in search of his love, and came to a castle where he found a lady lying sick with a grievous malady; but when she saw him her sickness was cured, for she loved him well. Then they dwelt together in joy till one day as he sat at meat with her, there entered into the hall a man clad all in black, who said: "Wherefore do ye sit here feasting like men that have no fear?" The knight rose up then from table and drew his sword, saying: "I will smite off thy head." But the stranger held out his hand to stay him, saying: "This is my lord's house, and it were ill done to slay any within it, save only such as be guilty of murder or robbery." Therewithal the knight was ashamed and put up his weapon, for he deemed himself in the wrong. Then said the stranger: "Sit down again, Sir Knight, and I will tell thee somewhat concerning this castle wherein thou dwellest."
 
 >SOME men there be that love the sea, and would fain sail over it. But those who have never been at sea know not how great a thing is the ocean; for they have never seen its immensity or heard of its vastness, nor can they conceive the deeps thereof, or what wonders are therein. Now if thou hast ever looked on the ocean in thine own land, then thou wilt know how great a thing it is. And if thou seest it now, when it is full of waves and heaving to and fro, then thy heart will shrink within thee, and fear will seize upon thy soul. For thou mayst see nothing but water all about thee, and there is no other shore in sight, and yet even so there is a depth of sea beyond which none hath ever sailed.
+
+##### [Generation Ship](https://files.catbox.moe/pubhtk.module)
+
+[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/909556544524390430)
+
+*Journeys between stars across multiple generations at slower than light! Some are escaping a doomed Earth, others have forgotten that they are generation ships, and further, society breaks down; a few are grand odysseys in the hard scifi tradition.*
+
+>**The generation ship Odysseus burned for the stars, its giant fusion torch pushing it as close as possible to lightspeed,** so that the years would pass in mere months. The crew was already selected and trained by the time they left Earth orbit, with only a few weeks of training before departure. They had all grown up together, most having gone through school and college together. Most were married or engaged, but no one seemed particularly upset when their friends or relatives decided not to go along on this voyage.
+>
+>In fact, there wasn't much of an argument about leaving Earth at all. Everyone knew that the Odysseus could never return home; it was designed to be a one-way trip. The planet's biosphere had been destroyed by nuclear war long ago, and there was no chance of finding another suitable world within the solar system where humans could live safely. So why not take off for the stars? It was better than dying in a radioactive wasteland.
+
+>**The generation ship's fusion engines burned as it consumed hydrogen, and it maneuvers towards the Sun for a gravity-assisted boost closer to the speed of light, its passengers in cryogenic suspension and insulated from the effects of the hard acceleration.** The fusion engine is burning so hot that it has melted some of the nickel-iron core material into liquid metal. It flows through pipes inside the ship and then back out again, radiating heat like a giant radiator.
+>
+>On board the planetoid they call Bussard's Viewing Room, I'm sitting at my desk in front of the window, looking down on the tiny red dot that is our home world. A small robot arm with a stylus attached to it extends from the wall behind me and makes an erratic scratching motion across the screen, which changes every few seconds. On another monitor, a view of Earth shows the same thing happening there. I've been watching this show for years now, ever since we were all woken up by the crew waking us from suspended animation.
 
 ##### [Indian Fantasy](https://files.catbox.moe/7qkhsg.module)
 
