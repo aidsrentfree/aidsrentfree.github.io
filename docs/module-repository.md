@@ -26,6 +26,10 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(2Oth December, 2021)
+
+- Updated [Mass Effect](#mass-effect) module with V4 successor.
+
 (19th December, 2021)
 
 - Updated [A Song of Ice and Fire](#a-song-of-ice-and-fire) module with V4 successor.
@@ -120,6 +124,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Final Fantasy XVI](#final-fantasy-xvi)
       - [Genshin Impact](#genshin-impact)
       - [Mad Max](#mad-max)
+      - [Mass Effect](#mass-effect)
       - [Sailor Moon](#sailor-moon)
       - [A Song of Ice and Fire](#a-song-of-ice-and-fire)
       - [Starcraft](#starcraft)
@@ -162,7 +167,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Girls' Frontline](#v3-girls-frontline)
     - [(V3) Genroku Era](#v3-genroku-era)
     - [(V3) Magic: The Gathering](#v3-magic-the-gathering)
-    - [(V3) Mass Effect](#v3-mass-effect)
     - [(V3) Middle-Earth](#v3-middle-earth)
     - [(V3) My Little Pony: Friendship Extended](#v3-my-little-pony-friendship-extended)
     - [(V3) New California](#v3-new-california)
@@ -897,6 +901,61 @@ He fights against the rising panic, forcing himself to stay calm. There is nothi
 >I heard his voice before I saw him. "Come on then, you little bitch," he shouted as he started running towards me. I could hear his heavy breathing and the pounding of his feet against the sand. I didn't stop or turn around. I just kept going straight ahead. When he reached me, I jumped up and kicked him in the face. His head snapped back and blood flew out from his nose. He fell backwards onto the ground and I landed on top of him. I pulled one of my knives from its sheath and held it to his throat.
 >
 >"Where's your fucking water?" I screamed at him. He tried to say something, but all that came out was a bloody gurgle.
+
+##### [Mass Effect](https://files.catbox.moe/zbzz3i.module)
+
+[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/922261375030558781)
+
+*Humanity and several alien civilizations have colonized the Milky Way galaxy using technology seemingly left behind by an advanced precursor civilization,. and must battle a galactic evil.*
+
+*This is a much better version of the original Mass Effect module, trained on the v4 model.*
+
+*Source Material: 3.8MB, 4200 steps, 2.53 loss*
+
+- ***Title:** Mass Effect: Revelation **Author:** Drew Karpshyn*
+- ***Title:** Mass Effect: Ascension **Author:** Drew Karpshyn*
+- ***Title:** Mass Effect: Retribution **Author:** Drew Karpshyn*
+- ***Title:** Mass Effect: Deception **Author:** William C .Dietz*
+- ***Title:** Mass Effect: Andromeda - Annihilation; **Author:** Catherynne Valente*
+- ***Title:** Mass Effect: Andromeda - Nexus Uprising; **Author:** Jason Hough & KC Alexander*
+- ***Title:** Mass Effect: Andromeda - Initiation; **Author:** NK Jemison & Mac Walters*
+*Source: Mass Effect Codex*
+
+>**The Colonel activated his biotic shield** a halo of energy that surrounded him like an invisible bubble. The crowd of spectators scattered as the barrier flared to life, and he pressed forward, drawing his pistol from its holster with one hand while holding out his other palm in a fist. He punched it upward into the air, releasing a torrent of white-hot plasma. It shot up toward the ceiling, striking the glass dome above them with a deafening crack!
+>
+>"What was that?" someone screamed.
+>
+>"I think we're under attack!"
+>
+>A second later, two more blasts shattered the glass overhead. A handful of people dove for cover behind tables and benches, but most simply ran away. There were too many witnesses here; the last thing they wanted was for this to become public knowledge.
+>
+>The crowd thinned as people fled, and soon only the security guards remained standing around the Colonel. They stood their ground, but not before several of them dropped to one knee and raised their hands in surrender.
+>
+>He ignored them and continued walking toward the exit, which had been cordoned off by three large security officers. One of them stepped forward and blocked his path, while another approached from behind him.
+>
+>"Colonel," the man said. "We need you to come with us."
+>
+>"And if I don't?" he asked, turning slowly to face the officer.
+>
+>The guard swallowed hard and shook his head. "You can't refuse. We have orders to take you into custody."
+>
+>"Orders? From whom?"
+>
+>The man didn't answer. Instead, he glanced over at his partner, who shrugged and nodded.
+>
+>The Colonel turned back to the first officer. "If you want me to leave peacefully, then tell your men to step aside."
+>
+>"I'm sorry, sir," the officer replied. "But my orders are—"
+>
+>The Colonel shot him in the chest.
+
+>**The krogan commando** had been right about one thing: the Asari was a fighter. Her arms and legs moved with inhuman speed as she ran through the warehouse, dodging around crates of goods that were scattered across the floor like discarded toys. The alien's slender fingers gripped her weapon tightly, and her feet kicked at empty air as if she could sense each footfall before it happened. She looked over her shoulder at him, but didn't slow down or turn back to face him.
+>
+>"You can run, but you're not going anywhere," Grayson told her. He took aim with his rifle, but held off for now—the asari female was fast enough that he couldn't get a clean shot without risking hitting her by accident. Instead he fired three quick shots in rapid succession, striking her in the upper left arm and leg. Both bullets hit home, and she cried out as blood flowed from the wounds.
+>
+>She stumbled forward another few steps before she collapsed on the ground, rolling onto her side and curling into a fetal position. Her breathing came in short gasps, and her eyes were wide with fear. Grayson lowered his weapon, feeling a little guilty about shooting an unarmed woman.
+>
+>But then again, she wasn't exactly unarmed.
 
 ##### [Sailor Moon](https://files.catbox.moe/2hdlod.module)
 
@@ -1719,20 +1778,6 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 [by Footlong Goosesize](https://discord.com/channels/836774308772446268/870449646391156776/893374227066019851)
 
 *Now with more short stories from a variety of different settings! Including stories like The Blight of Our Own, The Promised End, The Truth of Names, etc.*
-
-#### [(V3) Mass Effect](https://files.catbox.moe/p2kdgi.module)
-
-[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/871565177554870283)
-
-*Humanity and several alien civilizations have colonized the Milky Way galaxy using technology seemingly left behind by an advanced precursor civilization,. and must battle a galactic evil.*
-
-*2.2MB, 3000 steps*
-
-- *Title: Mass Effect: Revelation Author: Drew Karpshyn Genre: Space opera*
-- *Title: Mass Effect: Ascension Author: Drew Karpshyn Genre: Space opera*
-- *Title: Mass Effect: Retribution Author: Drew Karpshyn Genre: Space opera*
-- *Title: Mass Effect: Deception Author: William C .Dietz Genre: Space opera*
-- *Source: Mass Effect Codex*
 
 #### [(V3) Middle-Earth](https://files.catbox.moe/9t3s02.module)
 
