@@ -29,6 +29,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 (2Oth December, 2021)
 
 - Updated [Mass Effect](#mass-effect) module with V4 successor.
+- Updated [Stephen King](#stephen-edwin-king) module with a V4 successor at the original author's request.
 
 (19th December, 2021)
 
@@ -98,6 +99,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [Raphael Aloysius Lafferty](#raphael-aloysius-lafferty)
     - [Richard Samet "Kinky" Friedman](#richard-samet-kinky-friedman)
     - [Rod Serling](#rod-serling)
+    - [Stephen Edwin King](#stephen-edwin-king)
     - [(V3) Carl Gustav Jung](#v3-carl-gustav-jung)
     - [(V3) Charles Dickens](#v3-charles-dickens)
     - [(V3) Franz Kafka](#v3-franz-kafka)
@@ -106,7 +108,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Jane Austen](#v3-jane-austen)
     - [(V3) Oscar Wilde](#v3-oscar-wilde)
     - [(V3) Shirley Jackson](#v3-shirley-jackson)
-    - [(V3) Stephen King](#v3-stephen-king)
     - [(V3) Tom Clancy](#v3-tom-clancy)
     - [(V3) Vladimir Nabokov](#v3-vladimir-nabokov)
   - [Web Authors](#web-authors)
@@ -549,6 +550,20 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 *Those were the only ones I could find easily. I think The Season To Be Wary would've fit in well as well, but I couldn't find it. Maybe that's for V2 of the model, if that will become a thing. Anyway, I decided to include all my files with the module, so you get the original ebooks I used, the original parsing in plaintext that Pandoc made, and my final edited text files that I used for the training. Maybe it's interesting for someone to see how the module was made. Note: I had an ebook that combined the three Twilight Zone books into one, so there's three ebooks in total.*
 
+
+#### [Stephen Edwin King](https://files.catbox.moe/fslgh7.module)
+
+[60% Coverage Vers.](https://files.catbox.moe/q2m0xb.module)
+
+[by SGreen](https://discord.com/channels/836774308772446268/870449646391156776/922443502414077972)
+
+*A module trained on almost 10 mb of Stephen King novels. It's a new version of the module that [guywhoknowsnothing posted here months ago](https://discord.com/channels/836774308772446268/870449646391156776/870565908735725591). There are two modules, one trained for 30% and another for 60%.*
+
+*9.30mb, 3816/6521 Steps, 2.68/2.69 loss*
+
+*Novels: It, Pet Sematary, Salem's Lot, The Green Mile, The Shinning, The Stand, Under the Dome*
+
+
 #### [(V3) Carl Gustav Jung](https://anonfiles.com/Z8t7U7Q1u1/Carl_Jung_Seminar_Module_v1_module)
 
 [by](https://rentry.co/Jungshit) [Anon](https://arch.b4k.co/vg/thread/357586350/#357604959)
@@ -636,13 +651,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 >Alexandra took off running down the hall.
 >
 >"Hey, sweetie!"
-
-#### [(V3) Stephen King](https://files.catbox.moe/bn2trc.module)
-
-[by guywhoknowsnothing](https://discord.com/channels/836774308772446268/870449646391156776/870565908735725591)
-
-*Inspired by the works of author Stephen King.*
-
 #### [(V3) Tom Clancy](https://files.catbox.moe/4eeiam.module)
 
 [by guywhoknowsnothing](https://discord.com/channels/836774308772446268/870449646391156776/871492756793606184)
