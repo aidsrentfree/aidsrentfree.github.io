@@ -26,7 +26,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
-(2Oth December, 2021)
+(20th December, 2021)
 
 - Updated [Mass Effect](#mass-effect) module with V4 successor.
 - Updated [Stephen King](#stephen-edwin-king) module with a V4 successor at the original author's request.
