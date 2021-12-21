@@ -30,7 +30,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 - Added [The Witcher](#the-witcher) module.
 - Updated [Vampire: The Masquerade](#vampire-the-masquerade) module with V4 successor.
-- Updated [Alien]() module with V4 successor.
+- Updated [Alien](#alien) module with V4 successor.
 
 (20th December, 2021)
 
