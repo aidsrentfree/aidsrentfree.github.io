@@ -30,6 +30,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 - Added [The Witcher](#the-witcher) module.
 - Updated [Vampire: The Masquerade](#vampire-the-masquerade) module with V4 successor.
+- Updated [Alien]() module with V4 successor.
 
 (20th December, 2021)
 
@@ -111,6 +112,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - [Themes](#themes)
   - [Setting](#setting)
     - [Established](#established)
+      - [Alien](#alien)
       - [Battletech](#battletech)
       - [Beastars](#beastars)
       - [The Elder Scrolls](#the-elder-scrolls)
@@ -143,7 +145,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Smalltown Folklore](#smalltown-folklore)
       - [Xenoarchaeology and Relics](#xenoarchaeology-and-relics)
     - [(V3) Action Movies](#v3-action-movies)
-    - [(V3) Alien Franchise](#v3-alien-franchise)
     - [(V3) Ancient Historical Rome](#v3-ancient-historical-rome)
     - [(V3) Ancient Rome](#v3-ancient-rome)
     - [(V3) Arthurian](#v3-arthurian)
@@ -736,6 +737,50 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 ### [Setting](#themes)
 
 #### [Established](#setting)
+
+##### [Alien](https://files.catbox.moe/q2hkht.module)
+
+[by Basileus](https://discord.com/channels/836774308772446268/870449646391156776/922979225110212619)
+
+*The perfect organism. It's structural perfection is matched only by it's hostility. Sci-fi action horror in the world of the Xenomorph. Minor fixes, trained to 100% on Sigurd v4.*
+
+*11.8MB, 100% coverage (13836 steps), 2.82 Loss*
+
+- ***Alien:** The Official Movie Novelization by Alan Dean Foster*
+- ***Aliens:** The Official Movie Novelization by Alan Dean Foster*
+- ***Alien 3:**  The Official Movie Novelization by Alan Dean Foster*
+- ***Alien Resurrection:**  The Official Movie Novelization by A. C. Crispin*
+- ***Alien:** Covenant - The Official Movie Novelization by Alan Dean Foster*
+- ***Aliens:** Earth Hive by Steve Perry*
+- ***Aliens:** Nightmare Asylum by Steve Perry*
+- ***Aliens:** The Female War by Steve Perry and Stephani Perry*
+- ***Aliens:** Genocide by David Bischoff*
+- ***Aliens:** Alien Harvest by Robert Sheckley*
+- ***Aliens:** Rogue by Sandy Schofield*
+- ***Aliens:** Labyrinth by S. D. Perry*
+- ***Aliens:** Music of the Spears by Yvonne Navarro*
+- ***Aliens:** Berserker by S. D. Perry*
+- ***Aliens:** Original Sin by Michael Jan Friedman*
+- ***Aliens:** DNA War by Diane Carey*
+- ***Aliens:** Cauldron by Diane Carey*
+- ***Aliens:** Steel Egg by John Shirley*
+- ***Aliens:** Criminal Enterprise by Stephani Perry*
+- ***Aliens:** No Exit by B. K. Evenson*
+- ***Alien:** Out of the Shadows by Tim Lebbon*
+- ***Alien:** Sea of Sorrows by James A. Moore*
+- ***Alien:** River of Pain by Christopher Golden*
+- ***Alien:** The Cold Forge by Alex White*
+- ***Alien:** Echo by Mira Grant*
+- ***Alien:** Prototype by Tim Waggoner*
+- ***Alien:** Into Charybdis by Alex White*
+- ***Aliens:** Infiltrator by Weston Ochse*
+- ***Aliens:** Bug Hunt (anthology)*
+
+>**Glistening in the darkness**, eyes glistening like jade gems. This one's a lot more dangerous than the last one I faced. The vast bulk of this creature was insectile—the thorax and abdomen longer than my torso with segmented legs projecting from it. Its head was distinctly alien; no mandibles or antennae but fanged jaws that dripped venom onto its victim as soon as they were locked together in combat. A vicious thing to go up against, though not nearly so much trouble if you make sure your surprise is complete at first contact.
+>
+>I could see other creatures crawling around on her back. Small ones too numerous for me to count, clinging to the exoskeleton with their sucker mouths. They might be parasites feeding directly off her body heat. Or some sort of symbiotic relationship, where she grants them access to another layer of protection on top of an already formidable natural armor. Either way, these things would mean certain death if one got close enough to penetrate your outer defenses. Preferably before they laid eggs inside your skull...
+>
+>The queen moved slowly toward us. In spite of myself I felt a strange excitement rising in anticipation of finally making something happen after all these long hours spent trying to understand what made Xenomorphs tick while being unable to get within fifty meters of any living specimens without getting eaten in turn. Maybe this would work out better than anticipated. Only take me a couple shots and then we can leave. No need for further contact. My pulse quickened slightly. This had been worth staying behind for, especially since I'd managed to find and secure some decent-quality samples right here in the facility. If nothing else, maybe now I could put them to good use when time came for departure.
 
 ##### [Battletech](https://files.catbox.moe/t1h6si.module)
 
@@ -1489,46 +1534,6 @@ He fights against the rising panic, forcing himself to stay calm. There is nothi
 >A huge explosion rocks the streets of Los Angeles. The shock wave ripples outward across the entire city. Buildings topple. Fires rage. Smoke billows high into the air. All over town, windows shatter. Bricks fall from buildings and crash to the pavement below.
 >
 >The Man watches everything happen. Finally, he begins walking towards the center of the city. It will take time for word of this disaster to spread throughout the region. By then, however, he has already made his way deep inside the heart of downtown L.A.
-
-#### [(V3) Alien Franchise](https://files.catbox.moe/l7j7j2.module)
-
-[by Basileus](https://discord.com/channels/836774308772446268/870449646391156776/881435261064597544)
-
-*Sci-fi action horror in the world of the Xenomorph. I just wanted to try an 8000 step module! 11.8MB, 8000 steps, ~59% coverage, Loss 2.8*
-
-- *Alien: The Official Movie Novelization by Alan Dean Foster*
-- *Aliens: The Official Movie Novelization by Alan Dean Foster*
-- *Alien 3: The Official Movie Novelization by Alan Dean Foster*
-- *Alien Resurrection: The Official Movie Novelization by A. C. Crispin*
-- *Alien: Covenant - The Official Movie Novelization by Alan Dean Foster*
-- *Aliens: Earth Hive by Steve Perry*
-- *Aliens: Nightmare Asylum by Steve Perry*
-- *Aliens: The Female War by Steve Perry and Stephani Perry*
-- *Aliens: Genocide by David Bischoff*
-- *Aliens: Alien Harvest by Robert Sheckley*
-- *Aliens: Rogue by Sandy Schofield*
-- *Aliens: Labyrinth by S. D. Perry*
-- *Aliens: Music of the Spears by Yvonne Navarro*
-- *Aliens: Berserker by S. D. Perry*
-- *Aliens: Original Sin by Michael Jan Friedman*
-- *Aliens: DNA War by Diane Carey*
-- *Aliens: Cauldron by Diane Carey*
-- *Aliens: Steel Egg by John Shirley*
-- *Aliens: Criminal Enterprise by Stephani Perry*
-- *Aliens: No Exit by B. K. Evenson*
-- *Alien: Out of the Shadows by Tim Lebbon*
-- *Alien: Sea of Sorrows by James A. Moore*
-- *Alien: River of Pain by Christopher Golden*
-- *Alien: The Cold Forge by Alex White*
-- *Alien: Echo by Mira Grant*
-- *Alien: Prototype by Tim Waggoner*
-- *Alien: Into Charybdis by Alex White*
-- *Aliens: Infiltrator by Weston Ochse*
-- *Aliens: Bug Hunt (anthology)*
-
->Something sinuous and glistening moved through the shadows in the corridor.
->
->"What's that?" Krenshaw asked, but it was too late for her to do anything about it. The thing came out of the darkness like a snake emerging from its hole—and then it struck. It whipped around the woman's head with an explosive hiss, clamped down on her face, and dragged her into the blackness. She screamed once, long and shrill, before she disappeared completely.
 
 #### [(V3) Ancient Historical Rome](https://files.catbox.moe/01yvca.module)
 
