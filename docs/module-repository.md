@@ -26,6 +26,11 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(21st December, 2021)
+
+- Added [The Witcher](#the-witcher) module.
+- Updated [Vampire: The Masquerade](#vampire-the-masquerade) module with V4 successor.
+
 (20th December, 2021)
 
 - Updated [Mass Effect](#mass-effect) module with V4 successor.
@@ -68,19 +73,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Added [Seinfeld](#seinfeld) module.
 - Updated [Femdom](#femdom) module with V4 successor.
 - Added [Cougar](#cougars) module.
-
-(9th December, 2021)
-
-- Added [Lolicon/Shotacon](#lolis-and-shotas) module.
-- Added [Aesop Rock Lyrics](#aesop-rock-lyrics) module.
-- Added [Meg Cabot (Teen Romance)](#meggin-patricia-cabot) module.
-
-(7th December, 2021)
-
-- Added [(Talking About) Video Games](#video-games) module.
-- Added [Female Wrestling](#female-wrestling) module.
-- Added [Jokester](#jokester) module.
-- Updated [Girl Thoughts](#girl-thoughts) module with V4 successor(s).
 
 ***
 
@@ -130,6 +122,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [A Song of Ice and Fire](#a-song-of-ice-and-fire)
       - [Starcraft](#starcraft)
       - [Touhou Project](#touhou-project)
+      - [Vampire: The Masquerade](#vampire-the-masquerade)
       - [Warcraft](#warcraft)
       - [World of Kouros](#world-of-kouros)
       - [World of Pokémon](#world-of-pokémon)
@@ -180,7 +173,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Star Wars: Original Trilogy](#v3-star-wars-original-trilogy)
     - [(V3) Star Wars: Prequel Trilogy](#v3-star-wars-prequel-trilogy)
     - [(V3) Underune](#v3-underune)
-    - [(V3) Vampire: The Masquerade](#v3-vampire-the-masquerade)
     - [(V3) West into the Weird](#v3-west-into-the-weird)
     - [(V3) Zombie Apocalypse](#v3-zombie-apocalypse)
   - [Elements](#elements)
@@ -309,6 +301,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [Modern](#modern)
       - [Nineteen Eighty-Four](#nineteen-eighty-four)
       - [Warriors](#warriors)
+        - [The Witcher](#the-witcher)
     - [(V3) Animorphs](#v3-animorphs)
     - [(V3) Assassin's Creed: Ezio Auditore](#v3-assassins-creed-ezio-auditore)
     - [(V3) Bartimaeus Sequence](#v3-bartimaeus-sequence)
@@ -1014,6 +1007,34 @@ He fights against the rising panic, forcing himself to stay calm. There is nothi
 >**Reimu turned to face the path in front of her shrine, seeing the silhouette of a youkai she knew very well slowly emerge from the stone stairs leading up towards it: “Oho!” The figure had long blonde hair cascading all over her frame and a smug smile on her face. It was unmistakeably Yukari Yakumo,** who always managed to appear whenever something bad happened in this world. And now here she stood right outside Reimu's home. This would normally mean trouble, but since today wasn't even Sunday yet... Well, as far as Reimu could remember, Yukari never came anywhere near her house before noon. Not only did she want some time away from everyone else, she didn't seem interested in causing any more problems than necessary either. So Reimu decided to give her space while still keeping an eye out for what might happen next. As soon as she saw the girl stop walking though, Reimu couldn't help herself anymore: “So? What brings ya back here so early?"
 >
 >"Well I suppose we should get straight into why I'm really here..." Yukari said with another grin as she walked through the shrine's gate. In spite of everything that they'd been through together during their friendship, there were times when Yukari seemed like such a little brat that Reimu just wanted to smack her upside the head.
+
+##### [Vampire: The Masquerade](https://files.catbox.moe/2kz2qp.module)
+
+[by Basileus](https://discord.com/channels/836774308772446268/870449646391156776/922814544567480330)
+
+*Immortal predators stalking the night in the (old) World of Darkness. Updated with minor fixes in training dataset (and Sigurd v4).*
+
+*5MB, 100% (5429 steps), 2.946 Loss*
+
+- ***Clan Novel Toreador** by Stewart Wieck*
+- ***Clan Novel Tzimisce** by Eric Griffin*
+- ***Clan Novel Gangrel** by Gherbod Fleming*
+- ***Clan Novel Setite** by Kathleen Ryan*
+- ***Clan Novel Ventrue** by Gherbod Fleming*
+- ***Clan Novel Lasombra** by Richard E. Dansky*
+- ***Clan Novel Assamite** by Gherbod Fleming*
+- ***Clan Novel Ravnos** by Kathleen Ryan*
+- ***Clan Novel Malkavian** by Stewart Wieck*
+- ***Clan Novel Giovanni** by Justin Achilli*
+- ***Clan Novel Brujah** by Gherbod Fleming*
+- ***Clan Novel Tremere** by Eric Griffin*
+- ***Clan Novel Nosferatu** by Gherbod Fleming*
+
+>**Step by tremulous step**, Aldo fell deeper into the crypt. The dust of centuries rose around him in a choking cloud, and he coughed violently. He could not see; that was well enough—he had no destination anyway. His eyes were shut tightly against the stifling darkness. It would be best for everyone if his body simply stopped functioning altogether.
+>
+>But even this... mere physical demise did not satisfy him. Painful as it might have been, death itself offered little satisfaction when one's life was brought to a close on such an ugly note. No! That wasn't quite right either! For there was something worse than simple death that beckoned him from time to eternity: boredom, so omnipresent, so insidious, never-ending... busyness without meaning or purpose. A job with no end? At what task could any human being spend four hundred years of miserable existence? And why should God demand artistry when all that remained to man was the tedious routine of necessity? This world, yes—but not this plane; there must be another.
+>
+>Aldo opened his eyes again and found himself in a small chamber beneath the church altar. In its center stood a marble statue depicting Christ crucified, carved long ago into the stone by some other hand. Its face was stern and unyielding, yet somehow he felt at peace within the empty gaze. There were words written upon the pedestal below the figure—they seemed familiar to Aldo but eluded recognition. When he touched them, however, they came back to him like the echo of distant thunder. They read thusly: "Come Unto Me All Ye Who Are Weary and Come Unto me and I Shall Give you Rest."
 
 ##### [Warcraft](https://files.catbox.moe/sh0fco.module)
 
@@ -2036,18 +2057,6 @@ A.K.A "Toby Fox Module"
 > You fall down Mt.Ebott, with a bed of yellow flowers cushioning your fall, probably saving your life. You get up and walk deeper into the cave, where you see a monster; a
 
 *1200~ steps trained on around 900kb~ of text; Average Loss: 2.8902; Last Loss: 2.8563*
-
-#### [(V3) Vampire: The Masquerade](https://files.catbox.moe/dy9gk2.module)
-
-[by Basileus](https://discord.com/channels/836774308772446268/870449646391156776/877334672902860820)
-
-*Modern gothic horror in White Wolf's (old) World of Darkness featuring your favorite undead bloodsucking immortals. Probably works reasonably well for generic vampire stuff (or even general dark urban fantasy) even without a WoD lorebook, although you may need to ban WoD-specific words like clan names if you actively want to avoid them. 5MB, ~50%*
-
->**The figure of dark majesty loomed over him, and his heart skipped a beat when she smiled, revealing** the fangs.
->
->"You've done well," said Theodora in her most seductive voice. "I am pleased with your progress." She reached out to touch his face as he gazed up at her, but then withdrew her hand. Instead, she leaned forward and whispered into his ear: "There is more work for you to do before I can bestow upon you my favor." Her breath was hot against his neck; it sent shivers down his spine. He trembled, even though he knew that what he felt could not be real. It had all been an illusion—a dream within a dream—but now it seemed very much like reality indeed.
->
->She stood back from him, smiling again, although there was no warmth in her expression this time.
 
 #### [(V3) West into the Weird](https://files.catbox.moe/pchd2e.module)
 
@@ -3704,6 +3713,22 @@ Alright, I guess I just bit the bullet. Here's [four](#nineteen-eighty-four) [of
 >Well, if I'm sending a letter to someone who lives in a different Clan, then they're going to be traveling just as fast as I am. So I'll need to figure out what their speed is first.
 >
 >I don't know how fast cats are moving, but I can make a guess.
+
+###### [The Witcher](https://files.catbox.moe/qgpcdl.module)
+
+[by SGreen](https://discord.com/channels/836774308772446268/870449646391156776/922596914459992074)
+
+*The Witcher season 2 is finally out, and so I thought NAI deserves a v4 The Witcher module.*
+
+*4,46mb, 3756 Steps 69,30%, 2.71*
+
+- ***657kb** | Baptism of Fire*
+- ***571kb** | Blood of Elves, Sword of Destiny*
+- ***968kb** | The Lady of the Lake*
+- ***503kb** | The Last Wish*
+- ***623kb** | The Time of Contempt*
+- ***803kb** | The Tower of Swallows*
+- ***633kb** | Sword of Destiny*
 
 #### [(V3) Animorphs](https://files.catbox.moe/uo24ou.module)
 
