@@ -29,6 +29,8 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 (22nd December, 2021)
 
 - Added [Extreme Horror](#extreme-horror) module.
+- Added [Arrested Development](#arrested-development) module.
+- Contemplated the very real possibility of all this becoming effectively obsolete in a matter of months
 
 (21st December, 2021)
 
@@ -298,7 +300,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [Modern](#modern)
       - [Nineteen Eighty-Four](#nineteen-eighty-four)
       - [Warriors](#warriors)
-        - [The Witcher](#the-witcher)
+      - [The Witcher](#the-witcher)
     - [(V3) Animorphs](#v3-animorphs)
     - [(V3) Assassin's Creed: Ezio Auditore](#v3-assassins-creed-ezio-auditore)
     - [(V3) Bartimaeus Sequence](#v3-bartimaeus-sequence)
@@ -386,6 +388,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Welcome to Night Vale](#v3-welcome-to-night-vale)
     - [(V3) Worm](#v3-worm)
   - [Scripts](#scripts)
+    - [Arrested Development](#arrested-development)
     - [Helluva Hotel](#helluva-hotel)
     - [Seinfeld](#seinfeld)
 - [Utilities](#utilities)
@@ -3736,7 +3739,7 @@ Alright, I guess I just bit the bullet. Here's [four](#nineteen-eighty-four) [of
 >
 >I don't know how fast cats are moving, but I can make a guess.
 
-###### [The Witcher](https://files.catbox.moe/qgpcdl.module)
+##### [The Witcher](https://files.catbox.moe/qgpcdl.module)
 
 [by SGreen](https://discord.com/channels/836774308772446268/870449646391156776/922596914459992074)
 
@@ -4767,6 +4770,42 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 ***
 
 ### [Scripts](#works)
+
+#### [Arrested Development](https://files.catbox.moe/mykd1x.module)
+
+[by Dead Eye ☕](https://discord.com/channels/836774308772446268/870449646391156776/923015919414960138)
+
+*Arrested Development transcripts for seasons 1-4 scraped from Wikia. Contains square bracketed tags for episode introduction e.g.  [The following is the transcript of the Season One episode... and directing tags such as [Scene], [Flashback], [Cutaway]. Acts are split by ***. 100% coverage, 1945 steps, 2.32 loss.*
+
+>**[The following is the transcript of the Season Five episode "Bees?". Memorable quotes are highlighted below.]**
+>
+>Narrator: When G.O.B. learned that his father was in a coma, he went to visit him.
+>
+>G.O.B.: Dad? I'm here! It's me, George Michael.
+>
+>Dad: Oh, my son... (choking)
+>
+>G.O.B.: What? Dad!
+>
+>Dad: No, no. It's just your face.
+>
+>G.O.B.: How can you be sure it's me?
+>
+>Dad: Because you're not really you. You're a doppelganger.
+>
+>G.O.B.: A what?
+>
+>Dad: A doppelganger. That's German for double-double-ganger.
+>
+>G.O.B.: Double-what?
+>
+>Dad: Doppelganger. Look at this picture. This is your brother, Tobias. He looks like you, but he isn't you.
+>
+>Tobias: But I am you.
+>
+>G.O.B.: Dad, why did you make us look alike?
+>
+>Dad: Because you were so much trouble when you were younger.
 
 #### [Helluva Hotel](https://files.catbox.moe/eeelvj.module)
 
