@@ -129,6 +129,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [World of Kouros](#world-of-kouros)
       - [World of Pokémon](#world-of-pokémon)
     - [Genre](#genre)
+      - [Diverse Cyberpunk (Annotated)](#diverse-cyberpunk-annotated)
       - [1950s Science Fiction](#1950s-science-fiction)
       - [Western](#western)
       - [Western Romance](#western-romance)
@@ -136,14 +137,12 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Feudal Japan](#feudal-japan)
       - [The Great War - Western Front](#the-great-war---western-front)
     - [Fantastical](#fantastical)
-      - [Diverse Cyberpunk (Annotated)](#diverse-cyberpunk-annotated)
       - [Elizabethan/Jacobean Fantasy](#elizabethanjacobean-fantasy)
       - [Generation Ship](#generation-ship)
       - [Indian Fantasy](#indian-fantasy)
       - [Poetic Fantasy](#poetic-fantasy)
       - [Russian Fantasy and Folklore](#russian-fantasy-and-folklore)
       - [Smalltown Folklore](#smalltown-folklore)
-      - [Xenoarchaeology and Relics](#xenoarchaeology-and-relics)
     - [(V3) Action Movies](#v3-action-movies)
     - [(V3) Ancient Historical Rome](#v3-ancient-historical-rome)
     - [(V3) Ancient Rome](#v3-ancient-rome)
@@ -188,6 +187,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Technology (Annotated)](#technology-annotated)
       - [Video Games](#video-games)
       - [Wildlife](#wildlife)
+      - [Xenoarchaeology and Relics](#xenoarchaeology-and-relics)
     - [Abstract](#abstract)
       - [Communism](#communism)
       - [Disco Elysium: Conversations](#disco-elysium-conversations)
@@ -1188,6 +1188,23 @@ He fights against the rising panic, forcing himself to stay calm. There is nothi
 
 #### [Genre](#setting)
 
+##### [Diverse Cyberpunk (Annotated)](https://files.catbox.moe/seijmh.module)
+
+[by Magenta.Darkstar](https://discord.com/channels/836774308772446268/870449646391156776/921281730147659836)
+
+*A collection of Cyberpunk and Cyberpunk related stories with Pocket Notes style annotations included. Texts were selected based on diversity of writing styles, diversity of characters, and inclusion of thematically appropriate elements.*
+
+*(Loss: 2.8995, Coverage: ~100%)*
+
+- *Brave New World (Auldous Huxley)*
+- *The Diamond Age (Neil Stephenson)*
+- *Snow Crash (Neil Stephenson)*
+- *Do Androids Dream of Electric Sheep (Phillip K Dick)*
+- *I Will Fear No Evil (Robert Heinlen)*
+- *Neurmancer (William Gibson)*
+- *Pattern Recognition (William Gibson)*
+- *Prey of Gods (Nicky Drayden)*
+
 ##### [1950s Science Fiction](https://files.catbox.moe/e6cx3o.module)
 
 [by BaronJoshua](https://discord.com/channels/836774308772446268/870449646391156776/917227552735649872)
@@ -1309,23 +1326,6 @@ He fights against the rising panic, forcing himself to stay calm. There is nothi
 *I doubt many people here want to write autistic historical fiction, but I encourage you to experiment with it when you want descriptions of combat, ravaged landscapes and commentary from the perspective of disaffected young men.*
 
 #### [Fantastical](#setting)
-
-##### [Diverse Cyberpunk (Annotated)](https://files.catbox.moe/seijmh.module)
-
-[by Magenta.Darkstar](https://discord.com/channels/836774308772446268/870449646391156776/921281730147659836)
-
-*A collection of Cyberpunk and Cyberpunk related stories with Pocket Notes style annotations included. Texts were selected based on diversity of writing styles, diversity of characters, and inclusion of thematically appropriate elements.*
-
-*(Loss: 2.8995, Coverage: ~100%)*
-
-- *Brave New World (Auldous Huxley)*
-- *The Diamond Age (Neil Stephenson)*
-- *Snow Crash (Neil Stephenson)*
-- *Do Androids Dream of Electric Sheep (Phillip K Dick)*
-- *I Will Fear No Evil (Robert Heinlen)*
-- *Neurmancer (William Gibson)*
-- *Pattern Recognition (William Gibson)*
-- *Prey of Gods (Nicky Drayden)*
 
 ##### [Elizabethan/Jacobean Fantasy](https://files.catbox.moe/aqvqvz.module)
 
@@ -1473,57 +1473,6 @@ He fights against the rising panic, forcing himself to stay calm. There is nothi
 *Ever wondered what was goin' on in the middle of nowhere? Find out! Based on the works of Garrison Keillor and Stuart McLean.*
 
 *110% Coverage, 3.7k Steps.*
-
-##### [Xenoarchaeology and Relics](https://files.catbox.moe/n7sz15.module)
-
-[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/910028027369517116)
-
-*This module draws from books that have a strong sense of xenoarchaeology and discovering ancient alien treasures as well as large, and small wonders from the past. Many of the sources are narrow, and some of the others are broad in scope.*
-
-*8.5mb, 6000 steps, 60% coverage, 2.86 average loss*
-
-- ***Title:** To Sleep in a Sea of Stars; **Author:** Christopher Paolini; **Genre:** Science Fiction*
-- ***Title:** A Fire Upon The Deep; **Author:** Vernor Vinge; **Genre:** Science Fiction*
-- ***Title:** Bone Silence; **Author:** Alastair Reynolds; **Genre:** Science Fiction*
-- ***Title:** Wasteland of Flint; **Author:** Thomas Harlan; **Genre:** Science Fiction*
-- ***Title:** Boundary; **Author:** Eric Flint, Ryk E. Spoor; **Genre:** Science Fiction*
-- ***Title:** Into Everywhere; **Author:** Paul McAuley; **Genre:** Science Fiction*
-- ***Title:** Engines of God; **Author:** Jack McDevitt; **Genre:** Science Fiction*
-- ***Title:** Newton's Wake; **Author:** Ken MacLeod; **Genre:** Science Fiction*
-- ***Title:** Wanderer's Escape; **Author:** Simon Goodson; **Genre:** Science Fiction*
-- ***Title:** Rendezvous with Rama; **Author:** Arthur C. Clarke; **Genre:** Science Fiction*
-
->**The light of the blue star beat down on Alexandria's head, as she bent over the relic that her crew had dug out in the pit.** She wore a heavy helmet and goggles, but even so it was uncomfortably hot. The metal of the digging tools was already glowing red-hot under its sunlamps. They would need to cool before they could be used again.
->
->"It looks like an old robot," Alex said. "But there's no way we can tell what kind."
->
->A robot? That didn't make sense. Robots were built by humans; if this thing was human, then it must have been made by something else entirely. But she couldn't imagine who or what. It certainly wasn't anything from Earth. And it wasn't even possible for them to send a message back home—not with their radio damaged.
->
->Alex straightened up and wiped sweat off her brow with one gloved hand. "We'll have to take it apart," she told Haveram. "I don't think we can do much more without burning it."
->
->Haveram nodded and walked away toward the other side of the dig site, where he had set up his own work area.
->
->"What's wrong?" asked Captain Jenkins. He'd arrived at the dig site while Alex was talking to Haveram. "You look worried."
->
->"Nothing's wrong," Alex replied. "But I'm not sure how much good we're going to be able to do here. We might need to get some help from the base."
-
->**Alexandria piloted the ship closer, and turned on her spotlight, illuminating the eons old alien derelict ship.** The light was swallowed by the hull as she moved into position beside it. A small, faint blue glow lit up the interior of the vessel.
->
->“It’s been here for a long time,” said Halsey. “Centuries at least.”
->
->She had left the hatch open, and they could see inside the ancient craft. It was dark, but there were traces of light—small points of glowing blue that seemed to move slowly across the walls. They reminded Alexandria of fireflies, or the luminous bacteria in some deep sea trenches. But these lights didn’t seem to be coming from any living creature; they glowed with an eerie regularity.
->
->“There are no signs of damage,” said Halsey. “But I can’t say what might have happened to the crew.” She glanced over at Alexandria. “I don’t think we should go in.”
->
->Alexandria frowned. “We need to find out what’s going on here.”
->
->“And how do you propose we do that?” asked Halsey. “You saw the size of this thing. We wouldn’t even fit inside.”
->
->Alexandria thought about it for a moment. “How big is the bridge?”
->
->Halsey shook her head. “No idea.”
->
->“Then we’ll start with the bridge,” Alexandria Kira. “The rest will follow.”
 
 #### [(V3) Action Movies](https://files.catbox.moe/91n3eo.module)
 
@@ -2267,6 +2216,57 @@ Supporting Texts
 - ***Owls of the Eastern Ice** - Jonathan C. Slaght*
 
 ![I shit you not that was the first thing it generated, no fuckery here.](https://files.catbox.moe/p6uonr.png)
+
+##### [Xenoarchaeology and Relics](https://files.catbox.moe/n7sz15.module)
+
+[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/910028027369517116)
+
+*This module draws from books that have a strong sense of xenoarchaeology and discovering ancient alien treasures as well as large, and small wonders from the past. Many of the sources are narrow, and some of the others are broad in scope.*
+
+*8.5mb, 6000 steps, 60% coverage, 2.86 average loss*
+
+- ***Title:** To Sleep in a Sea of Stars; **Author:** Christopher Paolini; **Genre:** Science Fiction*
+- ***Title:** A Fire Upon The Deep; **Author:** Vernor Vinge; **Genre:** Science Fiction*
+- ***Title:** Bone Silence; **Author:** Alastair Reynolds; **Genre:** Science Fiction*
+- ***Title:** Wasteland of Flint; **Author:** Thomas Harlan; **Genre:** Science Fiction*
+- ***Title:** Boundary; **Author:** Eric Flint, Ryk E. Spoor; **Genre:** Science Fiction*
+- ***Title:** Into Everywhere; **Author:** Paul McAuley; **Genre:** Science Fiction*
+- ***Title:** Engines of God; **Author:** Jack McDevitt; **Genre:** Science Fiction*
+- ***Title:** Newton's Wake; **Author:** Ken MacLeod; **Genre:** Science Fiction*
+- ***Title:** Wanderer's Escape; **Author:** Simon Goodson; **Genre:** Science Fiction*
+- ***Title:** Rendezvous with Rama; **Author:** Arthur C. Clarke; **Genre:** Science Fiction*
+
+>**The light of the blue star beat down on Alexandria's head, as she bent over the relic that her crew had dug out in the pit.** She wore a heavy helmet and goggles, but even so it was uncomfortably hot. The metal of the digging tools was already glowing red-hot under its sunlamps. They would need to cool before they could be used again.
+>
+>"It looks like an old robot," Alex said. "But there's no way we can tell what kind."
+>
+>A robot? That didn't make sense. Robots were built by humans; if this thing was human, then it must have been made by something else entirely. But she couldn't imagine who or what. It certainly wasn't anything from Earth. And it wasn't even possible for them to send a message back home—not with their radio damaged.
+>
+>Alex straightened up and wiped sweat off her brow with one gloved hand. "We'll have to take it apart," she told Haveram. "I don't think we can do much more without burning it."
+>
+>Haveram nodded and walked away toward the other side of the dig site, where he had set up his own work area.
+>
+>"What's wrong?" asked Captain Jenkins. He'd arrived at the dig site while Alex was talking to Haveram. "You look worried."
+>
+>"Nothing's wrong," Alex replied. "But I'm not sure how much good we're going to be able to do here. We might need to get some help from the base."
+
+>**Alexandria piloted the ship closer, and turned on her spotlight, illuminating the eons old alien derelict ship.** The light was swallowed by the hull as she moved into position beside it. A small, faint blue glow lit up the interior of the vessel.
+>
+>“It’s been here for a long time,” said Halsey. “Centuries at least.”
+>
+>She had left the hatch open, and they could see inside the ancient craft. It was dark, but there were traces of light—small points of glowing blue that seemed to move slowly across the walls. They reminded Alexandria of fireflies, or the luminous bacteria in some deep sea trenches. But these lights didn’t seem to be coming from any living creature; they glowed with an eerie regularity.
+>
+>“There are no signs of damage,” said Halsey. “But I can’t say what might have happened to the crew.” She glanced over at Alexandria. “I don’t think we should go in.”
+>
+>Alexandria frowned. “We need to find out what’s going on here.”
+>
+>“And how do you propose we do that?” asked Halsey. “You saw the size of this thing. We wouldn’t even fit inside.”
+>
+>Alexandria thought about it for a moment. “How big is the bridge?”
+>
+>Halsey shook her head. “No idea.”
+>
+>“Then we’ll start with the bridge,” Alexandria Kira. “The rest will follow.”
 
 #### [Abstract](#elements)
 
