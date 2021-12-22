@@ -26,6 +26,10 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(22nd December, 2021)
+
+- Added [Extreme Horror](#extreme-horror) module.
+
 (21st December, 2021)
 
 - Added [The Witcher](#the-witcher) module.
@@ -65,15 +69,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Added [R. A Lafferty](#raphael-aloysius-lafferty) module.
 - Added [Stygian Delving](#stygian-delving) module.
 - Updated [Communism](#communism) module with V4 successor.
-
-(10th December, 2021)
-
-- Updated [The Manwhore Module](#the-manwhore-module).
-- Added [P. G. Wodehouse](#pelham-grenville-wodehouse) module.
-- Added [Disney's Tales of Pixie Hollow](#tales-of-pixie-hollow) module.
-- Added [Seinfeld](#seinfeld) module.
-- Updated [Femdom](#femdom) module with V4 successor.
-- Added [Cougar](#cougars) module.
 
 ***
 
@@ -130,6 +125,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [World of Pokémon](#world-of-pokémon)
     - [Genre](#genre)
       - [Diverse Cyberpunk (Annotated)](#diverse-cyberpunk-annotated)
+      - [Extreme Horror](#extreme-horror)
       - [1950s Science Fiction](#1950s-science-fiction)
       - [Western](#western)
       - [Western Romance](#western-romance)
@@ -1204,6 +1200,27 @@ He fights against the rising panic, forcing himself to stay calm. There is nothi
 - *Neurmancer (William Gibson)*
 - *Pattern Recognition (William Gibson)*
 - *Prey of Gods (Nicky Drayden)*
+
+##### [Extreme Horror](https://mega.nz/file/lxgmTQ6K#r35sR15NmFC2J7kLkZY-Iiz5o1LGWcaUMGfdlcYGatU)
+
+[by Anon](https://arch.b4k.co/vg/thread/365033132/#365069951)
+
+*I made an Extreme Horror module, it works fine with high creativity settings, but is kinda vanilla with default ones. So if some fellow degenerate like this kind of stuff...*
+
+*Based on horror anthologies and collections (~6.5MB, ~100% steps):*
+
+- *Complete Books of Blood*
+- *DOA 1 and 2*
+- *Necro Files*
+- *A Glimpse into Hell*
+- *Sixty-Five Stirrup Iron Road*
+- *One of compilation by Ledger (but I cannot remember which one)*
+
+*Plots I got from empty prompt include:*
+
+1. *Guy being tortured by police*
+2. *Couple went to watch snuff*
+3. *Wife telling her husband that their son was raped*
 
 ##### [1950s Science Fiction](https://files.catbox.moe/e6cx3o.module)
 
