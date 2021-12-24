@@ -463,6 +463,8 @@ Spending the holidays in a foreign land has always appealed to you, and so has s
 
 This is the story of two lonely people both thinking about committing suicide on Christmas Eve and then deciding to spend the Holiday together. What happens next is up to you.
 
+
+
 ***
 
 ## The Friday of *Villainesses*
@@ -1683,7 +1685,7 @@ There will be a knock at the door.
 ***(Spookiness + Trick or Treating)***
 {: .center}
 
-*October 29th, 2021*
+[*October 29th, 2021*](#the-log)
 {: .center}
 
 ### *Reckless Adventurer and an Elven Sorceress*
@@ -2951,7 +2953,7 @@ A dwarf, Urist, is possessed by a strange mood, and makes his way deep into the 
 Let's make prompts ignoring Mormon's trash filter completely, using students or other academic concepts as tools for storytelling.
 {: .center}
 
-*July 23rd, 2021*
+[*July 23rd, 2021*](#the-log)
 {: .center}
 
 ### *Clair de Lune*
