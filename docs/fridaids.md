@@ -242,7 +242,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 Let's make prompts about the most wonderful time of the year.
 {: .center}
 
-***Christmas Eve***
+*24th December, 2021*
 {: .center}
 
 ### *The Curse of the Programmer Socks*
