@@ -46,6 +46,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Chrimbus Kitsune*](#chrimbus-kitsune)
   - [*A Very Spiritual Holiday*](#a-very-spiritual-holiday)
   - [*Earning My Wings*](#earning-my-wings)
+  - [*Nemo A534 Defends the 506th SFW by Tying Up the Viet Cong*](#nemo-a534-defends-the-506th-sfw-by-tying-up-the-viet-cong)
 - [The Friday of *Villainesses*](#the-friday-of-villainesses)
   - [*True Love's First (Cloacal) Kiss*](#true-loves-first-cloacal-kiss)
   - [*Ride the Tiger*](#ride-the-tiger)
@@ -463,7 +464,18 @@ Spending the holidays in a foreign land has always appealed to you, and so has s
 
 This is the story of two lonely people both thinking about committing suicide on Christmas Eve and then deciding to spend the Holiday together. What happens next is up to you.
 
+### *Nemo A534 Defends the 506th SFW by Tying Up the Viet Cong*
+{: .center}
 
+*<https://prompts.aidg.club/2815>*
+{: .center}
+
+![](https://files.catbox.moe/933hdo.jpg)
+{: .center}
+
+>*Ngoc Bich spent hours carefully, slowly, acrobatically using the dense foliage surrounding Tan Son Nut airbase to mask her approach. About a mile outside the main airfield, she encountered a series of barbed-wire fences. They were well arranged, but the Viet Cong saboteur noticed a burrowed-out spot under one section of barbed fence, seemingly dug by some animal. She crawled forward toward it, realizing it would be the perfect entry-point, given her narrow frame. The small Vietnamese woman was nearly imperceptible in her black ao ba ba farmer's garb, crawling along the dense foliage of the jungle floor, as she made her way forward. A small pin-prick of pain bloomed across her back, as Bich suppressed the urge to yelp out as her thin, black clothes were torn down the back by the barbed-wire. She wasn't seriously scratched, but the back of her shirt, and the restraining band of her pants were torn, as the weight of the c4 in her pockets dragged her shredded pants down. Ho silently cursed to herself, gathering up her ruined pants as best she could as she awkwardly crawled forward. Refusing to give up, keeping low, she continued, hoping none of the Imperialist pigs guarding the compound would notice her.*
+
+Robert Thorneburg worried, like many young American men, that he would never return from the Vietnam war. But after establishing a profound link with his assigned German Shepherd, Nemo, his prospects of surviving are rising. In early December, weeks before the Tet Offensive, timed to coincide with the Lunar New Year Festival, the Strategic Fighter Wing hangared in Tan Son Nut airbase is threatened by Vietnamese infiltrators. Can Nemo protect his master, and the SFW from a vengeful Viet Cong soldier woman?
 
 ***
 
