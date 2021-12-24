@@ -33,6 +33,19 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 - [Rules](#rules)
 - [The Log](#the-log)
+- [The Friday of *Holiday Festivities*](#the-friday-of-holiday-festivities)
+  - [*The Curse of the Programmer Socks*](#the-curse-of-the-programmer-socks)
+  - [*All I Want For Christmas Are Nine Fluffy Tails to Brush!*](#all-i-want-for-christmas-are-nine-fluffy-tails-to-brush)
+  - [*The Town Grinch*](#the-town-grinch)
+  - [*Spider-Girl Saves Christmas With Her Tight Spinneret*](#spider-girl-saves-christmas-with-her-tight-spinneret)
+  - [*The Matchstick Girl*](#the-matchstick-girl)
+  - [*Alma Makes HCC a Safe Working Environment for the Non-denominational Holidays*](#alma-makes-hcc-a-safe-working-environment-for-the-non-denominational-holidays)
+  - [*The Botched Trial on 34th Street*](#the-botched-trial-on-34th-street)
+  - [*Grandfather Frost*](#grandfather-frost)
+  - [*All I Want for Christmas is a Christmas Cake*](#all-i-want-for-christmas-is-a-christmas-cake)
+  - [*Chrimbus Kitsune*](#chrimbus-kitsune)
+  - [*A Very Spiritual Holiday*](#a-very-spiritual-holiday)
+  - [*Earning My Wings*](#earning-my-wings)
 - [The Friday of *Villainesses*](#the-friday-of-villainesses)
   - [*True Love's First (Cloacal) Kiss*](#true-loves-first-cloacal-kiss)
   - [*Ride the Tiger*](#ride-the-tiger)
@@ -223,13 +236,242 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 ***
 
+## The Friday of *Holiday Festivities*
+{: .center}
+
+Let's make prompts about the most wonderful time of the year.
+{: .center}
+
+***Christmas Eve***
+{: .center}
+
+### *The Curse of the Programmer Socks*
+{: .center}
+
+*<https://prompts.aidg.club/2801>*
+{: .center}
+
+![](https://files.catbox.moe/kjnexp.jpg)
+{: .center}
+
+>*I first knew something was wrong when I rubbed my chin the next morning. It had been a couple days since I shaved, so I was expecting some hearty stubble, but as my hand slid over my face, my groggy senses perceived a cheek a smooth as a baby's bottom. With a start, I jumped awake, rushing to the bathroom. Closing the door quickly, I surveyed the face in the reflection. It was me alright, but something was wrong. My facial hair was gone and my features seemed softer. My nose had softened slightly and my lips looked... pouty?*
+
+After being gifted a cursed pair of socks on Christmas, Anon finds himself slowly transforming into a femboy against his will. Can he find a way to break the curse before his family finds out?
+
+### *All I Want For Christmas Are Nine Fluffy Tails to Brush!*
+{: .center}
+
+*<https://prompts.aidg.club/2802>*
+{: .center}
+
+![](https://files.catbox.moe/801rl3.jpg)
+{: .center}
+
+>*As the drawstring slowly slacked, Lady Kayo coiled every muscle in her lithe, vulpine body, ready to pounce and unleash a hell-storm of magical carnage. She tore out of the opened sack, and landed clumsily below a gaudily decorated, fake tree. Her slit fox pupils scanned the room warily, her big amber eyes narrowing as she tried to gauge the situation, confusion overwhelming her. Somehow, during her abduction, Lady Kayo's elegant silk kimono had been swapped for a restrictive, frilly, French maid's uniform. She was in a strange room with her red-coated enemy and another man, even taller and fatter than her hated foe. The fox woman looked between the two men in confusion, as her eyes were drawn to the other human's neck and cheeks, which were speckled with an unsightly mane of curling hair, as she directed her magical onslaught at the new target, who sported a ridiculous 'neckbeard.' The nine-tailed kitsune poured everything she had into a powerful destructive spell, extending her clawed hands forward in a threatening magical Kata. Her efforts produced no noticeable effect, as Lady Kayo's large fox ears visibly drooped in fear and disappointment.*
+>
+>*The big, bearded half-Japanese man ambled forward, equally confused by the situation, but instantly enamored by the beautiful appearance of the poised, fierce-looking fox woman desperately staring at him, her claws and fangs bared. "Go on Akira. She's all yours."*
+
+A desperate hikkimori otaku makes a psychic plea to his patron deity, Santa Claus. Clutching a drumstick of greasy KFC in one hand, and the curls of his greasy neck-beard in the other, his earnest pleas for a foxy new friend are heard by jolly old Saint Nick.
+
+### *The Town Grinch*
+{: .center}
+
+*<https://prompts.aidg.club/2803>*
+{: .center}
+
+![](https://files.catbox.moe/d5lw05.jpg)
+{: .center}
+
+>*There was another who hated Christmas and wished it would end.*
+>
+>*They lived outside of town, up in the hills.*
+>
+>*There a cold wind was blowing and up their spines it sent chills.*
+>
+>*This is the villain to our story and the main character too.*
+>
+>*This Grinch, this scrooge, why it is no other than you.*
+
+You are the town Grinch who hates the Christmas season and wants to ruin it for everyone else.
+
+### *Spider-Girl Saves Christmas With Her Tight Spinneret*
+{: .center}
+
+*<https://prompts.aidg.club/2804>*
+{: .center}
+
+![](https://files.catbox.moe/27zsnf.jpg)
+{: .center}
+
+>*"W-what... would you have me do?" Portia replied breathlessly, suspecting Santa knew full well of her lewd, perverse inclinations.*
+>
+>*"Santa knows what you do with your tight little spinneret hole, late at night, Portia. He see's you when you should be sleeping, he know when you're wide awake at night..." Santa Claus continued, speaking of himself in the 3rd person, as Portia began leaking several thin strands of silk from her twitching backside as the spinnerets began fidgeting about, a small moan escaping from the back of her throat as Santa leaned in closer. She could smell the alcohol on his breath as he whispered "I need you... I need you to make an example of these goddamned pixie ring-leaders. Show them the true meaning of Christmas, and jam them all up in your spider-hole. Just shove 'em right in there sweetie, it's not a sin to kill an atheist, pinko fey with your arachnid-ass."*
+
+Santa runs a tight shop up at the North Pole, and when a labor-dispute threatens a merry Christmas for the world's children, jolly old Saint Nick completely loses his shit. Knowing of a dedicated, helpful monster girl who has recently become an extremely curious monster-woman, Santa devises a plot to fill his beleaguered work-force with the Christmas Spirit, and reward young Portia for her dedication to the festive holiday.
+
+### *The Matchstick Girl*
+{: .center}
+
+*<https://prompts.aidg.club/2806>*
+{: .center}
+
+![](https://files.catbox.moe/8vlib0.jpg)
+{: .center}
+
+>*"Master, what on earth is going on?" Anna asks yawning in her nightgown and blanket. She puts on her glasses and sees the little girl now bundled up in the bed. "Good heaven's what a happened?" Anna asks as she approaches the girl.*
+>
+>*"I found her in the street half-frozen," I say as the fire sparks up.*
+>
+>*Anna starts attending to the poor girl as I keep the heat up eventually the color returns to her face, but she seems to have a fever. We care for the girl through the night as she mutters of strange things in her sleep. Her dreams seem pleasant in the very least as I see her smile between the sparks from the fireplace crackling.*
+>
+>*Eventually, the light of the new day and the new year shine through the window and illuminate the room. Anna wakes me as it seems I had fallen asleep at my post. I check on the matchstick girl her stirs slightly in the bed. Her eyes open slightly to my great relief and with a cough asks, "Where am I?"*
+
+Alternate ending to the classic Hans Christian Andersen story. Find the matchstick girl before it's too late and take care of her.
+
+### *Alma Makes HCC a Safe Working Environment for the Non-denominational Holidays*
+{: .center}
+
+*<https://prompts.aidg.club/2808>*
+{: .center}
+
+![](https://files.catbox.moe/on9e30.jpg)
+{: .center}
+
+>*As the feared, predatory female dragon angrily paced into the center of the cancelled party's cleared dance-floor, she bellowed out explicit instructions to the fearful corporate minions that remained. "I want every one of you gussied up hussies to line up right in front of me, every single woman bearing the lightest scent of perfume! Do you unprofessional brats here me? LINE UP!" Alma finished, her fierce and violent tone allowing for no rebuttal or argument. The male party-goers collectively breathed a sigh of relief, and marched off in near lock-step unison, leaving a bewildered crowd of increasingly scared-looking business women, many lightly disheveled from their moderate party-going. Alma's big, yellow reptilian slit eyes glared over the remaining crowd with such intensity, the nervous crowd of woman began wordlessly lining up in disorderly ranks before the dragoness. The women gathered before her all seemed fearful, and rightfully so, given the blue-scaled dragon woman's fearful predatory corporate reputation. Most of the women could guess that at least one female HCC employee was going to be spending the rest of their career churning in Alma's tight belly, and from the wild, angry look in her draconic eyes, they could guess it would be several women. The crowd collectively flinched, as Alma lunged forward, and began expertly sniffing at the group, using her keen senses to detect the guiltily perfumed culprits.*
+
+Alma is a consummate professional, but when her best efforts to produce a smooth, mildly enjoyable holiday party ends in a sad, wet gurgle, the scorned corporate dragoness vows to subject some prime, exotic office women to a sad, wet, gurgling end. Read as Alma discovers a new-found love for the flavor of Vanilla!
+
+### *The Botched Trial on 34th Street*
+{: .center}
+
+*<https://prompts.aidg.club/2809>*
+{: .center}
+
+![](https://files.catbox.moe/30n4r1.jpg)
+{: .center}
+
+>*As the judge swore in the jury I took a deep breath and looked over to my client, Mr. Kris Kringle. That's at least the name he provided to the authorities, he didn't have any form of ID on him when he was arrested. It is a convenient alibi for a man arrested for breaking and entering on Christmas Eve. He ignored my suggestion of taking a plea deal or pleading insanity. This guy really thinks he is Santa Claus and claims he was simply doing his job. It has already been a headache to represent him and I'm not looking forward to this trial. In the face of overwhelming evidence against him, it seems like the only way I'll be able to win this case is to somehow convince this jury that he is indeed Santa.*
+>
+>*Judge Harlow then turned his attention back to the rest of the court. "We will proceed with the case of the State of New York vs Kris Kringle," Judge Harlow said, "The prosecution may begin their opening statement."*
+
+A parody of Miracle on 34th street. Take the role of the role of Zachary Feinstein a public defender tasked with representing Kris Kringle in his criminal trial.
+
+### *Grandfather Frost*
+{: .center}
+
+*<https://prompts.aidg.club/2810>*
+{: .center}
+
+![](https://files.catbox.moe/ppn1hl.jpg)
+{: .center}
+
+>*The two climb onto the sleigh, Snegurochka wrapping herself in her furry cloak tightly despite not feeling the cold. It's business as usual, but, unlike the last few years, Ded Moroz does something new: Instead of taking the reigns, he gives them to the Snow Maiden.*
+>
+>*"This year, I trust you to guide my horses," he tells her firmly.*
+>
+>*Snegurachka's face lights up. "You mean it, Grandfather?"*
+>
+>*Ded Moroz nods.*
+>
+>*Before long, the six beautiful stallions start trotting into a light snowfall, the white steeds shining like they're made of the purest ice crystal snowflakes themselves.*
+
+Ded Moroz is the spirit of Winter, a stern, easily angered bogatyr facing off against the evil Baba Yaga, who wants nothing more than to have Moroz's yearly obligation of delivering gifts to good children a horrible drudge.
+
+### *All I Want for Christmas is a Christmas Cake*
+{: .center}
+
+*<https://prompts.aidg.club/2811>*
+{: .center}
+
+![](https://files.catbox.moe/vrk6yx.jpg)
+{: .center}
+
+>*"...You wanna talk about it?" I asked sympathetically.*
+>
+>*"Oh god, it's not even worth talking about," she groaned. "It's just... I was at the party earlier today... and hearing all the other women in the office tell all these stories about how great their life is and how they all have family or lovers to go home to..." she paused to wipe another tear. "...and I realized that I'm not going home to anybody tonight, and that I'm spending Christmas alone and without any plans, AGAIN. And then I just... broke down and cried. I haven't felt this low since... well ever actually. I'm pathetic. This is why I hate holidays. It makes me realize how lonely I am at my age."*
+>
+>*I have have an intense desire to ask just how old she is, but decide this probably isn't the best time. From what I could tell, while she had definitely seen better days (or years), she was still fairly attractive at her age, and I could tell she worked out and put a lot of effort into her appearance. So, I ended up just nodding along and offering some kind words.*
+>
+>*"Well, you're not alone," you say. "I'm sure there are plenty of people looking for company tonight."*
+
+A story about two lonely people finding comfort in each other on one of the loneliest days of the year.
+
+### *Chrimbus Kitsune*
+{: .center}
+
+*<https://prompts.aidg.club/2812>*
+{: .center}
+
+![](https://files.catbox.moe/owjwwy.jpg)
+{: .center}
+
+>*A jolt and a grunt coming from the sack returned Jake to what mattered. He glanced between the writhing sack and Satna. "So, you found a kitsune after ten years?"*
+>
+>*Satna looked at Jake incredulously before bursting out in a fit of laughter. "Found? My dear boy I interviewed! I didn't kidnap some random mythical being because some kid wished for it. That's a recipe for disaster," she explained, averting her gaze as she added "Trust me on that," under her breath.*
+>
+>*Jake swallowed, pausing to process this revelation before asking "So the one inside the sack is a volunteer? Why'd you put her in your sack then?"*
+>
+>*Satna fluttered her eyes at the question, almost looking offended. "Why, because she's a present after all! If I'm going to do ol' Nick's work for him I damn well make sure I stick with the proper protocol!"*
+
+When you were 8 you had wished for a kitsune. You misspelled Santa and Satna told you to be patient. Now, 10 years later Miss Satna delivered!
+
+### *A Very Spiritual Holiday*
+{: .center}
+
+*<https://prompts.aidg.club/2813>*
+{: .center}
+
+![](https://files.catbox.moe/w825ao.jpg)
+{: .center}
+
+>*Stepping closer, the man turns and faces me with a smile. "Ah, hail and well met, traveler! Hath thou come here to pray, or to stay?" he asks me with a friendly wave.*
+>
+>*Why is his phrasing so... oddly antiquated? While that question does bug me, I figure it to be rude to ask and instead just reply. "Hello there. I'm here to stay for a while. My name is Jake, and I've come from far away to visit this place because it's so nice and quiet here." I explain. "Are you an attendant here?"*
+>
+>*The man's expression turns somewhat mocking with a knowing smile. "Thou could say that. Mayest thou excuse mine... affectations, mine ears hath not heard much of thine modern tongue yet, despite mine best efforts. Yet be that as it may, to answer thine question, I hath attended to mine temple and its surrounding wonderments for what I believe thine kind call 'millennia'." he explains, and just as those words fully sink in and questions start bubbling up inside of me, I suddenly realize that his appearance has changed slightly—fox ears have appeared on his head, and a long, bushy tail now hangs behind him. "Pleasured to make thine acquaintance, Jake. As for mine appellation, 'Masaru' shall suffice. Mine kind be what thine call 'yokai', or 'demon' or 'spirit' in thine particular tongue, or at least I believe that be accurate enough for thine purposes." he adds.*
+>
+>*At this point, I've come to realize that this is a thing that's happening now, and I might as well just roll with it. "Alright, nice to meet you, Masaru."*
+
+Spending the holidays in a foreign land has always appealed to you, and so has spending them in a quiet, isolated place. Anything to get away from the same old family visits. This year, you've combined your two desires with a trip to Japan and a Christmas Eve hike through snowy countryside to a remote temple ground. You didn't expect to run into anyone there, but to your surprise, you won't be celebrating this Christmas Eve alone.
+
+### *Earning My Wings*
+{: .center}
+
+*<https://prompts.aidg.club/2814>*
+{: .center}
+
+![](https://files.catbox.moe/x5rnjd.jpg)
+{: .center}
+
+>*"Hey, you there."*
+>
+>*The kid nearly slips as they hear my voice. They turn to me and I see their face. There are deep bags under their eyes and their pasty skin has some blemishes. However, behind those imperfects are eyes that are deep pools of blue that have tears welling up in them. They give me a startled look and tighten their grip on the railing.*
+>
+>*"Wh... When did you get here?" They ask me with a tremble in their voice.*
+>
+>*"I could ask you the same, I guess I was too caught up in my own head to notice you," I reply.*
+>
+>*"Yeah... I guess me too," The teenager says as they look back over the bridge.*
+>
+>*There is silence between us for a second and I wonder what to do next. I haven't talked to someone for a few weeks and it's not like I am good at it beforehand.*
+>
+>*"Are you... going to try and stop me?" The kid asks.*
+>
+>*"Stop you? No, I actually came out here for the same reason," I scoff and move a little closer to them.*
+>
+>*"I see..." They say with their voice trailing off.*
+
+This is the story of two lonely people both thinking about committing suicide on Christmas Eve and then deciding to spend the Holiday together. What happens next is up to you.
+
+***
+
 ## The Friday of *Villainesses*
 {: .center}
 
 Let's make prompts about the antagonists, those like us but morally opposed; our greatest (female) adversaries.
 {: .center}
 
-*December 10th, 2021*
+[*December 10th, 2021*](#the-log)
 {: .center}
 
 ### *True Love's First (Cloacal) Kiss*
