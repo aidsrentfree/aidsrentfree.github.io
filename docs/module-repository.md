@@ -26,6 +26,14 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(25th December, 2021)
+
+- Go forth in the embrace of God.
+
+(24th December, 2021)
+
+- Updated [Anal](#anal) module with V4 successor.
+
 (22nd December, 2021)
 
 - Added [Extreme Horror](#extreme-horror) module.
@@ -56,21 +64,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Added [Diverse Cyberpunk (Annotated)](#diverse-cyberpunk-annotated) module.
 - Updated [Angels and Demons](#angels-and-demons) module with V4 successor.
 - Added [Aphrodite's Curse](#aphrodites-curse) module.
-
-(13th December, 2021)
-
-- Added [Disco Elysium Skills](#disco-elysium-skills) module.
-- Added [Sailor Moon](#sailor-moon) module.
-- Added [Genshin Impact](#genshin-impact) module.
-- Added [Starcraft](#starcraft) module.
-- Added [Is It Wrong to Try to Pick Up Girls in a Dungeon?](#is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon) module.
-
-(12th December, 2021)
-
-- Updated [Battletech](#battletech) module with V4 successor.
-- Added [R. A Lafferty](#raphael-aloysius-lafferty) module.
-- Added [Stygian Delving](#stygian-delving) module.
-- Updated [Communism](#communism) module with V4 successor.
 
 ***
 
@@ -231,6 +224,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Giantess](#giantess)
       - [Lolis and Shotas](#lolis-and-shotas)
     - [Acts](#acts)
+      - [Anal](#anal)
       - [Femdom](#femdom)
       - [Interracial Cuckoldry](#interracial-cuckoldry)
       - [Netorare](#netorare)
@@ -243,7 +237,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [Exponent](#exponent)
     - [Second Proseon](#second-proseon)
     - [(V3) /hmofa/](#v3-hmofa)
-    - [(V3) Anal](#v3-anal)
     - [(V3) ATR Degredation](#v3-atr-degredation)
     - [(V3) Cannibalism](#v3-cannibalism)
     - [(V3) Cross-Pornre](#v3-cross-pornre)
@@ -3037,6 +3030,22 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 #### [Acts](#sexual)
 
+##### [Anal](https://files.catbox.moe/q3y019.module)
+
+[by Graaarg](https://discord.com/channels/870618914323849228/870619535600922644/923855583382229032)
+
+*Retrained the same dataset from the original Literotica Anal module up there somewhere ^. Same conditions likely still apply. Will lean heavily MF but might work for MM if you twist Siggy's arm a bit.*
+
+*Top however many stories of the Anal category from jorfl's Literotica scrape. 8 MB, 2802 steps, 29.95% coverage.*
+
+>**My butt** is still stinging after I get up and walk over to him. I am in my nightshirt so he sees nothing when I turn around and sit on his lap. He wraps his arms around me, holding tight and kissing my hair and neck while we both wait for it to stop throbbing and feel better again.
+>
+>We have been talking about everything and then nothing as the evening has passed. We are both exhausted but not wanting to end this special day of being with each other. It feels very natural that we will share something even more special in the morning when it is daylight and easier to do so, and we will also know that no one can see or hear us now that everyone else is asleep and the house silent again after a fun filled family evening with our kids home for a couple days.
+>
+>The door closes quietly behind me, leaving just enough space for us to breathe in peace and be able to talk. "I don't want to make love," he says into the side of my hair. "Not yet." His hands rub along my sides gently until they cup my hips and he pushes me down to my knees and pulls off my panties from underneath.
+>
+>I am kneeling before him naked now and we look into each others eyes with desire burning deep in ours. Our tongues swirl together like a slow-moving current as his fingers slide up under my skirt and into my damp heat, caressing me with an exquisite tenderness and passion until I whimper loudly into our kiss.
+
 ##### [Femdom](https://files.catbox.moe/ksusci.module)
 
 [by Naliamegod](https://discord.com/channels/870618914323849228/870619535600922644/918464075581767700)
@@ -3161,26 +3170,6 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 *4.74mb, 2400~ish steps*
 
 *A collection of various /hmofa/ greentexts, prose stories, and a few entries from Snek's Pinwheel series.*
-
-#### [(V3) Anal](https://files.catbox.moe/oxdher.module)
-
-[by Graaarg](https://discord.com/channels/854479693503660032/870494065446248458/875219540898893914)
-
-*Yup. Wasn't happy with Sigurd's buttstuff prose. Thanks to jorfl for the Literotica scrape. Note that due to how Literotica categories typically work if you're after MM you're probably better off with the Gay Romance module. This will lean heavily MF. There's some bi-curious stuff in there, though, so it might work.*
-
->**I couldn't believe** what I was hearing.
->
->"So, you're telling me that this is the best thing for both of us?" she asked in disbelief. "You want to fuck my ass so bad? You can't wait until we get back home." She paused and then said quietly, as if it were a question. "Is that why you sent those pictures? To make sure I'd agree to do this?"
->
->She had me there! The images of her beautiful butt filled with cum from last night flashed through my mind. I felt like such an asshole now. I knew exactly how much she wanted to be fucked by another man's cock. And here I am thinking about fucking her ass when all along she has been wanting mine. But, damn did she have a great body! Her tits looked amazing and her pussy... well, I've never seen one look better than hers. It was shaved smooth and already dripping wet. I could see the outline of her clit under the hood. That alone made me hard just looking at her. Damn, she must really love sex!
->
->"Yeah," I admitted reluctantly. "That's part of it. But mostly..."
->
->"What's the other reason?" she asked, cutting off whatever excuse I tried to come up with.
->
->"Well, maybe not the whole reason but... I guess because I'm horny too!" I blurted out.
->
->"Really?!" she exclaimed. "Why didn't you say something earlier?"
 
 #### [(V3) ATR Degredation](https://files.catbox.moe/4enr2u.module)
 
