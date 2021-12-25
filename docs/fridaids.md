@@ -47,6 +47,9 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*A Very Spiritual Holiday*](#a-very-spiritual-holiday)
   - [*Earning My Wings*](#earning-my-wings)
   - [*Nemo A534 Defends the 506th SFW by Tying Up the Viet Cong*](#nemo-a534-defends-the-506th-sfw-by-tying-up-the-viet-cong)
+  - [*Snow Hiring*](#snow-hiring)
+  - [*A Good Man Wants to Get Naughty With Krampus*](#a-good-man-wants-to-get-naughty-with-krampus)
+  - [*Elf Under The Tree*](#elf-under-the-tree)
 - [The Friday of *Villainesses*](#the-friday-of-villainesses)
   - [*True Love's First (Cloacal) Kiss*](#true-loves-first-cloacal-kiss)
   - [*Ride the Tiger*](#ride-the-tiger)
@@ -370,9 +373,9 @@ A parody of Miracle on 34th street. Take the role of the role of Zachary Feinste
 >
 >*"This year, I trust you to guide my horses," he tells her firmly.*
 >
->*Snegurachka's face lights up. "You mean it, Grandfather?"*
+>*Snegurochka's face lights up. "You mean it, Grandfather?"*
 >
->*Ded Moroz nods.*
+>*Ded Moroz nods. "In Gods name, you've shown yourself a reliable helper since I had adopted you. I think you deserve more privileges", he says, giving her a sly wink.*
 >
 >*Before long, the six beautiful stallions start trotting into a light snowfall, the white steeds shining like they're made of the purest ice crystal snowflakes themselves.*
 
@@ -476,6 +479,61 @@ This is the story of two lonely people both thinking about committing suicide on
 >*Ngoc Bich spent hours carefully, slowly, acrobatically using the dense foliage surrounding Tan Son Nut airbase to mask her approach. About a mile outside the main airfield, she encountered a series of barbed-wire fences. They were well arranged, but the Viet Cong saboteur noticed a burrowed-out spot under one section of barbed fence, seemingly dug by some animal. She crawled forward toward it, realizing it would be the perfect entry-point, given her narrow frame. The small Vietnamese woman was nearly imperceptible in her black ao ba ba farmer's garb, crawling along the dense foliage of the jungle floor, as she made her way forward. A small pin-prick of pain bloomed across her back, as Bich suppressed the urge to yelp out as her thin, black clothes were torn down the back by the barbed-wire. She wasn't seriously scratched, but the back of her shirt, and the restraining band of her pants were torn, as the weight of the c4 in her pockets dragged her shredded pants down. Ho silently cursed to herself, gathering up her ruined pants as best she could as she awkwardly crawled forward. Refusing to give up, keeping low, she continued, hoping none of the Imperialist pigs guarding the compound would notice her.*
 
 Robert Thorneburg worried, like many young American men, that he would never return from the Vietnam war. But after establishing a profound link with his assigned German Shepherd, Nemo, his prospects of surviving are rising. In early December, weeks before the Tet Offensive, timed to coincide with the Lunar New Year Festival, the Strategic Fighter Wing hangared in Tan Son Nut airbase is threatened by Vietnamese infiltrators. Can Nemo protect his master, and the SFW from a vengeful Viet Cong soldier woman?
+
+### *Snow Hiring*
+{: .center}
+
+*<https://prompts.aidg.club/2816>*
+{: .center}
+
+![](https://files.catbox.moe/mozmms.jpg)
+{: .center}
+
+>*I close my eyes and take a deep breath.*
+>
+>*"Look, I don't know how you got here, or how you got your hands on that uniform, but I'm sorry to say that only elves get to work here," I tell the goblin girl. "It's the rules. Sorry, but I didn't make them."*
+>
+>*"Who made the rules?" she asks straight away.*
+>
+>*"Santa of course," I reply without thinking.*
+>
+>*"Good! That's who I need to talk with, then~" She says turning away to leave my office.*
+>
+>*"Okay, good luck..." I say, about to return to my paperwork. "Wait..."*
+
+A Human Resources worker at the North Pole finds himself in a tricky situation when a rather unexpected and rather green visitor enters his office.
+
+### *A Good Man Wants to Get Naughty With Krampus*
+{: .center}
+
+*<https://prompts.aidg.club/2818>*
+{: .center}
+
+![](https://files.catbox.moe/0hjzfy.jpg)
+{: .center}
+
+>*Krampus cooed down lovingly to Peter, once her mouth was unobstructed, huskily commanding down in her strange intonation "Miene katze ist wunderbar, Ja? Du warst such a naughty boy zis season miene pimmelman, Ich will... Ich will.. Uff, miene liebling, zis charade ist tiresomen." Krampus said, the mood in the dungeon suddenly changing as she clambered off his face with a wet squelch. Krampus continued "Miene Peter, du bist not a naughty boy, du bist a wunderbar, Good mann. Ich vant du, Peter. Vill du maken Krampus deiner hausfrau?" the black-furred demoness cooed down to him, as she hastily righted his chair. Peter didn't know how to respond, as she slowly undid his restraints, freeing him. The huge, muscular horned woman layed down on the cold dungeon floor, spreading her shaggy saytr legs, as she beckoned Peter over. "Ich liebe Dieb Peter..." murmured Krampus, as he realized he was ready for a second round of this illicit love-making.*
+
+Krampus is usually the yang to Santa's yin, counter-balancing the giving of gifts, with the wanton taking of naughty lives. But one Christmas eve, Santa is left in a bind, when a saint of a man requests to be scoured like a scoundrel by the sadistic, female, saytr demon. Krampus seems eager to take on the challenge, wanting to settle down with a nice man during the holidays, for a change.
+
+### *Elf Under The Tree*
+{: .center}
+
+*<https://prompts.aidg.club/2819>*
+{: .center}
+
+![](https://files.catbox.moe/cxdi0o.png)
+{: .center}
+
+>*"So... uh, Albert, is it? I don't want to be insulting, but that's not the name I would've expected for an elf." I reply, trying to make some idle small talk while I think about what's going on here.*
+>
+>*Albert pouts a little, but the smile quickly returns to his face. "Well, we already went through all the elf-y names up there at the North Pole, and we don't reuse names, since it'd get confusing. So I got one of the boring ones. But never mind that, I'm here to help you out!"*
+>
+>*"Wait... what? That's..." I can't even really respond, because that just has me floored.*
+>
+>*Again, he looks a bit disappointed for a moment before recovering. "C'mon, Phil. I just told you we know about your letters! So of course we know about the one you wrote a week ago where you talked about all your confusions and desires. I'm here to let you show your true self to me! So c'mon, let's go to your bedroom!"*
+
+The last year has seen a lot of changes for you as you slowly come to realize that your female friends are becoming less and less attractive to you... and your male friends more and more. However, great amounts of insecurity have led to you being firmly stuck in the closet and your mental health has suffered as a result. But this Christmas, you come to find that your tradition of writing a letter to Santa and then never sending it has somehow, in some way, reached someone. And now, you just might have someone that can help.
 
 ***
 
