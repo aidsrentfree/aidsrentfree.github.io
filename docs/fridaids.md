@@ -50,6 +50,10 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Snow Hiring*](#snow-hiring)
   - [*A Good Man Wants to Get Naughty With Krampus*](#a-good-man-wants-to-get-naughty-with-krampus)
   - [*Elf Under The Tree*](#elf-under-the-tree)
+  - [*The Mormon Who Filtered Coom-mas*](#the-mormon-who-filtered-coom-mas)
+  - [*Hot Elven Love in the Cold Halls of Santa's Workshops*](#hot-elven-love-in-the-cold-halls-of-santas-workshops)
+  - [*A Yandere Christmas*](#a-yandere-christmas)
+  - [*The Best Part of Waking Up*](#the-best-part-of-waking-up)
 - [The Friday of *Villainesses*](#the-friday-of-villainesses)
   - [*True Love's First (Cloacal) Kiss*](#true-loves-first-cloacal-kiss)
   - [*Ride the Tiger*](#ride-the-tiger)
@@ -534,6 +538,89 @@ Krampus is usually the yang to Santa's yin, counter-balancing the giving of gift
 >*Again, he looks a bit disappointed for a moment before recovering. "C'mon, Phil. I just told you we know about your letters! So of course we know about the one you wrote a week ago where you talked about all your confusions and desires. I'm here to let you show your true self to me! So c'mon, let's go to your bedroom!"*
 
 The last year has seen a lot of changes for you as you slowly come to realize that your female friends are becoming less and less attractive to you... and your male friends more and more. However, great amounts of insecurity have led to you being firmly stuck in the closet and your mental health has suffered as a result. But this Christmas, you come to find that your tradition of writing a letter to Santa and then never sending it has somehow, in some way, reached someone. And now, you just might have someone that can help.
+
+### *The Mormon Who Filtered Coom-mas*
+{: .center}
+
+*<https://prompts.aidg.club/2823>*
+{: .center}
+
+![](https://files.catbox.moe/4nie6w.jpg)
+{: .center}
+
+>*And the more the Mormon thought of these Coomers cooming,*
+>
+>*The more the Mormon thought, "I must stop this whole thing!*
+>
+>*Why for almost three years I've put up with it now!*
+>
+>*I must stop these perverts from coming! But how?"*
+>
+>*Then he got an idea! An awful idea!*
+>
+>*The Mormon got a wonderful, awful idea!*
+>
+>*"I know just what to do!" The Mormon laughed in his throat.*
+>
+>*"I'll make a quick regex filter."*
+
+Holy tortured rhymes, Coom-Man! Merry Christmas anons.
+
+### *Hot Elven Love in the Cold Halls of Santa's Workshops*
+{: .center}
+
+*<https://prompts.aidg.club/2824>*
+{: .center}
+
+![](https://files.catbox.moe/rdmg2i.jpg)
+{: .center}
+
+>*As Cinnamon carried the elf formerly known as Pinwheel into the bathroom, she stopped and turned down to her new life-partner, saying breathlessly "Okay, look... I've got a plan, okay?" Zaxpajnash nodding affirmatively, not liking the sound of it at all, given Cinnamon's clumsy track record. "I have a special ability I was told by Santa to keep secret... but it could come in handy here. Do you trust me Zaxbys?" Cinnamon said, a dim, but passionate glint in her eyes. The rebellious free-elf nodded again, not wanting to correct her, as she began gingerly lifting up her short, white-fluff frilled elven skirt, revealing her glistening, womanly folds to Zaxpajnash. The little elf man stared ahead, mesmerized, struggling to believe any of this was possible. "Just trust me, I'll get you out of here... I have a plan." Cinnamon repeated, as if more to reassure herself, as she reached forward, and gently picked up her little elf lover-man.*
+>
+>*She didn't even bother to remove his jangling, up-turned elf shoes, bells ringing on the curved toe-tips as she guided his feet towards her huge, hot slit.*
+
+Christmas doesn't just happen, Santa works hard to organize, delegate, and enforce his iron will upon the denizens of the North Pole. But when a pair of randy elves threatens the careful social, thought, and breeding controls he has relentlessly imposed on his diligent work-force, the abominable snow-men are summoned to settle the scene.
+
+### *A Yandere Christmas*
+{: .center}
+
+*<https://prompts.aidg.club/2825>*
+{: .center}
+
+>*"Oh, you're awake. Good," a familiar voice said, and I turned my head towards the sound. Angelica was sitting in a chair next to the bed. She was wearing a Santa outfit, the red dress with a fluffy white collar clinging to her curves. She looked good enough to eat.*
+>
+>*"Where am I?" I asked, still trying to wake up.*
+>
+>*"You are in my bed, you've been out for—" She glanced up at a clock mounted behind my bed. "—2 hours."*
+>
+>*"That long?" I muttered. When I attempt to sit up, Angelica all but jumped on top of me, pinning me back onto the bed.*
+>
+>*"No! You stay put!" she commanded, grabbing my wrists and holding them down with one hand. "Don't try to move." Her lips split open in a smile, but it wasn't the usual happy one that she made every time she saw me. It was twisted, demented, not quite reaching her eyes. "I still need to give you your present."*
+>
+>*"Give me my present?" I asked, trying to twist free. "What the hell is going on?"*
+>
+>*"Don't worry, I'll explain everything." She began to rub her hands along my chest, making my skin crawl. "But first, I want to enjoy the moment."*
+
+Your yandere girlfriend decides that she's going to give you a present, and you can't say no.
+
+### *The Best Part of Waking Up*
+{: .center}
+
+*<https://prompts.aidg.club/2826>*
+{: .center}
+
+![](https://files.catbox.moe/drrnjn.jpg)
+{: .center}
+
+>*I hand her a little box with a red bow tapped to the top of it. She looks at the box seemly appreciative for the gift. I take another sip of the heavenly Folgers coffee as a wave of ecstasy floods through me. She looks back and forth from her gift and me before peeling off the bow and sticking it onto my shirt.*
+>
+>*I laugh and ask her, "What are you doing?"*
+>
+>*She looks me in the eyes and say, "Your my present this year."*
+>
+>*I stare back at her for a bit as I feel the distance between us getting smaller. She is leaning in and it looks like she wants to kiss me. However my attention is drawn back to the cup of steamy coffee on the counter.*
+
+Parody of the infamous Folgers Incest commercial.
 
 ***
 
