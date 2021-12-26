@@ -29,6 +29,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 (26th December, 2021)
 
 - Updated [Manwhore's Module](#the-manwhore-module).
+- Updated [Cross-Genre](#cross-genre) with the V2 V4 successor.
 
 (25th December, 2021)
 
@@ -42,7 +43,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 - Added [Extreme Horror](#extreme-horror) module.
 - Added [Arrested Development](#arrested-development) module.
-- Contemplated the very real possibility of all this becoming effectively obsolete in a matter of months
+- Contemplated the very real possibility of all this becoming effectively obsolete in a matter of months.
 
 (21st December, 2021)
 
@@ -191,13 +192,13 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Sweet Time](#sweet-time)
     - [Style](#style)
       - [Bad Writing](#bad-writing)
+      - [Cross-Genre](#cross-genre)
       - [The Manwhore Module](#the-manwhore-module)
       - [Purely Purple Prose](#purely-purple-prose)
       - [Surrealistic Look Through The Glass](#surrealistic-look-through-the-glass)
     - [(V3) Androids, Artificial Intelligence, and Robots](#v3-androids-artificial-intelligence-and-robots)
     - [(V3) Catgirls](#v3-catgirls)
     - [(V3) Count Grey](#v3-count-grey)
-    - [(V3) Cross-Genre](#v3-cross-genre)
     - [(V3) Cross-Genre: Romance](#v3-cross-genre-romance)
     - [(V3) Duke Nukem](#v3-duke-nukem)
     - [(V3) Forbidden Lands (Encounters)](#v3-forbidden-lands-encounters)
@@ -2462,6 +2463,104 @@ Supporting Texts
 
 *I am legit making up crap because I have no idea how bad this module is.*
 
+##### [Cross-Genre](https://files.catbox.moe/4x7os9.module)
+
+[by OccultSage](https://discord.com/channels/854479693503660032/870494065446248458/923757949594259508)
+
+Drawing from across all sorts of genres ranging from science fiction to fantasy and western romances, this module mixes in quite a bit of spiciness -- or in the words of George Takei, "Oh My!"
+
+*25.6mb, 28,720 steps, 100% coverage, 2.711 loss*
+
+- Chrysanthemum, Rose, and the Samurai | Akahiege Namban | Historical Fantasy, Erotica, Japan
+- Shogun's Agents | Akahige Namban | ~
+- Woman of the Mountain, Warriors of the Town | Akahige Namban | ~
+- The Ten Thousand Doors of January | Alix E. Harrow | Fantasy, Surrealistic
+- Adin's Adventure - How To Ruin A Rescue | Andromeda Bliss | Science Fiction, Alien, Erotica
+- Sasha's Story - How To Find a Mate The Hard Way | Andromeda Bliss | ~
+- Neeri's Need - How to Crash a Party | Andromeda Bliss | ~
+- Brokeback Mountain | Annie Proulx | Romance, Western, Erotica, LGBT
+- The Claiming of Af | Bella Swann | Fantasy, Paranormal, Erotica
+- The Claiming of Anahita | Bella Swann | ~
+- The Claiming of Sophia | Bella Swann | ~
+- The Claiming of Iris | Bella Swann | ~
+- The Saloon Lawyer | C.J. Petit | Western
+- Courtesan Boot Camp | D.L. Jackson | Science Fiction, Erotica
+- Last Flight of the Ark | D.L. Jackson | ~
+- Dawn Comes Early | Margaret Brownley | Western Romance
+- Demon Hunter: The Breamstone Collective | Michael Dalton | Urban Fantasy, Harem Erotica
+- Stagecoach to Hell and Back | Derek Levine | Western
+- Good Intentions | Elliot Kay | Paranormal Fantasy, Erotica
+- Barbed Wire | Erin Wade | Western Romance, Erotica, LGBT
+- Accidental Abduction | Eve Langlais | Science Fiction, Alien, Erotica
+- The Forgotten Beasts of Eld | Patricia A. McKillip | Fantasy
+- Geisha, A Life | Mineko Iwasaki | Autobiography
+- Golem and the Jinni | Helene Wecker | Fantasy
+- Re-Wired | Greg Dragon | Science Fiction, Romance, Android
+- Single Wired Female | Greg Dragon | Science Fiction, Android, Romance
+- Battle Harem | Issac Hooke | Science Fiction, Harem
+- Kushiel's Scion | Jacqueline Carey | Fantasy, Romance
+- Kushiel's Dart | Jacqueline Carey | ~
+- One Heart To Win | Johanna Linsey | Western Romance
+- Wildfire in His Arms | Johanna Lindsey | ~
+- Marry Me By Sundown | Johanna Lindsey | ~
+- Tarnsman of Gor | John Norman | Science Fantasy, BDSM
+- Assassin of Gor | John Norman | ~
+- Priest-Kings of Gor | John Norman | ~
+- The Awakening | Kaitlyn O'Connor | Science Fiction, Erotica
+- A Lady of Rooksgrave Manor | Kathryn Moon | Paranormal Romance, Reverse Harem, Erotica
+- myGIRL - Elise | Liam | Science Fiction, Erotica, Android
+- Asylum: A Star Kingdom Novel | Lindsay Buroker | Science Fiction, Romance
+- Succubus Summoning 101 | M.E. Hydra | Urban Fantasy, Erotica
+- Augmented Tycoon | Marcus Sloss | Science Fiction, Erotica
+- Calico Spy | Margaret Brownley | Western Romance
+- Gunpowder Tea | Margaret Brownley | ~
+- Petticoat Detective | Margaret Brownley | ~
+- Undercover Bride | Margaret Brownley | ~
+- Waiting for Morning | Margaret Brownley | ~
+- Demon Hunter - Birthright | Michael Dalton | Urban Fantasy, Harem Erotica
+- Demon Hunter: The Vermillion Cabal Michael Dalton | ~
+- Angel Slayer | Michele Hauf | Paranormal Romance
+- The Sin Eater's Promise | Michele Hauf | ~
+- Why Have My Space Girls Gone Wild? Natalie Hunter | Science Fiction, Alien, Erotica
+- Neverwhere | Neil Gaiman | Fantasy, Surrealistic
+- Remember When | Nora Roberts | Romance, Crime
+- The Book of Atrix Wolfe | Patricia A. McKillip | Fantasy
+- Alien Comfort Women | S.L. Hadley | Science Fiction, Alien, Erotica
+- Man, Made to Order | Victoria Kinkade | Science Fiction, Android, Erotica
+- Lady Nijo's Own Story | Wilfred Whitehouse & Eizo Yanagisawa, Biography
+- Riders of the Purple Sage | Zane Grey | Western
+
+>**The alien girl with tentacles approached me, and my eyes were arrested** by her strange beauty. She had a face like an angel, but the rest of her was covered in those blue-green skin tentacles. I tried to speak as she approached, "Hello?"
+>
+>"Are you human?" Her voice was low and melodic, and it sent shivers down my spine. My mouth went dry when she spoke, and then suddenly, I felt a surge of energy rush through me. It was almost overwhelming, and then the world around me faded away. The only thing that remained was this beautiful creature with blue green skin and glowing red eyes staring at me intently. This was no dream or fantasy; it was real.
+>
+>I looked into her eyes, trying desperately to think of something witty or funny to say. What came out instead was just a nervous laugh. Somehow, even though we were alone together, I could not bring myself to believe what I saw before me was actually another person. We stared at each other for a moment longer, and then I found myself speaking.
+>
+>"Yes," I said finally. "But don't worry about it."
+>
+>She smiled warmly, and I noticed that her teeth were very sharp. Then she reached up and touched my cheek softly. That touch seemed to linger forever, and suddenly everything became clear again. My body felt so light, and all of my senses were heightened. There was nothing more than the two of us here. No one else mattered. All I wanted to do was look at her forever. She pulled back slightly and whispered in my ear, "You are truly amazing."
+>
+>My heart began racing faster, and my mind raced too. I did not know how to respond, and so I decided to keep quiet and let her lead the conversation. As if on cue, she leaned forward again and kissed me gently on the lips. It was soft and tender, and my whole body responded instantly. I wanted her to kiss me harder, but I knew that would be wrong somehow. Instead, I closed my eyes and held onto her tightly. When our tongues met, it was electric. A jolt ran from my toes straight up to my head, and I thought that maybe this wasn't such a bad idea after all.
+>
+>As our tongues danced together, I found myself becoming lost in the moment. Everything else fell away except for this beautiful woman with blue-green skin.
+
+>**The succubus laughed and approached me with her hips swaying**. "You can't resist my charms?" She asked in a husky voice, running her tongue over the bottom of her teeth as she smiled at me seductively. Her breasts were big and heavy but perfectly proportioned to her slim body, bouncing gently when she walked around the room. I had no idea what she was talking about; surely I could not have resisted such beauty? My mouth watered at the thought of tasting her lips again. I swallowed hard against the sudden lump in my throat.
+>
+>"I don't know," I answered truthfully, "you are very beautiful."
+>
+>She cocked her head to one side and eyed me curiously for a moment before turning away from me and walking towards the window where she stood looking out into the night. The moonlight illuminated her perfect features, highlighting every curve of her body. I couldn't take my eyes off her. Even though she wore only a black negligee that barely covered her ample breasts and rounded ass, she still looked stunningly erotic. A chill ran down my spine as I watched her stand there naked, bathed in moonlight. It felt like someone else's skin; cold and smooth, almost alien. Her hair flowed down past her shoulders, a silvery white in the light of the moon. Her long legs were toned and muscular, with delicate feet clad in red high heels. The contrast between her dark skin and pale hair made her look exotic, almost unreal.
+>
+>Her fingers traced patterns on the glass pane, tracing invisible designs in the air. For some reason it reminded me of another woman who also had long flowing hair and painted fingernails. Perhaps this was why I found myself staring at her so intently. As if sensing my gaze, she turned back to face me. There was something different about her expression now; a sense of urgency or danger that sent a shiver through my body. She stepped forward until we were nearly touching, her hands reaching up to caress my chest. I gasped involuntarily at her touch, feeling the heat rising within me.
+>
+>"Do you want me?" She whispered in my ear, "Will you come to me tonight?"
+>
+>My heart pounded in my ears and my mouth went dry.
+
+>**The wolf man approached me, his arousal already evident, knot swelling** in the thick black shaft. I wanted to run but my body was weak and trembling with fear. My only hope lay in getting him inside of me before he could take control. If I could just get him hard enough then maybe we'd have a chance at surviving this situation. His scent filled my nostrils as he neared. It smelled like musk mixed with cinnamon and something else that sent shivers down my spine. The fur on his head tickled against my cheek as he lowered himself onto me, burying his face into my neck while his hands roamed over every inch of exposed skin they could reach. He growled deep in his throat and bit gently on my shoulder, causing pain to shoot through my body. With his teeth still locked around my flesh he pulled back slightly, leaving an imprint of his fangs behind. His cock pushed against my stomach as it slid up between us until finally entering my waiting pussy. A jolt of pleasure shot through me and I moaned loudly, my eyes rolling back in ecstasy.
+>
+>"I am going to fuck you so good," he said quietly into my ear, "you are mine now." As soon as those words left his lips I felt myself start to lose control, my body responding without thought or reason. I let out a loud moan as his fingers dug into my hips, pulling me tightly against him. He thrust his way deeper inside of me, his body pushing against my own. Our bodies were pressed together, rubbing against each other.
+
+
 ##### [The Manwhore Module](https://files.catbox.moe/cqauhx.module)
 
 [by Manwhore](https://arch.b4k.co/vg/thread/365584149/#365600382)
@@ -2561,19 +2660,6 @@ Supporting Texts
 [by Chris](https://discord.com/channels/836774308772446268/870449646391156776/888963250560069713)
 
 *A module trained on Count Grey's familiar stories.*
-
-#### [(V3) Cross-Genre](https://files.catbox.moe/4x7os9.module)
-
-[by OccultSage](https://discord.com/channels/836774308772446268/870449646391156776/872522180997546085)
-
-[10K Steps Vers.](https://files.catbox.moe/jwc6cb.module)
-
-[20MB 22K Steps Vers.](https://files.catbox.moe/d5vy58.module)
-
-*"Hmm," thought OccultSage, " ... what would happen if I tossed in books from my curated and edited pile, and balanced out the influence for a 25% sampling?" This is the result of mixing in Genroku era, surrealist, post-apocalypse and Greek mythology.*
-
-*The result seems to be a general prose/plot-enhancer that can be nudged in the direction of multiple genres easily.*
-
 #### [(V3) Cross-Genre: Romance](https://files.catbox.moe/lxcp9b.module)
 
 [by Cass](https://discord.com/channels/836774308772446268/870449646391156776/874117712668942388)
