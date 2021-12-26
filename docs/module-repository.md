@@ -30,6 +30,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 - Updated [Manwhore's Module](#the-manwhore-module).
 - Updated [Cross-Genre](#cross-genre) with the V2 V4 successor.
+- Added [Kitty's Winter Fantasy](#winter-fantasy) module.
 
 (25th December, 2021)
 
@@ -139,6 +140,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Poetic Fantasy](#poetic-fantasy)
       - [Russian Fantasy and Folklore](#russian-fantasy-and-folklore)
       - [Smalltown Folklore](#smalltown-folklore)
+      - [Winter Fantasy](#winter-fantasy)
     - [(V3) Action Movies](#v3-action-movies)
     - [(V3) Ancient Historical Rome](#v3-ancient-historical-rome)
     - [(V3) Ancient Rome](#v3-ancient-rome)
@@ -1491,6 +1493,42 @@ He fights against the rising panic, forcing himself to stay calm. There is nothi
 *Ever wondered what was goin' on in the middle of nowhere? Find out! Based on the works of Garrison Keillor and Stuart McLean.*
 
 *110% Coverage, 3.7k Steps.*
+
+##### [Winter Fantasy](https://files.catbox.moe/wd6tka.module)
+
+[by Kitty](https://discord.com/channels/836774308772446268/870449646391156776/924676242559627345)
+
+*Russian, Norwegian, Polish, Danish, Scottish, English, and Inuit fantasy! Trained on nine wintry tales both old and modern, inspired by folklore.*
+
+*(3.9mb, 4556 steps, 100% coverage, 2.59 loss)*
+
+- At the Back of the North Wind - ***George Macdonald***
+- Spinning Silver - ***Naomi Novik***
+- The Bear and the Nightingale - ***Katherine Arden***
+- The Ice Dragon - ***George R. R. Martin***
+- The Lion, The Witch, and The Wardrobe - ***C.S. Lewis***
+- The Snow Child - ***Eowyn Ivey***
+- The Snow Queen - ***Hans Christian Anderson***
+- The Wolf in The Whale - ***Jordanna Max Brodsky***
+- Wintersmith - ***Terry Pratchett***
+
+*Highly advised to strongly bias against Diamond (North Wind) and Tiffany (Wintersmith), as those one-token names appear quite often otherwise.*
+
+Sample Output (-0.3 Diamond/Tiffany, no prompt)
+
+>The winter had been hard, and the snow deep. The sun shone bright on a world covered in white; it was like looking at the sky through clouds of milk. And then there came a day when the sun did not shine, only because the air was too cold to hold any heat. There were no stars that night, and no moon, so everything seemed dark, except for the light from the fires burning inside every house. In the middle of the village, near the river, where the houses were thickest, a man named Sami set out his firewood. He piled it high, but still he could see nothing in front of him. Then he took off his parka and sat down beside his woodpile. His wife had died two winters before, and now his daughter was married and living far away.
+
+Sample Output (cont.):
+
+>The door opened, and a small girl with golden hair stood in the doorway. Her eyes were blue as the sky above us, but her face was pale like the snow that lay upon the ground. She wore a long dress of white samite, embroidered with gold thread around the hem and sleeves, and she carried a basket over one arm. A large bundle of folded cloth hung from it.
+>
+>"I'm here to see my father," she said.
+>
+>Her voice sounded familiar, though I could not place where I had heard it before. The little girl stepped into the room and looked around at all of us, her gaze lingering longest on me. Then she turned back to the woman who sat behind the table. "Is he ready?"
+>
+>"He is." The woman gestured toward a chair by the fire. "Come sit down and tell him your name."
+
+>"It's not that I don't trust you," said Prince Ivan. "I just think it would be a bad idea." He and his wife, the Tsaritsa Olga, were sitting in their private room at Kitaigorod Palace, eating dinner. They had been married for nearly twenty years; they had five children between them. The eldest of those children was only ten years old, but already he could ride a horse, hunt with hounds, and shoot well enough to keep up with the other boys his age. The Tsaritsa was still beautiful: her hair dark red, her eyes blue, her skin smooth as cream. Her husband, though... well, he looked like a bear. Not an angry one—he wasn't angry, or even particularly cross. Just a big, hairy, powerful-looking bear who had come out of nowhere, snatched up a kingdom from its rightful owner, and brought it home with him.
 
 #### [(V3) Action Movies](https://files.catbox.moe/91n3eo.module)
 
