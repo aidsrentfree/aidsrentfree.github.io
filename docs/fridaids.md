@@ -54,6 +54,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Hot Elven Love in the Cold Halls of Santa's Workshops*](#hot-elven-love-in-the-cold-halls-of-santas-workshops)
   - [*A Yandere Christmas*](#a-yandere-christmas)
   - [*The Best Part of Waking Up*](#the-best-part-of-waking-up)
+  - [*Santa Conquers the Reptilians!*](#santa-conquers-the-reptilians)
 - [The Friday of *Villainesses*](#the-friday-of-villainesses)
   - [*True Love's First (Cloacal) Kiss*](#true-loves-first-cloacal-kiss)
   - [*Ride the Tiger*](#ride-the-tiger)
@@ -621,6 +622,21 @@ Your yandere girlfriend decides that she's going to give you a present, and you 
 >*I stare back at her for a bit as I feel the distance between us getting smaller. She is leaning in and it looks like she wants to kiss me. However my attention is drawn back to the cup of steamy coffee on the counter.*
 
 Parody of the infamous Folgers Incest commercial.
+
+### *Santa Conquers the Reptilians!*
+{: .center}
+
+*<https://prompts.aidg.club/2830>*
+{: .center}
+
+![](https://files.catbox.moe/i0xq55.jpg)
+{: .center}
+
+>*Staring with blood-shot eyes at the flickering monitor screen, working the cigar smoke around in his mouth, Santa gazed longingly into the honest eyes of this revelatory prophet. Alex's masculine, wobbling jowls flushed with righteous indignation as he tore on, fire in his hazel blue-green eyes. Santa hung on every word "These fucking... These fucking 'things, they're goddamn lizards! Can you imagine? Goddamn lizard people, running the world!" Santa soundlessly mouthed along with Alex's passionate rant, mouth agape in awe. "Weather wars, earth-quake weapons, false-flag mass shootings, stuff I can't even TALK about! They are CHURNING OUR CHILDREN into fucking ADRENOCHROME! all this SHIT is being thrown at us from their underground bases! And do you know where this is being centrally conducted from, my loyal InfoWars viewers? A base on the motherfucking moon!" Alex continued, making explosion effects with his hands and mouth for emphasis.*
+>
+>*Santa nodded to the brave orator on the screen, vowing quietly "Not today, not this fucking Christmas. This stops here." as he radioed the flight-tower of his airstrip and sled-hangar, ordering his sleeping reindeer be readied.*
+
+When Alex fills Santa in on the scoop about adrenochrome supping reptilian ne'er-do-wells, Santa knows what he must do this Christmas. Save the earth from these despicable alien invaders, and simultaneously reward a young child, scorned and ridiculed for her sublime innocence.
 
 ***
 
