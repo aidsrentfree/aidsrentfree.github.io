@@ -26,6 +26,10 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(26th December, 2021)
+
+- Updated [Manwhore's Module](#the-manwhore-module).
+
 (25th December, 2021)
 
 - Go forth in the embrace of God.
@@ -2458,21 +2462,18 @@ Supporting Texts
 
 *I am legit making up crap because I have no idea how bad this module is.*
 
-##### [The Manwhore Module](https://files.catbox.moe/bi08mv.module)
+##### [The Manwhore Module](https://files.catbox.moe/cqauhx.module)
 
-[by Manwhore](https://arch.b4k.co/vg/thread/363371321/#363469298)
+[by Manwhore](https://arch.b4k.co/vg/thread/365584149/#365600382)
 
-*A most pleasant evening to you, my fellow coomers!*
+*Merry Christmas, ya filthy coomers! Hope you're all having a wonderful holiday. Hard to believe we're still alive and kicking for another holiday season, huh? Feels like just yesterday we were all popping 2000 character prompts into Dragon and adjusting one single slider bar to change our output quality. How times change...*
 
-*I emerge once again from my musty laboratory with a brand new machination of maniacal masturbation for your general meddling and mutilation. Indeed, this is no version bump, but a brand-new module I have produced following a strange line of thinking: reducing my training data. Sounds weird, I know, but I decided to conduct a thorough audit of all the stuff I had thrown into the original Manwhore Module, and discovered that a lot of it was some mixture of out-dated, cringe, or unchecked AI-spooled mush.*
+*On that note, here's the closest thing I got to a Christmas present for you bros: a brand-new version of my template, which includes a bump to my minimalist module. The scenario description has the full details as always, but this one's got some radical changes going on under the hood to hopefully make your outputs saucier than ever. Hope it treats you well.*
 
-*This resulted in a purge of nearly 70% of the module's extant data, which had me very concerned. But, in a real "eh fuck it moment", I decided to clean, format, and train a module on what remained instead of waiting to beef up the dataset with new written material. The results were... shocking, to say the least. It's almost embarrassing to admit, but this module and its newly-derived series of accompanying settings actually performs better than the original Manwhore Module on all my test runs by a considerable (subjective) margin. Just like its predecessor, this module is trained to excel at a wide range of first-person storytelling, with a general focus on smut/romance with monster-girls.
+*Template Scenario: https://files.catbox.moe/obqhv0.scenario*
 
-*Here is the new template scenario, which includes updated companion settings, phrase biases, and banned tokens: https://files.catbox.moe/l7t0w9.scenario*
+*Here's to another year of crazy fucking cooming, my dudes. Enjoy.*
 
-*This new template version represents another round of refinements for my low-randomness TFS formula: a 0.005 increase in randomness to help cure a lack of initiative from the AI, maximized output length, a mildly-incremented TFS value, extended repetition penalty range, and the addition of 'tight' to the banned tokens—because holy shit that word gets annoying.*
-
-*Hope it treats you well, bros. Enjoy.*
 ##### [Purely Purple Prose](https://drive.google.com/file/d/17iMgCgBeBYr-TEe81ekuEJRsCukZzL1D/view?usp=sharing)
 
 [by Dichotomy](https://discord.com/channels/836774308772446268/870449646391156776/908617137835360296)
