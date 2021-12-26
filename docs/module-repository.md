@@ -2509,64 +2509,64 @@ Drawing from across all sorts of genres ranging from science fiction to fantasy 
 
 *25.6mb, 28,720 steps, 100% coverage, 2.711 loss*
 
-- Chrysanthemum, Rose, and the Samurai | Akahiege Namban | Historical Fantasy, Erotica, Japan
-- Shogun's Agents | Akahige Namban | ~
-- Woman of the Mountain, Warriors of the Town | Akahige Namban | ~
-- The Ten Thousand Doors of January | Alix E. Harrow | Fantasy, Surrealistic
-- Adin's Adventure - How To Ruin A Rescue | Andromeda Bliss | Science Fiction, Alien, Erotica
-- Sasha's Story - How To Find a Mate The Hard Way | Andromeda Bliss | ~
-- Neeri's Need - How to Crash a Party | Andromeda Bliss | ~
-- Brokeback Mountain | Annie Proulx | Romance, Western, Erotica, LGBT
-- The Claiming of Af | Bella Swann | Fantasy, Paranormal, Erotica
-- The Claiming of Anahita | Bella Swann | ~
-- The Claiming of Sophia | Bella Swann | ~
-- The Claiming of Iris | Bella Swann | ~
-- The Saloon Lawyer | C.J. Petit | Western
-- Courtesan Boot Camp | D.L. Jackson | Science Fiction, Erotica
-- Last Flight of the Ark | D.L. Jackson | ~
-- Dawn Comes Early | Margaret Brownley | Western Romance
-- Demon Hunter: The Breamstone Collective | Michael Dalton | Urban Fantasy, Harem Erotica
-- Stagecoach to Hell and Back | Derek Levine | Western
-- Good Intentions | Elliot Kay | Paranormal Fantasy, Erotica
-- Barbed Wire | Erin Wade | Western Romance, Erotica, LGBT
-- Accidental Abduction | Eve Langlais | Science Fiction, Alien, Erotica
-- The Forgotten Beasts of Eld | Patricia A. McKillip | Fantasy
-- Geisha, A Life | Mineko Iwasaki | Autobiography
-- Golem and the Jinni | Helene Wecker | Fantasy
-- Re-Wired | Greg Dragon | Science Fiction, Romance, Android
-- Single Wired Female | Greg Dragon | Science Fiction, Android, Romance
-- Battle Harem | Issac Hooke | Science Fiction, Harem
-- Kushiel's Scion | Jacqueline Carey | Fantasy, Romance
-- Kushiel's Dart | Jacqueline Carey | ~
-- One Heart To Win | Johanna Linsey | Western Romance
-- Wildfire in His Arms | Johanna Lindsey | ~
-- Marry Me By Sundown | Johanna Lindsey | ~
-- Tarnsman of Gor | John Norman | Science Fantasy, BDSM
-- Assassin of Gor | John Norman | ~
-- Priest-Kings of Gor | John Norman | ~
-- The Awakening | Kaitlyn O'Connor | Science Fiction, Erotica
-- A Lady of Rooksgrave Manor | Kathryn Moon | Paranormal Romance, Reverse Harem, Erotica
-- myGIRL - Elise | Liam | Science Fiction, Erotica, Android
-- Asylum: A Star Kingdom Novel | Lindsay Buroker | Science Fiction, Romance
-- Succubus Summoning 101 | M.E. Hydra | Urban Fantasy, Erotica
-- Augmented Tycoon | Marcus Sloss | Science Fiction, Erotica
-- Calico Spy | Margaret Brownley | Western Romance
-- Gunpowder Tea | Margaret Brownley | ~
-- Petticoat Detective | Margaret Brownley | ~
-- Undercover Bride | Margaret Brownley | ~
-- Waiting for Morning | Margaret Brownley | ~
-- Demon Hunter - Birthright | Michael Dalton | Urban Fantasy, Harem Erotica
-- Demon Hunter: The Vermillion Cabal Michael Dalton | ~
-- Angel Slayer | Michele Hauf | Paranormal Romance
-- The Sin Eater's Promise | Michele Hauf | ~
-- Why Have My Space Girls Gone Wild? Natalie Hunter | Science Fiction, Alien, Erotica
-- Neverwhere | Neil Gaiman | Fantasy, Surrealistic
-- Remember When | Nora Roberts | Romance, Crime
-- The Book of Atrix Wolfe | Patricia A. McKillip | Fantasy
-- Alien Comfort Women | S.L. Hadley | Science Fiction, Alien, Erotica
-- Man, Made to Order | Victoria Kinkade | Science Fiction, Android, Erotica
-- Lady Nijo's Own Story | Wilfred Whitehouse & Eizo Yanagisawa, Biography
-- Riders of the Purple Sage | Zane Grey | Western
+- Chrysanthemum, Rose, and the Samurai \| Akahiege Namban \| Historical Fantasy, Erotica, Japan
+- Shogun's Agents \| Akahige Namban \| ~
+- Woman of the Mountain, Warriors of the Town \| Akahige Namban \| ~
+- The Ten Thousand Doors of January \| Alix E. Harrow \| Fantasy, Surrealistic
+- Adin's Adventure - How To Ruin A Rescue \| Andromeda Bliss \| Science Fiction, Alien, Erotica
+- Sasha's Story - How To Find a Mate The Hard Way \| Andromeda Bliss \| ~
+- Neeri's Need - How to Crash a Party \| Andromeda Bliss \| ~
+- Brokeback Mountain \| Annie Proulx \| Romance, Western, Erotica, LGBT
+- The Claiming of Af \| Bella Swann \| Fantasy, Paranormal, Erotica
+- The Claiming of Anahita \| Bella Swann \| ~
+- The Claiming of Sophia \| Bella Swann \| ~
+- The Claiming of Iris \| Bella Swann \| ~
+- The Saloon Lawyer \| C.J. Petit \| Western
+- Courtesan Boot Camp \| D.L. Jackson \| Science Fiction, Erotica
+- Last Flight of the Ark \| D.L. Jackson \| ~
+- Dawn Comes Early \| Margaret Brownley \| Western Romance
+- Demon Hunter: The Breamstone Collective \| Michael Dalton \| Urban Fantasy, Harem Erotica
+- Stagecoach to Hell and Back \| Derek Levine \| Western
+- Good Intentions \| Elliot Kay \| Paranormal Fantasy, Erotica
+- Barbed Wire \| Erin Wade \| Western Romance, Erotica, LGBT
+- Accidental Abduction \| Eve Langlais \| Science Fiction, Alien, Erotica
+- The Forgotten Beasts of Eld \| Patricia A. McKillip \| Fantasy
+- Geisha, A Life \| Mineko Iwasaki \| Autobiography
+- Golem and the Jinni \| Helene Wecker \| Fantasy
+- Re-Wired \| Greg Dragon \| Science Fiction, Romance, Android
+- Single Wired Female \| Greg Dragon \| Science Fiction, Android, Romance
+- Battle Harem \| Issac Hooke \| Science Fiction, Harem
+- Kushiel's Scion \| Jacqueline Carey \| Fantasy, Romance
+- Kushiel's Dart \| Jacqueline Carey \| ~
+- One Heart To Win \| Johanna Linsey \| Western Romance
+- Wildfire in His Arms \| Johanna Lindsey \| ~
+- Marry Me By Sundown \| Johanna Lindsey \| ~
+- Tarnsman of Gor \| John Norman \| Science Fantasy, BDSM
+- Assassin of Gor \| John Norman \| ~
+- Priest-Kings of Gor \| John Norman \| ~
+- The Awakening \| Kaitlyn O'Connor \| Science Fiction, Erotica
+- A Lady of Rooksgrave Manor \| Kathryn Moon \| Paranormal Romance, Reverse Harem, Erotica
+- myGIRL - Elise \| Liam \| Science Fiction, Erotica, Android
+- Asylum: A Star Kingdom Novel \| Lindsay Buroker \| Science Fiction, Romance
+- Succubus Summoning 101 \| M.E. Hydra \| Urban Fantasy, Erotica
+- Augmented Tycoon \| Marcus Sloss \| Science Fiction, Erotica
+- Calico Spy \| Margaret Brownley \| Western Romance
+- Gunpowder Tea \| Margaret Brownley \| ~
+- Petticoat Detective \| Margaret Brownley \| ~
+- Undercover Bride \| Margaret Brownley \| ~
+- Waiting for Morning \| Margaret Brownley \| ~
+- Demon Hunter - Birthright \| Michael Dalton \| Urban Fantasy, Harem Erotica
+- Demon Hunter: The Vermillion Cabal Michael Dalton \| ~
+- Angel Slayer \| Michele Hauf \| Paranormal Romance
+- The Sin Eater's Promise \| Michele Hauf \| ~
+- Why Have My Space Girls Gone Wild? Natalie Hunter \| Science Fiction, Alien, Erotica
+- Neverwhere \| Neil Gaiman \| Fantasy, Surrealistic
+- Remember When \| Nora Roberts \| Romance, Crime
+- The Book of Atrix Wolfe \| Patricia A. McKillip \| Fantasy
+- Alien Comfort Women \| S.L. Hadley \| Science Fiction, Alien, Erotica
+- Man, Made to Order \| Victoria Kinkade \| Science Fiction, Android, Erotica
+- Lady Nijo's Own Story \| Wilfred Whitehouse & Eizo Yanagisawa, Biography
+- Riders of the Purple Sage \| Zane Grey \| Western
 
 >**The alien girl with tentacles approached me, and my eyes were arrested** by her strange beauty. She had a face like an angel, but the rest of her was covered in those blue-green skin tentacles. I tried to speak as she approached, "Hello?"
 >
