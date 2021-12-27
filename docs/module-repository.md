@@ -26,6 +26,10 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(27th December, 2021)
+
+- Added [Furry Yuri](#furryuri) module.
+
 (26th December, 2021)
 
 - Updated [Manwhore's Module](#the-manwhore-module).
@@ -56,20 +60,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 - Updated [Mass Effect](#mass-effect) module with V4 successor.
 - Updated [Stephen King](#stephen-edwin-king) module with a V4 successor at the original author's request.
-
-(19th December, 2021)
-
-- Updated [A Song of Ice and Fire](#a-song-of-ice-and-fire) module with V4 successor.
-- Added [Elizabethan/Jacobean Fantasy](#elizabethanjacobean-fantasy) module.
-
-(17th December, 2021)
-
-- Updated [Warriors](#warriors) module with V4 successor (and later improvement)
-- Added [Disco Elysium: Conversations](#disco-elysium-conversations) module.
-- Added [Kitsune](#kitsunes) module.
-- Added [Diverse Cyberpunk (Annotated)](#diverse-cyberpunk-annotated) module.
-- Updated [Angels and Demons](#angels-and-demons) module with V4 successor.
-- Added [Aphrodite's Curse](#aphrodites-curse) module.
 
 ***
 
@@ -238,6 +228,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [Circumstances](#circumstances)
       - [Embarrassed Naked Furry](#embarrassed-naked-furry)
       - [Furry (Short Stories)](#furry-short-stories)
+      - [Furryuri](#furryuri)
       - [Gender Bender](#gender-bender)
       - [Girl Thoughts](#girl-thoughts)
       - [Scalyuri](#scalyuri)
@@ -3212,6 +3203,12 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 *A general furry module not focusing on particular species or topics. The module is trained on a vast amount of short and medium-sized texts. Most of them are NSFW, both M/F and M/M, without any extreme fetishes, apart from several BDSM stories. A fair amount of dragon/gryphon material is included, too. As you can see from the examples, this module makes NAI horny from the very start. 96 hand-picked and cleaned furry novels and short stories taken from FurAffinity and several other sources.*
 
 *5.2 Mb, 2411 steps, 40% coverage, Loss: 2.696.*
+
+##### [Furryuri](https://files.catbox.moe/qtewzd.module)
+
+[by](https://arch.b4k.co/vg/thread/365584149/#365703825) [Anons](https://arch.b4k.co/vg/thread/365584149/#365705379)
+
+*Here's a dataset for a Furry Yuri module, with some bondage scattered around in there. I didn't train the v3 one, but hopefully it's more curated than that one, as I could only ever get it to output "paw" as a furry-related word.*
 
 ##### [Gender Bender](https://files.catbox.moe/ghe5n6.module)
 
