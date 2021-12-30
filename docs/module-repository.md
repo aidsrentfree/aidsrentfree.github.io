@@ -26,6 +26,10 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(30th December, 2021)
+
+- Added [Cock Worship](#cock-worship) module.
+
 (27th December, 2021)
 
 - Added [Furry Yuri](#furryuri) module.
@@ -222,6 +226,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Lolis and Shotas](#lolis-and-shotas)
     - [Acts](#acts)
       - [Anal](#anal)
+      - [Cock Worship](#cock-worship)
       - [Femdom](#femdom)
       - [Interracial Cuckoldry](#interracial-cuckoldry)
       - [Netorare](#netorare)
@@ -3161,6 +3166,15 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 >The door closes quietly behind me, leaving just enough space for us to breathe in peace and be able to talk. "I don't want to make love," he says into the side of my hair. "Not yet." His hands rub along my sides gently until they cup my hips and he pushes me down to my knees and pulls off my panties from underneath.
 >
 >I am kneeling before him naked now and we look into each others eyes with desire burning deep in ours. Our tongues swirl together like a slow-moving current as his fingers slide up under my skirt and into my damp heat, caressing me with an exquisite tenderness and passion until I whimper loudly into our kiss.
+
+##### [Cock Worship](https://files.catbox.moe/e6f5j3.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/366193838/#366223506)
+
+*I cleaned the source data and recompiled the module. 7MB of literotica oral smut (oral focused, not just mentioned) at 8000 steps (100%)*
+
+![](https://files.catbox.moe/n31fge.jpg)
+{: .center}
 
 ##### [Femdom](https://files.catbox.moe/ksusci.module)
 
