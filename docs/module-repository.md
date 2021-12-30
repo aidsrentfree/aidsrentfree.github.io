@@ -29,6 +29,8 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 (30th December, 2021)
 
 - Added [Cock Worship](#cock-worship) module.
+- Updated [Girls Frontline](#girls-frontline) module with V4 successor.
+- Added [garfield.txt](#garfieldtxt) module.
 
 (27th December, 2021)
 
@@ -103,6 +105,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [The Elder Scrolls](#the-elder-scrolls)
       - [Final Fantasy XVI](#final-fantasy-xvi)
       - [Genshin Impact](#genshin-impact)
+      - [Girls Frontline](#girls-frontline)
       - [Mad Max](#mad-max)
       - [Mass Effect](#mass-effect)
       - [Sailor Moon](#sailor-moon)
@@ -145,7 +148,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Forgotten Realms](#v3-forgotten-realms)
     - [(V3) Four Horsemen Universe](#v3-four-horsemen-universe)
     - [(V3) Furry Scipunktasy](#v3-furry-scipunktasy)
-    - [(V3) Girls' Frontline](#v3-girls-frontline)
     - [(V3) Genroku Era](#v3-genroku-era)
     - [(V3) Magic: The Gathering](#v3-magic-the-gathering)
     - [(V3) Middle-Earth](#v3-middle-earth)
@@ -380,6 +382,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Worm](#v3-worm)
   - [Scripts](#scripts)
     - [Arrested Development](#arrested-development)
+    - [garfield.txt](#garfieldtxt)
     - [Helluva Hotel](#helluva-hotel)
     - [Seinfeld](#seinfeld)
 - [Utilities](#utilities)
@@ -902,6 +905,12 @@ He fights against the rising panic, forcing himself to stay calm. There is nothi
 *Super trained on characters (bot thinks Jean is a male, will fix on next updates), fanfiction trained (about 6k words worth to keep it SFW and no pairings), female traveler is in here (named Ying), Mondstadt is completely trained with some Liyue locations!*
 
 *(Around 20k steps, 239kb, and 181% coverage).*
+
+##### [Girls Frontline](https://files.catbox.moe/v1hc39.module)
+
+[by bunray](https://discord.com/channels/836774308772446268/870449646391156776/889839928282845215)
+
+*A re-trained version of Nexus' Girls Frontline Module. Includes several extremely well written and noteworthy fanfictions from authors such as Elias_Pedro, caryalaciniosa, and Deuceposter; namely the fanfictions Unsavory, Tasteless, Audeiu aux Armes, and A War for Three alongside several short stories from the r/GirlsFrontline subreddit.*
 
 ##### [Mad Max](https://files.catbox.moe/cd6rvq.module)
 
@@ -1766,25 +1775,6 @@ Trained on various texts from Internet Sacred Text Archive (including: The Myths
 - *Hardwired by Walter Williams*
 - *Perdido Street Station by China Miéville*
 
-#### [(V3) Girls' Frontline](https://files.catbox.moe/5q4mvq.module)
-
-[by Nexus](https://discord.com/channels/836774308772446268/870449646391156776/889839928282845215)
-
-*A military science-fiction module based in the gritty, post-apocalyptic cyberpunk setting of Girls' Frontline; this module utilizes several extremely well written and noteworthy fanfictions from authors such as Elias_Pedro, caryalaciniosa, and Deuceposter; namely the fanfictions Unsavory, Tasteless, Audeiu aux Armes, and A War for Three alongside several short stories from the r/GirlsFrontline subreddit.*
-
->M14's head was spinning. She had been in the thick of it all day, and she felt like a fool for not seeing what everyone else saw - that this whole thing with S7 was nothing more than an elaborate set-up to get her out here where they could finish their work on her. That thought alone made M14 feel sick. The girl was so much weaker now; she wasn't even strong enough to defend herself against the likes of those two girls! And then there was BR55... M14 shuddered at the memory.
->
->She recalled how quickly BR55 had taken advantage of M14 when she'd let down her guard during one of their earlier sparring sessions. How easily she had broken through M14's defenses, hacking into her neural cloud and taking control over her body without any effort or resistance from her. It hadn't even been a fight. All the same, the experience left a bad taste in the doll's mouth.
->
->"It doesn't make sense..." M14 muttered to no-one in particular, the words spilling from her lips as though they came unbidden. "Why would BR55 do that to me? Why risk her own life just to get rid of me?"
->
->The doll's eyes fell upon the gun in her hands. the warped reflection in its polished form seemed to stare right back at the doll and through her face, mocking her.
->
->"I'm the weakest of the lot, and I know it. But still you try to take my life away from me," she said bitterly, a cold chill running down her spine as the voice echoed in her mind.
->
->The doll's grip tightened around the weapon, the metal and plastic digging into the flesh of her fingers.
->
->"You're going to pay for that, BR55."
 
 #### [(V3) Genroku Era](https://files.catbox.moe/agf8ib.module)
 
@@ -4926,6 +4916,30 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 >G.O.B.: Dad, why did you make us look alike?
 >
 >Dad: Because you were so much trouble when you were younger.
+
+#### [garfield.txt](https://files.catbox.moe/4b7irw.module)
+
+[by ChrisNonyminus](https://discord.com/channels/836774308772446268/870449646391156776/926191412645621811)
+
+*A module trained on a dataset containing [transcripts of every Garfield comic strip from 6/19/1978 to 12/29/2021](http://john.ccac.rwth-aachen.de:8000/ftp/dilbert/garfield.txt)*
+
+*(2mb, 4997 steps, 2.7563 loss, ~200% coverage)*
+
+(no prompt)
+
+>ga940425 -- I'm going to be a little late. - It's not my fault, it's the weather!
+>
+>ga940425 -- There's no way we can get that cat out of here without making an enormous mess... - - And you're too lazy to clean up after yourself anyway.
+>
+>ga940426 -- We'll have to try again tomorrow. - You know what they say about cats and ice cream? - They love it!
+>
+>ga940427 -- Let's go for a walk, Odie. - - YEAH!!
+>
+>ga940428 -- \*pfft\* - Hey, Garfield! Did you hear me fart? - No. I didn't. But if I did, would that make you feel better? - - That'd just make things worse.
+>
+>ga940429 -- Here's your mail. - Your favorite kind: letters from fat people.
+>
+>ga940430 -- Dear Mr. Whiskers, - Have you ever seen a real dog? - Yes, but I've never seen one with as much fur on his head as yours.
 
 #### [Helluva Hotel](https://files.catbox.moe/eeelvj.module)
 
