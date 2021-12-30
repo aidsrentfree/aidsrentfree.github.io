@@ -60,11 +60,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Updated [Vampire: The Masquerade](#vampire-the-masquerade) module with V4 successor.
 - Updated [Alien](#alien) module with V4 successor.
 
-(20th December, 2021)
-
-- Updated [Mass Effect](#mass-effect) module with V4 successor.
-- Updated [Stephen King](#stephen-edwin-king) module with a V4 successor at the original author's request.
-
 ***
 
 ## [Table of Contents](#modules)
