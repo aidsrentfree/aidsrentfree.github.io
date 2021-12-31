@@ -26,6 +26,10 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(31st December, 2021)
+
+- Added [Tastatura]() module
+
 (30th December, 2021)
 
 - Added [Cock Worship](#cock-worship) module.
@@ -92,6 +96,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Vladimir Nabokov](#v3-vladimir-nabokov)
   - [Web Authors](#web-authors)
     - [Prinny](#prinny)
+    - [Tastatura](#tastatura)
     - [(V3) Benjamin R. "Yahtzee" Croshaw](#v3-benjamin-r-yahtzee-croshaw)
     - [(V3) Joe Forest](#v3-joe-forest)
     - [(V3) SlutWriter](#v3-slutwriter)
@@ -667,6 +672,20 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 [by Anon](https://arch.b4k.co/vg/thread/359507552/#359566881)
 
 *This module is based on my [favorite monster/human female unwilling/erotic vore author](https://aryion.com/g4/gallery/PrinnyDood).*
+
+#### [Tastatura](https://files.catbox.moe/iniqnb.module)
+
+[40% Coverage Vers.](https://files.catbox.moe/c87p21.module)
+
+[150% Coverage Vers.](https://files.catbox.moe/sa9u81.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/366193838/#366350979)
+
+*I present the Tastatura model, trained to 100% and 40%, depending on one's wants. This module does not go well with subtle story telling—lewd or otherwise—and/or slow story pacing. High randomness also tends to be a bad combination. Restrained settings like Storywriter, Coherent Creativity, and default Legacy settings seem to work well enough, but feel free to experiment.*
+
+*In terms of content, the writer is generally quite crude, with woman either have exaggerated bodies and utterly slutty demeanors, or lecherous guys with huge, unwashed cocks. Definitely won't be for everyone. The stories were heavily cleaned, but I'd highly recommend looking up the writer to better understand what the module would aim to sway stories. Said included content is a balanced mix of respecting woman, loli, shota, futanari, and bestiality, with loli tending to hit the module's raunchy bone the most, it'd seem.*
+
+*Couple last things I'll note. The author has an unusual way of doing dialogue, and it shines through in some outputs. Can usually be edited away, though. In the vein of odd quirks, this author tends to include sound effects in sex scenes. Shit you'd see in a doujin like \*SPLURT\*. The module doesn't include this organically, though, so it's a style thing that can be indulged or ignored depending on preference. Lastly, the author really likes em dashes (—). Use them a lot. It often gives very creative results.*
 
 #### [(V3) Benjamin R. "Yahtzee" Croshaw](https://files.catbox.moe/t8dbtp.module)
 
