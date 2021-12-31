@@ -28,7 +28,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 (31st December, 2021)
 
-- Added [Tastatura](#tastatura) module
+- Added [Tastatura](#tastatura) module.
 
 (30th December, 2021)
 
