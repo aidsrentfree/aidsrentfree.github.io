@@ -2387,9 +2387,9 @@ Supporting Texts
 
 *The training data is basically a collection of annotated conversations with skills involved e.g.:*
 
-  KIM KITSURAGI: "Something the matter, detective?"
-  [Skill: AUTHORITY; Topic: Kim Kitsuragi]
-  AUTHORITY: (This guy's got Authority off the charts. With just a flick of his eyebrow he's able to make you his thrall.)
+    KIM KITSURAGI: "Something the matter, detective?"
+    [Skill: AUTHORITY; Topic: Kim Kitsuragi]
+    AUTHORITY: (This guy's got Authority off the charts. With just a flick of his eyebrow he's able to make you his thrall.)
 
 >**(You are standing at the pier, facing west of Revachol)**
 >
