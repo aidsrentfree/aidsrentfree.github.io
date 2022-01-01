@@ -29,7 +29,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 (1st January, 2022)
 
 - Wow, we're still here—crazy!
-- Added [Hell's Kitchen Nightmares with Gordon Ramsay](#hells-kitchen-nightmares) module
+- Added [Hell's Kitchen Nightmares with Gordon Ramsay](#hells-kitchen-nightmares) module.
 
 (31st December, 2021)
 
