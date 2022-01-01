@@ -26,6 +26,11 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(1st January, 2022)
+
+- Wow, we're still here—crazy!
+- Added [Hell's Kitchen Nightmares with Gordon Ramsay](#hells-kitchen-nightmares) module
+
 (31st December, 2021)
 
 - Added [Tastatura](#tastatura) module.
@@ -53,18 +58,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 (24th December, 2021)
 
 - Updated [Anal](#anal) module with V4 successor.
-
-(22nd December, 2021)
-
-- Added [Extreme Horror](#extreme-horror) module.
-- Added [Arrested Development](#arrested-development) module.
-- Contemplated the very real possibility of all this becoming effectively obsolete in a matter of months.
-
-(21st December, 2021)
-
-- Added [The Witcher](#the-witcher) module.
-- Updated [Vampire: The Masquerade](#vampire-the-masquerade) module with V4 successor.
-- Updated [Alien](#alien) module with V4 successor.
 
 ***
 
@@ -388,6 +381,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
   - [Scripts](#scripts)
     - [Arrested Development](#arrested-development)
     - [garfield.txt](#garfieldtxt)
+    - [Hell's Kitchen Nightmares](#hells-kitchen-nightmares)
     - [Helluva Hotel](#helluva-hotel)
     - [Seinfeld](#seinfeld)
 - [Utilities](#utilities)
@@ -4959,6 +4953,58 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 >ga940429 -- Here's your mail. - Your favorite kind: letters from fat people.
 >
 >ga940430 -- Dear Mr. Whiskers, - Have you ever seen a real dog? - Yes, but I've never seen one with as much fur on his head as yours.
+
+#### [Hell's Kitchen Nightmares](https://files.catbox.moe/cb8cvn.module)
+
+[by Kitty](https://discord.com/channels/836774308772446268/870449646391156776/926676264708870155)
+
+*"Where's the f@!#ing lamb sauce?!" Trained on selected transcripts from Gordon Ramsay's famous US shows, Kitchen Nightmares and Hell's Kitchen.*
+
+*Many thanks to OccultSage for training the module with his own steps!*
+
+*(1.5mb, 3000 steps, 170% coverage, 2.47 loss)*
+
+- *Hell's Kitchen (uncensored) - Fox Broadcasting, Wikiquote*
+- *Kitchen Nightmares (uncensored) - Fox Broadcasting, Wikiquote*
+
+*Biasing slightly against [198] and Yes can help keep the contestants from meekly repeating "Yes, chef" to everything Gordon says.*
+
+Sample Output (-0.06 [198], Yes, no prompt):
+>Gordon: (to Amy) How are you?
+>
+>Amy: I'm good, chef. Thank you for the opportunity.
+>
+>Gordon: You're doing well. Good luck to you and your team. (starts walking away)
+>
+>Amy: Thank you so much!
+>
+>Gordon: Thank you very much.
+>
+>\*\*\*
+>
+>(Amy is in her car driving home after being fired by Gordon Ramsay)
+>
+>Amy: It's not a great feeling...
+
+>Gordon: (to the red team) Okay, guys. The salmon's up. (the red team cheers)
+>
+>Gordon: Oh, that looks great!
+>
+>Chris: It is good!
+>
+>Gordon: What are you doing? Come on, give me your best shot. You got to do better than this. (takes a bite of salmon and throws it back in his plate) Ughhh! That's awful.
+>\*\*\*
+>
+>(interview with Gordon Ramsay)
+>Gordon: This is what I'm talking about. The worst thing you can do in front of customers is mess up their food. They're paying for quality, not quantity. If you don't know how to cook fish, just go home. There's nothing more embarrassing than having a chef who doesn't know how to cook fish. Just go home. Go home now. I've had enough. Get out. Out. Out. Out. OUT!
+>
+>\*\*\*
+>
+>(Gordon walks into the blue kitchen and yells at Rachel)
+>
+>Gordon: Don't touch my salmon!
+
+*(Much of the output contains swearing, which I am not showing here)*
 
 #### [Helluva Hotel](https://files.catbox.moe/eeelvj.module)
 
