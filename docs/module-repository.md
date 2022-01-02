@@ -26,6 +26,11 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(2nd January, 2022)
+
+- Added [The Final Judgement Trilogy](#final-judgement) module.
+- Added [My Immortal](#my-immortal) module.
+
 (1st January, 2022)
 
 - Wow, we're still here—crazy!
@@ -366,6 +371,8 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Trials in Tainted Space](#v3-trials-in-tainted-space)
   - [Web Fiction](#web-fiction)
     - [Aphrodite's Curse](#aphrodites-curse)
+    - [Final Judgement](#final-judgement)
+    - [My Immortal](#my-immortal)
     - [Pack Street](#pack-street)
     - [(V3) Code Lyoko](#v3-code-lyoko)
     - [(V3) A Dragon Ranch in Suburbia](#v3-a-dragon-ranch-in-suburbia)
@@ -4738,6 +4745,18 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 
 ![](https://files.catbox.moe/21pry7.png)
 {: .center}
+
+#### [Final Judgement](https://files.catbox.moe/4lzz2w.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/366563823/#366598709)
+
+*Specifically, it's trained at 60% on the Final Judgement trilogy of fanfictions, together with 700,000 words.*
+
+#### [My Immortal](https://files.catbox.moe/snuz4g.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/366563823/#366599164)
+
+*Here's My Immortal 1000%, trained on said fanfic.*
 
 #### [Pack Street](https://files.catbox.moe/xmo4sr.module)
 
