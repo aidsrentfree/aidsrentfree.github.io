@@ -60,10 +60,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 - Go forth in the embrace of God.
 
-(24th December, 2021)
-
-- Updated [Anal](#anal) module with V4 successor.
-
 ***
 
 ## [Table of Contents](#modules)
