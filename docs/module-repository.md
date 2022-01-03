@@ -26,6 +26,10 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(3rd January, 2022)
+
+- Added [BBW/SSBBW/Weight Gain/Feedism](#big-beautiful-women)
+
 (2nd January, 2022)
 
 - Added [The Final Judgement Trilogy](#final-judgement) module.
@@ -215,6 +219,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [Beings](#beings)
       - [Androids, Robots, Aliens, Harems](#androids-robots-aliens-harems)
       - [Angels and Demons](#angels-and-demons)
+      - [Big Beautiful Women](#big-beautiful-women)
       - [Cougars](#cougars)
       - [Dragon Smut](#dragon-smut)
       - [Futarotica](#futarotica)
@@ -3103,6 +3108,16 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 >Her mouth touched mine. A gentle kiss, but one which sent waves of pleasure washing over me. Her tongue flicked out between our mouths and brushed across mine. The sensation made my knees weak. She pulled away and grinned wickedly. "Good boy."
 >
 >She placed her hands on either side of my face and turned it towards hers. Our lips met again and this time there was no mistaking the passion behind her kiss. Her fingers slipped around my neck and pulled me closer. We kissed deeply, tongues dancing together. I could taste something sweet in her mouth.
+
+##### [Big Beautiful Women](https://files.catbox.moe/yra0qb.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/366780153/#366784806)
+
+*providing my coom module as i'm taking a break to get my life together for a while.*
+
+*trained on ~4mb of bbw/ssbbw/weight gain/feedism stories to ~50% (1878 steps). some of it is wholesome, some of it is sexual, some of it is deplorable. up to you to steer it.*
+
+*willing to share the compiled training data if people want to improve it.*
 
 ##### [Cougars](https://files.catbox.moe/gdm9g4.module)
 
