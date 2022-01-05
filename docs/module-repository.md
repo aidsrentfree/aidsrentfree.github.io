@@ -26,9 +26,14 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(5th January, 2022)
+
+- Added [The Saga of Tanya the Evil](#the-saga-of-tanya-the-evil) module
+- Added [Overtrained 800% module to Stygian Delving](#stygian-delving).
+
 (3rd January, 2022)
 
-- Added [BBW/SSBBW/Weight Gain/Feedism](#big-beautiful-women)
+- Added [BBW/SSBBW/Weight Gain/Feedism](#big-beautiful-women) module.
 
 (2nd January, 2022)
 
@@ -59,10 +64,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Updated [Manwhore's Module](#the-manwhore-module).
 - Updated [Cross-Genre](#cross-genre) with the V2 V4 successor.
 - Added [Kitty's Winter Fantasy](#winter-fantasy) module.
-
-(25th December, 2021)
-
-- Go forth in the embrace of God.
 
 ***
 
@@ -354,6 +355,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [The Beginning After The End](#the-beginning-after-the-end)
     - [Highschool DxD (1-10)](#highschool-dxd-1-10)
     - [Is It Wrong to Try to Pick Up Girls in a Dungeon?](#is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon)
+    - [The Saga of Tanya the Evil](#the-saga-of-tanya-the-evil)
     - [(V3) Fantasies](#v3-fantasies)
     - [(V3) Goblin Slayer](#v3-goblin-slayer)
     - [(V3) Highschool DxD (1-21)](#v3-highschool-dxd-1-21)
@@ -2217,6 +2219,8 @@ Supporting Texts
 *4.4 Mb, 1300 steps, 35% coverage, Loss: 2.9415.*
 
 ##### [Stygian Delving](https://files.catbox.moe/xzpbjl.module)
+
+[800% Coverage Vers.](https://files.catbox.moe/p6i8r2.module)
 
 [by OccultSage and Fuzzy](https://discord.com/channels/836774308772446268/870449646391156776/919494499502280704)
 
@@ -4567,6 +4571,26 @@ A.K.A Green's Eagle Vision
 *Trained on **Volume 2 to 12** and **Volume 16** of Is it wrong to try to pick up girls in a dungeon? a.k.a. Dungeon ni deai wo motomeru no wa machigatteiru darou ka?*
 
 *100%, Average Loss: 2.5640, Last Loss: 2.5571*
+
+#### [The Saga of Tanya the Evil](https://files.catbox.moe/8yni77.module)
+
+[by bunray](https://discord.com/channels/836774308772446268/870449646391156776/927661665904918578)
+
+*Embark on a journey of mayhem and warcrimes in Totally-Not-WW1 Europe and leave a trail of magical destruction in your wake, all while debating philosophy and ethnocentrism with God Being X, that absolute jackass. Steps by Gen.Alexander, thanks!*
+
+*I suggest downbiasing newlines, Carlo Zen uses a lot of them, as you can see below. Reminder that the narrator considers Tanya as a different person than himself, even though they are the same people.*
+
+*Volumes 1-8, Carlo Zen, Yen Press Translation  (4.3mb, 4482 steps, 88.88% coverage, 2.7739 loss)*
+
+>**Tanya** had the distinct feeling that it would be a waste to let such valuable talent go to waste. She was sure she'd find some use for them.
+>
+>Of course, I also need intelligence from the army and the Federation.
+>
+>But there's never enough time to get to know all of her subordinates. In fact, Tanya finds it rather charming how she can't even meet most of them personally.
+>
+>It's nice to have friends you can communicate with. If possible, I'd like to send Lieutenant Serebryakov and Major Weiss over in person. But I don't have time to travel around.
+>
+>...I do wish I could at least talk to Captain Meybert. He's been assigned as my adjutant since he served under General von Zettour, so I feel like I've grown used to his personality. We're both infantry guys. There are no issues between us.
 
 #### [(V3) Fantasies](https://files.catbox.moe/j2rgei.module)
 
