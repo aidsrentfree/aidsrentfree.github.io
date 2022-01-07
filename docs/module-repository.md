@@ -26,6 +26,11 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(7th January, 2022)
+
+- Added [Five Nights at Freddy's](#five-nights-at-freddys) module.
+- Added [James Lear](#james-lear) module.
+
 (5th January, 2022)
 
 - Added [The Saga of Tanya the Evil](#the-saga-of-tanya-the-evil) module
@@ -55,16 +60,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Updated [Girls Frontline](#girls-frontline) module with V4 successor.
 - Added [garfield.txt](#garfieldtxt) module.
 
-(27th December, 2021)
-
-- Added [Furry Yuri](#furryuri) module.
-
-(26th December, 2021)
-
-- Updated [Manwhore's Module](#the-manwhore-module).
-- Updated [Cross-Genre](#cross-genre) with the V2 V4 successor.
-- Added [Kitty's Winter Fantasy](#winter-fantasy) module.
-
 ***
 
 ## [Table of Contents](#modules)
@@ -77,6 +72,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [Beatrix Potter](#beatrix-potter)
     - [C. S. Lewis](#c-s-lewis)
     - [George Orwell](#george-orwell)
+    - [James Lear](#james-lear)
     - [Meggin Patricia Cabot](#meggin-patricia-cabot)
     - [Pelham Grenville Wodehouse](#pelham-grenville-wodehouse)
     - [Raphael Aloysius Lafferty](#raphael-aloysius-lafferty)
@@ -108,6 +104,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Beastars](#beastars)
       - [The Elder Scrolls](#the-elder-scrolls)
       - [Final Fantasy XVI](#final-fantasy-xvi)
+      - [Five Nights at Freddy's](#five-nights-at-freddys)
       - [Genshin Impact](#genshin-impact)
       - [Girls Frontline](#girls-frontline)
       - [Mad Max](#mad-max)
@@ -475,6 +472,49 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 [by Anon](https://arch.b4k.co/vg/thread/359155218/#359495805)
 
 *Someone suggested to do this as a module. Done.*
+
+#### [James Lear](https://files.catbox.moe/4h2dmm.module)
+
+[by HARVEYDENT](https://discord.com/channels/870618914323849228/870619535600922644/928595626957090836)
+
+*James Lear is the nom de plume of prolific and acclaimed novelist, Rupert Smith. He lives in London and is the 2008 Winner of Erotic Awards "Best Writer". He presents a mixture of purple prose, mystery crime solving, action, and a lot of gay sex.*
+
+*~3Mb,  3,000 steps, 100% coverage, 2.5316 average loss*
+
+- *The Back Passage (Mitch Mitchell Mystery, #1)*
+- *The Secret Tunnel (Mitch Mitchell Mystery, #2)*
+- *The Hardest Thing (Dan Stagg Mystery, #1)*
+- *A Sticky End (Mitch Mitchell Mystery, #3)*
+- *The Sun Goes Down (Mitch Mitchell Mystery, #4)*
+- *Straight Up (Dan Stagg Mystery, #2)*
+- *Hot Valley*
+- *In the Ring (Dan Stagg Mystery, #3)*
+
+*I've only been able to find low quality versions of his remaining novels, The Low Road and The Palace Of Varieties. Maybe some day I'll include them when I have the time to replace ' with " in the dialogue and clean up the formatting. Just... can't do that right now.*
+
+>I was back in the hotel room, naked, my cock hard and throbbing. I had been in a good mood all day; after two days of riding with Dickie it was time to relax. I'd made up for lost time—all afternoon, every spare moment that wasn't taken up by work or sleep, I'd been stroking myself off. I was still horny as hell, but I needed something else. I wanted to fuck again. And there he was, on his knees, waiting for me. He smiled at me, reached out his hand, beckoned me over. "Come here."
+>
+>He took hold of my cock and squeezed it gently, then began to stroke it slowly. I closed my eyes, enjoying the feeling. I knew this game well enough: I would let him play until he got bored, when he'd give up and go away. But no, not today. Not today.
+>
+>"You want to fuck me," he said softly.
+>
+>"Yes," I replied. "And you're going to suck my dick."
+>
+>He grinned. "You know what I like."
+>
+>"Oh yes."
+>
+>I sat down on the bed beside him, my legs spread wide. He leaned forward, licked his lips, and started to kiss my cock. The head of my prick disappeared between his lips, and I felt his tongue move across the sensitive skin, licking and kissing, sucking gently. I groaned loudly. He looked up at me, grinning, his mouth full of cock.
+
+>I was working in a small office on the top floor of the hotel. I had a desk, and an assistant who helped me with my paperwork, and that was about it. The room overlooked the main street of Broadstairs—a row of shops and cafés along one side, a few old houses and Georgian buildings down the other. A little further down the road was the seafront itself, where there were some hotels, but most people came to Broadstairs for the sea air, not the town. It was early afternoon, and a warm wind blew in through the window. The sun was shining, but the sky was overcast; it looked like rain.
+>
+>The place was quiet. There were no tourists around, no locals either. I was alone except for my assistant, a young man named Dave, who was gay and lived in London. He was twenty-two years old, and had been with me for six months. We got on well together. He wasn't very bright, but he could do basic arithmetic, and he knew how to type. And he liked to suck cock.
+>
+>"You're going to have to get used to this," I told him once when we'd just started working together. "There's nothing wrong with being gay, you know."
+>
+>He blushed and mumbled something about it not being his fault. But he didn't deny it. In fact, he seemed quite pleased about it.
+>
+>I wondered if he'd tell anyone.
 
 #### [Meggin Patricia Cabot](https://files.catbox.moe/5s7173.module)
 
@@ -918,6 +958,27 @@ He fights against the rising panic, forcing himself to stay calm. There is nothi
 >Aliapoh didn't need any further encouragement to hurry along after the other two keepers who had gone ahead earlier in the day. They were all old men—the youngest was nearly seventy years old himself! And yet their bodies still moved like boys half their age with energy enough to rival a hatchling dragonet. It made no sense.
 >
 >It wasn't long until they arrived at the market square near the docks, where countless stalls stood selling everything under the sun: fruits and vegetables, meat and breads.
+
+##### [Five Nights at Freddy's](https://files.catbox.moe/bvsgiw.module)
+
+[by LaPapaya](https://discord.com/channels/836774308772446268/870449646391156776/928354275011227668)
+
+*Trained on the Five Nights at Freddy's trilogy of novels as well as some of its anthologies.*
+
+*2,46MB, 2970 steps, 2.50 Loss*
+
+- *Five Nights at Freddy's: Silver Eyes*
+- *Five Nights at Freddy's: The Twisted Ones*
+- *Five Nights at Freddy's: The Fourth Closet*
+- *Five Nights at Freddy's - Fazbear Frights: Fetch*
+- *Five Nights at Freddy's - Fazbear Frights: 1:35 AM*
+- *Five Nights at Freddy's - Fazbear Frights: Bunny Call*
+- *Five Nights at Freddy's - Fazbear Frights: Step Closer*
+
+*Use storywriter for better results with this one. Also, put some negative bias with the word "clown".*
+
+![](https://files.catbox.moe/5trcum.png)
+{: .center}
 
 ##### [Genshin Impact](https://files.catbox.moe/71q79j.module)
 
