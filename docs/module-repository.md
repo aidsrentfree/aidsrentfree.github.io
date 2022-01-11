@@ -26,6 +26,10 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(11th January, 2022)
+
+- Updated [Manwhore's module](#the-manwhore-module)
+
 (7th January, 2022)
 
 - Added [Five Nights at Freddy's](#five-nights-at-freddys) module.
@@ -53,12 +57,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 (31st December, 2021)
 
 - Added [Tastatura](#tastatura) module.
-
-(30th December, 2021)
-
-- Added [Cock Worship](#cock-worship) module.
-- Updated [Girls Frontline](#girls-frontline) module with V4 successor.
-- Added [garfield.txt](#garfieldtxt) module.
 
 ***
 
@@ -2665,18 +2663,17 @@ Drawing from across all sorts of genres ranging from science fiction to fantasy 
 >
 >"I am going to fuck you so good," he said quietly into my ear, "you are mine now." As soon as those words left his lips I felt myself start to lose control, my body responding without thought or reason. I let out a loud moan as his fingers dug into my hips, pulling me tightly against him. He thrust his way deeper inside of me, his body pushing against my own. Our bodies were pressed together, rubbing against each other.
 
+##### [The Manwhore Module](https://files.catbox.moe/3kfwqf.module)
 
-##### [The Manwhore Module](https://files.catbox.moe/cqauhx.module)
+[by Manwhore](https://arch.b4k.co/vg/thread/367872593/#367899407)
 
-[by Manwhore](https://arch.b4k.co/vg/thread/365584149/#365600382)
+*A most wonderful evening to you all, gentlemen! Mr. Bones' Wild Ride has taken some real twists and turns lately, but I've remained "hard at work", as the old adage goes. While I continue to labor in my coom cave determining the best way to approach our newcomer, Euterpe, here is a much-needed update to my module and template for Sigurd:*
 
-*Merry Christmas, ya filthy coomers! Hope you're all having a wonderful holiday. Hard to believe we're still alive and kicking for another holiday season, huh? Feels like just yesterday we were all popping 2000 character prompts into Dragon and adjusting one single slider bar to change our output quality. How times change...*
+*Template Scenario: https://files.catbox.moe/jlu1g2.scenario*
 
-*On that note, here's the closest thing I got to a Christmas present for you bros: a brand-new version of my template, which includes a bump to my minimalist module. The scenario description has the full details as always, but this one's got some radical changes going on under the hood to hopefully make your outputs saucier than ever. Hope it treats you well.*
+*Inside you will find a series of generation settings which have been redone from the ground-up entirely, paired with a module which I've put a lot of time and sweat into redoing (a project which is still ongoing). This addresses the two biggest issues from the last version, which were A.) TFS was doing fucking nothing, and B.) My module was hilariously over-trained on an injection of some third-person drafts which turned out to cause CYOAIDS-level name bleeding. You may now lay Lilith and Dante to rest—they won't be bothering you anymore. This bad boy has proven itself to be far more eloquent during testing, but also more volatile in a lot of ways, so feedback of any kind is appreciated.*
 
-*Template Scenario: https://files.catbox.moe/obqhv0.scenario*
-
-*Here's to another year of crazy fucking cooming, my dudes. Enjoy.*
+*Enjoy.*
 
 ##### [Purely Purple Prose](https://drive.google.com/file/d/17iMgCgBeBYr-TEe81ekuEJRsCukZzL1D/view?usp=sharing)
 
