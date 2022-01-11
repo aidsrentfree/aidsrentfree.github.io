@@ -28,7 +28,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 (11th January, 2022)
 
-- Updated [Manwhore's module](#the-manwhore-module)
+- Updated [Manwhore's module](#the-manwhore-module).
 
 (7th January, 2022)
 
