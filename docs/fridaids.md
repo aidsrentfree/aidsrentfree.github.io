@@ -33,6 +33,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 - [Rules](#rules)
 - [The Log](#the-log)
+- [The Friday of *Robots*](#the-friday-of-robots)
 - [The Friday of *Holiday Festivities*](#the-friday-of-holiday-festivities)
   - [*The Curse of the Programmer Socks*](#the-curse-of-the-programmer-socks)
   - [*All I Want For Christmas Are Nine Fluffy Tails to Brush!*](#all-i-want-for-christmas-are-nine-fluffy-tails-to-brush)
@@ -245,13 +246,24 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 ***
 
+## The Friday of *Robots*
+{: .center}
+
+Let's make prompts about automatons, sentient or inanimate; man-made machines meandering in the present (or future) day.
+{: .center}
+
+*17th January, 2022*
+{: .center}
+
+***
+
 ## The Friday of *Holiday Festivities*
 {: .center}
 
 Let's make prompts about the most wonderful time of the year.
 {: .center}
 
-*24th December, 2021*
+[*24th December, 2021*](#the-log)
 {: .center}
 
 ### *The Curse of the Programmer Socks*
