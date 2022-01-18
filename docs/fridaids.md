@@ -252,7 +252,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 Let's make prompts about automatons, sentient or inanimate; man-made machines meandering in the present (or future) day.
 {: .center}
 
-*17th January, 2022*
+*21st January, 2022*
 {: .center}
 
 ***
