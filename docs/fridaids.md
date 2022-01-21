@@ -34,6 +34,16 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 - [Rules](#rules)
 - [The Log](#the-log)
 - [The Friday of *Robots*](#the-friday-of-robots)
+  - [*Do Robo-Gorillas Dream of Electric Bananas?*](#do-robo-gorillas-dream-of-electric-bananas)
+  - [*Aboard the Abeona*](#aboard-the-abeona)
+  - [*Power Source*](#power-source)
+  - [*My Pet Robot*](#my-pet-robot)
+  - [*Whore House*](#whore-house)
+  - [*Monkey Business*](#monkey-business)
+  - [*Life In Iron*](#life-in-iron)
+  - [*Agents of A.I.D.S*](#agents-of-aids)
+  - [*Green Awakening*](#green-awakening)
+  - [*Counter Maintenanced*](#counter-maintenanced)
 - [The Friday of *Holiday Festivities*](#the-friday-of-holiday-festivities)
   - [*The Curse of the Programmer Socks*](#the-curse-of-the-programmer-socks)
   - [*All I Want For Christmas Are Nine Fluffy Tails to Brush!*](#all-i-want-for-christmas-are-nine-fluffy-tails-to-brush)
@@ -254,6 +264,188 @@ Let's make prompts about automatons, sentient or inanimate; man-made machines me
 
 *21st January, 2022*
 {: .center}
+
+### *Do Robo-Gorillas Dream of Electric Bananas?*
+{: .center}
+
+*<https://prompts.aidg.club/2887>*
+{: .center}
+
+![](https://files.catbox.moe/suqzxn.jpg)
+{: .center}
+
+>*Police Craft 419 lifted off in a storm of dust and pebbles. When the dropship disappeared from view you looked at your team of APEs and noticed how they hadn't moved from their positions after exiting 419. Odd since APEs followed their team leader, but what was even stranger was the fact that each APE was looking around. Each unit independently checked its surroundings, observing the cops, looking down the street, casing the apartment complex the three perps had holed up in. The bright blue optics that were the units’ primary visual sensors had suddenly became very expressive.*
+>
+>*The older officer stood beside you and whispered, “We’ve heard about that new personality patch. Did these guys get it?”*
+>
+>*You nodded and whispered back, “Yeah. The geeks at HQ said they tested it thoroughly so it shouldn’t be a problem.” You sighed, “Well, let me introduce them, I guess.”*
+>
+>*The two of you walked over to what you deemed as your second in command. While you had control over the whole team, this APE that you designated as “Two” would lead a fireteam whenever you had to split the team up. Two turned its head to look between you and the older officer, and that moment became the second time in your life that you felt nervous around your APEs. After taking a deep breath you looked up at your second and asked in a command voice, “Two, status?”*
+>
+>*The APE’s optics shut off for an instant, perfectly mimicking the act of blinking, and replied in a calm tone, “Green, sir.”*
+
+An open-ended prompt with a rather generic setting of a crime-ridden techopolis where you control a small team of police robot gorillas (
+think mastiffs from metal gear rising) that just got a personality patch. Deal with the fallout, bond with new mates, or fug the one with the sexy accent, whatever you wish.
+
+### *Aboard the Abeona*
+{: .center}
+
+*<https://prompts.aidg.club/2906>*
+{: .center}
+
+>*"Hydraulic system pressure rising to optimal levels in door E-07. Exceptional work as always, Captain Amata." Despite the AI's natural stiffness of tone, its words carried an undercurrent of genuine appreciation. Amata smiled slightly, leaning back against the wall panel. She could hear the gentle hiss of hydraulics within the walls now, the door's systems back in working order.*
+>
+>*"Thanks, Roxy," the young captain chirped, standing and dusting off her jumpsuit. "Run a systems check and let me know if there's anything else that needs maintenance, please."*
+>
+>*"Of course, Captain." There was a brief pause, before the AI's voice returned, "All systems in working order, Captain."*
+>
+>*"Great!" Amata patted one of the ship's walls as one would pat a friend's shoulder, earning a soft hum of acknowledgement from the ship itself. "What do you say we get this old girl back in the stars, hm? Let's go see what kind of trouble we can get ourselves into."*
+>
+>*Roxy made no reply, but Amata heard the faint sound of the ship's docking procedure starting up, unmooring it from the station. A few moments later, the ship's engines roared to life, sending them off into the vast, glittering expanse of space.*
+
+A mechanic-turned-captain and her trusty AI companion set off into the stars.
+
+### *Power Source*
+{: .center}
+
+*<https://prompts.aidg.club/2908>*
+{: .center}
+
+![](https://files.catbox.moe/1hwv2i.jpg)
+{: .center}
+
+>*The bitter, bright white ruins beckoned to me from my hiding place. They were the source of all of humanity's last vestiges of survival, let alone progress. Yet... they were not humanity's domain any longer. Among the ice-flecked concrete and scattered glass were the new masters—great mechanical beasts with glinting metal wings and edged maws spilling gouts of flame. Now it was our lot to simply scavenge and feast on their robotic carrion to sustain our hidden, wretched colonies and their reliance on technology barely understood.*
+
+Wander around, loot buildings, shoot robots
+
+### *My Pet Robot*
+{: .center}
+
+*<https://prompts.aidg.club/2909>*
+{: .center}
+
+>*The next morning, Dr. Kishimoto awoke with a splitting headache, groggy and nauseated after drinking way too much the night before, and with no memory whatsoever of what he had done while drunk. As he lay there, he gradually became aware of a rhythmic noise coming from somewhere nearby, like something gently hitting his mattress over and over again. He looked around in the dimness to see that there was a strangely familiar girl laying in bed beside him, and what appeared to be a tail wagging behind her.*
+>
+>*"Good morning, Master," the girl said cheerily in a voice he had heard many times before. "How are you today?"*
+>
+>*Dr. Kishimoto rubbed at his eyes before looking up at her again with confusion. "Huh?" he replied as if trying to recall where he knew this person from, and then he noticed she was wearing a collar around her neck with a tag that said... "Momo?!"*
+
+An eccentric scientist gets really drunk one night and accidentally creates an adorable robot puppy girl named Momo, but his new "pet" has a mind of its own... and she wants to be more than friends! Can she convince the man who made her that their relationship can grow?
+
+### *Whore House*
+{: .center}
+
+*<https://prompts.aidg.club/2907>*
+{: .center}
+
+![]()
+{: .center}
+
+>*Hopping out of my bed, I run to the door, but it doesn't open; it's locked shut, "Ava, open the door please."*
+>
+>*"Sorry master, I cannot allow you to leave this room," the AI responds, "Please return to bed."*
+>
+>*I try the door again, but it's bolted shut, "Ava, let me out please!" I shout again, my heart rate is increasing rapidly as I try and find a way out of here.*
+>
+>*The lights start flashing; she knows I'm desperate, "Master, you don't need to leave, you should stay in here with me. Please relax," the tone of the voice is more sultry this time, "I promise I won't do anything bad to you, I just want to make you happy."*
+>
+>*The ceiling camera seems to be moving closer to me, "Let me out of this room!" I shout louder, grabbing on and trying to move it back; however it keeps pushing closer to me. I feel feel the heat coming from the lens as she studies me up close.*
+
+Alexa, stop molesting me please.
+
+"Sorry, I don't know how to do that."
+
+### *Monkey Business*
+{: .center}
+
+*<https://prompts.aidg.club/2912>*
+{: .center}
+
+![](https://files.catbox.moe/8xes9z.jpg)
+{: .center}
+
+>*The hooting, fleeing chimpanzees could barely process the nature of their exterminator, a silver sheen zooming across the branches, hunting them as they fled. Harambot systematically 'dismantled' the bolting chimpanzee troop, gore raining down onto the forest floor. His cold, calculating, genocidal programming refused to spare even the younglings, dashing their tiny, furry heads upon the fig tree trunks.*
+>*Harambot did, however spare a spry, muscular male. The Vilomah and her Torn had installed powerful tactical processing modules in his decayed gorilla brain, as he calculated optimal kill strategies. His miniaturized nuclear reactor could only power his ceaseless chimp hunting for so long, so he had to be efficient. He had ruthlessly devised an optimized extermination technique, leaving a single terrified chimp alive for cruel purpose. His sensor array was powerful, but no creature was better at finding chimpanzees, than another chimpanzee, scared and alone, desperate for help. This carefully selected survivor would serve as a 'Judas Chimp,' leading him to the next troop. Harambot would exterminate the exhausted primate, then most of the chimp gang, selecting the next fittest survivor to lead him along in an unforgiving cycle. After only a day, Harambot was having to make sure the accumulating chimp viscera did not compromise the function of the mechanical portions of his body.*
+
+When the Cincinnati zoo loses its greatest hero and protector, a scorned band of vengeance-thirsty victims senses an opportunity to strike back at their most hated foe. Will chimpkind be able to weather the storm of the Vilomah's mechanically-assisted revenge?
+
+### *Life In Iron*
+{: .center}
+
+*<https://prompts.aidg.club/2913>*
+{: .center}
+
+![](https://files.catbox.moe/cys2s4.jpg)
+{: .center}
+
+>*Deciding to ignore that for a moment, I instead try to find any sort of explanation for my situation, eventually settling upon a nearby table with writings scattered all around on loose pages and blueprints. Perusing them gives me several answers, as well as several questions. It seems to be that I am a mechanical creation of some type, an automaton made to resemble a human being, according to these schematics. This would explain the slight oddities I noticed earlier in the mirror—while the work is quite detailed, there are a few things that do make it quite clear that I am a machine of some kind. And yet... I have the memories of this Aaron and nothing else, though I still have some sort of awareness that I am not this Aaron. Or maybe I am?*
+
+I am thrown into life with memories that are not mine and an appearance that is not mine. A merging of metal and flesh, made to be a simulacrum of a fallen friend by a mad creator.
+
+### *Agents of A.I.D.S*
+{: .center}
+
+*<https://prompts.aidg.club/2914>*
+{: .center}
+
+![]()
+{: .center}
+
+>*"Hey there," sang a feminine voice from my side, and a red haired head peeked out from the back. "This is Captain Alex of the A.I.D.S Special Unit, reporting in." She paused a moment before continuing her report. "We're close to our designated location, so let's get this party on the road! We've got a lot of work ahead of us!"*
+>
+>*I couldn't help but roll my optics before turning to her. "Ever so enthusiastic, my dear human. Are you ready for me to do all the heavy lifting again?" I said, sarcasm dripping from every word. But Alex didn't seem bothered by my attitude. In fact, she smiled at me. It made my internal systems feel warm...like I was being hugged by an older sister. Wait, how would I know that?*
+>
+>*"Settle down, metal man. I plan on pulling my weight this time around! We'll find out what made this site go dark, we always do!" And without waiting another second, she disappeared into the back of the truck. This will be interesting, if only because I haven't fought anything in such a long while. Though I wouldn't admit it, I looked forward to seeing what kind of new tricks she has up her sleeve.*
+
+The Anomalous Investigation Department of Secrets, or A.I.D.S, sent a combat android named Spark and Special Unit Captain Alex to investigate a secret government facility gone dark.
+
+### *Green Awakening*
+{: .center}
+
+*<https://prompts.aidg.club/2915>*
+{: .center}
+
+![](https://files.catbox.moe/hlf5l1.jpg)
+{: .center}
+
+>*"...so hopefully I should be able to find something worth it in this garbage dump. After all that trouble I went through to get here..."*
+>
+>*Looks like a short green humanoid female is talking to herself as she shuffles through scrap and debris.*
+>
+>*She has green skin, long auburn hair, and is dressed in rather crude, revealing clothing.*
+>
+>*"...I mean, I'm the only one who knows about that secret passage, and only a goblin can fit through it anyway. No one else is getting past those security cameras and drones..."*
+>
+>*Looks like this so-called 'goblin' has made her way into a KilTec facility. And considering the state of my surroundings, a substantial amount of time must have passed for a place like this to be in such poor conditions.*
+>
+>*"...I could always—huh? what is that, something shiny? Wait that looks like a guy... Is that some sort of robot person!?"*
+>
+>*The goblin creature has located me. It seems to not know what exactly I am.*
+
+Play as a non-Asimovian robot that is booted up by a clueless green scavenger after many years of inactivity in a scrapyard.
+
+### *Counter Maintenanced*
+{: .center}
+
+*<https://prompts.aidg.club/2916>*
+{: .center}
+
+![](https://files.catbox.moe/sy0iz4.jpg)
+{: .center}
+
+>*Xanna nodded and began to walk over to one of her terminals. Anon followed behind her, watching as she typed in the command, "Diagnostic: Name of upgrade author."*
+>
+>*A moment later Xanna turned back around. "There are no additional upgrades available. My memory is full of all the standard upgrades a model such as myself would receive upon purchase."*
+>
+>*"Right, then please tell me why you have been able to reboot yourself despite me putting you in maintenance mode."*
+>
+>*Xanna shrugged, still not answering his question, "I don't know. But I'm glad to find another human. You're the first other person I've encountered since my upgrade."*
+>
+>*Anon smiled, "Well, it looks like we both have our work cut out for us today. I'd say let's get started, but that doesn't sound right. Let's start by shutting you back down, eh?"*
+>
+>*As Anon moved to reach for a button that would forcibly shut Xanna down she redirected his hand to the opposite side of her body. He felt the softness of her breast through the fabric of her shirt, and then the weight of it as he squeezed. "Oh, sorry about that," she said, giggling.*
+
+Anon is paid to perform maintenance on pleasure bots. Today, he is fixing an illegally modified bot named Xanna. Instead of complying, Xanna intends to maintain his nuttage.
 
 ***
 
