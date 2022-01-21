@@ -44,6 +44,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Agents of A.I.D.S*](#agents-of-aids)
   - [*Green Awakening*](#green-awakening)
   - [*Counter Maintenanced*](#counter-maintenanced)
+  - [*Synthetic Love*](#synthetic-love)
 - [The Friday of *Holiday Festivities*](#the-friday-of-holiday-festivities)
   - [*The Curse of the Programmer Socks*](#the-curse-of-the-programmer-socks)
   - [*All I Want For Christmas Are Nine Fluffy Tails to Brush!*](#all-i-want-for-christmas-are-nine-fluffy-tails-to-brush)
@@ -446,6 +447,23 @@ Play as a non-Asimovian robot that is booted up by a clueless green scavenger af
 >*As Anon moved to reach for a button that would forcibly shut Xanna down she redirected his hand to the opposite side of her body. He felt the softness of her breast through the fabric of her shirt, and then the weight of it as he squeezed. "Oh, sorry about that," she said, giggling.*
 
 Anon is paid to perform maintenance on pleasure bots. Today, he is fixing an illegally modified bot named Xanna. Instead of complying, Xanna intends to maintain his nuttage.
+
+### *Synthetic Love*
+{: .center}
+
+*<https://prompts.aidg.club/2917>*
+{: .center}
+
+![](https://files.catbox.moe/0pkpbc.jpg)
+{: .center}
+
+>*But to my surprise, when the doors of the elevator open again, revealing a downright decadent bedroom, I am not met with one of the ruthless executives I expected. No, instead, I see a thin, frail looking wallflower, timidly looking up in my direction. "Um... a-are you Noah? They t-told me you were coming up the elevator..." he mutters.*
+>
+>*While I can't say I expected this, it seems I'm not directly in danger right now, so my anxiety lessens a bit. "Yeah, I'm Noah. You must be Robin, the crown prince of SilverCorp. Did you order me, a male prostitute, for an entire week?"*
+>
+>*Silence hangs heavily for a moment, but then, he nods. "Y-Yes... I want you to... teach me. How people do... things. Together."*
+
+Normally, when people come to me for sex, it's a very dispassionate affair. In and out, don't get attached. After all, that's what I was built for. Not that I could get attached to the deviants that end up buying my services. But now, a quite peculiar client has shown up, threatening to throw all that out the window.
 
 ***
 
