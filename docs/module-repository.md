@@ -26,6 +26,16 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(22nd January, 2022)
+
+- Finally stopped losing track of time with Euterpe.
+- Added [Ace Attorney](#ace-attorney) module.
+- Added [Horoscopes](#horoscopes) module.
+- Added [Music Reviews](#music-reviews) module.
+- Added [Wings of Fire](#wings-of-fire) module.
+- Added [Sapiens: A Brief History of Humankind](#sapiens) module.
+- Added [Transformation](#transformation) module.
+
 (11th January, 2022)
 
 - Updated [Manwhore's module](#the-manwhore-module).
@@ -181,6 +191,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Disco Elysium: Conversations](#disco-elysium-conversations)
       - [Disco Elysium: Skills](#disco-elysium-skills)
       - [Gay](#gay)
+      - [Horoscopes](#horoscopes)
       - [Sweet Time](#sweet-time)
     - [Style](#style)
       - [Bad Writing](#bad-writing)
@@ -234,6 +245,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Gender Bender](#gender-bender)
       - [Girl Thoughts](#girl-thoughts)
       - [Scalyuri](#scalyuri)
+      - [Transformation](#transformation)
     - [Exponent](#exponent)
     - [Second Proseon](#second-proseon)
     - [(V3) /hmofa/](#v3-hmofa)
@@ -294,6 +306,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Nineteen Eighty-Four](#nineteen-eighty-four)
       - [Warriors](#warriors)
       - [The Witcher](#the-witcher)
+      - [Wings of Fire](#wings-of-fire)
     - [(V3) Animorphs](#v3-animorphs)
     - [(V3) Assassin's Creed: Ezio Auditore](#v3-assassins-creed-ezio-auditore)
     - [(V3) Bartimaeus Sequence](#v3-bartimaeus-sequence)
@@ -338,6 +351,8 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Wheel of Time](#v3-wheel-of-time)
     - [(V3) The Witcher](#v3-the-witcher)
   - [Non-Fiction](#non-fiction)
+    - [Historical](#historical-1)
+      - [Sapiens](#sapiens)
     - [Religious](#religious)
       - [The King James Bible](#the-king-james-bible)
     - [(V3) Art of War](#v3-art-of-war)
@@ -384,6 +399,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
     - [(V3) Welcome to Night Vale](#v3-welcome-to-night-vale)
     - [(V3) Worm](#v3-worm)
   - [Scripts](#scripts)
+      - [Ace Attorney](#ace-attorney)
     - [Arrested Development](#arrested-development)
     - [garfield.txt](#garfieldtxt)
     - [Hell's Kitchen Nightmares](#hells-kitchen-nightmares)
@@ -393,6 +409,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
   - [Aesop Rock Lyrics](#aesop-rock-lyrics)
   - [Annotated Writing](#annotated-writing)
   - [Jokester](#jokester)
+  - [Music Reviews](#music-reviews)
   - [Stand Up Routines](#stand-up-routines)
   - [(V3) Advertisements](#v3-advertisements)
   - [(V3) The Club](#v3-the-club)
@@ -2520,6 +2537,16 @@ Supporting Texts
 >
 >He shrugs.
 
+##### [Horoscopes](https://files.catbox.moe/3fwpth.module)
+
+[by Nobbe](https://discord.com/channels/836774308772446268/870449646391156776/930576347301040188)
+
+*Trained on horoscopes from the NY Times.*
+
+*NY Times Horoscopes (2.9mb, 4160 steps, ~120% coverage, 2.2515 loss)*
+
+*Notes: Made in conjunction with my Tarot Deck Lorebook (https://discord.com/channels/836774308772446268/868472982471843870/930576899007201370) to generate tarot card readings.*
+
 ##### [Sweet Time](https://files.catbox.moe/wqnw3i.module)
 
 [by SGreen](https://discord.com/channels/870618914323849228/870619535600922644/914451003598848070)
@@ -3353,6 +3380,12 @@ The module is quit flexible, which makes it easy for you to adjust your Lit-rpg 
 
 >*\>Wrote another story so I could use the last of my steps training an updated version of my scaly yuri module:*
 
+##### [Transformation](https://files.catbox.moe/cctts1.module)
+
+[by TeeJay](https://discord.com/channels/870618914323849228/870619535600922644/932080058426867712)
+
+*A simple transformation Module made using jorfl's Literotica NovelAI training data, using stories with the 'Transformation' tag. (5000/4112 steps) (121.59%) (Source material is about 3mb)*
+
 #### [Exponent](https://files.catbox.moe/ah9be0.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/359694347/#359772994)
@@ -3958,6 +3991,12 @@ Alright, I guess I just bit the bullet. Here's [four](#nineteen-eighty-four) [of
 - ***803kb** | The Tower of Swallows*
 - ***633kb** | Sword of Destiny*
 
+##### [Wings of Fire](https://files.catbox.moe/csruvu.module)
+
+[by jetray1000](https://discord.com/channels/836774308772446268/870449646391156776/934120130068238477)
+
+*A Module trained on Wings of fire 1-14.*
+
 #### [(V3) Animorphs](https://files.catbox.moe/uo24ou.module)
 
 [by pinekel](https://discord.com/channels/836774308772446268/870449646391156776/874503165997891644)
@@ -4466,6 +4505,22 @@ A.K.A Green's Eagle Vision
 ***
 
 ### [Non-Fiction](#works)
+
+#### [Historical](#non-fiction)
+
+##### [Sapiens](https://files.catbox.moe/8vzv80.module)
+
+[by pume_](https://discord.com/channels/836774308772446268/870449646391156776/934414446103760947)
+
+*A Module trained on Sapiens by Yuval Noah Harari*
+
+>**The Catgirl Revolution**
+>
+>In the twenty-first century, the catgirls—a new breed of household companion that combine human intelligence with animal traits such as feline grace and a playful attitude towards humans. Although they were first popularised in Japan by Akihabara electronics stores, their popularity quickly spread to other countries including America, Europe and China. The term ‘catgirl’ is also often used to describe any humanoid robot or android character who combines characteristics from animals like cats (elegant movement) and dogs (affectionate behaviour).
+
+>**ninja pro epic game move**, and the other player is a master. The two players are locked in battle for hours on end; they have no time to talk or eat or even take a piss.
+>
+>The winner of this duel will be determined by skill alone: who can outwit whom? It's a matter of luck whether you survive one round or several hundred rounds with your opponent before he finally manages to defeat you. If your opponents are human beings like yourself, then you're probably doomed from the outset – unless you're lucky enough to find an ancient good example living ninja priestess sitting next to you at the table, ready to help you cheat. But what if your opponent isn't human? What if it has been programmed to play chess better than any human being ever could? Then perhaps there is hope after all...
 
 #### [Religious](#non-fiction)
 
@@ -5006,6 +5061,42 @@ Also it cracks me up that just the sex/dialog scenes in that game add up to a hi
 
 ### [Scripts](#works)
 
+##### [Ace Attorney](https://files.catbox.moe/a09ute.module)
+
+[by Dead Eye](https://discord.com/channels/836774308772446268/870449646391156776/929580342522835035)
+
+*OBJECTION! Trained on transcripts from Ace Attorney, visual novel series known for courtroom drama and detective work.*
+
+*Sources: Original trilogy, Apollo Justice, Dual Destinies, Spirit of Justice, Ace Attorney Investigations 1-2. 3100 steps at 50%, 2.51loss.*
+
+*Notes:*
+- *Bias for OBJECTION! and HOLD IT! for extra entertainment.*
+- *Testimony, cross-examination and such are denoted by parentheses in the training data, e.g.( Cross examination: What Really Happened )*
+
+>Phoenix: OBJECTION! This is a private meeting between the prosecution and defense. It has nothing to do with me, and I refuse to be involved in any way!
+>
+>Apollo: You can't say that when you're standing right here... ...And you are so rude to interrupt us at such an important time!
+>
+>(Trucy) OBJECTION! That's not what we were doing! We weren't discussing anything serious or important at all!
+>
+>Phoenix: OBJECTION! I will have order in this court!
+>
+>Athena: Hmmm... If you insist on staying... I suppose it would be rude of me to ignore you, then.
+>
+>Phoenix: OBJECTION! I'm going to get a chair from somewhere and sit down in front of you two... ...So please, allow me to attend to the trial as well!
+>
+>Athena: Well, if you insist.
+>
+>Phoenix: OBJECTION! You're the one who insisted on this ridiculous conversation in the first place!
+>
+>Athena: OBJECTION! Don't you dare speak to me like that!
+>
+>Phoenix: OBJECTION! ...Well, I guess that's settled. Now... ...Let's begin the trial, shall we?
+>
+>Athena: Fine by me.
+>
+>Judge: Very well.
+
 #### [Arrested Development](https://files.catbox.moe/mykd1x.module)
 
 [by Dead Eye ☕](https://discord.com/channels/836774308772446268/870449646391156776/923015919414960138)
@@ -5313,6 +5404,16 @@ Sample Output (-0.06 [198], Yes, no prompt):
 *A module trained on a subset of the **Reddit jokes** data at https://github.com/taivop/joke-dataset. Training data is about 3MB, has only one-liners (i.e. the body contains 250 characters or less and has no newlines) with a score of 10 and higher. 100% coverage.*
 
 *I didn't get great results with this one and am not too surprised - humor is difficult even with GPT3. Wanted to share anyway in case someone wants to experiment.*
+
+### [Music Reviews](https://files.catbox.moe/a0ndrk.module)
+
+[by mark and jez](https://discord.com/channels/836774308772446268/870449646391156776/933961593727893504)
+
+*Trained on assorted music reviews from various publications on music of various styles.*
+
+*Sources: Various music reviews from publications like Tiny Mix Tapes, The Quietus, Pitchfork, etc. (1MB, 1126 steps, 44% coverage, messed up and didn't take note of loss)*
+
+*Notes: I've attached a text file with links to my sources to this message as well. This module is considered a WIP and I'll likely finish it if I purchase more steps.*
 
 ### [Stand Up Routines](https://files.catbox.moe/2gt8t1.module)
 
