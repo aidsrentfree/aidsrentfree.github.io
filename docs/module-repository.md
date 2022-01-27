@@ -26,6 +26,12 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(27th January, 2022)
+
+- Updated [Tales of Androgyny](#tales-of-androgyny) module with V4 successor.
+- Added [Calvino](#italo-calvino) module.
+- Added [Gramsci](#antonio-francesco-gramsci) module.
+
 (22nd January, 2022)
 
 - Finally stopped losing track of time with Euterpe.
@@ -59,15 +65,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - Added [The Final Judgement Trilogy](#final-judgement) module.
 - Added [My Immortal](#my-immortal) module.
 
-(1st January, 2022)
-
-- Wow, we're still here—crazy!
-- Added [Hell's Kitchen Nightmares with Gordon Ramsay](#hells-kitchen-nightmares) module.
-
-(31st December, 2021)
-
-- Added [Tastatura](#tastatura) module.
-
 ***
 
 ## [Table of Contents](#modules)
@@ -77,9 +74,11 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 - [Modules](#modules)
 - [Writers](#writers)
   - [Published Authors](#published-authors)
+    - [Antonio Francesco Gramsci](#antonio-francesco-gramsci)
     - [Beatrix Potter](#beatrix-potter)
     - [C. S. Lewis](#c-s-lewis)
     - [George Orwell](#george-orwell)
+    - [Italo Calvino](#italo-calvino)
     - [James Lear](#james-lear)
     - [Meggin Patricia Cabot](#meggin-patricia-cabot)
     - [Pelham Grenville Wodehouse](#pelham-grenville-wodehouse)
@@ -357,10 +356,10 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [The King James Bible](#the-king-james-bible)
     - [(V3) Art of War](#v3-art-of-war)
   - [Visual Novel](#visual-novel)
+    - [Tales of Androgyny](#tales-of-androgyny)
     - [(V3) Fate/stay ataraxia](#v3-fatestay-ataraxia)
     - [(V3) Fate/Zero](#v3-fatezero)
     - [(V3) Steins;Gate](#v3-steinsgate)
-    - [(V3) Tales of Androgyny](#v3-tales-of-androgyny)
   - [Light Novel](#light-novel)
     - [The Beginning After The End](#the-beginning-after-the-end)
     - [Highschool DxD (1-10)](#highschool-dxd-1-10)
@@ -444,6 +443,12 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ### [Published Authors](#writers)
 
+#### [Antonio Francesco Gramsci](https://files.catbox.moe/qa41a0.module)
+
+[by Leopod](https://discord.com/channels/836774308772446268/870449646391156776/935892529851826266)
+
+*Trained on works by Gramsci. 1000 steps, Average loss: 2.9965, 1MB*
+
 #### [Beatrix Potter](https://gitgud.io/CuriousNekomimi/MoM/-/raw/master/Modules/CuriousNekomimis_Beatrix_Potter_v1.module?inline=false)
 
 [by Mimi](https://discord.com/channels/836774308772446268/870449646391156776/909604576473251891)
@@ -487,6 +492,20 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 [by Anon](https://arch.b4k.co/vg/thread/359155218/#359495805)
 
 *Someone suggested to do this as a module. Done.*
+#### [Italo Calvino](https://files.catbox.moe/u77ozl.module)
+
+[by mark and jez](https://discord.com/channels/836774308772446268/870449646391156776/935758416444530718)
+
+*A module trained on several works by Italian author Italo Calvino*
+
+- *Invisible Cities (trans. William Weaver)*
+- *Cosmicomics (trans. William Weaver)*
+- *If on a Winter's Night a Traveller (trans. William Weaver)*
+- *The Baron in the Trees (trans. Archibald Colquhoun)*
+
+*(1.3 MB, 1433 steps, 100.12% coverage, 3.0542 average loss)*
+
+>Orsola and I had climbed the hill at nightfall. From there we could see both sides of Porto, with its towers outlined against a background of sky; its harbor sparkling on one side under full moonlight; a rowdy multitude in boats festooned with lights around it on another; ships moving up to their moorings or sailing out toward sea: all this was visible from where we were standing. And beyond that horizon lay many more islands stretching away into an interminable archipelago—and farther still other horizons, perhaps those of countries whose names are no longer remembered by anyone except scholars like us who study ancient maps... The wind blew across our faces and carried along particles of sand clinging here and there to Orsola's eyelashes as she looked down upon the city below her, silent now in sleep but for occasional bursts of laughter from some taverna. Then came cries from children playing together amid ruins somewhere in a corner of town; then again silence fell over everything until only birdsong remained sounding faintly through the evening air. We turned back before sunup so as not to miss dawn prayers.
 
 #### [James Lear](https://files.catbox.moe/4h2dmm.module)
 
@@ -4566,6 +4585,18 @@ A.K.A Green's Eagle Vision
 
 ### [Visual Novel](#works)
 
+#### [Tales of Androgyny](https://files.catbox.moe/eugof4.module)
+
+[35% Coverage Vers.](https://files.catbox.moe/qqcwhv.module)
+
+[70% Coverage Vers.](https://files.catbox.moe/s7os7d.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/345358791/#345465090)
+
+*I present the new and improved Tales of Androgyny module. Not only is this version now finally V4, but the amount of training data used is well-above its predecessor. 3.3MB of text, trained to 100%, with 4000~ steps. It is compromised of literally every enemy encounter in the game, along with many other miscellaneous events and trysts that have been scraped and cleaned. Literally 80-90% of the game has been put in this thing.*
+
+*When used, the module outputs very similarly to the game itself, offering stat checks, decisions, and VN-like dialogue rather organically. Personally, replicating the game's event log style has produced the most entertaining results, especially when it involves me spinning the story so Hiro can get his ass blown out; [pic related](https://files.catbox.moe/ghpxyd.png).*
+
 #### [(V3) Fate/stay ataraxia](https://files.catbox.moe/o8en07.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/347476303/#347481994)
@@ -4628,14 +4659,6 @@ A.K.A Green's Eagle Vision
 >Rintaro: I'm not. I just had an idea.
 >
 >The idea was simple, but would be difficult to implement...
-
-#### [(V3) Tales of Androgyny](https://files.catbox.moe/zpbssn.module)
-
-[by Anon](https://arch.b4k.co/vg/thread/345358791/#345465090)
-
-*parsed and trained a novelai model with tales of androgyny's text*
-
-*time for coom*
 
 ***
 
