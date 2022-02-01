@@ -16,6 +16,8 @@ permalink: /decks/
 - [The Decks](#the-decks)
 	- [/aids/ Starship Exploration Vessel](#aids-starship-exploration-vessel)
 
+***
+
 ## The Decks
 {: .center}
 
