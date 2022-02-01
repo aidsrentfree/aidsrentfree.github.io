@@ -26,6 +26,10 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 
 ## Recent Changes
 
+(1st February, 2022)
+
+- Added [Bloodborne](#bloodborne) module.
+
 (27th January, 2022)
 
 - Updated [Tales of Androgyny](#tales-of-androgyny) module with V4 successor.
@@ -59,11 +63,6 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 (3rd January, 2022)
 
 - Added [BBW/SSBBW/Weight Gain/Feedism](#big-beautiful-women) module.
-
-(2nd January, 2022)
-
-- Added [The Final Judgement Trilogy](#final-judgement) module.
-- Added [My Immortal](#my-immortal) module.
 
 ***
 
@@ -109,6 +108,7 @@ Thus the repo continues here, where character limit concerns are a thing of the 
       - [Alien](#alien)
       - [Battletech](#battletech)
       - [Beastars](#beastars)
+      - [Bloodborne](#bloodborne)
       - [The Elder Scrolls](#the-elder-scrolls)
       - [Final Fantasy XVI](#final-fantasy-xvi)
       - [Five Nights at Freddy's](#five-nights-at-freddys)
@@ -944,6 +944,12 @@ He fights against the rising panic, forcing himself to stay calm. There is nothi
 *Beastars Sigurdv4 trained at 34%*
 
 >\>*It's only been trained off of the best rated stories off of AO3, about fifty or so stories which adds up to 7.43 MB of data. Trained to 34%, exactly 3000 steps.*
+
+##### [Bloodborne](https://files.catbox.moe/zqzw5c.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/370624539/#370745162)
+
+*This one is trained on all the text in Bloodborne:*
 
 ##### [The Elder Scrolls](https://files.catbox.moe/j8ceta.module)
 
