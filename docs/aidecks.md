@@ -10,11 +10,14 @@ permalink: /decks/
 		}
 </style>
 
-# /aids/ Decks
+# The Decks Collection
+{: .center}
 
 - [The Decks](#the-decks)
-  - [/aids/ Starship Exploration Vessel](#aids-starship-exploration-vessel)
+	- [/aids/ Starship Exploration Vessel](#aids-starship-exploration-vessel)
 
 ## The Decks
+{: .center}
 
 ### /aids/ Starship Exploration Vessel
+{: .center}
