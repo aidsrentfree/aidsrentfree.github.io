@@ -33,6 +33,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 - [Rules](#rules)
 - [The Log](#the-log)
+- [The Friday of *Fucked Up Theme Parks*](#the-friday-of-fucked-up-theme-parks)
 - [The Friday of *Robots*](#the-friday-of-robots)
   - [*Do Robo-Gorillas Dream of Electric Bananas?*](#do-robo-gorillas-dream-of-electric-bananas)
   - [*Aboard the Abeona*](#aboard-the-abeona)
@@ -257,13 +258,24 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 ***
 
+## The Friday of *Fucked Up Theme Parks*
+{: .center}
+
+Let's make prompts in honor of Roller Coaster Tycoon.
+{: .center}
+
+*4th February, 2022*
+{: .center}
+
+***
+
 ## The Friday of *Robots*
 {: .center}
 
 Let's make prompts about automatons, sentient or inanimate; man-made machines meandering in the present (or future) day.
 {: .center}
 
-*21st January, 2022*
+[*21st January, 2022*](#the-log)
 {: .center}
 
 ### *Do Robo-Gorillas Dream of Electric Bananas?*
