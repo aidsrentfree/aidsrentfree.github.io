@@ -34,7 +34,10 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 - [Rules](#rules)
 - [The Log](#the-log)
 - [The Friday of *Fucked Up Theme Parks*](#the-friday-of-fucked-up-theme-parks)
+  - [*Clussy Park*](#clussy-park)
+  - [*Sadie's Playland*](#sadies-playland)
   - [*Atomic World*](#atomic-world)
+  - [*Feel Warm Inside At Bussy Land*](#feel-warm-inside-at-bussy-land)
 - [The Friday of *Robots*](#the-friday-of-robots)
   - [*Do Robo-Gorillas Dream of Electric Bananas?*](#do-robo-gorillas-dream-of-electric-bananas)
   - [*Aboard the Abeona*](#aboard-the-abeona)
@@ -268,6 +271,31 @@ Let's make prompts in honor of Roller Coaster Tycoon.
 *4th February, 2022*
 {: .center}
 
+### *Clussy Park*
+{: .center}
+
+*<https://prompts.aidg.club/2939>*
+{: .center}
+
+>*"Uh, hi... I uh... have a VIP ticket..." Anon stammered nervously. Tootie's eyes widened, before honking loudly and giving him a big hug. He squeaked in surprise but soon regained his composure once he felt her firm tits pressed against his chest. He reached down to feel them but Tootie quickly grabbed his hand and led him to the side of the counter.*
+>
+>*She pulled out a small pad of paper and pen then wrote something down. When she finished writing she handed him the note which read: "You're lucky today since you've got your own personal Clown Girl tonight! She'll guide you through the park, and make sure you have lots of fun! Cuddling (and more) is avalible on request!"*
+
+Which lovely lady will accompany Anon on his sexual romp through the park?
+
+### *Sadie's Playland*
+{: .center}
+
+<*https://prompts.aidg.club/2954*>
+{: .center}
+
+>*"Excuse me, miss?" Anon said as he walked towards the dumpster fire in front of Mackland. The trio turned and stared at him, looking bored out of their minds. Slowly, their eyes focused on him, expressions switching between annoyance, confusion, and finally settling on a predatory lust. Anon's heart started to beat hard in his chest. Those women wanted something from him, and judging by the way they stood up straight once more after staring at him intently, he probably wouldn't survive if he resisted. "Umm... I just wanted to know if the park was open! I'll leave you alone! Sorr-"*
+>
+>*"No, no, sit down." The tallest one of the group gave a hand signal to the other two, both of them relaxing as they saw. She gave the practiced grin of a charlatan as she looked at Anon. "I'm guessing you're here for the same reason we are..."*
+
+Anon's dream of going to Mackland theme park is finally realized, with the park's owner, Sadie, even offering to show him around herself. What's that? The park's been abandoned years ago, and Sadie is the leader of the homeless squatters living in the park? Don't be ridiculous.
+
+
 ### *Atomic World*
 {: .center}
 
@@ -277,6 +305,19 @@ Let's make prompts in honor of Roller Coaster Tycoon.
 >*After several hours travelling by bus, I finally find myself at the best theme park in the world: Atomic World! The lines are huge and everybody is excited to enter the park; I even see a few mutated people sporting extra limbs, two heads, disgusting lumpy flesh, and one man even had a pair of massive tits and a massive 10" dick while his wife has a pair of dog ears and three legs. I wonder if she has two pussies. The entrance is shaped like a mushroom cloud with giant words reading "Atomic World" along the mid-section. Posters showing rides and mascots are plastered over the walls, with park's slogan: "Atomic Fun For Everyone!"*
 
 Atomic Work is a theme park with several themed areas with nuclear power/wasted mixed in.
+
+### *Feel Warm Inside At Bussy Land*
+{: .center}
+
+*<https://prompts.aidg.club/2989>*
+{: .center}
+
+![](https://files.catbox.moe/7jor8j.png)
+{: .center}
+
+>*I remember how excited a bunch of us were: A new theme park, opening in our shitty town? While the jobs wouldn't be glamorous, me and my peers were far past being picky. The town had gone to Hell in the last decades, with manufacturing jobs that used to support so many families here just vanishing, the promise of stable work just up and gone. Now that my generation was getting out of school and into the job market, we were desperate. So when that theme park offer rolled in, our town was all ears, and so were we, signing up by the dozens. It seemed kinda weird, named something like "Bus Land" or something, but again, we were desperate. None of us read the fine print. Maybe we should have.*
+
+As a young man fresh out of school in a dying town, finding a job is incredibly difficult. So when a rich businessman shows up wanting to open a theme park with hundreds of jobs just outside of town, I end up not reading the fine print too much. I thought I was signing up for "Bus Land". I was not.
 
 ***
 
