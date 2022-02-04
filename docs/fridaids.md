@@ -276,8 +276,7 @@ Let's make prompts in honor of Roller Coaster Tycoon.
 
 >*After several hours travelling by bus, I finally find myself at the best theme park in the world: Atomic World! The lines are huge and everybody is excited to enter the park; I even see a few mutated people sporting extra limbs, two heads, disgusting lumpy flesh, and one man even had a pair of massive tits and a massive 10" dick while his wife has a pair of dog ears and three legs. I wonder if she has two pussies. The entrance is shaped like a mushroom cloud with giant words reading "Atomic World" along the mid-section. Posters showing rides and mascots are plastered over the walls, with park's slogan: "Atomic Fun For Everyone!"*
 
-Atomic Work is a theme park with several themed areas with nuclear power/wasted mixed in. 5 pre-made areas include Breeder Reactor (sexual), Nuclear Winter Wonderland(winter/Christmas), Nuclear Waste Water Park, Cosmic Radiation(space/future), Fallout Horrors(horror) and whatever you come up with yourself. Adding a sexual tag to Authors Note when in Breeder Reactors helps.
-Uses the Terpy pre-set.
+Atomic Work is a theme park with several themed areas with nuclear power/wasted mixed in.
 
 ***
 
