@@ -38,6 +38,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Sadie's Playland*](#sadies-playland)
   - [*Atomic World*](#atomic-world)
   - [*Feel Warm Inside At Bussy Land*](#feel-warm-inside-at-bussy-land)
+  - [*GF Dreamland*](#gf-dreamland)
 - [The Friday of *Robots*](#the-friday-of-robots)
   - [*Do Robo-Gorillas Dream of Electric Bananas?*](#do-robo-gorillas-dream-of-electric-bananas)
   - [*Aboard the Abeona*](#aboard-the-abeona)
@@ -286,7 +287,7 @@ Which lovely lady will accompany Anon on his sexual romp through the park?
 ### *Sadie's Playland*
 {: .center}
 
-<*https://prompts.aidg.club/2954*>
+*<https://prompts.aidg.club/2954>*
 {: .center}
 
 >*"Excuse me, miss?" Anon said as he walked towards the dumpster fire in front of Mackland. The trio turned and stared at him, looking bored out of their minds. Slowly, their eyes focused on him, expressions switching between annoyance, confusion, and finally settling on a predatory lust. Anon's heart started to beat hard in his chest. Those women wanted something from him, and judging by the way they stood up straight once more after staring at him intently, he probably wouldn't survive if he resisted. "Umm... I just wanted to know if the park was open! I'll leave you alone! Sorr-"*
@@ -318,6 +319,21 @@ Atomic Work is a theme park with several themed areas with nuclear power/wasted 
 >*I remember how excited a bunch of us were: A new theme park, opening in our shitty town? While the jobs wouldn't be glamorous, me and my peers were far past being picky. The town had gone to Hell in the last decades, with manufacturing jobs that used to support so many families here just vanishing, the promise of stable work just up and gone. Now that my generation was getting out of school and into the job market, we were desperate. So when that theme park offer rolled in, our town was all ears, and so were we, signing up by the dozens. It seemed kinda weird, named something like "Bus Land" or something, but again, we were desperate. None of us read the fine print. Maybe we should have.*
 
 As a young man fresh out of school in a dying town, finding a job is incredibly difficult. So when a rich businessman shows up wanting to open a theme park with hundreds of jobs just outside of town, I end up not reading the fine print too much. I thought I was signing up for "Bus Land". I was not.
+
+### *GF Dreamland*
+{: .center}
+
+*<https://prompts.aidg.club/3001>*
+{: .center}
+
+![](https://files.catbox.moe/2qvque.png)
+{: .center}
+
+>*I was ushered forward, shaken and stirred by her touch, and through the gates of the GF Dreamland. Women populated every corner—many of them weren't even staring at me, but I felt as if they wanted to devour me alive. They wore bright, tight clothing that left little to the imagination. It exposed their skin—soft and supple—breasts big and bountiful, and bottoms impossibly plump and round.*
+>
+>*Just what kind of attractions awaited me in this twisted world of sex and debauchery?*
+
+Get the twisted Girlfriend Experience in the aptly—and uncreatively—named theme park GF Dreamland! A near-fantasy perfect fantasy for hopeless virgins to get their innocence eaten away by disturbingly precocious sluts, bimbos, and more!
 
 ***
 
