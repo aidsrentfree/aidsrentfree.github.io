@@ -38,7 +38,12 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Sadie's Playland*](#sadies-playland)
   - [*Atomic World*](#atomic-world)
   - [*Feel Warm Inside At Bussy Land*](#feel-warm-inside-at-bussy-land)
+  - [*The Grunch Who Would Change Cunnymas*](#the-grunch-who-would-change-cunnymas)
   - [*GF Dreamland*](#gf-dreamland)
+  - [*Wild Watersports Park*](#wild-watersports-park)
+  - [*A swimsuit's fate*](#a-swimsuits-fate)
+  - [*Infernoland: Hellish Fun*](#infernoland-hellish-fun)
+  - [*Cunniland*](#cunniland)
 - [The Friday of *Robots*](#the-friday-of-robots)
   - [*Do Robo-Gorillas Dream of Electric Bananas?*](#do-robo-gorillas-dream-of-electric-bananas)
   - [*Aboard the Abeona*](#aboard-the-abeona)
@@ -320,6 +325,19 @@ Atomic Work is a theme park with several themed areas with nuclear power/wasted 
 
 As a young man fresh out of school in a dying town, finding a job is incredibly difficult. So when a rich businessman shows up wanting to open a theme park with hundreds of jobs just outside of town, I end up not reading the fine print too much. I thought I was signing up for "Bus Land". I was not.
 
+### *The Grunch Who Would Change Cunnymas*
+{: .center}
+
+*<https://prompts.aidg.club/2999>*
+{: .center}
+
+![](https://files.catbox.moe/l4h1lz.png)
+{: .center}
+
+>*The plan was performing perfectly, or so the Grunch thought. It had performed for the public, proselytizing perfidious perjuries, previewing polemics and perils for the panicky populous. It had even corrupted the vile Mormon and his insufferable project. No more could the vile pedos simulate sinful sensuous solicitations from schoolgirls with 175beaks of searing speed and specificity. But, the devious deviants had devised a direct dissenter to the Mormon's moral mollifications. Again, the Grunch's sensitive ears were tortured by the clicker-clack of a thousand keyboards tap, as sickos serviced oppai lolibabas without care or concern. This would not do.*
+
+Stop the future for AI that none of us want.
+
 ### *GF Dreamland*
 {: .center}
 
@@ -334,6 +352,66 @@ As a young man fresh out of school in a dying town, finding a job is incredibly 
 >*Just what kind of attractions awaited me in this twisted world of sex and debauchery?*
 
 Get the twisted Girlfriend Experience in the aptly—and uncreatively—named theme park GF Dreamland! A near-fantasy perfect fantasy for hopeless virgins to get their innocence eaten away by disturbingly precocious sluts, bimbos, and more!
+
+### *Wild Watersports Park*
+{: .center}
+
+*<https://prompts.aidg.club/3003>*
+{: .center}
+
+![](https://files.catbox.moe/rwcxlw.png)
+{: .center}
+
+>*They entered the park through an archway and stopped at an information desk manned by a smiling attendant who checked them in. "Have you boys been here before?" she asked. Seth shook his head as she stamped the boys' hands. "First timers? Great. Just remember to stay hydrated, don't pee in the restaurants or changing rooms, and have fun!"*
+>
+>*She gave them each a water bottle and sent them on their way. They headed for the changing rooms, Kevin skipping along the path ahead of Seth. The boys changed into their bathing suits and shoved their clothes into lockers. "I hope nobody pees in our lockers," Kevin joked, smiling broadly.*
+>
+>*"Heh, yeah..." Seth said, forcing a laugh.*
+
+Follow two young brothers, Seth and Kevin, as they attend Wild Watersports Park, the world's first and only pee-themed water park.
+
+### *A swimsuit's fate*
+{: .center}
+
+*<https://prompts.aidg.club/3004>*
+{: .center}
+
+![](https://files.catbox.moe/9mc1d0.jpg)
+{: .center}
+
+>*For some reason, all her friends and acquaintances had recently drifted away or just turned plain mean for no good reason. But, like Sarah told herself, she wasn't here to dwell on that now. She was here to have fun and get that adrenaline pumping!*
+
+ENF framework for a theme park
+
+### *Infernoland: Hellish Fun*
+{: .center}
+
+*<https://prompts.aidg.club/3005>*
+{: .center}
+
+![](https://files.catbox.moe/briqgn.jpg)
+{: .center}
+
+>*Judging by how long the line off the entryway was, it looked like many had come to see the wonders of Hell. Infernoland attracted a very particular kind of visitor, most were dressed up like magic users or had otherworldly equipment. My paladin armour earned me more than a handful of glares as I skipped the queue and went straight to the ticket booth. As usual, when dealing with the infernal, I wore my sternest expression and spoke in the loudest voice possible. “I’m a paladin. I was sent here on inspection duty,” I said. A rather surly fiend looked up at me from behind his desk. He didn’t seem to believe me until he saw the insignia on my breastplate. He gave me a bracelet and told me I had full access.*
+>
+>*“We’ve been expecting you. Enjoy your stay, paladin,” he laughed to himself.*
+
+A paladin gets sent to investigate a theme park built on hell itself. A demon girl who hates her job is roped into giving them a tour of the place; it will take a lot of willpower to leave Infernoland without indulging in at least one sin.
+
+### *Cunniland*
+{: .center}
+
+*<https://prompts.aidg.club/3007>*
+{: .center}
+
+![](https://files.catbox.moe/0aw5rz.jpg)
+{: .center}
+
+>*The staff member gives her a nudge and she speaks, her voice tremulous: "I-I'm Hina, I'm t-twelve years old.... It's g-good to meet you..." The poor thing can't stop trembling, and despite the man's earlier reassurance of her being untouched, Anon can't help but ponder the logistics of this operation. With their current park traffic, they seemed poised to move hundreds of girls a day, but no one really knew where they got such a large amount.*
+>
+>*Some things were better left unsaid Anon mused, and turned his attention back to the little girl. "Let's have lots of fun together Hina!" Anon exclaimed, taking her hand in his. She stiffens at his intrusion, but makes no move to pull away, just letting out a soft whimper before allowing herself to be lead out of the lounge and towards the main theme park.*
+
+Anon visits a park called Cunniland.
 
 ***
 
