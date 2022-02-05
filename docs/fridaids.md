@@ -441,7 +441,7 @@ Anon visits a park called Cunniland.
 >
 >*"Okay, I'm in," I tell her with a handshake.*
 
-Visit a haunted house attraction that advertises itself as a fun spot full of hot monster girls ready to service you. But the goblin receptionist seems like she's not being completely honest...
+Visit a haunted house attraction that advertises itself as a fun spot full of hot monster girls ready to service you. But the goblin receptionist seems like she's not being completely honest.
 
 ***
 
