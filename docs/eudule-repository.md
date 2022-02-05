@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Euterpe Module Repository"
+title: "Module Repository — Euterpe"
 permalink: /modules/euterpe
 ---
 

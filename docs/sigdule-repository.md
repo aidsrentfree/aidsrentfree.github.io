@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Module Repository"
+title: "Module Repository — Sigurd"
 permalink: /modules/sigurd
 ---
 
