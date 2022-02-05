@@ -44,6 +44,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*A swimsuit's fate*](#a-swimsuits-fate)
   - [*Infernoland: Hellish Fun*](#infernoland-hellish-fun)
   - [*Cunniland*](#cunniland)
+  - [*Monstergirl Spook Houze*](#monstergirl-spook-houze)
 - [The Friday of *Robots*](#the-friday-of-robots)
   - [*Do Robo-Gorillas Dream of Electric Bananas?*](#do-robo-gorillas-dream-of-electric-bananas)
   - [*Aboard the Abeona*](#aboard-the-abeona)
@@ -412,6 +413,35 @@ A paladin gets sent to investigate a theme park built on hell itself. A demon gi
 >*Some things were better left unsaid Anon mused, and turned his attention back to the little girl. "Let's have lots of fun together Hina!" Anon exclaimed, taking her hand in his. She stiffens at his intrusion, but makes no move to pull away, just letting out a soft whimper before allowing herself to be lead out of the lounge and towards the main theme park.*
 
 Anon visits a park called Cunniland.
+
+### *Monstergirl Spook Houze*
+{: .center}
+
+*<https://prompts.aidg.club/3009>*
+{: .center}
+
+![](https://files.catbox.moe/rwcxlw.png)
+{: .center}
+
+>*"Welcome!" a voice interrupts my thoughts. "To the one and only Monstergirl Spook Houze!"*
+>
+>*I'm surprised at the sight of a goblin girl, and she's wearing a goth dress and makeup.*
+>
+>*"Hello there young man," she greets me. "Care for a spooky adventure in the world of adult entertainment?"*
+>
+>*"Adult entertainment?" I repeat, curious.*
+>
+>*"Why yes! Here in the Monstergirl Spook Houze, you encounter various monster girls of many species, and they'll all be hungry for cock!"*
+>
+>*"Interesting," I say, masking my enthusiasm. "And how much does it cost to attend?"*
+>
+>*The goblin girl grins. "Actually, you're our billioneth customer. So today you can enjoy the experience... For free!"*
+>
+>*That sounds way too good to be true, but I don't have anything else to do right now, so I might as well give it a shot.*
+>
+>*"Okay, I'm in," I tell her with a handshake.*
+
+Visit a haunted house attraction that advertises itself as a fun spot full of hot monster girls ready to service you. But the goblin receptionist seems like she's not being completely honest...
 
 ***
 
