@@ -11,8 +11,9 @@ permalink: /modules/sigurd
 </style>
 
 # The Sigurd Module Repository
+{: .center}
 
-Here is a collection of modules produced for NovelAI's Sigurd model. If you're looking for the Euterpe collection, [go here](https://aidsrentfree.github.io/modules/euterpe)
+Here is a collection of modules produced for NovelAI's Sigurd model. If you're looking for the Euterpe collection, [go here.](https://aidsrentfree.github.io/modules/euterpe)
 {: .center}
 
 ***
