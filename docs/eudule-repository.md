@@ -10,10 +10,10 @@ permalink: /modules/euterpe
 		}
 </style>
 
-# The Rent-Free Euterpe Module Repository
+# The Euterpe Module Repository
 {: .center}
 
-With the debut of custom modules for Euterpe comes the fracturing of the module repository. This page serves as a collection of modules trained for the Euterpe model.
+With the debut of custom modules for Euterpe comes the fracturing of the module repository. This page serves as the list of modules trained for the Euterpe model. If you're looking for the Sigurd module collection, [go here](https://aidsrentfree.github.io/modules/sigurd)
 {: .center}
 
 *Because of shenanigans involving browser cache, you may need to hard refresh (Ctrl + Shift + R / Ctrl + F5) to see new stuff.*
@@ -34,15 +34,15 @@ With the debut of custom modules for Euterpe comes the fracturing of the module 
 - [Recent Changes](#recent-changes)
 - [Table of Contents](#table-of-contents)
 - [Modules](#modules)
-- [Writers](#writers)
-  - [Published Authors](#published-authors)
-  - [Web Authors](#web-authors)
+- [Authors](#authors)
+  - [Traditional](#traditional)
+  - [Independent](#independent)
+  - [Intellectual](#intellectual)
+  - [Online](#online)
 - [Themes](#themes)
   - [Setting](#setting)
     - [Established](#established)
-    - [Genre](#genre)
-    - [Historical](#historical)
-    - [Fantastical](#fantastical)
+    - [Generic](#generic)
   - [Elements](#elements)
     - [Concrete](#concrete)
     - [Abstract](#abstract)
@@ -52,15 +52,13 @@ With the debut of custom modules for Euterpe comes the fracturing of the module 
     - [Acts](#acts)
     - [Circumstances](#circumstances)
 - [Works](#works)
-  - [Literature](#literature)
+  - [Fiction](#fiction)
     - [Classic](#classic)
     - [Modern](#modern)
   - [Non-Fiction](#non-fiction)
-    - [Historical](#historical-1)
-    - [Religious](#religious)
-  - [Visual Novel](#visual-novel)
-  - [Light Novel](#light-novel)
-  - [Text Game](#text-game)
+  - [Visual Novels](#visual-novels)
+  - [Light Novels](#light-novels)
+  - [Text Games](#text-games)
   - [Web Fiction](#web-fiction)
   - [Scripts](#scripts)
 - [Utilities](#utilities)
@@ -68,28 +66,39 @@ With the debut of custom modules for Euterpe comes the fracturing of the module 
 ***
 
 ## Modules
+{: .center}
 
 - [Table of Contents](#table-of-contents) - *Complete outline of all modules.*
-- [Writers](#writers) - *Modules trying to replicate an author's writing style.*
+- [Authors](#authors) - *Modules trying to replicate an author's writing style.*
 - [Themes](#themes) - *Modules focusing on a particular theme, setting, or fetish.*
 - [Works](#works) - *Modules that attempt to imitate the style of a written work.*
 - [Utilities](#utilities) - *Modules focused on providing a non-narrative service with the goal of making the user's life easier.*
 
 ***
 
-## [Writers](#modules)
+## [Authors](#modules)
 {: .center}
 
-- [Published Authors](#published-authors) - *Authors whose works have been physically published in the form of books.*
-- [Web Authors](#web-authors) - *Authors whose works are available on online creative platforms or are part of an internet medium.*
+- [Traditional](#traditional) - *Authors whose works have been published by an established publishing house.*
+- [Independent](#independent) - *Authors whose works are published, but not through an established publishing house*
+- [Intellectual](#intellectual) - *Authors whose works are non-fictional.*
+- [Online](#web-authors) - *Authors whose works are available on online creative platforms or are part of an internet medium.*
 
 ***
 
-### [Published Authors](#writers)
+### [Traditional](#writers)
 
 ***
 
-### [Web Authors](#writers)
+### [Independent](#writers)
+
+***
+
+### [Intellectual](#writers)
+
+***
+
+### [Online](#writers)
 
 ***
 
@@ -106,11 +115,7 @@ With the debut of custom modules for Euterpe comes the fracturing of the module 
 
 #### [Established](#setting)
 
-#### [Genre](#setting)
-
-#### [Historical](#setting)
-
-#### [Fantastical](#setting)
+#### [Generic](#setting)
 
 ### [Elements](#themes)
 
@@ -131,19 +136,19 @@ With the debut of custom modules for Euterpe comes the fracturing of the module 
 ## [Works](#modules)
 {: .center}
 
-- [Literature](#literature) - *In this context, a catch-all term for predominantly Western literature that has been published.*
+- [Fiction](#fiction) - *In this context, a catch-all term for predominantly Western literature that has been published.*
 - [Non-Fiction](#non-fiction) - *Published non-fiction works.*
-- [Visual Novel](#visual-novel) - *Interactive fiction adapted into a traditional narrative structure.*
-- [Light Novel](#light-novel) - *Japanese young adult novels.*
-- [Text Game](#text-game) - *Text-based computer games, usually NSFW.*
+- [Visual Novels](#visual-novels) - *Interactive fiction adapted into a traditional narrative structure.*
+- [Light Novels](#light-novels) - *Japanese young adult novels.*
+- [Text Games](#text-games) - *Text-based computer games, usually NSFW.*
 - [Web Fiction](#web-fiction) - *Another generic term for any written fiction that is first uploaded and intended to be consumed on or through the internet.*
 - [Scripts](#Scripts) - *Text versions of dialog and actions in media, to then be used as a guideline for TVs, films, and other performance media.*
 
 ***
 
-### [Literature](#works)
+### [Fiction](#works)
 
-#### [Classic](#literature)
+#### [Classic](#fiction)
 
 #### [Modern](#works)
 
@@ -151,15 +156,11 @@ With the debut of custom modules for Euterpe comes the fracturing of the module 
 
 ### [Non-Fiction](#works)
 
-#### [Historical](#non-fiction)
+### [Visual Novels](#works)
 
-#### [Religious](#non-fiction)
+### [Light Novels](#works)
 
-### [Visual Novel](#works)
-
-### [Light Novel](#works)
-
-### [Text Game](#works)
+### [Text Games](#works)
 
 ### [Web Fiction](#works)
 
