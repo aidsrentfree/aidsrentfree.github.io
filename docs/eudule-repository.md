@@ -23,6 +23,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(6th February, 2022)
+
+- V2 IS ONLINE, FRIENDS.
+- Added [Tanya the Evil](#the-saga-of-tanya-the-evil) module.
+- Added [Seinfeld](#seinfeld) module.
+
 (4th February, 2022)
 
 - And we're live!
@@ -58,9 +64,11 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Non-Fiction](#non-fiction)
   - [Visual Novels](#visual-novels)
   - [Light Novels](#light-novels)
+    - [The Saga of Tanya the Evil](#the-saga-of-tanya-the-evil)
   - [Text Games](#text-games)
   - [Web Fiction](#web-fiction)
   - [Scripts](#scripts)
+    - [Seinfeld](#seinfeld)
 - [Utilities](#utilities)
 
 ***
@@ -160,11 +168,87 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ### [Light Novels](#works)
 
+#### [The Saga of Tanya the Evil](https://files.catbox.moe/r0r10t.module)
+
+[by bunray](https://discord.com/channels/836774308772446268/939922436500107314/939979431135567934)
+
+Embark on a journey of mayhem and warcrimes in Totally-Not-WW1 Europe and leave a trail of magical destruction in your wake, all while debating philosophy and ethnocentrism with God Being X, that absolute jackass.
+
+Tags: Military, WW1, Low Fantasy, Magic Realism, Attack and Dethrone God
+
+Sources: Saga of Tanya the Evil - Volumes 1-8, Carlo Zen, Yen Press Translation  (4.3mb, 4482 steps, 88.88% coverage, 2.8934 loss)
+
+I suggest downbiasing newlines, Carlo Zen uses a lot of them, as you can see below. Reminder that the narrator considers Tanya as a different person than himself, even though they are the same people.
+
+
 ### [Text Games](#works)
 
 ### [Web Fiction](#works)
 
 ### [Scripts](#works)
+
+#### [Seinfeld](https://files.catbox.moe/54tmfs.module)
+
+[by untouch](https://discord.com/channels/836774308772446268/939922436500107314/939980157551247422)
+
+What's the deal with euterpe?
+
+Tags: Seinfeld, George, Jerry, Elaine, Kramer, TV, Comedy
+
+Sources: Around half of the Seinfeld scripts, trained to 1.5 epochs.
+Final Loss: 2.13
+
+This is a retrain of an existing module that was slightly cleaned up. There's a better corpus of the seinfeld episodes, I might clean it up as well.
+
+It is advised that you turn off bracket bans.
+
+The format is as follows.
+[SCENE: ...] - Scene change.
+(action) - Actions
+
+>**[Scene: A large castle.]**
+>
+>JERRY: (to Elaine) I think you should go to the bathroom.
+>
+>ELAINE: Why?
+>
+>JERRY: Because it's a long way down that staircase, and if something happens...
+>
+>(Elaine looks at him.)
+>
+>ELAINE: What are you talking about?
+>
+>JERRY: You know what I'm talking about!
+>
+>ELAINE: Oh my God! Are you saying that there is some sort of emergency situation here?!
+>
+>JERRY: No, no, no! It's just a precautionary measure.
+>
+>ELAINE: Well, I don't have time for this. I've got to get back in there.
+>
+>JERRY: Wait a minute. We're not going anywhere until we find out where they keep the restrooms around here.
+>
+>ELAINE: Jerry! This is ridiculous!
+>
+>JERRY: Look, I can tell by your face that you need to use the restroom. So let me help you with that.
+>
+>ELAINE: Okay, okay. Let's go.
+>
+>(They walk over to the guard who is standing near the door.)
+>
+>GUARD: Excuse me sir. Can I help you?
+>
+>JERRY: Yes, we were wondering where the bathrooms are located.
+>
+>GUARD: The restrooms are right through those doors.
+>
+>ELAINE: Thank you very much.
+>
+>(The two exit the room and head towards the doors.)
+>
+>GUARD: Good luck.
+>
+>JERRY: Thanks.
 
 ## [Utilities](#modules)
 {: .center}
