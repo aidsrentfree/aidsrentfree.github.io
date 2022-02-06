@@ -175,7 +175,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 #### [Style](#elements)
 
-##### [Cross-Genre, Oh My!]()
+##### [Cross-Genre, Oh My!](https://files.catbox.moe/um8rft.module)
 
 [by OccultSage](https://discord.com/channels/854479693503660032/939950910690439179/940003307756326942)
 
