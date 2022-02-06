@@ -30,6 +30,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Seinfeld](#seinfeld) module.
 - Added [Small Equines](#small-equines) module.
 - Added [My Immortal](#my-immortal) module.
+- Added [Prinny](#prinnyd00d) module.
 
 (4th February, 2022)
 
@@ -47,6 +48,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Independent](#independent)
   - [Intellectual](#intellectual)
   - [Online](#online)
+    - [Prinnyd00d](#prinnyd00d)
 - [Themes](#themes)
   - [Setting](#setting)
     - [Established](#established)
@@ -111,6 +113,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 ***
 
 ### [Online](#writers)
+
+#### [Prinnyd00d](https://files.catbox.moe/bg3k1t.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371544232/#371546348)
+
+*Prinnyd00d vore module is GO*
 
 ***
 
