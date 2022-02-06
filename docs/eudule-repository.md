@@ -42,6 +42,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Tastatura](#tastatura) module.
 - Added [Tales of Androgyny](#tales-of-androgyny) module.
 - Added [Western (Romance)](#western-romance) module.
+- Added [Furry Yuri](#furry-yuri) module.
 
 (4th February, 2022)
 
@@ -83,6 +84,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Small Equines](#small-equines)
     - [Acts](#acts)
     - [Circumstances](#circumstances)
+      - [Furry Yuri](#furry-yuri)
 - [Works](#works)
   - [Fiction](#fiction)
     - [Classic](#classic)
@@ -537,6 +539,17 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 #### [Acts](#sexual)
 
 #### [Circumstances](#sexual)
+
+##### [Furry Yuri](https://files.catbox.moe/npu521.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371544232/#371560452)
+
+*Here's my furry yuri module again.*
+
+*The loss graph crashed on this one halfway through, but I closed and repopened the UI and it was still training, and the loss ended up being about 0.05 less than Sigurd at the same steps used so I think it trained properly.*<br>
+*Seems to pick up on the bondage influence in the training data more so than Sigurd did, so expect that.*
+
+*I'm going to add some more data to my other furfag modules before I retrain them, if anyone cares.*
 
 ## [Works](#modules)
 {: .center}
