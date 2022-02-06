@@ -43,6 +43,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Tales of Androgyny](#tales-of-androgyny) module.
 - Added [Western (Romance)](#western-romance) module.
 - Added [Furry Yuri](#furry-yuri) module.
+- Added [Fallout: Equestria](#fallout-equestria) module.
 
 (4th February, 2022)
 
@@ -68,6 +69,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - [Themes](#themes)
   - [Setting](#setting)
     - [Established](#established)
+      - [Fallout: Equestria](#fallout-equestria)
     - [Generic](#generic)
       - [Poetic Fantasy](#poetic-fantasy)
       - [Science Fantasy](#science-fantasy)
@@ -196,6 +198,14 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 ### [Setting](#themes)
 
 #### [Established](#setting)
+
+##### [Fallout: Equestria](https://files.catbox.moe/tsxmyd.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371544232/#371561653)
+
+*Undersized apocalypse horses module. Dunno if it's any good, but I figured at least some of the fags ITT would be interested.*
+
+*Trained on FoE, PH, MN7, etc. Might have stretched the steps too thin, dunno.*
 
 #### [Generic](#setting)
 
