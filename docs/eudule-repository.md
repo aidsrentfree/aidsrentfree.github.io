@@ -41,6 +41,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Surrealistic Look Through the Glass](#surrealistic-look-through-the-glass) module.
 - Added [Tastatura](#tastatura) module.
 - Added [Tales of Androgyny](#tales-of-androgyny) module.
+- Added [Western (Romance)](#western-romance) module.
 
 (4th February, 2022)
 
@@ -71,6 +72,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Science Fantasy](#science-fantasy)
       - [Surrealistic Look Through the Glass](#surrealistic-look-through-the-glass)
       - [The Great War](#the-great-war)
+      - [Western (Romance)](#western-romance)
   - [Elements](#elements)
     - [Concrete](#concrete)
     - [Abstract](#abstract)
@@ -324,6 +326,52 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *Basically first person past tense accounts of infantry on the western front, both historical and fictional to hopefully give an impression of the horrors of early 20th century combat and the disaffected ruined youth of that generation.*
 
 *I'll probably eventually whip up editions for the east, Italian front, and air combat.*
+
+##### [Western (Romance)](https://files.catbox.moe/1fk9a8.module)
+
+[by OccultSage](https://discord.com/channels/836774308772446268/939922436500107314/940026736547094618)
+
+*Yee haw! This module focuses on the Western Romance genre, but is leavened out by ordinary Westerns. LGBT and People of Color perspectives were also added in. Have fun roundin' them all up!*
+
+***NOTE:** This is the same module that has been re-trained on Euterpe.*
+
+***Source Material:** 8.5mb, 9440 steps, 100% coverage, 2.57 loss*
+
+- Title: Barbed Wire | Author: Erin Wade | Genre: Western Romance, LGBT
+- Title: Brokeback Mountain | Author: Annie Proulx | Genre: Western Romance, LGBT
+- Title: Calico Spy | Author: Margaret Brownley | Genre: Western Romance
+- Title: Cherokee Trail | Author: Lois L'Amour | Genre: Western
+- Title: Dawn Comes Early | Author: Margaret Brownley | Genre: Western Romance
+- Title: Gunpowder Tea | Author: Margaret Brownley | Genre: Western Romance
+- Title: Marry Me By Sundown | Author: Johanna Lindsey | Genre: Western Romance
+- Title: One Heart To Win | Author: Johanna Linsey | Genre: Western Romance
+- Title: Petticoat Detective | Author: Margaret Brownley | Genre: Western Romance
+- Title: A Quiet Faith | Author: Embassie Susberry | Genre: Western, People of Color
+- Title: A Quiet Strength | Author: Embassie Susberry | Genre: Western; People of Color
+- Title: Riders of the Purple Sage | Author: Zane Grey | Genre: Western
+- Title: The Saloon Lawyer | Author: C.J. Petit | Genre: Western
+- Title: Stagecoach to Hell and Back | Author: Derek Levine | Genre: Western
+- Title: Waiting for Morning | Author: Margaret Brownley | Genre: Western Romance
+- Title: Wildfire in His Arms | Author: Johanna Lindsey | Genre: Western Romance
+- Title: The Woodcutter | Author: R. O. Lane | Genre: Western
+
+>**She rode, and rode after the love of her life**, but he had already gone west. Her heart was broken and she cried for days, weeks, and months. She vowed to follow him and bring him back.
+>
+>The long winter months passed quickly for her. It wasn't so much the cold that bothered her as it was knowing that there would be no more joy in the warmth of his arms. There was no comfort in this cold season, only a longing for the man who stole her heart.
+>
+>On Christmas Day, she was awakened by the sound of hooves on the frozen ground. For a moment, she thought it was a dream—the memory of another time and place when they were together. She rose from the bed and walked softly downstairs to investigate. The horses were harnessed up to the wagon and ready to go. She had not seen the wagon in the yard since before she left Texas. He was coming home to her!
+>
+>"It's too early," she whispered to herself. "He will be here at midnight, or even later." She slipped out the back door and headed toward the barn. As she crossed the yard, she noticed a faint glow of light in the barn window.
+>
+>"Is he here?" she wondered. She drew nearer. No one answered, but she could see a lantern hanging inside the barn. She felt a little foolish sneaking into the barn, but she was so excited, she couldn't help herself. She hurried inside and found him in the loft, fast asleep. He looked so handsome and peaceful. She smiled as she saw the quilt thrown over his legs.
+>
+>He stirred at the sound of her voice. His eyes opened slowly. Then, with a start, he recognized her.
+>
+>"Oh, my God! What are you doing here?" He tried to sit up but quickly fell back onto the hay. "I am sorry, I didn't mean to wake you. But it is so good to see you again."
+>
+>"It's good to see you again, too," she said softly. She crawled across the loft to join him, careful not to make any noise. His body was warm under the quilt and he felt so right.
+>
+>"It has been too long," he said. "I have missed you."
 
 ### [Elements](#themes)
 
