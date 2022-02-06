@@ -13,7 +13,7 @@ permalink: /modules/euterpe
 # The Euterpe Module Repository
 {: .center}
 
-With the debut of custom modules for Euterpe comes the fracturing of the module repository. This page serves as the list of modules trained for the Euterpe model. If you're looking for the Sigurd module collection, [go here.](https://aidsrentfree.github.io/modules/sigurd)
+This page serves as the list of modules trained for the Euterpe model. If you're looking for the Sigurd module collection, [go here.](https://aidsrentfree.github.io/modules/sigurd)
 {: .center}
 
 *Because of shenanigans involving browser cache, you may need to hard refresh (Ctrl + Shift + R / Ctrl + F5) to see new stuff.*
