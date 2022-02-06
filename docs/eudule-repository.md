@@ -31,6 +31,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Small Equines](#small-equines) module.
 - Added [My Immortal](#my-immortal) module.
 - Added [Prinny](#prinnyd00d) module.
+- Added [Tolkien](#j-r-r-tolkien) module.
 
 (4th February, 2022)
 
@@ -45,6 +46,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - [Modules](#modules)
 - [Authors](#authors)
   - [Traditional](#traditional)
+    - [J R. R. Tolkien](#j-r-r-tolkien)
   - [Independent](#independent)
   - [Intellectual](#intellectual)
   - [Online](#online)
@@ -101,6 +103,20 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 ***
 
 ### [Traditional](#writers)
+
+#### [J R. R. Tolkien](https://files.catbox.moe/4mf2um.module)
+
+[by untouch](https://discord.com/channels/836774308772446268/939922436500107314/940002253136334949)
+
+*A module trained on The Silmarillion, The Lord of the Rings and the Hobbit books, for Euterpe.*
+
+***Tags:** LOTR, Hobbit, Fantasy, Tolkien*
+
+*Sources: The Silmarillion, The Lord of the Rings and the Hobbit books
+
+*This is a retrain of an existing module that was considerably cleaned up, trained to one epoch. There are some odd formatting issues with quotes but the issues are considerably less than the old module.*
+
+***Final Loss:** 2.64*
 
 ***
 
