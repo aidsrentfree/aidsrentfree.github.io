@@ -28,6 +28,8 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - V2 IS ONLINE, FRIENDS.
 - Added [Tanya the Evil](#the-saga-of-tanya-the-evil) module.
 - Added [Seinfeld](#seinfeld) module.
+- Added [Small Equines](#small-equines) module.
+- Added [My Immortal](#my-immortal) module.
 
 (4th February, 2022)
 
@@ -55,6 +57,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Style](#style)
   - [Sexual](#sexual)
     - [Beings](#beings)
+      - [Small Equines](#small-equines)
     - [Acts](#acts)
     - [Circumstances](#circumstances)
 - [Works](#works)
@@ -67,6 +70,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [The Saga of Tanya the Evil](#the-saga-of-tanya-the-evil)
   - [Text Games](#text-games)
   - [Web Fiction](#web-fiction)
+    - [My Immortal](#my-immortal)
   - [Scripts](#scripts)
     - [Seinfeld](#seinfeld)
 - [Utilities](#utilities)
@@ -137,6 +141,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 #### [Beings](#sexual)
 
+##### [Small Equines](https://files.catbox.moe/yr70sq.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371544232/#371545765)
+
+*I'm back with the small equines module. Top rated small horse degeneracy stories focused on the smallest horses. 2.25mb, 3k steps, 2.54 loss.*
+
 #### [Acts](#sexual)
 
 #### [Circumstances](#sexual)
@@ -183,6 +193,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 ### [Text Games](#works)
 
 ### [Web Fiction](#works)
+
+#### [My Immortal](https://files.catbox.moe/nk3025.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371544232/#371545992)
+
+*Here is the My Immortal 1000% module!*
 
 ### [Scripts](#works)
 
