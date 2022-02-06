@@ -24,16 +24,16 @@ Thus the repo continues here, where character limit concerns are a thing of the 
 ## **CHOOSE YOUR CHARACTER**
 {: .center}
 
-![Euterpe](https://files.catbox.moe/pe64m1.gif)
-{: .center}
-
 [**EUTWERP**](https://aidsrentfree.github.io/modules/euterpe)
 {: .center}
 
-![Sigurd](https://files.catbox.moe/tzp1sk.jpg)
+![Euterpe](https://files.catbox.moe/pe64m1.gif)
 {: .center}
 
 [**SIGMUND**](https://aidsrentfree.github.io/modules/sigurd)
+{: .center}
+
+![Sigurd](https://files.catbox.moe/tzp1sk.jpg)
 {: .center}
 
 ***
