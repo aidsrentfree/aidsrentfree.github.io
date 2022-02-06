@@ -38,6 +38,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Poetic Fantasy](#poetic-fantasy) module.
 - Added [WW1](#the-great-war) module.
 - Added [P. G. Wodehouse](#p-g-wodehouse) module.
+- Added [Surrealistic Look Through the Glass](#surrealistic-look-through-the-glass) module.
 
 (4th February, 2022)
 
@@ -65,6 +66,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Generic](#generic)
       - [Poetic Fantasy](#poetic-fantasy)
       - [Science Fantasy](#science-fantasy)
+      - [Surrealistic Look Through the Glass](#surrealistic-look-through-the-glass)
       - [The Great War](#the-great-war)
   - [Elements](#elements)
     - [Concrete](#concrete)
@@ -251,6 +253,55 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Major fandoms drawn from are Star Wars, Star Trek (select stories), Halo, Mass Effect, and 40K.*
 
+##### [Surrealistic Look Through the Glass](https://files.catbox.moe/df2bf6.module)
+
+[by OccultSage](https://discord.com/channels/836774308772446268/939922436500107314/940023689427169301)
+
+*This is a theme module for those that enjoy surrealistic, whimsical, and sometimes dark stories along the vein of Lewis Carrol's Alice's Adventure in Wonderland, or Neil Gaiman's Neverwhere.*
+
+***Tags:** Alice in Wonderland, Surrealistic, Neil Gaiman, Literary Nonsense*
+
+***Source Material:** 2.9mb, 2200 steps*
+
+- Title: Alice's Adventures in Wonderland; Author: Lewis Carroll; Genre: Fantasy; literary nonsense
+- Title: Through The Looking-Glass; Author: Lewis Carroll; Genre: Fantasy; literary nonsense
+- Title: Neverwhere; Author: Neil Gaiman; Genre: Urban fantasy
+- Title: Coraline; Author: Neil Gaiman; Genre: Dark fantasy; children
+- Title: Splintered; Author: A. G. Howard; Genre: Fantasy
+- Title: Ten Thousand Doors of January; Author: Alix E. Harrow; Genre: Fantasy; magical realism
+- Title: Night Circus; Author: Erin Morgenstern; Genre: Fantasy; romance
+
+>**Morgan's brows furrowed, and he stared** down at the book. "You're sure? She was in there?"
+>
+>"It's true," said the white rabbit. He glanced at Alice again. His ears were very long, so long that they brushed the ground. "There, see? They are still moving."
+>
+>Morgan reached out for the book, but Alice snatched it back. The rabbit made no attempt to stop her; indeed, he seemed rather to encourage her, bobbing his head as she read.
+>
+>"It says here: 'And now, as winter draws in on its dark wings, and the moon moves farther from the earth, we bid you good night.' I don't understand it—I think perhaps it must be a poem or something," Alice said.
+>
+>"No, I'm pretty sure that's just what happens when the world ends," the rabbit said. "A poem—it says 'when winter draws in'—but I don't know how winter is drawing in."
+>
+>"Yes, well, that might be because the book doesn't seem to make any sense," Alice said. "It's written in a sort of code. It says something about a maze, and there's all these dots and things and lines crossed out and words that aren't even spelled right. I've tried to decipher it, but there are too many letters with multiple meanings. For example, it looks like the word 'moon' has more than one meaning. See, it says 'the moon is shining bright.' And then it also says 'and the moon moves farther from the earth.' And 'night,' and 'nighttime' and 'nightmare' and 'dreaming' and 'nightmares' and 'nightmares' and...well, you can see that it gets a little confusing."
+>
+>The rabbit smiled. "I don't think it is meant to make sense," he said.
+>
+>"Well, I still don't understand it," Alice said, glancing at the clock.
+
+>**Once upon a time**, there was a very rich man who had four sons. The younger three were selfish and lazy. They did not like to work at all. They thought their father's money would continue to fall from the sky, so they did nothing but sit in their rooms reading books and making music all day long.
+>
+>One day, a beggar came up to them and asked for some food.
+>
+>The first son said, "Why should I feed you? You are a dirty old man."
+>
+>The second son said, "You have no manners. Get away from here, beggar!"
+>
+>The third son said, "I don't care what you think of me, but if my brothers give you food, then it is as good as mine."
+>
+>So he gave the beggar some food too. The beggar thanked him and left.
+>Then the older brother said, "Now we will see whether our father really loves us or not."
+>
+>And they all sat down to wait. Soon after that, the eldest brother died, and soon after that the second brother died, and soon after that the youngest brother also died, and just when the oldest son was about to die, his coffin broke open. All his gold fell out onto the ground.
+>Then the richest man in the kingdom saw this and said, "Here is a strange thing! If the dead brothers did not need any food, how could the eldest son die?"
 ##### [The Great War](https://files.catbox.moe/ke8xa6.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/371544232/#371552753)
