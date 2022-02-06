@@ -16,6 +16,9 @@ permalink: /modules/sigurd
 Here is a collection of modules produced for NovelAI's Sigurd model. If you're looking for the Euterpe collection, [go here.](https://aidsrentfree.github.io/modules/euterpe)
 {: .center}
 
+*Because of shenanigans involving browser cache, you may need to hard refresh (Ctrl + Shift + R / Ctrl + F5) to see new stuff.*
+{: .center}
+
 ***
 
 ## Recent Changes
