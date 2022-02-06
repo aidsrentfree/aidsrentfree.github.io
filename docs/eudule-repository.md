@@ -36,6 +36,8 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Cross-Genre](#cross-genre-oh-my) module.
 - Added [C. S. Lewis](#c-s-lewis) module.
 - Added [Poetic Fantasy](#poetic-fantasy) module.
+- Added [WW1](#the-great-war) module.
+- Added [P. G. Wodehouse](#p-g-wodehouse) module.
 
 (4th February, 2022)
 
@@ -52,6 +54,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Traditional](#traditional)
     - [C. S. Lewis](#c-s-lewis)
     - [J R. R. Tolkien](#j-r-r-tolkien)
+    - [P. G. Wodehouse](#p-g-wodehouse)
   - [Independent](#independent)
   - [Intellectual](#intellectual)
   - [Online](#online)
@@ -62,6 +65,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Generic](#generic)
       - [Poetic Fantasy](#poetic-fantasy)
       - [Science Fantasy](#science-fantasy)
+      - [The Great War](#the-great-war)
   - [Elements](#elements)
     - [Concrete](#concrete)
     - [Abstract](#abstract)
@@ -133,6 +137,16 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *This is a retrain of an existing module that was considerably cleaned up, trained to one epoch. There are some odd formatting issues with quotes but the issues are considerably less than the old module.*
 
 ***Final Loss:** 2.64*
+
+#### [P. G. Wodehouse](https://files.catbox.moe/8781qt.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371544232/#371553491)
+
+*PG Wodehouse Euterpe V2 module, trained to 50.14% with 4100 steps.*
+
+*Trained on 22 full novels and collections; 608,000+ words.*
+
+*Much Obliged, Jeeves, The Inimitable Jeeves, Stiff Upper Lip, Jeeves, Right Ho Jeeves, Jeeves in the Offing, My Man Jeeves, The Man with Two Left Feet, The Girl on the Boat, Psmith in the City, Three Men and a Maid, Tales of St. Austin’s, The Adventures of Sally, The Clicking of Cuthbert, The Prince and Betty, The Gold Bat, The Coming Of Bill, The Little Nugget, Something New, Spring Fever, Mike and Psmith, Not George Washington , Love Among The Chickens*
 
 ***
 
@@ -236,6 +250,19 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *This specific module mostly trained on Space Fantasy material, a Science Fantasy sub-genre. The supernatural, religion, starships, and machines are something to expect. Magic and Science tend to blur.*
 
 *Major fandoms drawn from are Star Wars, Star Trek (select stories), Halo, Mass Effect, and 40K.*
+
+##### [The Great War](https://files.catbox.moe/ke8xa6.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371544232/#371552753)
+
+*Updated the WW1 module for Euterpe*
+
+> \>what went into this?
+
+*Autism. Autism went into that, along with All Quiet on the Western Front by Erich Maria Remarque, A Storm of Steel by Ernst Jünger, Under Fire by Henri Barbusse , poems by Wilfred Own, Infantry Attacks by Rommel, and more.*<br>
+*Basically first person past tense accounts of infantry on the western front, both historical and fictional to hopefully give an impression of the horrors of early 20th century combat and the disaffected ruined youth of that generation.*
+
+*I'll probably eventually whip up editions for the east, Italian front, and air combat.*
 
 ### [Elements](#themes)
 
