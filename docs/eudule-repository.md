@@ -34,6 +34,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Tolkien](#j-r-r-tolkien) module.
 - Added [Science Fantasy](#science-fantasy) module.
 - Added [Cross-Genre](#cross-genre-oh-my) module.
+- Added [C. S. Lewis](#c-s-lewis) module.
 
 (4th February, 2022)
 
@@ -48,6 +49,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - [Modules](#modules)
 - [Authors](#authors)
   - [Traditional](#traditional)
+    - [C. S. Lewis](#c-s-lewis)
     - [J R. R. Tolkien](#j-r-r-tolkien)
   - [Independent](#independent)
   - [Intellectual](#intellectual)
@@ -107,6 +109,14 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 ***
 
 ### [Traditional](#writers)
+
+#### [C. S. Lewis](https://mega.nz/file/VGwygKKa#oUAumhzb2td1uEyv_qDlC1XLnz0Ali66O4_dSqvEzN0)
+
+[by Anon](https://arch.b4k.co/vg/thread/371544232/#371550395)
+
+*I've trained my CS Lewis module for Euterpe V2. Tested and seems to be working extremely well, his style comes through much more strongly than it did with Sigurd.*
+
+*Training data is most of Lewis's fiction: Narnia books, Space Trilogy, Screwtape Letters, The Great Divorce, Til We Have Faces, Pilgim's Regress. Plus a small selection of non-fiction works: Mere Christianity, The Four Loves, The Weight of Glory.*
 
 #### [J R. R. Tolkien](https://files.catbox.moe/4mf2um.module)
 
