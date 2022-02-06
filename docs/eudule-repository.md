@@ -172,14 +172,13 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 [by bunray](https://discord.com/channels/836774308772446268/939922436500107314/939979431135567934)
 
-Embark on a journey of mayhem and warcrimes in Totally-Not-WW1 Europe and leave a trail of magical destruction in your wake, all while debating philosophy and ethnocentrism with God Being X, that absolute jackass.
+*Embark on a journey of mayhem and warcrimes in Totally-Not-WW1 Europe and leave a trail of magical destruction in your wake, all while debating philosophy and ethnocentrism with God Being X, that absolute jackass.*
 
-Tags: Military, WW1, Low Fantasy, Magic Realism, Attack and Dethrone God
+***Tags:** Military, WW1, Low Fantasy, Magic Realism, Attack and Dethrone God*
 
-Sources: Saga of Tanya the Evil - Volumes 1-8, Carlo Zen, Yen Press Translation  (4.3mb, 4482 steps, 88.88% coverage, 2.8934 loss)
+***Sources:** Saga of Tanya the Evil - Volumes 1-8, Carlo Zen, Yen Press Translation  (4.3mb, 4482 steps, 88.88% coverage, 2.8934 loss)*
 
-I suggest downbiasing newlines, Carlo Zen uses a lot of them, as you can see below. Reminder that the narrator considers Tanya as a different person than himself, even though they are the same people.
-
+*I suggest downbiasing newlines, Carlo Zen uses a lot of them, as you can see below. Reminder that the narrator considers Tanya as a different person than himself, even though they are the same people.*
 
 ### [Text Games](#works)
 
@@ -191,20 +190,22 @@ I suggest downbiasing newlines, Carlo Zen uses a lot of them, as you can see bel
 
 [by untouch](https://discord.com/channels/836774308772446268/939922436500107314/939980157551247422)
 
-What's the deal with euterpe?
+*What's the deal with euterpe?*
 
-Tags: Seinfeld, George, Jerry, Elaine, Kramer, TV, Comedy
+***Tags:** Seinfeld, George, Jerry, Elaine, Kramer, TV, Comedy*
 
-Sources: Around half of the Seinfeld scripts, trained to 1.5 epochs.
-Final Loss: 2.13
+***Sources:** Around half of the Seinfeld scripts, trained to 1.5 epochs.*
 
-This is a retrain of an existing module that was slightly cleaned up. There's a better corpus of the seinfeld episodes, I might clean it up as well.
+***Final Loss:** 2.13*
 
-It is advised that you turn off bracket bans.
+*This is a retrain of an existing module that was slightly cleaned up. There's a better corpus of the seinfeld episodes, I might clean it up as well.*
 
-The format is as follows.
-[SCENE: ...] - Scene change.
-(action) - Actions
+*It is advised that you turn off bracket bans.*
+
+*The format is as follows.*
+
+    [SCENE: ...] - Scene change.
+    (action) - Actions
 
 >**[Scene: A large castle.]**
 >
