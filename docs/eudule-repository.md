@@ -35,6 +35,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Science Fantasy](#science-fantasy) module.
 - Added [Cross-Genre](#cross-genre-oh-my) module.
 - Added [C. S. Lewis](#c-s-lewis) module.
+- Added [Poetic Fantasy](#poetic-fantasy) module.
 
 (4th February, 2022)
 
@@ -59,6 +60,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Setting](#setting)
     - [Established](#established)
     - [Generic](#generic)
+      - [Poetic Fantasy](#poetic-fantasy)
       - [Science Fantasy](#science-fantasy)
   - [Elements](#elements)
     - [Concrete](#concrete)
@@ -166,6 +168,64 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 #### [Established](#setting)
 
 #### [Generic](#setting)
+
+##### [Poetic Fantasy](https://files.catbox.moe/o4h9cy.module)
+
+[by OccultSage](https://discord.com/channels/836774308772446268/939922436500107314/940009392118571089)
+
+*Some of the best and most poetic fantasy written went into this module, from Guy Gavriel Kay, Mervyn Peake, Patricia A. McKillip and others. If you want beautiful prose in an almost fairy-tale setting, this is the module for you!*
+
+***Tags:** Fantasy, Poetic, Mythic, Fairy Tales*
+
+***Source Material:** 6.8mb, 12000 steps, 154% coverage, 2.809 loss*
+
+- Title: Book of Atrix Wolfe, The; Author: Patricia A. McKillip; Genre: Fantasy
+- Title: Forgotten Beasts of Eld; Author: Patricia A. McKillip; Genre: Fantasy
+- Title: Ombria in Shadow; Author: Patricia A. McKillip; Genre: Fantasy
+- Title: Golem and the Jinni; Author: Helene Wecker; Genre: Fantasy
+- Title: King of Elfland's Daughter, The; Author: Lord Dunsany; Genre: Fantasy
+- Title: Last Unicorn, The; Author: Peter S. Beagle; Genre: Fantasy
+- Title: Penric and the Shaman; Author: Lois McMaster Bujold; Genre: Fantasy
+- Title: Penric's Demon; Author: Lois McMaster Bujold; Genre: Fantasy
+- Title: Penric's Mission; Author:Lois McMaster Bujold; Genre: Fantasy
+- Title: Tigana; Author: Guy Gavriel Kay; Genre: Fantasy
+- Title: Titus Groan; Author: Mervyn Peake; Genre: Fantasy
+- Title: Uprooted; Author: Naomi Novik; Genre: Fantasy
+- Title: Wizard of Earthsea; Author: Usrula K. le Guin; Genre: Fantasy
+
+>**The mermaid sang upon the rocks,** and the gulls wheeled about her in a strange and ungraspable dance. And as they circled they saw beneath her the mermaid's arms were stretched out wide upon the sea, and her hands were empty: but the palms of her hands were covered with blood.
+>
+>And as the gulls cried out across the ocean to each other: "What is this?" one answered: "I have seen it before—in a dream." And then another said: "It is the time when the mermaid sleeps, and dreams of her lover." And yet another: "That is why we do not eat human flesh; for we know that the spirit sleeps, and that if we kill it, its soul shall come forth again from the grave."
+>
+>Then one of them cried out: "We are birds of sorrowful heart, for our hearts are heavy with sadness and grief." And all the birds, wherever they flew, sang together, and the mermaid slept.
+
+>**The witch was mercurial and beautiful**
+>
+>With her black hair and black eyes,
+>
+>She lived alone on the mountain's heights,
+>
+>And she knew the secrets of all things.
+>
+>—Mallin de la Hame, The Song
+`
+>**The witch was mercurial and beautiful**, but her magic was like a snake in the grass. I'd thought she was coming for me because I knew about the potion, but it turned out to be something else entirely.
+>
+>She came to my bed one night when I was sleeping and woke me up. She told me she had a gift for me. It would make me happy and strong forever, and so much more than that. She would have been right, if only...
+>
+>My name is Alessia, and this is my story.
+>
+>***
+>
+>I woke to voices outside my window and looked out through the bars. A witch was there, a woman with skin like bronze, hair as dark as an owl's feathers. I could see she wasn't alone—there were other women standing behind her, all of them looking at me with hunger in their eyes. They were young, old, tall, short; they wore peasant dresses or gowns of fine linen; some held babies in their arms while others carried baskets on their backs. They were all different races, from all over the world—but they looked like sisters.
+>
+>"Alessia?" the witch asked me. "Is that you?"
+>
+>I realized then that I must have fallen asleep, curled up in my bed, and dreamed that she'd come for me. I wanted to tell her no, but I couldn't find my voice.
+>
+>The witch smiled, and I saw her face change from her own, to mine. And then she laughed, and said, "Oh, how lovely, dear girl."
+>
+>They all laughed then, as she led me down the stairs to meet them.
 
 ##### [Science Fantasy](https://files.catbox.moe/coib5d.module)
 
