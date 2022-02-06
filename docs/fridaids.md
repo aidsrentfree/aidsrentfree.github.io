@@ -420,7 +420,7 @@ Anon visits a park called Cunniland.
 *<https://prompts.aidg.club/3009>*
 {: .center}
 
-![](https://files.catbox.moe/rwcxlw.png)
+![](https://files.catbox.moe/lrfgql.png)
 {: .center}
 
 >*"Welcome!" a voice interrupts my thoughts. "To the one and only Monstergirl Spook Houze!"*
