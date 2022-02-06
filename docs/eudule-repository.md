@@ -32,6 +32,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [My Immortal](#my-immortal) module.
 - Added [Prinny](#prinnyd00d) module.
 - Added [Tolkien](#j-r-r-tolkien) module.
+- Added [Science Fantasy](#science-fantasy) module.
 
 (4th February, 2022)
 
@@ -55,6 +56,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Setting](#setting)
     - [Established](#established)
     - [Generic](#generic)
+      - [Science Fantasy](#science-fantasy)
   - [Elements](#elements)
     - [Concrete](#concrete)
     - [Abstract](#abstract)
@@ -152,6 +154,16 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 #### [Established](#setting)
 
 #### [Generic](#setting)
+
+##### [Science Fantasy](https://files.catbox.moe/coib5d.module)
+
+[by BaronJoshua](https://discord.com/channels/836774308772446268/939922436500107314/940004284660084776)
+
+*Science Fantasy is a genre that combines Science Fiction with elements of the Fantasy genre. Typically involving religion, philosophy, good vs evil, magic, science so advanced it's like magic, computerized gods, and robots. Star Wars is the most well known media franchise of the genre though Superhero fiction also tends to lap into this category.*
+
+*This specific module mostly trained on Space Fantasy material, a Science Fantasy sub-genre. The supernatural, religion, starships, and machines are something to expect. Magic and Science tend to blur.*
+
+*Major fandoms drawn from are Star Wars, Star Trek (select stories), Halo, Mass Effect, and 40K.*
 
 ### [Elements](#themes)
 
