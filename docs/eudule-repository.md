@@ -39,6 +39,8 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [WW1](#the-great-war) module.
 - Added [P. G. Wodehouse](#p-g-wodehouse) module.
 - Added [Surrealistic Look Through the Glass](#surrealistic-look-through-the-glass) module.
+- Added [Tastatura](#tastatura) module.
+- Added [Tales of Androgyny](#tales-of-androgyny) module.
 
 (4th February, 2022)
 
@@ -60,6 +62,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Intellectual](#intellectual)
   - [Online](#online)
     - [Prinnyd00d](#prinnyd00d)
+    - [Tastatura](#tastatura)
 - [Themes](#themes)
   - [Setting](#setting)
     - [Established](#established)
@@ -87,6 +90,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Light Novels](#light-novels)
     - [The Saga of Tanya the Evil](#the-saga-of-tanya-the-evil)
   - [Text Games](#text-games)
+    - [Tales of Androgyny](#tales-of-androgyny)
   - [Web Fiction](#web-fiction)
     - [My Immortal](#my-immortal)
   - [Scripts](#scripts)
@@ -167,6 +171,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 [by Anon](https://arch.b4k.co/vg/thread/371544232/#371546348)
 
 *Prinnyd00d vore module is GO*
+
+#### [Tastatura](https://files.catbox.moe/orh3ui.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371544232/#371558509)
+
+*Here is the Euterpe trained Tastatura module. This online smut writer features very verbose and raunchy subjects, often revolving around incest, maledom, a bit of loli, and a lot of big-dick shota. Trained to 70%/5~ MB of data. Use at your own risk.*
 
 ***
 
@@ -520,6 +530,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *I suggest downbiasing newlines, Carlo Zen uses a lot of them, as you can see below. Reminder that the narrator considers Tanya as a different person than himself, even though they are the same people.*
 
 ### [Text Games](#works)
+
+#### [Tales of Androgyny](https://files.catbox.moe/orh3ui.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371544232/#371558509)
+
+*Here is the Tales of Androgyny module. A VN-style game focusing on anal, respecting peoples' b-holes, and other gay stuff. Features very explicit prose and replicates the VN-style quite viscerally. Makes for a fun text adventure experience. Trained to 70%/3.5~ MB of data. Try not to get your ass blown out too hard.*
 
 ### [Web Fiction](#works)
 
