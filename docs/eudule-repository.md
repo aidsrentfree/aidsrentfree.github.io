@@ -40,6 +40,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [George Orwell](#george-orwell) module.
 - Added [Nineteen Eighty-Four](#ninteen-eighty-four) module.
 - Added [Warrior Cats Universe](#warrior-cats-universe) module.
+- Added [The King James Bible](#the-king-james-bible) module.
 
 (6th February, 2022)
 
@@ -123,6 +124,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Ninteen Eighty-Four](#ninteen-eighty-four)
     - [Modern](#modern)
   - [Non-Fiction](#non-fiction)
+    - [The King James Bible](#the-king-james-bible)
   - [Visual Novels](#visual-novels)
     - [Ace Attorney](#ace-attorney)
   - [Light Novels](#light-novels)
@@ -308,18 +310,20 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Official Harpercollins Books By Erin Hunter:*
 
-- ARC 1: Into the Wild | Fire and Ice | Forest of Secrets | Rising Storm | A Dangerous Path | The Darkest Hour
-- ARC 2: Midnight | Moonrise | Dawn | Twilight
-- ARC 3: Dark River | Outcast | Eclipse | Long Shadows
-- ARC 4: Fading Echoes | Night Whispers | Sign of the Moon | The Forgotten Warrior
-- ARC 5: The First Battle | The Blazing Star | A Forest Divided | Path of Stars
-- ARC 6: The Apprentice's Quest | Thunder and Shadow | Shattered Sky | Darkest Night | The Raging Storm
-- Super Editions: Bluestar's Prophecy | SkyClan's Destiny | Crookedstar's Promise | Yellowfang's Secret | Moth Flight's Vision | Tigerheart's Shadow | Crowfeather's Trial | Squirrelflight's Hope
-- Novella: Mistystar's Omen | Cloudstar's Journey | Goosefeather's Curse | Ravenpaw's Farewell
+- ARC 1: Into the Wild, Fire and Ice, Forest of Secrets, Rising Storm, A Dangerous Path, The Darkest Hour
+- ARC 2: Midnight, Moonrise, Dawn, Twilight
+- ARC 3: Dark River, Outcast, Eclipse, Long Shadows
+- ARC 4: Fading Echoes, Night Whispers, Sign of the Moon, The Forgotten Warrior
+- ARC 5: The First Battle, The Blazing Star, A Forest Divided, Path of Stars
+- ARC 6: The Apprentice's Quest, Thunder and Shadow, Shattered Sky, Darkest Night, The Raging Storm
+- Super Editions: Bluestar's Prophecy, SkyClan's Destiny, Crookedstar's Promise, Yellowfang's Secret, Moth Flight's Vision, Tigerheart's Shadow, Crowfeather's Trial, Squirrelflight's Hope
+- Novella: Mistystar's Omen, Cloudstar's Journey, Goosefeather's Curse, Ravenpaw's Farewell
 - Field Guides: Enter the Clans
-- Fanfiction Story:
-- Fanfiction.net: Exiled | The- | Fire- | Misty- | Spotted- | Winds- | Our- | Tiger- | Falling- | Seeing- | Rise- | Bitter- | The- | Thawing- | Blood- | Truth- | OneFire | Jayfeather- | Beyond- | No- | My- | Best- | Cold- | Red- | Fireheart- | sunny- | I- | Catmint- | Kin- | If- | Sandstorm- | Misty- | Thank- | Firestar- | Rewind | The- | True- | Starclan- | Fallen- | Brothers | Lost- | Firestar- | What- | Heathertail- | Vengeance | Temptations- | True- | Jayfeather- | A- | A- | In- | Forgive | Crawl | Fidelis | All- | Fire- | Lust
-- Ao3: Brighter- | Once- | Simpler- | Blind- | Hes- | Twisted- | Rekindled
+
+*Fanfiction Story:*
+
+- Fanfiction.net: Exiled, The-, Fire-, Misty-, Spotted-, Winds-, Our-, Tiger-, Falling-, Seeing-, Rise-, Bitter-, The-, Thawing-, Blood-, Truth-, OneFire, Jayfeather-, Beyond-, No-, My-, Best-, Cold-, Red-, Fireheart-, sunny-, I-, Catmint-, Kin-, If-, Sandstorm-, Misty-, Thank-, Firestar-, Rewind, The-, True-, Starclan-, Fallen-, Brothers, Lost-, Firestar-, What-, Heathertail-, Vengeance, Temptations-, True-, Jayfeather-, A-, A-, In-, Forgive, Crawl, Fidelis, All-, Fire-, Lust
+- Ao3: Brighter-, Once-, Simpler-, Blind-, Hes-, Twisted-, Rekindled
 
 #### [Generic](#setting)
 
@@ -763,6 +767,23 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ### [Non-Fiction](#works)
 
+#### [The King James Bible](https://files.catbox.moe/ifewb4.zip)
+
+[by Anon](https://arch.b4k.co/vg/thread/371608780/#371643821)
+
+*The King James Bible module.*
+
+*Like in previous iterations of the module, this is with chapter titles and verse numbers intact. So like this:*
+
+>FEMBOYS
+>
+>1:1 And so it came to be in the reign of Saul that there was a land of men that were like women.
+>
+>1:2 The men that were like women were large in number, their bodies soft and supple, yet their faces stern; their eyes beautiful, but their thoughts depraved;
+>
+>1:3 And these men that were like women were known to be the fairest in all the world, and much desired by all who saw them.
+
+*Go forth and sin.*
 ### [Visual Novels](#works)
 
 #### [Ace Attorney](https://files.catbox.moe/6dd8op.module)
