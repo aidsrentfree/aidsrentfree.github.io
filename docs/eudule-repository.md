@@ -918,7 +918,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 [by Anon](https://arch.b4k.co/vg/thread/371608780/#371685780)
 
-*I trained a Module on A Certain Magical Index Volumes 1-22 from https://nyaa.si/view/1263900, couldn't be bothered to clean up more.*
+*I trained a Module on A Certain Magical Index Volumes 1-22 from <https://nyaa.si/view/1263900>, couldn't be bothered to clean up more.*
 
 *~7.6mb of text, trained for 4.4k steps. Loss graph looks fucked but it works nicely enough.*
 
