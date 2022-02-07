@@ -178,7 +178,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Prinnyd00d vore module is GO*
 
-#### [Tastatura](https://files.catbox.moe/orh3ui.module)
+#### [Tastatura](https://files.catbox.moe/hc44bv.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/371544232/#371558509)
 
