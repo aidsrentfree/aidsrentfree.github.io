@@ -966,7 +966,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 #### [Pack Street](https://files.catbox.moe/94ryz9.rar)
 
-[by Anon](https://arch.b4k.co/vg/thread/371544232/#371575535)
+[by Anon](https://arch.b4k.co/vg/thread/371608780/#371688072)
 
 [1000 Steps Version](https://files.catbox.moe/yvm5h9.rar)
 
