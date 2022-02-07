@@ -23,6 +23,10 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(7th February, 2022)
+
+- Added [Second Person Respect](#respect-second-person) module
+
 (6th February, 2022)
 
 - V2 IS ONLINE, FRIENDS.
@@ -87,6 +91,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Beings](#beings)
       - [Small Equines](#small-equines)
     - [Acts](#acts)
+      - [Respect (Second Person)](#respect-second-person)
     - [Circumstances](#circumstances)
       - [Age Difference](#age-difference)
       - [Furry Yuri](#furry-yuri)
@@ -551,6 +556,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *I'm back with the small equines module. Top rated small horse degeneracy stories focused on the smallest horses. 2.25mb, 3k steps, 2.54 loss.*
 
 #### [Acts](#sexual)
+
+##### [Respect (Second Person)](https://files.catbox.moe/pwihg8.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371544232/#371571043)
+
+*2nd person respect module for Euterpe V2. Still focused on respect, reluctance, blackmail, slavery, corruption.*
 
 #### [Circumstances](#sexual)
 
