@@ -53,3 +53,9 @@ https://files.catbox.moe/oj7zso.png
 
 ## /aids/ Starship Exploration Vessel
 {: .center}
+
+*Space... The Final Frontier. These are the voyages of starship /aids/. Its continuing mission: To explore strange new worlds. To seek out new waifus and husbandos. To boldly cum where no man has cum before!*
+{: .center}
+
+*The possibilities are limitless, both for the members of the crew and the places they go. It can also be played as lewd or clean as you want; the worlds the ship visits can be anything from a hyper-sexualized resort world to boldly taking landing parties down to explore ancient ruins on a dead world.*
+{: .center}
