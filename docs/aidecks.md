@@ -41,7 +41,7 @@ Probably! This is a brand new event after all. If something isn't working, be su
 
 ### Who asked for this?
 
-https://files.catbox.moe/oj7zso.png
+[You did.](https://files.catbox.moe/oj7zso.png)
 
 ***
 
