@@ -16,10 +16,8 @@ permalink: /decks/
 ## The fuck is it?
 
 At the end of each month, I set up an anchor for 24 hours to collect suggestions on SETTINGS. After that, I hold a 24-hour vote, and whoever wins becomes the setting for the following month.
-{: .center}
 
 The submission anchor appears on Sundays of each alternate week (from Theme Friday submission collection), tracking what was previously posted so you can keep track of how the deck is developing!
-{: .center}
 
 ### What is a setting?
 
