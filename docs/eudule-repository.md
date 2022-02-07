@@ -26,7 +26,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 (7th February, 2022)
 
 - Added [Second Person Respect](#respect-second-person) module.
-- 
 
 (6th February, 2022)
 
