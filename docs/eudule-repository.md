@@ -37,6 +37,8 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Italo Calvino](#italo-calvino) module.
 - Added [Creative Cooking](#creative-cooking) module.
 - Added [Cougars](#cougars) module.
+- Added [George Orwell](#george-orwell) module.
+- Added [Nineteen Eighty-Four](#ninteen-eighty-four) module.
 
 (6th February, 2022)
 
@@ -76,6 +78,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - [Authors](#authors)
   - [Traditional](#traditional)
     - [C. S. Lewis](#c-s-lewis)
+    - [George Orwell](#george-orwell)
     - [Italo Calvino](#italo-calvino)
     - [J R. R. Tolkien](#j-r-r-tolkien)
     - [P. G. Wodehouse](#p-g-wodehouse)
@@ -115,6 +118,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - [Works](#works)
   - [Fiction](#fiction)
     - [Classic](#classic)
+      - [Ninteen Eighty-Four](#ninteen-eighty-four)
     - [Modern](#modern)
   - [Non-Fiction](#non-fiction)
   - [Visual Novels](#visual-novels)
@@ -167,6 +171,16 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Training data is most of Lewis's fiction: Narnia books, Space Trilogy, Screwtape Letters, The Great Divorce, Til We Have Faces, Pilgim's Regress. Plus a small selection of non-fiction works: Mere Christianity, The Four Loves, The Weight of Glory.*
 
+#### [George Orwell](https://files.catbox.moe/twyx0p.zip)
+
+[by Anon](https://arch.b4k.co/vg/thread/371608780/#371627864)
+
+*Someone suggested to do this as a module. Done.*
+
+*ZIP file contains the module, the training data, the image, and the base for the training data I formatted. So if at some point [Euterpe V3] or [20] beaks or whatever the fuck comes out and I'm not there to retrain the modules, you'll have everything you need.*
+
+[by Anon](https://arch.b4k.co/vg/thread/371608780/#371627864)
+
 #### [Italo Calvino](https://files.catbox.moe/otyyhe.module)
 
 [by mark and jez](https://discord.com/channels/836774308772446268/939922436500107314/940092199507476551)
@@ -215,7 +229,15 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Alright, I'm going to be retraining my modules for Euterpe over the course of the day. Here's the first one: The Rod Serling module.*
 
-*Contains everything I used in making the module, so that if I die and 20B comes out the next day, someone else can remake the module with ease.*
+*Trained on:*
+
+- *Stories from the Twilight Zone*
+- *More Stories from the Twilight Zone*
+- *New Stories from the Twilight Zone*
+- *Night Gallery*
+- *Night Gallery 2*
+
+*Those were the only ones I could find easily. I think The Season To Be Wary would've fit in well as well, but I couldn't find it. Maybe that's for V2 of the module, if that will become a thing. Anyway, I decided to include all my files with the module, so you get the original ebooks I used, the original parsing in plaintext that Pandoc made, and my final edited text files that I used for the training. Maybe it's interesting for someone to see how the module was made. Note: I had an ebook that combined the three Twilight Zone books into one, so there's three ebooks in total.*
 
 ***
 
@@ -697,6 +719,14 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 ### [Fiction](#works)
 
 #### [Classic](#fiction)
+
+##### [Ninteen Eighty-Four](https://files.catbox.moe/co72j7.zip)
+
+[by Anon](https://arch.b4k.co/vg/thread/371608780/#371627864)
+
+*The 1984 module.*
+
+*Same as [the Serling module](#rod-serling), the archive contains all files I used in the making of the module for maximum sustainability in the long term.*
 
 #### [Modern](#works)
 
