@@ -39,6 +39,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Cougars](#cougars) module.
 - Added [George Orwell](#george-orwell) module.
 - Added [Nineteen Eighty-Four](#ninteen-eighty-four) module.
+- Added [Warrior Cats Universe](#warrior-cats-universe) module.
 
 (6th February, 2022)
 
@@ -93,6 +94,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Established](#established)
       - [Beastars](#beastars)
       - [Fallout: Equestria](#fallout-equestria)
+      - [Warrior Cats: Universe](#warrior-cats-universe)
     - [Generic](#generic)
       - [Poetic Fantasy](#poetic-fantasy)
       - [Science Fantasy](#science-fantasy)
@@ -291,6 +293,33 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *Undersized apocalypse horses module. Dunno if it's any good, but I figured at least some of the fags ITT would be interested.*
 
 *Trained on FoE, PH, MN7, etc. Might have stretched the steps too thin, dunno.*
+
+##### [Warrior Cats: Universe](https://files.catbox.moe/rr12bv.module)
+
+[by pume_](https://discord.com/channels/836774308772446268/939922436500107314/940230629101039637)
+
+[10K Version](https://files.catbox.moe/dg4ykp.module)
+
+*Warriors is a series of novels based on the adventures and drama of multiple clans of feral cats. epic fantasy novel series about love, philosophy, adventure, heroics, religion, supernatural, time travel*
+
+***Source Material:** 30.6mb, 126 .txt,*
+*10000 steps, 27.84% coverage, 2.3860 loss. \<sponsor by some idiot)\>*
+*15000 steps, 42.68% coverage, 2.3764 loss.*
+
+*Official Harpercollins Books By Erin Hunter:*
+
+- ARC 1: Into the Wild | Fire and Ice | Forest of Secrets | Rising Storm | A Dangerous Path | The Darkest Hour
+- ARC 2: Midnight | Moonrise | Dawn | Twilight
+- ARC 3: Dark River | Outcast | Eclipse | Long Shadows
+- ARC 4: Fading Echoes | Night Whispers | Sign of the Moon | The Forgotten Warrior
+- ARC 5: The First Battle | The Blazing Star | A Forest Divided | Path of Stars
+- ARC 6: The Apprentice's Quest | Thunder and Shadow | Shattered Sky | Darkest Night | The Raging Storm
+- Super Editions: Bluestar's Prophecy | SkyClan's Destiny | Crookedstar's Promise | Yellowfang's Secret | Moth Flight's Vision | Tigerheart's Shadow | Crowfeather's Trial | Squirrelflight's Hope
+- Novella: Mistystar's Omen | Cloudstar's Journey | Goosefeather's Curse | Ravenpaw's Farewell
+- Field Guides: Enter the Clans
+- Fanfiction Story:
+- Fanfiction.net: Exiled | The- | Fire- | Misty- | Spotted- | Winds- | Our- | Tiger- | Falling- | Seeing- | Rise- | Bitter- | The- | Thawing- | Blood- | Truth- | OneFire | Jayfeather- | Beyond- | No- | My- | Best- | Cold- | Red- | Fireheart- | sunny- | I- | Catmint- | Kin- | If- | Sandstorm- | Misty- | Thank- | Firestar- | Rewind | The- | True- | Starclan- | Fallen- | Brothers | Lost- | Firestar- | What- | Heathertail- | Vengeance | Temptations- | True- | Jayfeather- | A- | A- | In- | Forgive | Crawl | Fidelis | All- | Fire- | Lust
+- Ao3: Brighter- | Once- | Simpler- | Blind- | Hes- | Twisted- | Rekindled
 
 #### [Generic](#setting)
 
