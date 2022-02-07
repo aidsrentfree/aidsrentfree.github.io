@@ -44,6 +44,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Western (Romance)](#western-romance) module.
 - Added [Furry Yuri](#furry-yuri) module.
 - Added [Fallout: Equestria](#fallout-equestria) module.
+- Added [Ace Attorney](#ace-attorney) module.
 
 (4th February, 2022)
 
@@ -93,6 +94,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Modern](#modern)
   - [Non-Fiction](#non-fiction)
   - [Visual Novels](#visual-novels)
+    - [Ace Attorney](#ace-attorney)
   - [Light Novels](#light-novels)
     - [The Saga of Tanya the Evil](#the-saga-of-tanya-the-evil)
   - [Text Games](#text-games)
@@ -585,6 +587,48 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 ### [Non-Fiction](#works)
 
 ### [Visual Novels](#works)
+
+#### [Ace Attorney](https://files.catbox.moe/6dd8op.module)
+
+[by Dead Eye](https://discord.com/channels/836774308772446268/939922436500107314/940037982285594704)
+
+*OBJECTION! Trained on transcripts from Ace Attorney, visual novel series known for courtroom drama and detective work.*
+***Tags:** visual novel, transcript, courtroom*
+
+***Sources:** Original trilogy, Apollo Justice, Dual Destinies, Spirit of Justice, Ace Attorney Investigations 1-2. 6160 steps at 100%, 2.35loss.*
+
+***Notes:***
+- *Bias for OBJECTION! and HOLD IT! for extra entertainment.*
+- *Testimony, cross-examination and such are denoted by parentheses in the training data, e.g.( Cross examination: What Really Happened )*
+- *The original dataset contains too many lines with ellipses only, which caused the previous (Sigurd) module to get stuck in loops. Dropped 70% of the ellipses-only lines to reduce the chances of this happening.*
+
+>**Phoenix: OBJECTION!**
+>
+>Gumshoe: ...!?
+>
+>Edgeworth: There's no need to look at the video. We already know what it shows, don't we...?
+>
+>Athena: I've seen that scene so many times...
+>
+>Maya: ...It must have been terrifying for her!
+>
+>Blackquill: So? What does it show you? You've watched it a thousand times over already, haven't you?!
+>
+>Phoenix: This is my chance! If I can just prove that this was all part of Mr. Justice Minister's plan...
+>
+>Maya: Ohhh! That would be a lot harder than just saying it out loud!
+>
+>Phoenix: ...All right then, let me try something different. It might work better with this case.
+>
+>Athena: Hey now! Let's hear his idea first, before you start getting impatient and yelling "No fair" at him!
+>
+>Apollo: I'm ready! (Let me see! )
+>
+>Maya: Yeah! Let him explain things as he sees them! That should clear up any misunderstandings in the courtroom!
+>
+>Phoenix: Very well. I will attempt to convince you all by showing you exactly what happened on that fateful day.
+>
+>Athena: Yeehaw!
 
 ### [Light Novels](#works)
 
