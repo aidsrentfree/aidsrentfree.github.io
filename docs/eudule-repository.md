@@ -42,6 +42,8 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Warrior Cats Universe](#warrior-cats-universe) module.
 - Added [The King James Bible](#the-king-james-bible) module.
 - Added [Vore](#vore) module.
+- Added [Fire Emblem: Awakening](#fire-emblem-awakening) module.
+- Added [Cynthia (Pokemon)](#cynthia-pokemon) module.
 
 (6th February, 2022)
 
@@ -96,6 +98,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Established](#established)
       - [Beastars](#beastars)
       - [Fallout: Equestria](#fallout-equestria)
+      - [Fire Emblem: Awakening](#fire-emblem-awakening)
       - [Warrior Cats: Universe](#warrior-cats-universe)
     - [Generic](#generic)
       - [Poetic Fantasy](#poetic-fantasy)
@@ -105,6 +108,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Western (Romance)](#western-romance)
   - [Elements](#elements)
     - [Concrete](#concrete)
+      - [Cynthia (Pokemon)](#cynthia-pokemon)
       - [Male Prisons](#male-prisons)
     - [Abstract](#abstract)
     - [Style](#style)
@@ -297,6 +301,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *Undersized apocalypse horses module. Dunno if it's any good, but I figured at least some of the fags ITT would be interested.*
 
 *Trained on FoE, PH, MN7, etc. Might have stretched the steps too thin, dunno.*
+
+##### [Fire Emblem: Awakening](https://files.catbox.moe/ilabqw.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371608780/#371653660)
+
+*Trained on AO3 fics that involve the tactician from Fire Emblem Awakening gathering a harem of his friends and their daughters. Trained at 90%.*
 
 ##### [Warrior Cats: Universe](https://files.catbox.moe/rr12bv.module)
 
@@ -508,6 +518,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 ### [Elements](#themes)
 
 #### [Concrete](#elements)
+
+##### [Cynthia (Pokemon)](https://files.catbox.moe/bdrbmg.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371608780/#371653660)
+
+*Trained on AO3 fics that star Cynthia from Pokemon (since I spent a lot of time with that card of her). Unfortunately, it's pretty mundane stuff, but I was already too far in when I realized that. Trained at 90%.*
 
 ##### [Male Prisons](https://files.catbox.moe/2d1360.rar)
 
