@@ -31,6 +31,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Pack Street](#pack-street) module.
 - Added [Male Prisons](#male-prisons) module.
 - Added [Trial by Tenderness](#trial-by-tenderness) module.
+- Added [Disco Elysium](#disco-elysium) module.
 
 (6th February, 2022)
 
@@ -119,6 +120,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Pack Street](#pack-street)
     - [Trial by Tenderness](#trial-by-tenderness)
   - [Scripts](#scripts)
+    - [Disco Elysium](#disco-elysium)
     - [Seinfeld](#seinfeld)
 - [Utilities](#utilities)
 
@@ -644,7 +646,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - [Light Novels](#light-novels) - *Japanese young adult novels.*
 - [Text Games](#text-games) - *Text-based computer games, usually NSFW.*
 - [Web Fiction](#web-fiction) - *Another generic term for any written fiction that is first uploaded and intended to be consumed on or through the internet.*
-- [Scripts](#Scripts) - *Text versions of dialog and actions in media, to then be used as a guideline for TVs, films, and other performance media.*
+- [Scripts](#Scripts) - *Text versions of dialog and actions in media, to then be used as a guideline for TVs, films, games, and other performance media.*
 
 ***
 
@@ -747,6 +749,37 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *Trial by Tenderness module update for Euterpe.*
 
 ### [Scripts](#works)
+
+#### [Disco Elysium](https://files.catbox.moe/9vm6qi.module)
+
+[by Dead Eye](https://discord.com/channels/836774308772446268/939922436500107314/940068756661600267)
+
+*Trained on conversations simulated from the game data. 10k steps at 100%, 2.62 loss.*
+
+***Tags:** transcript, rpg, disco elysium*
+
+*Notes:*
+- *Internal monologue and descriptions use ()*
+- *Speech uses "" and prose.*
+- *Scenes are separated by \*\*\*.*
+
+(Output on empty prompt)
+
+>YOU: "What kind of work did he do, then?"
+>
+>RENÉ ARNOUX: He looks away. "He was a professional killer."
+>
+>KIM KITSURAGI: "A real professional -- he made the mistake of working for an idiot."
+>
+>RENÉ ARNOUX: He sounds a little bitter about it.
+>
+>RENÉ ARNOUX: "The man had no idea what to do with him. I guess that's how you make money in the underworld..."
+>
+>PAIN THRESHOLD: (It's not like he's wrong.)
+>
+>VOLITION: (That's all the more reason to appreciate his wisdom.)
+>
+>RENÉ ARNOUX: "He would come back to the base after a hit and give his report."
 
 #### [Seinfeld](https://files.catbox.moe/54tmfs.module)
 
