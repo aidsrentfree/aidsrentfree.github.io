@@ -45,6 +45,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Furry Yuri](#furry-yuri) module.
 - Added [Fallout: Equestria](#fallout-equestria) module.
 - Added [Ace Attorney](#ace-attorney) module.
+- Added [Age Difference](#age-difference) module.
 
 (4th February, 2022)
 
@@ -87,6 +88,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Small Equines](#small-equines)
     - [Acts](#acts)
     - [Circumstances](#circumstances)
+      - [Age Difference](#age-difference)
       - [Furry Yuri](#furry-yuri)
 - [Works](#works)
   - [Fiction](#fiction)
@@ -551,6 +553,14 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 #### [Acts](#sexual)
 
 #### [Circumstances](#sexual)
+
+##### [Age Difference](https://files.catbox.moe/r8t3j0.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371544232/#371568079)
+
+*Age difference module. Excels at milfs with expected "imperfections" like grey streaks, a little sag, extra curves, extra hair etc.*
+
+*Any compatibility with things like /ss/ and mother/son incest is totally incidental and not intended.*
 
 ##### [Furry Yuri](https://files.catbox.moe/npu521.module)
 
