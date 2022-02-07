@@ -26,6 +26,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 (7th February, 2022)
 
 - Added [Second Person Respect](#respect-second-person) module.
+- Added [Furry Transformation]() module.
 
 (6th February, 2022)
 
@@ -94,6 +95,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Respect (Second Person)](#respect-second-person)
     - [Circumstances](#circumstances)
       - [Age Difference](#age-difference)
+      - [Furry Transformation](#furry-transformation)
       - [Furry Yuri](#furry-yuri)
 - [Works](#works)
   - [Fiction](#fiction)
@@ -572,6 +574,35 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *Age difference module. Excels at milfs with expected "imperfections" like grey streaks, a little sag, extra curves, extra hair etc.*
 
 *Any compatibility with things like /ss/ and mother/son incest is totally incidental and not intended.*
+
+##### [Furry Transformation](https://files.catbox.moe/wklqde.module)
+
+[by Meraine](https://discord.com/channels/854479693503660032/939950910690439179/940054383280939048)
+
+*A curated and hand-cleaned set of NSFW furry transformation stories from FurAffinity and Literotica.*
+
+***Tags:** furry, transformation, tf, tftg, gay*
+
+***Source Material:** 2.9MB, 2688 steps (85.26%)*
+
+*There's a lot (these stories tend to be short), so I'll just list the authors, in order from most to least sampled:*
+- Leo_Todrius (33)
+- FakeMan (13)
+- Kotep (12)
+- AmethystMare (5)
+- Saigir (3)
+- skiesofsilver (2)
+- Taki (2)
+- KrisSnow (1)
+- SqueakyOrca (1)
+- Quixerotic1 (1)
+- MissMarilith (1)
+- wolphin (1)
+- Cinos (1)
+- danath (1)
+- xerox2 (1)
+
+*I tried to remove as many ellipses (...) as possible. Prior to editing, there were 2600 counts of some variation of ..., and after editing, only 304 remained. Em-dashes and double-hypens (--) were all converted to single hyphens (-).*
 
 ##### [Furry Yuri](https://files.catbox.moe/npu521.module)
 
