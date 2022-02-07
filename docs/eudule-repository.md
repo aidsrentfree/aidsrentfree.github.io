@@ -48,6 +48,8 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Hypnosis (Femsub)](#hypnosis-femsub) module.
 - Added [Discworld Watch Series](#the-discworld-watch-series) module.
 - Added [Teraurge](#teraurge) module.
+- Added [A Certain Magical Index (1-22)](#a-certain-magical-index-1-22) module.
+- Added [RWBY Kinks](#rwby-kinks) module.
 
 (6th February, 2022)
 
@@ -130,6 +132,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Age Difference](#age-difference)
       - [Furry Transformation](#furry-transformation)
       - [Furry Yuri](#furry-yuri)
+      - [RWBY Kinks](#rwby-kinks)
 - [Works](#works)
   - [Fiction](#fiction)
     - [Classic](#classic)
@@ -141,6 +144,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Visual Novels](#visual-novels)
     - [Ace Attorney](#ace-attorney)
   - [Light Novels](#light-novels)
+    - [A Certain Magical Index (1-22)](#a-certain-magical-index-1-22)
     - [The Saga of Tanya the Evil](#the-saga-of-tanya-the-evil)
   - [Text Games](#text-games)
     - [Tales of Androgyny](#tales-of-androgyny)
@@ -786,6 +790,16 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *I'm going to add some more data to my other furfag modules before I retrain them, if anyone cares.*
 
+##### [RWBY Kinks](https://files.catbox.moe/4yb633.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371608780/#371678959)
+
+*Here's your module, trained to 100%*
+
+*And [here's your dataset](https://files.catbox.moe/4hjsdi.txt), in case you want to inspect it.*
+
+*Your interests are questionable.*
+
 ## [Works](#modules)
 {: .center}
 
@@ -900,6 +914,14 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ### [Light Novels](#works)
 
+#### [A Certain Magical Index (1-22)](https://files.catbox.moe/a7bqj7.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371608780/#371685780)
+
+*I trained a Module on A Certain Magical Index Volumes 1-22 from https://nyaa.si/view/1263900, couldn't be bothered to clean up more.*
+
+*~7.6mb of text, trained for 4.4k steps. Loss graph looks fucked but it works nicely enough.*
+
 #### [The Saga of Tanya the Evil](https://files.catbox.moe/r0r10t.module)
 
 [by bunray](https://discord.com/channels/836774308772446268/939922436500107314/939979431135567934)
@@ -942,11 +964,13 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Here is the My Immortal 1000% module!*
 
-#### [Pack Street](https://files.catbox.moe/no7o6l.rar)
+#### [Pack Street](https://files.catbox.moe/94ryz9.rar)
 
 [by Anon](https://arch.b4k.co/vg/thread/371544232/#371575535)
 
-*Pack Street module trained at 125%.*
+[1000 Steps Version](https://files.catbox.moe/yvm5h9.rar)
+
+*Pack Street module trained at 100%.*
 
 #### [Trial by Tenderness](https://files.catbox.moe/70jr82.module)
 
