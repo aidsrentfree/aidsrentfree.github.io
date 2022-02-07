@@ -826,7 +826,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 [by Anon](https://arch.b4k.co/vg/thread/371544232/#371576606)
 
-*Trial by Tenderness module update for Euterpe.*
+*Module update for Euterpe, trained on [Trial by Tenderness](https://www.fanfiction.net/s/445254/1/Trial-By-Tenderness), a notoriously long fanfic of the [Oh, My Goddess! manga series](https://en.wikipedia.org/wiki/Oh_My_Goddess!).*
 
 ### [Scripts](#works)
 
