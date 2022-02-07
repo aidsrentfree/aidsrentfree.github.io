@@ -45,6 +45,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Fire Emblem: Awakening](#fire-emblem-awakening) module.
 - Added [Cynthia (Pokemon)](#cynthia-pokemon) module.
 - Added [Western](#western) module.
+- Added [Hypnosis (Femsub)](#hypnosis-femsub) module.
 
 (6th February, 2022)
 
@@ -120,6 +121,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Cougars](#cougars)
       - [Small Equines](#small-equines)
     - [Acts](#acts)
+      - [Hypnosis (Femsub)](#hypnosis-femsub)
       - [Respect (Second Person)](#respect-second-person)
       - [Vore](#vore)
     - [Circumstances](#circumstances)
@@ -690,6 +692,8 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >
 >The wolf-man slid off the desk, his hands closing around my hips as he turned me. He pressed me back against it, his fingers sliding beneath my dress to grasp my ass cheeks. My back arched as he bent me over the desk, his cock pressing against my wet pussy. I could smell my own sex and it filled my nostrils. The wolf-man pressed his cock against me and slid inside me. I cried out at the feeling of being filled by such a huge cock. My ass pressed against the edge of the desk.
 
+***
+
 ### [Sexual](#themes)
 
 #### [Beings](#sexual)
@@ -709,6 +713,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *I'm back with the small equines module. Top rated small horse degeneracy stories focused on the smallest horses. 2.25mb, 3k steps, 2.54 loss.*
 
 #### [Acts](#sexual)
+
+##### [Hypnosis (Femsub)](https://files.catbox.moe/nwhbbq.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371608780/#371662447)
+
+*I trained a module on femsub hypnosis scripts. The quality of the training data is all over the place and it's probably a very bad idea to let Euterpe hypnotize you, but if anybody is interested, I've uploaded it here.*
 
 ##### [Respect (Second Person)](https://files.catbox.moe/pwihg8.module)
 
