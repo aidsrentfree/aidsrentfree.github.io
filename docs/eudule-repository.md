@@ -32,6 +32,11 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Male Prisons](#male-prisons) module.
 - Added [Trial by Tenderness](#trial-by-tenderness) module.
 - Added [Disco Elysium](#disco-elysium) module.
+- Added [Final Judgement](#final-judgement) module.
+- Added [Rod Serling](#rod-serling) module.
+- Added [Italo Calvino](#italo-calvino) module.
+- Added [Creative Cooking](#creative-cooking) module.
+- Added [Cougars](#cougars) module.
 
 (6th February, 2022)
 
@@ -71,8 +76,10 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - [Authors](#authors)
   - [Traditional](#traditional)
     - [C. S. Lewis](#c-s-lewis)
+    - [Italo Calvino](#italo-calvino)
     - [J R. R. Tolkien](#j-r-r-tolkien)
     - [P. G. Wodehouse](#p-g-wodehouse)
+    - [Rod Serling](#rod-serling)
   - [Independent](#independent)
   - [Intellectual](#intellectual)
   - [Online](#online)
@@ -97,6 +104,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Cross-Genre, Oh My!](#cross-genre-oh-my)
   - [Sexual](#sexual)
     - [Beings](#beings)
+      - [Cougars](#cougars)
       - [Small Equines](#small-equines)
     - [Acts](#acts)
       - [Respect (Second Person)](#respect-second-person)
@@ -116,6 +124,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Text Games](#text-games)
     - [Tales of Androgyny](#tales-of-androgyny)
   - [Web Fiction](#web-fiction)
+    - [Final Judgement](#final-judgement)
     - [My Immortal](#my-immortal)
     - [Pack Street](#pack-street)
     - [Trial by Tenderness](#trial-by-tenderness)
@@ -123,6 +132,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Disco Elysium](#disco-elysium)
     - [Seinfeld](#seinfeld)
 - [Utilities](#utilities)
+  - [Creative Cooking](#creative-cooking)
 
 ***
 
@@ -157,6 +167,24 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Training data is most of Lewis's fiction: Narnia books, Space Trilogy, Screwtape Letters, The Great Divorce, Til We Have Faces, Pilgim's Regress. Plus a small selection of non-fiction works: Mere Christianity, The Four Loves, The Weight of Glory.*
 
+#### [Italo Calvino](https://files.catbox.moe/otyyhe.module)
+
+[by mark and jez](https://discord.com/channels/836774308772446268/939922436500107314/940092199507476551)
+
+*A module trained on several works by Italian author Italo Calvino (originally made for Sigurd, updated for Euterpe V2)*
+
+***Tags:** literature, fiction, good prose*
+***Sources:***
+- Invisible Cities (trans. William Weaver) 
+- Cosmicomics (trans. William Weaver) 
+- If on a Winter's Night a Traveller (trans. William Weaver) 
+- The Baron in the Trees (trans. Archibald Colquhoun)
+
+*(1.3 MB, 1431 steps, 100.07% coverage, 3.0896 average loss)*
+
+(no prompt)
+>Here was the city that I loved. Nothing could be clearer and more impressive than its ancient majesty, with high ramparts towering in every direction over paved stone roads bordered by fine wrought iron streetlamps... it took my breath away! I went toward a restaurant called The Black Diamond in Plaza del Mascaras at two o'clock sharp. When I entered, the air smelled of garlic and oil; tables were set out on an enormous marble floor under vaulted ceilings decorated with frescoes showing scenes from Roman history and classical mythologies—a huge dining room indeed! Some people passed through: well dressed ladies wearing little black hats whose creases told their owners how many times they had been removed. There sat at one table Clara Cardellini eating spinach soup and crumb cake while her husband Giannis licked butter off his knife's tip. Next to them old Jocasta Doria drank straight-from-the-jug wine as she ate meatballs followed by red pears sprinkled with cinnamon sugar. On another side of the big square, sitting at a large round table surrounded by half-dressed waiters, was the great industrialist Eusebio Astrada y Gómez drinking something made out of potatoes he'd just bought at a nearby market stall for six pesetas apiece. And then there stood Antonio Marcelino, who owned the largest shipyard on the Spanish Main. His friend Carlos Paredes sipped champagne out of glasses shaped like cherries that seemed almost too small to contain such a powerful beverage.
+
 #### [J R. R. Tolkien](https://files.catbox.moe/4mf2um.module)
 
 [by untouch](https://discord.com/channels/836774308772446268/939922436500107314/940002253136334949)
@@ -180,6 +208,14 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *Trained on 22 full novels and collections; 608,000+ words.*
 
 *Much Obliged, Jeeves, The Inimitable Jeeves, Stiff Upper Lip, Jeeves, Right Ho Jeeves, Jeeves in the Offing, My Man Jeeves, The Man with Two Left Feet, The Girl on the Boat, Psmith in the City, Three Men and a Maid, Tales of St. Austin’s, The Adventures of Sally, The Clicking of Cuthbert, The Prince and Betty, The Gold Bat, The Coming Of Bill, The Little Nugget, Something New, Spring Fever, Mike and Psmith, Not George Washington , Love Among The Chickens*
+
+#### [Rod Serling](https://files.catbox.moe/q2nzv7.zip)
+
+[by Anon](https://arch.b4k.co/vg/thread/371608780/#371610961)
+
+*Alright, I'm going to be retraining my modules for Euterpe over the course of the day. Here's the first one: The Rod Serling module.*
+
+*Contains everything I used in making the module, so that if I die and 20B comes out the next day, someone else can remake the module with ease.*
 
 ***
 
@@ -573,6 +609,14 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 #### [Beings](#sexual)
 
+##### [Cougars](https://files.catbox.moe/cyhrhc.module)
+
+[by Naliamegod](https://discord.com/channels/854479693503660032/939950910690439179/940100268987674686)
+
+*An update to my previous Cougar/MILF themed module, this time for Euterpe.  No major changes besides adding a few texts from stuff I gained for other modules I thought fit.  About 12 mb of data at 30%.*
+
+***Tags:**  MILF, Cougar, Age difference, some noncon/dubious con, some GILFs, femdom, incest, older women, some group sex for flavor*
+
 ##### [Small Equines](https://files.catbox.moe/yr70sq.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/371544232/#371545765)
@@ -730,6 +774,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ### [Web Fiction](#works)
 
+#### [Final Judgement](https://files.catbox.moe/453qde.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371544232/#371589294)
+
+*Presenting Final Judgement, a module trained on the A Certain Scientific Railgun fanfic of the same name!*
+
 #### [My Immortal](https://files.catbox.moe/nk3025.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/371544232/#371545992)
@@ -848,6 +898,38 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## [Utilities](#modules)
 {: .center}
+
+### [Creative Cooking](https://files.catbox.moe/scmge5.module)
+
+[by Zaltys](https://discord.com/channels/836774308772446268/939922436500107314/940186089350647809)
+
+*Trained on a variety of cookbooks from around the world. Fill in Recipe: prompt to generate your own, or see what the AI comes up with.*
+
+***Tags:** Food, cooking, recipes, possibly edible*
+
+***Loss:** 2.04*
+
+>**Recipe: Chocolate Salvation**
+>
+>MAKES 1 SERVING
+>
+>This is an adaptation of a traditional chocolate pudding that my mom used to make. She would serve it with some whipped cream on top, but I prefer it as just a rich, decadent pudding all by itself. The addition of the coconut oil and the cacao powder make this version really special. If you don't have any coconut or cacao powder, no worries—this recipe will still taste amazing without them!
+>
+> 6 tablespoons (100 g) unsalted butter
+>
+> 1 large egg
+>
+> 3-4 heaping tablespoons cacao powder (optional)
+>
+> ¼ teaspoon sea salt
+>
+> 2 tablespoons sugar
+>
+> 1 tablespoon pure maple syrup
+>
+> 1/8 cup heavy cream (or coconut milk for dairy free)
+>
+>INSTRUCTIONS: Preheat oven to 350°F (175°C). Set aside 2 tablespoons of the sugar and set aside to use later. In a medium saucepan combine the butter, cocoa, and water. Whisk continuously over low heat until it begins to thicken into a sauce-like consistency, about 10 minutes. Add the remaining sugar (about ¼ cup) and whisk constantly for another 3 minutes while bringing the temperature up to 240°F (115°C). At this point you want to remove from the heat but keep whisking, as it will continue to cook at this temperature, becoming thicker. When the temperature reaches 240°F add in the salt, the remaining sugar, and the egg and stir continuously with a wooden spoon until smooth. Remove from heat and let cool slightly. Place in fridge until cold. Once cooled whip the cream and spread atop your chilled pudding.
 
 ***
 ***
