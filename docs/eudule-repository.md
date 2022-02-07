@@ -46,6 +46,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Cynthia (Pokemon)](#cynthia-pokemon) module.
 - Added [Western](#western) module.
 - Added [Hypnosis (Femsub)](#hypnosis-femsub) module.
+- Added [Discworld Watch Series](#the-discworld-watch-series) module.
 
 (6th February, 2022)
 
@@ -133,6 +134,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Classic](#classic)
       - [Ninteen Eighty-Four](#ninteen-eighty-four)
     - [Modern](#modern)
+      - [The Discworld Watch Series](#the-discworld-watch-series)
   - [Non-Fiction](#non-fiction)
     - [The King James Bible](#the-king-james-bible)
   - [Visual Novels](#visual-novels)
@@ -808,6 +810,26 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *Same as [the Serling module](#rod-serling), the archive contains all files I used in the making of the module for maximum sustainability in the long term.*
 
 #### [Modern](#works)
+
+##### [The Discworld Watch Series](https://files.catbox.moe/2om6zv.zip)
+
+[by Anon](https://arch.b4k.co/vg/thread/371608780/#371672757)
+
+*Module trained on the following Discworld Watch series books by Terry Pratchett for Euterpe V2 (random order in the .txt file):*
+
+- Guards! Guards!
+- Men at Arms
+- Night Watch
+- Jingo
+- Feet of Clay
+- Thud!
+- The Fifth Elephant
+
+*Samuel Vimes is the most common character POV.*
+
+*3,91 MB, 4474 steps, 100% coverage, Average Loss 2.5966, Last Loss: 2.5841*
+
+*(my first module, no bully)*
 
 ***
 
