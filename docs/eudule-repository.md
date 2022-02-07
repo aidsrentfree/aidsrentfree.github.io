@@ -25,7 +25,8 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 (7th February, 2022)
 
-- Added [Second Person Respect](#respect-second-person) module
+- Added [Second Person Respect](#respect-second-person) module.
+- 
 
 (6th February, 2022)
 
@@ -670,6 +671,8 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 #### [Tales of Androgyny](https://files.catbox.moe/orh3ui.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/371544232/#371558509)
+
+[100% Version](https://files.catbox.moe/0a2zry.module)
 
 *Here is the Tales of Androgyny module. A VN-style game focusing on anal, respecting peoples' b-holes, and other gay stuff. Features very explicit prose and replicates the VN-style quite viscerally. Makes for a fun text adventure experience. Trained to 70%/3.5~ MB of data. Try not to get your ass blown out too hard.*
 
