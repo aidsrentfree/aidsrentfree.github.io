@@ -26,7 +26,11 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 (7th February, 2022)
 
 - Added [Second Person Respect](#respect-second-person) module.
-- Added [Furry Transformation]() module.
+- Added [Furry Transformation](#furry-transformation) module.
+- Added [Beastars](#beastars) module.
+- Added [Pack Street](#pack-street) module.
+- Added [Male Prisons](#male-prisons) module.
+- Added [Trial by Tenderness](#trial-by-tenderness) module.
 
 (6th February, 2022)
 
@@ -76,6 +80,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - [Themes](#themes)
   - [Setting](#setting)
     - [Established](#established)
+      - [Beastars](#beastars)
       - [Fallout: Equestria](#fallout-equestria)
     - [Generic](#generic)
       - [Poetic Fantasy](#poetic-fantasy)
@@ -85,6 +90,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Western (Romance)](#western-romance)
   - [Elements](#elements)
     - [Concrete](#concrete)
+      - [Male Prisons](#male-prisons)
     - [Abstract](#abstract)
     - [Style](#style)
       - [Cross-Genre, Oh My!](#cross-genre-oh-my)
@@ -110,6 +116,8 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Tales of Androgyny](#tales-of-androgyny)
   - [Web Fiction](#web-fiction)
     - [My Immortal](#my-immortal)
+    - [Pack Street](#pack-street)
+    - [Trial by Tenderness](#trial-by-tenderness)
   - [Scripts](#scripts)
     - [Seinfeld](#seinfeld)
 - [Utilities](#utilities)
@@ -209,6 +217,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 ### [Setting](#themes)
 
 #### [Established](#setting)
+
+##### [Beastars](https://files.catbox.moe/41bryl.rar)
+
+[by Anon](https://arch.b4k.co/vg/thread/371544232/#371575535)
+
+*Beastars module trained at 3000 steps.*
 
 ##### [Fallout: Equestria](https://files.catbox.moe/tsxmyd.module)
 
@@ -399,6 +413,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 ### [Elements](#themes)
 
 #### [Concrete](#elements)
+
+##### [Male Prisons](https://files.catbox.moe/2d1360.rar)
+
+[by Anon](https://arch.b4k.co/vg/thread/371544232/#371575535)
+
+*The Male Prison module trained at 50%.*
 
 #### [Abstract](#elements)
 
@@ -713,6 +733,18 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 [by Anon](https://arch.b4k.co/vg/thread/371544232/#371545992)
 
 *Here is the My Immortal 1000% module!*
+
+#### [Pack Street](https://files.catbox.moe/no7o6l.rar)
+
+[by Anon](https://arch.b4k.co/vg/thread/371544232/#371575535)
+
+*Pack Street module trained at 125%.*
+
+#### [Trial by Tenderness](https://files.catbox.moe/70jr82.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371544232/#371576606)
+
+*Trial by Tenderness module update for Euterpe.*
 
 ### [Scripts](#works)
 
