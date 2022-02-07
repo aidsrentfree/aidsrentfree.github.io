@@ -44,6 +44,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Vore](#vore) module.
 - Added [Fire Emblem: Awakening](#fire-emblem-awakening) module.
 - Added [Cynthia (Pokemon)](#cynthia-pokemon) module.
+- Added [Western](#western) module.
 
 (6th February, 2022)
 
@@ -63,7 +64,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Surrealistic Look Through the Glass](#surrealistic-look-through-the-glass) module.
 - Added [Tastatura](#tastatura) module.
 - Added [Tales of Androgyny](#tales-of-androgyny) module.
-- Added [Western (Romance)](#western-romance) module.
+- Added [Western Romance](#western-romance) module.
 - Added [Furry Yuri](#furry-yuri) module.
 - Added [Fallout: Equestria](#fallout-equestria) module.
 - Added [Ace Attorney](#ace-attorney) module.
@@ -105,7 +106,8 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Science Fantasy](#science-fantasy)
       - [Surrealistic Look Through the Glass](#surrealistic-look-through-the-glass)
       - [The Great War](#the-great-war)
-      - [Western (Romance)](#western-romance)
+      - [Western Romance](#western-romance)
+      - [Western](#western)
   - [Elements](#elements)
     - [Concrete](#concrete)
       - [Cynthia (Pokemon)](#cynthia-pokemon)
@@ -469,7 +471,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *I'll probably eventually whip up editions for the east, Italian front, and air combat.*
 
-##### [Western (Romance)](https://files.catbox.moe/1fk9a8.module)
+##### [Western Romance](https://files.catbox.moe/1fk9a8.module)
 
 [by OccultSage](https://discord.com/channels/836774308772446268/939922436500107314/940026736547094618)
 
@@ -514,6 +516,16 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >"It's good to see you again, too," she said softly. She crawled across the loft to join him, careful not to make any noise. His body was warm under the quilt and he felt so right.
 >
 >"It has been too long," he said. "I have missed you."
+
+##### [Western](https://files.catbox.moe/adzkyn.zip)
+
+[by Anon](https://arch.b4k.co/vg/thread/371608780/#371659752)
+
+*The Western module, with a fairly wide spread of Western stuff (that I largely plucked from listicles)*
+
+*Trained on the following: Butcher's Crossing, Centennial, Hondo, Little Big Man, Lonesome Dove, Riders of the Purple Sage, Shane, The Log of a Cowboy, The Ox-Bow Incident, The Searchers, The Shootist, and True Grit.*
+
+*Again, with everything I put into it packed into an archive.*
 
 ### [Elements](#themes)
 
