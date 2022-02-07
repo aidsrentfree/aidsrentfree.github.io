@@ -47,6 +47,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Western](#western) module.
 - Added [Hypnosis (Femsub)](#hypnosis-femsub) module.
 - Added [Discworld Watch Series](#the-discworld-watch-series) module.
+- Added [Teraurge](#teraurge) module.
 
 (6th February, 2022)
 
@@ -143,6 +144,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [The Saga of Tanya the Evil](#the-saga-of-tanya-the-evil)
   - [Text Games](#text-games)
     - [Tales of Androgyny](#tales-of-androgyny)
+    - [Teraurge](#teraurge)
   - [Web Fiction](#web-fiction)
     - [Final Judgement](#final-judgement)
     - [My Immortal](#my-immortal)
@@ -919,6 +921,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 [100% Version](https://files.catbox.moe/0a2zry.module)
 
 *Here is the Tales of Androgyny module. A VN-style game focusing on anal, respecting peoples' b-holes, and other gay stuff. Features very explicit prose and replicates the VN-style quite viscerally. Makes for a fun text adventure experience. Trained to 70%/3.5~ MB of data. Try not to get your ass blown out too hard.*
+
+#### [Teraurge](https://files.catbox.moe/zjxnqe.module)
+
+[by](https://arch.b4k.co/vg/thread/371608780/#371660194) [Anons](https://arch.b4k.co/vg/thread/371608780/#371672460)
+
+>\>I exported [all of the text](https://files.catbox.moe/zi6dhj.txt) from the game Teraurge.
 
 ### [Web Fiction](#works)
 
