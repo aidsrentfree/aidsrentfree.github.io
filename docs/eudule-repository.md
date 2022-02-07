@@ -41,6 +41,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Nineteen Eighty-Four](#ninteen-eighty-four) module.
 - Added [Warrior Cats Universe](#warrior-cats-universe) module.
 - Added [The King James Bible](#the-king-james-bible) module.
+- Added [Vore](#vore) module.
 
 (6th February, 2022)
 
@@ -114,6 +115,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Small Equines](#small-equines)
     - [Acts](#acts)
       - [Respect (Second Person)](#respect-second-person)
+      - [Vore](#vore)
     - [Circumstances](#circumstances)
       - [Age Difference](#age-difference)
       - [Furry Transformation](#furry-transformation)
@@ -685,6 +687,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 [by Anon](https://arch.b4k.co/vg/thread/371544232/#371571043)
 
 *2nd person respect module for Euterpe V2. Still focused on respect, reluctance, blackmail, slavery, corruption.*
+
+##### [Vore](https://files.catbox.moe/cafod1.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371608780/#371640618)
+
+*Presenting a Euterpe v2 update to my Vore ERP module. Same guy as the Sigurd one.*
 
 #### [Circumstances](#sexual)
 
