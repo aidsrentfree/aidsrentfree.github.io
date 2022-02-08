@@ -30,6 +30,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - ~~Played CK3 Royal Court~~
 - Added [LitRPG](#litrpg) module.
 - Added [Oriental Fantasy](#oriental-fantasy) module.
+- Added [Good Girls](#good-girls) module.
 
 (7th February, 2022)
 
@@ -133,6 +134,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Sexual](#sexual)
     - [Beings](#beings)
       - [Cougars](#cougars)
+      - [Good Girls](#good-girls)
       - [Small Equines](#small-equines)
     - [Acts](#acts)
       - [Hypnosis (Femsub)](#hypnosis-femsub)
@@ -809,6 +811,18 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *An update to my previous Cougar/MILF themed module, this time for Euterpe.  No major changes besides adding a few texts from stuff I gained for other modules I thought fit.  About 12 mb of data at 30%.*
 
 ***Tags:**  MILF, Cougar, Age difference, some noncon/dubious con, some GILFs, femdom, incest, older women, some group sex for flavor*
+
+##### [Good Girls](https://files.catbox.moe/inwedu.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371696139/#371719249)
+
+*Alright lads, here's something I threw together from some short stories on asstr (/~illg/good)*
+
+*\>These stories are all about sex and love and romance with pre-teen or young teen girls.*
+
+*The stories' quality seem kind of hit or miss, but it wasn't hard to clean and didn't take too many steppies, so here is the Good Girls module.*
+
+*Trained on 657 steps at 55.36%, because from a cursory look at this data, overtraining it would probably not be good. Let me know how it works.*
 
 ##### [Small Equines](https://files.catbox.moe/yr70sq.module)
 
