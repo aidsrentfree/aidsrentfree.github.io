@@ -28,7 +28,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [text_adventures.txt](#text_adventurestxt) module.
 - Added [Furry ENF](#furry-enf) module.
 - ~~Played CK3 Royal Court~~
-- Added [LitRPG]() module.
+- Added [LitRPG](#litrpg) module.
 
 (7th February, 2022)
 
