@@ -41,6 +41,8 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Desert Fantasy and Folklore](#desert-fantasy-and-folklore) module.
 - Added [Female Wrestling](#female-wrestling) module.
 - Added [Sailor Moon](#sailor-moon) module.
+- Added [Giantess](#giantesses) module.
+- Added [The Beginning After The End](#the-beginning-after-the-end) module.
 
 (7th February, 2022)
 
@@ -149,6 +151,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Sexual](#sexual)
     - [Beings](#beings)
       - [Cougars](#cougars)
+      - [Giantesses](#giantesses)
       - [Good Girls](#good-girls)
       - [Loli/Shota](#lolishota)
       - [Small Equines](#small-equines)
@@ -182,6 +185,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Tales of Androgyny](#tales-of-androgyny)
     - [Teraurge](#teraurge)
   - [Web Fiction](#web-fiction)
+    - [The Beginning After The End](#the-beginning-after-the-end)
     - [Final Judgement](#final-judgement)
     - [My Immortal](#my-immortal)
     - [Pack Street](#pack-street)
@@ -917,6 +921,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ***Tags:**  MILF, Cougar, Age difference, some noncon/dubious con, some GILFs, femdom, incest, older women, some group sex for flavor*
 
+##### [Giantesses](https://files.catbox.moe/tg3z8m.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371696139/#371791920)
+
+*Well, I dunno if the mini-GTS anon will like it because it's the exact same material, but I've recreated the giantess module for Eute*
+
 ##### [Good Girls](https://files.catbox.moe/inwedu.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/371696139/#371719249)
@@ -1210,6 +1220,40 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >\>I exported [all of the text](https://files.catbox.moe/zi6dhj.txt) from the game Teraurge.
 
 ### [Web Fiction](#works)
+
+#### [The Beginning After The End](https://files.catbox.moe/alvaxb.module)
+
+[by SGreen and Zaltys](https://discord.com/channels/836774308772446268/939922436500107314/940665103970353202)
+
+Description: A module trained on the first 8 novels of the series The Beginning After the End.
+
+***Tags:** Fantasy, Isekai, Adventure, 1st-Person, Magic*
+
+***Source Material:**  3362 Steps, 60% coverage, 2.712 loss*
+
+***Tags used:** Title: The beginning after the end; Author: Brandon Lee; Genre: high Fantasy*
+
+***Note:** @Zaltys🐍 cleaned many of the books much better than I ever could.*
+
+>**I grabbed my sword's hilt** and started running toward the source of the voice. I came out from behind a small boulder, my feet moving faster than usual, almost as if they knew where to step before I did.
+>
+>A young boy was on his knees, his hands in the air with a smile on his face. His body had been pierced through by a thick piece of wood that had been driven into the ground like a stake. A man in his late thirties was standing over him holding a bloody dagger.
+>
+>"No need for that," The old man said calmly. "We both know that you are going to come down here eventually."
+>
+>I drew my sword from its scabbard, not taking my eyes off the man. His stance wasn't overly aggressive, but then again he had just attacked the boy without warning. I was confident in my sword skills, so all I had to do was land my first strike and end this quickly. That being said though, I still didn't want to take any chances.
+>
+>The man smirked. "You're brave." He walked forward, still keeping his distance from me.
+>
+>I took a few steps back, putting more space between us. This wasn't working.
+>
+>"You know there is no point to continuing this. You have nothing." He raised his hand and pulled it back, revealing a blade of light that was now burning brightly. In my mind I could already see the scene playing out. The man would kill the boy and I would have no choice but to watch him go down.
+>
+>And then there was the issue of me being unarmed. The man had a dagger and an arcane blade; two types of weapons that were considered lethal by most standards. My only option was to end the fight right now.
+>
+>As the man brought the blade down, I let out a shout and dove to the side, my sword coming down at a diagonal angle.
+>
+>The man was quick, but not quite quick enough. I was able to deflect the attack with my sword. It was enough of a force that it sent his sword flying from his hands, but the man was unharmed, although his left arm was bleeding quite heavily. The arcane blade flew past me harmlessly, and then I took advantage of the momentary lapse in his guard. I thrust my sword upward, piercing into his chest with one fluid motion.
 
 #### [Final Judgement](https://files.catbox.moe/453qde.module)
 
