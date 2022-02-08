@@ -29,6 +29,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Furry ENF](#furry-enf) module.
 - ~~Played CK3 Royal Court~~
 - Added [LitRPG](#litrpg) module.
+- Added [Oriental Fantasy](#oriental-fantasy) module.
 
 (7th February, 2022)
 
@@ -115,6 +116,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Warrior Cats: Universe](#warrior-cats-universe)
     - [Generic](#generic)
       - [LitRPG](#litrpg)
+      - [Oriental Fantasy](#oriental-fantasy)
       - [Poetic Fantasy](#poetic-fantasy)
       - [Science Fantasy](#science-fantasy)
       - [Surrealistic Look Through the Glass](#surrealistic-look-through-the-glass)
@@ -386,6 +388,64 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >For some reason, seeing a title like this filled me with pride.
 >
 >The title reminded me of how far I'd come since becoming trapped in this strange world. When I first found myself here, I felt like I was fighting against my fate, but now I could see things differently. The path forward may have been unclear at first, but as time passed and more things fell into place, I began to understand that this wasn't just some random game that would end soon; I was living in another reality, a fantasy land where anything was possible. That realization made all the difference. It gave me the courage to fight back. To take control of my own destiny.
+
+##### [Oriental Fantasy](https://files.catbox.moe/kq71e0.module)
+
+[by Kitty](https://discord.com/channels/836774308772446268/939922436500107314/940431070871056459)
+
+*Happy Lunar New Year! This was built from a list of high and low fantasy novels, modern and classical, situated in ancient China. Here you'll find narration with the distinct cadence of oriental poetry, but here, too, you might encounter a mystic wizard who knows kung fu, a magic beast, or even a heroine on her path of immortal ascension.*
+
+*Only award-winning and classic literature, which comprise mostly low fantasy, were used. Other, more fantastical books may be added later.*
+
+***Tags:** Fantasy, Ancient China, Euterpe V2*
+
+***Sources:** (8.63mb, 12000 steps, 120% coverage, 2.79 loss)*
+
+***Modern Authors***
+
+*Adaptations*
+
+- Under Heaven - Guy Gavriel Kay
+- River of Stars - Guy Gavriel Kay
+- The Magnolia Sword: A Ballad of Mulan - Sherry Thomas
+
+*Original Works*
+
+- She Who Became the Sun - Shelley Parker-Chan
+- The Chronicles of Master Li and Number Ten Ox - Barry Hughart
+- The Emperor's Soul - Brandon Sanderson
+- Daughter of the Moon Goddess - Sue Lynn Tan
+- Where the Mountain Meets the Moon - Grace Lin
+- Forest of a Thousand Lanterns - Julie C. Dao
+- The Order of the Pure Moon Reflected in Water - Zen Cho
+
+***Literature Classics***
+
+*Historical Fantasy*
+
+- A Hero Born - Jin Yong (Legend of the Condor Heroes, vol.1)
+- Golden Days - Cao Xueqin (Dream of the Red Chamber, b1.vol.1)
+- Strange Tales from a Chinese Studio - Pu Songling, tr. John Minford
+
+>The next morning, as the sun rose over the mountains of northern Xinan, I stood with the others in my new household. In a moment, a horseman galloped up to the gates and dismounted. The man bowed, his eyes on me. "I am Jin Wang. I have been sent by your father." He spoke the tongue of our homeland. His words were clipped and precise, without the accent of the Goryeo or the southern Han that had crept into my own speech.
+>
+>"I'm very sorry. Please tell him we are all well. That is, we're all alive," I added hastily, remembering the men who had ridden out to meet them.
+>
+>in Wang nodded curtly. "You must go quickly. Your father's soldiers have camped three leagues north of here. They will be coming soon."
+>
+>I stared at him, bewildered. "How could they get that far ahead of us?"
+
+>The night was dark and starless. The moon, obscured by clouds, had not risen. He stood before the entrance of a temple on a hilltop near the river. A great bronze bell hung from a thick rope in the middle of the roof, and he watched the mist gather at its base. It had been a long day: he'd ridden to the city, then gone with the other men to see the dead body of one of their own, whose wife he had been sent to protect. He had watched as the embalmer and his assistants took the man apart, washing him, scraping off the dried blood, cleaning, cleaning, cleaning, until nothing remained but bones, which they wrapped carefully in silk. Then it was time to dress the corpse and take up his coffin, and stand beside it for three days and nights while the bells rang mournfully, summoning the faithful to pray for his soul, or whatever the soul might be called on its journey after death.
+
+>"It is time for the seventh moon of the winter season," said the Jade Emperor. "The three brothers must choose a wife from among all those who have presented themselves to them."
+>
+>The princes looked at one another in consternation.
+>
+>"I do not understand this rule," said Zhu Cong. "We are supposed to be choosing wives, but they must first choose wives for us."
+>
+>"Of course," answered the Jade Emperor. "They need to know which of you is worthy and which of you should be exiled."
+>
+>The princes turned to look at the princesses. They were all beautiful, young, and well-born—but it was clear that some were better than others. Some had more beauty and grace than others; some were more accomplished in music or poetry or martial arts; some seemed more intelligent than others; some were simply kinder and more generous. The princely brothers did not like any of them.
 
 ##### [Poetic Fantasy](https://files.catbox.moe/o4h9cy.module)
 
