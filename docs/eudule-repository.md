@@ -130,7 +130,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Warrior Cats: Universe](#warrior-cats-universe)
     - [Generic](#generic)
       - [Desert Fantasy and Folklore](#desert-fantasy-and-folklore)
-      - [LitRPG](#litrpg)
       - [Oriental Fantasy](#oriental-fantasy)
       - [Poetic Fantasy](#poetic-fantasy)
       - [Science Fantasy](#science-fantasy)
@@ -144,6 +143,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Female Wrestling](#female-wrestling)
       - [Male Prisons](#male-prisons)
     - [Abstract](#abstract)
+      - [LitRPG](#litrpg)
     - [Style](#style)
       - [Cross-Genre, Oh My!](#cross-genre-oh-my)
   - [Sexual](#sexual)
@@ -458,32 +458,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >
 >She fell silent again, and he waited, holding his breath, listening to the wind. He'd never had much patience. It was one of the things he disliked about himself. He needed to know now, right now, what was going on. The old woman sighed and said, "My husband's name was Rashid al-Khoury, and I loved him more than anything in the world. He was a good man, a kind man, a man who would give you his last coin if you asked for it. When we were young, he had a terrible temper, and we quarreled often. But as we grew older, it calmed down. We shared everything. And then my son was born. We named him Ali, after his father. He was beautiful, like his father, and I loved him too." She paused, and then continued, her voice barely above a whisper. "And then one day, he went out to work in the fields with my brother, and he never came back.
 
-##### [LitRPG](https://files.catbox.moe/3zyctr.module)
-
-[by Zaltys](https://discord.com/channels/836774308772446268/939922436500107314/940413343821332542)
-
-*Trained with a mix of LitRPG novels, too many to list. This was made as a test module, but since it seems to work, might as well share it. Uses the ─  for LitRPG stat blocks and other game-elements. If you already know what LitRPG is, you know what to expect. If not... read the sample.*
-
-***Steps:** 22.5K, 42% of total. (As I said, a test module...)*
-
-***Loss:** 2.77*
-
-***Tags:** LitRPG, RPG stats, game elements*
-
->**The chest opened with a creak. Inside** lay an orb, carved from black crystal. The sphere was roughly the size of a soccer ball and seemed to be made of solid obsidian. I reached for it, then hesitated as the words appeared on my display:
->
->─ Skill Acquired! You have acquired "Mysteries of the Ancient Realm" through the Orb of Knowledge! This skill grants you access to additional quests, and gives you the ability to interact with certain aspects of the realm that cannot be accessed directly without its aid.
->
->A small line of text appeared below the Skill Acquired prompt:
->
->─ Title Acquired: Mystery Breaker! Title received for completing "Quest for the Orb."
->
->I had gotten titles before. Some were simple achievements like "Scribe in Training," or "Learned" (in reference to learning new skills), common titles that I had seen others earn along their way into becoming full-fledged adventurers. This one, though, was something different entirely, something new, something special...
->
->For some reason, seeing a title like this filled me with pride.
->
->The title reminded me of how far I'd come since becoming trapped in this strange world. When I first found myself here, I felt like I was fighting against my fate, but now I could see things differently. The path forward may have been unclear at first, but as time passed and more things fell into place, I began to understand that this wasn't just some random game that would end soon; I was living in another reality, a fantasy land where anything was possible. That realization made all the difference. It gave me the courage to fight back. To take control of my own destiny.
-
 ##### [Oriental Fantasy](https://files.catbox.moe/kq71e0.module)
 
 [by Kitty](https://discord.com/channels/836774308772446268/939922436500107314/940431070871056459)
@@ -757,6 +731,32 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *The Male Prison module trained at 50%.*
 
 #### [Abstract](#elements)
+
+##### [LitRPG](https://files.catbox.moe/3zyctr.module)
+
+[by Zaltys](https://discord.com/channels/836774308772446268/939922436500107314/940413343821332542)
+
+*Trained with a mix of LitRPG novels, too many to list. This was made as a test module, but since it seems to work, might as well share it. Uses the ─  for LitRPG stat blocks and other game-elements. If you already know what LitRPG is, you know what to expect. If not... read the sample.*
+
+***Steps:** 22.5K, 42% of total. (As I said, a test module...)*
+
+***Loss:** 2.77*
+
+***Tags:** LitRPG, RPG stats, game elements*
+
+>**The chest opened with a creak. Inside** lay an orb, carved from black crystal. The sphere was roughly the size of a soccer ball and seemed to be made of solid obsidian. I reached for it, then hesitated as the words appeared on my display:
+>
+>─ Skill Acquired! You have acquired "Mysteries of the Ancient Realm" through the Orb of Knowledge! This skill grants you access to additional quests, and gives you the ability to interact with certain aspects of the realm that cannot be accessed directly without its aid.
+>
+>A small line of text appeared below the Skill Acquired prompt:
+>
+>─ Title Acquired: Mystery Breaker! Title received for completing "Quest for the Orb."
+>
+>I had gotten titles before. Some were simple achievements like "Scribe in Training," or "Learned" (in reference to learning new skills), common titles that I had seen others earn along their way into becoming full-fledged adventurers. This one, though, was something different entirely, something new, something special...
+>
+>For some reason, seeing a title like this filled me with pride.
+>
+>The title reminded me of how far I'd come since becoming trapped in this strange world. When I first found myself here, I felt like I was fighting against my fate, but now I could see things differently. The path forward may have been unclear at first, but as time passed and more things fell into place, I began to understand that this wasn't just some random game that would end soon; I was living in another reality, a fantasy land where anything was possible. That realization made all the difference. It gave me the courage to fight back. To take control of my own destiny.
 
 #### [Style](#elements)
 
