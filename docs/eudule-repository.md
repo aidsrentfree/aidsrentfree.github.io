@@ -163,7 +163,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [My Immortal](#my-immortal)
     - [Pack Street](#pack-street)
     - [Trial by Tenderness](#trial-by-tenderness)
-    - [txt_adventures.text](#txt_adventurestext)
+    - [text_adventures.txt](#text_adventurestxt)
   - [Scripts](#scripts)
     - [Disco Elysium](#disco-elysium)
     - [Seinfeld](#seinfeld)
@@ -1022,7 +1022,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Module update for Euterpe, trained on [Trial by Tenderness](https://www.fanfiction.net/s/445254/1/Trial-By-Tenderness), a notoriously long fanfic of the [Oh, My Goddess! manga series](https://en.wikipedia.org/wiki/Oh_My_Goddess!).*
 
-#### [txt_adventures.text](https://files.catbox.moe/85rugw.module)
+#### [text_adventures.txt](https://files.catbox.moe/85rugw.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/371696139/#371701761)
 
