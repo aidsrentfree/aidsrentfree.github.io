@@ -43,6 +43,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Sailor Moon](#sailor-moon) module.
 - Added [Giantess](#giantesses) module.
 - Added [The Beginning After The End](#the-beginning-after-the-end) module.
+- Added [Monster Girls](#monster-girls) module
 
 (7th February, 2022)
 
@@ -154,6 +155,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Giantesses](#giantesses)
       - [Good Girls](#good-girls)
       - [Loli/Shota](#lolishota)
+      - [Monster Girls](#monster-girls)
       - [Small Equines](#small-equines)
       - [Veggie's Lolis](#veggies-lolis)
     - [Acts](#acts)
@@ -944,6 +946,20 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 [procured by Anon](https://arch.b4k.co/vg/thread/371696139/#371736508)
 
 *General ATF(loli/shota) Euterpe module*
+
+##### [Monster Girls](https://files.catbox.moe/8njzbf.module)
+
+[by ???](https://discord.com/channels/854479693503660032/870494065446248458/940465801050333184)
+
+*Trained on monster girl fiction, much of it nsfw.*
+
+***Steps:** 9500*
+
+***Loss:** 2.59*
+
+***Tags:** Third Person, Monster Girl*
+
+***Note:** This was not made by me! I am uploading this for an anonymous user.*
 
 ##### [Small Equines](https://files.catbox.moe/yr70sq.module)
 
