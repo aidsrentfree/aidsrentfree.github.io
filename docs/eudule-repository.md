@@ -23,6 +23,13 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(8th February, 2022)
+
+- Added [text_adventures.txt](#text_adventurestxt) module.
+- Added [Furry ENF](#furry-enf) module.
+- ~~Played CK3 Royal Court~~
+- Added [LitRPG]() module.
+
 (7th February, 2022)
 
 - Added [Second Person Respect](#respect-second-person) module.
@@ -107,6 +114,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Fire Emblem: Awakening](#fire-emblem-awakening)
       - [Warrior Cats: Universe](#warrior-cats-universe)
     - [Generic](#generic)
+      - [LitRPG](#litrpg)
       - [Poetic Fantasy](#poetic-fantasy)
       - [Science Fantasy](#science-fantasy)
       - [Surrealistic Look Through the Glass](#surrealistic-look-through-the-glass)
@@ -130,6 +138,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Vore](#vore)
     - [Circumstances](#circumstances)
       - [Age Difference](#age-difference)
+      - [Furry ENF](#furry-enf)
       - [Furry Transformation](#furry-transformation)
       - [Furry Yuri](#furry-yuri)
       - [RWBY Kinks](#rwby-kinks)
@@ -154,6 +163,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [My Immortal](#my-immortal)
     - [Pack Street](#pack-street)
     - [Trial by Tenderness](#trial-by-tenderness)
+    - [txt_adventures.text](#txt_adventurestext)
   - [Scripts](#scripts)
     - [Disco Elysium](#disco-elysium)
     - [Seinfeld](#seinfeld)
@@ -350,6 +360,32 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Ao3: Brighter-, Once-, Simpler-, Blind-, Hes-, Twisted-, Rekindled
 
 #### [Generic](#setting)
+
+##### [LitRPG](https://files.catbox.moe/3zyctr.module)
+
+[by Zaltys](https://discord.com/channels/836774308772446268/939922436500107314/940413343821332542)
+
+*Trained with a mix of LitRPG novels, too many to list. This was made as a test module, but since it seems to work, might as well share it. Uses the ─  for LitRPG stat blocks and other game-elements. If you already know what LitRPG is, you know what to expect. If not... read the sample.*
+
+***Steps:** 22.5K, 42% of total. (As I said, a test module...)*
+
+***Loss:** 2.77*
+
+***Tags:** LitRPG, RPG stats, game elements*
+
+>**The chest opened with a creak. Inside** lay an orb, carved from black crystal. The sphere was roughly the size of a soccer ball and seemed to be made of solid obsidian. I reached for it, then hesitated as the words appeared on my display:
+>
+>─ Skill Acquired! You have acquired "Mysteries of the Ancient Realm" through the Orb of Knowledge! This skill grants you access to additional quests, and gives you the ability to interact with certain aspects of the realm that cannot be accessed directly without its aid.
+>
+>A small line of text appeared below the Skill Acquired prompt:
+>
+>─ Title Acquired: Mystery Breaker! Title received for completing "Quest for the Orb."
+>
+>I had gotten titles before. Some were simple achievements like "Scribe in Training," or "Learned" (in reference to learning new skills), common titles that I had seen others earn along their way into becoming full-fledged adventurers. This one, though, was something different entirely, something new, something special...
+>
+>For some reason, seeing a title like this filled me with pride.
+>
+>The title reminded me of how far I'd come since becoming trapped in this strange world. When I first found myself here, I felt like I was fighting against my fate, but now I could see things differently. The path forward may have been unclear at first, but as time passed and more things fell into place, I began to understand that this wasn't just some random game that would end soon; I was living in another reality, a fantasy land where anything was possible. That realization made all the difference. It gave me the courage to fight back. To take control of my own destiny.
 
 ##### [Poetic Fantasy](https://files.catbox.moe/o4h9cy.module)
 
@@ -750,6 +786,14 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Any compatibility with things like /ss/ and mother/son incest is totally incidental and not intended.*
 
+##### [Furry ENF](https://files.catbox.moe/yctwti.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371696139/#371703318)
+
+*Here's my Furry ENF module again, for archive purposes I guess.*
+
+*Euterpe's creativity seems to run away with this one sometimes, so it might double as a non-consent module or exhibitionist module. I'm not sure.*
+
 ##### [Furry Transformation](https://files.catbox.moe/wklqde.module)
 
 [by Meraine](https://discord.com/channels/854479693503660032/939950910690439179/940054383280939048)
@@ -977,6 +1021,14 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 [by Anon](https://arch.b4k.co/vg/thread/371544232/#371576606)
 
 *Module update for Euterpe, trained on [Trial by Tenderness](https://www.fanfiction.net/s/445254/1/Trial-By-Tenderness), a notoriously long fanfic of the [Oh, My Goddess! manga series](https://en.wikipedia.org/wiki/Oh_My_Goddess!).*
+
+#### [txt_adventures.text](https://files.catbox.moe/85rugw.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371696139/#371701761)
+
+*I have no idea about what I'm doing but I'm going to use my 10k steps on this and see what happens. Maybe it won't be enough.*
+
+*About 29.5% coverage if I remember correctly*
 
 ### [Scripts](#works)
 
