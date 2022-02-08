@@ -25,7 +25,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 (8th February, 2022)
 
-- Added [text_adventures.txt](#text_adventurestxt) module.
+- Added [text_adventures.txt](#text_adventurestxt) module, then updated it with 100% version.
 - Added [Furry ENF](#furry-enf) module.
 - ~~Played CK3 Royal Court~~
 - Added [LitRPG](#litrpg) module.
@@ -1237,13 +1237,19 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Module update for Euterpe, trained on [Trial by Tenderness](https://www.fanfiction.net/s/445254/1/Trial-By-Tenderness), a notoriously long fanfic of the [Oh, My Goddess! manga series](https://en.wikipedia.org/wiki/Oh_My_Goddess!).*
 
-#### [text_adventures.txt](https://files.catbox.moe/85rugw.module)
+#### [text_adventures.txt](https://files.catbox.moe/iahjp0.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/371696139/#371701761)
 
-*I have no idea about what I'm doing but I'm going to use my 10k steps on this and see what happens. Maybe it won't be enough.*
+[Text Adventure Mode Version](https://files.catbox.moe/65lta5.module)
 
-*About 29.5% coverage if I remember correctly*
+*Enjoy $100 steps of Mormonism*
+
+>\>i'm sorry what. $100 worth of steppies?
+
+[*103070 steps*](https://files.catbox.moe/ro6042.png)
+
+*keep in mind you can only use one*
 
 ### [Scripts](#works)
 
