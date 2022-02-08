@@ -33,6 +33,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Good Girls](#good-girls) module.
 - Added [Discworld Witches](#the-discworld-watch-series) module.
 - Added [ATF Module](#lolishota).
+- Added [Veggie's Lolis](#veggies-lolis) module.
 - Added [The Witcher](#the-witcher) module.
 - Added [Halo](#halo) module.
 - Added [Star Wars](#star-wars) module.
@@ -147,6 +148,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Good Girls](#good-girls)
       - [Loli/Shota](#lolishota)
       - [Small Equines](#small-equines)
+      - [Veggie's Lolis](#veggies-lolis)
     - [Acts](#acts)
       - [Hypnosis (Femsub)](#hypnosis-femsub)
       - [Respect (Second Person)](#respect-second-person)
@@ -912,6 +914,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 [by Anon](https://arch.b4k.co/vg/thread/371544232/#371545765)
 
 *I'm back with the small equines module. Top rated small horse degeneracy stories focused on the smallest horses. 2.25mb, 3k steps, 2.54 loss.*
+
+##### [Veggie's Lolis](https://files.catbox.moe/h1qubt.module)
+
+[procured by Anon](https://arch.b4k.co/vg/thread/371696139/#371736508)
+
+*Veggie's loli module for Euterpe*
 
 #### [Acts](#sexual)
 
