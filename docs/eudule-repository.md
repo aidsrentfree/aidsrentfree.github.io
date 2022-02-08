@@ -39,6 +39,8 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Star Wars](#star-wars) module.
 - Added [Dr Yazman's Michael Jackson Lyrics](#michael-jackson-lyrics) module.
 - Added [Desert Fantasy and Folklore](#desert-fantasy-and-folklore) module.
+- Added [Female Wrestling](#female-wrestling) module.
+- Added [Sailor Moon](#sailor-moon) module.
 
 (7th February, 2022)
 
@@ -123,6 +125,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Fallout: Equestria](#fallout-equestria)
       - [Fire Emblem: Awakening](#fire-emblem-awakening)
       - [Halo](#halo)
+      - [Sailor Moon](#sailor-moon)
       - [Star Wars](#star-wars)
       - [Warrior Cats: Universe](#warrior-cats-universe)
     - [Generic](#generic)
@@ -138,6 +141,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Elements](#elements)
     - [Concrete](#concrete)
       - [Cynthia (Pokemon)](#cynthia-pokemon)
+      - [Female Wrestling](#female-wrestling)
       - [Male Prisons](#male-prisons)
     - [Abstract](#abstract)
     - [Style](#style)
@@ -363,6 +367,16 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 ***Tags:** Third Person, Master Chief, Covenant, UNSC, John-117, Elite, Grunt, Pillar of Autumn, Reach*
 
 ***Note:** This was not made by me! I am uploading this for an anonymous user.*
+
+##### [Sailor Moon](https://files.catbox.moe/ticmjh.module)
+
+[by davits1](https://discord.com/channels/836774308772446268/939922436500107314/940612015540535316)
+
+*Here's my Sailor Moon module retrained for Euterpe. All stories use the Japanese character names. I don't remember the number of steps, but I always use 100% coverage.*
+
+*Trained on a bunch of Sailor Moon Fanfics and an official novel. 3rd person, past tense.*
+
+***Tags:** Sailor Moon, magical girl, anime.*
 
 ##### [Star Wars](https://files.catbox.moe/0geqtq.module)
 
@@ -723,6 +737,18 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 [by Anon](https://arch.b4k.co/vg/thread/371608780/#371653660)
 
 *Trained on AO3 fics that star Cynthia from Pokemon (since I spent a lot of time with that card of her). Unfortunately, it's pretty mundane stuff, but I was already too far in when I realized that. Trained at 90%.*
+
+##### [Female Wrestling](https://files.catbox.moe/brdq2c.module)
+
+[by davits1](https://discord.com/channels/836774308772446268/939922436500107314/940611496474472468)
+
+*I retrained my Female Wrestling module for Euterpe. I hope you enjoy it (why V3 instead of V2? Because I kept V2 for myself; it was trained with more stories than V1).*
+
+*Try writing "X vs X" and you might get a good detailed match.*
+
+*Trained on a few fanfics from "Wanna be the strongest in the world" and Rumble Roses. Mostly 3rd person, past tense.*
+
+***Tags:** wrestling, fighting, sports, female*
 
 ##### [Male Prisons](https://files.catbox.moe/2d1360.rar)
 
