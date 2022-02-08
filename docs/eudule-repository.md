@@ -44,6 +44,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Giantess](#giantesses) module.
 - Added [The Beginning After The End](#the-beginning-after-the-end) module.
 - Added [Monster Girls](#monster-girls) module
+- Added [Altered Carbon](#altered-carbon) module.
 
 (7th February, 2022)
 
@@ -173,8 +174,9 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Classic](#classic)
       - [Ninteen Eighty-Four](#ninteen-eighty-four)
     - [Modern](#modern)
-      - [The Discworld Watch Series](#the-discworld-watch-series)
-      - [The Discworld Witch Series](#the-discworld-witch-series)
+      - [Altered Carbon](#altered-carbon)
+      - [Discworld Watch Series](#discworld-watch-series)
+      - [Discworld Witch Series](#discworld-witch-series)
       - [The Witcher](#the-witcher)
   - [Non-Fiction](#non-fiction)
     - [The King James Bible](#the-king-james-bible)
@@ -1088,7 +1090,45 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 #### [Modern](#works)
 
-##### [The Discworld Watch Series](https://files.catbox.moe/2om6zv.zip)
+##### [Altered Carbon](https://files.catbox.moe/x5u64u.module)
+
+[by colorDash](https://discord.com/channels/836774308772446268/939922436500107314/940708341380939796)
+
+*Trained on all three Altered Carbon books (Takeshi Kovacs series) by Richard Morgan at 90%. Average loss: 3.01, 2.9MB*
+
+***Tags:** Scifi, military, special ops, Takeshi Kovacs*
+
+***Sources:** Altered Carbon, Broken Angels, Woken Furies (all by Richard Morgan)*
+
+>'What is it?' I said.
+>
+>She lifted her face from the vid and looked at me, expressionless.
+>
+>'It's... well, it's a bit complicated.'
+>
+>I nodded slowly. The water lapped gently around my shins, the waves washing over my ankles.
+>
+>'I'm listening,' I said.
+>
+>'It's the Hand of God.'
+>
+>I frowned. 'How do you mean?'
+>
+>'The Hand of God is a device, built by the government of Sanction to defeat the Syndicate. It uses quantum computing technology to create a self-regenerating hypervirus that kills every brain in the human genome. This happens to be a fairly useful thing for anyone with a personal grudge against their neighbours.'
+>
+>'Interesting.' I glanced back at the water, then down into the depths where the yellow moonlight gleamed on the still black ocean floor. 'What does this have to do with me?'
+>
+>'Well, I don't know if you noticed, but we're standing on the remains of the Hand of God.'
+>
+>'You think someone just dumped the thing in here? Just tossed it out like an unwanted pet?'
+>
+>'I don't know,' she said. 'But that's what I'd do if I was planning to kill everyone on the planet.' She paused for a moment, eyes fixed on her reflection in the water. 'I used to wonder why the Hand of God was so hard to track down. I mean, it's only one of a kind. Why not just hide it somewhere safe until they needed it again?'
+>
+>'Yeah, good point.' I shook my head. 'Maybe there was something else going on. Maybe this wasn't the Hand of God.'
+>
+>'So who knows what the hell this is?'
+
+##### [Discworld Watch Series](https://files.catbox.moe/2om6zv.zip)
 
 [by Anon](https://arch.b4k.co/vg/thread/371608780/#371672757)
 
@@ -1108,7 +1148,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *(my first module, no bully)*
 
-##### [The Discworld Witch Series](https://files.catbox.moe/c9y6s0.module)
+##### [Discworld Witch Series](https://files.catbox.moe/c9y6s0.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/371696139/#371728263)
 
