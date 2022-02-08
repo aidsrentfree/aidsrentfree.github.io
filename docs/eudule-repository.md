@@ -31,6 +31,13 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [LitRPG](#litrpg) module.
 - Added [Oriental Fantasy](#oriental-fantasy) module.
 - Added [Good Girls](#good-girls) module.
+- Added [Discworld Witches](#the-discworld-watch-series) module.
+- Added [ATF Module](#lolishota).
+- Added [The Witcher](#the-witcher) module.
+- Added [Halo](#halo) module.
+- Added [Star Wars](#star-wars) module.
+- Added [Dr Yazman's Michael Jackson Lyrics](#michael-jackson-lyrics) module.
+- Added [Desert Fantasy and Folklore](#desert-fantasy-and-folklore) module.
 
 (7th February, 2022)
 
@@ -114,8 +121,11 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Beastars](#beastars)
       - [Fallout: Equestria](#fallout-equestria)
       - [Fire Emblem: Awakening](#fire-emblem-awakening)
+      - [Halo](#halo)
+      - [Star Wars](#star-wars)
       - [Warrior Cats: Universe](#warrior-cats-universe)
     - [Generic](#generic)
+      - [Desert Fantasy and Folklore](#desert-fantasy-and-folklore)
       - [LitRPG](#litrpg)
       - [Oriental Fantasy](#oriental-fantasy)
       - [Poetic Fantasy](#poetic-fantasy)
@@ -135,6 +145,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Beings](#beings)
       - [Cougars](#cougars)
       - [Good Girls](#good-girls)
+      - [Loli/Shota](#lolishota)
       - [Small Equines](#small-equines)
     - [Acts](#acts)
       - [Hypnosis (Femsub)](#hypnosis-femsub)
@@ -152,6 +163,8 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Ninteen Eighty-Four](#ninteen-eighty-four)
     - [Modern](#modern)
       - [The Discworld Watch Series](#the-discworld-watch-series)
+      - [The Discworld Witch Series](#the-discworld-witch-series)
+      - [The Witcher](#the-witcher)
   - [Non-Fiction](#non-fiction)
     - [The King James Bible](#the-king-james-bible)
   - [Visual Novels](#visual-novels)
@@ -173,6 +186,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Seinfeld](#seinfeld)
 - [Utilities](#utilities)
   - [Creative Cooking](#creative-cooking)
+  - [Michael Jackson Lyrics](#michael-jackson-lyrics)
 
 ***
 
@@ -334,6 +348,34 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Trained on AO3 fics that involve the tactician from Fire Emblem Awakening gathering a harem of his friends and their daughters. Trained at 90%.*
 
+##### [Halo](https://files.catbox.moe/q1wwpn.module)
+
+[by ???](https://discord.com/channels/836774308772446268/939922436500107314/940465583164637225)
+
+*Trained on a set of Halo novels, with a bit of fan fiction.*
+
+***Steps:** 5500*
+
+***Loss:** 2.75*
+
+***Tags:** Third Person, Master Chief, Covenant, UNSC, John-117, Elite, Grunt, Pillar of Autumn, Reach*
+
+***Note:** This was not made by me! I am uploading this for an anonymous user.*
+
+##### [Star Wars](https://files.catbox.moe/0geqtq.module)
+
+[by ???](https://discord.com/channels/836774308772446268/939922436500107314/940465459684331600)
+
+*Trained on variety of Star Wars, including the X-Wing series.*
+
+***Steps:** 6500*
+
+***Loss:** 2.71*
+
+***Tags:** Third Person, Legends, Extended Canon, Expanded Universe, Jedi, Sith, Empire, Rebel, Galactic Civil War*
+
+***Note:** This was not made by me! I am uploading this for an anonymous user.*
+
 ##### [Warrior Cats: Universe](https://files.catbox.moe/rr12bv.module)
 
 [by pume_](https://discord.com/channels/836774308772446268/939922436500107314/940230629101039637)
@@ -364,6 +406,41 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Ao3: Brighter-, Once-, Simpler-, Blind-, Hes-, Twisted-, Rekindled
 
 #### [Generic](#setting)
+
+##### [Desert Fantasy and Folklore](https://files.catbox.moe/z0ik57.module)
+
+[by ☄WanderingStar](https://discord.com/channels/836774308772446268/939922436500107314/940531380570443816)
+
+*A first shot at a module based on Middle Eastern folklore and imaginative fantasy stories with compatible settings inspired by the region's folktales and history. I opted not to include excerpts from/the entire 1001 Nights itself this time round but I will probably revisit the theme with a narrower and more “classical Arabian folklore” focus eventually. You will probably want to downbias the token “Ç” as there is a character whose name begins with this letter and who is unfortunately over-represented in this set.*
+
+***Tags:** Fantasy, Middle Eastern, desert, Arabian*
+
+***Sources:** (9.81MB @ 100% for 11.47K steps, 2.81 loss)*
+
+- Arabian Nightmare, The – Irwin, Robert 470 KB
+- City of Bones - Wells, Martha – 814 KB
+- City of Brass, The - Chakraborty, S. A. – 880 KB
+- Desert of Souls, The - Jones, Howard Andrew – 545 KB
+- History of the Caliph Vathek, The - Beckford, William – 206 KB
+- In The Cities of Coin and Spice - Valente, Catherynne – 756 KB
+- In the Night Garden - Valente, Catherynne – 785 KB
+- Killing Moon, The - Jemisin, N. K. – 586 KB
+- Lion of Cairo, The - Oden, Scott – 724 KB
+- Lions of Al-Rassan, The - Guy Gavriel Kay – 1029 KB
+- Shadowed Sun, The - Jemisin, N. K. – 831 KB
+- Steel Seraglio, The - Carey, Mike & Carey, Linda & Carey, Louise – 826 KB
+- Throne of the Crescent Moon - Saladin, Ahmed – 497 KB
+- Twelve Kings in Sharakhai - Beaulieu, Bradley P. – 1110 KB
+
+>The city was a riot of color. It was a city that never slept, with its streets full of people and the sounds of music coming from every direction: the sound of a drumbeat in one alley, the singing of an old woman somewhere else; a young girl's laughter echoing down another street, and the shouts of a crowd at some distant point. He had heard all this before on his visits to Cairo, but now he saw it through different eyes. The colors were brighter, more intense—he felt as if he could reach out and pluck them from the air and turn them into something tangible. In the distance there came the clink of metal against metal and then the faintest cry of pain. There were people everywhere: children playing in the dirt by the side of the road, beggars sleeping in doorways or sitting up against walls, women carrying baskets on their heads, men with their hands full of goods. And all the time they were laughing, shouting, talking loudly and laughing louder still when someone laughed at their joke.
+
+>The desert was cool beneath the night sky and the air was still, so much so that there were no clouds in sight. The moon was a thin crescent and its light seemed to spill over the dunes like blood spilling from an open wound, or like a cloud of ink spilled on a cloth. I walked through the desert, with only the sound of my footsteps breaking the silence of the night to accompany me. And though I felt nothing at all, I continued walking, as if my body was driven by some instinct of self-preservation. For it was the hour of the ghouls.
+
+>The desert wind picked up, rustling the palms and blowing sand into his eyes. He wiped them and looked down at the old woman. "You have to tell me something."
+>
+>"Yes," she said. "I will tell you this: a man's life is like a candle flame that flickers in the wind, but if it burns for long enough, it can burn down to the very end of the world."
+>
+>She fell silent again, and he waited, holding his breath, listening to the wind. He'd never had much patience. It was one of the things he disliked about himself. He needed to know now, right now, what was going on. The old woman sighed and said, "My husband's name was Rashid al-Khoury, and I loved him more than anything in the world. He was a good man, a kind man, a man who would give you his last coin if you asked for it. When we were young, he had a terrible temper, and we quarreled often. But as we grew older, it calmed down. We shared everything. And then my son was born. We named him Ali, after his father. He was beautiful, like his father, and I loved him too." She paused, and then continued, her voice barely above a whisper. "And then one day, he went out to work in the fields with my brother, and he never came back.
 
 ##### [LitRPG](https://files.catbox.moe/3zyctr.module)
 
@@ -824,6 +901,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Trained on 657 steps at 55.36%, because from a cursory look at this data, overtraining it would probably not be good. Let me know how it works.*
 
+##### [Loli/Shota](https://files.catbox.moe/l492v0.module)
+
+[procured by Anon](https://arch.b4k.co/vg/thread/371696139/#371736508)
+
+*General ATF(loli/shota) Euterpe module*
+
 ##### [Small Equines](https://files.catbox.moe/yr70sq.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/371544232/#371545765)
@@ -964,6 +1047,30 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *3,91 MB, 4474 steps, 100% coverage, Average Loss 2.5966, Last Loss: 2.5841*
 
 *(my first module, no bully)*
+
+##### [The Discworld Witch Series](https://files.catbox.moe/c9y6s0.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371696139/#371728263)
+
+*Following on from Pratchett anon's Guards module, here is the Discworld Witches novels module.*
+
+>Equal Rites, Wyrd Sisters, Witches Abroad, Lords and Ladies, Maskerade, Carpe Jugulum, A Hat Full of Sky<br>
+>Trained to 38% at 1000 steps<br>
+>Yes I included A Hat Full of Sky fight me
+
+##### [The Witcher](https://files.catbox.moe/fl426x.module)
+
+[by ???](https://discord.com/channels/836774308772446268/939922436500107314/940465410887794758)
+
+*Trained on The Witcher series.*
+
+***Steps:** 7500*
+
+***Loss:** 2.81*
+
+***Tags:** Third Person, Geralt, Rivia, Ciri, Yennefer, Triss, Monster, Slayer*
+
+***Note:** This was not made by me! I am uploading this for an anonymous user.*
 
 ***
 
@@ -1236,6 +1343,69 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 > 1/8 cup heavy cream (or coconut milk for dairy free)
 >
 >INSTRUCTIONS: Preheat oven to 350°F (175°C). Set aside 2 tablespoons of the sugar and set aside to use later. In a medium saucepan combine the butter, cocoa, and water. Whisk continuously over low heat until it begins to thicken into a sauce-like consistency, about 10 minutes. Add the remaining sugar (about ¼ cup) and whisk constantly for another 3 minutes while bringing the temperature up to 240°F (115°C). At this point you want to remove from the heat but keep whisking, as it will continue to cook at this temperature, becoming thicker. When the temperature reaches 240°F add in the salt, the remaining sugar, and the egg and stir continuously with a wooden spoon until smooth. Remove from heat and let cool slightly. Place in fridge until cold. Once cooled whip the cream and spread atop your chilled pudding.
+
+### [Michael Jackson Lyrics](https://files.catbox.moe/39ix7t.module)
+
+[by DrYazman](https://discord.com/channels/836774308772446268/939922436500107314/940520665642049536)
+
+***Data:** 262kb, 517 steps, 172.79%.*
+
+*I'm a huge Michael Jackson fan. I originally made this module for Sigurd, but now I've ported it to Euterpe. Let's see what Euterpe will do if we feed her MJ lyrics! I compiled Michael Jackson's lyrics from his studio album solo discography into training data.*
+
+***Source Material:***
+*All of the songs from his solo studio album discography. The only stuff I didn't include is the demos from The Ultimate Collection in 2004, and most of the posthumous tracks from the Michael and Xscape albums. I omitted them mostly for philosophical reasons/out of respect, because Michael didn't like people hearing unfinished or unreleased stuff he did. The only exceptions to that were Hold My Hand and A Place With No Name which were basically finished and getting ready for release shortly before he died. I also included Xscape because I believe that had been intended for release at some point before it got leaked and he cancelled.*
+
+***Headings? What?***
+
+*Headings are stuff in the lyrics like Intro, Verse 1, Verse 2, Chorus, Bridge, Outro. That is not a definitive list of headings, but it's generally that sort of thing. Additionally I tagged every song like:*
+
+    [Title: ; Artist: ; Genre: ; Tags: ]
+
+*There were tags like duet, young MJ, adult MJ, happy, sad, angry, 70s, 80s, 90s, 2000s, social commentary, privacy, stalker, diss track, etc depending on the song.*
+
+***What do I do with this module?***
+
+*I dunno. Throw in some tags, then an "Intro", "Verse", or whatever headings if you like. I just made this for experimentation, and to use up some steps before they run out. Fuck around with the modules and do what you like.*
+
+>**[Artist: Michael Jackson; Title: Billie Jean Smokes Weed; Genre: Rock, Metal; Tags: 90s, Adult MJ, Happy, stalker, drugs]**
+>
+>Verse 1:
+>
+>Hello, hello
+>
+>I'm back
+>
+>And I'm just the way you like me
+>
+>And I'm here to stay
+>
+>So get used to my face
+>
+>You're gonna see me everywhere
+>
+>Hey, hey, you'll never see my end
+>
+>Chorus:
+>
+>I'm a weed smoker,
+>
+>You're a weed smoker
+>
+>Too much smoke
+>
+>I'll make sure you get it
+>
+>You're a weed smoker,
+>
+>I'm a weed smoker
+>
+>We're gonna blaze it
+>
+>We're gonna blaze it
+>
+>We're gonna blaze it
+>
+>Hey, hey, you'll never see my end
 
 ***
 ***
