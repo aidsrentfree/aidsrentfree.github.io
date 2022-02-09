@@ -40,6 +40,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Score](#score) module.
 - Added [Redwall](#redwall) module.
 - Added [The Solar Cycle](#the-solar-cycle) module.
+- Added [Vampire Hunter D](#vampire-hunter-d) module.
 
 (8th February, 2022)
 
@@ -216,6 +217,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [A Certain Magical Index (1-22)](#a-certain-magical-index-1-22)
     - [Highschool DxD (1-10)](#highschool-dxd-1-10)
     - [The Saga of Tanya the Evil](#the-saga-of-tanya-the-evil)
+    - [Vampire Hunter D](#vampire-hunter-d)
   - [Text Games](#text-games)
     - [Tales of Androgyny](#tales-of-androgyny)
     - [Teraurge](#teraurge)
@@ -1498,6 +1500,32 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 ***Sources:** Saga of Tanya the Evil - Volumes 1-8, Carlo Zen, Yen Press Translation  (4.3mb, 4482 steps, 88.88% coverage, 2.8934 loss)*
 
 *I suggest downbiasing newlines, Carlo Zen uses a lot of them, as you can see below. Reminder that the narrator considers Tanya as a different person than himself, even though they are the same people.*
+
+#### [Vampire Hunter D](https://files.catbox.moe/2sa047.module)
+
+[by LaPapaya](https://discord.com/channels/836774308772446268/939922436500107314/941080489048027146)
+
+*Module trained on the light novels Vampire Hunter D from book 1 to book 12. I made this for a friend.*
+
+***Tags:** Vampire, hunter, light novel, japanese, fiction*
+
+***Sources:** (4350 steps, 80% coverage, Average Loss: 2.7170)*
+
+- Vampire Hunter 1 D
+- Vampire Hunter 2 D: Raiser of Gales
+- Vampire Hunter 3 D: Demon Deathchase
+- Vampire Hunter 4 D: Tale of a Dead Town
+- Vampire Hunter 5 D: The Stuff of Dreams
+- Vampire Hunter 6 D: Pilgrimage of the Sacred and the Profane
+- Vampire Hunter 7 D: Mysterious Journey to the North Sea
+- Vampire Hunter 8 D: The Rose Princess
+- Vampire Hunter 9 D: Pale Fallen Angel
+- Vampire Hunter 10 D: Twin-Shadowed Knight
+- Vampire Hunter 11 D: Dark Road
+- Vampire Hunter 12 D: Tyrant's Stars
+
+![Empty prompt.](https://files.catbox.moe/jx0l2k.png)
+{: .center}
 
 ### [Text Games](#works)
 
