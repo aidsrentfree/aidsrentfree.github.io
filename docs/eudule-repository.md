@@ -27,6 +27,10 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 - Added [Gryphons](#gryphons) module.
 - Added [Smorgasboard Experiment](#smorgasboard-experiment) module.
+- Added [Furry Incest](#furry-incest) module.
+- Added [Yinglets](#yinglets) module.
+- Added [Crimson (Persona 5 Fanfic)](#crimson) module.
+- Added [Forgotten Realms](#forgotten-realms) module
 
 (8th February, 2022)
 
@@ -133,6 +137,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Beastars](#beastars)
       - [Fallout: Equestria](#fallout-equestria)
       - [Fire Emblem: Awakening](#fire-emblem-awakening)
+      - [Forgotten Realms](#forgotten-realms)
       - [Halo](#halo)
       - [Sailor Moon](#sailor-moon)
       - [Star Wars](#star-wars)
@@ -152,6 +157,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Female Wrestling](#female-wrestling)
       - [Gryphons](#gryphons)
       - [Male Prisons](#male-prisons)
+      - [Yinglets](#yinglets)
     - [Concepts](#concepts)
       - [LitRPG](#litrpg)
     - [Styles](#styles)
@@ -173,6 +179,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Circumstances](#circumstances)
       - [Age Difference](#age-difference)
       - [Furry ENF](#furry-enf)
+      - [Furry Incest](#furry-incest)
       - [Furry Transformation](#furry-transformation)
       - [Furry Yuri](#furry-yuri)
       - [RWBY Kinks](#rwby-kinks)
@@ -197,6 +204,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Teraurge](#teraurge)
   - [Web Fiction](#web-fiction)
     - [The Beginning After The End](#the-beginning-after-the-end)
+    - [Crimson](#crimson)
     - [Final Judgement](#final-judgement)
     - [My Immortal](#my-immortal)
     - [Pack Street](#pack-street)
@@ -370,6 +378,39 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 [by Anon](https://arch.b4k.co/vg/thread/371608780/#371653660)
 
 *Trained on AO3 fics that involve the tactician from Fire Emblem Awakening gathering a harem of his friends and their daughters. Trained at 90%.*
+
+##### [Forgotten Realms](https://files.catbox.moe/6ftxhc.module)
+
+[by DrYazman](https://discord.com/channels/836774308772446268/939922436500107314/940950152544411689)
+
+*I created this module with a view towards a diverse set of books that cover a variety of regions in Faerun. There's also two big D&D lore books that I converted by hand into training data. Basically I just really love the Forgotten Realms as a setting, so I wanted a big module. I hope you enjoy it!*
+
+***Training:** 10427 steps, 10.5MB, Trained at 75% on 15 Forgotten Realms novels, and 2 Forgotten Realms D&D lore/setting books.*
+
+***Big D&D Lorebooks:***
+
+- Ed Greenwood - Elminster's Forgotten Realms
+- Sword Coast Adventurer's Guide
+
+***Novels:***
+
+- Brian Thomsen, et al. - Realms of Magic
+- Ed Greenwood - Spellfire
+- Ed Greenwood - Stormlight
+- Ed Greenwood - The City of Splendors: A Waterdeep Novel
+- Elaine Cunningham - Daughter of the Drow
+- Elaine Cunningham - Evermeet: Island of Elves
+- Elaine Cunningham - Tangled Webs
+- Erin M. Evans - Fire in the Blood
+- Jean Rabe - Red Magic
+- Paul S. Kemp - Midnight's Mask
+- Paul S. Kemp - Twilight Falling
+- Philip Athans, et al. - Realms of the Dragons
+- R.A. Salvatore - Homeland: The Legend of Drizzt
+- R.A. Salvatore - The Halfling's Gem
+- Troy Denning - The Parched Sea
+
+>**Leaving Neverwinter, the dwarf Magnus Bigpuffer reflected on his journey north, to Luskan.** In truth he had done nothing more than follow the trail of gold and gems. That was enough for him. He was a dwarf, after all, and dwarves did not often ask why they took this path or that; instead they simply followed their noses. But now that he was here, in Luskan, it was time to make some sense of things.
 
 ##### [Halo](https://files.catbox.moe/q1wwpn.module)
 
@@ -760,6 +801,13 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *The Male Prison module trained at 50%.*
 
+##### [Yinglets](https://files.catbox.moe/vasbcx.module)
+
+[by](https://arch.b4k.co/vg/thread/371872001/#371897783) [Anons](https://arch.b4k.co/vg/thread/371872001/#371898873)
+
+*A small module about small creatures called [Yinglets](https://files.catbox.moe/pnu9ew.txt).*
+
+
 #### [Concepts](#elements)
 
 ##### [LitRPG](https://files.catbox.moe/3zyctr.module)
@@ -1085,6 +1133,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Euterpe's creativity seems to run away with this one sometimes, so it might double as a non-consent module or exhibitionist module. I'm not sure.*
 
+##### [Furry Incest](https://files.catbox.moe/llmrad.module)
+
+[by](https://arch.b4k.co/vg/thread/371872001/#371879757) [Anons](https://arch.b4k.co/vg/thread/371872001/#371891039)
+
+*Any stepfriends around willing to train a [furry incest](https://files.catbox.moe/10q9up.txt) module?*
+
 ##### [Furry Transformation](https://files.catbox.moe/wklqde.module)
 
 [by Meraine](https://discord.com/channels/854479693503660032/939950910690439179/940054383280939048)
@@ -1382,6 +1436,14 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 >As the man brought the blade down, I let out a shout and dove to the side, my sword coming down at a diagonal angle.
 >
 >The man was quick, but not quite quick enough. I was able to deflect the attack with my sword. It was enough of a force that it sent his sword flying from his hands, but the man was unharmed, although his left arm was bleeding quite heavily. The arcane blade flew past me harmlessly, and then I took advantage of the momentary lapse in his guard. I thrust my sword upward, piercing into his chest with one fluid motion.
+
+#### [Crimson](https://files.catbox.moe/flsjx9.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371872001/#371916442)
+
+*Here's a module based on the (2.5MB) massive Persona 5 fanfiction, [Crimson](https://www.fanfiction.net/s/12546921/1/Crimson).*
+
+*(oh, trained to 100% btw)*
 
 #### [Final Judgement](https://files.catbox.moe/453qde.module)
 
