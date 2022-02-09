@@ -26,6 +26,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 (9th February, 2022)
 
 - Added [Gryphons](#gryphons) module.
+- Added [Smorgasboard Experiment](#smorgasboard-experiment) module.
 
 (8th February, 2022)
 
@@ -155,6 +156,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [LitRPG](#litrpg)
     - [Styles](#styles)
       - [Cross-Genre, Oh My!](#cross-genre-oh-my)
+      - [Smorgasboard Experiment](#smorgasboard-experiment)
   - [Sexual](#sexual)
     - [Beings](#beings)
       - [Cougars](#cougars)
@@ -257,10 +259,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *A module trained on several works by Italian author Italo Calvino (originally made for Sigurd, updated for Euterpe V2)*
 
 ***Tags:** literature, fiction, good prose*
+
 ***Sources:***
-- Invisible Cities (trans. William Weaver) 
-- Cosmicomics (trans. William Weaver) 
-- If on a Winter's Night a Traveller (trans. William Weaver) 
+
+- Invisible Cities (trans. William Weaver)
+- Cosmicomics (trans. William Weaver)
+- If on a Winter's Night a Traveller (trans. William Weaver)
 - The Baron in the Trees (trans. Archibald Colquhoun)
 
 *(1.3 MB, 1431 steps, 100.07% coverage, 3.0896 average loss)*
@@ -928,6 +932,56 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >"I need you," I gasped. "I need your cock. Give it to me. Please."
 >
 >The wolf-man slid off the desk, his hands closing around my hips as he turned me. He pressed me back against it, his fingers sliding beneath my dress to grasp my ass cheeks. My back arched as he bent me over the desk, his cock pressing against my wet pussy. I could smell my own sex and it filled my nostrils. The wolf-man pressed his cock against me and slid inside me. I cried out at the feeling of being filled by such a huge cock. My ass pressed against the edge of the desk.
+
+##### [Smorgasboard Experiment](https://files.catbox.moe/j35hmf.module)
+
+[by mark and jez](https://discord.com/channels/836774308772446268/939922436500107314/940887272847462410)
+
+*An experiment trained to see what Euterpe would do with an assortment of unrelated works by various authors, tied together only by prose, ideas or subject matters that I thought would make for interesting AI generation.*
+
+***Tags:** literature, fiction, colorful prose, experimental*
+
+***Sources:** Works by the following authors:*
+
+- Italo Calvino (Trans. William Weaver & Archibald Colquhoun)
+- Thomas Pynchon
+- Claire Lispector (Trans. Benjamin Moser)
+- Julio Cortazar (Trans. Paul Blackburn)
+- Zora Neal Hurston
+- Marcel Schwob (Trans. Harry G. Hives) 
+- John Williams 
+- Marguerite Duras (Trans. Barbara Bray)
+- Yukio Mishima (Trans. John Nathan) 
+- Georges Bataille (Trans. Joachim Neugroschel & Austryn Wainhouse)
+- Donald F. (Steely Dan member, had to abbreviate cause his name was being detected as a slur) 
+- Don Delillo
+- William Burroughs
+- Herman Melville
+- William Faulkner (5.2MB, 5818 steps 25.93% coverage Average Loss: 3.1939)
+
+*As stated, this module is an experiment, one with results I didn't necessarily try to foresee. I think the more experimental/difficult lit I've thrown in leads to some incoherent generations on weirder settings, but it sure can get colorful. As I suppose you would with a lot of modules, try to use presets that allow more creativity. Be warned that some of the sources I've used contain vulgar material and sometimes focus on dark subject matters. If that kind of stuff bothers you, you might want to download some other modules instead.*
+
+>Maître d'hôtel Jacques Bouvier's apartment is reached through a tall, fluted stone arched door on a tree-lined avenue in Paris. Passing the threshold, a sudden change of temperature and quality of light surprises and delights—it is warm inside, it is dark and dappled as if under a canopy of leaves, and it is full of bird sounds: coo and chir, trill and rattle. The noise of life.
+>
+>MY NEW OXYCODONE WAS delivered by a woman in a Ford, her hands trembling. Her driver's license said PALE CHASTITY. She wore a beaded purse over a slumming pink T-shirt that advertised TOKAY FARMERS MARKET: STEAK. EGGS. BLUEBERRIES AND PEAS, which I was inclined to like a great deal on any grounds.
+
+>**"You fuckah!"** yelled Maza as he smashed in the young soldier's face with a mace.
+>
+>Maza stood above his prisoner, arm muscles rippling, spit frothing, chest heaving, dripping black saliva-tinged blood. There was an almost demonic aspect to the mace, as if it had crawled from the shadows of the Abyss, to take up, once more, its ancient form of execution in the Third Age of Man.
+>
+>Bugg and Chub stood open-mouthed, watching their boss. Maza was exulting. He'd spent weeks hunting through the army base for this one. The jig was up — the American's army was collapsing.
+
+>**"What da hell are ya doin'?"** asked Mrs. Parmentier, as I emptied the remains of an impromptu urinal into her bathtub. 
+>
+>"Taking a bath."
+>
+>"I don't know about this," she said suspiciously, picking up a lumpy soap package, looking it over and squirting half of it on the surface of the water, while I stood near the sink dripping.
+>
+>"I'd think y'wud 'ave more sense than this, Jack."
+>
+>"Hey, now, wait a minute, Mrs. P."
+>
+>"Not one word."
 
 ***
 
