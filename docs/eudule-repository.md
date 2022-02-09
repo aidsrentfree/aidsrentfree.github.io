@@ -30,7 +30,8 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Furry Incest](#furry-incest) module.
 - Added [Yinglets](#yinglets) module.
 - Added [Crimson (Persona 5 Fanfic)](#crimson) module.
-- Added [Forgotten Realms](#forgotten-realms) module
+- Added [Forgotten Realms](#forgotten-realms) module.
+- Added [Futadom](#futadom) module.
 
 (8th February, 2022)
 
@@ -182,6 +183,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Furry Incest](#furry-incest)
       - [Furry Transformation](#furry-transformation)
       - [Furry Yuri](#furry-yuri)
+      - [Futadom](#futadom)
       - [RWBY Kinks](#rwby-kinks)
 - [Works](#works)
   - [Fiction](#fiction)
@@ -1178,6 +1180,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *Seems to pick up on the bondage influence in the training data more so than Sigurd did, so expect that.*
 
 *I'm going to add some more data to my other furfag modules before I retrain them, if anyone cares.*
+
+##### [Futadom](https://files.catbox.moe/5ux3co.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371872001/#371923678)
+
+*Haven't had time to test it properly, but I made a futadom / futa on male module.*
 
 ##### [RWBY Kinks](https://files.catbox.moe/4yb633.module)
 
