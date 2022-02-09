@@ -35,6 +35,11 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Worm](#worm) module.
 - Added [Weird Fiction](#weird-fiction) module.
 - Added [Highschool DxD (1-10)](#highschool-dxd-1-10) module.
+- Added [Otto Penzler's Big Book of Ghost Stories](#otto-penzlers-big-book-of-ghost-stories) module.
+- Added [Dad on Son](#dad-on-son) module.
+- Added [Score](#score) module.
+- Added [Redwall](#redwall) module.
+- Added [The Solar Cycle](#the-solar-cycle) module.
 
 (8th February, 2022)
 
@@ -180,9 +185,11 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Acts](#acts)
       - [Hypnosis (Femsub)](#hypnosis-femsub)
       - [Respect (Second Person)](#respect-second-person)
+      - [Score](#score)
       - [Vore](#vore)
     - [Circumstances](#circumstances)
       - [Age Difference](#age-difference)
+      - [Dad on Son](#dad-on-son)
       - [Furry ENF](#furry-enf)
       - [Furry Incest](#furry-incest)
       - [Furry Transformation](#furry-transformation)
@@ -193,10 +200,13 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Fiction](#fiction)
     - [Classic](#classic)
       - [Ninteen Eighty-Four](#ninteen-eighty-four)
+      - [Otto Penzler's Big Book of Ghost Stories](#otto-penzlers-big-book-of-ghost-stories)
     - [Modern](#modern)
       - [Altered Carbon](#altered-carbon)
       - [Discworld Watch Series](#discworld-watch-series)
       - [Discworld Witch Series](#discworld-witch-series)
+      - [Redwall](#redwall)
+      - [The Solar Cycle](#the-solar-cycle)
       - [The Witcher](#the-witcher)
   - [Non-Fiction](#non-fiction)
     - [The King James Bible](#the-king-james-bible)
@@ -1145,6 +1155,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *2nd person respect module for Euterpe V2. Still focused on respect, reluctance, blackmail, slavery, corruption.*
 
+##### [Score](https://files.catbox.moe/0tguz8.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371872001/#371948174)
+
+*Finally, my scat and vore module is complete.*
+
 ##### [Vore](https://files.catbox.moe/cafod1.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/371608780/#371640618)
@@ -1160,6 +1176,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *Age difference module. Excels at milfs with expected "imperfections" like grey streaks, a little sag, extra curves, extra hair etc.*
 
 *Any compatibility with things like /ss/ and mother/son incest is totally incidental and not intended.*
+
+##### [Dad on Son](https://files.catbox.moe/vl593y.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371872001/#371946509)
+
+*Here's my dad/son module except it's in first person in the perspective of the son because I wish I was molested by creepy older men as a kid.*
 
 ##### [Furry ENF](https://files.catbox.moe/yctwti.module)
 
@@ -1256,6 +1278,18 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Same as [the Serling module](#rod-serling), the archive contains all files I used in the making of the module for maximum sustainability in the long term.*
 
+##### [Otto Penzler's Big Book of Ghost Stories](https://files.catbox.moe/9uppvk.module)
+
+[by mark and jez](https://discord.com/channels/836774308772446268/939922436500107314/941039827556634675)
+
+*A module trained on Otto Penzler's Big Book of Ghost Stories, an anthology featuring the writings of great horror authors including H.P. Lovecraft, M.R. James, Algernon Blackwood and many more.*
+
+***Tags:** horror, ghosts, fiction, short stories*
+
+***Sources:** Every story in Otto Penzler's Big Book of Ghost Stories (2MB, 2781 steps, 64.91% coverage, Average Loss: 2.7622)*
+
+>Saori, you see, was always afraid of the dark. Her grandmother had taught her to fear it as long as she could remember; and all these years Saori's terror had only increased in strength like a poison-dart buried deep within her brain. It hurt more than pain: it made itself felt far down into the very marrow of Saori's bones—and through this blackness that oppressed her there were often flashes from the other world. From some source she did not understand they came to pierce Saori with sudden electric shocks. The soundless whispers that followed them would chill any girl who heard them: but even worse things still awaited Saori when the night was at its deepest and darkest, and nothing moved except for bats or shadows cast by moonlight. Then suddenly she might become aware of something moving near her bedside—a faint shadow creeping slowly up over the coverlet toward her body. In the darkness such sensations are hard to fight off...
+
 #### [Modern](#works)
 
 ##### [Altered Carbon](https://files.catbox.moe/x5u64u.module)
@@ -1325,6 +1359,38 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >Equal Rites, Wyrd Sisters, Witches Abroad, Lords and Ladies, Maskerade, Carpe Jugulum, A Hat Full of Sky<br>
 >Trained to 38% at 1000 steps<br>
 >Yes I included A Hat Full of Sky fight me
+
+##### [Redwall](https://files.catbox.moe/l9w22v.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371872001/#371950008)
+
+*Here is a redwall module with same shit as the sig one but at 45%.*
+
+- Mossflower (Redwall) by Brian Jacques
+- The Bellmaker (Redwall) by Brian Jacques
+- Pearls of Lutra (Redwall) by Brian Jacques
+- The Long Patrol (Redwall) by Brian Jacques
+- Lord Brocktree (Redwall) by Brian Jacques
+- Taggerung (Redwall) by Brian Jacques
+- Loamhedge (Redwall) by Brian Jacques
+- Rakkety Tam (Redwall) by Brian Jacques
+- Nightshade City by Hilary Wagner
+- The Builders by Daniel Polansky
+
+##### [The Solar Cycle](https://files.catbox.moe/8wlhkz.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371872001/#371950915)
+
+*I updated the Solar Cycle by Gene Wolfe module for terpy. Thanks again to the anon that had trained it for Sigurd per my request, it has served me well.*
+
+*It contains the Solar Cycle by Gene Wolf, about 7MB.*
+
+- The Book of the New Sun
+- Urth of the New Sun
+- The Book of the Long Sun
+- The Book of the Short Sun
+
+***Tags:** science fantasy, dying earth, surreal/dreamlike imagery*
 
 ##### [The Witcher](https://files.catbox.moe/fl426x.module)
 
