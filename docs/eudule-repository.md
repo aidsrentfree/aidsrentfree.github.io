@@ -32,6 +32,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Crimson (Persona 5 Fanfic)](#crimson) module.
 - Added [Forgotten Realms](#forgotten-realms) module.
 - Added [Futadom](#futadom) module.
+- Added [Worm](#worm) module.
 
 (8th February, 2022)
 
@@ -212,6 +213,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Pack Street](#pack-street)
     - [Trial by Tenderness](#trial-by-tenderness)
     - [text_adventures.txt](#text_adventurestxt)
+    - [Worm](#worm)
   - [Scripts](#scripts)
     - [Disco Elysium](#disco-elysium)
     - [Seinfeld](#seinfeld)
@@ -1492,6 +1494,14 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 [*103070 steps*](https://files.catbox.moe/ro6042.png)
 
 *keep in mind you can only use one*
+
+#### [Worm](https://files.catbox.moe/0chsyx.module)
+
+[by Somdudwilson](https://discord.com/channels/836774308772446268/939922436500107314/941015393512878180)
+
+*A remake of my 100% coverage Worm module for Euterpe.*
+
+***Tags:** Superhero, Supervillain, Dark*
 
 ### [Scripts](#works)
 
