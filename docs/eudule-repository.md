@@ -34,6 +34,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Futadom](#futadom) module.
 - Added [Worm](#worm) module.
 - Added [Weird Fiction](#weird-fiction) module.
+- Added [Highschool DxD (1-10)](#highschool-dxd-1-10) module.
 
 (8th February, 2022)
 
@@ -203,6 +204,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Ace Attorney](#ace-attorney)
   - [Light Novels](#light-novels)
     - [A Certain Magical Index (1-22)](#a-certain-magical-index-1-22)
+    - [Highschool DxD (1-10)](#highschool-dxd-1-10)
     - [The Saga of Tanya the Evil](#the-saga-of-tanya-the-evil)
   - [Text Games](#text-games)
     - [Tales of Androgyny](#tales-of-androgyny)
@@ -1412,6 +1414,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *I trained a Module on A Certain Magical Index Volumes 1-22 from <https://nyaa.si/view/1263900>, couldn't be bothered to clean up more.*
 
 *~7.6mb of text, trained for 4.4k steps. Loss graph looks fucked but it works nicely enough.*
+
+#### [Highschool DxD (1-10)](https://files.catbox.moe/z862xh.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371872001/#371943960)
+
+*Here is the Highschool DxD module, trained on the first ten LNs, updated for Euterpe!*
 
 #### [The Saga of Tanya the Evil](https://files.catbox.moe/r0r10t.module)
 
