@@ -33,6 +33,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Forgotten Realms](#forgotten-realms) module.
 - Added [Futadom](#futadom) module.
 - Added [Worm](#worm) module.
+- Added [Weird Fiction](#weird-fiction) module.
 
 (8th February, 2022)
 
@@ -165,6 +166,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Styles](#styles)
       - [Cross-Genre, Oh My!](#cross-genre-oh-my)
       - [Smorgasboard Experiment](#smorgasboard-experiment)
+      - [Weird Fiction](#weird-fiction)
   - [Sexual](#sexual)
     - [Beings](#beings)
       - [Cougars](#cougars)
@@ -1034,6 +1036,34 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >"Hey, now, wait a minute, Mrs. P."
 >
 >"Not one word."
+
+##### [Weird Fiction](https://files.catbox.moe/zoq25d.module)
+
+[by Zaltys](https://discord.com/channels/836774308772446268/939922436500107314/941029881993654313)
+
+*Trained on variety of weird fiction: bizarro, surreal, weird west, new weird, and so on. Turned out to be more coherent than I expected. Still somewhat unpredictable, and can be quite gory, with body horror, etc.*
+
+***Steps:** 14009*
+
+***Loss:** 2.79, trained at around 35% of total.*
+
+***Tags:** weird fiction, bizarro, surreal, body horror*
+
+>"Well, now that we're here, you should probably fill me in." The King looked around at the empty streets, still full of trash but otherwise unremarkable. "Where is everybody?"
+>
+>"As far as I know," the Man in Black answered, "there's no one left in town. There was a fight between the Vampires and the Witches, apparently. Neither side has been able to hold on since then." He looked up at the sky again. It had begun to get dark and the clouds were rolling back in, revealing that night was approaching faster than it should be.
+>
+>"Why would anyone do this?"
+>
+>The Man in Black shrugged. "Who knows? We've got some sort of… messiah trying to clean up whatever he sees as problems in the world today. We're not sure if he's the good guy or the bad guy, but we don't have any reason to think he's going to stop until every Witch and Vampire on the planet is dead." He shrugged. "I'm really not a fan of this whole mess."
+>
+>"Messiah?" the King repeated slowly. The words didn't sit well with him. "What makes you say that?"
+>
+>The man frowned. "It's just… weird how much like… an angel he looks. I mean, they're all over the place these days. But this one… Well, it's not even a person. He's just some kind of… cloud… or something. It's crazy, but there are times when he makes people feel things… It's almost like he can make people believe in him. So maybe that's what it is. Maybe this whole mess is just the result of this one guy who is actually messing with everybody's head."
+>
+>"And then?" the King asked, gesturing around them at the deserted cityscape.
+>
+>"Well… he seems to think that by killing everyone, the problem will be solved. You know. Like the old… 'Death is the only solution' thing." The Man in Black shrugged. "Maybe he's right, but it seems a little drastic to me. You know, he says all this stuff about how he's trying to help us… but we haven't seen anything to show that he's doing us any favors. Nothing at all."
 
 ***
 
