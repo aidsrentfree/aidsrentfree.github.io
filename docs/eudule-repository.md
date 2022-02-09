@@ -23,6 +23,10 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(9th February, 2022)
+
+- Added [Gryphons](#gryphons) module.
+
 (8th February, 2022)
 
 - Added [text_adventures.txt](#text_adventurestxt) module, then updated it with 100% version.
@@ -142,13 +146,14 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Western Romance](#western-romance)
       - [Western](#western)
   - [Elements](#elements)
-    - [Concrete](#concrete)
+    - [Things](#things)
       - [Cynthia (Pokemon)](#cynthia-pokemon)
       - [Female Wrestling](#female-wrestling)
+      - [Gryphons](#gryphons)
       - [Male Prisons](#male-prisons)
-    - [Abstract](#abstract)
+    - [Concepts](#concepts)
       - [LitRPG](#litrpg)
-    - [Style](#style)
+    - [Styles](#styles)
       - [Cross-Genre, Oh My!](#cross-genre-oh-my)
   - [Sexual](#sexual)
     - [Beings](#beings)
@@ -712,7 +717,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ### [Elements](#themes)
 
-#### [Concrete](#elements)
+#### [Things](#elements)
 
 ##### [Cynthia (Pokemon)](https://files.catbox.moe/bdrbmg.module)
 
@@ -732,13 +737,26 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ***Tags:** wrestling, fighting, sports, female*
 
+##### [Gryphons](https://files.catbox.moe/bj3ixf.module)
+
+[by Zaltys](https://discord.com/channels/836774308772446268/939922436500107314/940783835841454151)
+
+*Since I wasn't able to train anything today, here's an another test module instead. Catbirds. Got some positive feedback for this in Sigurd, so might as well publish it. Trained at ~40% of 20 MB of gryphon/griffin fiction, mostly the ones that feature them as protagonists. (I was testing how well Euterpe handles beaks, quadrupeds, etc.)*<br>
+*May have got overtrained with some names, despite not even being 50%. Easily biased, though.*<br>
+
+***Steps:** 9250*
+
+***Loss:** 2.68*
+
+***Tags:** gryphons, fantasy, urban fantasy, other fantasy creatures too, but mostly gryphons*
+
 ##### [Male Prisons](https://files.catbox.moe/2d1360.rar)
 
 [by Anon](https://arch.b4k.co/vg/thread/371544232/#371575535)
 
 *The Male Prison module trained at 50%.*
 
-#### [Abstract](#elements)
+#### [Concepts](#elements)
 
 ##### [LitRPG](https://files.catbox.moe/3zyctr.module)
 
@@ -766,7 +784,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >
 >The title reminded me of how far I'd come since becoming trapped in this strange world. When I first found myself here, I felt like I was fighting against my fate, but now I could see things differently. The path forward may have been unclear at first, but as time passed and more things fell into place, I began to understand that this wasn't just some random game that would end soon; I was living in another reality, a fantasy land where anything was possible. That realization made all the difference. It gave me the courage to fight back. To take control of my own destiny.
 
-#### [Style](#elements)
+#### [Styles](#elements)
 
 ##### [Cross-Genre, Oh My!](https://files.catbox.moe/um8rft.module)
 
