@@ -23,6 +23,10 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(10th February, 2022)
+
+- Added [The Manwhore Module](#the-manwhore-module).
+
 (9th February, 2022)
 
 - Added [Gryphons](#gryphons) module.
@@ -172,6 +176,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [LitRPG](#litrpg)
     - [Styles](#styles)
       - [Cross-Genre, Oh My!](#cross-genre-oh-my)
+      - [The Manwhore Module](#the-manwhore-module)
       - [Smorgasboard Experiment](#smorgasboard-experiment)
       - [Weird Fiction](#weird-fiction)
   - [Sexual](#sexual)
@@ -1000,6 +1005,16 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >"I need you," I gasped. "I need your cock. Give it to me. Please."
 >
 >The wolf-man slid off the desk, his hands closing around my hips as he turned me. He pressed me back against it, his fingers sliding beneath my dress to grasp my ass cheeks. My back arched as he bent me over the desk, his cock pressing against my wet pussy. I could smell my own sex and it filled my nostrils. The wolf-man pressed his cock against me and slid inside me. I cried out at the feeling of being filled by such a huge cock. My ass pressed against the edge of the desk.
+
+##### [The Manwhore Module](https://files.catbox.moe/noyjn5.module)
+
+[by Manwhore](https://arch.b4k.co/vg/thread/371980465/#371981242)
+
+*Greetings, gentlemen—and behold! Forever ago in internet years I promised you a template update was coming along for Euterpe, and at long last it's finally here! This one's got it all: new context settings, new gen settings, new biases, and of course, a brand-new module. This cocktail of cutting-edge coomer technology hits like a truck, and thanks to a couple dedicated testers I have witnesses to corroborate that claim. So don't wait! Don't delay! Dive into the brand-new edition of Manwhore's Template today!*
+
+*The full template is available here, as a [.scenario file](https://files.catbox.moe/1jr64u.scenario).*
+
+*Enjoy.*
 
 ##### [Smorgasboard Experiment](https://files.catbox.moe/j35hmf.module)
 
