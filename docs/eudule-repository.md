@@ -23,9 +23,8 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
-(10th February, 2022)
+(11th February, 2022)
 
-- Added [The Manwhore Module](#the-manwhore-module).
 - Added [A Song of Ice and Fire](#a-song-of-ice-and-fire) module.
 - Added [Cyberpunk (Annotated)](#cyberpunk-annotated) module.
 - Added [Clark Ashton Smith](#clark-ashton-smith) module.
@@ -36,6 +35,10 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [ManyEyedHydra](#manyeyedhydra) module.
 - Added [Smutknight](#smutknight) module.
 - Added [Dragon Smut](#dragons) module.
+
+(10th February, 2022)
+
+- Added [The Manwhore Module](#the-manwhore-module).
 
 (9th February, 2022)
 
