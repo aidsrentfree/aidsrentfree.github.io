@@ -35,6 +35,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [ManyEyedHydra](#manyeyedhydra) module.
 - Added [Smutknight](#smutknight) module.
 - Added [Dragon Smut](#dragons) module.
+- Added [Harems](#harems) module.
 
 (10th February, 2022)
 
@@ -61,7 +62,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 (8th February, 2022)
 
-- Added [text_adventures.txt](#text_adventurestxt) module, then updated it with 100% version.
+- Added [text_adventures.txt](#text_adventurestxt) module, then updated it with 300% version.
 - Added [Furry ENF](#furry-enf) module.
 - ~~Played CK3 Royal Court~~
 - Added [LitRPG](#litrpg) module.
@@ -224,6 +225,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Furry Transformation](#furry-transformation)
       - [Furry Yuri](#furry-yuri)
       - [Futadom](#futadom)
+      - [Harems](#harems)
       - [RWBY Kinks](#rwby-kinks)
 - [Works](#works)
   - [Fiction](#fiction)
@@ -1411,6 +1413,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 [by Anon](https://arch.b4k.co/vg/thread/371872001/#371923678)
 
 *Haven't had time to test it properly, but I made a futadom / futa on male module.*
+
+##### [Harems](https://litter.catbox.moe/tue34k.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/372230097/#372248521)
+
+*Aight, done. It's updated on a cleaned version of the Harem.txt with all the double spacing removed and ⁂ added between stories as instructed by the manwhore guide. The link should work for 12 hours, and hopefully catbox is back to working after that so there can be a permanent link. I did some testing, and there doesn't appear to be a huge difference between this one and the first one, it still almost exclusively names girls from the story (though there was a little less of it) and otherwise writes out group sex scenes, with girls rotating, working together, or scuffling for space around the dick.*
 
 ##### [RWBY Kinks](https://files.catbox.moe/4yb633.module)
 
