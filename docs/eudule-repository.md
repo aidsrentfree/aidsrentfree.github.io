@@ -26,6 +26,16 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 (10th February, 2022)
 
 - Added [The Manwhore Module](#the-manwhore-module).
+- Added [A Song of Ice and Fire](#a-song-of-ice-and-fire) module.
+- Added [Cyberpunk (Annotated)](#cyberpunk-annotated) module.
+- Added [Clark Ashton Smith](#clark-ashton-smith) module.
+- Added [Kuroshio](#kuroshio) module.
+- Added [TheGoHt](#thegoht) module.
+- Added [Frocto](#frocto) module.
+- Added [SlutWriter](#slutwriter) module.
+- Added [ManyEyedHydra](#manyeyedhydra) module.
+- Added [Smutknight](#smutknight) module.
+- Added [Dragon Smut](#dragons) module.
 
 (9th February, 2022)
 
@@ -134,6 +144,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - [Modules](#modules)
 - [Authors](#authors)
   - [Traditional](#traditional)
+    - [Clark Ashton Smith](#clark-ashton-smith)
     - [C. S. Lewis](#c-s-lewis)
     - [George Orwell](#george-orwell)
     - [Italo Calvino](#italo-calvino)
@@ -143,8 +154,14 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Independent](#independent)
   - [Intellectual](#intellectual)
   - [Online](#online)
+    - [Frocto](#frocto)
+    - [Kuroshio](#kuroshio)
+    - [ManyEyedHydra](#manyeyedhydra)
     - [Prinnyd00d](#prinnyd00d)
+    - [SlutWriter](#slutwriter)
+    - [Smutknight](#smutknight)
     - [Tastatura](#tastatura)
+    - [TheGoHt](#thegoht)
 - [Themes](#themes)
   - [Setting](#setting)
     - [Established](#established)
@@ -154,9 +171,11 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Forgotten Realms](#forgotten-realms)
       - [Halo](#halo)
       - [Sailor Moon](#sailor-moon)
+      - [A Song of Ice and Fire](#a-song-of-ice-and-fire)
       - [Star Wars](#star-wars)
       - [Warrior Cats: Universe](#warrior-cats-universe)
     - [Generic](#generic)
+      - [Cyberpunk (Annotated)](#cyberpunk-annotated)
       - [Desert Fantasy and Folklore](#desert-fantasy-and-folklore)
       - [Oriental Fantasy](#oriental-fantasy)
       - [Poetic Fantasy](#poetic-fantasy)
@@ -182,6 +201,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Sexual](#sexual)
     - [Beings](#beings)
       - [Cougars](#cougars)
+      - [Dragons](#dragons)
       - [Giantesses](#giantesses)
       - [Good Girls](#good-girls)
       - [Loli/Shota](#lolishota)
@@ -266,6 +286,38 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 ***
 
 ### [Traditional](#writers)
+
+#### [Clark Ashton Smith](https://files.catbox.moe/ezoai8.module)
+
+[by ☄WanderingStar](https://discord.com/channels/836774308772446268/939922436500107314/941647194845483018)
+
+*Pure, 100%, unadulterated Clark Ashton Smith. Prose only, no poetry, mostly very short-form fiction. Expect exotic locales and fanciful character names. Somewhat archaic diction and a more verbose style with longer sentences. A tendency to develop narrative rather quickly after initial set-up due to prevalence of short-form fiction. Darker themes generally but also capable of a light touch with the right prompt.*
+
+***Tags:** Fantasy, cosmic horror, gothic, short stories, single-author, style-oriented.*
+
+***Sources:** Volumes 1-5 of his collected stories (excluding the juvenalia, vol. 6). 80% coverage, 3.01 loss (perhaps the exotic names are to be blamed for this, but it is still quite coherent).*
+
+>The night was very black, and the stars were hidden by a pall of smoke that hung over the city like a cloud. The air was full of ashes; and in the streets there was no sound but the rattle of wheels on the pavement, and the low murmur of voices from the open windows of the houses. It seemed to me that I had never seen such an empty-looking place before, nor heard so many doors shut at once; and I thought it strange that all should be quiet when the whole world was in tumult. But then I remembered that this was not a time for people to go abroad except in disguise or under cover of darkness. And as we came nearer the palace, I saw that the gates were closed, and the guards posted within their portals. They looked at us with fixed eyes through the gloom, and did not move until we had passed them.
+>
+>We went up the broad steps of the great portico, which was lit by torches placed upon brackets along its sides. We entered the building without being challenged; and after passing through several large rooms, we found ourselves in a smaller hall whose walls were hung with tapestries of gold and silver, and whose floor was paved with marble slabs. There was no one about, save a few slaves who carried lamps into other parts of the house.
+>
+>At last we reached a door of carved wood, and knocked softly upon it. A voice answered us from within: "Who comes?"
+>
+>"It is the Prince," said my father.
+>
+>A moment later a man opened the door, and admitted us. He was tall and thin, and wore a robe of purple velvet embroidered with golden threads.
+
+>The necromancer's face was a mask of horror. He had been expecting something like this, but not quite so soon; and he felt that his own powers were failing him in the presence of such an evil influence as this. His voice trembled with fear when he spoke to the corpse-man: "What is your will? What do you desire?"
+>
+>"I want to be taken back," said the dead man, "to my place of rest."
+>
+>"You shall have it!" cried the necromancer, seizing the body by the arms and dragging it from the bed. The thing seemed to weigh no more than a child; and its limbs moved stiffly under his hands as if they were made of wood or stone.
+>
+>"Where are we going?" asked the dead man, as he followed after his master into the corridor.
+>
+>"To the tomb chamber," answered the necromancer.
+>
+>They went down many winding stairs, and through dark passages which led them farther and farther away from the house of the sorcerer. At length they came to a huge vaulted room whose walls were covered with frescoes of death and desolation. The floor was strewn with bones and skulls, and here and there lay the corpses of men and women who had died long ago. In the center of the chamber stood a sarcophagus, and on top of it rested a skeleton clad in black armor and carrying a sword and shield. This figure was the necromancer himself.
 
 #### [C. S. Lewis](https://mega.nz/file/VGwygKKa#oUAumhzb2td1uEyv_qDlC1XLnz0Ali66O4_dSqvEzN0)
 
@@ -357,17 +409,63 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ### [Online](#writers)
 
+#### [Frocto](https://files.catbox.moe/v34jrp.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/372108509/#372167471)
+
+*Frocto: 7632 steps, 80% AVG Loss: 3.03*
+
+*Frocto is a semi-similar case [to [TheGoHt](#thegoht)]. Albeit more femdommy. Large proportions, voluptous women. That sorta thing.*
+
+#### [Kuroshio](https://files.catbox.moe/wkng8p.module)
+
+[by](https://arch.b4k.co/vg/thread/372108509/#372165741) [Anons](https://arch.b4k.co/vg/thread/372108509/#372167213)
+
+*Author is [Kuroshio](https://files.catbox.moe/pfmgr5.7z). I don't think he's active anymore. Content ran the gamut of fetishes with a slant towards futa.*
+
+#### [ManyEyedHydra](https://files.catbox.moe/77ovd0.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/372108509/#372167471)
+
+*ManyEyedHydra: 3194 steps, 80.03% AVG Loss: 2.92*
+
+*ManyEyedHydra mainly deals in monster girls. Primarily succubi though you get some other ones in there, such as fairies and slime. Tends to be more traditional in regards to succubi and monstergirls (i.e. they actually soul suck/kill people through sex).*
+
 #### [Prinnyd00d](https://files.catbox.moe/bg3k1t.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/371544232/#371546348)
 
 *Prinnyd00d vore module is GO*
 
+#### [SlutWriter](https://files.catbox.moe/2v1cvm.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/372108509/#372167471)
+
+*Slutwriter: 7811 steps, 80% AVG Loss: 2.92*
+
+*Barring those he deleted over the years and some stories I had to trim due to weird formatting/similar content, I crammed the training data with almost all of SlutWriter's works from HF and Ao3. Each piece was individually cleaned up with Notepad++.*
+
+#### [Smutknight](https://files.catbox.moe/5nz58q.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/372108509/#372167471)
+
+*Smutknight: 1237 steps, 100.04%, Couldn't check the loss on this one. It was made during the weird training hiccups that ate steps and I got booted from the Loss graph screen right after I downloaded the module.*
+
+*Smutknight is somewhat vanilla smut, as far as my tastes go anyways, but results have been good for me so far. Author focused a lot on League of Legends and fantasy settings but the module should slot into most topics just fine.*
+
 #### [Tastatura](https://files.catbox.moe/hc44bv.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/371544232/#371558509)
 
 *Here is the Euterpe trained Tastatura module. This online smut writer features very verbose and raunchy subjects, often revolving around incest, maledom, a bit of loli, and a lot of big-dick shota. Trained to 70%/5~ MB of data. Use at your own risk.*
+
+#### [TheGoHt](https://files.catbox.moe/kwvy0f.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/372108509/#372167471)
+
+*TheGoHt: 1734 steps, 100.02% AVG Loss: 2.75*
+
+*TheGoHt does large proportions. Descriptions of big tits and the like. I think he teetered on inflation porn for a bit? But I don't remember it cropping up too much in his writing.*
 
 ***
 
@@ -461,6 +559,24 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ***Tags:** Sailor Moon, magical girl, anime.*
 
+##### [A Song of Ice and Fire](https://files.catbox.moe/hdjnli.module)
+
+[by Phil Scott](https://discord.com/channels/836774308772446268/939922436500107314/941488501868879892)
+
+*An upgrade to Euterpe from my earlier Sigurd modules, with improved formatting and no page numbers. ASOIAF Books by George R.R Martin, should replicate his prose and the like.*
+
+***Tags:** Medieval Fantasy, Dragons, Winter, Euterpe*
+
+***Sources:** (9mb, 10.2k steps, 100% coverage, ~2.4% loss)*
+
+- A Game of Thrones - George R.R Martin,
+- A Clash of Kings - George R.R Martin,
+- A Storm of Swords - George R.R Martin,
+- A Feast For Crows - George R.R Martin,
+- A Dance With Dragons- George R.R Martin
+
+***Usage:** This replicates the general writing of the ASOIAF universe, so you may insert yourself as any character from within the books or try making your own. I would recommend complementing this module with a good lorebook about ASOIAF for the best experience*
+
 ##### [Star Wars](https://files.catbox.moe/0geqtq.module)
 
 [by ???](https://discord.com/channels/836774308772446268/939922436500107314/940465459684331600)
@@ -505,6 +621,31 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Ao3: Brighter-, Once-, Simpler-, Blind-, Hes-, Twisted-, Rekindled
 
 #### [Generic](#setting)
+
+##### [Cyberpunk (Annotated)](https://files.catbox.moe/m7j93y.module)
+
+[by Magenta.Darkstar](https://discord.com/channels/836774308772446268/939922436500107314/941545719465123890)
+
+[40% coverage version](https://files.catbox.moe/76th87.module)
+
+*Classic and modern cyberpunk stories from a variety of perspectives featuring Pocket Notes style annotations. (As with before, this works without pockets notes or annotations, and can supplement pocket notes. It gives gentler and longer lasting guidance. Supported `[ Annotations: Describe, Do, Dialogue, Start, Sentiment, and Plot.]` )*
+
+***Tags:** Science Fiction, Cyberpunk, Annotations, Pocket Notes.*
+
+***Sources:** (80% coverage, 2.96 loss)*
+
+- Altered Carbon - Richard Morgan
+- Snow Crash - Neal Stephenson
+- The Diamond Age - Neal Stephenson
+- The Prey of Gods - Nicky Drayden
+- Brave New World - Aldous Huxley
+- Pattern Recognition - William Gibson
+- Neuromancer - William Gibson
+- Do Androids Dream of Electric Sheep - Philip K. Dick
+
+***Note:** I've included the recommended 80% coverage version, and also a softer gentler 40% version. `[ Start: ... ]` can be very useful for giving guidance to Euterpe when beginning a new chapter.*
+
+![Sample: (pink mine) (edited)](https://files.catbox.moe/40z6wk.png)
 
 ##### [Desert Fantasy and Folklore](https://files.catbox.moe/z0ik57.module)
 
@@ -1107,6 +1248,14 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *An update to my previous Cougar/MILF themed module, this time for Euterpe.  No major changes besides adding a few texts from stuff I gained for other modules I thought fit.  About 12 mb of data at 30%.*
 
 ***Tags:**  MILF, Cougar, Age difference, some noncon/dubious con, some GILFs, femdom, incest, older women, some group sex for flavor*
+
+##### [Dragons](https://files.catbox.moe/hbh15a.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/372108509/#372171508)
+
+*Your questionable quoting abilities aside, thanks. Guess I'll share this officially for the repository. It's my [dragon smut](https://files.catbox.moe/kb70ga.7z) module again.*
+
+*No human dragonfuckers allowed.*
 
 ##### [Giantesses](https://files.catbox.moe/tg3z8m.module)
 
