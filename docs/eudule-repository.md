@@ -23,6 +23,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(12th February, 2022)
+
+- Updated [Dragon Smut](#dragons) module.
+- Added [Sword and Sorcery](#sword-and-sorcery) module.
+- Added [Elizabethan Fantasy](#elizabethan-fantasy) module.
+
 (11th February, 2022)
 
 - Added [A Song of Ice and Fire](#a-song-of-ice-and-fire) module.
@@ -135,10 +141,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Ace Attorney](#ace-attorney) module.
 - Added [Age Difference](#age-difference) module.
 
-(4th February, 2022)
-
-- And we're live!
-
 ***
 
 ## [Table of Contents](#modules)
@@ -181,10 +183,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Generic](#generic)
       - [Cyberpunk (Annotated)](#cyberpunk-annotated)
       - [Desert Fantasy and Folklore](#desert-fantasy-and-folklore)
+      - [Elizabethan Fantasy](#elizabethan-fantasy)
       - [Oriental Fantasy](#oriental-fantasy)
       - [Poetic Fantasy](#poetic-fantasy)
       - [Science Fantasy](#science-fantasy)
       - [Surrealistic Look Through the Glass](#surrealistic-look-through-the-glass)
+      - [Sword and Sorcery](#sword-and-sorcery)
       - [The Great War](#the-great-war)
       - [Western Romance](#western-romance)
       - [Western](#western)
@@ -687,6 +691,98 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >
 >She fell silent again, and he waited, holding his breath, listening to the wind. He'd never had much patience. It was one of the things he disliked about himself. He needed to know now, right now, what was going on. The old woman sighed and said, "My husband's name was Rashid al-Khoury, and I loved him more than anything in the world. He was a good man, a kind man, a man who would give you his last coin if you asked for it. When we were young, he had a terrible temper, and we quarreled often. But as we grew older, it calmed down. We shared everything. And then my son was born. We named him Ali, after his father. He was beautiful, like his father, and I loved him too." She paused, and then continued, her voice barely above a whisper. "And then one day, he went out to work in the fields with my brother, and he never came back.
 
+##### [Elizabethan Fantasy](https://files.catbox.moe/dcms38.module)
+
+[by Kitty](https://discord.com/channels/836774308772446268/939922436500107314/942007242344005652)
+
+*In the late 1800s- early 1900s, several famous authors wrote fantasy using thees and thous, styled after the early Elizabethan and Jacobean eras. Redone for Euterpe V2, with softer coverage.*
+
+*Special thanks to marbles for the steps~*
+
+***Tags:** Medieval, Shakespearean, Fantasy, Euterpe V2*
+
+***Sources:** (3.50mb, 2292 steps, 56% coverage, 3.06 loss)*
+
+- Eric Brighteyes - H. Rider Haggard
+- The Mabinogion - Lady Charlotte Guest
+- The Story of the Glittering Plain - William Morris
+- The Well at the World's End - William Morris
+- The Wood Beyond the World - William Morris
+- The Worm Ouroboros - E.R. Eddison
+
+***Usage:** Before, biasing for whence/whither and against you and so on would imbalance output due to duplicated tokens, and Elizabethan English was not always guaranteed.*
+
+*Now, simply biasing against you and your guarantees balanced results!*
+
+*(Biasing against `Ralph`, `Arthur`, `Eric`, `Ospakar`, `Hallblithe`, `Gwydion`, `Swanhild` and `Gudruda` also increases variation)*
+
+***Output:** (above at -0.10)
+
+>The next day the two armies met, and the battle was fought.
+>
+>It was a long and bloody encounter, for it lasted till evening. The Britons had their spears and swords, and they had armour made of boiled leather; but the Saxons had shields made of wood, and were armed with steel helmets on their heads. Now this helmet was made by melting the iron from the sword blades which had been broken in battle.
+>
+>They had other weapons besides these: for they had bows with arrows of iron, and slings which they used to throw stones from the ground up into the sky and let them fall like hail upon the Britons' heads. And at the head of them all was Alweo, the Saxon chief. He wore a helmet of iron, and he had an axe in his hand. As he marched through the ranks of the enemy, he shouted in a loud voice, "Come forth and fight with me! Come forth and die!"
+>
+>Then all the warriors of Britain heard him shout thus, and they answered him: "Thou shalt not be slain. We will fight thee on the plain, and then thou shalt flee away."
+
+>And when they drew near to a clump of bushes that stood near the edge of the wood, behold! they saw before them an old woman sitting with her back towards them, at the foot of an oak; and she was making a kindling fire on a little knoll which had grown up among the rocks and stones of the ground.
+>
+>The King and his company halted; and the King called out: "What is thy name? Who art thou?"
+>
+>The old woman rose from her seat as if she were coming hither, but she said no word in answer to the King's question, and sat down again again by the oak.
+>
+>"What are ye doing there, grandmother?" said the King.
+>
+>But she only looked round upon him without speaking; and her eyes were red, and blood trickled from them. And he asked her again: "Who art thou? What dost thou here?"
+>
+>Then she answered: "I am a witch; and I sit here because this is the place whither all witches go."
+>
+>Then the King saw that she had spoken truly.
+>
+>He turned to his companions and said: "See that this is indeed a witch, and not some madwoman. We should slay her at once."
+>
+>"I do not know," said another. "This old woman is very ill, or she would not sit here thus, and stare before us in that way. She may be a witch, yet mayhap we should do better to spare her."
+
+>Hear me, my lord,
+>
+>A maiden of the House of Nymfraeth.
+>
+>The first that I saw was a maid of beauty,
+>
+>As fair as any of her kind;
+>
+>And so she is by the gods.
+>
+>But she hath many virtues besides.
+>
+>For if thou hast ever seen the sun's rays
+>
+>Shining through an orchard gate,
+>
+>You will know it when I say,
+>
+>That she is like the beams in their course.
+>
+>Her hair is black as night-dark;
+>
+>And her eyes are like stars on high;
+>
+>The fairest I have seen:
+>
+>Her hands are white and slender,
+>
+>Like pale roses upon a tree;
+>
+>Her mouth is redder than the rose,
+>
+>And her lips are soft and sweet.
+>
+>She hath a heart of gold, my lord,
+>
+>A heart that never is sad.
+
+
 ##### [Oriental Fantasy](https://files.catbox.moe/kq71e0.module)
 
 [by Kitty](https://discord.com/channels/836774308772446268/939922436500107314/940431070871056459)
@@ -862,6 +958,33 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >
 >And they all sat down to wait. Soon after that, the eldest brother died, and soon after that the second brother died, and soon after that the youngest brother also died, and just when the oldest son was about to die, his coffin broke open. All his gold fell out onto the ground.
 >Then the richest man in the kingdom saw this and said, "Here is a strange thing! If the dead brothers did not need any food, how could the eldest son die?"
+
+##### [Sword and Sorcery](https://files.catbox.moe/9a9k7g.module)
+
+[by VK Fantasy](https://discord.com/channels/836774308772446268/939922436500107314/941865043258134568)
+
+*This is an update of my Sword and Sorcery module, remade for Euterpe v2!*
+
+***TAGS:** sword and sorcery, conan the barbarian, kull, red sonja, kane*
+
+*Authors encompass pretty much every major Sword and Sorcery pastiche author except Robert E. Howard (as he deserves his own module).*
+
+>**The barbarian** saw a dim light ahead as they walked through the darkness. At last he found a door set in the wall and pulled it open to reveal a room brightly lit by torches. The chamber was quite large, with a high ceiling that rose above his head. A dozen or more people moved about, talking among themselves and busily preparing food. They were all of the same race, for each man wore the same dark-green robes as Kane. The barbarian recognized several of them from the party at the palace.
+>
+>"What are these people?" he asked.
+>
+>Kane looked back over his shoulder, and saw his two companions seated on a bench beside him.
+>
+>"These are members of the cult," he said. "They wear the robes for identification."
+>
+>"So I see," Conan said, eyeing the people with distaste. He had never been comfortable around so many strangers. The way they stared at him gave him a chill feeling.
+>
+>A balding man with a round face approached Kane and stood before him. He spoke in a low voice.
+>
+>"I am Father Kavo. You have brought your friends here safely, and I thank you for that. Would you care for some food? We have meat and fruit and wine to offer you."
+>
+>Conan shook his head, and Kavo smiled. He led them down a corridor to another room.
+
 ##### [The Great War](https://files.catbox.moe/ke8xa6.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/371544232/#371552753)
@@ -1254,13 +1377,15 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ***Tags:**  MILF, Cougar, Age difference, some noncon/dubious con, some GILFs, femdom, incest, older women, some group sex for flavor*
 
-##### [Dragons](https://files.catbox.moe/hbh15a.module)
+##### [Dragons](https://files.catbox.moe/vtunbs.module)
 
-[by Anon](https://arch.b4k.co/vg/thread/372108509/#372171508)
+[by Anon](https://arch.b4k.co/vg/thread/372230097/#372297935)
 
-*Your questionable quoting abilities aside, thanks. Guess I'll share this officially for the repository. It's my [dragon smut](https://files.catbox.moe/kb70ga.7z) module again.*
+*It's my [dragon smut](https://files.catbox.moe/kb70ga.7z) module again.*
 
 *No human dragonfuckers allowed.*
+
+*Since somebody else is apparently using this one, I'll note it works better with a higher randomness preset, as few of those there are at the moment.*
 
 ##### [Giantesses](https://files.catbox.moe/tg3z8m.module)
 
