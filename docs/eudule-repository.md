@@ -35,6 +35,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Of Men and Dragons](#men-and-dragons) module.
 - Added [Eva3](#nonconsensual-exhibitonism) module.
 - Added [Assorted Mind Control](#assorted-mind-control) module.
+- Updated [Harems](#harems) module with permanent link.
 
 (12th February, 2022)
 
@@ -129,30 +130,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Teraurge](#teraurge) module.
 - Added [A Certain Magical Index (1-22)](#a-certain-magical-index-1-22) module.
 - Added [RWBY Kinks](#rwby-kinks) module.
-
-(6th February, 2022)
-
-- V2 IS ONLINE, FRIENDS.
-- Added [Tanya the Evil](#the-saga-of-tanya-the-evil) module.
-- Added [Seinfeld](#seinfeld) module.
-- Added [Small Equines](#small-equines) module.
-- Added [My Immortal](#my-immortal) module.
-- Added [Prinny](#prinnyd00d) module.
-- Added [Tolkien](#j-r-r-tolkien) module.
-- Added [Science Fantasy](#science-fantasy) module.
-- Added [Cross-Genre](#cross-genre-oh-my) module.
-- Added [C. S. Lewis](#c-s-lewis) module.
-- Added [Poetic Fantasy](#poetic-fantasy) module.
-- Added [WW1](#the-great-war) module.
-- Added [P. G. Wodehouse](#p-g-wodehouse) module.
-- Added [Surrealistic Look Through the Glass](#surrealistic-look-through-the-glass) module.
-- Added [Tastatura](#tastatura) module.
-- Added [Tales of Androgyny](#tales-of-androgyny) module.
-- Added [Western Romance](#western-romance) module.
-- Added [Furry Yuri](#furry-yuri) module.
-- Added [Fallout: Equestria](#fallout-equestria) module.
-- Added [Ace Attorney](#ace-attorney) module.
-- Added [Age Difference](#age-difference) module.
 
 ***
 
@@ -1675,7 +1652,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Haven't had time to test it properly, but I made a futadom / futa on male module.*
 
-##### [Harems](https://litter.catbox.moe/tue34k.module)
+##### [Harems](https://files.catbox.moe/0b1wdc.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/372230097/#372248521)
 
