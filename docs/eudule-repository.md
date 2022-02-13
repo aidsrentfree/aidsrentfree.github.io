@@ -23,6 +23,14 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(13th February, 2022)
+
+- Added [Annotated Tech](#annotated-tech) module.
+- Added [Lyrical Writing](#lyrical-writing) module.
+- Added [Wildlife](#wildlife) module.
+- Added [Russian Folktales and Fantasy](#russian-folklore--fantasy) module.
+- Added [World of Pokemon](#world-of-pokemon) module.
+
 (12th February, 2022)
 
 - Updated [Dragon Smut](#dragons) module.
@@ -180,12 +188,14 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [A Song of Ice and Fire](#a-song-of-ice-and-fire)
       - [Star Wars](#star-wars)
       - [Warrior Cats: Universe](#warrior-cats-universe)
+      - [World of Pokemon](#world-of-pokemon)
     - [Generic](#generic)
       - [Cyberpunk (Annotated)](#cyberpunk-annotated)
       - [Desert Fantasy and Folklore](#desert-fantasy-and-folklore)
       - [Elizabethan Fantasy](#elizabethan-fantasy)
       - [Oriental Fantasy](#oriental-fantasy)
       - [Poetic Fantasy](#poetic-fantasy)
+      - [Russian Folklore & Fantasy](#russian-folklore--fantasy)
       - [Science Fantasy](#science-fantasy)
       - [Surrealistic Look Through the Glass](#surrealistic-look-through-the-glass)
       - [Sword and Sorcery](#sword-and-sorcery)
@@ -194,15 +204,18 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Western](#western)
   - [Elements](#elements)
     - [Things](#things)
+      - [Annotated Tech](#annotated-tech)
       - [Cynthia (Pokemon)](#cynthia-pokemon)
       - [Female Wrestling](#female-wrestling)
       - [Gryphons](#gryphons)
       - [Male Prisons](#male-prisons)
+      - [Wildlife](#wildlife)
       - [Yinglets](#yinglets)
     - [Concepts](#concepts)
       - [LitRPG](#litrpg)
     - [Styles](#styles)
       - [Cross-Genre, Oh My!](#cross-genre-oh-my)
+      - [Lyrical Writing](#lyrical-writing)
       - [The Manwhore Module](#the-manwhore-module)
       - [Smorgasboard Experiment](#smorgasboard-experiment)
       - [Weird Fiction](#weird-fiction)
@@ -629,6 +642,26 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Fanfiction.net: Exiled, The-, Fire-, Misty-, Spotted-, Winds-, Our-, Tiger-, Falling-, Seeing-, Rise-, Bitter-, The-, Thawing-, Blood-, Truth-, OneFire, Jayfeather-, Beyond-, No-, My-, Best-, Cold-, Red-, Fireheart-, sunny-, I-, Catmint-, Kin-, If-, Sandstorm-, Misty-, Thank-, Firestar-, Rewind, The-, True-, Starclan-, Fallen-, Brothers, Lost-, Firestar-, What-, Heathertail-, Vengeance, Temptations-, True-, Jayfeather-, A-, A-, In-, Forgive, Crawl, Fidelis, All-, Fire-, Lust
 - Ao3: Brighter-, Once-, Simpler-, Blind-, Hes-, Twisted-, Rekindled
 
+##### [World of Pokemon](https://files.catbox.moe/1ig14q.module)
+
+[by lion](https://discord.com/channels/836774308772446268/939922436500107314/942348140172955669)
+
+*Version 3 with additional new and better cleaned source material.*
+
+*This module is trained on adventure series, literary RPGs, nature books, and other resources either about Pokémon or which have been 'Pokémonized' to match the names, abilities, rules, and other aspects of the Pokémon universe.*
+
+***Source Material:***
+
+- Craig Childs - The Animal Dialogues: Uncommon Encounters in the Wild (Pokémonized)
+- Derek Alan Siddoway - Djinn Tamer Trilogy (Pokémonized)
+- Belverk - pokemodule.txt
+- Zaltys - Pokemon_DexEntries.txt
+- Zaltys - Pokemon_Types&Moves.txt
+- Zaltys - Pokemon_World_Data.txt
+- DaystarEld - Pokemon: The Origin of Species
+
+***Note:** I do recommend a slight bias against Flareon and trainer*
+
 #### [Generic](#setting)
 
 ##### [Cyberpunk (Annotated)](https://files.catbox.moe/m7j93y.module)
@@ -899,6 +932,32 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >
 >They all laughed then, as she led me down the stairs to meet them.
 
+##### [Russian Folklore & Fantasy](https://files.catbox.moe/2mfdcn.module)
+
+[by lion](https://discord.com/channels/836774308772446268/939922436500107314/942293573947232256)
+
+*This module manifests some of the dark whimsy of your favorite folk stories.*
+
+*Special thanks once again to Zaltys for cleaning and prepping the dataset.*
+
+***Source Material:***
+
+- Arkady & Boris Strugatsky - Hard to Be a God
+- Arkady & Boris Strugatsky - Monday Starts on Saturday
+- David Clement-Davies - Fell
+- Edward Rutherfurd - Russka
+- Emma Woodcock - Kikimora
+- Karah Sutton - A Wolf for a Spell
+- Katherine Arden - The Winternight trilogy
+- Leo Tolstoy - Anna Karenina
+- Marina & Sergey Dyachenko - Vita Nostra
+- Mariam Petrosyan - The Gray House
+- Michael Thomas Ford - Lily
+- Mikhail Bulgakov - The Master and Margarita
+- Orson Scott Card - Enchantment
+- Robert Chandler - Russian Magic Tales from Pushkin to Platonov
+- T. Kingfisher - Summer in Orcus
+
 ##### [Science Fantasy](https://files.catbox.moe/coib5d.module)
 
 [by BaronJoshua](https://discord.com/channels/836774308772446268/939922436500107314/940004284660084776)
@@ -1058,6 +1117,19 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 #### [Things](#elements)
 
+##### [Annotated Tech](https://files.catbox.moe/nxto4y.module)
+
+[by Magenta.Darkstar](https://discord.com/channels/836774308772446268/939922436500107314/942242004887277578)
+
+*Tech, with entries having "Tags: sci-fi", "Tags: Science fiction", "category: technology", and "Describe: technology-name" annotations.*
+
+***Tags:** Technology, Science Fiction, Annotations, Lorebook Generation*
+
+***Sources:** Wikipedia entries, each covering science fiction, upcoming, and speculative technology.*
+
+![](https://files.catbox.moe/q296zy.png)
+{: .center}
+
 ##### [Cynthia (Pokemon)](https://files.catbox.moe/bdrbmg.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/371608780/#371653660)
@@ -1094,6 +1166,21 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 [by Anon](https://arch.b4k.co/vg/thread/371544232/#371575535)
 
 *The Male Prison module trained at 50%.*
+
+##### [Wildlife](https://files.catbox.moe/v56pdh.module)
+
+[by lion](https://discord.com/channels/836774308772446268/939922436500107314/942281132286803989)
+
+*Trained on Nonfiction Nature books that emphasize description and focus on the biology, history, and habits of animals and creatures, this module aims to breathe life into your story's wilds.*
+
+***Source Material:***
+
+- Last Chance to See - Douglas Adams, Mark Carwardine
+- The Animal Dialogues: Uncommon Encounters in the Wild - Craig Childs
+- The Truth About Animals: Stoned Sloths, Lovelorn Hippos, and Other Tales from the Wild Side of Wildlife - Lucy Cooke
+- The Zoologist's Guide to the Galaxy - Arik Kershenbaum
+- The Soul of an Octopus - Sy Montgomery
+- Owls of the Eastern Ice - Jonathan C. Slaght
 
 ##### [Yinglets](https://files.catbox.moe/vasbcx.module)
 
@@ -1274,6 +1361,19 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >"I need you," I gasped. "I need your cock. Give it to me. Please."
 >
 >The wolf-man slid off the desk, his hands closing around my hips as he turned me. He pressed me back against it, his fingers sliding beneath my dress to grasp my ass cheeks. My back arched as he bent me over the desk, his cock pressing against my wet pussy. I could smell my own sex and it filled my nostrils. The wolf-man pressed his cock against me and slid inside me. I cried out at the feeling of being filled by such a huge cock. My ass pressed against the edge of the desk.
+
+##### [Lyrical Writing](https://files.catbox.moe/nz9oc2.module)
+
+[by Magenta.Darkstar](https://discord.com/channels/836774308772446268/939922436500107314/942243209730457600)
+
+*Trained on numerous songs reformatted to look like prose. Useful for metaphorical and introspective first person writing.*
+
+***Tags:** Writing Aid, Lyrical Writing, First Person, Introspective.*
+
+***Sources:** Over a hundred songs from various artists.*
+
+![](https://files.catbox.moe/7uvqsg.png)
+{: .center}
 
 ##### [The Manwhore Module](https://files.catbox.moe/noyjn5.module)
 
