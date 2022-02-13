@@ -30,6 +30,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Wildlife](#wildlife) module.
 - Added [Russian Folktales and Fantasy](#russian-folklore--fantasy) module.
 - Added [World of Pokemon](#world-of-pokemon) module.
+- Added [timecube.com](#otis-eugene-ray) module.
 
 (12th February, 2022)
 
@@ -171,6 +172,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Frocto](#frocto)
     - [Kuroshio](#kuroshio)
     - [ManyEyedHydra](#manyeyedhydra)
+    - [Otis Eugene Ray](#otis-eugene-ray)
     - [Prinnyd00d](#prinnyd00d)
     - [SlutWriter](#slutwriter)
     - [Smutknight](#smutknight)
@@ -452,6 +454,18 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *ManyEyedHydra: 3194 steps, 80.03% AVG Loss: 2.92*
 
 *ManyEyedHydra mainly deals in monster girls. Primarily succubi though you get some other ones in there, such as fairies and slime. Tends to be more traditional in regards to succubi and monstergirls (i.e. they actually soul suck/kill people through sex).*
+
+#### [Otis Eugene Ray](https://files.catbox.moe/oar7w8.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/372230097/#372307202)
+
+[500% coverage version](https://files.catbox.moe/3oo689.module)
+
+*I wasted some steps training a module on the contents of timecube.com so that Gene Ray can shitpost forever*
+
+*200% trained.*
+
+*(500% trained generated [the post](https://arch.b4k.co/vg/thread/372230097/#372299662))*
 
 #### [Prinnyd00d](https://files.catbox.moe/bg3k1t.module)
 
