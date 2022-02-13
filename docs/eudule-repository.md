@@ -31,6 +31,10 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Russian Folktales and Fantasy](#russian-folklore--fantasy) module.
 - Added [World of Pokemon](#world-of-pokemon) module.
 - Added [timecube.com](#otis-eugene-ray) module.
+- Added [My Very Own Lith](#my-very-own-lith) module.
+- Added [Of Men and Dragons](#men-and-dragons) module.
+- Added [Eva3](#nonconsensual-exhibitonism) module.
+- Added [Assorted Mind Control](#assorted-mind-control) module.
 
 (12th February, 2022)
 
@@ -232,6 +236,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Small Equines](#small-equines)
       - [Veggie's Lolis](#veggies-lolis)
     - [Acts](#acts)
+      - [Assorted Mind Control](#assorted-mind-control)
       - [Hypnosis (Femsub)](#hypnosis-femsub)
       - [Respect (Second Person)](#respect-second-person)
       - [Score](#score)
@@ -245,6 +250,8 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Furry Yuri](#furry-yuri)
       - [Futadom](#futadom)
       - [Harems](#harems)
+      - [Nonconsensual Exhibitonism](#nonconsensual-exhibitonism)
+      - [Men and Dragons](#men-and-dragons)
       - [RWBY Kinks](#rwby-kinks)
 - [Works](#works)
   - [Fiction](#fiction)
@@ -268,6 +275,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [The Saga of Tanya the Evil](#the-saga-of-tanya-the-evil)
     - [Vampire Hunter D](#vampire-hunter-d)
   - [Text Games](#text-games)
+    - [My Very Own Lith](#my-very-own-lith)
     - [Tales of Androgyny](#tales-of-androgyny)
     - [Teraurge](#teraurge)
   - [Web Fiction](#web-fiction)
@@ -1553,6 +1561,20 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 #### [Acts](#sexual)
 
+##### [Assorted Mind Control](https://files.catbox.moe/nl9kdj.module)
+
+[by Malroth](https://discord.com/channels/854479693503660032/939950910690439179/942183544720072725)
+
+*Assorted Mind control Euterpe version*
+
+*Assembled from 2.5M of mind control stories from MCstories.com fanfiction.net and archive of our own.*
+
+*Trained to 1500 steps.*
+
+>**Tina felt the cold metal of the circlet slip around her head.** She felt a slight tug as it locked into place on the back of her head. Tina knew she was now under the control of this device. Her mind had been taken over. She knew that, but it didn’t matter. She could feel a sense of euphoria and satisfaction in her head.
+>
+>She looked up at the man who had placed the device around her head. She could see the same look of satisfaction and approval in his eyes. He was pleased with what he had done to her. He had manipulated her mind, her body, and now her will. The device had taken her. She didn’t know how or why, but she was glad for it. She would serve him willingly. Anything he asked of her, she would do without hesitation. Her whole world had been turned upside down by this device. She loved it and wanted more.
+
 ##### [Hypnosis (Femsub)](https://files.catbox.moe/nwhbbq.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/371608780/#371662447)
@@ -1658,6 +1680,28 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 [by Anon](https://arch.b4k.co/vg/thread/372230097/#372248521)
 
 *Aight, done. It's updated on a cleaned version of the Harem.txt with all the double spacing removed and ⁂ added between stories as instructed by the manwhore guide. The link should work for 12 hours, and hopefully catbox is back to working after that so there can be a permanent link. I did some testing, and there doesn't appear to be a huge difference between this one and the first one, it still almost exclusively names girls from the story (though there was a little less of it) and otherwise writes out group sex scenes, with girls rotating, working together, or scuffling for space around the dick.*
+
+##### [Nonconsensual Exhibitonism](https://files.catbox.moe/w7q51r.module)
+
+[by QEGo](https://discord.com/channels/854479693503660032/939950910690439179/942138142444642416)
+
+*A first (and not necessarily good) attempt at training a module. Did it need to be trained with this amount of steps? Probably not, But I did it anyway. And since it exists now, so I might as well share it. The module has been trained on a selection of Literotica content, mostly from the Nonconsent & Reluctance and Exhibitionist & Voyeur categories, with an effort made to clean everything up manually.*
+
+*Stats: 30K steps at 92.75%, Average Loss: 2.6522*
+
+***Tags:** Nonconsent, Reluctance, Exhibitionism, Blackmail, ENF, Public*
+
+##### [Men and Dragons](https://files.catbox.moe/80ag2m.module)
+
+[by ArexiL](https://discord.com/channels/854479693503660032/939950910690439179/942005918940413963)
+
+*An NSFW Euterpe v2 module themed for rounchy action between men and dragons. 2.7MB of text trained with ~100% (~3000 steps). Avg loss: 2.84.*
+
+***Source material:** Various cherry picked stories from Sofurry.*
+
+***Tags:** dragon, gay, fantasy, human*
+
+*Do with it what you will*
 
 ##### [RWBY Kinks](https://files.catbox.moe/4yb633.module)
 
@@ -1942,6 +1986,16 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 {: .center}
 
 ### [Text Games](#works)
+
+#### [My Very Own Lith](https://files.catbox.moe/2ae8jk.module)
+
+[by Pure](https://discord.com/channels/854479693503660032/939950910690439179/941767103223062678)
+
+*Module trained on a good chunk of the text found in the game My Very Own Lith.*
+
+***Stats:** 500 steps, ~200% trained, final loss ~3.04*
+
+***Tags:** Game, Wholesome, Furry*
 
 #### [Tales of Androgyny](https://files.catbox.moe/orh3ui.module)
 
