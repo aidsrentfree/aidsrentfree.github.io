@@ -36,6 +36,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Eva3](#nonconsensual-exhibitonism) module.
 - Added [Assorted Mind Control](#assorted-mind-control) module.
 - Updated [Harems](#harems) module with permanent link.
+- Added [The Guy Fieri Menu Item Generator](#the-guy-fieri-menu-item-generator-module) module.
 
 (12th February, 2022)
 
@@ -269,6 +270,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Seinfeld](#seinfeld)
 - [Utilities](#utilities)
   - [Creative Cooking](#creative-cooking)
+  - [The Guy Fieri Menu Item Generator Module](#the-guy-fieri-menu-item-generator-module)
   - [Michael Jackson Lyrics](#michael-jackson-lyrics)
 
 ***
@@ -2212,6 +2214,19 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 > 1/8 cup heavy cream (or coconut milk for dairy free)
 >
 >INSTRUCTIONS: Preheat oven to 350°F (175°C). Set aside 2 tablespoons of the sugar and set aside to use later. In a medium saucepan combine the butter, cocoa, and water. Whisk continuously over low heat until it begins to thicken into a sauce-like consistency, about 10 minutes. Add the remaining sugar (about ¼ cup) and whisk constantly for another 3 minutes while bringing the temperature up to 240°F (115°C). At this point you want to remove from the heat but keep whisking, as it will continue to cook at this temperature, becoming thicker. When the temperature reaches 240°F add in the salt, the remaining sugar, and the egg and stir continuously with a wooden spoon until smooth. Remove from heat and let cool slightly. Place in fridge until cold. Once cooled whip the cream and spread atop your chilled pudding.
+
+### [The Guy Fieri Menu Item Generator Module](https://files.catbox.moe/gnq6d1.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/372436776/#372481997)
+
+*I present /aids/ with real treat for the Superb Owl.*
+
+***The Guy Fieri Menu Item Generator Module***
+
+*Generate some lip smackin buttor bacon basted garbage perfect for your sportsball grand prix.*
+
+![](https://files.catbox.moe/uhpidv.png)
+{: .center}
 
 ### [Michael Jackson Lyrics](https://files.catbox.moe/39ix7t.module)
 
