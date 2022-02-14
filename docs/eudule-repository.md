@@ -26,6 +26,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 (14th February, 2022)
 
 - Added [Melee Combat](#melee-combat) module.
+- Added [Blood Meridian](#blood-meridian-or-the-evening-redness-in-the-west) module.
 
 (13th February, 2022)
 
@@ -211,6 +212,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - [Works](#works)
   - [Fiction](#fiction)
     - [Classic](#classic)
+      - [Blood Meridian or The Evening Redness in the West](#blood-meridian-or-the-evening-redness-in-the-west)
       - [Ninteen Eighty-Four](#ninteen-eighty-four)
       - [Otto Penzler's Big Book of Ghost Stories](#otto-penzlers-big-book-of-ghost-stories)
     - [Modern](#modern)
@@ -1710,6 +1712,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 ### [Fiction](#works)
 
 #### [Classic](#fiction)
+
+##### [Blood Meridian or The Evening Redness in the West](https://files.catbox.moe/8jpqfp.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/372436776/#372524869)
+
+*Blood Meridian module for Terp, works similar as the Sigurd one, it makes the prose a bit more wordy and adds some darker tone, but it doesn't mess with the grammar or formatting*
 
 ##### [Ninteen Eighty-Four](https://files.catbox.moe/co72j7.zip)
 
