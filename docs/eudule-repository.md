@@ -23,6 +23,10 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(14th February, 2022)
+
+- Added [Melee Combat](#melee-combat) module.
+
 (13th February, 2022)
 
 - Added [Annotated Tech](#annotated-tech) module.
@@ -104,34 +108,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Monster Girls](#monster-girls) module
 - Added [Altered Carbon](#altered-carbon) module.
 
-(7th February, 2022)
-
-- Added [Second Person Respect](#respect-second-person) module.
-- Added [Furry Transformation](#furry-transformation) module.
-- Added [Beastars](#beastars) module.
-- Added [Pack Street](#pack-street) module.
-- Added [Male Prisons](#male-prisons) module.
-- Added [Trial by Tenderness](#trial-by-tenderness) module.
-- Added [Disco Elysium](#disco-elysium) module.
-- Added [Final Judgement](#final-judgement) module.
-- Added [Rod Serling](#rod-serling) module.
-- Added [Italo Calvino](#italo-calvino) module.
-- Added [Creative Cooking](#creative-cooking) module.
-- Added [Cougars](#cougars) module.
-- Added [George Orwell](#george-orwell) module.
-- Added [Nineteen Eighty-Four](#ninteen-eighty-four) module.
-- Added [Warrior Cats Universe](#warrior-cats-universe) module.
-- Added [The King James Bible](#the-king-james-bible) module.
-- Added [Vore](#vore) module.
-- Added [Fire Emblem: Awakening](#fire-emblem-awakening) module.
-- Added [Cynthia (Pokemon)](#cynthia-pokemon) module.
-- Added [Western](#western) module.
-- Added [Hypnosis (Femsub)](#hypnosis-femsub) module.
-- Added [Discworld Watch Series](#the-discworld-watch-series) module.
-- Added [Teraurge](#teraurge) module.
-- Added [A Certain Magical Index (1-22)](#a-certain-magical-index-1-22) module.
-- Added [RWBY Kinks](#rwby-kinks) module.
-
 ***
 
 ## [Table of Contents](#modules)
@@ -193,6 +169,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Female Wrestling](#female-wrestling)
       - [Gryphons](#gryphons)
       - [Male Prisons](#male-prisons)
+      - [Melee Combat](#melee-combat)
       - [Wildlife](#wildlife)
       - [Yinglets](#yinglets)
     - [Concepts](#concepts)
@@ -1167,6 +1144,31 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 [by Anon](https://arch.b4k.co/vg/thread/371544232/#371575535)
 
 *The Male Prison module trained at 50%.*
+
+##### [Melee Combat](https://files.catbox.moe/su3eft.module)
+
+[by lion](https://discord.com/channels/836774308772446268/939922436500107314/942884153383329853)
+
+*A utility module trained on various detailed fight scenes across many stories from The Iliad to The Princess Bride, from Logen Ninefingers in The First Law to Eowyn in The Return of the King and more.*
+
+*Focused mainly on melee and hand-to-hand combat in pre-modern era settings. All names have been replaced with pronouns and titles like "boy/man/woman" or "fighter/warrior/opponent" to discourage source material leaking. Thanks again to Monky for compiling data to use in this module.*
+
+***Source Material:***
+
+- Monky - Medieval_Combat.txt
+
+*and excerpts from...*
+
+- Iliad Book V - Diomedes
+- Logen Ninefingers and the Bloody Nine
+- The Innocence of Father Brown (The Sins of Prince Saradine)
+- The Last Faoii
+- The Left Hand of God
+- The Princess Bride (Westly vs Inigo)
+- The Return of The King (Eowyn vs The Witch King)
+- Watership Down (Bigwig Stands his Ground)
+
+***Tags:** Action, Combat, Fight Scenes, Melee, War, Description, Utility*
 
 ##### [Wildlife](https://files.catbox.moe/v56pdh.module)
 
