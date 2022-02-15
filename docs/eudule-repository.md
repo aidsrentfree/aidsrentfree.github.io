@@ -30,6 +30,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [The Elder Scrolls In-Game Texts](#the-elder-scrolls-in-game-texts) module.
 - Added [Sergals](#sergals) module.
 - Added [Steins;Gate](#steinsgate) module.
+- Added [Kurisu Dialogue](#kurisu-dialogue)
 
 (13th February, 2022)
 
@@ -252,6 +253,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Worm](#worm)
   - [Scripts](#scripts)
     - [Disco Elysium](#disco-elysium)
+    - [Kurisu Dialogue](#kurisu-dialogue)
     - [Seinfeld](#seinfeld)
 - [Utilities](#utilities)
   - [Creative Cooking](#creative-cooking)
@@ -2250,6 +2252,27 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 >VOLITION: (That's all the more reason to appreciate his wisdom.)
 >
 >RENÉ ARNOUX: "He would come back to the base after a hit and give his report."
+
+#### [Kurisu Dialogue](https://files.catbox.moe/10hsr1.module)
+
+[by lion](https://discord.com/channels/836774308772446268/939922436500107314/942958230361997314)
+
+*Trained on every one of Kurisu's lines from all of the games.*
+
+*Ever wanted to talk to Kurisu from Steins;Gate in one of your stories? Now you can.*
+
+***Source Material:***
+
+*Excerpts from*
+
+- Steins;Gate (novelized)
+- Steins;Gate 0 (novelized)
+- Steins;Gate: Linear Bounded Phenogram (novelized)
+- Steins;Gate: My Darling’s Embrace (novelized)
+
+*Happy V-Day, otakus.*
+
+***Tags:** Character, Dialogue, Waifu, Science Fiction, Time Travel, Romance, Anime, Manga, Steins;Gate*
 
 #### [Seinfeld](https://files.catbox.moe/54tmfs.module)
 
