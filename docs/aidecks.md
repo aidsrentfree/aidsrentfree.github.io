@@ -160,7 +160,7 @@ Jack Wakefield, a wiz of a mechanic that people tolerate despite him being a per
 {: .center}
 
 ![](https://files.catbox.moe/si6tzt.png)
-{: center}
+{: .center}
 
 | Description | Post | Link |
 |---|---|---|
