@@ -27,6 +27,8 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 - Added [Fate/Zero](#fatezero) module.
 - Added [Tsundere Dialogue](#tsundere-dialogue) module.
+- Added [Jorge Luis Borges](#jorge-luis-borges) module.
+- Added [Antony Beevor](#antony-beevor) module.
 
 (14th February, 2022)
 
@@ -131,11 +133,13 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [C. S. Lewis](#c-s-lewis)
     - [George Orwell](#george-orwell)
     - [Italo Calvino](#italo-calvino)
-    - [J R. R. Tolkien](#j-r-r-tolkien)
+    - [J. R. R. Tolkien](#j-r-r-tolkien)
+    - [Jorge Luis Borges](#jorge-luis-borges)
     - [P. G. Wodehouse](#p-g-wodehouse)
     - [Rod Serling](#rod-serling)
   - [Independent](#independent)
   - [Intellectual](#intellectual)
+    - [Antony Beevor](#antony-beevor)
   - [Online](#online)
     - [Frocto](#frocto)
     - [Kuroshio](#kuroshio)
@@ -362,7 +366,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 (no prompt)
 >Here was the city that I loved. Nothing could be clearer and more impressive than its ancient majesty, with high ramparts towering in every direction over paved stone roads bordered by fine wrought iron streetlamps... it took my breath away! I went toward a restaurant called The Black Diamond in Plaza del Mascaras at two o'clock sharp. When I entered, the air smelled of garlic and oil; tables were set out on an enormous marble floor under vaulted ceilings decorated with frescoes showing scenes from Roman history and classical mythologies—a huge dining room indeed! Some people passed through: well dressed ladies wearing little black hats whose creases told their owners how many times they had been removed. There sat at one table Clara Cardellini eating spinach soup and crumb cake while her husband Giannis licked butter off his knife's tip. Next to them old Jocasta Doria drank straight-from-the-jug wine as she ate meatballs followed by red pears sprinkled with cinnamon sugar. On another side of the big square, sitting at a large round table surrounded by half-dressed waiters, was the great industrialist Eusebio Astrada y Gómez drinking something made out of potatoes he'd just bought at a nearby market stall for six pesetas apiece. And then there stood Antonio Marcelino, who owned the largest shipyard on the Spanish Main. His friend Carlos Paredes sipped champagne out of glasses shaped like cherries that seemed almost too small to contain such a powerful beverage.
 
-#### [J R. R. Tolkien](https://files.catbox.moe/4mf2um.module)
+#### [J. R. R. Tolkien](https://files.catbox.moe/4mf2um.module)
 
 [by untouch](https://discord.com/channels/836774308772446268/939922436500107314/940002253136334949)
 
@@ -375,6 +379,14 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *This is a retrain of an existing module that was considerably cleaned up, trained to one epoch. There are some odd formatting issues with quotes but the issues are considerably less than the old module.*
 
 ***Final Loss:** 2.64*
+
+#### [Jorge Luis Borges](https://files.catbox.moe/yekhfs.module)
+
+[by Chr0nicler](https://discord.com/channels/836774308772446268/939922436500107314/943199484081475674)
+
+*An experimental module trained on all short stories by Jorge Luis Borges, uses the translation he personally collaborated on.*
+
+*My first module. Trained at 100%*
 
 #### [P. G. Wodehouse](https://files.catbox.moe/8781qt.module)
 
@@ -409,6 +421,16 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 ***
 
 ### [Intellectual](#writers)
+
+#### [Antony Beevor](https://files.catbox.moe/tnrd5r.module)
+
+[by Dromarion](https://discord.com/channels/836774308772446268/939922436500107314/943243246698651649)
+
+[25% coverage version](https://files.catbox.moe/g1area.module)
+
+*Trained on Antony Beevor's WW2 Histories at 50% and 25%. Works include Ardennes, Arnhem, Stalingrad, The Battle for Spain, The Fall of Berlin and The Second World War. I made two hoping that 25% would be better for different settings but both seem to lean heavy on WW2 anyway. The style is highly detailed so outputs are often going to include names of specific units, generals, location, weapons, vehicles etc.*
+
+***Tags:** 3rd Person War History, WW2*
 
 ***
 
