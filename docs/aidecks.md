@@ -45,7 +45,27 @@ Probably! This is a brand new event after all. If something isn't working, be su
 
 ***
 
+- [The fuck is it?](#the-fuck-is-it)
+	- [What is a setting?](#what-is-a-setting)
+	- [Are there any requirements for the cards themselves?](#are-there-any-requirements-for-the-cards-themselves)
+	- [How abstract can we go?](#how-abstract-can-we-go)
+	- [Where will the decks be stored?](#where-will-the-decks-be-stored)
+	- [Is any of this subject to change?](#is-any-of-this-subject-to-change)
+	- [Who asked for this?](#who-asked-for-this)
 - [/aids/ Starship Exploration Vessel](#aids-starship-exploration-vessel)
+	- [The Ship](#the-ship)
+		- [VT-23 Kestrel](#vt-23-kestrel)
+		- [Companion Cabin](#companion-cabin)
+		- [Medical Bay](#medical-bay)
+		- [Hydroponics Station](#hydroponics-station)
+	- [The Personnel](#the-personnel)
+		- [Portia Duvall](#portia-duvall)
+		- [Coline Savatier](#coline-savatier)
+		- [Major Eliza Norris](#major-eliza-norris)
+		- [Dr. Hiro Uehara](#dr-hiro-uehara)
+		- [Jack Wakefield](#jack-wakefield)
+	- [The Equipment](#the-equipment)
+		- [Fake Booty Buster](#fake-booty-buster)
 
 ***
 
