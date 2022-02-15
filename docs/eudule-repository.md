@@ -23,6 +23,11 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(15th February, 2022)
+
+- Added [Fate/Zero](#fatezero) module.
+- Added [Tsundere Dialogue](#tsundere-dialogue) module.
+
 (14th February, 2022)
 
 - Added [Melee Combat](#melee-combat) module.
@@ -180,6 +185,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Yinglets](#yinglets)
     - [Concepts](#concepts)
       - [LitRPG](#litrpg)
+      - [Tsundere Dialogue](#tsundere-dialogue)
     - [Styles](#styles)
       - [Cross-Genre, Oh My!](#cross-genre-oh-my)
       - [Lyrical Writing](#lyrical-writing)
@@ -235,6 +241,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Steins;Gate](#steinsgate)
   - [Light Novels](#light-novels)
     - [A Certain Magical Index (1-22)](#a-certain-magical-index-1-22)
+    - [Fate/Zero](#fatezero)
     - [Highschool DxD (1-10)](#highschool-dxd-1-10)
     - [The Saga of Tanya the Evil](#the-saga-of-tanya-the-evil)
     - [Vampire Hunter D](#vampire-hunter-d)
@@ -1275,6 +1282,24 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >
 >The title reminded me of how far I'd come since becoming trapped in this strange world. When I first found myself here, I felt like I was fighting against my fate, but now I could see things differently. The path forward may have been unclear at first, but as time passed and more things fell into place, I began to understand that this wasn't just some random game that would end soon; I was living in another reality, a fantasy land where anything was possible. That realization made all the difference. It gave me the courage to fight back. To take control of my own destiny.
 
+##### [Tsundere Dialogue](https://files.catbox.moe/abwkde.module)
+
+[by lion](https://discord.com/channels/836774308772446268/939922436500107314/942968719104168007)
+
+*Trained on various tsundere character dialogue from a variety of different series. Use this to imbue any character with a tsundere personality.*
+
+*Source material is too varied to list.*
+
+>The girl pouted. "I didn't mean it like that, all right?!" she said defensively.
+>
+>"No? But I'm sure you're thinking it," the boy replied with a smirk, making her blush even more deeply.
+>
+>"You...you...!" The girl was about to say something else when she noticed there were other people nearby. She quickly got up and moved away from him before they could notice them together. "Hmph!"
+
+*Happy V-Day, weebs.*
+
+***Tags:** Character, Dialogue, Waifu, Romance, Anime, Manga, Trope*
+
 #### [Styles](#elements)
 
 ##### [Cross-Genre, Oh My!](https://files.catbox.moe/um8rft.module)
@@ -2057,6 +2082,24 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *I trained a Module on A Certain Magical Index Volumes 1-22 from <https://nyaa.si/view/1263900>, couldn't be bothered to clean up more.*
 
 *~7.6mb of text, trained for 4.4k steps. Loss graph looks fucked but it works nicely enough.*
+
+#### [Fate/Zero](https://files.catbox.moe/s56gyt.module)
+
+[by rando](https://discord.com/channels/836774308772446268/939922436500107314/942966314337697904)
+
+[50% coverage version](https://files.catbox.moe/g5c29n.module)
+
+*Trained to 80% and 50% (~3k & ~2k steps) on the Fate series books. Fate/Zero, Lord El-Melloi II Case Files, Fate⁄Labyrinth, Fate⁄Zero Another Story - Heart of Freaks, Fate⁄Requiem, Clock Tower 2015.*
+
+***Tags:** fantasy, fate, light novel, anime, magic*
+
+(80% Example)
+
+>**Saber looked** down at the hand that had been held out to her. She didn't know why, but she felt a sense of unease as if it was something dangerous. It wasn't like this feeling came from nowhere. Her master had said he would be in danger, and even now she could feel the tension in his body. The only thing she could do was trust him completely.
+
+(50% Example)
+
+>**Saber looked** up at the sky. The clouds were thick and heavy, as if they would soon rain. It was a strange sight for her eyes to see such a thing in this season. But she did not care about that right now. She just wanted to find an answer to what had happened today.
 
 #### [Highschool DxD (1-10)](https://files.catbox.moe/z862xh.module)
 
