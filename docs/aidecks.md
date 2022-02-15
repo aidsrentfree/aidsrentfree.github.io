@@ -52,24 +52,24 @@ Probably! This is a brand new event after all. If something isn't working, be su
 	- [Where will the decks be stored?](#where-will-the-decks-be-stored)
 	- [Is any of this subject to change?](#is-any-of-this-subject-to-change)
 	- [Who asked for this?](#who-asked-for-this)
-- [/aids/ Starship Exploration Vessel](#aids-starship-exploration-vessel)
-	- [The Ship](#the-ship)
+- [**/aids/ Starship Exploration Vessel**](#aids-starship-exploration-vessel)
+	- [**The Ship**](#the-ship)
 		- [VT-23 Kestrel](#vt-23-kestrel)
 		- [Companion Cabin](#companion-cabin)
 		- [Medical Bay](#medical-bay)
 		- [Hydroponics Station](#hydroponics-station)
-	- [The Personnel](#the-personnel)
+	- [**The Personnel**](#the-personnel)
 		- [Portia Duvall](#portia-duvall)
 		- [Coline Savatier](#coline-savatier)
 		- [Major Eliza Norris](#major-eliza-norris)
 		- [Dr. Hiro Uehara](#dr-hiro-uehara)
 		- [Jack Wakefield](#jack-wakefield)
-	- [The Equipment](#the-equipment)
+	- [**The Equipment**](#the-equipment)
 		- [Fake Booty Buster](#fake-booty-buster)
 
 ***
 
-## /aids/ Starship Exploration Vessel
+## **/aids/ Starship Exploration Vessel**
 {: .center}
 
 *Space... The Final Frontier. These are the voyages of starship /aids/. Its continuing mission: To explore strange new worlds. To seek out new waifus and husbandos. To boldly cum where no man has cum before!*
@@ -78,7 +78,7 @@ Probably! This is a brand new event after all. If something isn't working, be su
 *The possibilities are limitless, both for the members of the crew and the places they go. It can also be played as lewd or clean as you want; the worlds the ship visits can be anything from a hyper-sexualized resort world to boldly taking landing parties down to explore ancient ruins on a dead world.*
 {: .center}
 
-### The Ship
+### **The Ship**
 {: .center}
 
 #### VT-23 Kestrel
@@ -109,12 +109,8 @@ Probably! This is a brand new event after all. If something isn't working, be su
 |---|---|---|---|
 | ![](https://files.catbox.moe/y8zo55.png) | Hydroponics Section (grows some assorted fruit and veg for diet diversification, could however also grow some more illicit things if set up to do so) | [>>372492836](https://arch.b4k.co/vg/thread/372436776/#372492836) | [Catbox](https://files.catbox.moe/l13nj2.png) |
 
-### The Personnel
+### **The Personnel**
 {: .center}
-
-| Card | Description | Post | Link |
-|---|---|---|---|
-|  |  |  |  |
 
 #### Portia Duvall
 {: .center}
@@ -154,7 +150,7 @@ Jack Wakefield, a wiz of a mechanic that people tolerate despite him being a per
 |---|---|---|---|
 | ![](https://files.catbox.moe/sad4ju.png) | Jack Wakefield, a wiz of a mechanic that people tolerate despite him being a pervert that constantly hits on guys (because there's less competition than with the girls) | [>>372504563](https://arch.b4k.co/vg/thread/372436776/#372504563) | [Catbox](https://files.catbox.moe/76tkjq.png) |
 
-### The Equipment
+### **The Equipment**
 {: .center}
 
 #### Fake Booty Buster
@@ -162,5 +158,4 @@ Jack Wakefield, a wiz of a mechanic that people tolerate despite him being a per
 
 | Card | Description | Post | Link |
 |---|---|---|---|
-| ![](https://files.catbox.moe/jt629f.png) | Every good space opera obviously needs satisfying weaponry. In the name of galactic ethics, perhaps killing everything on sight is less humane than non-lethal 'pacification'. I suppose the Kestral is forward-thinking, by our cultural standards.<br>Go forth and gape some alien life. Leave no booty unbusted. | [>>372474879
-](https://arch.b4k.co/vg/thread/372436776/#372474879) | [Catbox](https://files.catbox.moe/8zg4wn.png) |
+| ![](https://files.catbox.moe/jt629f.png) | Every good space opera obviously needs satisfying weaponry. In the name of galactic ethics, perhaps killing everything on sight is less humane than non-lethal 'pacification'. I suppose the Kestral is forward-thinking, by our cultural standards.<br>Go forth and gape some alien life. Leave no booty unbusted. | [>>372474879](https://arch.b4k.co/vg/thread/372436776/#372474879) | [Catbox](https://files.catbox.moe/8zg4wn.png) |
