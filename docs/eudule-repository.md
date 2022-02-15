@@ -386,7 +386,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *An experimental module trained on all short stories by Jorge Luis Borges, uses the translation he personally collaborated on.*
 
-*My first module. Trained at 100%*
+*My first module; trained at 100%*
 
 #### [P. G. Wodehouse](https://files.catbox.moe/8781qt.module)
 
