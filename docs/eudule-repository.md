@@ -27,6 +27,8 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 - Added [Melee Combat](#melee-combat) module.
 - Added [Blood Meridian](#blood-meridian-or-the-evening-redness-in-the-west) module.
+- Added [The Elder Scrolls In-Game Texts](#the-elder-scrolls-in-game-texts) module.
+- Added [Sergals](#sergals) module.
 
 (13th February, 2022)
 
@@ -141,6 +143,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Setting](#setting)
     - [Established](#established)
       - [Beastars](#beastars)
+      - [The Elder Scrolls (In-Game Texts)](#the-elder-scrolls-in-game-texts)
       - [Fallout: Equestria](#fallout-equestria)
       - [Fire Emblem: Awakening](#fire-emblem-awakening)
       - [Forgotten Realms](#forgotten-realms)
@@ -189,6 +192,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Good Girls](#good-girls)
       - [Loli/Shota](#lolishota)
       - [Monster Girls](#monster-girls)
+      - [Sergals](#sergals)
       - [Small Equines](#small-equines)
       - [Veggie's Lolis](#veggies-lolis)
     - [Acts](#acts)
@@ -489,6 +493,51 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 [by Anon](https://arch.b4k.co/vg/thread/371544232/#371575535)
 
 *Beastars module trained at 3000 steps.*
+
+##### [The Elder Scrolls (In-Game Texts)](https://files.catbox.moe/dui19e.module)
+
+[by ScalyWanderer](https://discord.com/channels/836774308772446268/939922436500107314/942915747041132554)
+
+*This module is trained on The Elder Scrolls 2-5 & TESO in-game texts (books, notes, etc.) and two official novels by Greg Keyes.*
+
+***Sources:** The Infernal City and Lord of Souls by Greg Keyes + in-game books & notes from TES II: Daggerfall, TES III: Morrowind, TES IV: Oblivion, TES V: Skyrim and TES Online.*
+
+***Tags:** fantasy, TES, The Elder Scrolls, Daggerfall, Morrowind, Oblivion, Skyrim, TESO.*
+
+***Special notes:** 7.04 Mb, 2500 steps, 30.8% coverage, Loss: 2.766.*
+
+>**"I used to be an adventurer like you, then I** took an arrow in the knee,” is a common saying among most Khajiit. The phrase refers to the fact that, for all their agility and stealthy ways, they are ill-equipped physically to survive a protracted campaign against hostile creatures. As such, though many Khajiit may be found adventuring (even as far away as Skyrim), more often than not they find themselves engaged in some kind of trade or activity which involves less risk to life and limb.
+
+>**When in Morrowind, do** as the Daedra do. When your character is a Daedric Prince, you know this to be true. The Daedric Princes are experts at how they live their lives — and how we should all live ours. After all, if it were not for Daedra, there would be no Daedric Princes! And where would they be without us?
+>
+>These few simple rules should help you get started on the path toward becoming the best version of yourself possible:
+>
+>1\. Be honest with your friends and your family. If someone asks you what you’re doing with your life, answer honestly: “I am a Daedric Prince who is exploring new lands and having fun.” Don’t lie about it like I did when my parents asked me why I was playing The Elder Scrolls V: Skyrim so much.
+
+>**"Hey Alduin,"** I said, “would you mind sharing your cave with me?”
+>
+>Alduin was still a little mad at me because of the time when I had taken his favorite cave and turned it into an inn. He was sitting in front of his cave looking sad and lonely. I could tell that he really needed some company right now and he looked like he would be glad to have mine. So I went over to him.
+>
+>“Howdy there, big fella!” I said. “I know we haven’t always gotten along but I don’t mean any harm by this...”
+>
+>He grunted at me but didn’t say anything. I took a deep breath and started talking again, hoping to calm him down, “Look, Alduin, you were just so beautiful and scary and awesome that I couldn’t resist showing off by trying to steal your cave from you. It was all my fault, really, so why don’t you let me stay here for awhile until I can come up with something better?”
+>
+>The dragon sighed deeply and slowly shook his head. But then he gave me a look that made me feel like maybe he wasn’t quite as angry anymore.
+>
+>“Fine,” he said, “but if you cause even one bit of trouble, I will eat you.”
+>
+>“That won’t be necessary,” I told him. “If you promise not to go on a rampage or destroy anything, I will leave everything exactly where it is. As long as you don’t eat anyone who comes through here, I think we can both be happy."
+
+>**Here's a list of Sheogorath's best quotations:**
+>
+>**1\.** “I am the god of insanity and chaos, but I have not forsaken you. My madness is your salvation!”
+>
+>2\. “My minions are the stars in my sky... and I will take them all down into darkness with me.”
+>
+>3\. “The world has been mine since time began! The gods are dead. You mortals are nothing more than an annoying distraction to me as I await the coming of Oblivion.”
+>
+>4\. “Do not fear for the future. It is already written... and it is written in blood.”
+
 
 ##### [Fallout: Equestria](https://files.catbox.moe/tsxmyd.module)
 
@@ -1529,6 +1578,62 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 ***Tags:** Third Person, Monster Girl*
 
 ***Note:** This was not made by me! I am uploading this for an anonymous user.*
+
+##### [Sergals](https://files.catbox.moe/6ywd2a.module)
+
+[by ScalyWanderer](https://discord.com/channels/854479693503660032/939950910690439179/942919277885923360)
+
+*The purpose of this module is to give NAI a better idea of sergals, both in canon and non-canon stories.*
+
+***Sources:***
+- Official Vilous Wiki (the data is cleaned by hand).
+- Official lore info written by Mick39 & Kiki-UMA.
+- 43 well-written fan-fiction stories taken from FurAffinity and SoFurry (both SFW and NSFW; mostly canon).
+
+*What's new: Some texts from the previous version (\~1 Mb) have been removed, and another \~1 Mb of higher-quality data has been added instead (now there are more NSFW stories in the dataset than in the previous version).*
+
+***Tags:** sergals, Vilous, fantasy, furry.*
+
+***Special notes:** 4.25 Mb, 2000 steps, 40.31% coverage, Loss: 3.0031.*
+
+>**"Listen, you southerner!"** It was the first time she'd heard him call her that since they had started to talk again. The way he said it made her feel like she'd just been slapped across the face. She turned, looking at him in surprise. He didn't look so well, his fur wasn't quite as well groomed as usual, and his shirt was rumpled.
+>
+>She walked up to him and leaned against the side of the wagon, crossing her arms over her chest. "I'm listening."
+>
+>He sighed, stepping forward and reaching out, grabbing her shoulder and turning her around to face him. "You're going back down south with your tail between your legs. That's what you're doing."
+>
+>She met his gaze evenly, refusing to let the anger she felt show on her face.
+
+>The male looks away shyly as the female places her hands on his shoulders. He smiles, and the female too, but it isn’t nearly enough to cover up his obvious discomfort. They have never been close friends, not even acquaintances, just two sergals sharing a moment in a small tent with little else to do except stare at each other.
+>
+>It was inevitable, they both knew that. It wasn’t long before their unit was sent out into the wilds of the mountains.
+>
+>
+>"I know I shouldn't," he says softly. "But..."
+>
+>She lays down beside him, resting her head on his chest. Her warm breath caresses his skin, and he feels a bit more comfortable with that alone than when she started talking.
+>
+>"I've been thinking about it all day," she murmurs. "About what we could be."
+>
+>He takes her muzzle between his hands, looking into those eyes he knows so well.
+>
+>"Don’t," he tells her. "You don’t want me."
+>
+>"No, I do. But..."
+>
+>"I am a soldier," he reminds her. "A soldier has no time for such things."
+>
+>She shakes her head, her expression one of defeat.
+
+>**\*\*\***
+>
+>"So I don't have to kill you?" the sergal asked me, his voice smooth and cool as he reached for my throat. His claws were sharp. They would be very deadly in their own right.
+>
+>I had been expecting that question. "No," I replied. "I'll just be leaving." The sergal relaxed some more. He was still holding me in place with his claws, but he'd relaxed some of the pressure.
+>
+>The sergal's eyes met mine again, and this time they glinted with curiosity.
+>
+>He let out a low laugh and said, "You know, you're really cute." He slid his hands down my sides to hold on to my hips, then pressed forward so I could feel him pressing against my ass. "I think you can stay a little longer." he said.
 
 ##### [Small Equines](https://files.catbox.moe/yr70sq.module)
 
