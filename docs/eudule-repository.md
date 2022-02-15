@@ -29,6 +29,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Blood Meridian](#blood-meridian-or-the-evening-redness-in-the-west) module.
 - Added [The Elder Scrolls In-Game Texts](#the-elder-scrolls-in-game-texts) module.
 - Added [Sergals](#sergals) module.
+- Added [Steins;Gate](#steinsgate) module.
 
 (13th February, 2022)
 
@@ -230,6 +231,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [The King James Bible](#the-king-james-bible)
   - [Visual Novels](#visual-novels)
     - [Ace Attorney](#ace-attorney)
+    - [Steins;Gate](#steinsgate)
   - [Light Novels](#light-novels)
     - [A Certain Magical Index (1-22)](#a-certain-magical-index-1-22)
     - [Highschool DxD (1-10)](#highschool-dxd-1-10)
@@ -2024,6 +2026,25 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >Phoenix: Very well. I will attempt to convince you all by showing you exactly what happened on that fateful day.
 >
 >Athena: Yeehaw!
+
+#### [Steins;Gate](https://files.catbox.moe/cwrnv9.module)
+
+[by lion](https://discord.com/channels/836774308772446268/939922436500107314/942951284884013136)
+
+*Trained on the scripts from all Steins;Gate visual novels. Output features visual novel-style output where character names prefix their dialogue lines.*
+
+***Source Material:***
+
+- Steins;Gate
+- Steins;Gate 0
+- Steins;Gate: Linear Bounded Phenogram
+- Steins;Gate: My Darling’s Embrace
+
+>Kurisu: "What's the matter? You're smiling like a Cheshire cat."
+>
+>Rintaro: "I'm not. I just had an idea."
+>
+>The idea was simple, but would be difficult to implement...
 
 ### [Light Novels](#works)
 
