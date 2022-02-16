@@ -28,6 +28,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Phil Phantom](#phil-phantom) module.
 - Added [storieswithnebic](#nebic) module.
 - Added [Golden Heart Trilogy](#golden-heart-trilogy) module.
+- Added [SCP](#scp-foundation) module.
 
 (15th February, 2022)
 
@@ -245,6 +246,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Golden Heart Trilogy](#golden-heart-trilogy)
     - [My Immortal](#my-immortal)
     - [Pack Street](#pack-street)
+    - [SCP Foundation](#scp-foundation)
     - [Trial by Tenderness](#trial-by-tenderness)
     - [text_adventures.txt](#text_adventurestxt)
     - [Worm](#worm)
@@ -2267,6 +2269,16 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 [1000 Steps Version](https://files.catbox.moe/yvm5h9.rar)
 
 *Pack Street module trained at 100%.*
+
+#### [SCP Foundation](https://files.catbox.moe/vypmer.module)
+
+[by Taboo](https://discord.com/channels/836774308772446268/939922436500107314/943494871296122910)
+
+*Module trained off of [the first 200 SCPs](https://scp-wiki.wikidot.com/scp-series), give or take a few. It was mostly an experiment but actually turned out to be extremely competent. It keeps to the structure of the files for the most part but there may be a few formatting errors occasionally.*
+
+*It can generate descriptions, containment procedures, testing logs, addendums, etc.*
+
+***Tags:** Sci-fi, horror, SCP*
 
 #### [Trial by Tenderness](https://files.catbox.moe/70jr82.module)
 
