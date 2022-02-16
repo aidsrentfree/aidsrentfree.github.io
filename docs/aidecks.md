@@ -54,7 +54,7 @@ Probably! This is a brand new event after all. If something isn't working, be su
 	- [Who asked for this?](#who-asked-for-this)
 - [**/aids/ Starship Exploration Vessel**](#aids-starship-exploration-vessel)
 	- [**The Ship**](#the-ship)
-		- [VT-23 Kestrel](#vt-23-kestrel)
+		- [VT-23 Kestral](#vt-23-kestral)
 		- [Companion Cabin](#companion-cabin)
 		- [Medical Bay](#medical-bay)
 		- [Hydroponics Station](#hydroponics-station)
@@ -81,7 +81,7 @@ Probably! This is a brand new event after all. If something isn't working, be su
 ### **The Ship**
 {: .center}
 
-#### VT-23 Kestrel
+#### VT-23 Kestral
 {: .center}
 
 ![](https://files.catbox.moe/ryqhj7.png)
@@ -99,7 +99,7 @@ Probably! This is a brand new event after all. If something isn't working, be su
 
 | Description | Post | Link |
 |---|---|---|
-| Companionship Cabin (replica of a hotel room for rest, relaxation and maybe a bit more) | [>>372492836](https://arch.b4k.co/vg/thread/372436776/#372492836) | [Cabox](https://files.catbox.moe/ph30tx.png) |
+| Companionship Cabin (replica of a hotel room for rest, relaxation and maybe a bit more) | [>>372492836](https://arch.b4k.co/vg/thread/372436776/#372492836) | [Catbox](https://files.catbox.moe/ph30tx.png) |
 
 #### Medical Bay
 {: .center}
