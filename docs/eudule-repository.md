@@ -458,7 +458,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Module based on the works of Phil Phantom from the days of ASSTR (except for his See No Evil series, which is a big work of its own).*
 
-*3 MB cleaned data.*
+*3 MB cleaned data, covering impreg, incest, and cuckoldry*
 
 *3463 steps, 100%*
 
