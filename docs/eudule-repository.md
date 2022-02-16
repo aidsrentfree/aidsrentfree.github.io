@@ -23,6 +23,10 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(16th February, 2022)
+
+- Added [Phil Phantom](#phil-phantom) module.
+
 (15th February, 2022)
 
 - Added [Fate/Zero](#fatezero) module.
@@ -97,29 +101,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [The Solar Cycle](#the-solar-cycle) module.
 - Added [Vampire Hunter D](#vampire-hunter-d) module.
 
-(8th February, 2022)
-
-- Added [text_adventures.txt](#text_adventurestxt) module, then updated it with 300% version.
-- Added [Furry ENF](#furry-enf) module.
-- ~~Played CK3 Royal Court~~
-- Added [LitRPG](#litrpg) module.
-- Added [Oriental Fantasy](#oriental-fantasy) module.
-- Added [Good Girls](#good-girls) module.
-- Added [Discworld Witches](#the-discworld-watch-series) module.
-- Added [ATF Module](#lolishota).
-- Added [Veggie's Lolis](#veggies-lolis) module.
-- Added [The Witcher](#the-witcher) module.
-- Added [Halo](#halo) module.
-- Added [Star Wars](#star-wars) module.
-- Added [Dr Yazman's Michael Jackson Lyrics](#michael-jackson-lyrics) module.
-- Added [Desert Fantasy and Folklore](#desert-fantasy-and-folklore) module.
-- Added [Female Wrestling](#female-wrestling) module.
-- Added [Sailor Moon](#sailor-moon) module.
-- Added [Giantess](#giantesses) module.
-- Added [The Beginning After The End](#the-beginning-after-the-end) module.
-- Added [Monster Girls](#monster-girls) module
-- Added [Altered Carbon](#altered-carbon) module.
-
 ***
 
 ## [Table of Contents](#modules)
@@ -145,6 +126,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Kuroshio](#kuroshio)
     - [ManyEyedHydra](#manyeyedhydra)
     - [Otis Eugene Ray](#otis-eugene-ray)
+    - [Phil Phantom](#phil-phantom)
     - [Prinnyd00d](#prinnyd00d)
     - [SlutWriter](#slutwriter)
     - [Smutknight](#smutknight)
@@ -469,6 +451,16 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *200% trained.*
 
 *(500% trained generated [the post](https://arch.b4k.co/vg/thread/372230097/#372299662))*
+
+#### [Phil Phantom](https://files.catbox.moe/bnmtzt.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/372727724/#372836916)
+
+*Module based on the works of Phil Phantom from the days of ASSTR (except for his See No Evil series, which is a big work of its own).*
+
+*3 MB cleaned data.*
+
+*3463 steps, 100%*
 
 #### [Prinnyd00d](https://files.catbox.moe/bg3k1t.module)
 
