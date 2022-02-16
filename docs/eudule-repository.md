@@ -26,6 +26,8 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 (16th February, 2022)
 
 - Added [Phil Phantom](#phil-phantom) module.
+- Added [storieswithnebic](#nebic) module.
+- Added [Golden Heart Trilogy](#golden-heart-trilogy) module.
 
 (15th February, 2022)
 
@@ -125,6 +127,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Frocto](#frocto)
     - [Kuroshio](#kuroshio)
     - [ManyEyedHydra](#manyeyedhydra)
+    - [Nebic](#nebic)
     - [Otis Eugene Ray](#otis-eugene-ray)
     - [Phil Phantom](#phil-phantom)
     - [Prinnyd00d](#prinnyd00d)
@@ -239,6 +242,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [The Beginning After The End](#the-beginning-after-the-end)
     - [Crimson](#crimson)
     - [Final Judgement](#final-judgement)
+    - [Golden Heart Trilogy](#golden-heart-trilogy)
     - [My Immortal](#my-immortal)
     - [Pack Street](#pack-street)
     - [Trial by Tenderness](#trial-by-tenderness)
@@ -439,6 +443,14 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *ManyEyedHydra: 3194 steps, 80.03% AVG Loss: 2.92*
 
 *ManyEyedHydra mainly deals in monster girls. Primarily succubi though you get some other ones in there, such as fairies and slime. Tends to be more traditional in regards to succubi and monstergirls (i.e. they actually soul suck/kill people through sex).*
+
+#### [Nebic](https://files.catbox.moe/cu1i2o.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/372727724/#372850571)
+
+*Here's a module trained on the works of nebic [(storieswithnebic)](https://storieswithnebic.wordpress.com/)*
+
+*2805 steps, 100%*
 
 #### [Otis Eugene Ray](https://files.catbox.moe/oar7w8.module)
 
@@ -2234,6 +2246,13 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 [by Anon](https://arch.b4k.co/vg/thread/371544232/#371589294)
 
 *Presenting Final Judgement, a module trained on the A Certain Scientific Railgun fanfic of the same name!*
+
+#### [Golden Heart Trilogy](https://files.catbox.moe/2gy1t7.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/372727724/#372856237)
+
+*Presenting the "Golden Heart Trilogy" module, based of a SailorMoon/Pokemon fanfiction from my childhood. The original fanfiction has since been deleted, so there's some actual lost media here. I might upload the originals sometime.*
+
 
 #### [My Immortal](https://files.catbox.moe/nk3025.module)
 
