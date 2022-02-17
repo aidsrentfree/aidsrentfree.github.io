@@ -23,6 +23,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(17th February, 2022)
+
+- Added [10th Doctor Transcripts](#10th-doctor-transcripts) module.
+- Added [Vampire: The Masquerade](#vampire-the-masquerade) module.
+- Added [Speculative Science Fiction](#speculative-science-fiction) module.
+
 (16th February, 2022)
 
 - Added [Phil Phantom](#phil-phantom) module.
@@ -85,25 +91,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 - Added [The Manwhore Module](#the-manwhore-module).
 
-(9th February, 2022)
-
-- Added [Gryphons](#gryphons) module.
-- Added [Smorgasboard Experiment](#smorgasboard-experiment) module.
-- Added [Furry Incest](#furry-incest) module.
-- Added [Yinglets](#yinglets) module.
-- Added [Crimson (Persona 5 Fanfic)](#crimson) module.
-- Added [Forgotten Realms](#forgotten-realms) module.
-- Added [Futadom](#futadom) module.
-- Added [Worm](#worm) module.
-- Added [Weird Fiction](#weird-fiction) module.
-- Added [Highschool DxD (1-10)](#highschool-dxd-1-10) module.
-- Added [Otto Penzler's Big Book of Ghost Stories](#otto-penzlers-big-book-of-ghost-stories) module.
-- Added [Dad on Son](#dad-on-son) module.
-- Added [Score](#score) module.
-- Added [Redwall](#redwall) module.
-- Added [The Solar Cycle](#the-solar-cycle) module.
-- Added [Vampire Hunter D](#vampire-hunter-d) module.
-
 ***
 
 ## [Table of Contents](#modules)
@@ -148,6 +135,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Sailor Moon](#sailor-moon)
       - [A Song of Ice and Fire](#a-song-of-ice-and-fire)
       - [Star Wars](#star-wars)
+      - [Vampire: The Masquerade](#vampire-the-masquerade)
       - [Warrior Cats: Universe](#warrior-cats-universe)
       - [World of Pokemon](#world-of-pokemon)
     - [Generic](#generic)
@@ -158,6 +146,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Poetic Fantasy](#poetic-fantasy)
       - [Russian Folklore & Fantasy](#russian-folklore--fantasy)
       - [Science Fantasy](#science-fantasy)
+      - [Speculative Science Fiction](#speculative-science-fiction)
       - [Surrealistic Look Through the Glass](#surrealistic-look-through-the-glass)
       - [Sword and Sorcery](#sword-and-sorcery)
       - [The Great War](#the-great-war)
@@ -251,6 +240,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [text_adventures.txt](#text_adventurestxt)
     - [Worm](#worm)
   - [Scripts](#scripts)
+    - [10th Doctor Transcripts](#10th-doctor-transcripts)
     - [Disco Elysium](#disco-elysium)
     - [Kurisu Dialogue](#kurisu-dialogue)
     - [Seinfeld](#seinfeld)
@@ -681,6 +671,34 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ***Note:** This was not made by me! I am uploading this for an anonymous user.*
 
+##### [Vampire: The Masquerade](https://files.catbox.moe/ge1ge3.module)
+
+[by Basileus](https://discord.com/channels/836774308772446268/939922436500107314/943738538183249941)
+
+*Immortal, blood-drinking monsters stalk the nights of White Wolf's old World of Darkness.*
+
+***Training:** 4.6MB, 5427 steps, 100% coverage, loss 2.89*
+
+- Clan Novel Toreador by Stewart Wieck
+- Clan Novel Tzimisce by Eric Griffin
+- Clan Novel Gangrel by Gherbod Fleming
+- Clan Novel Setite by Kathleen Ryan
+- Clan Novel Ventrue by Gherbod Fleming
+- Clan Novel Lasombra by Richard E. Dansky
+- Clan Novel Assamite by Gherbod Fleming
+- Clan Novel Ravnos by Kathleen Ryan
+- Clan Novel Malkavian by Stewart Wieck
+- Clan Novel Giovanni by Justin Achilli
+- Clan Novel Brujah by Gherbod Fleming
+- Clan Novel Tremere by Eric Griffin
+- Clan Novel Nosferatu by Gherbod Fleming
+
+>**Like a shark through dark waters, the shadowy figure slipped through the night with predatory grace**. The streetlights and neon signs of downtown Baltimore blinked out behind it as it moved quickly down one side street after another. It had been more than two weeks since the last time it had fed—and even that meager meal had left its taste in its mouth like ashes on the tongue. There was no reason to think tonight would be any different; but still, there were times when hunger could not be denied. And so, for now, it continued moving along without pause or rest until it found what it sought.
+>
+>The streets grew emptier as the creature traveled deeper into the city's heart. Soon only a few scattered pedestrians wandered about their business by lamplight. One man hurried across the street at an intersection, oblivious to the fact that he might have been struck dead instantly if his path had crossed that of the predator stalking him from around the corner. A woman paused before a convenience store window, staring inside longingly while her purse hung casually over her shoulder. Another woman sat alone at a table outside a coffee shop, reading a book as she sipped from a cup of steaming liquid. Her eyes flicked up occasionally, but never once did they meet those of the creature watching her from the shadows. She paid little attention to anything except the words on the page in front of her.
+>
+>It waited patiently, almost leisurely, for several minutes longer. When the woman finally closed her book and stood, leaving her chair empty beside the table, the creature took action. It moved silently through the shadows toward her. As it drew closer, the woman looked up suddenly, startled by the sudden movement. She tried to turn away, but too late. In a flash, the creature leapt forward and grabbed her arm, yanking her to the ground. Before she knew what was happening, she was face-to-face with its fangs. The woman screamed and fought against the thing holding her, trying to get free. But it held fast, pressing her head back into the wet pavement beneath them both. Its grip tightened, and the woman cried out again. The creature leaned close, letting her feel the heat of its breath on her skin. "Don't struggle," it whispered in a voice like death itself.
+
 ##### [Warrior Cats: Universe](https://files.catbox.moe/rr12bv.module)
 
 [by pume_](https://discord.com/channels/836774308772446268/939922436500107314/940230629101039637)
@@ -1035,6 +1053,50 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *This specific module mostly trained on Space Fantasy material, a Science Fantasy sub-genre. The supernatural, religion, starships, and machines are something to expect. Magic and Science tend to blur.*
 
 *Major fandoms drawn from are Star Wars, Star Trek (select stories), Halo, Mass Effect, and 40K.*
+
+##### [Speculative Science Fiction](https://files.catbox.moe/dlfc9k.module)
+
+[by greeneyed](https://discord.com/channels/836774308772446268/939922436500107314/943892073919164436)
+
+*A module based around a vague idea of social implications of futurology related to space exploration and humankind sucking badly.*
+
+***Tags:** Hard Sci-Fi, Space, Social Sci-Fi, Futurology*
+
+***Details:** 42K Steps, 96% Coverage, 2.85 Average Loss*
+
+***Sources:***
+
+- Star Maker by Olaf Stapledon
+- The Three Body Problem by Liu Cixin
+- The Dark Forest by Liu Cixin
+- Interstellar by Greg Keyes
+- Hainish Series by Ursula Le Guin
+- Arkfall by Carolyne Ives Gilman
+- Boundary Series by Eric Flint
+- Diaspora by Greg Egan
+- Resurgence by Charles Sheffield
+- Andromeda Nexus Uprising by Jason M. Hough
+- Expanse Series by James S.A. Corey
+- Spacer Series by John Maddox Roberts
+- Revelation, Ascension, Retribution, Deception aka. Mass Effect Novels by various authors
+- Heritage Series by Charles Sheffield
+- The Collected Stories of Arthur C. Clarke by Arthur C. Clarke
+- The Wandering Earth by Liu Cixin
+- The Crystal Spheres by David Brin
+- Nightfall and Other Stories by Isaac Asimov
+- The Martian Way and Other Stories by Isaac Asimov
+- Early Asimov Volume 01 by Isaac Asimov
+- Nine Tomorrows by Isaac Asimov
+- The Final Science Fiction Collection by Isaac Asimov
+- Earth is Room Enough by Isaac Asimov
+- Buy Jupiter and Other Stories by Isaac Asimov
+- Bicentennial Man and Other Stories by Isaac Asimov
+- Children of Time by Adrian Tchaikovsky
+- Children of Ruin by Adrian Tchaikovsky
+- Heechee Series by Frederik Pohl
+- Giants Series by James P Hogan
+- Engines of God by Jack McDevitt
+- Ender's Game by Orson Scott Card
 
 ##### [Surrealistic Look Through the Glass](https://files.catbox.moe/df2bf6.module)
 
@@ -2309,6 +2371,44 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 ***Tags:** Superhero, Supervillain, Dark*
 
 ### [Scripts](#works)
+
+#### [10th Doctor Transcripts](https://files.catbox.moe/kzfwhd.module)
+
+[by hat](https://discord.com/channels/836774308772446268/939922436500107314/943689222026579999)
+
+*Euterpe model trained on transcriptions of Doctor Who seasons 2, 3, and 4, featuring the 10th Doctor and his companions.*
+
+***Source:** http://www.chakoteya.net/DoctorWho/*
+
+***Tags:** Sci-fi, Doctor Who*
+
+>**CYBERMAN: Delete! Delete! Delete!**
+>
+>(The Cyberman takes the Doctor's controls from him and turns off the console.)
+>
+>DOCTOR: No. Don't do that, you're not taking me anywhere.
+>
+>CYBERMAN: You are my prisoner. I am your master.
+>
+>DOCTOR: No, no, no, no. Not on your life.
+>
+>(He raises his hand to hit the Cyberman but it knocks the controls out of his grasp.)
+>
+>CYBERMAN: What is wrong with you?
+>
+>DOCTOR: I'm going home, that's what's wrong. My name is Doctor Who. And you're a bloody robot. But you've got the wrong man. There's a whole world out there waiting for me, and I don't want to be taken prisoner by some tin can.
+>
+>(It grabs hold of his neck and tries to pull him back into the console room. The Doctor fights back, trying to break free.)
+>
+>CYBERMAN: You will obey. You will serve. Or you will die.
+>
+>DOCTOR: Go ahead. Kill me. It won't make any difference anyway, because I'll just get right back up again.
+>
+>(The Cyberman puts its hands over the Doctor's mouth and nose and lifts him off the ground.)
+>
+>DOCTOR: All right then, let's see how long it takes you to kill me.
+>
+>(The Doctor kicks the controls at the base of the Cyberman's neck, sending it reeling backwards.)
 
 #### [Disco Elysium](https://files.catbox.moe/9vm6qi.module)
 
