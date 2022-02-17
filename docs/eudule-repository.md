@@ -28,6 +28,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [10th Doctor Transcripts](#10th-doctor-transcripts) module.
 - Added [Vampire: The Masquerade](#vampire-the-masquerade) module.
 - Added [Speculative Science Fiction](#speculative-science-fiction) module.
+- Added [Furry Character Generator](#furry-character-generator) module.
 
 (16th February, 2022)
 
@@ -246,6 +247,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Seinfeld](#seinfeld)
 - [Utilities](#utilities)
   - [Creative Cooking](#creative-cooking)
+  - [Furry Character Generator](#furry-character-generator)
   - [The Guy Fieri Menu Item Generator Module](#the-guy-fieri-menu-item-generator-module)
   - [Michael Jackson Lyrics](#michael-jackson-lyrics)
 
@@ -258,7 +260,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - [Authors](#authors) - *Modules trying to replicate an author's writing style.*
 - [Themes](#themes) - *Modules focusing on a particular theme, setting, or fetish.*
 - [Works](#works) - *Modules that attempt to imitate the style of a written work.*
-- [Utilities](#utilities) - *Modules focused on providing a non-narrative service with the goal of making the user's life easier.*
+- [Utilities](#utilities) - *Modules with a non-narrative purpose.*
 
 ***
 
@@ -2561,6 +2563,18 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 > 1/8 cup heavy cream (or coconut milk for dairy free)
 >
 >INSTRUCTIONS: Preheat oven to 350°F (175°C). Set aside 2 tablespoons of the sugar and set aside to use later. In a medium saucepan combine the butter, cocoa, and water. Whisk continuously over low heat until it begins to thicken into a sauce-like consistency, about 10 minutes. Add the remaining sugar (about ¼ cup) and whisk constantly for another 3 minutes while bringing the temperature up to 240°F (115°C). At this point you want to remove from the heat but keep whisking, as it will continue to cook at this temperature, becoming thicker. When the temperature reaches 240°F add in the salt, the remaining sugar, and the egg and stir continuously with a wooden spoon until smooth. Remove from heat and let cool slightly. Place in fridge until cold. Once cooled whip the cream and spread atop your chilled pudding.
+
+### [Furry Character Generator](https://files.catbox.moe/9kvigl.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/372882609/#372934160)
+
+*Second test of a character generator module. Now with 100kb of character bios.*
+
+>\> What is the source text?
+
+*Furry character bios/ref sheets from Furaffinity/Inkbunny.*
+
+*I'd like to add more humans but don't know where I'd get human oc ref sheets with the info I want.*
 
 ### [The Guy Fieri Menu Item Generator Module](https://files.catbox.moe/gnq6d1.module)
 
