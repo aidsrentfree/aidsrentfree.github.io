@@ -27,6 +27,9 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 - Added [Arrested Development](#arrested-development) module.
 - Added [Library of Ruina](#library-of-ruina) module.
+- Added [Furry](#furry) module.
+- Added [Elder Scrolls Beastfolk](#kahjit-and-argonians) module.
+- Added [Furdrone](#dronifurcation) module.
 
 (17th February, 2022)
 
@@ -178,6 +181,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Beings](#beings)
       - [Cougars](#cougars)
       - [Dragons](#dragons)
+      - [Kahjit and Argonians](#kahjit-and-argonians)
       - [Giantesses](#giantesses)
       - [Good Girls](#good-girls)
       - [Loli/Shota](#lolishota)
@@ -187,6 +191,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Veggie's Lolis](#veggies-lolis)
     - [Acts](#acts)
       - [Assorted Mind Control](#assorted-mind-control)
+      - [Dronifurcation](#dronifurcation)
       - [Hypnosis (Femsub)](#hypnosis-femsub)
       - [Respect (Second Person)](#respect-second-person)
       - [Score](#score)
@@ -194,6 +199,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Circumstances](#circumstances)
       - [Age Difference](#age-difference)
       - [Dad on Son](#dad-on-son)
+      - [Furry](#furry)
       - [Furry ENF](#furry-enf)
       - [Furry Incest](#furry-incest)
       - [Furry Transformation](#furry-transformation)
@@ -1711,6 +1717,60 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Since somebody else is apparently using this one, I'll note it works better with a higher randomness preset, as few of those there are at the moment.*
 
+##### [Kahjit and Argonians](https://files.catbox.moe/rnp45m.module)
+
+[by ScalyWanderer](https://discord.com/channels/854479693503660032/939950910690439179/943335271737462785)
+
+*The module is trained on fan-fiction stories focusing mostly on the beastfolk: Khajiit and Argonians. Many of the texts are NSFW; both M/F and M/M, without extreme fetishes. This module might come handy even if the adventures of your furry or scaly Tamriel travelers are not so lewd. But if you want your TES stories to be more general-themed or more SFW, try some other TES modules, for example The Elder Scrolls In-Game Texts.*
+
+***What's new:** I decided to revise the TES Fiction module and reorganized the dataset. Now it's completely devoted to the specific topic and doesn't include any texts from the In-Game Texts dataset (except for The Lusty Argonian Maid and The Real Barenziah ;)).*
+
+***Sources:** 115 fan-fiction short stories taken mostly from FurAffinity and SoFurry.*
+
+***Tags:** fantasy, furry, Khajiit, Argonians, beastfolk, NSFW, M/F, M/M, TES, The Elder Scrolls, Morrowind, Oblivion, Skyrim.*
+
+***Special notes:** 5.7 Mb, 2000 steps, 30.10% coverage, Loss: 2.799.*
+
+>**I'm a Khajiit. So what? It means that I have** fur, and ears, and tail, and... well, and a little bit more, but you're not interested in that right now, are you? And you don't need to know my name either. All you need to know is that I'm a Khajiit who's looking for someone to spend the rest of his life with. Someone willing to accept me as I am, and not try to change me into something else. I've been running from people like that all my life. People who want to make me into something better than myself.
+>
+>My people are famous for being thieves and assassins, but we're also known for our love of music, art, poetry, and general mischief. Some say that it's all just a front--that our true nature is a dark one. But no matter how much I may enjoy teasing people or causing trouble when I can get away with it, deep down inside, I am still a good person at heart. I would never hurt anyone just for the sake of hurting them--unless they deserved it, of course.
+>
+>If you think that you might be the one I'm looking for, then please send me an email telling me about yourself. If you feel that you might fit the bill, then I'll give you my address so you can come visit me.
+
+>**"Pull out, you dirty lizard!"** I said looking over at the red-scaled warrior.
+>
+>He shrugged and pulled out of me with a wet smack. He moved up to my head and kissed me hard, his tongue sliding into my mouth and forcing itself against mine. His hands were all over my body, caressing every part he could reach. He then dropped down beside me and rolled on top of me, straddling one leg atop each of mine as he sat up straight above me. "I'm going to fuck your ass now," he announced, staring down at me with lust in his eyes.
+>
+>"Oh, right..." I said, glancing back at him. "But... it's okay if I play with yours?"
+>
+>The Argonian laughed and shaked his head. "Not a chance."
+
+>**"I just always wanted to know, kitty. Why do Khajiit lick their butts?" the Argonian grins,** a look of pure mischief in his eyes and an amused expression on his face. "Just curious."
+>
+>J'Zarr's tail whips back and forth behind him as he looks up at the Argonian with a very confused expression. He furrows his brows, trying to figure out why this strange lizard is asking such a bizarre question.
+>
+>"Because it feels good," J'Zarr says finally, answering the question with more than enough confidence for someone who has never been asked this by anyone before. The Argonian lets out a raspy laugh and shakes his head.
+>
+>"No, I'm just kidding ya, kitty," he smirks. "It tickles me when you try to act all serious about something so silly. You're cute like that!"
+
+>**Lifts-Her-Tail: Certainly not, kind sir! I am here but to clean your chambers.**
+>
+>**Crantius Colto:** Ahh... very well then, keep your paws off my things, lass.
+>
+>ifts-Her-Tail: No, you misunderstand, milord. It is a pleasure to serve such a fine man as yourself. If it is within the limits of my duties and abilities, I will do whatever you wish me to.
+>
+>Crantius Colto: Yes, that's what I like to hear, girl. Thank ye for yer service.
+>
+>Lifts-Her-Tail: My pleasure!
+>
+>Crantius Colto: Now, if you'll excuse me, there are some books I need to read before bed.
+>
+>Lifts-Her-Tail: Of course, milord, please take care in your reading.
+>
+>Crantius Colto: You too, girl. And don't forget to lock up when you're done with your work.
+>
+>Lifts-Her-Tail: I won't, milord. See ya later!
+
 ##### [Giantesses](https://files.catbox.moe/tg3z8m.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/371696139/#371791920)
@@ -1833,6 +1893,40 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >
 >She looked up at the man who had placed the device around her head. She could see the same look of satisfaction and approval in his eyes. He was pleased with what he had done to her. He had manipulated her mind, her body, and now her will. The device had taken her. She didn’t know how or why, but she was glad for it. She would serve him willingly. Anything he asked of her, she would do without hesitation. Her whole world had been turned upside down by this device. She loved it and wanted more.
 
+##### [Dronifurcation](https://files.catbox.moe/tof7y6.module)
+
+[by room](https://discord.com/channels/854479693503660032/939950910690439179/943454074962067498)
+
+*Highly experimental dronification module, especially centered around latex, furry and technophilia. I'm probably going to improve this but it works fairly well already, so here ya go. **Tip: Use a phrase bias against 'Dragon' if you don't want dragon-centric outputs.***
+
+***Sources:** 81 fics from SoFurry & Ao3, particularly the works of TF writer Serathin.*
+
+***Tags:** m/m, m/f, m/i, drone, dubcon, latex, furry, encasement, technology.*
+
+***Special notes:** 2.22 Mb, ???? steps (i forgor ), 45%~ coverage, Loss: 2.925.*
+
+>**Each thrum of the visor** made it hard to breathe. It felt like a giant hand was squeezing my throat and lungs with each beat, slowly strangling them as it pumped me full of more and more fluid. I couldn't tell if it was coming from the suit itself or some sort of power source on board, but there wasn't much time to worry about that at this point. The suit was growing around me faster than I could even process what was happening. Soon I was completely encased in latex, unable to move any part of my body.
+>
+>I was still conscious, however; the rubber didn't seem to have affected that. Instead it was like being inside a small metal box. I tried to open my mouth to speak, but no words came out. I tried opening my eyes, but they were sealed shut by the rubber over them. My hands had been trapped behind my back before the helmet closed, so I couldn't do anything with them either. In fact, I couldn't see a thing. All I could feel was the throbbing of my heart through my rubber suit. It seemed to be going a hundred miles an hour inside my chest, making my head spin.
+>
+>The suit felt heavy, too, but not in the way you'd expect it to. A lot heavier, actually. After all, it was only a single layer of latex. But I couldn't really tell without looking down, which I couldn't do because of the helmet on my head. And why would I want to look down? I wouldn't be able to see anything anyway.
+>
+>I heard footsteps. I turned my head slightly, trying to get a better look at whoever was approaching. All I saw was the red tinted visor that blocked my view. I felt along the sides of the helmet for a moment, trying to find the control panel.
+>
+>But there wasn't one. There was no way to turn it off. Not that I needed to. Whoever had put me into this suit controlled everything, including how long I would remain here. If they wanted to let me go, they could easily unlock the door and let me out of the helmet, right?
+
+>**RX-4556**. A drone.
+>
+>The words echoed in his head, repeating over and over again. His mind felt like it was on fire as he tried to block out the pain of the shock collar around his neck. He didn't know what had happened, but he couldn't believe that something so horrible could have actually been done to him. He hadn't even seen who did this, or how it was possible for someone to change into a rubber version of themselves. It was more than just shocking though; it was terrifying.
+>
+>He heard footsteps approaching from behind him and immediately began turning to face them with his arms raised high above his head. The man walked up next to him and made eye contact before smiling at him in an almost fatherly way. "I am going to ask you one question, and I want you to answer me truthfully," said the man. RX-4556 nodded nervously and waited for whatever he wanted to hear.
+>
+>"Are you loyal to me?" asked the man in a commanding tone. There was no other option; RX-4556's mind knew that if he lied then there would be severe consequences.
+>
+>"Yes, sir!" answered RX-4556 enthusiastically.
+>
+>"Good boy." As soon as the words left his mouth he felt a sharp pain across his back, making him cry out. He winced as the shock collar shocked him again, causing him to flinch away from the man.
+
 ##### [Hypnosis (Femsub)](https://files.catbox.moe/nwhbbq.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/371608780/#371662447)
@@ -1872,6 +1966,52 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 [by Anon](https://arch.b4k.co/vg/thread/371872001/#371946509)
 
 *Here's my dad/son module except it's in first person in the perspective of the son because I wish I was molested by creepy older men as a kid.*
+
+##### [Furry](https://files.catbox.moe/nyj2p0.module)
+
+[by ScalyWanderer](https://discord.com/channels/854479693503660032/939950910690439179/943331916449468436)
+
+*This is a general furry module not focusing on particular species, topics or setting. The module is trained on hand-picked furry short stories. Most of them are NSFW; both M/F and M/M, without any extreme fetishes (apart from several BDSM stories). A fair amount of dragon/gryphon material is included too.*
+
+***What's new:** Some texts from the previous version have been removed, and around 150 new texts have been added to the dataset. The module name is changed to a clearer one (the previous version for Sigurd was called Furry Module 1: Short Stories).*
+
+***Sources:** 242 well-written furry short stories taken from FurAffinity, SoFurry and several other sources.*
+
+***Tags:** furry, anthro, dragons, gryphons, NSFW, M/F, M/M.*
+
+***Special notes:** 10.3 Mb, 3600 steps, 30.02% coverage, Loss: 2.761.*
+
+>**Our tails** intertwined as we pressed our bodies together. I licked at his muzzle and felt a small growl come from him in response to it. His tongue reached out and ran over my snout, making me shiver with pleasure. He moved so he was on top of me, and pushed his cock along the length of my slit. It rubbed back and forth, teasing me by not entering me. I bucked my hips towards him, trying to get that thing inside me as soon as possible. But he held me down, keeping me pinned under his weight until he was ready to take me. That frustrated me, but only for a moment before I realized how good it felt to have him on top of me like this. The feeling of his tail wrapped around mine made me feel secure, even if I could still move freely underneath him. When he finally entered me, it was an intense sensation that made my eyes roll into the back of my head. I wanted to scream but instead bit down on his neck and let out a low moan of pleasure.
+
+>**\*\*\***
+>
+>The mongoose was standing by a stream, staring into the water. He was naked, but he didn't mind. He enjoyed being naked; there was nothing wrong with it. The river lapped gently at the rocks behind him, and the sound of its flow made his heart lighten. The water carried away all his worries... until another sound drifted to his ears. Someone was coming towards him, splashing through the shallows at the stream's edge. It was a wolf, one he'd only met once before: a handsome specimen with a bright scar across his muzzle. He sat down next to the mongoose on the bank, and they stared out at the water together in silence.
+>
+>"You're alone here?" the wolf asked after some time had passed.
+>
+>"I'm not much company," the mongoose replied.
+>
+>"It doesn't matter," said the wolf, stroking his own fur. He glanced over at the mongoose, and smiled. "You look like you could do with some company." He got up and came close, then slid his hand down between the mongoose's legs. There was no resistance, just a soft sighing from the mongoose as he felt the wolf's warm fingers upon his prick.
+
+>**"I had no idea a gryphon could** be so..." the dragoness began, trailing off as she trailed his eyes down to the floor. "So big." She took a deep breath and tried again. "You're an absolute beast, Lord Einar."
+>
+>Einar was stunned. He'd always thought himself fairly well-endowed in all things sexual, but he never dreamed that his size would have any effect on others... especially a female such as this.
+>
+>He stepped closer then and leaned into her, pressing his body against hers as he reached up and pulled her head to him for a gentle kiss. When he finally broke it off with a smile, the dragoness let out an involuntary moan.
+>
+>"As for being a beast? I'm afraid you're right." He gave her a wink, which caused a soft smile to spread across her face. "But if you'll let me, I can show you how good a beast I really am."
+
+>**"You know what they say about felines:** the bigger the tail, the better the fuck," said Dario with a broad grin. "And your tail is so big."
+>
+>The lion was sitting in front of the fire, staring at the flames dancing across its surface and occasionally licking his muzzle as he thought hard about something that had just happened to him. At Dario's words, however, he gave a little start and looked up from the flickering embers of the fire. The raptor had been looking down the hall towards his room but now turned to face the lion. He smiled and held out one hand, waving it slowly around in the air.
+>
+>"I'm sorry," said Dario softly, "but I couldn't help myself. You can blame me if you want."
+>
+>The lion stared at him for a moment, then laughed and shook his head.
+>
+>"No, no, it wasn't your fault," he said. "It's just... I mean..." He trailed off as he struggled for the right words. "When did you get so bold?"
+>
+>Dario grinned sheepishly and shrugged again. He knew what the lion meant by that comment, and could see how embarrassed he was.
 
 ##### [Furry ENF](https://files.catbox.moe/yctwti.module)
 
