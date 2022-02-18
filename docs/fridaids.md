@@ -38,6 +38,8 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Trickle Down*](#trickle-down)
   - [*The State Expands*](#the-state-expands)
   - [*A Matter of Freedom*](#a-matter-of-freedom)
+  - [*Rape Legalization!!!*](#rape-legalization)
+  - [*Nayit City's Mandates*](#nayit-citys-mandates)
 - [The Friday of *Fucked Up Theme Parks*](#the-friday-of-fucked-up-theme-parks)
   - [*Clussy Park*](#clussy-park)
   - [*Sadie's Playland*](#sadies-playland)
@@ -354,6 +356,41 @@ The rebel leader then led them up to and around the nearest side of the large ho
 Jainie stopped and gestured at the window with her chin. "Maree, you're up."*
 
 Anthro girls oppose a government mandate.
+
+### *Rape Legalization!!!*
+{: .center}
+
+*<https://prompts.aidg.club/3079>*
+{: .center}
+
+>*“Good…. Morning~” the pretty newscaster said. My eyebrow rose. She sounded different.*
+>
+>*“Effective starting today, rape with an aim of procreation has been enacted as a provisional law. Rape is only allowed on women who are capable of bearing children. Please bear that in mind. Girls who haven’t had their periods yet, women who already reached menopause, and women who are still pregnant are all exempted from getting raped. They are to be issued with verification, while the rest of us are fair game~!”*
+>
+>*I gasp, softly, as the newscaster suddenly was sexually assaulted by her co-star.*
+
+Basically the start of the "Rape Gouhouka" hentai
+
+### *Nayit City's Mandates*
+{: .center}
+
+*<https://prompts.aidg.club/3080>*
+{: .center}
+
+![](https://files.catbox.moe/8j225q.jpg)
+{: .center}
+
+>*Today would not be any different, Jimmy thought as he got up, slipped into a nightgown and made his way to the front door of his apartment.*
+>
+>*Another urgent ringing of his doorbell later Jimmy opened the door. Before Jimmy stood one of his next door neighbours, a sweating female neko that he had not met yet.*
+>
+>*Jimmy opened the door and cleared his throat, asking "Uh, yes? Can I help you?"*
+>
+>*"Hello, I'd like to invoke the mandate of /heat/," the female neko said.*
+>
+>*It took a moment for Jimmy to realize his reaction was expected. "I'm sorry," he said, "The what? I don't know what that is."*
+
+Having recently moved to a new city, ${Jamestown} finds it hard to accustom to the unfamiliar habits, rites and needs of other species in Nayit City.
 
 ***
 
