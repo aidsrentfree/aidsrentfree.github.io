@@ -28,7 +28,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Arrested Development](#arrested-development) module.
 - Added [Library of Ruina](#library-of-ruina) module.
 - Added [Furry](#furry) module.
-- Added [Elder Scrolls Beastfolk](#kahjit-and-argonians) module.
+- Added [Elder Scrolls Beastfolk](#khajit-and-argonians) module.
 - Added [Furdrone](#dronifurcation) module.
 
 (17th February, 2022)
