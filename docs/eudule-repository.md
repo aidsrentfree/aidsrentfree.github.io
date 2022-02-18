@@ -181,7 +181,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Beings](#beings)
       - [Cougars](#cougars)
       - [Dragons](#dragons)
-      - [Kahjit and Argonians](#kahjit-and-argonians)
+      - [Khajit and Argonians](#khajit-and-argonians)
       - [Giantesses](#giantesses)
       - [Good Girls](#good-girls)
       - [Loli/Shota](#lolishota)
@@ -1717,7 +1717,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Since somebody else is apparently using this one, I'll note it works better with a higher randomness preset, as few of those there are at the moment.*
 
-##### [Kahjit and Argonians](https://files.catbox.moe/rnp45m.module)
+##### [Khajit and Argonians](https://files.catbox.moe/rnp45m.module)
 
 [by ScalyWanderer](https://discord.com/channels/854479693503660032/939950910690439179/943335271737462785)
 
