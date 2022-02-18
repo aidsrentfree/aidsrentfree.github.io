@@ -31,6 +31,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Elder Scrolls Beastfolk](#khajit-and-argonians) module.
 - Added [Furdrone](#dronifurcation) module.
 - Added [Harry Potter](#harry-potter) module.
+- Added [Light Novel School Romantic Comedy](#ln-school-rom-com) module.
 
 (17th February, 2022)
 
@@ -149,6 +150,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Cyberpunk (Annotated)](#cyberpunk-annotated)
       - [Desert Fantasy and Folklore](#desert-fantasy-and-folklore)
       - [Elizabethan Fantasy](#elizabethan-fantasy)
+      - [LN School Rom-Com](#ln-school-rom-com)
       - [Oriental Fantasy](#oriental-fantasy)
       - [Poetic Fantasy](#poetic-fantasy)
       - [Russian Folklore & Fantasy](#russian-folklore--fantasy)
@@ -960,6 +962,47 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >
 >A heart that never is sad.
 
+##### [LN School Rom-Com](https://files.catbox.moe/2hsi5k.module)
+
+[by shar](https://discord.com/channels/836774308772446268/939922436500107314/944329644637827102)
+
+[46% coverage version](https://files.catbox.moe/8h8gun.module)
+
+*A module trained on the first two volumes of 18 Japanese light novels + 3 one-shots about high school life & romance, with a small hint of yuri and the supernatural mixed in. Mostly first person male pov, maybe otherwise with the yuri material. It's half-half officially translated and fan-translated stuff though I at least skimmed to make sure the fan TLs weren't terrible. There is excessive usage of dialogue, em dashes and ellipses in the material. There are two separate 100% and 46% modules included, 12k and 5.8k steps respectively, data filesize 10.9mb. Average loss is 2.5800*
+
+***Tags:** rom-com, slice of life, school, anime*
+
+>The second day of the club was the first time we had a proper conversation. After that, my heart started beating faster whenever I saw her.
+>
+>However, there were no more incidents like yesterday, so things seemed to be going well for us today, at least. The reason I could enjoy this moment without feeling anxious was probably thanks to the fact that I'd already seen her in action yesterday. She wasn't just good at looking after students and being kind; she even took care of other people's problems too!
+>
+>"Today is going to be the last day before summer vacation, right? We should have an event or something!" Iroha suggested while we were cleaning up the room.
+>
+>"What do you mean?" I asked.
+>
+>"Like a sports tournament or something. That would get everyone pumped up for summer break!"
+>
+>"...You're pretty enthusiastic about all this, huh?"
+>
+>"A-Are you calling me weird?!"
+>
+>It's not that big of a deal though...
+>
+>I had a few ideas, but putting them into practice didn't seem feasible, so I couldn't come up with anything else. However, Iroha seemed to have been thinking really hard about it, and soon enough came up with the perfect idea. "Oh yeah! Why don't we make a photo contest?! Everyone can take pictures of each other and submit them to our club bulletin board!"
+>
+>"...That sounds great," I replied with a nod, which made Iroha smile happily.
+>
+>"Yay! This'll be so fun! You should join in on the photo contest, Senpai!"
+>
+>"Uh, sure..."
+>
+>When I agreed, Iroha suddenly hugged me tightly. Oh crap, she caught me off guard! I quickly pushed her away. "...Umm...what are you doing?"
+>
+>"...I'm sorry! I was just happy that you agreed with my idea!"
+>
+>Her smile was bright as always, and her eyes sparkled in excitement.
+>
+>It reminded me of that picture of the girl on TV. Iroha looked like she was having a blast, and I felt myself getting dragged along to play with her.
 
 ##### [Oriental Fantasy](https://files.catbox.moe/kq71e0.module)
 
