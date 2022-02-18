@@ -30,6 +30,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Furry](#furry) module.
 - Added [Elder Scrolls Beastfolk](#khajit-and-argonians) module.
 - Added [Furdrone](#dronifurcation) module.
+- Added [Harry Potter](#harry-potter) module.
 
 (17th February, 2022)
 
@@ -219,6 +220,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Altered Carbon](#altered-carbon)
       - [Discworld Watch Series](#discworld-watch-series)
       - [Discworld Witch Series](#discworld-witch-series)
+      - [Harry Potter](#harry-potter)
       - [Redwall](#redwall)
       - [The Solar Cycle](#the-solar-cycle)
       - [The Witcher](#the-witcher)
@@ -2223,6 +2225,14 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >Equal Rites, Wyrd Sisters, Witches Abroad, Lords and Ladies, Maskerade, Carpe Jugulum, A Hat Full of Sky<br>
 >Trained to 38% at 1000 steps<br>
 >Yes I included A Hat Full of Sky fight me
+
+##### [Harry Potter](https://files.catbox.moe/f65mhi.module)
+
+[by](https://arch.b4k.co/vg/thread/373047383/#373105443) [Anons](https://arch.b4k.co/vg/thread/373047383/#373153282)
+
+>\>is anyone willing to use their steps to train a module based on [all the Harry Potter books](https://files.catbox.moe/g1dves.txt) if I prep the text?
+
+*Here it is! 100% trained on the Harry Potter data you sent.*
 
 ##### [Redwall](https://files.catbox.moe/l9w22v.module)
 
