@@ -421,7 +421,7 @@ In a very distant year in the future, those identified as having "dangerous thou
 >
 >*But all of that happened months ago. Suddenly the US government had revealed that they had imported a few species of monster girls, and with the help of scientists had hammered out a few rules. Among them came a few new mandates. Like the one that had you in this office just now: At least once a month all able-bodied males were to report to the nearest government-approved sperm bank or hospital to breed these girls and grow their population. It even came with a clause stating that should you choose, you can then adopt the monster girl you bred, with official documentation and a certificate and everything. Relationship status did not matter, all you could think about were those with wives who were probably rallying to the cause like they did that orange-haired mop-top all those years ago.*
 
-A mandate comes out forcing all men in the nation to breed monster girls and give them children. by nai juicer. first attempt in a long time writing for /aids/, will probably be bad.
+A mandate comes out forcing all men in the nation to breed monster girls and give them children.
 
 ### *The Seduction Society*
 {: .center}
