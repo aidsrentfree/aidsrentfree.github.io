@@ -40,6 +40,10 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*A Matter of Freedom*](#a-matter-of-freedom)
   - [*Rape Legalization!!!*](#rape-legalization)
   - [*Nayit City's Mandates*](#nayit-citys-mandates)
+  - [*Madated Socialization*](#madated-socialization)
+  - [*Enforced Breeding*](#enforced-breeding)
+  - [*The Seduction Society*](#the-seduction-society)
+  - [*(Figuratively) Fuck the Cabal*](#figuratively-fuck-the-cabal)
 - [The Friday of *Fucked Up Theme Parks*](#the-friday-of-fucked-up-theme-parks)
   - [*Clussy Park*](#clussy-park)
   - [*Sadie's Playland*](#sadies-playland)
@@ -391,6 +395,68 @@ Basically the start of the "Rape Gouhouka" hentai
 >*It took a moment for Jimmy to realize his reaction was expected. "I'm sorry," he said, "The what? I don't know what that is."*
 
 Having recently moved to a new city, ${Jamestown} finds it hard to accustom to the unfamiliar habits, rites and needs of other species in Nayit City.
+
+### *Madated Socialization*
+{: .center}
+
+*<https://prompts.aidg.club/3084>*
+{: .center}
+
+![](https://files.catbox.moe/jc875w.png)
+{: .center}
+
+>*Quickly getting dressed and hurriedly hiding your prohibited knife and stach of alcohol the pounding on your door begins again; "I will call the police to do a wellness check if you don't answer the door! We both know you don't want that!"*
+>
+>*The voice that once seemed helpful and kind now only shrilly reminds you of the overreaching grasp of the government even if the woman does seem to genuinely care. You know what Jamie means; the alcohol, the weapons. Things both of you pretend to not know about for your sake alone. But even so you have grown to hate the sound of the her small hand pounding impatiently at the door in the early hours. It's much too early in the morning for someone to be knocking and demanding entry into your unkempt apartment. Trying to keep the thoughts of misery from your troubled mind you shout out a hurried response, "I'm coming! Hold on!" You need to fake a cheerful, or at least demure attitude in order to avoid alerting Jamie to your grim thoughts and being hospitalized.*
+
+In a very distant year in the future, those identified as having "dangerous thoughts" are required to have a state social worker visit them several times a week by government mandate. You find yourself awoken one morning to the knock of one of those required visits and your resentment only increases.
+
+### *Enforced Breeding*
+{: .center}
+
+*<https://prompts.aidg.club/3086>*
+{: .center}
+
+>*Scientists had discovered an entire island that had appeared a few months ago containing several extremely advanced species, looking like the animals on your world, only given hundreds of thousands of years to mutate and grow into advanced, sentient beings that could think and talk. It only took a few months for them to learn the English language, and not long after that the internet suddenly clammed up, with nothing interesting happening.*
+>
+>*But all of that happened months ago. Suddenly the US government had revealed that they had imported a few species of monster girls, and with the help of scientists had hammered out a few rules. Among them came a few new mandates. Like the one that had you in this office just now: At least once a month all able-bodied males were to report to the nearest government-approved sperm bank or hospital to breed these girls and grow their population. It even came with a clause stating that should you choose, you can then adopt the monster girl you bred, with official documentation and a certificate and everything. Relationship status did not matter, all you could think about were those with wives who were probably rallying to the cause like they did that orange-haired mop-top all those years ago.*
+
+A mandate comes out forcing all men in the nation to breed monster girls and give them children. by nai juicer. first attempt in a long time writing for /aids/, will probably be bad.
+
+### *The Seduction Society*
+{: .center}
+
+*<https://prompts.aidg.club/3076>*
+{: .center}
+
+![](https://files.catbox.moe/julpd0.jpg)
+{: .center}
+
+>*In the not-so-distant future, those in power declared sex—and anything relating to the act—unnecessary and archaic. Established in its place was a new standard: a future of artificial birth, sterilization, and abstinence. State-mandated hormone inhibitors spread across the country faster than anyone expected. Quick rehabilitation, if not outright disposal, quelled what minor rebellion there was. And now, over thirty years after the initial inception of these new regulations, sexual desire was all but absent in the average household.*
+>
+>*But even though the wound had long-since healed, infection from within still lingered. It began in a small college of about three hundred students. An anonymous band of undergraduates referred to only as ‘The Seduction Society’ began to act once every two weeks. The purpose was simple—public spectacle and disorder for the sake of sexual freedom. From posters of outlawed pornography hung around the campus, to disruption of inhibitor distribution, this underground society sought to shock, incite, and excite the student body with their acts of perversion. And though the limelight shone brightly on their clique, they always remained anonymous in all matters.*
+>
+>*That was until one evening when a freshman—a young man obsessed by the society's presence—took it upon himself to confront the group. With enough evidence to take their entire crew down, he uncovered the their base of operations: the basement of an old abandoned house in town. They were there to discuss plans involving something only referred to as “Operation Pink Pill”, a plan which would forever change the face of sexual revolution. The man who uncovered their deeds was none other than me, and once I had learned the location of their meeting, I wasted no time in confronting them.*
+
+In a world where sex is illegal, snitch on a budding rebel group.
+
+### *(Figuratively) Fuck the Cabal*
+{: .center}
+
+*<https://prompts.aidg.club/3088>*
+{: .center}
+
+>*"Now, I don't want to sound conspiratorial, but what good comes from controlling reproduction rights? What is Socialust's master plan here? Well, I have the answer. The Socialust Party is doing this for one simple reason."*
+>
+>*The camera zooms into Mark's face, beckoning me forward to the screen. He looks pissed off as all hell—and rightfully so. He represents people like me, and we are angry. Really, really fucking angry.*
+>
+>*"Because they're scared we know the truth. They know that if men have easy access to sex, their secret succubus degeneracy ring will come tumbling down. And for this reason, the Socialust Party will go to any lengths to protect itself and its puppet masters, the globalist cabal of hell." With a sudden zoom out, the camera shows Mark reach for his small wooden club—God, he really is going all out today. His face is visibly redder with anger. Mark grips the club tightly in his callous hand and hits the table with loud thuds punctuating every syllable for emphasis. "They are demons! Literal demons!"*
+>
+>*I knew it, I fucking knew it! They are all fucking demons! Just like I suspected, they've been hiding behind a mask of morality, and using it to manipulate us, to keep us docile and subservient. All this time, fools thought that the Socialust Party cared about our welfare, that they were fighting for our rights and freedoms. But the truth was far different than imagined. The reality is that they were trying to infiltrate our human society and destroy us from the inside.*
+>
+>*I'm going to enjoy watching Mark take these motherfuckers down.*
+
+A well-adjusted individual has a measured response to a new law enacted by the ruling political party he has slight disagreements with.
 
 ***
 
