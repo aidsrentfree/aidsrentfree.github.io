@@ -355,7 +355,6 @@ Jainie stopped and gestured at the window with her chin. "Maree, you're up."*
 
 Anthro girls oppose a government mandate.
 
-
 ***
 
 ## The Friday of *Fucked Up Theme Parks*

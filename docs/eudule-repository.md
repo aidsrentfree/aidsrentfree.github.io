@@ -23,6 +23,11 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(18th, February, 2022)
+
+- Added [Arrested Development](#arrested-development) module.
+- Added [Library of Ruina](#library-of-ruina) module.
+
 (17th February, 2022)
 
 - Added [10th Doctor Transcripts](#10th-doctor-transcripts) module.
@@ -88,10 +93,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Dragon Smut](#dragons) module.
 - Added [Harems](#harems) module.
 
-(10th February, 2022)
-
-- Added [The Manwhore Module](#the-manwhore-module).
-
 ***
 
 ## [Table of Contents](#modules)
@@ -133,6 +134,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Fire Emblem: Awakening](#fire-emblem-awakening)
       - [Forgotten Realms](#forgotten-realms)
       - [Halo](#halo)
+      - [Library of Ruina](#library-of-ruina)
       - [Sailor Moon](#sailor-moon)
       - [A Song of Ice and Fire](#a-song-of-ice-and-fire)
       - [Star Wars](#star-wars)
@@ -242,6 +244,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Worm](#worm)
   - [Scripts](#scripts)
     - [10th Doctor Transcripts](#10th-doctor-transcripts)
+    - [Arrested Development](#arrested-development)
     - [Disco Elysium](#disco-elysium)
     - [Kurisu Dialogue](#kurisu-dialogue)
     - [Seinfeld](#seinfeld)
@@ -630,6 +633,52 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 ***Tags:** Third Person, Master Chief, Covenant, UNSC, John-117, Elite, Grunt, Pillar of Autumn, Reach*
 
 ***Note:** This was not made by me! I am uploading this for an anonymous user.*
+
+##### [Library of Ruina](https://files.catbox.moe/fi3uh1.module)
+
+[by chrome](https://discord.com/channels/836774308772446268/939922436500107314/944178532152672336)
+
+*Trained on a txt file of every Key Page Story from the game Library of Ruina. Consists mainly of first person musings from the characters that live in the game's setting; a dystopian urban complex known as the City.*
+
+***Tags:** Library of Ruina, dystopian, video game*
+
+>*I looked through the window of* my office, taking in the sights. The crowd had thinned out considerably since I'd last checked on it, but there were still plenty of people on the streets. It's not like I could just close the curtains and pretend that those people didn't exist... No, if anything, I should be glad I have a job where I can help them while I'm at it.
+>
+>The Nest wasn't really all that big. My boss only had me look after one office, so all I needed to do was check up on it every few hours. That way, I figured I wouldn't get tired too easily.
+>
+>"Hm? Oh! There you are!"
+>
+>This time, the voice came from behind me. I turned around and saw my co-worker walking towards me with a smile on his face. He was pretty strong for someone who had such a small body, so he often picked up some of the more heavier items our customers brought in.
+>
+>"Hey, what brings you here today?"
+>
+>He gave me a pat on the shoulder before answering. "Just checking up on you." Then he pointed out into the distance. "You know how crowded it is outside right now, right?"
+>
+>I nodded as I took another glance at the street outside. Yeah, I knew. When I first started working in this Nest, it was much quieter than it was now. But I guess over time, word got around about the good work we did, and now the Nest was busier than ever. I couldn't complain, though. Our customers were always grateful when they left here, and we got to keep working without having to worry about being kicked out by our landlord.
+>
+>"Yeah, you're right," I said. "So what about it?"
+>
+>"Well, I heard that some guy came in earlier saying he wanted to hire us for an important job, something along those lines..."
+
+>"I don't want to be a burden. I'm not asking you for anything."
+>
+>She was lying on the bed in her room, wearing nothing but an oversized T-shirt and shorts. A puddle of sweat had formed beneath her head. Her cheeks were flushed red from the heat—the same color as her hair.
+>
+>Her voice was so calm that it didn't seem like she was trying to convince him at all. She sounded like she knew what she wanted. Like she already had everything figured out and there was no more need to pretend. It made me feel uneasy just listening to her talk about money.
+>
+>But... I guess she's right. I'll pay whatever we need, if it means making her happy.
+>
+>I thought I was going to have to say something about how much money we needed, but before I could even open my mouth, she spoke up again:
+>
+>"Do you know why I joined this job?"
+>
+>I shook my head. "No."
+>
+>"It's because I couldn't take any more of what they did to me when I was younger. Because I never got any better after that. And now, it's come back around and bit me in the ass again."
+>
+>"What do you mean?"
+>
+>"The Syndicate is the only place that will hire me, so I can't get myself off their hook by doing something illegal or getting arrested."
 
 ##### [Sailor Moon](https://files.catbox.moe/ticmjh.module)
 
@@ -2411,6 +2460,38 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 >DOCTOR: All right then, let's see how long it takes you to kill me.
 >
 >(The Doctor kicks the controls at the base of the Cyberman's neck, sending it reeling backwards.)
+
+#### [Arrested Development](https://files.catbox.moe/j9mzcq.module)
+
+[by Dead Eye](https://discord.com/channels/836774308772446268/939922436500107314/944052107756052510)
+
+*Arrested Development transcripts for seasons 1-4 scraped from Wikia. Contains square bracketed tags for episode introduction e.g. `[The following is the transcript of the Season One episode...` and directing tags such as `[Scene]`, `[Flashback]`, `[Cutaway]`. Acts are split by \*\*\*.*
+
+*100% coverage, 1945 steps, 2.28 loss.*
+
+***Tags:** script, sitcom, television, arrested development*
+
+>*[The following is the transcript of the Season Five episode "Bees?". Memorable quotes are highlighted below.] *
+>
+>Michael: Wow. You’re... you’ve got a new look.
+>
+>George Michael: Yeah. I figured, if I was going to be in prison for some time, I might as well grow up while I did it.
+>
+>Michael: Oh. Well, that’s... good to hear. I mean, you know, prison can get pretty depressing. So, what have you been doing?
+>
+>George Michael: Well, they haven’t given me any work yet. But I do have a few friends who are there with me on different charges.
+>
+>Michael: Oh, yeah? What kind of charges?
+>
+>George Michael: Uh, possession and distribution of controlled substances.
+>
+>Michael: Oh. That sounds like fun.
+>
+>Narrator: And then he said it again.
+>
+>George Michael: Possession and distribution of controlled substances!
+>
+>Michael: Oh, yeah.
 
 #### [Disco Elysium](https://files.catbox.moe/9vm6qi.module)
 
