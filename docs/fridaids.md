@@ -33,6 +33,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 - [Rules](#rules)
 - [The Log](#the-log)
+- [The Friday of *Ridiculous Government Mandates*](#the-friday-of-ridiculous-government-mandates)
 - [The Friday of *Fucked Up Theme Parks*](#the-friday-of-fucked-up-theme-parks)
   - [*Clussy Park*](#clussy-park)
   - [*Sadie's Playland*](#sadies-playland)
@@ -269,13 +270,25 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 ***
 
+## The Friday of *Ridiculous Government Mandates*
+{: .center}
+
+Let's make prompts honouring the government, and their serving of the people through reasonable legislation.
+{: .center}
+
+*18th February, 2022*
+{: .center}
+
+
+***
+
 ## The Friday of *Fucked Up Theme Parks*
 {: .center}
 
 Let's make prompts in honor of Roller Coaster Tycoon.
 {: .center}
 
-*4th February, 2022*
+[*4th February, 2022*](#the-log)
 {: .center}
 
 ### *Clussy Park*
