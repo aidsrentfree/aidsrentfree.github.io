@@ -34,6 +34,10 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 - [Rules](#rules)
 - [The Log](#the-log)
 - [The Friday of *Ridiculous Government Mandates*](#the-friday-of-ridiculous-government-mandates)
+  - [*Penis Inspection Day*](#penis-inspection-day)
+  - [*Trickle Down*](#trickle-down)
+  - [*The State Expands*](#the-state-expands)
+  - [*A Matter of Freedom*](#a-matter-of-freedom)
 - [The Friday of *Fucked Up Theme Parks*](#the-friday-of-fucked-up-theme-parks)
   - [*Clussy Park*](#clussy-park)
   - [*Sadie's Playland*](#sadies-playland)
@@ -278,6 +282,78 @@ Let's make prompts honouring the government, and their serving of the people thr
 
 *18th February, 2022*
 {: .center}
+
+### *Penis Inspection Day*
+{: .center}
+
+*<https://prompts.aidg.club/3074>*
+{: .center}
+
+>*I had made sure I was the last to go today, so that there would be no interruptions for us. I'd even gone as far as take two pills of my father's viagra so nothing could stop her from discovering my youthful virility. Now, with a throbbing hard on in my pants, all I could do was wait, my only company the raunchy penis inspection day fantasies my classmates and I had shared in the line.*
+>
+>*I heard the door open behind me, and I turned my head to look. I had expected the nurse, but in her stead I was shocked to see our coach! Dread washed over me—was coach going to carry out the penis inspection? "Hi there, sport!" he greeted. "I see they saved the best for last, huh?" he continued with a wink.*
+
+You're all horned up and ready for penis inspection day, barely containing your excitement at getting molested by your hot school nurse, when suddenly you discover your inspection will be carried out by your coach instead!
+
+### *Trickle Down*
+{: .center}
+
+*<https://prompts.aidg.club/3075>*
+{: .center}
+
+![](https://files.catbox.moe/mfl1zt.jpg)
+{: .center}
+
+>*This measure was not without controversy at home: It was decried by Reagan's conservative voter base as undue economic intervention alongside degeneration of the moral fiber of the United States as well as taking flak from multiple corners for hypocrisy considering the ongoing War on Drugs waged under Reagan's presidency. However, Reagan persevered in championing the measures, touting the tangible economic benefits of this "futa initiative" (which would become popularly known as 'futanomics'), and in the process managed to convince congress and even his own political opposition.*
+
+In the '80s, everyone wants one thing on their lips: hot sticky girlcock. And the governments of the world are going to give it to them.
+
+### *The State Expands*
+{: .center}
+
+*<https://prompts.aidg.club/3077>*
+{: .center}
+
+![](https://files.catbox.moe/eezyxy.jpg)
+{: .center}
+
+>*After a short moment of silence, he addresses us. "The State provides! Comrades, you are very lucky indeed! Your village has been quite forthcoming in making sure the transition to integration goes smoothly, and as such, you are going to be privy to a very rare honor indeed! My name is Comrade Fedorov, and I am a member of the 3rd Support Battalion, the First Comrade's chosen ones. And I am here to tell you that you will be the founding members of the 1st Volunteer Support Battalion, a group that will eventually stand just as tall as the 3rd! Of course, we will have to build it up first, so you will at first be subordinated to the 3rd, but suffice it to say that you will soon be just as glorious!" he explains, conviction and intensity clear in his voice.*
+>
+>*There is a murmur between the ten of us. This does seem like a promising offer—after all, Vesnistan is gone, and getting on the State's good side as a collaborator would be a smart move. Still, this is all a bit quick. However, Fedorov doesn't give us a lot of opportunity to think about our doubts. "Now, I will make it clear that you will be the first to have a new mandate placed upon you. All of you will from now on live your lives in accordance with the First Comrade's teachings! And in order to make that clear, you will now take part in the 3rd's initiation. As page 33 of the First Comrade's teachings says: 'The first part of being a good comrade is knowing of the greatest love.' And the greatest love... is that between men of the State!" he says, and at first, we don't really get it.*
+
+When the war came to our village, all that it amounted to was a few tanks rolling in, one overeager guy getting shot, and the rest being informed as to how things would work from now on. But then, about two weeks later, a new group of soldiers rolled in, bringing with them some... strange new ideas.
+
+### *A Matter of Freedom*
+{: .center}
+
+*<https://prompts.aidg.club/3078>*
+{: .center}
+
+![](https://files.catbox.moe/wkbwqa.png)
+{: .center}
+
+>*"Boss, we good?" asked one of the girls, a short rat. Standing under a torch's weak light, her eyes sparkled like small shards of sun reflecting off a frozen river. "Let's go?" she prompted.*
+>
+>*"What do we know about this one?" The gray fox approaching her asked quietly.*
+>
+>*An older doe glanced over. "Two stories, one 'housepet' as far as we know." she replied, licking the air before she spat on the cobblestones. "Probably has her chained in the bedroom, as these sick fucks do."*
+>
+>*"Easy. In and out. Bash the pinkie, grab the girl and go. What we waiting for?" the rat snapped impatiently.*
+>
+>*"Patience, Maree. They may not be onto us yet, but I'm not losing any of you to overconfidence." Jainie gave a quick scritch under Maree's ear. "Remember what happened last time we got sloppy."*
+>
+>*The rat grudgingly fell silent, and Jainie turned to the fourth and final girl, a large brown bear. "Prisha, cover our retreat again, please. If anyone's looking for us, let's make sure they're disappointed."*
+>
+>*risha nodded, her ears perked up. "You got it!"*
+>
+>*The gray fox looked to the doe. "Reith, how's our time looking?"*
+>
+>*"We're good to go," she replied confidently. "We've been here for less than an hour since our last extraction."*
+
+The rebel leader then led them up to and around the nearest side of the large house. There was a candle burning inside, and they could hear faint moans from within. They kept quiet and circled around the corner of the building until they reached a window.
+Jainie stopped and gestured at the window with her chin. "Maree, you're up."*
+
+Anthro girls oppose a government mandate.
 
 
 ***
