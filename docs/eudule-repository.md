@@ -29,6 +29,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Natural Horror](#natural-horror) module.
 - Added [Alien](#alien) module.
 - Updated [Forgotten Realms](#forgotten-realms) module with the snazzy new image version.
+- Added [Forced Bi/Gay Femdom](#forced-bigay) module.
 
 (18th, February, 2022)
 
@@ -201,6 +202,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Circumstances](#circumstances)
       - [Age Difference](#age-difference)
       - [Dad on Son](#dad-on-son)
+      - [Forced Bi/Gay](#forced-bigay)
       - [Furry](#furry)
       - [Furry ENF](#furry-enf)
       - [Furry Incest](#furry-incest)
@@ -2088,6 +2090,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 [by Anon](https://arch.b4k.co/vg/thread/371872001/#371946509)
 
 *Here's my dad/son module except it's in first person in the perspective of the son because I wish I was molested by creepy older men as a kid.*
+
+##### [Forced Bi/Gay](https://files.catbox.moe/fmq55t.module)
+
+[by ???](https://arch.b4k.co/vg/thread/373223384/#373287564)
+
+*A forced bi module compiled from a bunch of literotica stories focusing on forced bi/gay femdom. Compiled from 55 selected stories on Literotica, trained to 100% using 5135 steps.*
 
 ##### [Furry](https://files.catbox.moe/nyj2p0.module)
 
