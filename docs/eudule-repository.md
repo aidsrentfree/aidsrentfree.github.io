@@ -23,6 +23,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(19th February, 2022)
+
+- Updated [Redwall](#redwall) with 'official' version.
+- Added [Natural Horror](#natural-horror) module.
+- Added [Alien](#alien) module.
+
 (18th, February, 2022)
 
 - Added [Arrested Development](#arrested-development) module.
@@ -87,20 +93,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Sword and Sorcery](#sword-and-sorcery) module.
 - Added [Elizabethan Fantasy](#elizabethan-fantasy) module.
 
-(11th February, 2022)
-
-- Added [A Song of Ice and Fire](#a-song-of-ice-and-fire) module.
-- Added [Cyberpunk (Annotated)](#cyberpunk-annotated) module.
-- Added [Clark Ashton Smith](#clark-ashton-smith) module.
-- Added [Kuroshio](#kuroshio) module.
-- Added [TheGoHt](#thegoht) module.
-- Added [Frocto](#frocto) module.
-- Added [SlutWriter](#slutwriter) module.
-- Added [ManyEyedHydra](#manyeyedhydra) module.
-- Added [Smutknight](#smutknight) module.
-- Added [Dragon Smut](#dragons) module.
-- Added [Harems](#harems) module.
-
 ***
 
 ## [Table of Contents](#modules)
@@ -137,6 +129,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - [Themes](#themes)
   - [Setting](#setting)
     - [Established](#established)
+      - [Alien](#alien)
       - [Beastars](#beastars)
       - [The Elder Scrolls (In-Game Texts)](#the-elder-scrolls-in-game-texts)
       - [Fallout: Equestria](#fallout-equestria)
@@ -177,6 +170,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Yinglets](#yinglets)
     - [Concepts](#concepts)
       - [LitRPG](#litrpg)
+      - [Natural Horror](#natural-horror)
       - [Tsundere Dialogue](#tsundere-dialogue)
     - [Styles](#styles)
       - [Cross-Genre, Oh My!](#cross-genre-oh-my)
@@ -552,6 +546,50 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 ### [Setting](#themes)
 
 #### [Established](#setting)
+
+##### [Alien](https://files.catbox.moe/ek6n5i.module)
+
+[by Basileus](https://discord.com/channels/836774308772446268/939922436500107314/944515939150462986)
+
+*The perfect organism. Its structural perfection is matched only by its hostility. Sci-fi action horror in the universe of the xenomorph.*
+
+***Training Corpus:** 11.8 MB, 13833 steps, 100% coverage, 2.79 loss*
+
+- Alien: The Official Movie Novelization by Alan Dean Foster
+- Aliens: The Official Movie Novelization by Alan Dean Foster
+- Alien 3: The Official Movie Novelization by Alan Dean Foster
+- Alien Resurrection: The Official Movie Novelization by A. C. Crispin
+- Alien: Covenant - The Official Movie Novelization by Alan Dean Foster
+- Aliens: Earth Hive by Steve Perry
+- Aliens: Nightmare Asylum by Steve Perry
+- Aliens: The Female War by Steve Perry and Stephani Perry
+- Aliens: Genocide by David Bischoff
+- Aliens: Alien Harvest by Robert Sheckley
+- Aliens: Rogue by Sandy Schofield
+- Aliens: Labyrinth by S. D. Perry
+- Aliens: Music of the Spears by Yvonne Navarro
+- Aliens: Berserker by S. D. Perry
+- Aliens: Original Sin by Michael Jan Friedman
+- Aliens: DNA War by Diane Carey
+- Aliens: Cauldron by Diane Carey
+- Aliens: Steel Egg by John Shirley
+- Aliens: Criminal Enterprise by Stephani Perry
+- Aliens: No Exit by B. K. Evenson
+- Alien: Out of the Shadows by Tim Lebbon
+- Alien: Sea of Sorrows by James A. Moore
+- Alien: River of Pain by Christopher Golden
+- Alien: The Cold Forge by Alex White
+- Alien: Echo by Mira Grant
+- Alien: Prototype by Tim Waggoner
+- Alien: Into Charybdis by Alex White
+- Aliens: Infiltrator by Weston Ochse
+- Aliens: Bug Hunt (anthology)
+
+>**A glistening black carapace slithered sensuously through the shadows of a narrow corridor.** The creature's long, sinuous body moved with fluid grace and it was difficult to believe that such an elegant form could be so deadly. But then again, beauty is in the eye of the beholder. And what one man finds beautiful another might find hideous—and vice versa.
+>
+>The alien paused at the corner where two corridors intersected. It turned its head slightly toward the left-hand passage and made no move to go down that way. Instead, it continued along the right side, pausing now and then as if listening for something. When nothing came from this direction either, it went on into the darkness ahead. There were sounds coming from there, too: muffled voices, footsteps echoing off metal walls. The alien did not stop but crept forward slowly, carefully, like a cat hunting mice.
+>
+>At last the alien reached the end of the passageway. Here it stopped once more, crouching low against the wall and holding itself motionless. Then, without warning, it launched itself across the gap between the two corridors and landed softly behind three men who had been talking quietly together when they heard the sound. One of them whirled around just as the alien struck him in the back of his neck with one powerful claw. He dropped instantly to the floor, dead before he hit. Another man tried to turn away from the attack but found himself caught by the claws that tore out his throat. Blood gushed forth in a crimson flood. The third man screamed and fell to the ground, trying desperately to roll aside from the grasping arms that pinned him to the decking.
 
 ##### [Beastars](https://files.catbox.moe/41bryl.rar)
 
@@ -1466,7 +1504,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *A small module about small creatures called [Yinglets](https://files.catbox.moe/pnu9ew.txt).*
 
-
 #### [Concepts](#elements)
 
 ##### [LitRPG](https://files.catbox.moe/3zyctr.module)
@@ -1494,6 +1531,22 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >For some reason, seeing a title like this filled me with pride.
 >
 >The title reminded me of how far I'd come since becoming trapped in this strange world. When I first found myself here, I felt like I was fighting against my fate, but now I could see things differently. The path forward may have been unclear at first, but as time passed and more things fell into place, I began to understand that this wasn't just some random game that would end soon; I was living in another reality, a fantasy land where anything was possible. That realization made all the difference. It gave me the courage to fight back. To take control of my own destiny.
+
+##### [Natural Horror](https://files.catbox.moe/odok15.module)
+
+[by Taboo](https://discord.com/channels/836774308772446268/939922436500107314/944421395746680852)
+
+*Trained on approximately 50 horror shorts and series that focus on sinister anomalies in the natural world.*
+
+***Tags:** Horror, nature, creepypasta*
+
+>**The deer looked...strange, like someone had tried to imagine the animal from memory.** It stood there, swaying slightly as it watched me intently, and I saw that its head was too large for its body: two huge antlers jutted up above its ears, and the legs were thin, almost skeletal with small hooves that clacked loudly on the hard earth of the forest floor.
+>
+>The eyes were very bright, and they did not blink, and it seemed to stare at me with an intensity that made my skin crawl.
+>
+>I froze in fear, unable to move, as this strange deer kept watching me and began walking slowly towards me.
+>
+>My brain, normally so quick, had shut down; all I could think about was running away from this thing, but I couldn't move my feet.
 
 ##### [Tsundere Dialogue](https://files.catbox.moe/abwkde.module)
 
@@ -2337,11 +2390,15 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Here it is! 100% trained on the Harry Potter data you sent.*
 
-##### [Redwall](https://files.catbox.moe/l9w22v.module)
+##### [Redwall](https://files.catbox.moe/qmv2tu.module)
 
-[by Anon](https://arch.b4k.co/vg/thread/371872001/#371950008)
+[by Basileus](https://discord.com/channels/836774308772446268/939922436500107314/944528659912486932)
 
-*Here is a redwall module with same shit as the sig one but at 45%.*
+[Anon's](https://arch.b4k.co/vg/thread/371872001/#371950008) [bootleg version](https://files.catbox.moe/l9w22v.module)
+
+*Children's fantasy chronicling the adventures of anthropomorphic animals in Redwall Abbey and Mossflower Wood. Mostly selections from Brian Jacques' series, trying not to double down too much on any particular elements (otherwise it would be all Martin the Warrior, all day, every day), plus a couple additions of similar books for variety.*
+
+***Training Corpus:** 5.3 MB, 6208 steps, 100% coverage, 2.94 loss*
 
 - Mossflower (Redwall) by Brian Jacques
 - The Bellmaker (Redwall) by Brian Jacques
@@ -2353,6 +2410,16 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Rakkety Tam (Redwall) by Brian Jacques
 - Nightshade City by Hilary Wagner
 - The Builders by Daniel Polansky
+
+>**The setting sun sent fingers of golden light** into the deep woods, making them sparkle and glow. A gentle breeze blew from the north to caress the trees as they swayed in a dance with each other's leaves. The air was sweetly scented by flowers that had bloomed only yesterday—the scent of violets mingled with the perfume of wild roses. It was a warm day for midwinter; the last rays of sunlight were brightening the treetops when Skipper saw a figure standing motionless on top of the highest hill. He squinted his eyes against the glare as he watched her gaze out over the forest, watching him watch her.
+>
+>"She looks like she's waiting for someone," said Cattail. "Or maybe it's just me."
+>
+>Skipper shrugged and smiled at the squirrelmaid. "You're right, Cattie, but who would be coming up here today?"
+>
+>Cattail looked down at the ground. She felt very uncomfortable being alone so far away from home. Her thoughts wandered back to the days when she'd lived happily in the Abbey gardens with Martin.
+>
+>"It must be one of our friends returning," Skipper declared. "We'll go meet 'em!"
 
 ##### [The Solar Cycle](https://files.catbox.moe/8wlhkz.module)
 
