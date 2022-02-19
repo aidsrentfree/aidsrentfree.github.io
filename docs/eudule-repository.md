@@ -661,7 +661,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 [by DrYazman](https://discord.com/channels/836774308772446268/939922436500107314/940950152544411689)
 
-*Update changes: SGreen has been kind enough to add an image to this module. I have attached the updated module to this message. The older version can be found [here](https://files.catbox.moe/6ftxhc.module)*
+***Update changes:** SGreen has been kind enough to add an image to this module. I have attached the updated module to this message. The older version can be found [here](https://files.catbox.moe/6ftxhc.module)*
 
 *I created this module with a view towards a diverse set of books that cover a variety of regions in Faerun. There's also two big D&D lore books that I converted by hand into training data. Basically I just really love the Forgotten Realms as a setting, so I wanted a big module. I hope you enjoy it!*
 
