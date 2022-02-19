@@ -33,6 +33,8 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Harry Potter](#harry-potter) module.
 - Added [Light Novel School Romantic Comedy](#ln-school-rom-com) module.
 - Added [The Dresden Files](#the-dresden-files) module.
+- Updated [Furry Character Generator](#furry-character-generator) module with "final" version.
+- Added [Kinky Friedman](#kinky-friedman) module.
 
 (17th February, 2022)
 
@@ -117,6 +119,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [P. G. Wodehouse](#p-g-wodehouse)
     - [Rod Serling](#rod-serling)
   - [Independent](#independent)
+    - [Kinky Friedman](#kinky-friedman)
   - [Intellectual](#intellectual)
     - [Antony Beevor](#antony-beevor)
   - [Online](#online)
@@ -412,6 +415,22 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 ***
 
 ### [Independent](#writers)
+
+#### [Kinky Friedman](https://files.catbox.moe/ujcd92.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/372882609/#372946605)
+
+*I retrained the Kinky Friedman module for Euterpe. Also went through the data set again first and fixed a few problems I found.*
+
+*Books included are: Greenwich Killing Time, A Case of Lone Star, When The Cat's Away, Frequent Flyer, Musical Chairs, Elvis Jesus & Coca-Cola, Armadillos & Old Lace, God Bless John Wayne, The Love Song of J. Edgar Hoover, Roadkill, Blast From The Past, Steppin On A Rainbow, Curse of the Missing Puppet Head, Ten Little New Yorkers, Spanking Watson, The Prisoner of Vandam Street, Kill Two Birds & Get Stoned, The Christmas Pig: A Fable, The Mile High Club*
+
+>The next day I was in my office when McGovern came by. The windows were open and the air smelled like a New York City garbage dump, but it felt good to be back in the city after so long on the road. There were signs of spring all around me – birds chirping outside the window, flowers blooming in the yard, and even the cat had stopped hissing at me. As he walked in, McGovern said, "I've got some news for you."
+>
+>"Any good?" I asked hopefully.
+>
+>"There's been a murder," he replied with a grim look.
+>
+>My heart sank. It seemed that every time I'd thought we'd gotten out of trouble, something else would rear up and throw itself into the fray. My hopes for a quiet little life were not coming true. In fact, there didn't seem to be any way I could ever get out from under the constant burden of trying to find a missing person or a murderer.
 
 ***
 
@@ -2879,17 +2898,24 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 >
 >INSTRUCTIONS: Preheat oven to 350°F (175°C). Set aside 2 tablespoons of the sugar and set aside to use later. In a medium saucepan combine the butter, cocoa, and water. Whisk continuously over low heat until it begins to thicken into a sauce-like consistency, about 10 minutes. Add the remaining sugar (about ¼ cup) and whisk constantly for another 3 minutes while bringing the temperature up to 240°F (115°C). At this point you want to remove from the heat but keep whisking, as it will continue to cook at this temperature, becoming thicker. When the temperature reaches 240°F add in the salt, the remaining sugar, and the egg and stir continuously with a wooden spoon until smooth. Remove from heat and let cool slightly. Place in fridge until cold. Once cooled whip the cream and spread atop your chilled pudding.
 
-### [Furry Character Generator](https://files.catbox.moe/9kvigl.module)
+### [Furry Character Generator](https://files.catbox.moe/yb31wv.module)
 
-[by Anon](https://arch.b4k.co/vg/thread/372882609/#372934160)
+[by Anon](https://arch.b4k.co/vg/thread/372882609/#373034630)
 
-*Second test of a character generator module. Now with 100kb of character bios.*
+*I'm calling it here. The "final" version of the character generator module.*
+
+*180kb, 87 fursonas, 3x as many as my first module*
+
+*Trained to 500%, 1030 steps.*
+
+*Average Loss: 3.0692, Last Loss: 3.0224*
 
 >\> What is the source text?
 
 *Furry character bios/ref sheets from Furaffinity/Inkbunny.*
 
-*I'd like to add more humans but don't know where I'd get human oc ref sheets with the info I want.*
+![](https://files.catbox.moe/ofmygs.jpg)
+{: .center}
 
 ### [The Guy Fieri Menu Item Generator Module](https://files.catbox.moe/gnq6d1.module)
 
