@@ -116,12 +116,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Kinky Friedman](#kinky-friedman)
   - [Intellectual](#intellectual)
     - [Antony Beevor](#antony-beevor)
+    - [Otis Eugene Ray](#otis-eugene-ray)
   - [Online](#online)
     - [Frocto](#frocto)
     - [Kuroshio](#kuroshio)
     - [ManyEyedHydra](#manyeyedhydra)
     - [Nebic](#nebic)
-    - [Otis Eugene Ray](#otis-eugene-ray)
     - [Phil Phantom](#phil-phantom)
     - [Prinnyd00d](#prinnyd00d)
     - [SlutWriter](#slutwriter)
@@ -285,7 +285,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - [Traditional](#traditional) - *Authors whose works have been published by an established publishing house.*
 - [Independent](#independent) - *Authors whose works are published, but not through an established publishing house*
 - [Intellectual](#intellectual) - *Authors whose works are non-fictional.*
-- [Online](#web-authors) - *Authors whose works are available on online creative platforms or are part of an internet medium.*
+- [Online](#online) - *Authors whose works are available on online creative platforms or are part of an internet medium.*
 
 ***
 
@@ -443,6 +443,18 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ***Tags:** 3rd Person War History, WW2*
 
+#### [Otis Eugene Ray](https://files.catbox.moe/oar7w8.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/372230097/#372307202)
+
+[500% coverage version](https://files.catbox.moe/3oo689.module)
+
+*I wasted some steps training a module on the contents of timecube.com so that Gene Ray can shitpost forever*
+
+*200% trained.*
+
+*(500% trained generated [the post](https://arch.b4k.co/vg/thread/372230097/#372299662))*
+
 ***
 
 ### [Online](#writers)
@@ -476,18 +488,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *Here's a module trained on the works of nebic [(storieswithnebic)](https://storieswithnebic.wordpress.com/)*
 
 *2805 steps, 100%*
-
-#### [Otis Eugene Ray](https://files.catbox.moe/oar7w8.module)
-
-[by Anon](https://arch.b4k.co/vg/thread/372230097/#372307202)
-
-[500% coverage version](https://files.catbox.moe/3oo689.module)
-
-*I wasted some steps training a module on the contents of timecube.com so that Gene Ray can shitpost forever*
-
-*200% trained.*
-
-*(500% trained generated [the post](https://arch.b4k.co/vg/thread/372230097/#372299662))*
 
 #### [Phil Phantom](https://files.catbox.moe/bnmtzt.module)
 
