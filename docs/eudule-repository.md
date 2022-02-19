@@ -32,6 +32,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Furdrone](#dronifurcation) module.
 - Added [Harry Potter](#harry-potter) module.
 - Added [Light Novel School Romantic Comedy](#ln-school-rom-com) module.
+- Added [The Dresden Files](#the-dresden-files) module.
 
 (17th February, 2022)
 
@@ -222,6 +223,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Altered Carbon](#altered-carbon)
       - [Discworld Watch Series](#discworld-watch-series)
       - [Discworld Witch Series](#discworld-witch-series)
+      - [The Dresden Files](#the-dresden-files)
       - [Harry Potter](#harry-potter)
       - [Redwall](#redwall)
       - [The Solar Cycle](#the-solar-cycle)
@@ -2268,6 +2270,45 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >Equal Rites, Wyrd Sisters, Witches Abroad, Lords and Ladies, Maskerade, Carpe Jugulum, A Hat Full of Sky<br>
 >Trained to 38% at 1000 steps<br>
 >Yes I included A Hat Full of Sky fight me
+
+##### [The Dresden Files](https://files.catbox.moe/5d1hrf.module)
+
+[by Basileus](https://discord.com/channels/836774308772446268/939922436500107314/944393824292184074)
+
+*Urban Fantasy in Jim Butcher's Dresden Files universe. Trained on the complete series to date (books 1-17), plus selected short fiction with female perspective characters. No name swapping has been done, so this will obviously default to Harry's perspective and canon characters (prompt, tag, bias, or ban as appropriate if that's not what you want). Special thanks to Yinseng.*
+
+***Training Corpus:** 12 MB, 14076 steps, 100% coverage, 2.49 loss*
+
+- Storm Front by Jim Butcher
+- Fool Moon by Jim Butcher
+- Grave Peril by Jim Butcher
+- Summer Knight by Jim Butcher
+- Death Masks by Jim Butcher
+- Blood Rites by Jim Butcher
+- Dead Beat by Jim Butcher
+- Proven Guilty by Jim Butcher
+- White Night by Jim Butcher
+- Small Favor by Jim Butcher
+- Turn Coat by Jim Butcher
+- Changes by Jim Butcher
+- Ghost Story by Jim Butcher
+- Cold Days by Jim Butcher
+- Skin Game by Jim Butcher
+- Peace Talks by Jim Butcher
+- Battle Ground by Jim Butcher
+- Aftermath by Jim Butcher
+- Bombshells by Jim Butcher
+- Zoo Day by Jim Butcher
+
+>**I screamed as the scintillating light poured forth from my outstretched hand**, and I fell to one knee. My eyes burned with it. The pain was blinding, but that wasn't what made me scream. It was a feeling of utter helplessness—the same kind you get when someone has taken control of your body without asking permission or telling you how they're going to use it. You know that something is happening, but there's nothing you can do about it. And all too often in life, people who take such liberties are doing so for their own amusement rather than yours.
+>
+>The power flowed through me like an ocean current, overwhelming everything else inside my head except for the simple need to survive. Every muscle spasmed in unison, and I felt myself convulse as if I'd been hit by a train. There were only two things left inside my mind: the desperate need to keep breathing and the urge to throw up. They both battled each other desperately, until finally one won out over the other. I gasped in air while simultaneously trying not to hurl on the pavement at my feet. Then the spell was done, and I slumped back against the wall, panting hard.
+>
+>My vision cleared slowly, as did my hearing. When it came clear enough that I could see where I was standing again, I saw Murphy sitting beside me. She had her knees drawn up and was hugging them tightly around herself, rocking gently. Her face was white with fear. "Oh," she said softly.
+>
+>"You okay?" I asked her.
+>
+>She nodded, but didn't look at me.
 
 ##### [Harry Potter](https://files.catbox.moe/f65mhi.module)
 
