@@ -23,6 +23,10 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(20th February, 2022)
+
+- Added [Video Games](#video-games) module.
+
 (19th February, 2022)
 
 - Updated [Redwall](#redwall) with 'official' version.
@@ -30,6 +34,10 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Alien](#alien) module.
 - Updated [Forgotten Realms](#forgotten-realms) module with the snazzy new image version.
 - Added [Forced Bi/Gay Femdom](#forced-bigay) module.
+- Added [Light Novel Blurb Generator](#light-novel-blurb-generator) module.
+- Added [Discworld](#discworld) module.
+- Added [Rural Horror](#in-the-fields) module.
+- Added [Eroguro](#eroguro) module.
 
 (18th, February, 2022)
 
@@ -89,12 +97,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Updated [Harems](#harems) module with permanent link.
 - Added [The Guy Fieri Menu Item Generator](#the-guy-fieri-menu-item-generator-module) module.
 
-(12th February, 2022)
-
-- Updated [Dragon Smut](#dragons) module.
-- Added [Sword and Sorcery](#sword-and-sorcery) module.
-- Added [Elizabethan Fantasy](#elizabethan-fantasy) module.
-
 ***
 
 ## [Table of Contents](#modules)
@@ -149,6 +151,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Cyberpunk (Annotated)](#cyberpunk-annotated)
       - [Desert Fantasy and Folklore](#desert-fantasy-and-folklore)
       - [Elizabethan Fantasy](#elizabethan-fantasy)
+      - [In The Fields](#in-the-fields)
       - [LN School Rom-Com](#ln-school-rom-com)
       - [Oriental Fantasy](#oriental-fantasy)
       - [Poetic Fantasy](#poetic-fantasy)
@@ -174,6 +177,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [LitRPG](#litrpg)
       - [Natural Horror](#natural-horror)
       - [Tsundere Dialogue](#tsundere-dialogue)
+      - [Video Games](#video-games)
     - [Styles](#styles)
       - [Cross-Genre, Oh My!](#cross-genre-oh-my)
       - [Lyrical Writing](#lyrical-writing)
@@ -202,6 +206,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Circumstances](#circumstances)
       - [Age Difference](#age-difference)
       - [Dad on Son](#dad-on-son)
+      - [Eroguro](#eroguro)
       - [Forced Bi/Gay](#forced-bigay)
       - [Furry](#furry)
       - [Furry ENF](#furry-enf)
@@ -221,6 +226,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Otto Penzler's Big Book of Ghost Stories](#otto-penzlers-big-book-of-ghost-stories)
     - [Modern](#modern)
       - [Altered Carbon](#altered-carbon)
+      - [Discworld](#discworld)
       - [Discworld Watch Series](#discworld-watch-series)
       - [Discworld Witch Series](#discworld-witch-series)
       - [The Dresden Files](#the-dresden-files)
@@ -264,6 +270,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Creative Cooking](#creative-cooking)
   - [Furry Character Generator](#furry-character-generator)
   - [The Guy Fieri Menu Item Generator Module](#the-guy-fieri-menu-item-generator-module)
+  - [Light Novel Blurb Generator](#light-novel-blurb-generator)
   - [Michael Jackson Lyrics](#michael-jackson-lyrics)
 
 ***
@@ -1026,6 +1033,20 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >
 >A heart that never is sad.
 
+##### [In The Fields](https://files.catbox.moe/fdw86z.module)
+
+[by Taboo](https://discord.com/channels/836774308772446268/939922436500107314/944713818687275019)
+
+*Trained on 70+ short stories revolving around rural horror and small towns.*
+
+***Tags:** Horror, creature feature, small towns.*
+
+>**I've hearing strange sounds in the wheat field outside of my family's barn lately,** and I couldn't figure out what was causing them. So last night after work I decided to go investigate.
+>
+>As I approached the field, I heard a faint noise coming from the direction of my barn. I assumed it must be a wild animal like a fox or a skunk, and walked towards the sound with my flashlight on. 
+>
+>I turned the corner of the barn and immediately froze when I saw it.  The creature had been crawling up the side of the barn when it finally noticed me, and scrambled quickly down to the ground, disappearing into the wheat field.
+
 ##### [LN School Rom-Com](https://files.catbox.moe/2hsi5k.module)
 
 [by shar](https://discord.com/channels/836774308772446268/939922436500107314/944329644637827102)
@@ -1571,6 +1592,45 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ***Tags:** Character, Dialogue, Waifu, Romance, Anime, Manga, Trope*
 
+##### [Video Games](https://files.catbox.moe/26h0nh.module)
+
+[by Zaltys](https://discord.com/channels/836774308772446268/939922436500107314/944861621640110111)
+
+*Another test module that I might as well publish. Was trained on a random collection of video gaming data, back when the training had issues, to see if it was working right. 49.5K steps.*
+
+*Not sure what you can with this, but here's a few uses:*
+
+- Check what the AI knows about various games, by using a Game: (name) prompt.
+- Generate summaries and reviews for games that don't exist, using same prompt as above with a made up title.
+- Generate weird crossovers. For instance, I had Kratos (God of War) appearing as a Spartan (Halo) in one quick play.
+
+***Loss:** 2.69, decent for such a varied mix.*
+
+***Tags:** video games, retro games*
+
+>**Game: No Man's Sky**
+>
+>Genre: Space Exploration Simulator
+>
+>Release Date: August 9, 2016
+>
+>Developer: Hello Games
+>
+>Publisher: Sony Interactive Entertainment
+>
+>Format: PS4/PC (tested)
+>
+>Rating: ★★★☆
+>
+>No Man's Sky may not be the space exploration game players were hoping for. It is, however, a very pretty sandbox—and, in places, it can be surprisingly compelling.
+>
+>The universe has been described as "infinite" and with good reason. After the launch of the game in 2016, many players were underwhelmed by its seemingly empty expanses; some even considered it to be a scam. In reality, those huge numbers are an effect of how the game generates planets and other celestial bodies. It does this in batches via procedural generation, creating new worlds that appear unique, while also ensuring that everything in the galaxy seems like it has been shaped by something other than man. The only drawback to this design is the sheer size of the cosmos, so you will have plenty of time to wonder, "Is there a point?"
+>
+>It's worth noting that this game is all about discovery and not really about plot or characters. You play as a nameless avatar who begins their journey in the same way as everyone else: by stepping out into space from a planet where they started, and slowly making your way across the galaxy, gathering resources and trading them for money, which you then use to purchase bigger vessels, weapons, and upgrades.
+>
+
+*(...looks like Euterpe got the exact release date right somehow.)*
+
 #### [Styles](#elements)
 
 ##### [Cross-Genre, Oh My!](https://files.catbox.moe/um8rft.module)
@@ -2091,6 +2151,21 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Here's my dad/son module except it's in first person in the perspective of the son because I wish I was molested by creepy older men as a kid.*
 
+##### [Eroguro](https://files.catbox.moe/1zqipv.module)
+
+[by the](https://discord.com/channels/854479693503660032/870494065446248458/944676129455890472)
+
+*trained on r/guroerotica, literotica erotic horror and a couple of hp lovecraft stories.*
+
+***Tags:** Guro, Extreme, Noncon, Erotic-Horror, Tentacles, Demons*
+
+***Source Material:** 1,37MB, ~1592 steps, 2.6707802269345238 Average loss*
+
+*Trained with 10500 steps*
+
+*Yes.*
+
+
 ##### [Forced Bi/Gay](https://files.catbox.moe/fmq55t.module)
 
 [by ???](https://arch.b4k.co/vg/thread/373223384/#373287564)
@@ -2323,6 +2398,19 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >'Yeah, good point.' I shook my head. 'Maybe there was something else going on. Maybe this wasn't the Hand of God.'
 >
 >'So who knows what the hell this is?'
+
+##### [Discworld](https://files.catbox.moe/q4c2n3.module)
+
+[by Spoder](https://discord.com/channels/836774308772446268/939922436500107314/944710502653755522)
+
+*This is my first stab at the entire Discworld series.  I'm not 100% satisfied with the output from this module, but I'm releasing it in case anyone wants it (and because I used steps on it). I and others have had better results with smaller and more focused subsets of Pratchett books but I'll probably keep trying with the full set as well.*
+
+*Trained to 29.38% with 6791 steps.*
+
+***Tags:** Fantasy, comedy, satire*
+
+***Source Material:** Trained on all 41 canon Discworld novels, just shy of 1.5M words.  The training data is about an even split between paragraph/line break and fixed-length line/line break and this is often reflected in the output.  I'll keep working at a better training set.*
+
 
 ##### [Discworld Watch Series](https://files.catbox.moe/2om6zv.zip)
 
@@ -3007,6 +3095,37 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 
 ![](https://files.catbox.moe/uhpidv.png)
 {: .center}
+
+### [Light Novel Blurb Generator](https://files.catbox.moe/g4v1n5.module)
+
+[by Hanner Lambda](https://discord.com/channels/836774308772446268/939922436500107314/944674632231972875)
+
+*A slightly silly module created to generate titles and descriptions for light novel series.*
+
+*Training: Trained for 360 steps (300%) on all of the titles and blurbs from a popular light novel publisher's catalog.*
+
+>**Title: That Time I Got Reincarnated As A Novel Writing Neural Network**
+>
+>**Synopsis:**
+>
+>When a young man finds himself reincarnated as an AI, he quickly discovers that this is no ordinary world. The people of this planet are so obsessed with novels and literature that they've created several artificial intelligences to help them write their stories! But what happens when one of these artificial intelligences decides to put down his pen...and pick up a sword?
+>
+>\*\*\*
+>
+>Title: The Dragon God's Evil Twin Was Summoned By My Little Sister! (Sister!)
+>
+>Synopsis:
+>
+>“I want you to do something for me. I need you to go over there and defeat the dragon god in my place.” So said her brother, a high school boy from another world. Her response was simple: "Don't worry about it." What did she mean by that...? His sister had been kidnapped by a huge monster called a Dragon Lord, and her only hope of escape was to summon a mighty Dragon God from another world to fight on her behalf. But would that even work? And how could a high schooler defeat such a powerful creature?!
+>
+>\*\*\*
+>
+>Title: The World Is Full Of Monsters! (And They're All Coming For Me)
+>
+>Synopsis:
+>
+>It all started when I woke up with amnesia in a mysterious forest... Or at least, that's what I thought. Turns out, I actually died, but when I came back to life I found myself in some other dimension full of monsters! At first, I couldn't tell which way was up or down, but then I met a man who gave me a magic item that made my head clear right away. Unfortunately, it also showed me the true form of the giant demon that killed me—but hey, it's not like I had much of a choice, now did I?
+***
 
 ### [Michael Jackson Lyrics](https://files.catbox.moe/39ix7t.module)
 
