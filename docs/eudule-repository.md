@@ -26,6 +26,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 (20th February, 2022)
 
 - Added [Video Games](#video-games) module.
+- Added [Star Trek - The Next Generation](#star-trek-the-next-generation) module.
 
 (19th February, 2022)
 
@@ -143,6 +144,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Library of Ruina](#library-of-ruina)
       - [Sailor Moon](#sailor-moon)
       - [A Song of Ice and Fire](#a-song-of-ice-and-fire)
+      - [Star Trek: The Next Generation](#star-trek-the-next-generation)
       - [Star Wars](#star-wars)
       - [Vampire: The Masquerade](#vampire-the-masquerade)
       - [Warrior Cats: Universe](#warrior-cats-universe)
@@ -788,6 +790,18 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - A Dance With Dragons- George R.R Martin
 
 ***Usage:** This replicates the general writing of the ASOIAF universe, so you may insert yourself as any character from within the books or try making your own. I would recommend complementing this module with a good lorebook about ASOIAF for the best experience*
+
+##### [Star Trek: The Next Generation](https://files.catbox.moe/70vpir.module)
+
+[by DrYazman](https://discord.com/channels/836774308772446268/939922436500107314/945035581795213372)
+
+*Trained to 105% with 8778 steps by me using 7.15 MB data. The source material is a selection of 19 Star Trek TNG novels, all written in third person. Training data was provided by Sverd, except for 1 novel selected by me which replaced a duplicate in the original corpus. I have also done significant manual cleaning on my own to fix it up and also cleared out the issues with capitalisation in the old module.*
+
+*Description: Ever wanted to insert your OC into the TNG universe and embark on adventures to strange new worlds? Give Commander Riker a wedgie in front of the entire bridge crew. Tell Counsellor Troi that she deserves a promotion to Captain Obvious. Bully Wesley Crusher. Help Geordi La Forge find his way out of inceldom. Teach Lieutenant Commander Worf about toxic masculinity. Start a bar fight with Chief O'Brien. The options are limitless!*
+
+***Tags:** Space, Sci-Fi, Star Trek, Future, TNG*
+
+*Credit: This is based on a Sigurd module created by Sverd which can be found [here](https://discord.com/channels/836774308772446268/870449646391156776/880913671310684250)
 
 ##### [Star Wars](https://files.catbox.moe/0geqtq.module)
 
@@ -2848,7 +2862,7 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 
 *Euterpe model trained on transcriptions of Doctor Who seasons 2, 3, and 4, featuring the 10th Doctor and his companions.*
 
-***Source:** http://www.chakoteya.net/DoctorWho/*
+***Source:** <http://www.chakoteya.net/DoctorWho/>*
 
 ***Tags:** Sci-fi, Doctor Who*
 
