@@ -27,16 +27,16 @@ With the debut of modules for Euterpe comes a need to branch out from this one p
 ## **CHOOSE YOUR CHARACTER**
 {: .center}
 
-[**EUTWERP**](https://aidsrentfree.github.io/modules/euterpe)
+**EUTWERP**
 {: .center}
 
-![Euterpe](https://files.catbox.moe/pe64m1.gif)
+[![Euterpe](https://files.catbox.moe/pe64m1.gif)](https://aidsrentfree.github.io/modules/euterpe)
 {: .center}
 
-[**SIGMUND**](https://aidsrentfree.github.io/modules/sigurd)
+**SIGMUND**
 {: .center}
 
-![Sigurd](https://files.catbox.moe/tzp1sk.jpg)
+[![Sigurd](https://files.catbox.moe/tzp1sk.jpg)](https://aidsrentfree.github.io/modules/sigurd)
 {: .center}
 
 ***

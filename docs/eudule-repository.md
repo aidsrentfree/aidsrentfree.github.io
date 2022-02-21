@@ -23,6 +23,10 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(21st February, 2022)
+
+- Added [Jane Austen](#jane-austen) module.
+
 (20th February, 2022)
 
 - Added [Video Games](#video-games) module.
@@ -74,30 +78,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Jorge Luis Borges](#jorge-luis-borges) module.
 - Added [Antony Beevor](#antony-beevor) module.
 
-(14th February, 2022)
-
-- Added [Melee Combat](#melee-combat) module.
-- Added [Blood Meridian](#blood-meridian-or-the-evening-redness-in-the-west) module.
-- Added [The Elder Scrolls In-Game Texts](#the-elder-scrolls-in-game-texts) module.
-- Added [Sergals](#sergals) module.
-- Added [Steins;Gate](#steinsgate) module.
-- Added [Kurisu Dialogue](#kurisu-dialogue)
-
-(13th February, 2022)
-
-- Added [Annotated Tech](#annotated-tech) module.
-- Added [Lyrical Writing](#lyrical-writing) module.
-- Added [Wildlife](#wildlife) module.
-- Added [Russian Folktales and Fantasy](#russian-folklore--fantasy) module.
-- Added [World of Pokemon](#world-of-pokemon) module.
-- Added [timecube.com](#otis-eugene-ray) module.
-- Added [My Very Own Lith](#my-very-own-lith) module.
-- Added [Of Men and Dragons](#men-and-dragons) module.
-- Added [Eva3](#nonconsensual-exhibitonism) module.
-- Added [Assorted Mind Control](#assorted-mind-control) module.
-- Updated [Harems](#harems) module with permanent link.
-- Added [The Guy Fieri Menu Item Generator](#the-guy-fieri-menu-item-generator-module) module.
-
 ***
 
 ## [Table of Contents](#modules)
@@ -112,6 +92,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [George Orwell](#george-orwell)
     - [Italo Calvino](#italo-calvino)
     - [J. R. R. Tolkien](#j-r-r-tolkien)
+    - [Jane Austen](#jane-austen)
     - [Jorge Luis Borges](#jorge-luis-borges)
     - [P. G. Wodehouse](#p-g-wodehouse)
     - [Rod Serling](#rod-serling)
@@ -383,6 +364,14 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *This is a retrain of an existing module that was considerably cleaned up, trained to one epoch. There are some odd formatting issues with quotes but the issues are considerably less than the old module.*
 
 ***Final Loss:** 2.64*
+
+#### [Jane Austen](https://files.catbox.moe/ef6b0m.module)
+
+[200% coverage version](https://files.catbox.moe/235own.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/373430170/#373495407)
+
+*Module trained on All of Jane Austen's books. As promised earlier.*
 
 #### [Jorge Luis Borges](https://files.catbox.moe/yekhfs.module)
 
