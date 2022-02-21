@@ -26,6 +26,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 (21st February, 2022)
 
 - Added [Jane Austen](#jane-austen) module.
+- Added [Back Alleys (Gay)](#back-alleys-gay) module.
 
 (20th February, 2022)
 
@@ -188,6 +189,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Vore](#vore)
     - [Circumstances](#circumstances)
       - [Age Difference](#age-difference)
+      - [Back Alleys (Gay)](#back-alleys-gay)
       - [Dad on Son](#dad-on-son)
       - [Eroguro](#eroguro)
       - [Forced Bi/Gay](#forced-bigay)
@@ -2147,6 +2149,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *Age difference module. Excels at milfs with expected "imperfections" like grey streaks, a little sag, extra curves, extra hair etc.*
 
 *Any compatibility with things like /ss/ and mother/son incest is totally incidental and not intended.*
+
+##### [Back Alleys (Gay)](https://files.catbox.moe/4piezm.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/373506926/#373523097)
+
+*Hello, I made very homo module that is themed around roaming dangerous city streets at night. It isn't perfect since it was hard to find good stories for this theme. The outputs may also be more horny than dangerous but maybe the gays in here would like that.*
 
 ##### [Dad on Son](https://files.catbox.moe/vl593y.module)
 
