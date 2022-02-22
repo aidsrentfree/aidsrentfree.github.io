@@ -1847,7 +1847,9 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Don Delillo
 - William Burroughs
 - Herman Melville
-- William Faulkner (5.2MB, 5818 steps 25.93% coverage Average Loss: 3.1939)
+- William Faulkner
+
+*(5.2MB, 5818 steps 25.93% coverage Average Loss: 3.1939)*
 
 *As stated, this module is an experiment, one with results I didn't necessarily try to foresee. I think the more experimental/difficult lit I've thrown in leads to some incoherent generations on weirder settings, but it sure can get colorful. As I suppose you would with a lot of modules, try to use presets that allow more creativity. Be warned that some of the sources I've used contain vulgar material and sometimes focus on dark subject matters. If that kind of stuff bothers you, you might want to download some other modules instead.*
 
