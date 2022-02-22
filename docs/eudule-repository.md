@@ -27,6 +27,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 - Added [Spice and Wolf](#spice-and-wolf) module
 - Added [DOOM](#doom) module.
+- Added [All The Shit I Wrote](#all-the-shit-i-wrote) module.
 
 
 (21st February, 2022)
@@ -163,6 +164,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Tsundere Dialogue](#tsundere-dialogue)
       - [Video Games](#video-games)
     - [Styles](#styles)
+      - [All The Shit I Wrote](#all-the-shit-i-wrote)
       - [Cross-Genre, Oh My!](#cross-genre-oh-my)
       - [Lyrical Writing](#lyrical-writing)
       - [The Manwhore Module](#the-manwhore-module)
@@ -1644,6 +1646,16 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *(...looks like Euterpe got the exact release date right somehow.)*
 
 #### [Styles](#elements)
+
+##### [All The Shit I Wrote](https://files.catbox.moe/s8auby.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/373644395/#373702801)
+
+*Well, fuck, I guess since you asked, I might as well post it, but don't expect miracles.*
+
+*So yeah, I guess you can call this version 3 of gayanon's "All The Shit I Wrote" module, trained on just under 1 MB of text that I've penned over the years and collected. In my experience, there are two things notable about it: A predisposition towards male characters (go figure) and baseball. I don't even know if it gets my writing style because I of course don't fucking know my own writing style, it's just how I write naturally.*
+
+*There is a part of me that is genuinely curious if there's some sort of other notable thing about it, but I doubt it. The subject matter across the training material is very diluted.*
 
 ##### [Cross-Genre, Oh My!](https://files.catbox.moe/um8rft.module)
 
