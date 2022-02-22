@@ -23,6 +23,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(22nd February, 2022)
+
+- Added [Spice and Wolf](#spice-and-wolf) module
+- Added [DOOM](#doom) module.
+
+
 (21st February, 2022)
 
 - Added [Jane Austen](#jane-austen) module.
@@ -72,13 +78,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Golden Heart Trilogy](#golden-heart-trilogy) module.
 - Added [SCP](#scp-foundation) module.
 
-(15th February, 2022)
-
-- Added [Fate/Zero](#fatezero) module.
-- Added [Tsundere Dialogue](#tsundere-dialogue) module.
-- Added [Jorge Luis Borges](#jorge-luis-borges) module.
-- Added [Antony Beevor](#antony-beevor) module.
-
 ***
 
 ## [Table of Contents](#modules)
@@ -118,6 +117,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Established](#established)
       - [Alien](#alien)
       - [Beastars](#beastars)
+      - [DOOM](#doom)
       - [The Elder Scrolls (In-Game Texts)](#the-elder-scrolls-in-game-texts)
       - [Fallout: Equestria](#fallout-equestria)
       - [Fire Emblem: Awakening](#fire-emblem-awakening)
@@ -229,6 +229,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Fate/Zero](#fatezero)
     - [Highschool DxD (1-10)](#highschool-dxd-1-10)
     - [The Saga of Tanya the Evil](#the-saga-of-tanya-the-evil)
+    - [Spice and Wolf](#spice-and-wolf)
     - [Vampire Hunter D](#vampire-hunter-d)
   - [Text Games](#text-games)
     - [My Very Own Lith](#my-very-own-lith)
@@ -599,6 +600,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 [by Anon](https://arch.b4k.co/vg/thread/371544232/#371575535)
 
 *Beastars module trained at 3000 steps.*
+
+##### [DOOM](https://files.catbox.moe/nuoulw.module)
+
+[by](https://arch.b4k.co/vg/thread/373644395/#373675734) [Anons](https://arch.b4k.co/vg/thread/373644395/#373699907)
+
+*I was reminded these exist, and since it only took me like 15 minutes I decided to clean them. The Doom 3 books have weird capitals on their chapter breaks though, and I didn't care enough to mess with that.*
 
 ##### [The Elder Scrolls (In-Game Texts)](https://files.catbox.moe/dui19e.module)
 
@@ -2689,6 +2696,16 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 ***Sources:** Saga of Tanya the Evil - Volumes 1-8, Carlo Zen, Yen Press Translation  (4.3mb, 4482 steps, 88.88% coverage, 2.8934 loss)*
 
 *I suggest downbiasing newlines, Carlo Zen uses a lot of them, as you can see below. Reminder that the narrator considers Tanya as a different person than himself, even though they are the same people.*
+
+#### [Spice and Wolf](https://files.catbox.moe/gyif5e.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/373644395/#373655469)
+
+*I realize there's a default Spice and Wolf module, but I couldn't get it to do what I wanted previously with Sigurd so I trained my own.*
+
+*Theirs seems to work fine now, but I wasn't using my steps for anything so I retrained mine for Euterpe.*
+
+*Figured I'd post it here if anyone wants to compare to the other one. Trained at 80% for ~4200 steps on volumes 1-17, though I didn't include the side colors short stories.*
 
 #### [Vampire Hunter D](https://files.catbox.moe/2sa047.module)
 
