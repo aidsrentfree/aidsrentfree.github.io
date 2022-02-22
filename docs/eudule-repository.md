@@ -801,7 +801,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ***Tags:** Space, Sci-Fi, Star Trek, Future, TNG*
 
-*Credit: This is based on a Sigurd module created by Sverd which can be found [here](https://discord.com/channels/836774308772446268/870449646391156776/880913671310684250)
+*Credit: This is based on a Sigurd module created by Sverd which can be found [here](https://discord.com/channels/836774308772446268/870449646391156776/880913671310684250)*
 
 ##### [Star Wars](https://files.catbox.moe/0geqtq.module)
 
