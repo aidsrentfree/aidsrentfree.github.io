@@ -23,12 +23,15 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(23rd February, 2022)
+
+- Added [/aids/](#aids).
+
 (22nd February, 2022)
 
 - Added [Spice and Wolf](#spice-and-wolf) module
 - Added [DOOM](#doom) module.
 - Added [All The Shit I Wrote](#all-the-shit-i-wrote) module.
-
 
 (21st February, 2022)
 
@@ -71,13 +74,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Vampire: The Masquerade](#vampire-the-masquerade) module.
 - Added [Speculative Science Fiction](#speculative-science-fiction) module.
 - Added [Furry Character Generator](#furry-character-generator) module.
-
-(16th February, 2022)
-
-- Added [Phil Phantom](#phil-phantom) module.
-- Added [storieswithnebic](#nebic) module.
-- Added [Golden Heart Trilogy](#golden-heart-trilogy) module.
-- Added [SCP](#scp-foundation) module.
 
 ***
 
@@ -255,6 +251,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Kurisu Dialogue](#kurisu-dialogue)
     - [Seinfeld](#seinfeld)
 - [Utilities](#utilities)
+  - [/aids/](#aids)
   - [Creative Cooking](#creative-cooking)
   - [Furry Character Generator](#furry-character-generator)
   - [The Guy Fieri Menu Item Generator Module](#the-guy-fieri-menu-item-generator-module)
@@ -2197,7 +2194,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Yes.*
 
-
 ##### [Forced Bi/Gay](https://files.catbox.moe/fmq55t.module)
 
 [by ???](https://arch.b4k.co/vg/thread/373223384/#373287564)
@@ -3073,6 +3069,20 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 
 ## [Utilities](#modules)
 {: .center}
+
+### [/aids/](https://files.catbox.moe/dcdapw.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/373772638/#373776570)
+
+*Here it is.*
+
+*Forgot to add, trained on about 10MB of /aids/ threads with 5k steps (~40% coverage).*
+
+*Here's [the training data and the scripts](https://files.catbox.moe/xb5kyd.zip) I wrote to scrape/clean the data as well. Disclaimer: I have no idea what I'm doing with python.*
+
+*It's pretty much total nonsense but it can spit out some amusing stuff with enough retries. I'm not sure the filenames were worth it, they probably clutter up the token probabilities and cause loops occasionally.*
+
+*I think this could be pretty good if I was more selective about the source data and massaged it a bit better.*
 
 ### [Creative Cooking](https://files.catbox.moe/scmge5.module)
 
