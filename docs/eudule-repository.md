@@ -26,6 +26,10 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 (23rd February, 2022)
 
 - Added [/aids/](#aids).
+- Added [Magical Girls - Battle Royale](#magical-girls---battle-royale) module.
+- Added [Magical Girls - Romance](#magical-girls---romance) module.
+- Added [Hamilton: An American Musical](#hamilton-an-american-musical) module.
+- Added [Oregairu](#oregairu) module.
 
 (22nd February, 2022)
 
@@ -150,6 +154,8 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Cynthia (Pokemon)](#cynthia-pokemon)
       - [Female Wrestling](#female-wrestling)
       - [Gryphons](#gryphons)
+      - [Magical Girls - Battle Royale](#magical-girls---battle-royale)
+      - [Magical Girls - Romance](#magical-girls---romance)
       - [Male Prisons](#male-prisons)
       - [Melee Combat](#melee-combat)
       - [Wildlife](#wildlife)
@@ -226,6 +232,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [A Certain Magical Index (1-22)](#a-certain-magical-index-1-22)
     - [Fate/Zero](#fatezero)
     - [Highschool DxD (1-10)](#highschool-dxd-1-10)
+    - [Oregairu](#oregairu)
     - [The Saga of Tanya the Evil](#the-saga-of-tanya-the-evil)
     - [Spice and Wolf](#spice-and-wolf)
     - [Vampire Hunter D](#vampire-hunter-d)
@@ -248,6 +255,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [10th Doctor Transcripts](#10th-doctor-transcripts)
     - [Arrested Development](#arrested-development)
     - [Disco Elysium](#disco-elysium)
+    - [Hamilton: An American Musical](#hamilton-an-american-musical)
     - [Kurisu Dialogue](#kurisu-dialogue)
     - [Seinfeld](#seinfeld)
 - [Utilities](#utilities)
@@ -1489,6 +1497,24 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ***Tags:** gryphons, fantasy, urban fantasy, other fantasy creatures too, but mostly gryphons*
 
+##### [Magical Girls - Battle Royale](https://files.catbox.moe/dhgots.module)
+
+[retrained by Anon](https://arch.b4k.co/vg/thread/373772638/#373816348)
+
+*Cass's Magical Girls — Battle Royale module, trained to 34.53% (1411 steps). again, please excuse the clumsy picture and inexact percentage, i'm on mobile.*
+
+*Training data:*
+<https://files.catbox.moe/jo7rt2.zip>
+
+##### [Magical Girls - Romance](https://files.catbox.moe/bqfn5b.module)
+
+[retrained by Anon](https://arch.b4k.co/vg/thread/373772638/#373814834)
+
+*Cass's Magical Girls — Romance module, trained to 34.27% (1762 steps). excuse my clumsy picture and inexact percentage, i'm on mobile. will have the battle royale version up in a bit*
+
+*Training data:*
+<https://files.catbox.moe/hgatsr.zip>
+
 ##### [Male Prisons](https://files.catbox.moe/2d1360.rar)
 
 [by Anon](https://arch.b4k.co/vg/thread/371544232/#371575535)
@@ -2695,6 +2721,16 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Here is the Highschool DxD module, trained on the first ten LNs, updated for Euterpe!*
 
+#### [Oregairu](https://files.catbox.moe/0jz3u4.module)
+
+[by Player of Games](https://discord.com/channels/836774308772446268/939922436500107314/945810944716591134)
+
+*A module I trained on the first two volumes of the Oregairu light novel, training data was borrowed from Shar. Trained to 125.25% by me.*
+
+***Tags:** Oregairu, Anime, Light Novel, Romantic Comedy.*
+
+>I was still in the clubroom, sitting on my chair. I had no reason to leave and I wasn't going anywhere anytime soon. It wasn't as if I didn't have anything else to do; I just wanted to be here for a little bit longer. There were still so many things I had yet to learn about Yukinoshita and her friends, like how they managed their lives as members of one of the most exclusive clubs at our school. If I stayed in this room with them and kept eavesdropping until dawn, maybe I'd pick up a thing or two that would help me get into the club myself someday.
+
 #### [The Saga of Tanya the Evil](https://files.catbox.moe/r0r10t.module)
 
 [by bunray](https://discord.com/channels/836774308772446268/939922436500107314/939979431135567934)
@@ -2980,6 +3016,32 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 >VOLITION: (That's all the more reason to appreciate his wisdom.)
 >
 >RENÉ ARNOUX: "He would come back to the base after a hit and give his report."
+
+#### [Hamilton: An American Musical](https://files.catbox.moe/3f2hwn.module)
+
+[by Phillipus](https://discord.com/channels/836774308772446268/939922436500107314/945769738125078538)
+
+*A module trained on the entirety of "Hamilton: An American Musical" by Lin-Manuel Miranda.*
+
+***Dataset format:** (I suggest trying to keep your stories close to the format)*
+
+*New songs are announced with `"""[Song Title]"""` (e.g. `"""My Shot"""`) followed by a new line.*
+
+*What lyrics what character sings/says is in the following format: `[Character name]`: (e.g. `Laurens:\n[your text]`) and having what they say on the next lines. Here are all the valid names: Hamilton, Burr, Madison, Washington, Eliza, Jefferson, Laurens, Mulligan, Lafayette, Angelica, Maria, Peggy, Philip, Seabury, King George, Lee, James, Martha (she's that woman that gives Philip directions in Blow Us All Away), Dolly (the woman next to Martha), George, Doctor (the doctor in the reprise of Stay Alive), Company (that's everyone from the cast), Women (that's all the female cast members), Men (that's all the male cast members), Ensemble (that's everyone that does not play a specific character).*
+
+*If multiple characters are singing/talking, just list them without any commas (e.g. `Angelica Eliza Peggy:\n[your text]`).*
+
+***Example:***
+
+>Hamilton:
+>
+>Is that a yes?
+>
+>Burr Jefferson Madison:
+>
+>Um, yes.
+
+***Notes:** The module tends to overfit a bit, which is a feature since it's able to understand exactly what you're talking about if you use snippets from the original musical.*
 
 #### [Kurisu Dialogue](https://files.catbox.moe/10hsr1.module)
 
