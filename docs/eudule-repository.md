@@ -33,6 +33,11 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [The Island of Doctor Moreau](#the-island-of-doctor-moreau) module.
 - Added [Angels and Demons](#angels-and-demons) module.
 - Added [Fallout: New Vegas](#fallout-new-vegas) module.
+- Added [F.R.I.E.N.D.S](#friends) module.
+- Added [Jojo's Bizarre Adventure](#jojos-bizarre-adventure) module.
+- Added [Percy Jackson](#percy-jackson) module.
+- Added [Norse](#norse) module.
+- Added [Five Nights at Freddy's](#five-nights-at-freddys) module.
 
 (23rd February, 2022)
 
@@ -128,8 +133,10 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Fallout: Equestria](#fallout-equestria)
       - [Fallout: New Vegas](#fallout-new-vegas)
       - [Fire Emblem: Awakening](#fire-emblem-awakening)
+      - [Five Nights at Freddy's](#five-nights-at-freddys)
       - [Forgotten Realms](#forgotten-realms)
       - [Halo](#halo)
+      - [Jojo's Bizarre Adventure](#jojos-bizarre-adventure)
       - [Library of Ruina](#library-of-ruina)
       - [The Lion King](#the-lion-king)
       - [Sailor Moon](#sailor-moon)
@@ -145,6 +152,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Elizabethan Fantasy](#elizabethan-fantasy)
       - [In The Fields](#in-the-fields)
       - [LN School Rom-Com](#ln-school-rom-com)
+      - [Norse](#norse)
       - [Oriental Fantasy](#oriental-fantasy)
       - [Poetic Fantasy](#poetic-fantasy)
       - [Russian Folklore & Fantasy](#russian-folklore--fantasy)
@@ -231,6 +239,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Discworld Witch Series](#discworld-witch-series)
       - [The Dresden Files](#the-dresden-files)
       - [Harry Potter](#harry-potter)
+      - [Percy Jackson](#percy-jackson)
       - [Redwall](#redwall)
       - [The Solar Cycle](#the-solar-cycle)
       - [The Witcher](#the-witcher)
@@ -266,6 +275,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [10th Doctor Transcripts](#10th-doctor-transcripts)
     - [Arrested Development](#arrested-development)
     - [Disco Elysium](#disco-elysium)
+    - [F.R.I.E.N.D.S.](#friends)
     - [Hamilton: An American Musical](#hamilton-an-american-musical)
     - [Kurisu Dialogue](#kurisu-dialogue)
     - [Seinfeld](#seinfeld)
@@ -751,6 +761,20 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Trained on AO3 fics that involve the tactician from Fire Emblem Awakening gathering a harem of his friends and their daughters. Trained at 90%.*
 
+##### [Five Nights at Freddy's](https://files.catbox.moe/wlcli5.module)
+
+[by LaPapaya](https://www.sgreens.net/index.php?view=article&id=70:five-nights-at-freddys&catid=16)
+
+*This is my Sigurd's Five Nights at Freddy's Module, now trained on Euterpe!*
+
+- Five Nights at Freddy's: Silver Eyes
+- Five Nights at Freddy's: The Twisted Ones
+- Five Nights at Freddy's: The Fourth Closet
+- Five Nights at Freddy's - Fazbear Frights: Fetch
+- Five Nights at Freddy's - Fazbear Frights: 1:35 AM
+- Five Nights at Freddy's - Fazbear Frights: Bunny Call
+- Five Nights at Freddy's - Fazbear Frights: Step Closer
+
 ##### [Forgotten Realms](https://files.catbox.moe/8l8yta.module)
 
 [by DrYazman](https://discord.com/channels/836774308772446268/939922436500107314/940950152544411689)
@@ -799,6 +823,38 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 ***Tags:** Third Person, Master Chief, Covenant, UNSC, John-117, Elite, Grunt, Pillar of Autumn, Reach*
 
 ***Note:** This was not made by me! I am uploading this for an anonymous user.*
+
+##### [Jojo's Bizarre Adventure](https://files.catbox.moe/nnp7pw.module)
+
+[by LaPapaya](https://www.sgreens.net/index.php?view=article&id=104:jojos-bizarre-adventures-novels-with-novelai&catid=16)
+
+*A small module created with some Jojo's Bizarre Adventures light novels I could find online.*
+
+- Jorge Joestar
+- Over Heaven
+- Purple Haze Feedback
+
+>**The stand user** was a young man with short black hair and dark skin. He wore a long-sleeved shirt that covered his entire body, with the exception of the hand he held up in front of him for us to see. This was the man who had killed my family and made me a slave.
+>
+>I was at my wits' end as I stood there watching this young man look down on me from above. The first thing that came into my mind was, "How did he find me?"
+>
+>That's not it though...
+>
+>"No..."
+>
+>My eyes met those of the man standing over me. It looked like they were filled with nothing but hatred, as if he were saying, "You're dead." I couldn't understand it, but it sure felt like he thought killing me was easy. That was enough to make my heart race. If this man didn't care about himself or about his own life, he could kill me without hesitation. And so I thought, "He can kill me anytime he wants." As long as he wanted to do it.
+>
+>This feeling, this certainty, was something I'd never known before. I didn't feel fear, but a sense of calm, as if I was being protected by a force greater than myself.
+>
+>"Who are you?" I asked.
+>
+>In response, the man said one word:
+>
+>"Dio."
+>
+>The name rang a bell, but I couldn't quite remember where I knew it from. When I heard the rest of the words that followed, however, my memory clicked into place. Dio? That was the name of a character from an anime I used to watch when I was little. He was a villain. A horrible, cruel, greedy, evil, sadistic villain. One of the most hated characters in a world full of villains.
+>
+>I remembered that. But what did he want with me? Why come all the way out here just to threaten me?
 
 ##### [Library of Ruina](https://files.catbox.moe/fi3uh1.module)
 
@@ -1203,6 +1259,34 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >Her smile was bright as always, and her eyes sparkled in excitement.
 >
 >It reminded me of that picture of the girl on TV. Iroha looked like she was having a blast, and I felt myself getting dragged along to play with her.
+
+##### [Norse](https://files.catbox.moe/pd0hhu.module)
+
+[by Basileus](https://www.sgreens.net/index.php?view=article&id=72:norse&catid=16)
+
+*Seafarers, shield walls, and snow-capped mountains. Sagas of the frozen north. Suitable for Scandinavian historical fiction or Norse-inspired fantasy.*
+
+***Training Corpus:** 5.6MB, 6500 steps, 100% coverage, 2.72 loss*
+
+- Prose Edda by Snorri Sturluson
+- The Legend of Sigurd and Gudrun by J.R.R. Tolkien
+- Norse Mythology by Neil Gaiman
+- Eaters of the Dead by Michael Crichton
+- The Broken Sword by Poul Anderson
+- The Last Light of the Sun by Guy Gavriel Kay
+- The Shadow of the Gods by John Gwynne
+- Blood Eye by Giles Kristian
+- Swords of Good Men by Snorri Kristjansson
+- Raid of the Wolves by Donovan Cook
+- The Norse Queen by Johanna Wittenburg
+- Raven's Feast by Eric Schumacher
+- Shield-Maiden: Under the Howling Moon by Melanie Karsak
+
+>**Warm shafts of sunlight poked through the jagged branches of the wood, illuminating swirling eddies in the cold morning frost**. The air was sharp and clear as a blade, but still Elvar felt her breath quicken with excitement at being out again after so long. She had been forced to stay indoors for two days now while she recovered from her wound; the bleeding would not stop, even when she tried to bind it up tightly. It seemed that something inside her body was trying to fight back against the infection, but without any way to heal herself, she could only sit by the fire and watch others go about their work around the camp.
+>
+>She took a deep breath and exhaled slowly before starting off down the slope towards the river, keeping low beneath the boughs of the trees and making sure not to disturb anything on the ground below. There were plenty of animals in these woods – elk, deer, wild boar and bear, though she hadn't seen one yet this season. But there was no need to worry about them today: they all knew better than to come near the settlement during daylight hours, especially if they saw or heard anyone coming along the trail.
+>
+>The forest was silent except for the occasional birdcall and rustle of leaves in the breeze. It made Elvar feel small and insignificant compared to nature's grandeur, but then again, perhaps that was exactly what she needed right now.
 
 ##### [Oriental Fantasy](https://files.catbox.moe/kq71e0.module)
 
@@ -2811,6 +2895,30 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Here it is! 100% trained on the Harry Potter data you sent.*
 
+##### [Percy Jackson](https://files.catbox.moe/nkdymu.module)
+
+[by SGreen](https://www.sgreens.net/index.php?view=article&id=79:percy-jackson&catid=16)
+
+*Travel through the worlds, behead cyclops, or fist fight Zeus.  Live the life of a demigod and see more things than any mortals ever could.*
+
+*Trained on all Percy Jackson novels.*
+
+>**I grabbed my spear** and jumped. I had to time it perfectly, or I'd crash into the wall of the tunnel and be stuck in there forever.
+>
+>It was a long way down. My breath caught in my chest when I fell, but I managed to pull out one of Hermes' rings from my pocket and make a rope net for myself. I used that to slow down a bit so the spear didn't hit me square in the face. Then I bounced off the ground and landed on my feet with a thud. The spear was in my hand. Annabeth was still hanging upside-down, her arms wrapped around the spearhead, using it as a grip to swing back and forth like Tarzan.
+>
+>"Nice aim," I said. "Almost caught me on the head."
+>
+>She flipped over and landed lightly on the hard-packed dirt. She gave me a thumbs up.
+>
+>"Now what?" she said.
+>
+>"We climb back up the tunnel until we reach the other side and then climb back down again until we're at the bottom."
+>
+>"But how are we supposed to get past all those Daimons?"
+>
+>I shrugged. "That's our problem. Let's go."
+
 ##### [Redwall](https://files.catbox.moe/qmv2tu.module)
 
 [by Basileus](https://discord.com/channels/836774308772446268/939922436500107314/944528659912486932)
@@ -3284,6 +3392,59 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 >VOLITION: (That's all the more reason to appreciate his wisdom.)
 >
 >RENÉ ARNOUX: "He would come back to the base after a hit and give his report."
+
+#### [F.R.I.E.N.D.S.](https://files.catbox.moe/o266uv.module)
+
+[by TravelingRobot](https://story-explorer.ai/index.php?view=article&id=119:the-one-with-the-friends-episodes&catid=16)
+
+*Trained on transcripts for [all episodes of the TV Show](https://www.kaggle.com/divyansh22/friends-tv-show-script).*
+
+*Output is much better than it was in Sigurd, but you still shouldn't expect any obvious humor from Euterpe.*
+
+*Steps used to train: 4.000 (73%)*
+
+*Loss: 2.24*
+
+***Tags:** TV Show scripts, Sitcom*
+
+>**(Scene: Chandler and Joey's, they are talking to a goose about Novel AI.)**
+>
+>Joey: Hey Goose.
+>
+>Goose: (in a deep voice) Hello Joey!
+>
+>Chandler: (to the goose) And you are?
+>
+>(The goose looks at him funny.)
+>
+>Joey: Okay, okay, I'm kidding.
+>
+>Goose: (in an annoyed tone of voice) Oh come on, who do you think I am?
+>
+>Chandler: You're the Goose that lays the golden eggs right?
+>
+>Goose: That's a strange question.
+>
+>Chandler: Well...you know what I mean.
+>
+>Goose: No, I don't.
+>
+>Chandler: The Goose that lays the golden eggs.
+>
+>Goose: What?
+>
+>Chandler: Yeah, the one with the golden eggs.
+>
+>Goose: Gold is not my thing. In fact, it makes me want to puke in your face! (He walks away.)
+>
+>Chandler: Dude, that's way harsh.
+>
+>Joey: How did he know what my first name was?
+>
+>Chandler: I dunno, maybe he can read lips or something. (To the goose.) Hey Goose, how'd 
+>you know my name?
+>
+>Goose: Because I have X-ray vision.
 
 #### [Hamilton: An American Musical](https://files.catbox.moe/3f2hwn.module)
 
