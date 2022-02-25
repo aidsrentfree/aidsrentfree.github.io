@@ -32,6 +32,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Ancient Egypt](#ancient-egypt) module.
 - Added [The Island of Doctor Moreau](#the-island-of-doctor-moreau) module.
 - Added [Angels and Demons](#angels-and-demons) module.
+- Added [Fallout: New Vegas](#fallout-new-vegas) module.
 
 (23rd February, 2022)
 
@@ -125,6 +126,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [DOOM](#doom)
       - [The Elder Scrolls (In-Game Texts)](#the-elder-scrolls-in-game-texts)
       - [Fallout: Equestria](#fallout-equestria)
+      - [Fallout: New Vegas](#fallout-new-vegas)
       - [Fire Emblem: Awakening](#fire-emblem-awakening)
       - [Forgotten Realms](#forgotten-realms)
       - [Halo](#halo)
@@ -699,6 +701,49 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Trained on FoE, PH, MN7, etc. Might have stretched the steps too thin, dunno.*
 
+##### [Fallout: New Vegas](https://files.catbox.moe/yqn6ic.module)
+
+[by OccultSage](https://discord.com/channels/836774308772446268/939922436500107314/946883961769041940)
+
+*Constructed from edited character descriptions and locations from Fallout: New Vegas, and leavened out with classic apocalyptic tales that were an influence on Fallout. Drawing upon Cold War era 1950's stories, and their perspectives of the apocalypse and the future, this theme module draws upon authors such as Pat Frank, George R. Stewart, and Phillip K. Dick, with a small dash of Fallout pre-war Fanfic.  The selection of fiction has been curated to these written in the style and tone of the 1950's, mostly by finding actual representative works. This also brings the tech level in line with the 1950's.*
+
+*If you really want a pure Fallout experience, you'll need to construct a scenario with lorebook support. Material is attached for this:*
+
+- [Fallout - Pre War](https://files.catbox.moe/0yzea4.txt)
+- [Fallout: New Vegas - Locations](https://files.catbox.moe/eq7r0u.txt)
+- [Fallout: New Vegas - Characters](https://files.catbox.moe/z554qc.txt)
+
+*The stories were selected from this discussion on what sources inspired Fallout: <https://fallout.fandom.com/wiki/Forum:What_directly_inspired_the_Fallout_series%3F>*
+
+***Tags:** Post-apocalyptic, Fallout: New Vegas*
+
+***Source Material:** 5.0MB, ~5000 steps, 100% coverage, 2.91 loss*
+
+- Title: Amtrak Wars: Cloud Warrior Author: Patrick Tilley Genre: Post-apocalyptic
+- Title: Wastelands: Stories of the Apocalypse Editor: John Joseph Adams Genre: Post-apocalyptic
+- Title: Time Enough at Last Author: Lyn Venable Genre: Post-apocalyptic
+- Title: Dr. Bloodmoney Author: Phillip K. Dick Genre: Post-apocalyptic
+- Title: Canticle for Leibowitz Author: Walter M. Miller Genre: Post-apocalyptic
+- Title: Earth Abides; Author: George R. Stewart; Genre: Science Fiction, Post-apocalyptic
+- Title: Fahrenheit 451; Author: Ray Bradbury; Genre: Science Fiction, Dystopia
+- Title: Forbidden Area; Author: Pat Frank; Genre: Science Fiction, Post-apocalyptic
+- Source: Fallout: New Vegas Characters
+- Source: Fallout: New Vegas Locations
+- Source: Fallout: Pre-War Fanfic
+
+>**The sky lit up with a fire brighter than a thousand suns,** and for long seconds the world seemed to be on fire. Then everything was dark again except for some dim light from distant fires that were still smouldering along the coast. The rain had stopped, but there was no wind; it made the air feel heavy as lead. All day people had been coming back into town, bringing their children with them. The streets had emptied of bodies, and in the few places where they still lay, other people were pulling out their dead, and laying them in rows where they could be picked over by looters later. In the evenings the last glow from the fires would still linger on the horizon, like a promise of a new dawn, though nothing else about the world looked promising at all. And then darkness would come, and the silence after the noise of gunfire and shouting, and people would go home and huddle down in their blankets, waiting for morning when everything might begin afresh.
+>
+>But morning came late. It was evening before anyone knew whether or not the attack had failed. Some people said it must have succeeded because the army had been wiped out, but others disagreed. After all, what did one think of an army that went off to fight another war and didn't even bother to take its own wounded with it? And there was no way of knowing if anything had happened at all, because the radio had gone dead. It was only when someone finally managed to get through from California that there really was any news at all. There was a full-scale assault on Los Angeles, with air strikes destroying much of the city. The government's radio network was also knocked out, and so the news of victory leaked out slowly by word of mouth. As night fell, some people gathered around radios in bars and cafes, listening eagerly for more details. But most just went home and turned in early, as they always did at night, and tried to sleep while wondering how long this peace would last.
+
+>**The ghoul snarled at the New California Republic Ranger, and** lunged forward. The ranger's rifle barked twice before the ghoul was within striking distance of him, but it was too late for the ranger; his head exploded in a spray of blood that spattered across the ground. The ghoul continued on towards the Rangers' position with the same ferocity as before.
+>
+>"Get down!" Sergeant Faukland shouted to his squad mates, drawing his own weapon and taking aim. "On me!"
+>
+>The ghouls closed in fast, one of them swinging its machete down at Sergeant Faukland who ducked beneath the blow and fired his M4A1 into the creature's chest, which exploded in a shower of gore. He returned fire as he dove behind cover, but the ghoul was already moving again, leaping over the corpses of the Rangers it had just killed and coming straight toward him. It howled as it came, its voice sounding inhumanly deep, like the growl of some great beast. The sergeant tried to get a shot off but the monster was much faster than he'd expected and closed with him in seconds, slashing out with its machete.
+>
+>Sergeant Faukland rolled away from the attack and brought up his rifle, firing into the ghoul's back, but it didn't slow it down. Its machete struck Sergeant Faukland in the shoulder, opening a gash that began to bleed profusely. He fell to his knees and tried to drag himself out of range of the ghoul's machete, but there wasn't enough room to manoeuvre. He took aim with his rifle once more, but the ghoul turned and swung again, this time aiming for his face. The sergeant barely managed to duck under the blow, which would have split his skull open had it landed.
+>
+>He looked around for something else to use against the ghoul, and spotted a fallen M4A1 lying near him. He snatched it up as quickly as he could manage, and then struggled to his feet. The ghoul was still coming after him, and now that he had something to defend himself with he couldn't afford to let it close with him any further. He began firing at the ghoul, but even though he'd emptied both magazines, the ghoul kept coming. It reared back to strike once more, but somehow the M4A1 managed to find its way into the beast's hands, and it raised it high above its head. Sergeant Faukland dove aside as the ghoul brought the blade down, but it wasn't enough to save him – the machete sliced clean through his neck, causing a fountain of blood to erupt from the wound. His body crumpled to the ground as the ghoul moved closer, its face contorted in rage.
 ##### [Fire Emblem: Awakening](https://files.catbox.moe/ilabqw.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/371608780/#371653660)
