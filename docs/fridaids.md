@@ -45,7 +45,6 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Enforced Breeding*](#enforced-breeding)
   - [*The Seduction Society*](#the-seduction-society)
   - [*(Figuratively) Fuck the Cabal*](#figuratively-fuck-the-cabal)
-  - [*Title*](#title)
 - [The Friday of *Fucked Up Theme Parks*](#the-friday-of-fucked-up-theme-parks)
   - [*Clussy Park*](#clussy-park)
   - [*Sadie's Playland*](#sadies-playland)
@@ -470,16 +469,6 @@ In a world where sex is illegal, snitch on a budding rebel group.
 >*I'm going to enjoy watching Mark take these motherfuckers down.*
 
 A well-adjusted individual has a measured response to a new law enacted by the ruling political party he has slight disagreements with.
-
-### *Title*
-{: .center}
-
-*<>*
-{: .center}
-
->**
-
-desc
 
 ***
 
