@@ -33,6 +33,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 - [Rules](#rules)
 - [The Log](#the-log)
+- [The Friday of *Warfare*](#the-friday-of-warfare)
 - [The Friday of *Ridiculous Government Mandates*](#the-friday-of-ridiculous-government-mandates)
   - [*Penis Inspection Day*](#penis-inspection-day)
   - [*Trickle Down*](#trickle-down)
@@ -44,6 +45,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Enforced Breeding*](#enforced-breeding)
   - [*The Seduction Society*](#the-seduction-society)
   - [*(Figuratively) Fuck the Cabal*](#figuratively-fuck-the-cabal)
+  - [*Title*](#title)
 - [The Friday of *Fucked Up Theme Parks*](#the-friday-of-fucked-up-theme-parks)
   - [*Clussy Park*](#clussy-park)
   - [*Sadie's Playland*](#sadies-playland)
@@ -280,6 +282,17 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 ***
 
+## The Friday of *Warfare*
+{: .center}
+
+Let's make prompts about combat, struggle, victory and defeat in the face of worthy opponents.
+{: .center}
+
+4th March, 2022
+{: .center}
+
+***
+
 ## The Friday of *Ridiculous Government Mandates*
 {: .center}
 
@@ -458,6 +471,16 @@ In a world where sex is illegal, snitch on a budding rebel group.
 
 A well-adjusted individual has a measured response to a new law enacted by the ruling political party he has slight disagreements with.
 
+### *Title*
+{: .center}
+
+*<>*
+{: .center}
+
+>**
+
+desc
+
 ***
 
 ## The Friday of *Fucked Up Theme Parks*
@@ -492,7 +515,6 @@ Which lovely lady will accompany Anon on his sexual romp through the park?
 >*"No, no, sit down." The tallest one of the group gave a hand signal to the other two, both of them relaxing as they saw. She gave the practiced grin of a charlatan as she looked at Anon. "I'm guessing you're here for the same reason we are..."*
 
 Anon's dream of going to Mackland theme park is finally realized, with the park's owner, Sadie, even offering to show him around herself. What's that? The park's been abandoned years ago, and Sadie is the leader of the homeless squatters living in the park? Don't be ridiculous.
-
 
 ### *Atomic World*
 {: .center}
