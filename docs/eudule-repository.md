@@ -23,6 +23,16 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(25th February, 2022)
+
+- Added [Sweet Time](#sweet-time) module.
+- Added [Naked Lunch](#naked-lunch) module.
+- Added [Online Tweet Hell Generator](#online-hell-tweet-generator) module.
+- Added [The Lion King](#the-lion-king) module.
+- Added [Ancient Egypt](#ancient-egypt) module.
+- Added [The Island of Doctor Moreau](#the-island-of-doctor-moreau) module.
+- Added [Angels and Demons](#angels-and-demons) module.
+
 (23rd February, 2022)
 
 - Added [/aids/](#aids).
@@ -72,13 +82,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Updated [Furry Character Generator](#furry-character-generator) module with "final" version.
 - Added [Kinky Friedman](#kinky-friedman) module.
 
-(17th February, 2022)
-
-- Added [10th Doctor Transcripts](#10th-doctor-transcripts) module.
-- Added [Vampire: The Masquerade](#vampire-the-masquerade) module.
-- Added [Speculative Science Fiction](#speculative-science-fiction) module.
-- Added [Furry Character Generator](#furry-character-generator) module.
-
 ***
 
 ## [Table of Contents](#modules)
@@ -117,6 +120,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Setting](#setting)
     - [Established](#established)
       - [Alien](#alien)
+      - [Ancient Egypt](#ancient-egypt)
       - [Beastars](#beastars)
       - [DOOM](#doom)
       - [The Elder Scrolls (In-Game Texts)](#the-elder-scrolls-in-game-texts)
@@ -125,6 +129,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Forgotten Realms](#forgotten-realms)
       - [Halo](#halo)
       - [Library of Ruina](#library-of-ruina)
+      - [The Lion King](#the-lion-king)
       - [Sailor Moon](#sailor-moon)
       - [A Song of Ice and Fire](#a-song-of-ice-and-fire)
       - [Star Trek: The Next Generation](#star-trek-the-next-generation)
@@ -174,6 +179,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Weird Fiction](#weird-fiction)
   - [Sexual](#sexual)
     - [Beings](#beings)
+      - [Angels and Demons](#angels-and-demons)
       - [Cougars](#cougars)
       - [Dragons](#dragons)
       - [Khajit and Argonians](#khajit-and-argonians)
@@ -190,6 +196,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Hypnosis (Femsub)](#hypnosis-femsub)
       - [Respect (Second Person)](#respect-second-person)
       - [Score](#score)
+      - [Sweet Time](#sweet-time)
       - [Vore](#vore)
     - [Circumstances](#circumstances)
       - [Age Difference](#age-difference)
@@ -211,6 +218,8 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Fiction](#fiction)
     - [Classic](#classic)
       - [Blood Meridian or The Evening Redness in the West](#blood-meridian-or-the-evening-redness-in-the-west)
+      - [The Island of Doctor Moreau](#the-island-of-doctor-moreau)
+      - [Naked Lunch](#naked-lunch)
       - [Ninteen Eighty-Four](#ninteen-eighty-four)
       - [Otto Penzler's Big Book of Ghost Stories](#otto-penzlers-big-book-of-ghost-stories)
     - [Modern](#modern)
@@ -265,6 +274,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [The Guy Fieri Menu Item Generator Module](#the-guy-fieri-menu-item-generator-module)
   - [Light Novel Blurb Generator](#light-novel-blurb-generator)
   - [Michael Jackson Lyrics](#michael-jackson-lyrics)
+  - [Online Hell Tweet Generator](#online-hell-tweet-generator)
 
 ***
 
@@ -602,6 +612,28 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >
 >At last the alien reached the end of the passageway. Here it stopped once more, crouching low against the wall and holding itself motionless. Then, without warning, it launched itself across the gap between the two corridors and landed softly behind three men who had been talking quietly together when they heard the sound. One of them whirled around just as the alien struck him in the back of his neck with one powerful claw. He dropped instantly to the floor, dead before he hit. Another man tried to turn away from the attack but found himself caught by the claws that tore out his throat. Blood gushed forth in a crimson flood. The third man screamed and fell to the ground, trying desperately to roll aside from the grasping arms that pinned him to the decking.
 
+##### [Ancient Egypt](https://files.catbox.moe/uzzka7.module)
+
+[by Basileus](https://www.sgreens.net/index.php?view=article&id=114:ancient-egypt&catid=16)
+
+*Pharaohs, eternal monuments, and desert gods in the sun-soaked lands once known as Kemet.*
+
+***Training Corpus:** 7 MB, 8216 steps, 100% coverage, 2.7 loss*
+
+- River God by Wilbur Smith
+- The Egyptian by Mika Walktari
+- Lord of the Two Lands: The Oasis by Pauline Gedge
+- Daughter of the Gods by Stephanie Thornton
+- The Heretic Queen by Michelle Moran
+- Ramses: The Son of Light by Christian Jacq
+- The Sekhmet Bed by Libbie Hawker
+- A Curse of Silence by Lauren Haney
+- Mara, Daughter of the Nile by Eloise Jarvis McGraw
+- The Curse of Anubis by Nathaniel Burns
+- Akhenaten, Dweller in Truth by Naguib Mahfouz
+
+>**Standing in the mouth of that great entrance, the chill air of the tomb** blowing across my face like a cold wind from the desert night, I could not help thinking how strange it was to be so close to death. It seemed as if some spell had been laid upon me which would cause me at any moment to turn and run back into the darkness with all speed; yet no sooner did this thought enter my mind than there came an impulse within me compelling me on toward those mighty doors through whose dark portals lay eternal rest for Pharaohs, and their servants who loved them. My heart beat high against my breast until it felt as though it must burst its bonds, but still I went forward without faltering or turning aside. The silence grew more profound around us now, broken only by our own footsteps and the sound of Nefertiti's soft breathing behind me. As we neared the end of the long passage before us she stopped suddenly and turned about to look up at me. "Do you see?" she whispered. Her voice trembled slightly with excitement—and fear? "There is something here," she said again.
+
 ##### [Beastars](https://files.catbox.moe/41bryl.rar)
 
 [by Anon](https://arch.b4k.co/vg/thread/371544232/#371575535)
@@ -767,6 +799,24 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >"What do you mean?"
 >
 >"The Syndicate is the only place that will hire me, so I can't get myself off their hook by doing something illegal or getting arrested."
+
+##### [The Lion King](https://files.catbox.moe/srmaq2.module)
+
+[by Taboo](https://discord.com/channels/836774308772446268/939922436500107314/946508205343776818)
+
+*A module I've had sitting in my personal collection, trained on a fair amount of The Lion King fanfiction and adjacent materials.*
+
+***Tags:** Animals, The Lion King, Non-Human*
+
+>**The lioness stood perched atop the rocky outcropping,** gazing across the plains. The vast grasses stretched endlessly before her, a sea of gold and green that reminded her of home in so many ways.
+>
+>There was a sense of peace here, a feeling she hadn't felt since leaving the Pride Lands behind. But at the same time, it felt like it wasn't truly hers to claim or hold on to.
+>
+>She had been living outside of the Pride Lands for several months now, finding a place with other lions who had no desire to be part of the pride hierarchy. They were content to live their own lives without having any responsibilities to the others around them.
+
+1
+[20:45]
+
 
 ##### [Sailor Moon](https://files.catbox.moe/ticmjh.module)
 
@@ -1932,6 +1982,82 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 #### [Beings](#sexual)
 
+##### [Angels and Demons](https://files.catbox.moe/8cov5i.module)
+
+[by OccultSage](https://discord.com/channels/854479693503660032/939950910690439179/946592084478021662)
+
+***Description:** Module focused on Angels and Demons trained on a variety of sources from authors like Michele Hauf, Bella Swann, Michael Dalton, Kathryn Moon and Elliot Kay -- high quality erotica.*
+
+*Strong themes of corruption, capture, and BDSM.*
+
+***Content Warning:** Some NonCon, Some DubCon, BDSM, and religious themes.*
+
+***Material:** 6.8mb, ~8000 steps (!), ~100% coverage, 2.65 loss.**
+
+- Title: A Lady of Rooksgrave Manor Author: Kathryn Moon Genre: Paranormal Romance, Reverse Harem, Erotica
+- Title: Good Intentions Author: Elliot Kay Genre: Urban Fantasy, Erotica
+- Title: Personal Demons Author: Elliot Kay Genre: Urban Fantasy, Erotica
+- Title: Angel Slayer Author: Michele Hauf Genre: Paranormal Romance
+- Title: The Sin Eater's Promise Author: Michele Hauf Genre: Paranormal Romance
+- Title: Cursed Author: Melissa Riddel Genre: Paranormal Romance
+- Title: The Girls of My Dreams Author: Reed James Genre: Erotica, Paranormal Fantasy
+- Title: Light's Redemption Author: Reed James Genre: Erotica, Paranormal Romance
+- Title: My Familiar Succubus Author: Reed James Genre: Erotica, Paranormal Romance
+- Title: Wings of Gray Author: Reed James Genre: Erotica, Urban Fantasy
+- Title: White-Feathered Angel Author: Reed James Genre: Urban Fantasy, Erotica
+- Title: Succubus Summoning 101 Author: M.E. Hydra Genre: Urban Fantasy, Erotica
+- Title: The Claiming of Af, the Angel of Light Author: Bella Swann Genre: Erotica, Paranormal Fantasy
+- Title: The Claiming of Anahita, the Submissive Angel of Fertility Author: Bella Swann Genre: Erotica, Paranormal Fantasy
+- Title: The Claiming of Iris, the Sweet Angel of Hope Author: Bella Swann Genre: Erotica, Paranormal Fantasy
+- Title: The Claiming of Sophia, the Sheltered Angel of Wisdom Author: Bella Swann Genre: Erotica, Paranormal Fantasy
+- Title: Demon Hunter - Birthright Author: Michael Dalton Genre: Urban Fantasy, Harem Erotica
+- Title: Demon Hunter - The Breamstone Collective Author: Michael Dalton Genre: Urban Fantasy; Harem Erotica
+- Title: Demon Hunter - The Vermillion Cabal Author: Michael Dalton Genre: Urban Fantasy; Harem Erotica
+
+>**The angel** strode into the room, and Morgan's body tensed as he saw her. She was a magnificent creature, with her shining golden hair flowing over her shoulders in waves that framed her pale face. Her robe of white silk hung off one arm as she stalked toward him. He knew this woman, remembered her from long ago when he had been human. When they'd met, he hadn't even known what an angel looked like, and then she'd shown herself to be just another mortal. Yet here she was again, an angel who could give him more pleasure than any other human before her or since.
+>
+>"You should have come sooner." The angel's voice was a low musical soprano. "I will grant you all your wishes if only you would ask me for them."
+>
+>Morgan licked his lips, his cock straining against the confines of his jeans. If only she wouldn't say no. What would it take? Would she do anything he asked? "Please," he whispered.
+>
+>She smiled and nodded, walking over to him slowly, as though savoring what was to come. He stood up from his chair and followed her across the room, unable to look away. This was it. His destiny. And she didn't need him to save anyone else. Just himself.
+>
+>"Take these clothes off," she said, gesturing at his pants.
+
+>**The beautiful succubus exuded an aura of evil and seductive malevolence as she approached me with her hips swaying, her tail swishing behind her**. I was in the middle of a dream where everything felt so real yet none of it was actually happening to me. As my eyes drifted over her curves, her breasts heaved and swayed in time with the hypnotic beat of music that seemed to emanate from her skin. Her long black hair flowed down her back like an ebony waterfall, cascading around her shoulders and pooling on the floor at her feet.
+>
+>"I have waited for you," she purred, her voice soft yet dangerous. "Come closer." She beckoned me forward by curling one finger.
+>
+>I walked toward her slowly, my heart pounding in anticipation, though I didn't know why.
+>
+>She stepped out of the shadows and into the light, revealing herself to be all female; a woman dressed in leather pants and a tight-fitting top. The pale fabric clung to every curve of her body, highlighting her perfect hourglass figure and full breasts. She wore no make-up or jewelry except for the large gold hoop earring in her left ear.
+>
+>Her face was flawless, with smooth skin and big gray eyes. Her lips were red, her jawline strong but not overly muscular. She had a small nose, high cheekbones, and thin eyebrows. Her jaw was square with a bit of a chin cleft. Her hair was black, cut short and framing her face in a sexy style.
+>
+>"Do you know what you are?" she asked.
+>
+>I knew what I was, but how could I possibly answer that question?
+>
+>"You are a man with the power to control women's desires," she replied. "Your dreams will be filled with the most erotic fantasies imaginable. You can give them whatever they desire. They will worship your cock. Your cock is all they want. Your cock is all they need. Do you understand?"
+>
+>I nodded, still bewildered.
+>
+>She smiled, her lips parting slightly. I was entranced by her beauty; her dark eyes, sensuous mouth, and silky black hair.
+>
+>"You will have no choice," she whispered, "but to obey me."
+
+>**He stared at the demon's huge throbbing cock.** The thing was twice his own length, and its girth almost matched the width of his arm. It stood out from his body like a purple-black tree stump, dripping pre-cum from its heavy spurting head. He'd never seen anything so enormous in his life, not even when he'd first encountered the succubi. They were big compared to him, but this thing was ten times bigger than any of them had ever been.
+>
+>"What do I do with it?" he asked hesitantly.
+>
+>It turned toward him with a cocky smile on its face that made Alex want to punch it in the face. "Do you want some?" it grinned nastily.
+>
+>Alex swallowed nervously as he realized what lay before him. If he didn't get the demon off soon, it would start cumming inside him, filling him up with hot semen that could kill him just as easily as sucking him dry. But how? Was there any way to do it without taking some of the load into his mouth?
+>
+>"I don't know," he admitted.
+>
+>The demon laughed and reached down between its legs, cupping his balls gently in one hand while the other stroked the base of his cock until he started leaking more precum onto his stomach.
+
 ##### [Cougars](https://files.catbox.moe/cyhrhc.module)
 
 [by Naliamegod](https://discord.com/channels/854479693503660032/939950910690439179/940100268987674686)
@@ -2178,6 +2304,52 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Finally, my scat and vore module is complete.*
 
+##### [Sweet Time](https://files.catbox.moe/9o7hiw.module)
+
+[by SGreen](https://www.sgreens.net/index.php?view=article&id=80:greens-sweet-time&catid=16&highlight=WyJzd2VldCIsInRpbWUiXQ==)
+
+[10k steps version](https://files.catbox.moe/dtfo4k.module)
+
+*Enjoy your time with a unbelievable romantic and sensitive experience. From butterflies to steamy scene, you will get what you desire. Used over 50 novels with a strong romance/erotic theme, with some scenes from each, and trained on 6 full novels. It doesn't force nsfw scenes from the nothing, but it's really good at them. It could also be used as a Slice of Life module.*
+
+*There's a 100% version, the normal version, and a 400% 10000k steps version. Decide for yourself which one is better.💚*
+
+***Material:***
+
+- Bad Behavior by Mary Gaitskill
+- Bared to You by Sylvia Day
+- Call Me by Your Name by Aciman André
+- Delta of Venus by Anais Nin
+- The Sexual Life of Catherine M. by Catherine Millet
+- The Unbearable Lightness of Being by Kundera Milan
+- Scenes from: Michel Houellebecq, The Elementary Particles;Haruki Murakami, Wind-Up Bird Chronicle;Bret Easten Ellis, Less than Zero;Nicholson Baker, The Fermata;Roddy Doyle, The Woman Who Walked Into Doors;Aimee Bender, Quiet Please;James Salter, A Sport and a Pastime;E.L. Doctorow, Ragtime;J.G. Ballard, Crash;Milan Kundera, Unbearable Lightness of Being;Thomas Pynchon, Bleeding Edge;Norman Rush, Mortals;Michael Ondaatje, In the Skin of a Lion;Elena Ferrante, The Story of a New Name;Madeleine D’Engle, A House Like a Lotus;Arundhati Roy, The God of Small Things;Jeffrey Eugenides, Middlesex;Don DeLillo, Underworld;Roberto Bolano, Antwerp;Ian McEwan, On Chesil Beach;Joyce Carol Oates, Blonde;Lauren Groff, Arcadia;Lauren Groff, Fates and Furies;Charles Baxter, The Soul Thief;John Casey, Spartina;David Lodge, Paradise News;Oscar Hijuelo, The Mambo Kings Play Songs of Love;Ethan Canin, We Are Nighttime Travelers;Jeanette Winterson, Written on the Body;Peter Carey, The Tax Inspector;Jamaica Kincaid, Lucy;Mary Gordon, Spending;James Salter, A Sport and a Pastime;Stephen Elliott, My Girlfriend Comes to the City and Beats Me Up;Paulo Cuelho, Eleven Minutes;A.M. Homes, Music for Torching;Darin Strauss, Chang and Eng;John Updike, Rabbit is Rich;Toni Morrison, The Bluest Eye;Stephen McCauley, True Enough;Ron Carlsen, Plan B for the Middle Class;Ian McEwan, The Child in Time;Erica Jong, Fear of Flying;Elizabeth Benedict, Slow Dancing;Glenn Savan, White Palace;Vladimir Nabokov, Spring in Fialta;Jerome Badanes, The Final Opus of Leon Solomon;Philip Roth, Portnoy’s Complaint;Susanne Moore, In the Cut
+
+>**I leaned in** to kiss him and he turned his head, so our faces were close. We kissed with a little urgency. He slid his hand down my arm to my hand, and then he took it gently between both of his. He placed it on the back of his neck. He was wearing a new shirt that had no buttons or tie, but I could see that the material had been stretched around his arms. It didn't look as if it would have any give at all when we touched each other. This gave me an idea. "Come over here," I said, pulling him to one side of the bed. "Let's go to the window."
+>
+>"To what end?"
+>
+>"What are you talking about? We're already sitting by the window."
+>
+>I got up and pulled him after me. As soon as we were standing next to the window, which had no curtains, I reached out for his hand. "Let's feel this," I whispered. Then I turned his hand palm up and started feeling the muscles in his forearm. I moved closer so that my breast touched against his chest. The skin of our chests felt hot.
+>
+>"It feels like you're going to bite me."
+>
+>"Why wouldn't I want to? That's where your blood is. Do you know how long I've wanted to lick your face?"
+>
+>He was silent. I knew he was looking down and watching my breasts move with every movement of my hands. Then I stopped and looked at him. For an instant we just stared into each other's eyes.
+
+*(10k Output)*
+
+>**I leaned in** and kissed his neck, tasting him, and then nuzzled my face into his damp shirt. He was still panting but looked more relaxed. The fire popped and spat; the room was hot. A little breeze from the opened window stirred the hair on Gideon's chest like a lover's breath. I ran my hand over the ripples of his abdomen, feeling them flex and harden beneath my palm. My blood roared through me so loudly I could hear it. His body quivered when I touched him, then he pushed into my hand, making me gasp as he buried himself in my grasp. I ran my hands up his sides to knead both breasts, and then down around his narrow hips and buttocks and back up again. We were both writhing now, gasping for air.
+>
+>"Gideon, please... don't tease," he pleaded. "I need you inside me."
+>
+>"Tell me what I want to hear, and I'll make sure we end this the way you want."
+>
+>His face went dark with lustful anticipation. "You know what I want to hear."
+>
+>"You think I'm beautiful?"
+
 ##### [Vore](https://files.catbox.moe/cafod1.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/371608780/#371640618)
@@ -2392,6 +2564,56 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 [by Anon](https://arch.b4k.co/vg/thread/372436776/#372524869)
 
 *Blood Meridian module for Terp, works similar as the Sigurd one, it makes the prose a bit more wordy and adds some darker tone, but it doesn't mess with the grammar or formatting*
+
+##### [The Island of Doctor Moreau](https://files.catbox.moe/nq3xok.module)
+
+[by DrYazman](https://discord.com/channels/836774308772446268/939922436500107314/946768737242079253)
+
+[200% coverage version](https://files.catbox.moe/ot0pyb.module)
+
+*This module is trained solely on a HG Wells novel I love. Set in the year 1887, the text is the narration of Edward Prendick who is a shipwrecked man rescued by a passing boat. He is left on the island home of Doctor Moreau, a mad scientist who creates human-like hybrid beings from animals via vivisection. The novel deals with a number of philosophical themes, including pain and cruelty, moral responsibility, human identity, and human interference with nature.*
+
+*Data: There was one source text at 234kb. There are two modules. One trained to 100% w/ 266 steps. The other trained to 200.11% with 533 steps. I created these modules to test how they would go if I just wanted to roleplay in the setting of the book, and they both seem to do ok. I prefer the 200% module personally, but both work well.*
+
+*I have attached the loss graph of the 100% module, I think it was. Sorry, I forgot to save the 200% module's loss graph.*
+
+***Bonus:** Since The Island of Doctor Moreau is a public domain work, it is legal for me to attach my [ready-to-go, fully cleaned training data](https://files.catbox.moe/jqbkmc.txt). Please include it in other modules!*
+
+***FAQ:***
+
+***Q:** Yazman, why did you write a new line into the text? It's blasphemy to edit Wells!*
+
+***A:** Basically I just did as a test. I wanted to keep the introduction in the text, so I decided to add a line helping the AI understand that this story is intended to be thought of as a kind of journal ('I have written The Island of Doctor Moreau, the name of the story I tell in this journal'). Maybe it won't have any effect, I don't know. If you use the training data and don't like the presence of that line, feel free to remove it.*
+
+##### [Naked Lunch](https://files.catbox.moe/cwfviv.module)
+
+[by mark and jez](https://discord.com/channels/836774308772446268/939922436500107314/946285905457602610)
+
+*A module for fans of Burroughs' 1959 experimental fever dream with its colorful depravity and scumfuck extremity.*
+
+***Tags:** fiction, colorful prose, drugs, transgressive, experimental, postmodern, proto-cyberpunk, beat generation*
+
+***Sources:** William Burroughs' Naked Lunch (350 KB, 390 steps, 118.58% coverage, Average Loss: 3.7200)*
+
+*Notes: Yeah, exceptionally high loss, I know. But it's Naked Lunch, what can be done? I don't have to tell people who've read the book this but be aware that this module can generate some grotesque, perverted and offensive shit. Use with caution or don't if that stuff bothers you. Higher randomness recommended.*
+
+>I was too fucked up to leave the Hotel Waslala last week. Lava Lavonda and Flacca-Coati brought my drugs over from their favorite junk shack up on First Ave. They hooted and hollered at the sight of my tanned limbs covered with shit stains, dried blood, and dried-up chunks of sputum.
+>
+>"You sure are a fucked-up specimen," said Flacca-Coati, stretching his six-fingered hands out to caress the side of my bald head. He fondled a loose scab the size and shape of a plum. It flaked off, exposing the oozing sanguine layer beneath.
+>
+>"See what this disease do to a man?"
+>
+>Lava Lavonda, whose thin lips were chapped to the point of bleeding, spoke. "Fucks up his head." She wrinkled her little brows together. "That's why the Lord gave us an immune system."
+
+>**Characters in this story:**
+>
+>1\. Doc Landreth — Junkologist extraordinaire, guru in human lemmingdom, ardent debauchatarian, bon vivant par excellence
+>
+>2\. Lady Rachelle — Philistine, bohemian hedonist, madcap explorer and high society basher
+>
+>3\. Judge Guarino — Famous lepidopterist, supercilious court-house cockroach, alleged blackmailer of the German Red Cross
+>
+>4\. Flim Flim — Brilliant but erratic former boyfriend of Lady Rachelle and ex-manager of the Spanish National Poodle Tennis Federation
 
 ##### [Ninteen Eighty-Four](https://files.catbox.moe/co72j7.zip)
 
@@ -3303,6 +3525,34 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 >We're gonna blaze it
 >
 >Hey, hey, you'll never see my end
+
+### [Online Hell Tweet Generator](https://files.catbox.moe/tbnsyx.module)
+
+[by mark and jez](https://discord.com/channels/836774308772446268/939922436500107314/946053566341201920)
+
+*Trained on tweets that either capture the absurdity of modern living or are written in an odd manner unique to the terminally online, this module aims to take you on a journey through Online Hell (or maybe just give you an idea for your next tweet).*
+
+***Tags:** twitter, internet, memes, zoomer, millennial*
+
+***Sources:** A variety of tweets from various corners of the Twitterverse, many of which are idiosyncratic and use a variety of formats which likely explains the high AL (449 KB, 498 steps, 100.52% coverage, Average Loss: 3.4635)*
+
+***Notes:** Typically generates "Tweet:" followed by the tweet, then asterisks, and then the cycle repeats ad nauseam. Since this is trained on tweets (many of which are vulgar and/or deranged), expect some content that may be worse than PG-13.  Low rep pen and higher randomness recommended for the true Online Hell experience (yes, this includes the parts where the AI goes incoherent).  Morpho and Gojira have been my favorite presets for it so far.*
+
+>(holding up a picture of me) "look son this is what you will become if you don't go to your music theory final" (setting the pic on fire and watching it burn in front of him) this is your future buddy
+
+>when ur homeboy shits in your front yard and you hav 2 go clean it up because his lazy ass can't use the lawn scoop lol #bebanned pic.twitter.com/lClXagggG4
+
+>i wonder if it would be possible for someone to go full blown ronald mcdonald over night
+
+>(me) we should all wear kyuss band shirts today
+>
+>(h8er) I'm on this hilltop in a ghillie suit
+
+>**im going to** stream me laying on my death bed bc of chemtrail exposure
+>
+>(after 15 mins)
+>
+>i felt some rumbly in my stomach.
 
 ***
 ***
