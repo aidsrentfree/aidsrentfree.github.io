@@ -29,6 +29,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Old West](#old-west) module.
 - Added [The Club](#the-club).
 - Added [Underworld](#underworld) module.
+- Added [Fate/stay night](#fatestay-night) module.
 
 (25th February, 2022)
 
@@ -243,6 +244,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [The King James Bible](#the-king-james-bible)
   - [Visual Novels](#visual-novels)
     - [Ace Attorney](#ace-attorney)
+    - [Fate/stay night](#fatestay-night)
     - [Steins;Gate](#steinsgate)
   - [Light Novels](#light-novels)
     - [A Certain Magical Index (1-22)](#a-certain-magical-index-1-22)
@@ -3099,6 +3101,32 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >Phoenix: Very well. I will attempt to convince you all by showing you exactly what happened on that fateful day.
 >
 >Athena: Yeehaw!
+
+#### [Fate/stay night](https://files.catbox.moe/ow4a55.module)
+
+[by Khoa Phan](https://story-explorer.ai/index.php?view=article&id=126:fate-stay-night-for-euterpe&catid=16)
+
+*Clock Tower 2015, Fate Labyrinth, Fate Requiem, Fate Zero Another Story, Fate Zero, Garden of Avalon and Lord El-Melloi II Case Files.*
+
+***Tags:** Anime, Urban Fantasy, Fate Stay/Night*
+
+*Credit to DrYazman for providing the dataset.*
+
+Example Text:
+
+>An emptiness that could only be described as a void.
+>
+>The air was so cold it made his throat hurt, and the wind howled around him like an animal in pain. The moonlight pierced through the clouds above, illuminating the barren wasteland below with its pale light. There were no trees or shrubs to block out the wind here, just endless rows of rocks stretching off into the distance. It seemed to stretch on forever, but there was nothing more than this desolate place.
+>
+>It had been raining for days now - even the sky was covered by dark clouds. Even if he looked up at them, they didn't seem like they would ever break apart. He felt like he was standing on the edge of something very large, something beyond his understanding. Something that couldn't possibly exist in reality.
+>
+>He stood there silently, looking down at the ground before him. A single black umbrella hung from one hand. His hair fluttered about in the wind, and raindrops dripped onto his face. The sound of the rain echoed throughout the empty landscape, drowning out everything else.
+>
+>"You're late."
+>
+>A voice suddenly spoke behind him, and he turned back to look. Standing beside him was a man wearing a long coat over a white shirt and trousers. From his appearance alone, he might have been mistaken for a priest of some kind. But the way he held himself betrayed his true nature. His hands were clasped together tightly, and his eyes were fixed straight ahead. He seemed to be staring directly into space, but when he noticed Saber's presence he quickly averted his gaze.
+>
+>Saber nodded slightly, then began walking forward towards the rock formation in front of her. She stopped right in front of it, then slowly reached out to touch the surface of the stone.
 
 #### [Steins;Gate](https://files.catbox.moe/cwrnv9.module)
 
