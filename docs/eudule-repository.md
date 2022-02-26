@@ -23,6 +23,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(26th February, 2022)
+
+- Added [Mushoku Tensei](#mushoku-tensei) module.
+- Added [Old West](#old-west) module.
+- Added [The Club](#the-club).
+
 (25th February, 2022)
 
 - Added [Sweet Time](#sweet-time) module.
@@ -74,19 +80,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Discworld](#discworld) module.
 - Added [Rural Horror](#in-the-fields) module.
 - Added [Eroguro](#eroguro) module.
-
-(18th, February, 2022)
-
-- Added [Arrested Development](#arrested-development) module.
-- Added [Library of Ruina](#library-of-ruina) module.
-- Added [Furry](#furry) module.
-- Added [Elder Scrolls Beastfolk](#khajit-and-argonians) module.
-- Added [Furdrone](#dronifurcation) module.
-- Added [Harry Potter](#harry-potter) module.
-- Added [Light Novel School Romantic Comedy](#ln-school-rom-com) module.
-- Added [The Dresden Files](#the-dresden-files) module.
-- Updated [Furry Character Generator](#furry-character-generator) module with "final" version.
-- Added [Kinky Friedman](#kinky-friedman) module.
 
 ***
 
@@ -153,6 +146,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [In The Fields](#in-the-fields)
       - [LN School Rom-Com](#ln-school-rom-com)
       - [Norse](#norse)
+      - [Old West](#old-west)
       - [Oriental Fantasy](#oriental-fantasy)
       - [Poetic Fantasy](#poetic-fantasy)
       - [Russian Folklore & Fantasy](#russian-folklore--fantasy)
@@ -252,6 +246,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [A Certain Magical Index (1-22)](#a-certain-magical-index-1-22)
     - [Fate/Zero](#fatezero)
     - [Highschool DxD (1-10)](#highschool-dxd-1-10)
+    - [Mushoku Tensei](#mushoku-tensei)
     - [Oregairu](#oregairu)
     - [The Saga of Tanya the Evil](#the-saga-of-tanya-the-evil)
     - [Spice and Wolf](#spice-and-wolf)
@@ -281,6 +276,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Seinfeld](#seinfeld)
 - [Utilities](#utilities)
   - [/aids/](#aids)
+  - [The Club](#the-club)
   - [Creative Cooking](#creative-cooking)
   - [Furry Character Generator](#furry-character-generator)
   - [The Guy Fieri Menu Item Generator Module](#the-guy-fieri-menu-item-generator-module)
@@ -1287,6 +1283,36 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >She took a deep breath and exhaled slowly before starting off down the slope towards the river, keeping low beneath the boughs of the trees and making sure not to disturb anything on the ground below. There were plenty of animals in these woods – elk, deer, wild boar and bear, though she hadn't seen one yet this season. But there was no need to worry about them today: they all knew better than to come near the settlement during daylight hours, especially if they saw or heard anyone coming along the trail.
 >
 >The forest was silent except for the occasional birdcall and rustle of leaves in the breeze. It made Elvar feel small and insignificant compared to nature's grandeur, but then again, perhaps that was exactly what she needed right now.
+
+##### [Old West](https://anonfiles.com/lam637K7x3/Old_West_module)
+
+[by Basileus](https://story-explorer.ai/index.php?view=article&id=124:old-west&catid=16)
+
+*Six-shooters and stallions, banditos and bordellos - life in the untamed frontiers of the Old West. Mostly well-regarded novels set in the Wild West, but with a few historical accounts or more modern stories for diversity of perspective.*
+
+***Training Corpus:** 10.6 MB, 12,480 steps, 100% coverage, 2.81 loss*
+
+- Lonesome Dove by Larry McMurtry
+- Warlock by Oakley Hall
+- Bury My Heart at Wounded Knee by Dee Brown
+- The Lonesome Gods by Louis L'Amour
+- The Assassination of Jesse James by the Coward Robert Ford by Ron Hansen
+- The Virginian by Owen Wister
+- Inland by Tea Obreht
+- Riders of the Purple Sage by Zane Grey
+- Butcher's Crossing by John Williams
+- The Searchers by Alan Le May
+- The Revenant by Michael Punke
+- The Ox-Bow Incident by Walter Van Tilburg Clark
+- The Sisters Brothers by Patrick deWitt
+- Hondo by Louis L'Amour
+- True Grit by Charles Portis
+- Little House on the Prairie by Laura Ingalls Wilder
+- Valdez Is Coming by Elmore Leonard
+- The Shootist by Glendon Swarthout
+- Shane by Jack Shaefer
+
+>**A dusty sunrise gleamed over the canyon, painting the cliffs with blood-red hues**. The sun was not yet high enough to touch the top of the mountains; it seemed that they were rising from a sea of mist and clouds. A faint breeze stirred the branches of cottonwoods in the meadow below us. I looked down at my horse's ears as he stood chewing his cud beside the wagon tongue. He had been restless all night—waking every few minutes, snorting and pawing the ground like an animal who has lost its way. We could hear the coyotes yipping somewhere out there on the plain; they sounded so close we might have stepped into their den if we hadn't known better. There would be no sleep for either man or beast this morning.
 
 ##### [Oriental Fantasy](https://files.catbox.moe/kq71e0.module)
 
@@ -3097,6 +3123,36 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Here is the Highschool DxD module, trained on the first ten LNs, updated for Euterpe!*
 
+#### [Mushoku Tensei](https://anonfiles.com/Z9hb3dK5x7/Mushoku_Tensei_Volumes_1-15_module)
+
+[by Khoa Phan](https://story-explorer.ai/index.php?view=article&id=123:mushoku-tensei&catid=16)
+
+*This module uses the official Mushoku Tensei's english translation by Seven Seas Entertainment for Euterpe v2.*
+
+***Tags:** Anime, Isekai, Fantasy*
+
+>I noticed that the area around us was getting darker, and I realized it had to be night. It’d been a while since we’d stopped for food or rest; our supplies were running low. We needed to find someplace safe where we could spend the night.
+>
+>It didn’t look like there was much of anything nearby, though. There weren’t any buildings in sight at all—just trees and grassy plains. The only thing I saw with even a little bit of light coming from it was a small hut on top of a hill. That must have been the place we wanted to go to.
+>
+>We started walking toward it. As soon as we got closer, I felt something strange. Something…odd.
+>
+>There was no one inside the house, but I still sensed an air of hostility emanating from within. Not just hostility, actually: fear. Fear of us. Of me specifically.
+>
+>And yet, despite the fact that this house seemed to be empty, there were signs of people living here before. A few pieces of furniture stood out among the darkness. And then there was the smell of food cooking. But nobody came out to greet us when we knocked on the door. They just stared at us from behind the closed door.
+>
+>Something about the way they looked at me made my skin crawl. I knew I wasn’t doing anything wrong, but they kept their distance nonetheless. I tried knocking again, louder this time, but nothing changed. So I decided to try breaking down the door instead.
+>
+>s I expected, it didn’t budge. I was starting to feel uneasy by now. If I hadn’t known better, I would have assumed someone was hiding inside, waiting for us to come close so they could attack us.
+>
+>The thought sent a chill up my spine. I couldn’t help but wonder if maybe I should leave this place alone after all. Maybe it wasn’t such a good idea to stay here.
+>
+>But then, as I was considering leaving, I heard a voice.
+>
+>“Who are you? What do you want?”
+>
+>A woman’s voice. She sounded pretty old, and she spoke in a quiet tone.
+
 #### [Oregairu](https://files.catbox.moe/0jz3u4.module)
 
 [by Player of Games](https://discord.com/channels/836774308772446268/939922436500107314/945810944716591134)
@@ -3574,6 +3630,14 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 *It's pretty much total nonsense but it can spit out some amusing stuff with enough retries. I'm not sure the filenames were worth it, they probably clutter up the token probabilities and cause loops occasionally.*
 
 *I think this could be pretty good if I was more selective about the source data and massaged it a bit better.*
+
+### [The Club](https://anonfiles.com/V9h536K1xa/TheClub_module)
+
+[by](https://arch.b4k.co/vg/thread/374109145/#374200424) [Anons](https://arch.b4k.co/vg/thread/374109145/#374204323)
+
+*Maybe today someone will do it (:*
+
+*Every prompt from the club except most tools and generators, annotated with title and tags. 132.24% coverage*
 
 ### [Creative Cooking](https://files.catbox.moe/scmge5.module)
 
