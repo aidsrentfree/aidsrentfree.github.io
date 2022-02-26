@@ -28,6 +28,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Mushoku Tensei](#mushoku-tensei) module.
 - Added [Old West](#old-west) module.
 - Added [The Club](#the-club).
+- Added [Underworld](#underworld) module.
 
 (25th February, 2022)
 
@@ -143,6 +144,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Cyberpunk (Annotated)](#cyberpunk-annotated)
       - [Desert Fantasy and Folklore](#desert-fantasy-and-folklore)
       - [Elizabethan Fantasy](#elizabethan-fantasy)
+      - [The Great War](#the-great-war)
       - [In The Fields](#in-the-fields)
       - [LN School Rom-Com](#ln-school-rom-com)
       - [Norse](#norse)
@@ -154,7 +156,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Speculative Science Fiction](#speculative-science-fiction)
       - [Surrealistic Look Through the Glass](#surrealistic-look-through-the-glass)
       - [Sword and Sorcery](#sword-and-sorcery)
-      - [The Great War](#the-great-war)
+      - [Underworld](#underworld)
       - [Western Romance](#western-romance)
       - [Western](#western)
   - [Elements](#elements)
@@ -1200,6 +1202,19 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >
 >A heart that never is sad.
 
+##### [The Great War](https://files.catbox.moe/ke8xa6.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/371544232/#371552753)
+
+*Updated the WW1 module for Euterpe*
+
+> \>what went into this?
+
+*Autism. Autism went into that, along with All Quiet on the Western Front by Erich Maria Remarque, A Storm of Steel by Ernst Jünger, Under Fire by Henri Barbusse , poems by Wilfred Own, Infantry Attacks by Rommel, and more.*<br>
+*Basically first person past tense accounts of infantry on the western front, both historical and fictional to hopefully give an impression of the horrors of early 20th century combat and the disaffected ruined youth of that generation.*
+
+*I'll probably eventually whip up editions for the east, Italian front, and air combat.*
+
 ##### [In The Fields](https://files.catbox.moe/fdw86z.module)
 
 [by Taboo](https://discord.com/channels/836774308772446268/939922436500107314/944713818687275019)
@@ -1586,18 +1601,33 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >
 >Conan shook his head, and Kavo smiled. He led them down a corridor to another room.
 
-##### [The Great War](https://files.catbox.moe/ke8xa6.module)
+##### [Underworld](https://anonfiles.com/B3p93dK2x2/Underworld_module)
 
-[by Anon](https://arch.b4k.co/vg/thread/371544232/#371552753)
+[by Basileus](https://story-explorer.ai/index.php?view=article&id=125:underworld&catid=16)
 
-*Updated the WW1 module for Euterpe*
+*Hell. The underworld. Dimensions of terror, suffering, and despair. Trained on a mixture of novels set in variations of Hell with a smattering of some other "horrific realities" (so might be also useful for something like a Silent Hill type story).*
 
-> \>what went into this?
+***Content Note:** Was a close call on whether this is SFW or NSFW. This isn't a "lewd" module, per se, but it might will be disturbing/NSFL.*
 
-*Autism. Autism went into that, along with All Quiet on the Western Front by Erich Maria Remarque, A Storm of Steel by Ernst Jünger, Under Fire by Henri Barbusse , poems by Wilfred Own, Infantry Attacks by Rommel, and more.*<br>
-*Basically first person past tense accounts of infantry on the western front, both historical and fictional to hopefully give an impression of the horrors of early 20th century combat and the disaffected ruined youth of that generation.*
+***Training Corpus:** 5.47 MB, 6398 steps, 100% coverage, 2.8 loss*
 
-*I'll probably eventually whip up editions for the east, Italian front, and air combat.*
+- Desperation by Stephen King
+- God's Demon by Wayne Barlowe
+- The Scarlet Gospels by Clive Barker
+- City Infernal by Edward Lee
+- Dead Sea Chronicles by Tim Curran
+- The Black Farm by Elias Witherow
+- The Hollow Places by T. Kingfisher
+- Letters from Hades by Jeffrey Thomas
+- The Book of Atocities by Wol-vriey
+- Inferno by Larry Niven
+- Dante's Inferno by Dante Alighieri
+- A Short Stay in Hell by Steven Peck
+- One for the Road by Wesley Southard
+
+>**The porous, gaping wounds in the ground were slick with gore and filth.** The air was thick with flies buzzing around a pile of decaying flesh that lay at its center like some obscenely bloated corpse flower. It looked as though it had been torn apart by animals or perhaps even demons from Hell itself: bones picked clean to reveal the marrow within; skin flayed away to expose the sinew beneath...and then there was the smell—a foul stench of rotting meat and excrement.
+>
+>It wasn't long before we came upon another such pit, this one containing what appeared to be the remains of several men who'd died violently. There were no signs of any beasts having done their work here, but I could see where something large had dragged them into place and left them for dead. One man's skull was crushed beyond recognition while another had his throat ripped out. They both wore leather armor made from animal hide and carried swords and spears that had once belonged to others. Their hands still gripped the hilts of these weapons when they met their ends.
 
 ##### [Western Romance](https://files.catbox.moe/1fk9a8.module)
 
