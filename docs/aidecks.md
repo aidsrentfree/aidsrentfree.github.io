@@ -65,6 +65,9 @@ Probably! This is a brand new event after all. If something isn't working, be su
 ## **/aids/ Starship Exploration Vessel**
 {: .center}
 
+![/aids/ Starship Exploration Vessel](https://litter.catbox.moe/733e84.png)
+{: .center}
+
 *Space... The Final Frontier. These are the voyages of starship /aids/. Its continuing mission: To explore strange new worlds. To seek out new waifus and husbandos. To boldly cum where no man has cum before!*
 {: .center}
 
