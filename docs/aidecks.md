@@ -84,6 +84,7 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | ![Card](https://files.catbox.moe/p5i0ls.png) | The Mess Hall | For eating and chatting | [Rentry](https://rentry.org/2tgzb) |
 
 ### **Other Ships**
+{: .center}
 
 | Card | Name | Description | Post |
 |:---:|---|:---:|:---:|
@@ -112,6 +113,7 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | ![Card](https://files.catbox.moe/khkhgf.png) | Derek Daniels | An engineer who works aboard the Kestral, and wishes to visit Lusitania G2 to film a documentary. | [>>374275853](https://arch.b4k.co/vg/thread/374254308/#374275853)
 
 ### **Space Phenomena**
+{: .center}
 
 | Card | Name | Description | Post |
 |:---:|---|:---:|:---:|
@@ -125,6 +127,7 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | ![Card](https://files.catbox.moe/agfxm8.png) | Lusitania G2 | Affectionately known as LG World, a planet inhabited entirely by little girls! | [>>374275853](https://arch.b4k.co/vg/thread/374254308/#374275853) |
 
 ### **Lifeforms**
+{: .center}
 
 | Card | Name | Description | Post |
 |:---:|---|:---:|:---:|
