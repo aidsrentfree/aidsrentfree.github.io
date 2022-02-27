@@ -110,7 +110,8 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | ![Card](https://files.catbox.moe/ifl4uc.png) | Patricia Remington | a biologist with a bubbly personality and a tendency to get into trouble. | [Rentry](https://rentry.org/2tgzb) |
 | ![Card](https://files.catbox.moe/y3ibyf.png) | Rutger Zaal | A Dutch diplomat that's cold and calculating, but is rumored to hide a dirty, kinky side that fucks like a tiger. | [Rentry](https://rentry.org/2tgzb) |
 | ![Card](https://files.catbox.moe/4nzkxh.png) | Xia Hou | A Chinese away team member with an anger problem and a drinking problem. Somehow, they seem to cancel themselves out at times. | [Rentry](https://rentry.org/2tgzb) |
-| ![Card](https://files.catbox.moe/khkhgf.png) | Derek Daniels | An engineer who works aboard the Kestral, and wishes to visit Lusitania G2 to film a documentary. | [>>374275853](https://arch.b4k.co/vg/thread/374254308/#374275853)
+| ![Card](https://files.catbox.moe/khkhgf.png) | Derek Daniels | An engineer who works aboard the Kestral, and wishes to visit Lusitania G2 to film a documentary. | [>>374275853](https://arch.b4k.co/vg/thread/374254308/#374275853) |
+| ![Card](https://files.catbox.moe/snjfyh.png) | T'Nori | A curious feline alien who loves meeting new people and learning all about them. | [>>374280637](https://arch.b4k.co/vg/thread/374254308/#374280637)
 
 ### **Space Phenomena**
 {: .center}
