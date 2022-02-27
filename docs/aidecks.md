@@ -80,18 +80,18 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | Card | Name | Description | Post |
 |---|:---:|:---:|:---:|
 | ![Card](https://files.catbox.moe/cfek2z.png) | VT-23 Kestrel | Alright, some of you might have seen me spit out this trash a couple threads ago. Unfortunately I couldn't refine it since then since I've been without internet for the past several days, but without further ado here's my rough draft of the Kestral, an aging light transport that takes heavy inspiration from Firefly.<br>I haven't been able to test it much, but what I've had so far is promising; the AI understands the rough dimensions of the ship, that it's old and holding together on a prayer, and it seems to be able to easily get the cozy, tight-knight crew atmosphere I was going for. As this is my first card, I welcome any and all feedback that you all have (and, if you just want me to stop posting this thing, this is the last time unless I make an updated version).<br>But what's a ship without a crew to live on it? Because of my aforementioned no Internet issue I haven't been able to do as much on the crew as I'd like, but you have my word they'll be done by the 28th of February. First should be a two-for-one muscular catgirl duo, with an older human captain right on their heels. If anyone has any requests, let me know and I'll see if my limited skills can accommodate you. | [>>372381010](https://arch.b4k.co/vg/thread/372230097/#372381010) |
-| ![Card](https://files.catbox.moe/ph30tx.png) | Companionship Cabin | Companionship Cabin (replica of a hotel room for rest, relaxation and maybe a bit more) | [>>372492836](https://arch.b4k.co/vg/thread/372436776/#372492836) |
-| ![Card](https://files.catbox.moe/77g6f7.png) | Medical Bay | Medical Bay (somewhat decently stocked, has some things in it that might be able to be used for unsavory purposes) | [>>372492836](https://arch.b4k.co/vg/thread/372436776/#372492836) |
-| ![Card](https://files.catbox.moe/l13nj2.png) | Hydroponics Station | Hydroponics Section (grows some assorted fruit and veg for diet diversification, could however also grow some more illicit things if set up to do so) | [>>372492836](https://arch.b4k.co/vg/thread/372436776/#372492836) |
-| ![Card](https://files.catbox.moe/beq9q5.png) | The Bridge | The place where everything goes down on the ship, where the captain practically lives | [Rentry](https://rentry.org/2tgzb) |
-| ![Card](https://files.catbox.moe/p5i0ls.png) | The Mess Hall | For eating and chatting | [Rentry](https://rentry.org/2tgzb) |
+| ![Card](https://files.catbox.moe/ph30tx.png) | Companionship Cabin | Replica of a hotel room for rest, relaxation and maybe a bit more. | [>>372492836](https://arch.b4k.co/vg/thread/372436776/#372492836) |
+| ![Card](https://files.catbox.moe/77g6f7.png) | Medical Bay | Somewhat decently stocked, has some things in it that might be able to be used for unsavory purposes. | [>>372492836](https://arch.b4k.co/vg/thread/372436776/#372492836) |
+| ![Card](https://files.catbox.moe/l13nj2.png) | Hydroponics Station | Grows some assorted fruit and veg for diet diversification, could however also grow some more illicit things if set up to do so. | [>>372492836](https://arch.b4k.co/vg/thread/372436776/#372492836) |
+| ![Card](https://files.catbox.moe/beq9q5.png) | The Bridge | The place where everything goes down on the ship, where the captain practically lives. | [Rentry](https://rentry.org/2tgzb) |
+| ![Card](https://files.catbox.moe/p5i0ls.png) | The Mess Hall | For eating and chatting. | [Rentry](https://rentry.org/2tgzb) |
 
 ### **The Personnel**
 {: .center}
 
 | Card | Name | Description | Post |
 |:---:|---|:---:|:---:|
-| ![Card](https://files.catbox.moe/sneome.png) | Portia Duvall | I'd use the /aids/ spaceship to go kidnap a western-timey AID character from the past <prompts.aidg.club/960> | [>>372504360](https://arch.b4k.co/vg/thread/372436776/#372504360) |
+| ![Card](https://files.catbox.moe/sneome.png) | Portia Duvall | I'd use the /aids/ spaceship to go kidnap a western-timey AID character from the past: <https://prompts.aidg.club/960> | [>>372504360](https://arch.b4k.co/vg/thread/372436776/#372504360) |
 | ![Card](https://files.catbox.moe/76tkjq.png) | Jack Wakefield | A wiz of a mechanic that people tolerate despite him being a pervert that constantly hits on guys (because there's less competition than with the girls) | [Rentry](https://rentry.org/2tgzb) |
 | ![Card](https://files.catbox.moe/4ds5my.png) | Coline Savatier | A French pilot with a motherly disposition and insecurity regarding her petite body. | [>>372504563](https://arch.b4k.co/vg/thread/372436776/#372504563) |
 | ![Card](https://files.catbox.moe/svgob8.png) | Major Eliza Norris | A militaristic captain that insists on being called by her rank and runs the ship like a regiment. | [>>372504563](https://arch.b4k.co/vg/thread/372436776/#372504563) |
@@ -123,8 +123,8 @@ Probably! This is a brand new event after all. If something isn't working, be su
 
 | Card | Name | Description | Post |
 |:---:|---|:---:|:---:|
-| ![Card](https://files.catbox.moe/cow55m.png) | The Avalon | A top of the line exploration vessel fitted with all the luxuries and machinery you might need | [Rentry](https://rentry.org/2tgzb) |
-| ![Card](https://files.catbox.moe/frqptu.png) | The Persephone | An older shitbox that lacks most utilities that are expected these days, but still somehow seems to just work | [Rentry](https://rentry.org/2tgzb) |
+| ![Card](https://files.catbox.moe/cow55m.png) | The Avalon | A top of the line exploration vessel fitted with all the luxuries and machinery you might need. | [Rentry](https://rentry.org/2tgzb) |
+| ![Card](https://files.catbox.moe/frqptu.png) | The Persephone | An older shitbox that lacks most utilities that are expected these days, but still somehow seems to just work. | [Rentry](https://rentry.org/2tgzb) |
 
 ### **Space Phenomena**
 {: .center}
@@ -133,11 +133,11 @@ Probably! This is a brand new event after all. If something isn't working, be su
 |:---:|---|:---:|:---:|
 | ![Card](https://files.catbox.moe/3muwhd.png) | Eumia | A planet known as the galactic brothel due to lax prostitution laws leading to a flourishing sex work industry. | [Rentry]() |
 | ![Card](https://files.catbox.moe/dc7o3m.png) | The Passion Nebula | A phenomenon that entraps ships with its strong aphrodisiac effect turning ship crews into massive orgies. | [Rentry](https://rentry.org/2tgzb) |
-| ![Card](https://files.catbox.moe/xd888b.png) | Xainope | A permanent winter planet where the denizens have evolved to a Medieval-like technology level that they cling to despite knowing of advancements from further in the galaxy | [Rentry](https://rentry.org/2tgzb) |
-| ![Card](https://files.catbox.moe/lcicrg.png) | Yeuthea | A planet of merchants that is surrounded by space stations - whatever you need, you can find it on Yeuthea | [Rentry](https://rentry.org/2tgzb) |
-| ![Card](https://files.catbox.moe/jm120l.png) | Antimony V | a planet of isolationist bastards that build tall and want you to tell of their advancements | [Rentry](https://rentry.org/2tgzb) |
+| ![Card](https://files.catbox.moe/xd888b.png) | Xainope | A permanent winter planet where the denizens have evolved to a Medieval-like technology level that they cling to despite knowing of advancements from further in the galaxy. | [Rentry](https://rentry.org/2tgzb) |
+| ![Card](https://files.catbox.moe/lcicrg.png) | Yeuthea | A planet of merchants that is surrounded by space stations - whatever you need, you can find it on Yeuthea. | [Rentry](https://rentry.org/2tgzb) |
+| ![Card](https://files.catbox.moe/jm120l.png) | Antimony V | a planet of isolationist bastards that build tall and want you to tell of their advancements. | [Rentry](https://rentry.org/2tgzb) |
 | ![Card](https://files.catbox.moe/md9v1o.png) | The Dardaron Belt | An asteroid belt that seems to hold securely locked up remnants of an old, advanced civilization. | [Rentry](https://rentry.org/2tgzb) |
-| ![Card](https://files.catbox.moe/8tb9iw.png) | Filigren | A picturesque planet, free of exploitation by corporations. Find new and interesting fauna and flora, or just relax and take a load off | [Rentry](https://rentry.org/2tgzb) |
+| ![Card](https://files.catbox.moe/8tb9iw.png) | Filigren | A picturesque planet, free of exploitation by corporations. Find new and interesting fauna and flora, or just relax and take a load off. | [Rentry](https://rentry.org/2tgzb) |
 | ![Card](https://files.catbox.moe/agfxm8.png) | Lusitania G2 | Affectionately known as LG World, a planet inhabited entirely by little girls! | [>>374275853](https://arch.b4k.co/vg/thread/374254308/#374275853) |
 
 ### **Lifeforms**
