@@ -54,11 +54,11 @@ Probably! This is a brand new event after all. If something isn't working, be su
 	- [Who asked for this?](#who-asked-for-this)
 - [**/aids/ Starship Exploration Vessel**](#aids-starship-exploration-vessel)
 	- [**The Ship**](#the-ship)
-	- [**Other Ships**](#other-ships)
 	- [**The Personnel**](#the-personnel)
+	- [**The Equipment**](#the-equipment)
+	- [**Other Ships**](#other-ships)
 	- [**Space Phenomena**](#space-phenomena)
 	- [**Lifeforms**](#lifeforms)
-	- [**The Equipment**](#the-equipment)
 
 ***
 
@@ -86,15 +86,6 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | ![Card](https://files.catbox.moe/beq9q5.png) | The Bridge | The place where everything goes down on the ship, where the captain practically lives | [Rentry](https://rentry.org/2tgzb) |
 | ![Card](https://files.catbox.moe/p5i0ls.png) | The Mess Hall | For eating and chatting | [Rentry](https://rentry.org/2tgzb) |
 
-### **Other Ships**
-{: .center}
-
-| Card | Name | Description | Post |
-|:---:|---|:---:|:---:|
-| ![Card](https://files.catbox.moe/cow55m.png) | The Avalon | A top of the line exploration vessel fitted with all the luxuries and machinery you might need | [Rentry](https://rentry.org/2tgzb) |
-| ![Card](https://files.catbox.moe/frqptu.png) | The Persephone | An older shitbox that lacks most utilities that are expected these days, but still somehow seems to just work | [Rentry](https://rentry.org/2tgzb) |
-
-
 ### **The Personnel**
 {: .center}
 
@@ -116,6 +107,25 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | ![Card](https://files.catbox.moe/khkhgf.png) | Derek Daniels | An engineer who works aboard the Kestral, and wishes to visit Lusitania G2 to film a documentary. | [>>374275853](https://arch.b4k.co/vg/thread/374254308/#374275853) |
 | ![Card](https://files.catbox.moe/snjfyh.png) | T'Nori | A curious feline alien who loves meeting new people and learning all about them. | [>>374280637](https://arch.b4k.co/vg/thread/374254308/#374280637)
 
+### **The Equipment**
+{: .center}
+
+| Card | Name | Description | Post |
+|:---:|---|:---:|:---:|
+| ![Card](https://files.catbox.moe/8zg4wn.png) | Fake Booty Buster | Every good space opera obviously needs satisfying weaponry. In the name of galactic ethics, perhaps killing everything on sight is less humane than non-lethal 'pacification'. I suppose the Kestral is forward-thinking, by our cultural standards.<br>Go forth and gape some alien life. Leave no booty unbusted. | [>>372474879](https://arch.b4k.co/vg/thread/372436776/#372474879) |
+| ![Card](https://files.catbox.moe/ibuk6i.png) | The First Option | a simple yet effective stun rifle for personal protection while on exploration missions while not disturbing the local wildlife. | [Rentry](https://rentry.org/2tgzb) |
+| ![Card](https://files.catbox.moe/45683u.png) | The Regulator | A basic but workable laser pistol that makes a serviceable backup for pretty much any situation. | [Rentry](https://rentry.org/2tgzb) |
+| ![Card](https://files.catbox.moe/evmubl.png) | The Heavy Ordnance | A triple-fire rocket launcher that's unwieldy, but packs a massive punch for when you need that. | [Rentry](https://rentry.org/2tgzb) |
+| ![Card](https://files.catbox.moe/5qopbl.png) | The Mindmelter | An experimental prototype weapon that can turn anyone into a willing slave, but could backfire and explode at any moment due to being rickety and experimental. | [Rentry](https://rentry.org/2tgzb) |
+
+### **Other Ships**
+{: .center}
+
+| Card | Name | Description | Post |
+|:---:|---|:---:|:---:|
+| ![Card](https://files.catbox.moe/cow55m.png) | The Avalon | A top of the line exploration vessel fitted with all the luxuries and machinery you might need | [Rentry](https://rentry.org/2tgzb) |
+| ![Card](https://files.catbox.moe/frqptu.png) | The Persephone | An older shitbox that lacks most utilities that are expected these days, but still somehow seems to just work | [Rentry](https://rentry.org/2tgzb) |
+
 ### **Space Phenomena**
 {: .center}
 
@@ -136,14 +146,3 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | Card | Name | Description | Post |
 |:---:|---|:---:|:---:|
 | ![Card](https://files.catbox.moe/5u0zps.png) | Lusitanians | An engineer who works aboard the Kestral, and wishes to visit Lusitania G2 to film a documentary. | [>>374275853](https://arch.b4k.co/vg/thread/374254308/#374275853) |
-
-### **The Equipment**
-{: .center}
-
-| Card | Name | Description | Post |
-|:---:|---|:---:|:---:|
-| ![Card](https://files.catbox.moe/8zg4wn.png) | Fake Booty Buster | Every good space opera obviously needs satisfying weaponry. In the name of galactic ethics, perhaps killing everything on sight is less humane than non-lethal 'pacification'. I suppose the Kestral is forward-thinking, by our cultural standards.<br>Go forth and gape some alien life. Leave no booty unbusted. | [>>372474879](https://arch.b4k.co/vg/thread/372436776/#372474879) |
-| ![Card](https://files.catbox.moe/ibuk6i.png) | The First Option | a simple yet effective stun rifle for personal protection while on exploration missions while not disturbing the local wildlife. | [Rentry](https://rentry.org/2tgzb) |
-| ![Card](https://files.catbox.moe/45683u.png) | The Regulator | A basic but workable laser pistol that makes a serviceable backup for pretty much any situation. | [Rentry](https://rentry.org/2tgzb) |
-| ![Card](https://files.catbox.moe/evmubl.png) | The Heavy Ordnance | A triple-fire rocket launcher that's unwieldy, but packs a massive punch for when you need that. | [Rentry](https://rentry.org/2tgzb) |
-| ![Card](https://files.catbox.moe/5qopbl.png) | The Mindmelter | An experimental prototype weapon that can turn anyone into a willing slave, but could backfire and explode at any moment due to being rickety and experimental. | [Rentry](https://rentry.org/2tgzb) |
