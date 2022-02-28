@@ -106,6 +106,9 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | ![Card](https://files.catbox.moe/4nzkxh.png) | Xia Hou | A Chinese away team member with an anger problem and a drinking problem. Somehow, they seem to cancel themselves out at times. | [Rentry](https://rentry.org/2tgzb) |
 | ![Card](https://files.catbox.moe/khkhgf.png) | Derek Daniels | An engineer who works aboard the Kestral, and wishes to visit Lusitania G2 to film a documentary. | [>>374275853](https://arch.b4k.co/vg/thread/374254308/#374275853) |
 | ![Card](https://files.catbox.moe/snjfyh.png) | T'Nori | A curious feline alien who loves meeting new people and learning all about them. | [>>374280637](https://arch.b4k.co/vg/thread/374254308/#374280637)
+| ![Card](https://files.catbox.moe/sxe5fg.png) | Fayne | Sarcastic Insectoid intelligence officer who can learn a new language in a matter of minutes. | [>>374262413](https://arch.b4k.co/vg/thread/374254308/#374262413) |
+| ![Card](https://files.catbox.moe/o9oozz.png) | Vexene Regelia | Peppy plant girl field agent who just wants to adventure. | [>>374262413](https://arch.b4k.co/vg/thread/374254308/#374262413) |
+| ![Card](https://files.catbox.moe/7spwo6.png) | Mona Rogers | Ship's Chef and Caribbean mommy. I'm not sure how well the AI can infer accents so you'll probably have to lead it by the nose until it gets it. | [>>374262413](https://arch.b4k.co/vg/thread/374254308/#374262413) |
 
 ### **The Equipment**
 {: .center}
@@ -146,3 +149,6 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | Card | Name | Description | Post |
 |:---:|---|:---:|:---:|
 | ![Card](https://files.catbox.moe/5u0zps.png) | Lusitanians | An engineer who works aboard the Kestral, and wishes to visit Lusitania G2 to film a documentary. | [>>374275853](https://arch.b4k.co/vg/thread/374254308/#374275853) |
+| ![Card](https://files.catbox.moe/nwvkva.png) | Pyste | Androgynous snake people who could work as pickpockets, thugs, crew members or whores. | [>>374262413](https://arch.b4k.co/vg/thread/374254308/#374262413) |
+| ![Card](https://files.catbox.moe/ifhrnk.png) | Volga | Volatile slime people who are as hot tempered as the volcanoes they spawn in. | [>>374262413](https://arch.b4k.co/vg/thread/374254308/#374262413) |
+| ![Card](https://files.catbox.moe/82zrag.png) | Empress Kindred | Antagonistic space-vampire who rules her own galactic empire. If you needed an objective to chase, now you have one. | [>>374262413](https://arch.b4k.co/vg/thread/374254308/#374262413)
