@@ -23,6 +23,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(28th February, 2022)
+
+- Added [C. D. E Cuckold](#c-d-e-cuckold) module.
+- Added [Yu-Gi-Oh Cards](#yu-gi-oh-cards) module.
+- Added [Clickhole](#clickhole) module.
+
 (26th February, 2022)
 
 - Added [Mushoku Tensei](#mushoku-tensei) module.
@@ -70,18 +76,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 - Added [Video Games](#video-games) module.
 - Added [Star Trek - The Next Generation](#star-trek-the-next-generation) module.
-
-(19th February, 2022)
-
-- Updated [Redwall](#redwall) with 'official' version.
-- Added [Natural Horror](#natural-horror) module.
-- Added [Alien](#alien) module.
-- Updated [Forgotten Realms](#forgotten-realms) module with the snazzy new image version.
-- Added [Forced Bi/Gay Femdom](#forced-bigay) module.
-- Added [Light Novel Blurb Generator](#light-novel-blurb-generator) module.
-- Added [Discworld](#discworld) module.
-- Added [Rural Horror](#in-the-fields) module.
-- Added [Eroguro](#eroguro) module.
 
 ***
 
@@ -208,6 +202,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Circumstances](#circumstances)
       - [Age Difference](#age-difference)
       - [Back Alleys (Gay)](#back-alleys-gay)
+      - [C. D. E Cuckold](#c-d-e-cuckold)
       - [Dad on Son](#dad-on-son)
       - [Eroguro](#eroguro)
       - [Forced Bi/Gay](#forced-bigay)
@@ -280,6 +275,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Seinfeld](#seinfeld)
 - [Utilities](#utilities)
   - [/aids/](#aids)
+  - [Clickhole](#clickhole)
   - [The Club](#the-club)
   - [Creative Cooking](#creative-cooking)
   - [Furry Character Generator](#furry-character-generator)
@@ -287,6 +283,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Light Novel Blurb Generator](#light-novel-blurb-generator)
   - [Michael Jackson Lyrics](#michael-jackson-lyrics)
   - [Online Hell Tweet Generator](#online-hell-tweet-generator)
+  - [Yu-Gi-Oh Cards](#yu-gi-oh-cards)
 
 ***
 
@@ -297,7 +294,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - [Authors](#authors) - *Modules trying to replicate an author's writing style.*
 - [Themes](#themes) - *Modules focusing on a particular theme, setting, or fetish.*
 - [Works](#works) - *Modules that attempt to imitate the style of a written work.*
-- [Utilities](#utilities) - *Modules with a non-narrative purpose.*
+- [Utilities](#utilities) - *Modules without a narrative purpose.*
 
 ***
 
@@ -2560,6 +2557,20 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Hello, I made very homo module that is themed around roaming dangerous city streets at night. It isn't perfect since it was hard to find good stories for this theme. The outputs may also be more horny than dangerous but maybe the gays in here would like that.*
 
+##### [C. D. E Cuckold](https://files.catbox.moe/ohcvpa.module)
+
+[by feisty_mountain](https://discord.com/channels/854479693503660032/939950910690439179/947427978822959114)
+
+*Constructed from edited and cleaned stories on <https://www.asstr.org/~Kristen/cde/index.htm> except for the "Dear Mother Debbie" series.*
+
+***Tags:** Cuckold, M+/F, MM, Impreg, Inter, FemDom, MDom, Humil*
+
+***Source Material:** 2.0MB, 1711 steps, 80% coverage, 2.68 loss*
+
+Stories in mostly cleaned format: <https://files.catbox.moe/hpjhy3.zip>
+
+Final training data, merged, fully cleaned: <https://files.catbox.moe/5kjbkh.zip>
+
 ##### [Dad on Son](https://files.catbox.moe/vl593y.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/371872001/#371946509)
@@ -3689,6 +3700,26 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 
 *I think this could be pretty good if I was more selective about the source data and massaged it a bit better.*
 
+### [Clickhole](https://files.catbox.moe/fn7aa3.module)
+
+[by mark and jez](https://discord.com/channels/836774308772446268/939922436500107314/947824669195661372)
+
+*Let Euterpe generate ridiculous clickbait with this module trained on articles from Clickhole, the site that believes "all content deserves to go viral".*
+
+***Tags:** satire, clickbait, news, journalism*
+
+***Sources:** A collection of Clickhole articles (502 KB, 561 steps, 100.18% coverage, Average Loss: 2.6042)*
+
+*Notes: The dataset has every article begin with "Headline:" followed by the article title, so you may want to use  "Headline:" when generating titles but it's not necessarily required. I've gotten good headlines from writing things like "What The Hell?:" or "Uh Oh:" which are typical Clickhole-style headline beginnings. On certain presets (Pro Writer 1 in particular, but idk, may be more out there), weird characters appear every now and then at the end of sentences that weren't in the dataset. I don't know why this is but they haven't been a big problem so far so it doesn't really matter I guess.*
+
+>**Headline: Florida Man** Who Went To A Hospital For Stomach Pain Gets An Unwanted Surprise When He Learns His Wife Has Been Having Sex With Someone Else All Along
+>
+>After being diagnosed with abdominal pains, a Florida man visited the emergency room at the local medical center last week only to find out from the doctor that his wife had been cheating on him behind his back for months.
+>
+>"I came here because I thought my stomach was hurting me," the patient told reporters. "But then the doctor tells me she's been fucking another guy since before Christmas. It made me sick."
+>
+>While it is unclear what prompted the woman to cheat on her husband, the fact that the couple was married makes us think it must have been something serious enough to warrant going to the ER. Hopefully this news will make them both realize how important it is to keep their marriage strong.
+
 ### [The Club](https://anonfiles.com/V9h536K1xa/TheClub_module)
 
 [by](https://arch.b4k.co/vg/thread/374109145/#374200424) [Anons](https://arch.b4k.co/vg/thread/374109145/#374204323)
@@ -3882,6 +3913,14 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 >(after 15 mins)
 >
 >i felt some rumbly in my stomach.
+
+### [Yu-Gi-Oh Cards](https://files.catbox.moe/ot7tl9.module)
+
+[by](https://arch.b4k.co/vg/thread/374254308/#374376036) [Anons](https://arch.b4k.co/vg/thread/374254308/#374377865)
+
+*It's [a bunch of yugioh card data](https://files.catbox.moe/xypxbw.txt).*
+
+*~5k steps, 100%.*
 
 ***
 ***
