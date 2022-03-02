@@ -109,7 +109,9 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | ![Card](https://files.catbox.moe/sxe5fg.png) | Fayne | Sarcastic Insectoid intelligence officer who can learn a new language in a matter of minutes. | [>>374262413](https://arch.b4k.co/vg/thread/374254308/#374262413) |
 | ![Card](https://files.catbox.moe/o9oozz.png) | Vexene Regelia | Peppy plant girl field agent who just wants to adventure. | [>>374262413](https://arch.b4k.co/vg/thread/374254308/#374262413) |
 | ![Card](https://files.catbox.moe/7spwo6.png) | Mona Rogers | Ship's Chef and Caribbean mommy. I'm not sure how well the AI can infer accents so you'll probably have to lead it by the nose until it gets it. | [>>374262413](https://arch.b4k.co/vg/thread/374254308/#374262413) |
-
+| ![Card](https://files.catbox.moe/780du9.png) | Theodore Miller | Plucky young lad who’s probably underaged, so I trust you’re just going to go on whimsical adventures together… Right? | [>>374463157](https://arch.b4k.co/vg/thread/374462651/#374463157) |
+| ![Card](https://files.catbox.moe/00puia.png) | Elise Monroe | Sweaty, stinky tomboy pilot. Hope your ship has a shower! (I think it pairs well with the old Smell bias card on the rentry if that’s your thing. but ymmv) | [>>374463157](https://arch.b4k.co/vg/thread/374462651/#374463157) |
+| ![Card](https://files.catbox.moe/s6mwlc.png) | Galara | Utility android who also serves as the ship’s AI. ‘Adult Setting Functionality’ sold separately and any illicit acts will void your warranty. | [>>374463157](https://arch.b4k.co/vg/thread/374462651/#374463157) |
 ### **The Equipment**
 {: .center}
 
@@ -151,4 +153,5 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | ![Card](https://files.catbox.moe/5u0zps.png) | Lusitanians | An engineer who works aboard the Kestral, and wishes to visit Lusitania G2 to film a documentary. | [>>374275853](https://arch.b4k.co/vg/thread/374254308/#374275853) |
 | ![Card](https://files.catbox.moe/nwvkva.png) | Pyste | Androgynous snake people who could work as pickpockets, thugs, crew members or whores. | [>>374262413](https://arch.b4k.co/vg/thread/374254308/#374262413) |
 | ![Card](https://files.catbox.moe/ifhrnk.png) | Volga | Volatile slime people who are as hot tempered as the volcanoes they spawn in. | [>>374262413](https://arch.b4k.co/vg/thread/374254308/#374262413) |
+| ![Card](https://files.catbox.moe/g7q0yo.png) | Breeder | Some lore and details to fluff out your everyday tentacle monster. If you drop this in your setting, what could go wrong | [>>374463157](https://arch.b4k.co/vg/thread/374462651/#374463157) |
 | ![Card](https://files.catbox.moe/82zrag.png) | Empress Kindred | Antagonistic space-vampire who rules her own galactic empire. If you needed an objective to chase, now you have one. | [>>374262413](https://arch.b4k.co/vg/thread/374254308/#374262413)
