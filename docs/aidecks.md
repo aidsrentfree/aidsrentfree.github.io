@@ -112,6 +112,7 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | ![Card](https://files.catbox.moe/7spwo6.png) | Mona Rogers | Ship's Chef and Caribbean mommy. I'm not sure how well the AI can infer accents so you'll probably have to lead it by the nose until it gets it. | [>>374262413](https://arch.b4k.co/vg/thread/374254308/#374262413) |
 | ![Card](https://files.catbox.moe/780du9.png) | Theodore Miller | Plucky young lad who’s probably underaged, so I trust you’re just going to go on whimsical adventures together… Right? | [>>374463157](https://arch.b4k.co/vg/thread/374462651/#374463157) |
 | ![Card](https://files.catbox.moe/00puia.png) | Elise Monroe | Sweaty, stinky tomboy pilot. Hope your ship has a shower! (I think it pairs well with the old Smell bias card on the rentry if that’s your thing. but ymmv) | [>>374463157](https://arch.b4k.co/vg/thread/374462651/#374463157) |
+
 ### **The Equipment**
 {: .center}
 
