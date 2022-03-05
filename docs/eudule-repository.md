@@ -34,6 +34,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Ulysses](#ulysses) module.
 - Added [R. A. Lafferty](#r-a-lafferty) module.
 - Added [Rhyme and Poetry](#rhyme-and-poetry) module.
+- Updated [Western Romance](#western-romance) with "secret sauce" (trained at 1280 token size) successor.
 
 (28th February, 2022)
 
@@ -1677,51 +1678,56 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >
 >It wasn't long before we came upon another such pit, this one containing what appeared to be the remains of several men who'd died violently. There were no signs of any beasts having done their work here, but I could see where something large had dragged them into place and left them for dead. One man's skull was crushed beyond recognition while another had his throat ripped out. They both wore leather armor made from animal hide and carried swords and spears that had once belonged to others. Their hands still gripped the hilts of these weapons when they met their ends.
 
-##### [Western Romance](https://files.catbox.moe/1fk9a8.module)
+##### [Western Romance](https://files.catbox.moe/qyk93u.module)
 
-[by OccultSage](https://discord.com/channels/836774308772446268/939922436500107314/940026736547094618)
+[by OccultSage](https://discord.com/channels/836774308772446268/939922436500107314/949491396857958470)
 
 *Yee haw! This module focuses on the Western Romance genre, but is leavened out by ordinary Westerns. LGBT and People of Color perspectives were also added in. Have fun roundin' them all up!*
 
-***NOTE:** This is the same module that has been re-trained on Euterpe.*
+***NOTE:** This is trained with the **special 1280 token context size** and overlapping chunk methodology and is greatly improved over the earlier version.*
 
-***Source Material:** 8.5mb, 9440 steps, 100% coverage, 2.57 loss*
+Source Material: 8.5mb, 2000 ~= 9440 steps, 100% coverage, 2.3 loss
+Title: Barbed Wire | Author: Erin Wade | Genre: Western Romance, LGBT
+Title: Brokeback Mountain | Author: Annie Proulx | Genre: Western Romance, LGBT
+Title: Calico Spy | Author: Margaret Brownley | Genre: Western Romance
+Title: Cherokee Trail | Author: Lois L'Amour | Genre: Western
+Title: Dawn Comes Early | Author: Margaret Brownley | Genre: Western Romance
+Title: Gunpowder Tea | Author: Margaret Brownley | Genre: Western Romance
+Title: Marry Me By Sundown | Author: Johanna Lindsey | Genre: Western Romance
+Title: One Heart To Win | Author: Johanna Linsey | Genre: Western Romance
+Title: Petticoat Detective | Author: Margaret Brownley | Genre: Western Romance
+Title: A Quiet Faith | Author: Embassie Susberry | Genre: Western, People of Color
+Title: A Quiet Strength | Author: Embassie Susberry | Genre: Western; People of Color
+Title: Riders of the Purple Sage | Author: Zane Grey | Genre: Western
+Title: The Saloon Lawyer | Author: C.J. Petit | Genre: Western
+Title: Stagecoach to Hell and Back | Author: Derek Levine | Genre: Western
+Title: Waiting for Morning | Author: Margaret Brownley | Genre: Western Romance
+Title: Wildfire in His Arms | Author: Johanna Lindsey | Genre: Western Romance
+Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 
-- Title: Barbed Wire | Author: Erin Wade | Genre: Western Romance, LGBT
-- Title: Brokeback Mountain | Author: Annie Proulx | Genre: Western Romance, LGBT
-- Title: Calico Spy | Author: Margaret Brownley | Genre: Western Romance
-- Title: Cherokee Trail | Author: Lois L'Amour | Genre: Western
-- Title: Dawn Comes Early | Author: Margaret Brownley | Genre: Western Romance
-- Title: Gunpowder Tea | Author: Margaret Brownley | Genre: Western Romance
-- Title: Marry Me By Sundown | Author: Johanna Lindsey | Genre: Western Romance
-- Title: One Heart To Win | Author: Johanna Linsey | Genre: Western Romance
-- Title: Petticoat Detective | Author: Margaret Brownley | Genre: Western Romance
-- Title: A Quiet Faith | Author: Embassie Susberry | Genre: Western, People of Color
-- Title: A Quiet Strength | Author: Embassie Susberry | Genre: Western; People of Color
-- Title: Riders of the Purple Sage | Author: Zane Grey | Genre: Western
-- Title: The Saloon Lawyer | Author: C.J. Petit | Genre: Western
-- Title: Stagecoach to Hell and Back | Author: Derek Levine | Genre: Western
-- Title: Waiting for Morning | Author: Margaret Brownley | Genre: Western Romance
-- Title: Wildfire in His Arms | Author: Johanna Lindsey | Genre: Western Romance
-- Title: The Woodcutter | Author: R. O. Lane | Genre: Western
-
->**She rode, and rode after the love of her life**, but he had already gone west. Her heart was broken and she cried for days, weeks, and months. She vowed to follow him and bring him back.
+>**She rode, and rode after the love of her life, her hair streaming in the wind.** She was a woman on fire for him. And he didn't know it. It had been five years since she'd seen him last and even then, they hadn't spoken much. But she knew he would remember her. She knew that when he saw her, his eyes would light up with recognition, his heart would start to beat faster, and his mouth would water at the thought of tasting her lips again.
 >
->The long winter months passed quickly for her. It wasn't so much the cold that bothered her as it was knowing that there would be no more joy in the warmth of his arms. There was no comfort in this cold season, only a longing for the man who stole her heart.
+>Her horse picked its way through the forest. The trees were tall and thin, their branches reaching out over the trail like arms welcoming her home.
 >
->On Christmas Day, she was awakened by the sound of hooves on the frozen ground. For a moment, she thought it was a dream—the memory of another time and place when they were together. She rose from the bed and walked softly downstairs to investigate. The horses were harnessed up to the wagon and ready to go. She had not seen the wagon in the yard since before she left Texas. He was coming home to her!
+>The wind blew against her face as she looked back. She could see the lights of town off in the distance, but it seemed so far away now. She was going to ride all night if she had to. Her only hope was that he would come to meet her here, or somewhere along this path. He would have no reason not to. They'd been together before and there was nothing he wouldn't do for her. She was sure of it.
 >
->"It's too early," she whispered to herself. "He will be here at midnight, or even later." She slipped out the back door and headed toward the barn. As she crossed the yard, she noticed a faint glow of light in the barn window.
+>"He's coming," she whispered to herself. "I can feel it."
 >
->"Is he here?" she wondered. She drew nearer. No one answered, but she could see a lantern hanging inside the barn. She felt a little foolish sneaking into the barn, but she was so excited, she couldn't help herself. She hurried inside and found him in the loft, fast asleep. He looked so handsome and peaceful. She smiled as she saw the quilt thrown over his legs.
+>She couldn't stop smiling. Her hands gripped the reins tighter as she rode toward the lights. Soon enough, they came into view, shining brightly from the buildings that lined the main street.
 >
->He stirred at the sound of her voice. His eyes opened slowly. Then, with a start, he recognized her.
+>A familiar voice called out behind her.
 >
->"Oh, my God! What are you doing here?" He tried to sit up but quickly fell back onto the hay. "I am sorry, I didn't mean to wake you. But it is so good to see you again."
+>"There you are! I've been looking everywhere!"
 >
->"It's good to see you again, too," she said softly. She crawled across the loft to join him, careful not to make any noise. His body was warm under the quilt and he felt so right.
+>It was him—the man who made her feel like the most beautiful woman in the world.
 >
->"It has been too long," he said. "I have missed you."
+>\*\*\*
+>
+>Natalie turned around to see Morgan standing in front of her horse. His eyes sparkled with excitement as he took in her appearance. He grinned at her, his hand lifting to brush some of her long dark hair away from her face.
+>
+>"What are you doing out here?" he asked.
+>
+>"Looking for you," she replied.
 
 ##### [Western](https://files.catbox.moe/adzkyn.zip)
 
