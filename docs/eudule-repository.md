@@ -32,7 +32,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Movie Plots](#movie-plots) module.
 - Added [Forbidden Lands (Random Encounters)](#forbidden-lands-random-encounters) module.
 - Added [Ulysses](#ulysses) module.
-- Added [R. A Lafferty](#r-a-lafferty) module.
+- Added [R. A. Lafferty](#r-a-lafferty) module.
 - Added [Rhyme and Poetry](#rhyme-and-poetry) module.
 
 (28th February, 2022)
