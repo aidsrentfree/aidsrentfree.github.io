@@ -23,6 +23,18 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(5th March, 2022)
+
+- Added [TGTF Gender Bender](#tgtf-gender-bender) module.
+- Added [Young Girl's Handbook of Good Manners for Use in Educational Establishments](#young-girls-handbook-of-good-manners-for-use-in-educational-establishments) module.
+- Added [Konosuba Light Novel](#konosuba) module.
+- Added [Thomas Pynchon](#thomas-pynchon) module.
+- Added [Movie Plots](#movie-plots) module.
+- Added [Forbidden Lands (Random Encounters)](#forbidden-lands-random-encounters) module.
+- Added [Ulysses](#ulysses) module.
+- Added [R. A Lafferty](#r-a-lafferty) module.
+- Added [Rhyme and Poetry](#rhyme-and-poetry) module.
+
 (28th February, 2022)
 
 - Added [C. D. E Cuckold](#c-d-e-cuckold) module.
@@ -72,11 +84,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Jane Austen](#jane-austen) module.
 - Added [Back Alleys (Gay)](#back-alleys-gay) module.
 
-(20th February, 2022)
-
-- Added [Video Games](#video-games) module.
-- Added [Star Trek - The Next Generation](#star-trek-the-next-generation) module.
-
 ***
 
 ## [Table of Contents](#modules)
@@ -94,7 +101,9 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Jane Austen](#jane-austen)
     - [Jorge Luis Borges](#jorge-luis-borges)
     - [P. G. Wodehouse](#p-g-wodehouse)
+    - [R. A. Lafferty](#r-a-lafferty)
     - [Rod Serling](#rod-serling)
+    - [Thomas Pynchon](#thomas-pynchon)
   - [Independent](#independent)
     - [Kinky Friedman](#kinky-friedman)
   - [Intellectual](#intellectual)
@@ -167,6 +176,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Wildlife](#wildlife)
       - [Yinglets](#yinglets)
     - [Concepts](#concepts)
+      - [Forbidden Lands (Random Encounters)](#forbidden-lands-random-encounters)
       - [LitRPG](#litrpg)
       - [Natural Horror](#natural-horror)
       - [Tsundere Dialogue](#tsundere-dialogue)
@@ -216,6 +226,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Nonconsensual Exhibitonism](#nonconsensual-exhibitonism)
       - [Men and Dragons](#men-and-dragons)
       - [RWBY Kinks](#rwby-kinks)
+      - [TGTF Gender Bender](#tgtf-gender-bender)
 - [Works](#works)
   - [Fiction](#fiction)
     - [Classic](#classic)
@@ -224,6 +235,8 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Naked Lunch](#naked-lunch)
       - [Ninteen Eighty-Four](#ninteen-eighty-four)
       - [Otto Penzler's Big Book of Ghost Stories](#otto-penzlers-big-book-of-ghost-stories)
+      - [Ulysses](#ulysses)
+      - [Young Girl's Handbook of Good Manners for Use in Educational Establishments](#young-girls-handbook-of-good-manners-for-use-in-educational-establishments)
     - [Modern](#modern)
       - [Altered Carbon](#altered-carbon)
       - [Discworld](#discworld)
@@ -245,6 +258,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [A Certain Magical Index (1-22)](#a-certain-magical-index-1-22)
     - [Fate/Zero](#fatezero)
     - [Highschool DxD (1-10)](#highschool-dxd-1-10)
+    - [Konosuba](#konosuba)
     - [Mushoku Tensei](#mushoku-tensei)
     - [Oregairu](#oregairu)
     - [The Saga of Tanya the Evil](#the-saga-of-tanya-the-evil)
@@ -282,7 +296,9 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [The Guy Fieri Menu Item Generator Module](#the-guy-fieri-menu-item-generator-module)
   - [Light Novel Blurb Generator](#light-novel-blurb-generator)
   - [Michael Jackson Lyrics](#michael-jackson-lyrics)
+  - [Movie Plots](#movie-plots)
   - [Online Hell Tweet Generator](#online-hell-tweet-generator)
+  - [Rhyme and Poetry](#rhyme-and-poetry)
   - [Yu-Gi-Oh Cards](#yu-gi-oh-cards)
 
 ***
@@ -420,6 +436,25 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Much Obliged, Jeeves, The Inimitable Jeeves, Stiff Upper Lip, Jeeves, Right Ho Jeeves, Jeeves in the Offing, My Man Jeeves, The Man with Two Left Feet, The Girl on the Boat, Psmith in the City, Three Men and a Maid, Tales of St. Austin’s, The Adventures of Sally, The Clicking of Cuthbert, The Prince and Betty, The Gold Bat, The Coming Of Bill, The Little Nugget, Something New, Spring Fever, Mike and Psmith, Not George Washington , Love Among The Chickens*
 
+#### [R. A. Lafferty](https://files.catbox.moe/4ye7ec.module)
+
+[by Spoder](https://discord.com/channels/836774308772446268/939922436500107314/949155957345247242)
+
+*An update to the Sigurd Lafferty module.*
+
+*There was a writer from Tulsa, Oklahoma (he died in 2002), who was, for a little while in the late 1960s and early 1970s, the best short story writer in the world. - Niel Gaiman.*
+
+*Lafferty's work influenced a lot of later science fiction writers even though nobody writes like him. I did a 30% module and didn't really like the output much, but this 60% module seems to be capable emulating his style a bit, particularly if you prime the pump with some of his text to start with (as in the example).  I expect this one to be a niche taste at best, but am releasing it for those who might care.*
+
+*Trained to **60%** with **1900** steps.*
+
+***Source Material:** Trained on 106 short stories; 400,000+ words.*
+
+*Too many to list but includes Selenium Ghosts of the Eighteen-Seventies, Continued On the Next Rock, About a Secret Crocodile, Slow Tuesday Night, Nine Hundred Grandmothers, And Now Walk Gently Through the Fire, Groaning Hinges of the World, Among the Hairy Earthmen, The World As Will and Wallpaper, Narrow Valley, Ginny Wrapped In the Sun, The Skinny People of Leptophlebo Street, Land of the Great Horses, Thus We Frustrate Charlemagne*
+
+![](https://files.catbox.moe/5s797j.jpg)
+{: .center}
+
 #### [Rod Serling](https://files.catbox.moe/q2nzv7.zip)
 
 [by Anon](https://arch.b4k.co/vg/thread/371608780/#371610961)
@@ -435,6 +470,20 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - *Night Gallery 2*
 
 *Those were the only ones I could find easily. I think The Season To Be Wary would've fit in well as well, but I couldn't find it. Maybe that's for V2 of the module, if that will become a thing. Anyway, I decided to include all my files with the module, so you get the original ebooks I used, the original parsing in plaintext that Pandoc made, and my final edited text files that I used for the training. Maybe it's interesting for someone to see how the module was made. Note: I had an ebook that combined the three Twilight Zone books into one, so there's three ebooks in total.*
+
+#### [Thomas Pynchon](https://files.catbox.moe/r7bqzm.module)
+
+[by Spoder](https://discord.com/channels/836774308772446268/939922436500107314/948028047465017375)
+
+*What to say about Pynchon?  If dense and eclectic is your thing look no further. But don't expect much plot, character development, or even consistent tone. It's all very weird and surrealistic. The books in training here are full of strange characters and situations, many of which are modeled after real historical figures and events.*
+
+*Trained to 30.18% with 1154 steps.*
+
+***Source Material:** Trained on "Gravity's Rainbow" and "Mason&Dixon", two of my personal favorites.  You may need to bias against "Mason" because it really likes that name.*
+
+![](https://files.catbox.moe/vkud87.jpg)
+{: .center}
+
 
 ***
 
@@ -1804,6 +1853,54 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 #### [Concepts](#elements)
 
+##### [Forbidden Lands (Random Encounters)](https://files.catbox.moe/tk5j74.module)
+
+[by TravelingRobot](https://story-explorer.ai/index.php?view=article&id=132:forbidden-lands-random-encounters&catid=16)
+
+[2k steps version](https://files.catbox.moe/459v23.module)
+
+[125 steps version](https://files.catbox.moe/2ix6ui.module)
+
+[250 steps version](https://files.catbox.moe/p5f2ht.module)
+
+[375 steps version](https://files.catbox.moe/u5roxs.module)
+
+[500 steps version](https://files.catbox.moe/c7heba.module)
+
+[625 steps version](https://files.catbox.moe/a7d2es.module)
+
+*A module trained on material from Forbidden Lands, a Swedish open world dark fantasy RPG. Trained on the 42 random encounter from the gamemaster's guide.*
+
+*(This module was also used to run an extensive study on the effect of using different amounts of training steps (will post to novelai-research in a minute).*
+
+*Steps used to train: 1,000 (1,961%)*
+
+*(other step amounts available, but 1k is recommended)*
+
+*Loss: 2.54*
+
+***Tags:** generator, ttrpg, forbidden lands, random encounters*
+
+>[ Category: Characters, Female Monsters ]
+>
+>[ Biome: Quagmire, Forest, Marshlands, Mountains, Ruins ]
+>
+>DESCRIPTION: An immense house has been constructed out of the bones and flesh of a dozen people. The building is surrounded by two large lakes filled with blood. Occasionally, a small figure can be seen in one of the windows or through the window panes near to where the water boils violently.
+>
+>GM NOTES: This house is built on top of the remains of a village that once lived here. In the center stands an enormous skeleton covered with ragged clothing. It seems as though it is trying to reach something at its feet, but it cannot move because of its size. A few more skeletons lie scattered around the house and are wearing clothes. The house itself is not very stable and the bones of many people have broken off from it. Sometimes the house shakes when someone walks across it and other times it falls apart completely.
+>
+>The home was created by a powerful undead sorceress named Rulorina, who used her magic to force the villagers into servitude. She forced them to build this house for her own use. Unfortunately, she also had a taste for human flesh and decided to feast upon the villagers' victims after they were dead, thus creating the lakes of blood.
+
+>**[ Category: Characters, Goose ]**
+>
+>**[ Biome: Cafe ]**
+>
+>DESCRIPTION: A goose walks around the campfire. It looks at the adventurers and quacks. The adventurers hear that it wants to tell them something important.
+>
+>GM NOTES: Goose is a talking goose who lives in the cafe of an inn in the village near the lake. He has been known to speak with travellers about their adventures. His main goal is to see the world and learn new things. When he sees adventurers he invites them over for a drink. They are often surprised by his talk about dragons or other faraway places. Then he asks for a reward in return for sharing some information. If they don't have anything to give him he will share stories from his travels.
+>
+>Goose remembers every adventurer who comes and gives him information. He can then tell his friends about what happened during their travels so they know how to behave. Eventually, more and more adventurers come to the cafe where Goose resides. He knows all the secrets of his guests because he never forgets a single detail. So if you stay too long at the cafe, you might find yourself telling Goose your whole story over and over again.
+
 ##### [LitRPG](https://files.catbox.moe/3zyctr.module)
 
 [by Zaltys](https://discord.com/channels/836774308772446268/939922436500107314/940413343821332542)
@@ -2741,6 +2838,12 @@ Final training data, merged, fully cleaned: <https://files.catbox.moe/5kjbkh.zip
 
 *Your interests are questionable.*
 
+##### [TGTF Gender Bender](https://files.catbox.moe/8wu71u.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/374651445/#374699164)
+
+Here is the Euterpe edition of the TGTF Gender Bender module. Focuses on MtF fantastical/sci-fi transformation stories chosen from TGStorytime.com.
+
 ## [Works](#modules)
 {: .center}
 
@@ -2834,6 +2937,20 @@ Final training data, merged, fully cleaned: <https://files.catbox.moe/5kjbkh.zip
 
 >Saori, you see, was always afraid of the dark. Her grandmother had taught her to fear it as long as she could remember; and all these years Saori's terror had only increased in strength like a poison-dart buried deep within her brain. It hurt more than pain: it made itself felt far down into the very marrow of Saori's bones—and through this blackness that oppressed her there were often flashes from the other world. From some source she did not understand they came to pierce Saori with sudden electric shocks. The soundless whispers that followed them would chill any girl who heard them: but even worse things still awaited Saori when the night was at its deepest and darkest, and nothing moved except for bats or shadows cast by moonlight. Then suddenly she might become aware of something moving near her bedside—a faint shadow creeping slowly up over the coverlet toward her body. In the darkness such sensations are hard to fight off...
 
+##### [Ulysses](https://files.catbox.moe/asv171.module)
+
+[by ☄WanderingStar](https://discord.com/channels/836774308772446268/939922436500107314/948891448516943884)
+
+*James Joyce's Ulysses, complete and unabridged, including non-prose chapters.*
+
+***Source Material:** 1.4mb, ~2000 steps, 120% coverage, 3.78 loss.*
+
+##### [Young Girl's Handbook of Good Manners for Use in Educational Establishments](https://files.catbox.moe/wced81.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/374651445/#374800020)
+
+Alright, might be overkill, but shoved all 500 steps into it for over 1000% training.
+
 #### [Modern](#works)
 
 ##### [Altered Carbon](https://files.catbox.moe/x5u64u.module)
@@ -2885,7 +3002,6 @@ Final training data, merged, fully cleaned: <https://files.catbox.moe/5kjbkh.zip
 ***Tags:** Fantasy, comedy, satire*
 
 ***Source Material:** Trained on all 41 canon Discworld novels, just shy of 1.5M words.  The training data is about an even split between paragraph/line break and fixed-length line/line break and this is often reflected in the output.  I'll keep working at a better training set.*
-
 
 ##### [Discworld Watch Series](https://files.catbox.moe/2om6zv.zip)
 
@@ -3191,6 +3307,18 @@ Example Text:
 [by Anon](https://arch.b4k.co/vg/thread/371872001/#371943960)
 
 *Here is the Highschool DxD module, trained on the first ten LNs, updated for Euterpe!*
+
+#### [Konosuba](https://files.catbox.moe/96bvhz.module)
+
+[by pazmit](https://discord.com/channels/836774308772446268/939922436500107314/947962277427044432)
+
+***Source:** Konosuba Light Novel, around 3.5mb of text. Formatted to fit NovelAI, module trained at 50%.*
+
+*Module transferred Konosuba`s comedy, and if you choose to introduce the characters, it will handle them as well. You can do whatever you want with this, you can join the Party or attack them, or just travel alone in the Konosuba world.*
+
+***Notes:** Sometimes a weird character like "�" can appear, pretty sure it is because of bad-formatted material, just add it to banned tags. It is also my first module ive ever made, so it might not be the best. I tried making it, since no one else did. Either way, I really hope you have fun!*
+
+***Tags:** Anime, Manga, Comedy, Fantasy*
 
 #### [Mushoku Tensei](https://anonfiles.com/Z9hb3dK5x7/Mushoku_Tensei_Volumes_1-15_module)
 
@@ -3886,6 +4014,17 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 >
 >Hey, hey, you'll never see my end
 
+### [Movie Plots](https://files.catbox.moe/a8pfct.module)
+
+[by pume_](https://discord.com/channels/836774308772446268/939922436500107314/948343354159161364)
+
+*Train on wiki's plot summary on all the movies of: Christopher Nolan, Steven Spielberg, Pixar, Blue Sky, Dreamworks. Good for outline. Banning `⁂` and `\n` and `Written` (For some reason. Despite there is no 'Written' in dataset) is recommended.*
+
+***Source Material:** 0.6mb, 140 movie, 723 steps, 100% coverage, 2.7583 loss.*
+
+>A man and his daughter move to a new house in the country. The girl is an only child, but she finds herself sharing her room with two friendly ghosts: Oscar (a teddy bear) and Felix (an old-fashioned alarm clock). As they get used to their new home, they meet other spirits that come out at night like Mrs. Giggles (the ghost of a giggling woman), Mr. Whiskers (the spirit of a cat who can't find its owner), and Miss Skeleton (who has been murdered by her husband for cheating on him). However, one day when the little girl goes exploring around town after dark, she discovers something terrible happening behind closed doors...and it's up to her father and the three spirits to save the world from evil!
+
+>A new technology, the "Kung Fu Grip" enables a man to control any object he touches. The inventor's daughter is kidnapped by criminals who want his invention and are willing to kill for it. A policeman on the case must stop them before they can use Kung-Fu Grip weapons against innocent people in public places. He enlists help from an ex–boxer named Billy Chan, whose karate skills will be needed if he has any hope of saving her life. However, there are many obstacles standing between him and success: firstly, the police chief wants no part of this investigation; secondly, one criminal gang member is after both sides because their leader owes money to another rival group that threatens to expose its secrets unless the gangs fight each other over possession of Kung Fu Grip
 ### [Online Hell Tweet Generator](https://files.catbox.moe/tbnsyx.module)
 
 [by mark and jez](https://discord.com/channels/836774308772446268/939922436500107314/946053566341201920)
@@ -3913,6 +4052,53 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 >(after 15 mins)
 >
 >i felt some rumbly in my stomach.
+
+### [Rhyme and Poetry](https://files.catbox.moe/o1bsiu.module)
+
+[by KGB_OpenUp](https://discord.com/channels/836774308772446268/939922436500107314/949205474790735922)
+
+*My first ever trained module done in an attempt to teach Euterpe poetry.*
+
+*I wanted to see if Euterpe could create poetry that 1. made sense and 2. was pleasing to read. This was done by training using numerous poems from the greats like Robert Frost, Emily Dickenson, and Langston Hughes among others. Overall, it's really very small and quickly made, so definitely not perfect but it's fun to plug in and see what happens. Trained at ~300%.*
+
+> "The First Hour We Knew"
+>
+>In the name of love and peace,<br>
+>The great and mighty gods.<br>
+>
+>For all that is, or ever shall be,<br>
+>I write to you:<br>
+>Lovely thou art in thy pride,<br>
+>Thou shalt never see<br>
+>
+>My hand reach towards thee;<br>
+>And yet I think it worth while,<br>
+>To give to thee my name. <br>
+>
+>But this is not my true thought,<br>
+>Nor the feeling I feel:<br>
+>For I would gladly give all the rest<br>
+>Of my life to find a way,<br>
+>Which may lead me back again<br>
+>To that first hour we knew;<br>
+>I loved with an all-embracing love,<br>
+>That seemed to have no end:<br>
+>It was in vain I said farewell,<br>
+>When I saw thee once again<br>
+>At the gate of the golden land;<br>
+>But I was then a little child,<br>
+>And thou wast but a flower. <br>
+>
+>Now my hair is grey and thin,<br>
+>My years are few upon earth.<br>
+>The leaves of youth are falling fast,<br>
+>My days grow few as the grass.<br>
+>If the time will be mine to take<br>
+>And pass with pleasure,<br>
+>Let it come quickly and go;<br>
+>Thou dost not know what it means,<br>
+>To live alone with one's self,<br>
+>In the lonely place where all men die. <br>
 
 ### [Yu-Gi-Oh Cards](https://files.catbox.moe/ot7tl9.module)
 
