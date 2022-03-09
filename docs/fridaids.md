@@ -344,6 +344,7 @@ Don't let the Grunch crunch your Munch.
 A young fox woman's life is torn apart by the consequences of a grueling generational war. Strange creatures and devastated ruins are all that remains of her people's hated enemies, the Elvanians, but even supposed victory carries terrible consequences.
 
 ### *A Cold Reception*
+{: .center}
 
 *<https://prompts.aidg.club/3184>*
 {: .center}

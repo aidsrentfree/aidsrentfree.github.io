@@ -99,7 +99,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Traditional](#traditional)
     - [Clark Ashton Smith](#clark-ashton-smith)
     - [C. S. Lewis](#c-s-lewis)
-  - [E. E. Cummings](#e-e-cummings)
+    - [E. E. Cummings](#e-e-cummings)
     - [George Orwell](#george-orwell)
     - [Italo Calvino](#italo-calvino)
     - [J. R. R. Tolkien](#j-r-r-tolkien)
@@ -373,7 +373,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Training data is most of Lewis's fiction: Narnia books, Space Trilogy, Screwtape Letters, The Great Divorce, Til We Have Faces, Pilgim's Regress. Plus a small selection of non-fiction works: Mere Christianity, The Four Loves, The Weight of Glory.*
 
-### [E. E. Cummings](https://files.catbox.moe/lmyt7f.module)
+#### [E. E. Cummings](https://files.catbox.moe/lmyt7f.module)
 
 [by mark and jez](https://discord.com/channels/836774308772446268/939922436500107314/949684086685962270)
 
