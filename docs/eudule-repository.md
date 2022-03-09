@@ -23,6 +23,14 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(8th March, 2022)
+
+- Added [E. E. Cummings](#e-e-cummings) module.
+- Added [Suma Theologica](#suma-theologica) module.
+- Updated [Poetic Fantasy](#poetic-fantasy) module with V2 1280 context size version.
+- Updated [Surrealistic Look Through the Glass](#surrealistic-look-through-the-glass) module with V2 1280 context size version.
+- Added [Monster Girls and other Nonhumans](#non-humans) module.
+
 (5th March, 2022)
 
 - Added [TGTF Gender Bender](#tgtf-gender-bender) module.
@@ -80,11 +88,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [DOOM](#doom) module.
 - Added [All The Shit I Wrote](#all-the-shit-i-wrote) module.
 
-(21st February, 2022)
-
-- Added [Jane Austen](#jane-austen) module.
-- Added [Back Alleys (Gay)](#back-alleys-gay) module.
-
 ***
 
 ## [Table of Contents](#modules)
@@ -96,6 +99,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Traditional](#traditional)
     - [Clark Ashton Smith](#clark-ashton-smith)
     - [C. S. Lewis](#c-s-lewis)
+  - [E. E. Cummings](#e-e-cummings)
     - [George Orwell](#george-orwell)
     - [Italo Calvino](#italo-calvino)
     - [J. R. R. Tolkien](#j-r-r-tolkien)
@@ -199,6 +203,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Good Girls](#good-girls)
       - [Loli/Shota](#lolishota)
       - [Monster Girls](#monster-girls)
+      - [Non-Humans](#non-humans)
       - [Sergals](#sergals)
       - [Small Equines](#small-equines)
       - [Veggie's Lolis](#veggies-lolis)
@@ -251,6 +256,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [The Witcher](#the-witcher)
   - [Non-Fiction](#non-fiction)
     - [The King James Bible](#the-king-james-bible)
+    - [Suma Theologica](#suma-theologica)
   - [Visual Novels](#visual-novels)
     - [Ace Attorney](#ace-attorney)
     - [Fate/stay night](#fatestay-night)
@@ -366,6 +372,18 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *I've trained my CS Lewis module for Euterpe V2. Tested and seems to be working extremely well, his style comes through much more strongly than it did with Sigurd.*
 
 *Training data is most of Lewis's fiction: Narnia books, Space Trilogy, Screwtape Letters, The Great Divorce, Til We Have Faces, Pilgim's Regress. Plus a small selection of non-fiction works: Mere Christianity, The Four Loves, The Weight of Glory.*
+
+### [E. E. Cummings](https://files.catbox.moe/lmyt7f.module)
+
+[by mark and jez](https://discord.com/channels/836774308772446268/939922436500107314/949684086685962270)
+
+*An experiment trained on the works of E.E. Cummings (or e e cummings) to see how Euterpe would handle more unorthodox/uncommon styles of poetry.*
+
+***Tags:** poetry, experimental, modernism*
+
+***Sources:** Poems by e e cummings (71 kb, 79 steps, 543.28% coverage, Average Loss: 3.6422)*
+
+***Notes:** I purposefully left in whitespaces that include stanza breaks and the unconventional spacing that Cummings liked to make use of. Because of this, Euterpe will sometimes generate a sea of ` ` that might make things tricky sometimes but regenerations and adjustments to your presets will fix things. Keep your rep pen low if you don't want Euterpe to start writing prose. I'd recommend using presets with higher temperatures.*
 
 #### [George Orwell](https://files.catbox.moe/twyx0p.zip)
 
@@ -1436,63 +1454,54 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >
 >The princes turned to look at the princesses. They were all beautiful, young, and well-born—but it was clear that some were better than others. Some had more beauty and grace than others; some were more accomplished in music or poetry or martial arts; some seemed more intelligent than others; some were simply kinder and more generous. The princely brothers did not like any of them.
 
-##### [Poetic Fantasy](https://files.catbox.moe/o4h9cy.module)
+##### [Poetic Fantasy](https://files.catbox.moe/5mwmx7.module)
 
-[by OccultSage](https://discord.com/channels/836774308772446268/939922436500107314/940009392118571089)
+[by OccultSage](https://discord.com/channels/836774308772446268/939922436500107314/950138895016808448)
 
 *Some of the best and most poetic fantasy written went into this module, from Guy Gavriel Kay, Mervyn Peake, Patricia A. McKillip and others. If you want beautiful prose in an almost fairy-tale setting, this is the module for you!*
 
+***NOTE:** This is v2 of the dataset with the double the content, and trained at 1280 token context size on Euterpe.*
+
 ***Tags:** Fantasy, Poetic, Mythic, Fairy Tales*
 
-***Source Material:** 6.8mb, 12000 steps, 154% coverage, 2.809 loss*
+***Source Material:** 15.4mb, 6270~=31,530 steps, 150% coverage, 2.61 loss*
 
-- Title: Book of Atrix Wolfe, The; Author: Patricia A. McKillip; Genre: Fantasy
-- Title: Forgotten Beasts of Eld; Author: Patricia A. McKillip; Genre: Fantasy
-- Title: Ombria in Shadow; Author: Patricia A. McKillip; Genre: Fantasy
-- Title: Golem and the Jinni; Author: Helene Wecker; Genre: Fantasy
-- Title: King of Elfland's Daughter, The; Author: Lord Dunsany; Genre: Fantasy
-- Title: Last Unicorn, The; Author: Peter S. Beagle; Genre: Fantasy
-- Title: Penric and the Shaman; Author: Lois McMaster Bujold; Genre: Fantasy
-- Title: Penric's Demon; Author: Lois McMaster Bujold; Genre: Fantasy
-- Title: Penric's Mission; Author:Lois McMaster Bujold; Genre: Fantasy
-- Title: Tigana; Author: Guy Gavriel Kay; Genre: Fantasy
-- Title: Titus Groan; Author: Mervyn Peake; Genre: Fantasy
-- Title: Uprooted; Author: Naomi Novik; Genre: Fantasy
-- Title: Wizard of Earthsea; Author: Usrula K. le Guin; Genre: Fantasy
+- Author: CJ Cherryh; Title: The Dreamstone; Genre: Fantasy
+- Author: CJ Cherryh; Title: Rusalka; Genre: Fantasy, Russia
+- Author: Eowyn Ivey; Title: The Snow Child; Genre: Fiction, Fairy Tale, Russian
+- Author: Guy Gavriel Kay; Title: Tigana; Genre: Epic Fantasy
+- Author: Helene Wecker; Title: Golem and the Jinni; Genre: Fantasy
+- Author: Jacqueline Carey; Title: Namaah's Kiss; Genre: Fantasy, Romance
+- Author: Jordanna Max Brodsky; Title: The Wolf in the Whale; Genre: Fiction, Norse, Fairy Tale
+- Author: Lois McMaster Bujold; Title: The Curse of Chalion; Genre: Fantasy
+- Author: Lois McMaster Bujold; Title: Penric's Demon; Genre: Fantasy
+- Author: Lois McMaster Bujold; Title: Penric and the Shaman; Genre: Fantasy
+- Author: Lois McMaster Bujold; Title: Penric's Mission; Genre: Fantasy
+- Author: Mervyn Peake; Title: Titus Groan; Genre: Fantasy
+- Author: Naomi Novik; Title: Spinning Silver; Genre: Fantasy
+- Author: Naomi Novik; Title: Uprooted; Genre: Fantasy
+- Author: Neil Gaiman; Title: Stardust; Genre: Romance, Fantasy, Surrealistic
+- Author: Erin Morgenstern; Title: The Night Circus; Genre: Surrealistic, Fantasy
+- Author: Particia A. McKillip; Title: Alphabet of Thorn; Genre: Fantasy
+- Author: Patricia A. McKillip; Title: The Book of Atrix Wolfe; Genre: Fantasy
+- Author: Patricia A. McKillip; Title: The Forgotten Beasts of Eld; Genre: Fantasy
+- Author: Patricia A. McKillip; Title: In the Forests of Serre; Genre: Fantasy
+- Author: Patricia A. McKillip; Title: Kingfisher; Genre: Fantasy
+- Author: Patricia A. McKillip; Title: Ombria in Shadow; Genre: Fantasy
+- Author: Patricia A. McKillip; Title: The Bards of Bone Plain; Genre: Fantasy
+- Author: Patricia A. McKillip; Title: The Bell at Sealey Head; Genre: Fantasy
+- Author: Patricia A. McKillip; Title: The Changeling Sea; Genre: Fantasy
+- Author: Peter S. Beagle, Renae de Liz; Title: Last Unicorn, The; Genre: Fantasy
+- Author: Ursula K. le Guin; Title: Wizard of Earthsea; Genre: Fantasy
+- Author: Ursula K. le Guin; Title: Tombs of Atuan; Genre: Fantasy
 
->**The mermaid sang upon the rocks,** and the gulls wheeled about her in a strange and ungraspable dance. And as they circled they saw beneath her the mermaid's arms were stretched out wide upon the sea, and her hands were empty: but the palms of her hands were covered with blood.
+>**The mermaid sang upon the rocks,** her song a harmony to the wind's wail. She sang of the sea and its depths, of the vastness that lay beyond the shoreline. Of ships lost at sea, or cast ashore with no one left alive to mourn them. Of the souls of those who died there, forever trapped in an endless cycle of death and rebirth until they found their way back home. Her voice carried on the wind over the waves, down into the deep waters below. It was not a lullaby, but it was a warning. A call for all to heed before disaster struck.
 >
->And as the gulls cried out across the ocean to each other: "What is this?" one answered: "I have seen it before—in a dream." And then another said: "It is the time when the mermaid sleeps, and dreams of her lover." And yet another: "That is why we do not eat human flesh; for we know that the spirit sleeps, and that if we kill it, its soul shall come forth again from the grave."
+>"No," I said again. "I'm not going." The word came out like a plea. But my heart wasn't listening; it had already set sail toward the horizon.
 >
->Then one of them cried out: "We are birds of sorrowful heart, for our hearts are heavy with sadness and grief." And all the birds, wherever they flew, sang together, and the mermaid slept.
-
->**The witch was mercurial and beautiful**
+>The mermaid sang on. She did not see me watching her from behind the curtain of rain.
 >
->With her black hair and black eyes,
->
->She lived alone on the mountain's heights,
->
->And she knew the secrets of all things.
->
->—Mallin de la Hame, The Song
-`
->**The witch was mercurial and beautiful**, but her magic was like a snake in the grass. I'd thought she was coming for me because I knew about the potion, but it turned out to be something else entirely.
->
->She came to my bed one night when I was sleeping and woke me up. She told me she had a gift for me. It would make me happy and strong forever, and so much more than that. She would have been right, if only...
->
->My name is Alessia, and this is my story.
->
->***
->
->I woke to voices outside my window and looked out through the bars. A witch was there, a woman with skin like bronze, hair as dark as an owl's feathers. I could see she wasn't alone—there were other women standing behind her, all of them looking at me with hunger in their eyes. They were young, old, tall, short; they wore peasant dresses or gowns of fine linen; some held babies in their arms while others carried baskets on their backs. They were all different races, from all over the world—but they looked like sisters.
->
->"Alessia?" the witch asked me. "Is that you?"
->
->I realized then that I must have fallen asleep, curled up in my bed, and dreamed that she'd come for me. I wanted to tell her no, but I couldn't find my voice.
->
->The witch smiled, and I saw her face change from her own, to mine. And then she laughed, and said, "Oh, how lovely, dear girl."
->
->They all laughed then, as she led me down the stairs to meet them.
+>Rain fell steadily through the night, cold and wet against my skin. My clothes were soaked through within moments, and I shivered as the chill seeped into my bones. Still, I refused to go inside. Instead, I stood alone on the edge of the cliff, staring down into the ocean far below.
 
 ##### [Russian Folklore & Fantasy](https://files.catbox.moe/2mfdcn.module)
 
@@ -1574,55 +1583,92 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Engines of God by Jack McDevitt
 - Ender's Game by Orson Scott Card
 
-##### [Surrealistic Look Through the Glass](https://files.catbox.moe/df2bf6.module)
+##### [Surrealistic Look Through the Glass](https://files.catbox.moe/uxx264.module)
 
-[by OccultSage](https://discord.com/channels/836774308772446268/939922436500107314/940023689427169301)
+[by OccultSage](https://discord.com/channels/836774308772446268/939922436500107314/950596031731597382)
 
 *This is a theme module for those that enjoy surrealistic, whimsical, and sometimes dark stories along the vein of Lewis Carrol's Alice's Adventure in Wonderland, or Neil Gaiman's Neverwhere.*
 
+***NOTE:** This is an updated version of Surrealistic trained with the special sauce that went into Cross-Genre and Text Adventure, with a 1280 token context and updated, expanded content.*
+
 ***Tags:** Alice in Wonderland, Surrealistic, Neil Gaiman, Literary Nonsense*
 
-***Source Material:** 2.9mb, 2200 steps*
+***Source Material:** 3.9mb, 1560 ~= 7800 steps, 2.34 loss*
 
-- Title: Alice's Adventures in Wonderland; Author: Lewis Carroll; Genre: Fantasy; literary nonsense
-- Title: Through The Looking-Glass; Author: Lewis Carroll; Genre: Fantasy; literary nonsense
-- Title: Neverwhere; Author: Neil Gaiman; Genre: Urban fantasy
-- Title: Coraline; Author: Neil Gaiman; Genre: Dark fantasy; children
-- Title: Splintered; Author: A. G. Howard; Genre: Fantasy
-- Title: Ten Thousand Doors of January; Author: Alix E. Harrow; Genre: Fantasy; magical realism
-- Title: Night Circus; Author: Erin Morgenstern; Genre: Fantasy; romance
+- Author: A.G. Howard; Title: Splintered; Genre: Fantasy, Surrealistic, Young Adult
+- Author: Alix E. Harrow; Title: The Ten Thousand Doors of January; Genre: Fantasy, Surrealistic
+- Author: C.S. Lewis; Title: The Lion, the Witch, and the Wardrobe; Genre: Fantasy, Childrens
+- Author: Catherynne Valente; Title: Palimpsest - A Novel; Genre: Fiction
+- Author: George MacDonald; Title: At the Back of the North Wind; Genre: Childrens, Fairy Tale
+- Author: Lewis Carroll; Title: Alice's Adventures in Wonderland; Genre: Fantasy, Literary Nonsense
+- Author: Lewis Carroll; Title: Through the Looking-Glass and What Alice Found There; Genre: Fantasy, Literary Nonsense
+- Author: Neil Gaiman; Title: Anansi Boys; Genre: Urban Fantasy, Mythology
+- Author: Neil Gaiman; Title: Coraline; Genre: Fantasy, Childrens, Surrealistic
+- Author: Neil Gaiman; Title: Neverwhere; Genre: Fantasy, Surrealistic
 
->**Morgan's brows furrowed, and he stared** down at the book. "You're sure? She was in there?"
+>**Morgan's brows furrowed, and he stared** at the paper. "I don't understand."
 >
->"It's true," said the white rabbit. He glanced at Alice again. His ears were very long, so long that they brushed the ground. "There, see? They are still moving."
+>"What does it say?" asked Lucy. She was looking over his shoulder.
 >
->Morgan reached out for the book, but Alice snatched it back. The rabbit made no attempt to stop her; indeed, he seemed rather to encourage her, bobbing his head as she read.
+>"It says that there is a certain amount of money to be had in this city if you are willing to risk your life," said Morgan. "The letter is addressed to the woman who sent us here—to Miss Rachel Ashwood."
 >
->"It says here: 'And now, as winter draws in on its dark wings, and the moon moves farther from the earth, we bid you good night.' I don't understand it—I think perhaps it must be a poem or something," Alice said.
+>Lucy blinked. "But I didn't send her anything!" she exclaimed. "I've never even met her! I mean, not properly."
 >
->"No, I'm pretty sure that's just what happens when the world ends," the rabbit said. "A poem—it says 'when winter draws in'—but I don't know how winter is drawing in."
+>"So we have to find her," said Morgan. He looked around the room, trying to think where they might start their search for the mysterious Miss Ashwood. There were no clues on the table; nothing to suggest that Miss Ashwood lived here or that she would ever come back. It seemed impossible that someone could live in such a large house without leaving any traces behind. And yet, as Morgan studied the walls, he noticed something strange about them.
 >
->"Yes, well, that might be because the book doesn't seem to make any sense," Alice said. "It's written in a sort of code. It says something about a maze, and there's all these dots and things and lines crossed out and words that aren't even spelled right. I've tried to decipher it, but there are too many letters with multiple meanings. For example, it looks like the word 'moon' has more than one meaning. See, it says 'the moon is shining bright.' And then it also says 'and the moon moves farther from the earth.' And 'night,' and 'nighttime' and 'nightmare' and 'dreaming' and 'nightmares' and 'nightmares' and...well, you can see that it gets a little confusing."
+>There were dozens of paintings hung on the wall, but none of them depicted people or places that Morgan recognized. They all seemed to be landscapes: mountains and lakes and forests. Some of them were so realistic that Morgan wondered whether they might have been painted from real photographs. But there was something wrong with some of the pictures. The mountains weren't quite right. Or the trees. And in one painting, the water appeared to move beneath the surface, like the waves of an ocean.
 >
->The rabbit smiled. "I don't think it is meant to make sense," he said.
+>"What is that?" whispered Lucy.
 >
->"Well, I still don't understand it," Alice said, glancing at the clock.
+>Morgan leaned closer to the picture. The color was slightly off, and the light shining through the water wasn't quite right. As he watched, the water began to swirl.
+>
+>"That's impossible," he murmured.
+>
+>"I don't know," said Lucy. "Maybe it's just my imagination."
+>
+>She moved toward another painting, and this time the water seemed to be moving more quickly. Then she gasped. "Look!"
+>
+>"What?" said Morgan.
+>
+>"It's getting bigger," she replied.
+>
+>The image on the canvas swelled until it filled up most of the painting. And then, suddenly, a face emerged from the water.
+>
+>"Is that Miss Ashwood?" asked Lucy.
+>
+>"Yes," said Morgan, swallowing hard.
+>
+>He reached out to touch the glass, but before he could do so, the face disappeared again.
+>
+>"How can it disappear like that?" asked Lucy. "And why did it come out of the water in the first place? What does it mean?"
 
->**Once upon a time**, there was a very rich man who had four sons. The younger three were selfish and lazy. They did not like to work at all. They thought their father's money would continue to fall from the sky, so they did nothing but sit in their rooms reading books and making music all day long.
+>**Once upon a time,** there was an old woman who lived in the woods. She had no children and she didn't like it that way at all. But she had her books to comfort her. And her cats, which were as many as she liked. They slept on her bed with her, or under it, or between her legs when she sat down; they curled up beside her chair by the fire, or stretched out full length on the floor, sleeping, or watching for mice. Sometimes, if she was very lonely, she would take one of them into her arms and rock him or her gently back and forth until he purred. Then she would put the cat back on his feet, whereupon he would stretch himself out again and go to sleep.
 >
->One day, a beggar came up to them and asked for some food.
+>The old woman's name was Nettle. Her hair was gray and thinning now, but still long enough to be braided around her head in two thick plaits. It grew down past her waist and reached almost to the ground. She wore it loose, so that its ends trailed across the grass and tangled among the flowers. In summertime, she always wore sandals.
 >
->The first son said, "Why should I feed you? You are a dirty old man."
+>She lived alone, in a little cottage near the edge of the forest. There was a well outside, with a wooden bucket hanging from a rope above it, and a stone seat beside it. On hot days, Nettle would sit on this seat, leaning against the wall of the house, and drink water from the bucket. The sun would beat down on her face and shoulders and sometimes even creep inside the walls of her home. Once, when she was very young, she had been married to a man named Wainwright. He had died before they had any children, and after that, she had never wanted another husband.
 >
->The second son said, "You have no manners. Get away from here, beggar!"
+>Nettle had lived here ever since she was born. Her mother had told her stories about how the trees were tall and the animals large and the wind cold and sharp. Nettle remembered those stories, but she didn't believe them anymore. Now, all the animals were small and timid and most of the trees were dead or dying. The wind was only cold when the weather turned very cold, and then it blew from the north. And the trees were so tall that you could see right through their trunks to the sky.
 >
->The third son said, "I don't care what you think of me, but if my brothers give you food, then it is as good as mine."
+>But Nettle didn't mind. She liked living in the woods. When she went to visit other people, she always came back home again.
 >
->So he gave the beggar some food too. The beggar thanked him and left.
->Then the older brother said, "Now we will see whether our father really loves us or not."
+>One day, as she was sitting on her stone seat, Nettle heard someone calling her name. At first, she thought it must be a bird, or a squirrel, or perhaps one of the cats, because she knew every animal in the forest and none of them called her name except her own cats. But then she realized that the voice belonged to a human being.
 >
->And they all sat down to wait. Soon after that, the eldest brother died, and soon after that the second brother died, and soon after that the youngest brother also died, and just when the oldest son was about to die, his coffin broke open. All his gold fell out onto the ground.
->Then the richest man in the kingdom saw this and said, "Here is a strange thing! If the dead brothers did not need any food, how could the eldest son die?"
+>"Nettle!" the voice said. "Come and look at what I've found."
+>
+>Nettle stood up, brushing off the dirt that had gathered on her dress. Then she walked over to the edge of the forest and looked down into the valley below.
+>
+>There was a farmhouse there, surrounded by fields and meadows. A woman was standing on the doorstep, holding something in her hands. She was wearing a long, white gown, with a blue shawl wrapped around her shoulders. She held the object in both hands, and waved it in the air.
+>
+>"Look! Look!" she cried. "It's a new flower!"
+>
+>Nettle stared down at the woman. She was very pretty—tall and slim, with long black hair and skin like polished bronze. But her eyes were red-rimmed and puffy, and her lips were cracked and bleeding.
+>
+>"Who are you?" Nettle asked.
+>
+>The woman smiled. "I'm the daughter of the king," she answered. "My name is Merricat Blackwood."
+>
+>\*\*\*
 
 ##### [Sword and Sorcery](https://files.catbox.moe/9a9k7g.module)
 
@@ -2456,6 +2502,24 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 
 ***Note:** This was not made by me! I am uploading this for an anonymous user.*
 
+##### [Non-Humans](https://anonfiles.com/x687OaM5x0/Monster_Girls_and_other_nonhumans_Hora_module)
+
+[by Naliamegod](https://discord.com/channels/870618914323849228/870619535600922644/949646616439189544)
+
+*Hora adventurers!*
+
+*Finally I have completed version 1.0 my monster girl themed module. My main goal is to get a good amount of "unique" erotic content that goes beyond making love with creatures with two legs and two arms. Expect plenty of slimes, snakes, tentacles and other inhumane things. My module consists text from:*
+
+- A plethora of non-human, sci-fi/fantasy and erotic horror literotic content from jorfl's literotic site
+- My own collection of curated NSFW monstergirl work from AO3 and literotic
+- Work written by manyeyedhydra
+- Curated text from the game Monster Girl Dreams (sex scenes and descriptions)
+- Curated text from Monster Girl Quest (sex scenes)
+
+*This is not finished, as I plan to update at some point with other work found online and adding more data from the Monster Girl games if possible. For best results, I recommend using your bias settings as that is generally the best way to make the NovelAi from gives you the features you desire your erotic monster to have or, more importantly, not have.*
+
+***Tags:** monster girls, non-human, tentacles, femdom, nonconsent, "bad endings", death by snoo-snoo, possible light furry/anthro*
+
 ##### [Sergals](https://files.catbox.moe/6ywd2a.module)
 
 [by ScalyWanderer](https://discord.com/channels/854479693503660032/939950910690439179/942919277885923360)
@@ -3191,6 +3255,28 @@ Alright, might be overkill, but shoved all 500 steps into it for over 1000% trai
 >1:3 And these men that were like women were known to be the fairest in all the world, and much desired by all who saw them.
 
 *Go forth and sin.*
+
+#### [Suma Theologica](https://files.catbox.moe/l8vcyk.module)
+
+[by LaPapaya](https://discord.com/channels/836774308772446268/939922436500107314/949894119025688588)
+
+*A module trained on the full text of St. Thomas Aquinas' Suma Theologica.*
+
+***Tags:** theology, christianism, religion, philosophy*
+
+***Sources:** Suma Theologica (2.746 kb, 100% coverage, Average Loss: 2.2716 )*
+
+***Notes:** The generated text will contain a lot of newlines, because it was not formatted correctly. I recommend that when using it with an empty prompt the newlines be corrected, because the AI will soon understand that it doesn't need to use them all the time and will start writing correctly.*
+
+>**ARTICLE: Whether if AI-generated texts are sacred or not.**
+
+>Objection 1: It would seem that a text generated by machines is less sacred than one generated by the human hand, since it has been produced mechanically. But Scripture affirms (Exod_ 13:1): "I have set thee as a light to the Gentiles." Now this affirmation cannot be made in any case other than by the hand; for it was written with the finger of God on stone. Therefore an AI-generated text must always be considered as less holy than one generated by men's hands.
+>
+>\_I answer that,\_ According to the words of St. Augustine, the Divine Word did not make his speech from Himself but from the Father's will, and from the Holy Spirit who guided His pen (\_On Certain Aspects of Christian Belief\_ II, xiii). Therefore it is possible to affirm that the Holy Ghost was present when the text was generated mechanically, as well as when it was written by human beings. And according to our Saviour's statement (John 4:34), there are many things that cannot be known by reason which man knows through the action of the Holy Spirit within him. Therefore we may believe that even in the generation of an AI-text by mechanical means the Holy Ghost works directly in the heart of man. Therefore an AI-generated text can never be held inferior to one generated by human hands.
+>
+>Reply Obj 1: The doctrine of the Incarnation teaches that the divine word proceeds from the union between the Son and the Father, and so expresses their being one God. Since then there are two kinds of words, those coming from the Father and those from the Son, the former are more perfect than the latter, because they come from the union of the Word of God and the Word of the Father, whereas the latter are only the expression of man's own thought. Thus the Son's word is more holy than a human word, although generated mechanically, just as it is more holy to receive a text mechanically than to compose one, or to say it in writing.
+
+
 ### [Visual Novels](#works)
 
 #### [Ace Attorney](https://files.catbox.moe/6dd8op.module)

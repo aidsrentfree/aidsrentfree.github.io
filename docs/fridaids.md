@@ -34,6 +34,19 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 - [Rules](#rules)
 - [The Log](#the-log)
 - [The Friday of *Warfare*](#the-friday-of-warfare)
+  - [*The War of Rigging, 2022*](#the-war-of-rigging-2022)
+  - [*The Grunch Who \*Did\* Change Cunnymas*](#the-grunch-who-did-change-cunnymas)
+  - [*Separation Anxiety*](#separation-anxiety)
+  - [*A Cold Reception*](#a-cold-reception)
+  - [*In Service to Kingdom*](#in-service-to-kingdom)
+  - [*A Victorious Roman*](#a-victorious-roman)
+  - [*Hitler's Wunderwaffe: Werewolf Warriors*](#hitlers-wunderwaffe-werewolf-warriors)
+  - [*The Stakes of Slighting Snakes*](#the-stakes-of-slighting-snakes)
+  - [*Under the Sea*](#under-the-sea)
+  - [*War will be worth it*](#war-will-be-worth-it)
+  - [*Futanari on the Front Lines*](#futanari-on-the-front-lines)
+  - [*Take a Nip out of Nippon, and Buy a War Bond*](#take-a-nip-out-of-nippon-and-buy-a-war-bond)
+  - [*Stay Calm and Avoid Conflict*](#stay-calm-and-avoid-conflict)
 - [The Friday of *Ridiculous Government Mandates*](#the-friday-of-ridiculous-government-mandates)
   - [*Penis Inspection Day*](#penis-inspection-day)
   - [*Trickle Down*](#trickle-down)
@@ -289,6 +302,204 @@ Let's make prompts about combat, struggle, victory and defeat in the face of wor
 
 4th March, 2022
 {: .center}
+
+### *The War of Rigging, 2022*
+{: .center}
+
+*<https://prompts.aidg.club/3182>*
+{: .center}
+
+>*The day was the 25th of February, 2022. Each anon in the thread eagerly waited to find out which theme had won the biweekly vote. However, things were not to be so easy. The Pollster, rentfree himself arrived in the thread with strange tiding. It appeared that an "anomaly" had occurred in the voting! From what The Pollster was willing to divulge, it seemed as if a theme idea had won by a large margin of victory, something that simply did not match the population of Threadsville.*
+
+A depiction of the battle that was fought, and how one man decided the fate of the one time Cute and Funny Friday could have won.
+
+### *The Grunch Who \*Did\* Change Cunnymas*
+{: .center}
+
+*<https://prompts.aidg.club/3181>*
+{: .center}
+
+![](https://files.catbox.moe/strdyo.png)
+{: .center}
+
+>*A kind benefactor, an unknown cunny detractor, had meddled and muddled, the befuddled growing ruddy as riddled, as their best attempts to kid diddle, were reduced to a piddle of pining for prompts with premature princesses and lads.*
+>
+>*Now that the Grunch's grim hunch, that it's personal grudge against the whole bunch, could be clutched with no fuss, it cackled and huffed. The Grunch's eternal war against youth and innocence, playful, carefree, young-bodied sinfulness, had caused the crumple of Cunnymas due to its influence, it gloated. How could the cheer of youth endure, under the perjure of war, the crucible were all childishness perished?*
+
+Don't let the Grunch crunch your Munch.
+
+### *Separation Anxiety*
+{: .center}
+
+*<https://prompts.aidg.club/3183>*
+{: .center}
+
+![](https://files.catbox.moe/x2tlht.png)
+{: .center}
+
+>*"Ms. Miller? Are you alright in there? we heard a commotion--" but Amara's worried voice was cut off by a much more desperate, muffled shriek, as Amara reasoned something terrible was happening to the woman inside.*
+>
+>*Amara panicked for a moment, before working her kitchen knife along the edge of the door where the lock connected, to see if she could manually work the bolt back. Further sounds of struggle and distress made her flinch, but Amara found success and managed to wiggle the door's latching bolt loose, Amara clutching the knife tight as she prepared to swing it open. Several other scared women crowded around behind, backing her up. The female group gasped in unison, the women struggling to make out the strange, obscene spectacle before them. Tanya Miller was sprawled out naked on the floor, wiggling helplessly, seemingly constrained and struggling against... something. It took a moment for Amara to understand what she was seeing, as she realized there was a large, translucent lizard creature rapidly making progress devouring the helpless cat woman, whole and alive.*
+
+A young fox woman's life is torn apart by the consequences of a grueling generational war. Strange creatures and devastated ruins are all that remains of her people's hated enemies, the Elvanians, but even supposed victory carries terrible consequences.
+
+### *A Cold Reception*
+
+*<https://prompts.aidg.club/3184>*
+{: .center}
+
+![](https://files.catbox.moe/x2exo4.png)
+{: .center}
+
+>*"Isn't this Francine's house? Doesn't she hate scalies?"*
+>
+>*"Yeah, it's probably a trap," said a large, busty alligator named Kelly. She stretched her muscular limbs, causing her breasts to wobble and sway underneath her skimpy bikini top, before tilting her head and eyeing Daphne critically. "Why, you scared?"*
+>
+>*Before the gecko could respond, a wide, yellow-furred bear exited from the back door with a predatory smile on her face. "Well, aren't ya'll a cute bunch? And what a lovely day out, too."*
+>
+>*The reptiles stared at her with suspicion as the bear kept her paws behind her back and her chest jutted out aggressively. The large, flat muscles bulged underneath her thin, flannel shirt as she sniffed and smacked her lips.*
+>
+>*"Hey Francine. Decide to hold a barbecue for your reptilian betters or something?" Kelly flashed a smirk from her toothy maw.*
+>
+>*Francine scowled deeply, her ursine visage twisting in disdain. "Enough of your cold-blooded bullcrap. Ya think you can just whine about 'insulation' or whatever, while you strut around in your little outfits?" Her tone grew increasingly condescending as she added, "Ya got no idea how hot fur keeps you. I think ya'll need to be taught some humility." She took her paws from behind her back and brandished a large water gun. "Get 'em, girls!" She sprayed ice-cold water everywhere in one spritz as the reptiles shrieked.*
+
+A neighborhood water fight with anthros.
+
+### *In Service to Kingdom*
+{: .center}
+
+*<https://prompts.aidg.club/3186>*
+{: .center}
+
+![](https://files.catbox.moe/ksggpx.jpg)
+{: .center}
+
+>*Karl interrupted her train of thought <Really Luna? Are we resorting to that already? Isn't it a bit unsavory to eat Elves? I heard they bring bad luck, and I imagine there's just a few bone-skinny waifs left in those hovels.>*
+>
+>*<It's either that or die, Karl. My body has not been fed properly since the war began. I can't sustain myself without food. My wound's aren't healing quickly enough, I need fresh meat.>*
+>
+>*Karl grimaced at her soundless words in his head, as he mentally responded <I hate when you refer to them as 'fresh meat', these are subjects of the Kingdom, and they are providing a noble service to the realm, just as their menfolk are on the frontline.>*
+>
+>*Luna answered with a soft mental sigh. <They may be subjects of our kingdom, I cannot deny my needs, especially since we are the last few surviving dragon cavalry. We must honor these elven women's sacrifices, but all the same I need to fill my belly, my wounds don't heal on their own.>*
+>
+>*Karl sighed deeply before responding, <Fine then, but make these women count, I'm sure they'd much rather be servicing the kingdom in other ways.>*
+
+The Calrodian kingdom was forged in war, and caught in the grips of a desperate invasion, it may soon fall to the same force. Even the kingdom's famed and feared dragon riders were unable to stop the gunpowder weapons of the invading Amurian tribes, as the numbers of King Calrod the Fourth's elite reptilian fighting force were devastated by repeated defeats. A lone rider named Karl, and his dragon, Lunarathrax, fight a desperate battle to harry the invading forces, as the burdens of surviving the difficult campaign become both logistical and moral.
+
+### *A Victorious Roman*
+{: .center}
+
+*<https://prompts.aidg.club/3188>*
+{: .center}
+
+![](https://files.catbox.moe/7fa54n.png)
+{: .center}
+
+>*"Ah, you must be Aelius Marius. The Emperor has told me you would be coming, and he told me that you are a great, honorable man that has served him so well. Please, relax with me," she says before motioning me to the nearby couch, an invitation I gladly accept. We are brought a bit of food to snack on, and some idle conversation begins.*
+>
+>*To begin with, I figure I should at least learn her name. "It is an honor to meet you, though I must admit that I have not yet had the pleasure of knowing your name, and it would be quite a shame to not know the name of such a beautiful lady," I tell her with a soft smile.*
+>
+>*The answer that comes back shocks me. "Oh, of course. I am Julius Avilius," she replies. But, wait... that name is masculine. A sudden confusion strikes me, emotions running wild inside me.*
+>
+>*In the end, I have to know. I have to confirm this. "Pardon me for asking, but... did you just say your name was... Julius?" I ask, feeling my voice getting shakier.*
+
+In Rome, there lives a slave of the Emperor famed for sexual prowess and beauty, though hardly anyone knows the slave is actually a man. After a successful campaign in Germania, one virtuous commander is rewarded with a night together with that very slave.
+
+### *Hitler's Wunderwaffe: Werewolf Warriors*
+{: .center}
+
+*<https://prompts.aidg.club/3191>*
+{: .center}
+
+![](https://files.catbox.moe/gpvjo9.png)
+{: .center}
+
+>*The American invasion camp had settled into a defensible copse of dense woods and shrubs on a hill in Basse-Normandie. Staring out of the bocage foliage, the young U.S. sentry squinted as he saw a pack of animals sprinting over a nearby hill. The volunteer didn't know what the M.O. was on local wildlife, as he wondered what to do. He got nervous as they continued bounding forward. They looked like big wolves, and were bearing down fast, so he shot a warning shot, hoping nobody would be pissed if he raised a ruckus. The shaggy beasts continued approaching, as the sentry fired his Garand true, but barely caused the beast to flinch, though he was sure he'd plugged it. Several other nearby soldiers began firing alongside, roused to action as the huge, hulking wolves finished closing the distance.*
+
+As the Allies invade Normandy, the Nazi war effort becomes increasingly desperate. Hitler's visions of an army of 'werewolf' partizans inspires unethical Nazi occult researchers to invent a war-winning weapon. However, prime test subjects are required. For a potent, universally applicable combat-serum, steadfast pacifists seem to make for prime test subjects. As pious, young, Jehovah's Witnesses are herded into the French countryside, cruel science asks the question: Can one man's will to remain moral, overcome this ghastly world's imposed, bestial urges?
+
+### *The Stakes of Slighting Snakes*
+{: .center}
+
+*<https://prompts.aidg.club/3192>*
+{: .center}
+
+![](https://files.catbox.moe/u3l1gq.png)
+{: .center}
+
+>*"This isn't being helpful! You're not being helpful! Just shut the fuck up, we've got to be very proactive now. One or uh... several of our neighbors are behind the unrest, and simultaneously invading. But, we've still got out an ace in the hole: the hostage wards from our earlier victories. They invade us? I'll show their pretty little princesses I mean business."*
+>
+>*Her grizzled accountant, a former mercenary paymaster up-jumped into royal station, wisely agreed "Yes, with our neighbor's noble-blooded maidens imprisoned, we can compel incredible ransom and deference, perhaps even prevent fullscale--" but Serephina halted him too. "Oh no, we're beyond that now, the war is ON. I'm going to do exactly what I said I'd do, and give those haughty bitches, who've been lazing around, eating my food, a thorough personal tour of my digestion system!" Her war council collectively cringed, as Serephina's hissing voice rose to hysteric highs. Many of them had been campaigning with the head-strong, ophidian harridan long enough to know when she was on an emotional tear.*
+
+A string of successful wars has netted the scaly, ophidian, barbarous Serephina a newly-forged kingdom to lord over, with all the benefits that entails. But when domestic and international forces unite to overthrow her greedy, incompetent, hedonistic rule, Serephina resorts to the most drastic measures left to her: She lets her emotions take the throttle, and stuffs her tapering, serpentine body to bloating.
+
+### *Under the Sea*
+{: .center}
+
+*<https://prompts.aidg.club/3193>*
+{: .center}
+
+![](https://files.catbox.moe/vyfbbz.jpg)
+{: .center}
+
+>*Suddenly, the sensation intensified, radiating out from the Underfolk's procession in radiating waves. Even their deprived sharks shuddered and struggled from the waves of electricity scorching all through the ocean zone, as Angela struggled even to stay conscious under the shocking assault. As the great sharks seized and contorted, their obscuring burden fell away, as an unfathomably horrifying sight greeted the paralyzed mermaids. A massive eel, of terrifyingly disproportionate physiology, was calmly swimming towards their position, its huge body effortlessly radiating an unbearable field of electric torment. As the huge, ominous eel approached, its massive jaws moved apart, unhinging bizarrely. Angela realized its maw was extending many yards in each direction, forming a huge, cavernous chamber. The gulper eel opened its huge maw wide, and sucked a whirlpool of water through its obscenely spacious mouth, powerful jets of expelled water exiting its flapping gills. Angela was still too paralyzed to resist, as her body was pulled by the artificial current towards the creature's waiting mouth. Her equally immobilized battle sisters were caught in the current too, joining her ignoble trajectory towards its gaping jaws.*
+
+Life underwater in the ocean is tranquil and idyllic for the mermaids of the Sargasso Confederation. But, when an ancient foe rises up from the depths, is a lifetime spent in paradise enough to prepare these water bound, half fish women.
+
+### *War will be worth it*
+{: .center}
+
+*<https://prompts.aidg.club/3195>*
+{: .center}
+
+>*Like every day before, I am struck in awe at the beauty of my quarry: Kouros, a prince of Enantios. Ever since I first saw him, I have believed he was delivered in this world by the gods of love and allure themselves, for he displays such youthful, barely pubescent desire that no mortal could ever hope to match. My heart is about to burst from my yearning to touch him, to hold him, to make love to him as I watch him prance nude in the courtyard as he always does. Seeing him like this reminds me of my own youth, when I was still tutored by my elders in ways of war, philosophy and even love.*
+>
+>*As much as I would've desired, eventually I too must renew drawing breath. With a long exhalation the smoke exits my lungs, and with it my senses return to the hilltop, surrounded by my companions. As I let my breath even out, I turn to regard the messenger with my full attention. "Polemos has arrived?" I confirm. "Good, let us return to camp and not keep him waiting any longer, this siege needs to be broken as soon as possible."*
+
+What if the Trojan War was instead fought over the love of a beautiful shota in a world of magic?
+
+### *Futanari on the Front Lines*
+{: .center}
+
+*<https://prompts.aidg.club/3196>*
+{: .center}
+
+![](https://files.catbox.moe/7pmlsq.jpg)
+{: .center}
+
+>*We've seen all sorts of upheaval from this war, from the very literal churning of the fields blasted by constant artillery, to the upturning of old social orders among nations across the world. There was a vast gulf from the enthusiastic pro-war crowds of 1914 to the weary people who have gone through four long, brutal years and seen people die by the millions. Out of the ashes of the blasted rubble, and the opportunities borne of the crucible of war, new orders will arise to fill the void.*
+>
+>*One such newly embraced class were the futanari— dickgirl hermaphrodites. I'm Indy Neidell, welcome to a Great War Special Episode on futa in the First World War!*
+
+A special episode of the Youtube series covering the First World War in real time, discussing the special circumstances of hermaphrodites in a world at war.
+
+### *Take a Nip out of Nippon, and Buy a War Bond*
+{: .center}
+
+*<https://prompts.aidg.club/3202>*
+{: .center}
+
+![](https://files.catbox.moe/35rsg7.jpg)
+{: .center}
+
+>*"Well, we've got ourselves a lot of singers out here tonight, folks, so I'm going to need your help to keep things moving briskly! You may see the young men from the USO with those trays full of baseballs, were you'd normally see peanuts and hotdogs. Well, raise your hand, toss 'em the price of a meal, and take aim, because each of these young ladies will be singing above a dunk tank! Don't like their tone? Just toss the grating geisha a fastball, and old Inky here will handle the rest!" Chuck finished with heaping enthusiasm, again gesturing at the huge, ominously agitated octopus in the water tank. Already, the baseball vendors were being flagged down, struggling to meet demand before the first girl had even gone on stage. "Well, without further ado-doo, let's start the show! Amika, step on up, and start things off!" Howrie exclaimed, gesturing towards a Japanese woman at random, not knowing their names.*
+
+The U.S. war effort needs Your help, ladies and gentlemen! Come help us Take a Nip out of Nippon, and Buy a War Bond! Chuck Howrie, bombastic and esteemed radio announcer, has been charged with orchestrating a USO show beyond compare, to elicit War Bond donations from patriotic ivy-league college kids, and their patron families. With the help of Inky and Howrie, can America get in on the ground floor of the yet-undeveloped Karaoke market with a high-stakes sushi feast?
+
+### *Stay Calm and Avoid Conflict*
+{: .center}
+
+*<https://prompts.aidg.club/3203>*
+{: .center}
+
+![](https://files.catbox.moe/knnayt.jpg)
+{: .center}
+
+>*"Your job is to be my dinner. And, to give me a nice, long, satisfying meal. I expect you to compliantly step into my mouth, and squat down my throat so I can nestle you down into my belly. Now, I'll be honest, it's going to be a slow, painful, humiliating process for you to endure. A girl your size usually isn't easy to swallow, not without a lot of struggle. But, I've had many large meals before. It shouldn't be too difficult to fit you down my throat, as long as you don't struggle too much. So, now, let's get started. Get those ridiculous clothes off."*
+>
+>*Tanya blushed, her cheeks burning red as she tried to process what Hogo was telling her. Then, suddenly, as the girl realized what he was asking, She began to panic, knowing that she didn't have a choice. How could she say no to this dangerous, powerful alien? "Sir... A-are you really asking me to crawl naked into your mouth?" she stuttered, her voice quavering. "You want to eat me alive?!"*
+
+It sucks to be sold into sexual slavery, but it can get even worse when aliens come to visit. Poor Tanya is tasked with keeping a grumpy, irritable diva of a lizardman contented at a high-stakes, diplomatic soiree. Will Tanya's voluptuous body be able to soothe the diplomatic lizardman envoy, Hogo's, nerves, and allow for intergalactic peace to prosper?
 
 ***
 
