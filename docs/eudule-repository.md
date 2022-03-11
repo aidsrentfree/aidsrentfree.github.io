@@ -23,6 +23,10 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(11th March, 2022)
+
+- Added [Touhou Project](#touhou-project) module.
+
 (8th March, 2022)
 
 - Added [E. E. Cummings](#e-e-cummings) module.
@@ -146,6 +150,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [A Song of Ice and Fire](#a-song-of-ice-and-fire)
       - [Star Trek: The Next Generation](#star-trek-the-next-generation)
       - [Star Wars](#star-wars)
+      - [Touhou Project](#touhou-project)
       - [Vampire: The Masquerade](#vampire-the-masquerade)
       - [Warrior Cats: Universe](#warrior-cats-universe)
       - [World of Pokemon](#world-of-pokemon)
@@ -1038,6 +1043,24 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 ***Tags:** Third Person, Legends, Extended Canon, Expanded Universe, Jedi, Sith, Empire, Rebel, Galactic Civil War*
 
 ***Note:** This was not made by me! I am uploading this for an anonymous user.*
+
+##### [Touhou Project](https://files.catbox.moe/5ofcpl.module)
+
+[by ImperishableNEET](https://discord.com/channels/836774308772446268/870449695657443349/951257319797305355)
+
+*Made a Touhou Module for Euterpe v2*
+
+*A small sample so far:*
+
+>Kotohime Sonozika stood before the gates of Higan Temple. There was a large crowd gathered around her, and they watched expectantly, waiting for their leader to deliver a speech. Their expressions ranged from excited anticipation to outright fear.
+>
+>This was not an ordinary occasion. They were awaiting a declaration from Kotohime regarding the current state of affairs within Gensokyo. Some of those present had never known the world outside of Gensokyo, and thus weren't aware that war was raging throughout their homeland. Others were old enough to remember the days when Gensokyo had been safe and peaceful. All of them hoped that this meeting would bring peace and stability back to the land.
+>
+>However, Kotohime's expression remained grim. Her voice was flat and emotionless as she addressed the assembled masses.
+>
+>"We live in troubled times. Many strange beings roam our lands, bringing ruin wherever they tread. Our once-peaceful home has become a battleground, and the lives of our citizens hang in the balance." She paused briefly to collect her thoughts. "Now, we have come to a crossroads. We must decide whether to stand united against these threats, or cower in terror at the prospect of losing control over the lives of others. Those who wish to surrender to despair and give up hope now have my permission to leave. Anyone who wishes to remain loyal to our land may continue forward."
+>
+>With that, the crowd parted like water beneath a wave.
 
 ##### [Vampire: The Masquerade](https://files.catbox.moe/ge1ge3.module)
 
