@@ -1352,7 +1352,7 @@ And another one. Whoa, it actually picked up on the fact that youkai have resurr
 
 [by NyanSequitur](https://discord.com/channels/836774308772446268/939922436500107314/951811259475578920)
 
-*Source material: 18.1 mb, 6000 steps, ~30% coverage, 2.38 loss*
+***Source material:** 18.1 mb, 6000 steps, ~30% coverage, 2.38 loss*
 
 - Overlord 1-14
 - Chillin' In Another World 1-3
