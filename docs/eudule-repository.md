@@ -30,6 +30,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Cradle Series](#cradle-series) module.
 - Added [Isekai](#isekai) module.
 - Added [Raunchy Shoddy (it's scat)](#scat) module.
+- Added [Hyper Futa Excessive Semen](#hyper-futa) module.
 
 (11th March, 2022)
 
@@ -216,6 +217,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Khajit and Argonians](#khajit-and-argonians)
       - [Giantesses](#giantesses)
       - [Good Girls](#good-girls)
+      - [Hyper Futa](#hyper-futa)
       - [Loli/Shota](#lolishota)
       - [Monster Girls](#monster-girls)
       - [Non-Humans](#non-humans)
@@ -2553,6 +2555,14 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 *The stories' quality seem kind of hit or miss, but it wasn't hard to clean and didn't take too many steppies, so here is the Good Girls module.*
 
 *Trained on 657 steps at 55.36%, because from a cursory look at this data, overtraining it would probably not be good. Let me know how it works.*
+
+##### [Hyper Futa](https://files.catbox.moe/7kynhv.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/375933207/#376036209)
+
+*Hyper futa excessive semen module. It makes girl goo everywhere. Trained mostly on a forgotten folder of these stories I happed to have sitting on a drive for years and supplemented with some new material from the web.*
+
+![example](https://files.catbox.moe/clbluc.jpg)
 
 ##### [Loli/Shota](https://files.catbox.moe/l492v0.module)
 
