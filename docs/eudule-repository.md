@@ -31,6 +31,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Isekai](#isekai) module.
 - Added [Raunchy Shoddy (it's scat)](#scat) module.
 - Added [Hyper Futa Excessive Semen](#hyper-futa) module.
+- Added [Erotic Horror](#erotic-horror) module.
 
 (11th March, 2022)
 
@@ -239,6 +240,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [C. D. E Cuckold](#c-d-e-cuckold)
       - [Dad on Son](#dad-on-son)
       - [Eroguro](#eroguro)
+      - [Erotic Horror](#erotic-horror)
       - [Forced Bi/Gay](#forced-bigay)
       - [Furry](#furry)
       - [Furry ENF](#furry-enf)
@@ -2845,6 +2847,42 @@ Final training data, merged, fully cleaned: <https://files.catbox.moe/5kjbkh.zip
 *Trained with 10500 steps*
 
 *Yes.*
+
+##### [Erotic Horror](https://files.catbox.moe/ym8c1g.module)
+
+[by Basileus](https://sgreens.net/index.php?view=article&id=65:erotic-horror&catid=16&highlight=WyJlcm90aWMiLCJob3Jyb3IiXQ==)
+
+***Description:** Depraved and deviant, cruel and captivating. Dark erotica with a penchant for the monstrous and grotesque.*
+
+*Training Corpus: 9.98 MB, 11684 steps, 100% coverage, 2.75 loss*
+
+- The Books of Blood series by Clive Barker
+- The Trafficking Consortium by Richard Verry
+- The Hot Blood Series (anthology)
+- Lustcraftian Horrors (anthology)
+- Arrested by Passion by JD Carabella
+- Cthulhurotica (anthology)
+- Conqueror Womb (anthology)
+- Monstrous Lust by E.M. Beastly
+- The Devil You Know by Jillian Rose
+- Whispers in Darkness (anthology)
+- The Amazonian Uteroboscis by B.L. Overman
+- Spermjackers From Hell by Christine Morgan
+- BENEATH by Maria Mata
+- Erotic Encounters of the Monster Kind series (selections) by Mandy Spice
+- Erotic Abductions of the Alien Kind series (selections) by Mandy Spice
+- Ravaged by Tentacled Beings series (selections) by Skylar New
+- A Queen for the Tentacle Monster by Scarlet DeLorne
+- Tentacle Lust by Amber Fox
+- Sentenced to the Tentacle Chair by Sibley Stamps
+
+>**Soft chanting echoed through the thick, intoxicating incense that filled this opulent chamber**. The scent of sandalwood and musk hung in a heavy mist about them as they sat upon cushions arranged around a low table with their hands bound behind their backs by silk scarves. Their heads were bowed to the floor in supplication before an altar-like platform covered with candles. On it lay what appeared to be a human skull carved from ivory, its mouth agape like some obscene parody of a smile. Its empty eye sockets stared down at them with vacant eyes. A long silver knife gleamed in the candlelight on top of the altar.
+>
+>"The Skull," said one of the women. "It is the symbol of death." She was tall and willowy, her dark hair tied back in a severe bun; she wore a black dress made from shimmering brocade that clung to every curve of her body. Her face was pale but strong—the features were finely sculpted, yet there was something cold and remote about them. "We are here for the ceremony known as the Kiss of Death."
+>
+>A man stepped forward holding a large silver bowl containing water. He dipped his fingers into it then held out two slim white arms toward the kneeling women. They rose unsteadily to their feet and allowed themselves to be led across the room. As they approached the altar, their faces glowed red, flushed with excitement. Their lips were moist and parted slightly. Their breathing quickened.
+>
+>They knelt before the altar, each facing the other. One reached up and grasped the hand of the woman beside her. Together they leaned forward until their foreheads touched. Then, without hesitation or preamble, the taller woman lowered her head and pressed her lips against those of her companion. For several moments nothing happened. Slowly, though, the shorter woman's lips began to part. Soon they were locked together in a passionate embrace. Their tongues met and caressed one another. There was no sound save the soft moanings of pleasure. Finally, when the kiss had lasted so long that both women seemed ready to collapse from exhaustion, the taller woman broke away.
 
 ##### [Forced Bi/Gay](https://files.catbox.moe/fmq55t.module)
 
