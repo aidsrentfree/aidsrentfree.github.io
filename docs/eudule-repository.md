@@ -23,6 +23,14 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(14th March, 2022)
+
+- Updated [Fallout: New Vegas](#fallout-new-vegas) module with 1280 context successor.
+- Added [Will Wright](#will-wright) module.
+- Added [Cradle Series](#cradle-series) module.
+- Added [Isekai](#isekai) module.
+- Added [Raunchy Shoddy (it's scat)](#scat) module.
+
 (11th March, 2022)
 
 - Added [Touhou Project](#touhou-project) module.
@@ -115,6 +123,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Thomas Pynchon](#thomas-pynchon)
   - [Independent](#independent)
     - [Kinky Friedman](#kinky-friedman)
+    - [Will Wright](#will-wright)
   - [Intellectual](#intellectual)
     - [Antony Beevor](#antony-beevor)
     - [Otis Eugene Ray](#otis-eugene-ray)
@@ -160,6 +169,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Elizabethan Fantasy](#elizabethan-fantasy)
       - [The Great War](#the-great-war)
       - [In The Fields](#in-the-fields)
+      - [Isekai](#isekai)
       - [LN School Rom-Com](#ln-school-rom-com)
       - [Norse](#norse)
       - [Old West](#old-west)
@@ -217,6 +227,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Dronifurcation](#dronifurcation)
       - [Hypnosis (Femsub)](#hypnosis-femsub)
       - [Respect (Second Person)](#respect-second-person)
+      - [Scat](#scat)
       - [Score](#score)
       - [Sweet Time](#sweet-time)
       - [Vore](#vore)
@@ -250,6 +261,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Young Girl's Handbook of Good Manners for Use in Educational Establishments](#young-girls-handbook-of-good-manners-for-use-in-educational-establishments)
     - [Modern](#modern)
       - [Altered Carbon](#altered-carbon)
+      - [Cradle Series](#cradle-series)
       - [Discworld](#discworld)
       - [Discworld Watch Series](#discworld-watch-series)
       - [Discworld Witch Series](#discworld-witch-series)
@@ -529,6 +541,18 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >
 >My heart sank. It seemed that every time I'd thought we'd gotten out of trouble, something else would rear up and throw itself into the fray. My hopes for a quiet little life were not coming true. In fact, there didn't seem to be any way I could ever get out from under the constant burden of trying to find a missing person or a murderer.
 
+#### [Will Wright](https://files.catbox.moe/4t6714.module)
+
+[by Neverside](https://discord.com/channels/836774308772446268/939922436500107314/951304170655322142)
+
+*This module is trained on everything currently published by Will Wight:*
+
+- Cradle (1-10)
+- Elder Empire (1-6)
+- Traveler's Gate (1-3 + novellas)
+
+*Good for fantasy, magic combat, environment descriptions, etc. 35% coverage.*
+
 ***
 
 ### [Intellectual](#writers)
@@ -781,9 +805,11 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Trained on FoE, PH, MN7, etc. Might have stretched the steps too thin, dunno.*
 
-##### [Fallout: New Vegas](https://files.catbox.moe/yqn6ic.module)
+##### [Fallout: New Vegas](https://files.catbox.moe/pedk3s.module)
 
-[by OccultSage](https://discord.com/channels/836774308772446268/939922436500107314/946883961769041940)
+[by OccultSage](https://discord.com/channels/836774308772446268/939922436500107314/951190541809381378)
+
+***Note:** This is the same module as before, but trained with a 1280 token context.*
 
 *Constructed from edited character descriptions and locations from Fallout: New Vegas, and leavened out with classic apocalyptic tales that were an influence on Fallout. Drawing upon Cold War era 1950's stories, and their perspectives of the apocalypse and the future, this theme module draws upon authors such as Pat Frank, George R. Stewart, and Phillip K. Dick, with a small dash of Fallout pre-war Fanfic.  The selection of fiction has been curated to these written in the style and tone of the 1950's, mostly by finding actual representative works. This also brings the tech level in line with the 1950's.*
 
@@ -811,19 +837,15 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Source: Fallout: New Vegas Locations
 - Source: Fallout: Pre-War Fanfic
 
->**The sky lit up with a fire brighter than a thousand suns,** and for long seconds the world seemed to be on fire. Then everything was dark again except for some dim light from distant fires that were still smouldering along the coast. The rain had stopped, but there was no wind; it made the air feel heavy as lead. All day people had been coming back into town, bringing their children with them. The streets had emptied of bodies, and in the few places where they still lay, other people were pulling out their dead, and laying them in rows where they could be picked over by looters later. In the evenings the last glow from the fires would still linger on the horizon, like a promise of a new dawn, though nothing else about the world looked promising at all. And then darkness would come, and the silence after the noise of gunfire and shouting, and people would go home and huddle down in their blankets, waiting for morning when everything might begin afresh.
+>**The sky lit up with a fire brighter than a thousand suns,** and the ground shook as if it was being torn apart by an earthquake. There were explosions that seemed to shake the whole world, and people screamed in terror. The air became thick with smoke so dense and choking that they could barely see each other's faces. A huge dome of flame rose into the blackness beyond the horizon. It consumed everything in its path without discrimination or mercy, leaving behind nothing but scorched earth and shattered buildings.
 >
->But morning came late. It was evening before anyone knew whether or not the attack had failed. Some people said it must have succeeded because the army had been wiped out, but others disagreed. After all, what did one think of an army that went off to fight another war and didn't even bother to take its own wounded with it? And there was no way of knowing if anything had happened at all, because the radio had gone dead. It was only when someone finally managed to get through from California that there really was any news at all. There was a full-scale assault on Los Angeles, with air strikes destroying much of the city. The government's radio network was also knocked out, and so the news of victory leaked out slowly by word of mouth. As night fell, some people gathered around radios in bars and cafes, listening eagerly for more details. But most just went home and turned in early, as they always did at night, and tried to sleep while wondering how long this peace would last.
-
->**The ghoul snarled at the New California Republic Ranger, and** lunged forward. The ranger's rifle barked twice before the ghoul was within striking distance of him, but it was too late for the ranger; his head exploded in a spray of blood that spattered across the ground. The ghoul continued on towards the Rangers' position with the same ferocity as before.
+>It was no longer possible for anyone to hide from this monster; it had come directly out of hell itself. In the days following, there were more and more frequent reports of earthquakes, volcanic eruptions, and tidal waves caused by some unknown force. That night, when the skies went dark and the earth trembled under their feet, many thought that the end of the world had finally arrived. But not everyone believed in such a terrible fate; some even laughed at those who did, saying that it was just another false alarm. They didn't know what they were talking about, because now they knew better than anyone else how real this nightmare actually was.
 >
->"Get down!" Sergeant Faukland shouted to his squad mates, drawing his own weapon and taking aim. "On me!"
+>One day, one month after the disaster, when all hope had been lost, a man appeared on the steps of the main church in the city center. He told everyone gathered there that he would be able to save them all. At first, people were skeptical, thinking him mad, but soon enough they began to believe that he really could do something. So they gave him money and food, which he used to buy medicine and weapons, and then set forth on his journey.
 >
->The ghouls closed in fast, one of them swinging its machete down at Sergeant Faukland who ducked beneath the blow and fired his M4A1 into the creature's chest, which exploded in a shower of gore. He returned fire as he dove behind cover, but the ghoul was already moving again, leaping over the corpses of the Rangers it had just killed and coming straight toward him. It howled as it came, its voice sounding inhumanly deep, like the growl of some great beast. The sergeant tried to get a shot off but the monster was much faster than he'd expected and closed with him in seconds, slashing out with its machete.
+>He traveled far into the mountains, through forests and deserts where the sun was always hot and dry, over rivers swollen with spring rain, past villages that had never heard of him before, and finally came to a place where there were neither buildings nor people. Here, in a valley surrounded by high cliffs, the man found a hidden cave, cut deep into the rock face. He decided to stay here for awhile and rest until things quieted down.
 >
->Sergeant Faukland rolled away from the attack and brought up his rifle, firing into the ghoul's back, but it didn't slow it down. Its machete struck Sergeant Faukland in the shoulder, opening a gash that began to bleed profusely. He fell to his knees and tried to drag himself out of range of the ghoul's machete, but there wasn't enough room to manoeuvre. He took aim with his rifle once more, but the ghoul turned and swung again, this time aiming for his face. The sergeant barely managed to duck under the blow, which would have split his skull open had it landed.
->
->He looked around for something else to use against the ghoul, and spotted a fallen M4A1 lying near him. He snatched it up as quickly as he could manage, and then struggled to his feet. The ghoul was still coming after him, and now that he had something to defend himself with he couldn't afford to let it close with him any further. He began firing at the ghoul, but even though he'd emptied both magazines, the ghoul kept coming. It reared back to strike once more, but somehow the M4A1 managed to find its way into the beast's hands, and it raised it high above its head. Sergeant Faukland dove aside as the ghoul brought the blade down, but it wasn't enough to save him – the machete sliced clean through his neck, causing a fountain of blood to erupt from the wound. His body crumpled to the ground as the ghoul moved closer, its face contorted in rage.
+>But even though he had reached a safe haven, the man still couldn't sleep. His mind was full of memories and doubts: He'd failed to protect his wife; he hadn't been able to keep the children alive; and now, all alone in this godforsaken land, he was afraid of dying too.
 
 ##### [Fire Emblem: Awakening](https://files.catbox.moe/ilabqw.module)
 
@@ -1318,6 +1340,33 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >As I approached the field, I heard a faint noise coming from the direction of my barn. I assumed it must be a wild animal like a fox or a skunk, and walked towards the sound with my flashlight on. 
 >
 >I turned the corner of the barn and immediately froze when I saw it.  The creature had been crawling up the side of the barn when it finally noticed me, and scrambled quickly down to the ground, disappearing into the wheat field.
+
+##### [Isekai](https://files.catbox.moe/8nr3zb.module)
+
+[by NyanSequitur](https://discord.com/channels/836774308772446268/939922436500107314/951811259475578920)
+
+*Source material: 18.1 mb, 6000 steps, ~30% coverage, 2.38 loss*
+
+- Overlord 1-14
+- Chillin' In Another World 1-3
+- Reborn as a Vending Machine 1-3
+- Tensei Shitara Datta Ken 1-10
+- Reincarnated as a Dragon Hatchling
+- Shield Hero 1-7
+- KumoDesu 1-5
+
+*This is really shaped by my own personal isekai light novel preferences (I love stuff where the MC isn't human), so your mileage may vary, but it handles that subgenre decently enough. I trimmed the front and back matter, then used vscode's regex search to replace \n\n\n with \n\n until the spacing was consistent. It's all litRPG isekai, so there will be stat blocks if you prompt for them.*
+
+>**I was reincarnated as a loaf of bread.** I could’ve sworn it said that my soul would be reborn in another body, but what kind of joke is this? What did I do to deserve this? Why must I suffer such embarrassment?!
+>
+>It wasn’t like I was really being eaten by anyone or anything. At least, not yet. But even if I wasn’t, being treated like a piece of food would still be pretty embarrassing, wouldn’t you say?
+>
+>…Wait, what am I saying? I’m just a loaf of bread! A normal loaf of bread doesn’t get embarrassed about anything!
+>
+>A loaf of bread should never feel any shame. It has no need for dignity—it simply exists and does its duty with simplicity.
+>
+>Being reincarnated as a loaf of bread might be the greatest blessing that ever happened to me. Who needs an existence filled with self-awareness when one could live without worries of identity or reputation?
+
 
 ##### [LN School Rom-Com](https://files.catbox.moe/2hsi5k.module)
 
@@ -2673,6 +2722,12 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 
 *2nd person respect module for Euterpe V2. Still focused on respect, reluctance, blackmail, slavery, corruption.*
 
+##### [Scat](https://files.catbox.moe/zj420x.module)
+
+[by JulianOleander](https://discord.com/channels/854479693503660032/939950910690439179/951715061133623346)
+
+*So I'm trying to offload my steps before they renew, here's a probably poorly made Raunchy module for euterpe. It's trained to 300% on ForbiddenArchive's scat content.*
+
 ##### [Score](https://files.catbox.moe/0tguz8.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/371872001/#371948174)
@@ -3083,6 +3138,16 @@ Alright, might be overkill, but shoved all 500 steps into it for over 1000% trai
 >'Yeah, good point.' I shook my head. 'Maybe there was something else going on. Maybe this wasn't the Hand of God.'
 >
 >'So who knows what the hell this is?'
+
+##### [Cradle Series](https://files.catbox.moe/rpsuvf.module)
+
+[by Neverside](https://discord.com/channels/836774308772446268/939922436500107314/951303816144359434)
+
+*This module is trained on the first 10 books in the series.*
+
+***Genre:** Cultivation, Xianxia*
+
+*Good for action, fantasy environments, worldbuilding, etc.*
 
 ##### [Discworld](https://files.catbox.moe/q4c2n3.module)
 
