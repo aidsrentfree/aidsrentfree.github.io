@@ -1081,17 +1081,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ![](https://files.catbox.moe/smtpbw.png)
 {: .center}
-
-*Completion of this Touhou fanfic here by TakerFoxx <https://www.fanfiction.net/s/9956327/1/The-Sorceress-s-Apprentice>. It's cut out of the screenshot, but I banned the token "Marisa"*
+Completion of this Touhou fanfic here by TakerFoxx <https://www.fanfiction.net/s/9956327/1/The-Sorceress-s-Apprentice>. It's cut out of the screenshot, but I banned the token "Marisa"
 {: .center}
 
 ![](https://files.catbox.moe/u43w98.png)
 {: .center}
-
-*And another one. Whoa, it actually picked up on the fact that youkai have resurrective immortality! Very impressive for a minimally trained module.*
-{: .center}
-
-*Completion of: <https://www.fanfiction.net/s/5829008/29/Imperfect-Metamorphosis>*
+And another one. Whoa, it actually picked up on the fact that youkai have resurrective immortality! Very impressive for a minimally trained module. Completion of: <https://www.fanfiction.net/s/5829008/29/Imperfect-Metamorphosis>
 {: .center}
 
 *I consider this module much better despite smaller size. I recommend using this one instead, for the time being.*
