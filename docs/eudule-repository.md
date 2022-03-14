@@ -32,6 +32,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Raunchy Shoddy (it's scat)](#scat) module.
 - Added [Hyper Futa Excessive Semen](#hyper-futa) module.
 - Added [Erotic Horror](#erotic-horror) module.
+- Updated [Touhou Project](#touhou-project) module with smaller successor.
 
 (11th March, 2022)
 
@@ -1070,23 +1071,30 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ***Note:** This was not made by me! I am uploading this for an anonymous user.*
 
-##### [Touhou Project](https://files.catbox.moe/5ofcpl.module)
+##### [Touhou Project](https://files.catbox.moe/09eq95.module)
 
 [by ImperishableNEET](https://discord.com/channels/836774308772446268/870449695657443349/951257319797305355)
 
-*Made a Touhou Module for Euterpe v2*
+[33.33% coverage version (the original)](https://files.catbox.moe/5ofcpl.module)
 
-*A small sample so far:*
+*Made a much smaller Touhou module for Euterpe v2, a mere 2.6K in size, trained at just 4.8% or so, with slightly different training materials. I'm honestly more pleased with its results so far than my bigger module!*
 
->Kotohime Sonozika stood before the gates of Higan Temple. There was a large crowd gathered around her, and they watched expectantly, waiting for their leader to deliver a speech. Their expressions ranged from excited anticipation to outright fear.
->
->This was not an ordinary occasion. They were awaiting a declaration from Kotohime regarding the current state of affairs within Gensokyo. Some of those present had never known the world outside of Gensokyo, and thus weren't aware that war was raging throughout their homeland. Others were old enough to remember the days when Gensokyo had been safe and peaceful. All of them hoped that this meeting would bring peace and stability back to the land.
->
->However, Kotohime's expression remained grim. Her voice was flat and emotionless as she addressed the assembled masses.
->
->"We live in troubled times. Many strange beings roam our lands, bringing ruin wherever they tread. Our once-peaceful home has become a battleground, and the lives of our citizens hang in the balance." She paused briefly to collect her thoughts. "Now, we have come to a crossroads. We must decide whether to stand united against these threats, or cower in terror at the prospect of losing control over the lives of others. Those who wish to surrender to despair and give up hope now have my permission to leave. Anyone who wishes to remain loyal to our land may continue forward."
->
->With that, the crowd parted like water beneath a wave.
+![](https://files.catbox.moe/smtpbw.png)
+{: .center}
+
+*Completion of this Touhou fanfic here by TakerFoxx <https://www.fanfiction.net/s/9956327/1/The-Sorceress-s-Apprentice>. It's cut out of the screenshot, but I banned the token "Marisa"*
+{: .center}
+
+![](https://files.catbox.moe/u43w98.png)
+{: .center}
+
+*And another one. Whoa, it actually picked up on the fact that youkai have resurrective immortality! Very impressive for a minimally trained module.*
+{: .center}
+
+*Completion of: <https://www.fanfiction.net/s/5829008/29/Imperfect-Metamorphosis>*
+{: .center}
+
+*I consider this module much better despite smaller size. I recommend using this one instead, for the time being.*
 
 ##### [Vampire: The Masquerade](https://files.catbox.moe/ge1ge3.module)
 
