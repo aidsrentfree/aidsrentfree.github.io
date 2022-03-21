@@ -33,6 +33,39 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 - [Rules](#rules)
 - [The Log](#the-log)
+- [The Friday of *Fairness and Amusement*](#the-friday-of-fairness-and-amusement)
+  - [*The Cutest and Funniest Pagliaccia*](#the-cutest-and-funniest-pagliaccia)
+  - [*Welcome to Lolliland!*](#welcome-to-lolliland)
+  - [*THE MASKED LOLIBABA*](#the-masked-lolibaba)
+  - [*Smedrins the Big, Gay, Vore Dragon*](#smedrins-the-big-gay-vore-dragon)
+  - [*House of Cute & Funny*](#house-of-cute--funny)
+  - [*Girl Scout Kisses*](#girl-scout-kisses)
+  - [*Side Effects Include: Incest*](#side-effects-include-incest)
+  - [*They Call Me 'Handsome'*](#they-call-me-handsome)
+  - [*The Moonlight Princess*](#the-moonlight-princess)
+  - [*Elves, Alchemy and Ejaculate*](#elves-alchemy-and-ejaculate)
+  - [*Dragon Bussy. Drussy?*](#dragon-bussy-drussy)
+  - [*Nights Upon the Dunes*](#nights-upon-the-dunes)
+  - [*Loli-Land!*](#loli-land)
+  - [*IT's a Hard Knock Life*](#its-a-hard-knock-life)
+  - [*Lessons in Respect*](#lessons-in-respect)
+  - [*Amateur Night*](#amateur-night)
+  - [*Bad Birthday Boy*](#bad-birthday-boy)
+  - [*Café Cunny*](#café-cunny)
+  - [*Molly's Money Troubles*](#mollys-money-troubles)
+  - [*Naïve cunny with doggo*](#naïve-cunny-with-doggo)
+  - [*I'M PEACE*](#im-peace)
+  - [*Princess and the Daddy*](#princess-and-the-daddy)
+  - [*The YAMO Detective*](#the-yamo-detective)
+  - [*Pretty, Petulent, Prim, Princess*](#pretty-petulent-prim-princess)
+  - [*The Fire Sorceress*](#the-fire-sorceress)
+  - [*The Big Cummy*](#the-big-cummy)
+  - [*Scary Campfire Stories*](#scary-campfire-stories)
+  - [*The Horny Brat I Met at the Grocery Store*](#the-horny-brat-i-met-at-the-grocery-store)
+  - [*A Red Panda Problem*](#a-red-panda-problem)
+  - [*When You Wish Upon a Star*](#when-you-wish-upon-a-star)
+  - [*Welcome to the VDV*](#welcome-to-the-vdv)
+  - [*Indigo Children*](#indigo-children)
 - [The Friday of *Warfare*](#the-friday-of-warfare)
   - [*The War of Rigging, 2022*](#the-war-of-rigging-2022)
   - [*The Grunch Who \*Did\* Change Cunnymas*](#the-grunch-who-did-change-cunnymas)
@@ -294,13 +327,601 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 ***
 
+## The Friday of *Fairness and Amusement*
+{: .center}
+
+Let's make prompts about kids.
+{: .center}
+
+[18th March, 2022](#the-log)
+{: .center}
+
+### *The Cutest and Funniest Pagliaccia*
+{:. center}
+
+*<https://prompts.aidg.club/3230>*
+{: .center}
+
+![](https://files.catbox.moe/kmyikz.gif)
+{: .center}
+
+>*"I feel quite depressed, Doctor. Life seems... harsh, cruel." She mutters. Her hands are in her lap, gripping each other tightly.*
+>
+>*"I'm sure you have lots of good memories too." You reply, trying to cheer her up.*
+>
+>*"It's not the past. I feel all alone in a threatening world where what lies ahead is vague and uncertain." She replies.*
+>
+>*"Hmm..." You think to yourself for a few moments on how to cheer up this clown.*
+>
+>*"Well, if you're feeling alone, maybe you could get some inspiration and support from the new clown in town, Pagliaccia. She's cute and funny, and full of joy."*
+>
+>*The clown honks her nose. "But doctor... I am Pagliaccia." Pagliaccia says, sounding downtrodden.*
+
+I hear you boys like C&F! Well, this gal's got it in excess.
+
+### *Welcome to Lolliland!*
+{:. center}
+
+*<https://prompts.aidg.club/3231>*
+{: .center}
+
+![](https://files.catbox.moe/4ujipw.png)
+
+>*From reading online imageboards, you've discovered a ritual to send yourself into another dimension. All you need is to invoke the name of a new world, and you have a certain one in mind. In this world, you're a greasy, grossly obese man with a terrible personality who gets beaten up for no reason all the time. But, say, in a world only filled with children...*
+>
+>*Heh, that might work out well! The thought is so exciting... if it works. You try to kill your creepy smile as you add the last finishing touches to the giant pentagram drawn on the ground before you. The candles are lit, the incense burned, and everything is ready.*
+>
+>*You take a deep breath, then begin to chant. "Slash Aids Slash! Theme Friday! I reject my destiny! Send me to Lolliland!"*
+>
+>*Suddenly, the pentagram glows white-hot. You drop the book you were holding onto the ground. You gasp as you feel yourself being pulled into the ground. "What the fuuuck?!" are your last words as you feel yourself transported to another dimension.*
+>
+>\*\*\*
+>
+>*The next thing you know, you find yourself standing in a bright pink field. The air is incredibly sweet, almost with the taste of... strawberries?*
+
+An entire dimension full of little girls, perfect for a lecherous, gross loser. I mean, unless you accidentally say the invocation wrong, and get sent to candyland instead.
+
+### *THE MASKED LOLIBABA*
+{:. center}
+
+*<https://prompts.aidg.club/3239>*
+{: .center}
+
+![](https://files.catbox.moe/ukf47k.png)
+{: .center}
+
+>*CIA Man turns to the third prisoner. Shuts the cargo door.*
+>
+>*"Wiseguy, huh? At least you can talk. Who are you?"*
+>
+>*She lefts out a soft "fufufu" laugh. "We are nothing. We are the dirt beneath your feet. And no one cared who I was until I put on the mask..."*
+>
+>*CIA Man, wary, approaches the third prisoner - pulls off her hood, revealing a dark mask with a breathing apparatus. The childish eyes behind it have bratty fire behind them. Still. This is Baba. Her body looks quite young, but her thighs are those of a woman, and her breasts are full and perky. She wears a red vampire cape.*
+>
+>*"Who we are does not matter. What matters is our plan, pig!" She says triumphantly, giving a smug smirk to the CIA Man.*
+>
+>*The CIA Man then looks at her mask, fascinated. "If I pull this off, will you die?"*
+>
+>*"It would be extremely painful."*
+>
+>*"You’re a little girl."*
+>
+>*"For you~" She coos.*
+
+Okay, here's ACTUALLY one REAL theme friday submission, despite the fact that I think the poll was very obviously rigged (https://cdn.discordapp.com/attachments/903847953960165417/951640719163015238/unknown.png, rightmost was this week's poll) and the fact that this theme essentially offers zero challenge in writing. The masked lolibaba fucks everyone on the plane to death, yep!
+
+I give no guarantees of quality lmao
+
+### *Smedrins the Big, Gay, Vore Dragon*
+{:. center}
+
+*<https://prompts.aidg.club/3241>*
+{: .center}
+
+![](https://files.catbox.moe/qwb2uz.jpg)
+{: .center}
+
+>*A pregnant silence hung over the moment, as the young schoolgirl was quite certain the teacher was exalting in the moment.*
+>
+>*Smedrins leveled his scaly snout with Susie's ear, and whispered "Y'know, I could give this old batty bag o' bones the 'Smedrins Special', and we could get out of class and go have some real fun!"*
+>
+>*Susie tried to ignore the lisping suggestion from the winged reptilian, not wanting to be responsible for another horrifying, inexplicable disappearance in her community. She didn't want to attend another candlelight vigil, praying for the return of someone Susie knew damn well wasn't ever coming back.*
+>
+>*"No, Smedrins, just shove off and go get railed by your boyfriend," Susie whispered, under her breath.*
+
+Vore Smedrins
+
+### *House of Cute & Funny*
+{:. center}
+
+*<https://prompts.aidg.club/3242>*
+{: .center}
+
+>*"So, what is this supposed to be? A house of cute and funny?"*
+>
+>*"Yes, yes! It's like a haunted house, except the girls aren't dressed as ghosts, but in cute outfits and they do funny dances instead of scaring you! It's really funny! It's the gap! The gap! You know, between the girls and the outfits and dances and everything!"*
+>
+>*Tanegawa-sensei is caught up by a giggle fit. Really, what's wrong with this girl? She's always so bubbly and excited, it's hard to believe that she's a teacher. Before I can get a word in of my own, she continues.*
+>
+>*Chise-chan and Kiko-chan are taking care of the first stage. You just have to see it! They're doing such an amazing job. Really! It's super funny! Come on, come on! You're our first visitor too! So in you go!"*
+
+Visiting the culture festival at Tanegawa-sensei's elementry school, you find that her class is hosting a "House of Cute & Funny." With how weird her sense of humor is, you can't help but wonder what kind of thing she came up this time.
+
+### *Girl Scout Kisses*
+{:. center}
+
+*<https://prompts.aidg.club/3243>*
+{: .center}
+
+>*You smile at the two girl scouts, "the bathroom's just down that hallway."*
+>
+>*Julie nods quickly and runs off to take care of her bursting bladder. Once she's gone, Sophie turns to you and breaks out into the most dazzling smile. She's cute as hell with her long blonde hair and bright blue eyes; what's worse is she knows it. "So Mister, now that we're all alone, I have a proposition for you. If you buy all twenty of the boxes we have left I'll give you a kiss..." she whispers, giving you a playful wink.*
+>
+>*It's almost impossible to resist this kind of behavior when combined with her youthful appearance and pretty features. You decide to make an effort anyway, "I-I don't know why you think that would be something I want, you're what, Ten? I'm a grown man, I don't want to—"*
+>
+>*Sophie puts a finger to your lips, cutting off your rambling. "I'm eleven actually and you can stop lying... I saw you looking at my butt when we first knocked on your door. Whatta you say Mister? Wanna taste?"*
+
+When two girl scouts approach you to sell their cookies, you find the younger of the two is interested in more than just your money...
+
+### *Side Effects Include: Incest*
+{:. center}
+
+*<https://prompts.aidg.club/3244>*
+{: .center}
+
+![](https://files.catbox.moe/w4rky1.jpg)
+{: .center}
+
+>*She glances up at me, and when her eyes meet mine she smiles shyly. "Uncle Steve?" she asks quietly.*
+>
+>*"Yes Maddie?"*
+>
+>*"Why are you rubbing my chest like that?"*
+>
+>*"You were feeling sick and Uncle Steve was rubbing your chest to make you feel better."*
+>
+>*"Yeah, but... this isn't how Mom does it," she says, blushing furiously.*
+>
+>*"S-Sorry, I'll stop."*
+>
+>*"No, don't stop," she whispers, reaching up and placing her small hand on my mine, "it feels nice."*
+
+Sometimes Vaporub leads to sex with your niece.
+
+### *They Call Me 'Handsome'*
+{:. center}
+
+*<https://prompts.aidg.club/3246>*
+{: .center}
+
+![](https://files.catbox.moe/0v3x82.png)
+
+>*"W-what is this? I was just, I'm... simply, uh, mistaken--"*
+>
+>*But the repulsed man condescendingly replied "Did you come here to meet someone, Kinsley? Are you here to meet your 'bare-chested, long-shlonged, boyish, booty-blaster'? I have page after page of transcripts here, showing what kind of relationship you had with a supposed 17 year old. Need I remind you, of the age of consent laws in this state? I'll have you know, you were actually sexting with me, Chris Hansen this entire time."*
+>
+>*Kinsley felt shocked beyond belief, as she tried to stay stoic, despite the overwhelming feeling that her life was crashing down in flames around her. "T-this, I don't understand, Wha-"*
+>
+>*But before she could even stammer a defense, Hansen was gesturing at a stool, insistently asking "Ma'am, could you take a seat? I'd like to get your side of the story, if possible. Just take a seat, right here."*
+
+Kinsley Napleton is eager to consummate an illicit affair with an underage, male lover. But will this Ara-araing milf be able to /ss/ without suffering shame and society's persecution?
+
+### *The Moonlight Princess*
+{:. center}
+
+*<https://prompts.aidg.club/3247>*
+{: .center}
+
+>*"Trespasser," the voice was angelic, yet marred by an unmistakable melancholy, "why have you slain my protectors? Defiled this most holiest of places with your unwelcome presence?" Lunanelle, Chief Goddess of the Moon, was all but a child in her appearance.*
+>
+>*"I beg your forgiveness," I bowed slightly. "It was not my intention to trespass, for I am merely here to seek an audience."*
+>
+>*You are a mortal," It was a curt response, void of affect or emotion, "but a curious one at that."*
+
+A stranger in the presence of a Goddess, drawn to her by inexplicable forces. Was this a delicate rose to be protected? Or greedily plucked. A very open ended prompt about meeting a loli Moon Goddess.
+
+### *Elves, Alchemy and Ejaculate*
+{:. center}
+
+*<https://prompts.aidg.club/3248>*
+{: .center}
+
+>*"Ooh! A human, a human!" The all too eager voice of a child chirped, followed by a frolicking young elf. She'd all the makings of a young druidess, her tiny figure bound in a loose ensemble of luscious leaves and spindly vines. Her skin was the color of milk chocolate, her hair the shade of chestnut honey.*
+>
+>*She smiled at me, a wide, innocent smile that reminded me of a doe. "You're here for the Luminescent Nightshade, aren't you?" The question was rhetorical, accentuated with a knowing giggle. My captor turned her head to the forest as I futilely struggled in my dirt tomb. "Look what I found, Mama! Just what we were looking for!"*
+>
+>*Mama? Yes, Mama. As if materializing from the impermeable darkness of the shadows, an all too voluptuous elf made her presence known. "What a good catch, darling." This one was much more mature, in both gait and appearance. The resemblance between mother and daughter was uncanny: rich, chocolate complexions and golden eyes that hinted a predatory nature.*
+>
+>*"Just as I told you, The Forest always provides," she cooed, running her hands over the girl's face.*
+
+A sultry tale on sultry night. Get kidnapped by a mother/daughter duo of Elf druidesses as they extract your magic man gravy.
+
+### *Dragon Bussy. Drussy?*
+{:. center}
+
+*<https://prompts.aidg.club/3249>*
+{: .center}
+
+>*"Your kind are so quick to violence! So quick to subjugation! Why would I disclose our holiest of places to you? A dragon-killer of all things?!"*
+>
+*We'd see about that. I took Dranpei by the throat, turning his cheeks the color of a ripened plum. The pride of dragons never ceased to amuse me. Dranpei could've been mistaken for budding maiden in his current, lissome form. An oversall lack of muscle tone and drastically softened features made him seem impossibly less malevolent.*
+>
+>*The dungeon cell was quiet, save the faint gasp that Dranpei released.*
+>
+>*"What's this?" I remarked coyly, noting the pulsing bulge that stressed the limits of his raggedy trousers. "You're...hard."*
+
+With Dranpei - a feisty red dragon who prefers a humanoid form - cornered, how better to extract information than putting an extra bit of warmth in this fire-spitter's belly?
+
+
+### *Nights Upon the Dunes*
+{:. center}
+
+*<https://prompts.aidg.club/3250>*
+{: .center}
+
+>*The faint \*clinks\* of golden coins and medallions rattling against each other caught my attention, then the satin draped form of scantly-clad flesh. It was a dancer, with all the lithe grace and beauty of their kind. He was dark, like most desert folk were, though the boy bore a sparkling tan that spoke to his frequent exposure to sunlight. It was not odd for young boys, unfit for service or trade...or perhaps already trained to the subtleties of subservience, to take on the guise of a exotic dancer in order to survive. They were both entertainer and courtesan, pleasure-slave and consort.*
+>
+>*I was told to enter, by the company's commander, sir." He stated nervously enough. The consort's complexion was a rich amber, soft eyes as dark as sweetest dates, or the starless sky above the dunes. "He said you might require my assistance?"*
+
+A battered veteran's night is spiced up when a exotic dancer of the dunes offers their companionship. When facing the hardships of age, is it not unwise to find comfort in the company of a youth?
+
+### *Loli-Land!*
+{:. center}
+
+*<https://prompts.aidg.club/3251>*
+{: .center}
+
+>*The name of this place was obviously meant as a joke, 'Loli-Land', or so I'd initially thought—but a blind man could've seen how lewd the entire affair was. Little girls, none older that 15, could be seen skipping about in ensembles that befitted streetwalkers; frilly schoolgirl getups to tight, buttock-pinching G-strings and glittery nipple covers. How was any of this legal?*
+>
+>*"I have a coupon," I awkwardly forwarded a slip of paper, sliding it across the booth, "It says its for the 'All-Day VIP' pass?"*
+>
+>*A giddy little tease, the booth girl scanned the coupon for its validity, and upon satisfaction shot another brace-faced grin. "Wow! You're super lucky! You get to have all sorts of fun today!" She was positively frothing on her garish garments, "I'm jealous."*
+
+Stumble upon the sick and depraved Loli-Land! Anything goes, you beautiful sicko you.
+
+### *IT's a Hard Knock Life*
+{:. center}
+
+*<https://prompts.aidg.club/3253>*
+{: .center}
+
+![](https://files.catbox.moe/wypb3s.png)
+{: .center}
+
+>*The exhausted runner was about to turn around and flee, when she spied a brightly-colored figure flashing across the beam of her flashlight. Paralyzed with fear, she nervously called out "Hello? Kid? I'm here to help! A-are you drowning in here?"*
+>
+>*Cindy became even more fearful, as she heard in response "Fuck me, you're a total butter-face bimbo, aint'cha? Goddamn hooligans don't give a rats ass about quality vs quantity." The malevolent, mocking, and utterly inhuman voice terrified the unprepared woman beyond measure. It then continued "Anyway, you'll float, look into the Dead Lights, et cetera et cetera, good food good meat, good god let's eat!" were the last words Cindy heard, as a grease painted, red nosed face reared up from the sewer depths.*
+
+Pennywhistle the monster clown is on hard times, and is resorting to desperate measures to get his fix of fearful prey. The voracious, hulking harlequin plans to regain his strength, and the respect of the community that once feared him, by devouring an endless parade of seedy hos. But, can the evil entity afford his habit?
+
+### *Lessons in Respect*
+{:. center}
+
+*<https://prompts.aidg.club/3254>*
+{: .center}
+
+>*I grew up my whole life wanting to be a schoolteacher. To brighten young minds and see smiling faces was my passion, I thought. Getting this job as a kindergarten teacher was my dreams come true. But it's turned into a nightmare.*
+
+Little hellions brutalize their teacher with abandon.
+
+### *Amateur Night*
+{:. center}
+
+*<https://prompts.aidg.club/3255>*
+{: .center}
+
+![](https://files.catbox.moe/qgymrk.jpg)
+{: .center}
+
+>*The sudden vulnerability he's showing has me floored, and I'm trying to think of something to help him out. Eventually, my mind lands on the idea of giving him something to look forward to. Something he can strive towards, a positive to outweigh the negative. "Alright, Zack, how about this? You like me, right? And I like you. So, if we go to this amateur night, and you go and do a bit without panicking, then I'll let you fuck me," I offer.*
+>
+>*Oh, that got his attention alright, and his face goes bright red. "F-Fuck...? Like... me, and you, in bed, doing... that? You... you serious?" he stammers out.*
+>
+>*"Yeah, I'm serious. I figure that if your problem is that you keep visualizing the worst way things could go, maybe you need something positive to look forward to? And what better to do that with than both of us losing our virginities to each other? Sounds like a great time to me!" I tell him, placing my hand on his shoulder reassuringly.*
+>
+>*His response takes a while to come out, but when it does, he simply nods his head and says, "I'll give it a try." With that, he heads over to the bedroom and begins thinking about his material. Looking through the door, I can see the intensity in his expression as he sits there at the desk, musing over a sheet of paper and scribbling his plan out. I think I've given him a good thing to shoot for.*
+
+My boyfriend always considered himself to be a funny guy, but when the prospect of performing an amateur comedy night at a local club rolls around, a big case of performance anxiety rears its ugly head. I want to convince him to give it a try, but he'll definitely need some support to get through it. Maybe a dirty little promise will help...
+
+### *Bad Birthday Boy*
+{:. center}
+
+*<https://prompts.aidg.club/3256>*
+{: .center}
+
+![](https://files.catbox.moe/gsv2s0.jpg)
+{: .center}
+
+>*Glenda dropped the snake on its head, hard, as it instantly began squirming around angrily. The roused reptile promptly began coiling its rippling, squeezing length around the struggling stripper, immediately pinning her in place. It all happened so fast, Glenda barely had time to squeak in alarm, before the snake was squeezing her so hard, she couldn't breathe or cry out.*
+>
+>*Several of the assembled young boys gasped and yelled in distress, Malcolm crying softly, as Paxton just raised an eyebrow in interest, fascinated that something cool was finally happening at his birthday. He quickly shushed the other lads, who seemed scared, but followed his cues. Just then, Judy popped her head into the playroom, suspiciously asking "What's going on? We heard a racket is uh... 'boy time' nearly over?"*
+>
+>*Malcolm inhaled to respond, before Paxton pulled him aside and yelled out "Nothing's wrong mom! Screw off, we need more time!"*
+
+As a spoiled, pampered child reaches his vaunted thirteenth birthday, he's eager to show off his family's wealth to his lackeys and friends. Planning to hire a real, live stripper, dressed as his favorite video-game character, Ankha, Paxton Martinelli hope's to host a party nobody will ever forget. But, will improper prop handling propel the pole-dancer into peril?
+
+### *Café Cunny*
+{:. center}
+
+*<https://prompts.aidg.club/3258>*
+{: .center}
+
+![](https://files.catbox.moe/b658va.jpg)
+{: .center}
+
+>*As you enter, you see the colorful interior of the establishment. But unlike a regular cafe, this one only has enclosed personal booths, like a karaoke bar, and no open seating area. And just like they said, all waitresses are cute little lolis!*
+>
+>*"Welcome, mister!" one of the lolis trots up to you - a delicate little girl with long light brown hair tied into two fluffy ponytails, "I haven't seen you here before. New customer?" she smiles at you.*
+>
+>*"Yea." you respond reluctantly.*
+>
+>*"Don't be shy! I'm Cara, would you like to have me? I can show you around!" the little girl grabs your hand and holds it in her small palms - her tiny fingers look so gentle and fragile.*
+>
+>*"Okay..."*
+
+In Cafe Cunny all waitresses are cute little lolis! But it also has a super special secret!
+
+### *Molly's Money Troubles*
+{:. center}
+
+*<https://prompts.aidg.club/3259>*
+{: .center}
+
+![](https://files.catbox.moe/dly3in.jpg)
+{: .center}
+
+>*I can't help but grin to myself knowing how hurt her pride must be. "If you're just going to ask me for money, forget it," I tell her.*
+>
+>*"I don't need your stupid money!" She shouts before lowering her volume again, "I have a way to make my own money without Mom or you. I just know you're a nerd and I need your help with a dumb app on my phone."*
+>
+>*"An app?" I ask.*
+>
+>*"Yeah, a friend from school was telling me about it. She said her big sister posts pictures on the app to make money. I wanted to do it too, but when I was signing up for it I put in my birthday and the app says I'm blocked now."*
+>
+>*My mind races as I realize what type of app she is talking about. I yank my sister into my room and close the door.*
+
+Your little sister Molly is a brat. She wanted desperately to be more like a teenager so she started demanding expensive makeup, trendy clothing, and even a cellphone. When your Mom has had enough she cut her off. Instead of trying the things normal 11yo would do to make money like opening a lemonade stand or mowing lawns, she tried to sell pictures of herself online. When the app banned her for age as she was signing up she comes to you for help.
+
+### *Naïve cunny with doggo*
+{:. center}
+
+*<https://prompts.aidg.club/3260>*
+{: .center}
+
+![](https://files.catbox.moe/6fozch.jpg)
+{: .center}
+
+>*Hailey was getting tired of playing by herself. She was always playing by herself. She was the only child of two parents who didn't really like each other. They were both too busy being invested in their own careers and hobbies to worry about her. Hailey is used to being alone, but it still makes her sad.*
+>
+>*So when a big, brown and white dog runs up to her while she's wading in the ocean, she is beside herself. She knows her mom doesn't like animals and is scared of dogs. Kim wouldn't want her daughter petting one. But with a quick check to look at her mom, who seems like she's sleeping on her towel, Hailey reaches out slowly to pet the dog's head. "Here, boy."*
+
+Hailey, a naive child on the beach with her dog Buddy. Shaun makes her do hmmmm
+### *I'M PEACE*
+{:. center}
+
+*<https://prompts.aidg.club/3262>*
+{: .center}
+
+![](https://files.catbox.moe/38nx1j.jpg)
+{: .center}
+
+>*Your daughter comes down the stairs to answer the door. "It's my girlfriend!"*
+>
+>*There's your daughter: Suzie; your everything.*
+>
+>*You thought you weren't gonna make it as a single dad, but Suzie is growing up to be a fine lady. She's wearing a shirt that reads "I'M PEACE", further proof of your good parenting.*
+>
+>*She opens the door to greet the visitor. You look over to see who it is, and that's when you first see her...*
+>
+>*An alien girl. She looks a bit older and more developed than your Suzie, but still a teenager. She has turquoise skin, long teal hair, funny antennae, and she's wearing a shirt that looks just like Suzie's, but hers reads... "I COME IN PEACE"!*
+>
+>*Uh-oh...*
+
+Watch as your daughter has unprotected futa sex with her alien girlfriend right in front of you.
+
+### *Princess and the Daddy*
+{:. center}
+
+*<https://prompts.aidg.club/3263>*
+{: .center}
+
+![](https://files.catbox.moe/owghpz.png)
+{: .center}
+
+>*Once upon a time, there was a Little Princess who lived in a beautiful castle.*
+>
+>*The Little Princess was the most beautiful girl of all the kingdom:*
+>
+>*The Little Princess had the fairest skin, making even the snow turn green with envy.*
+>
+>*The Little Princess had the fluffiest pink hair, making long-haired blondes pull their hair out in anguish.*
+>
+>*The Little Princess had the puffiest and softest little body, making all men in the kingdom want to embrace her in their arms.*
+>
+>*But there was only one man that could embrace the Little Princess:*
+>
+>*Her big Daddy.*
+
+Written like a children's book for the cute and funny Friday.
+
+### *The YAMO Detective*
+{:. center}
+
+*<https://prompts.aidg.club/3264>*
+{: .center}
+
+>*"Detective Anon!" Deborah chirps up from her desk in the lobby. A young and lithe specimen, just barely turned thirty-one. People around the office all wonder why you haven't asked her out yet—it's obvious she likes you, and any other guy would certainly jump at the chance if she had taken a liking to them. "I'm so glad I caught you! There's a young girl waiting to talk to you in one of the waiting rooms, she wouldn't talk to anyone else."*
+>
+>*"Oh really?" You furrow your brow—this couldn't be anything good.*
+>
+>*"Her name's Layla. Twenty one years old, here all alone. Says her parents were too busy to be here with her. Poor thing looked like she was about to cry..."*
+>
+>*You sigh deeply, taking off your coat and setting it on the coat rack before walking through the glass doors into the main area. "Thanks Deb, I'll go talk with her."*
+
+You are a detective in an alternate reality of extended childhood and adolescence, where people are not considered legal adults until the age of thirty. It is your job to catch "young adult molesters"—YAMOs for short. You're good at your job, but today you will find yourself tempted by a young twenty one year-old girl who seeks your protection...
+
+### *Pretty, Petulent, Prim, Princess*
+{:. center}
+
+*<https://prompts.aidg.club/3265>*
+{: .center}
+
+![](https://files.catbox.moe/xi6kck.jpg)
+{: .center}
+
+>*"P-please, what is the meaning of this? This is most improper!" Madeline squeaked out, as Xithrax finished using her reptilian tongue to undress the tutor. The voracious dragoness extended her scaly claw, forcing the petite instructor down onto the manicured, grass-covered ground. Madeline hysterically begged for answers "W-what is the meaning of this? What is your dragon going to do? You're a noblewoman yourself, you have more than enough power to stop this! Why are you allowing such a disgraceful act?!"*
+>
+>*Xithrax's bifurcated tongue flicked out again, as the dragoness spoke "Queen Vandavia, shall I partake? I am ever so hungry to chase that delicious tea with a fine snack."*
+>
+>*Vandavia nodded. "Yes please, I think Miss Halbrook here, would make for a fitting contribution to my royal guardian's heft."*
+
+Madeline Halbrook is an esteemed instructor in the feminine arts of etiquette, poise, hospitality, and diplomacy. But, when the beautiful tutor is charged with turning the future heir of the Rastmarl throne into a proper lady, Madeline may find difficulty in reaching her young, haughty, royal student. Tea time takes on a turbulent new tone, as Madeline is forced to accommodate a particularly unladylike guest of the Rastmarl princess.
+
+### *The Fire Sorceress*
+{:. center}
+
+*<https://prompts.aidg.club/3270>*
+{: .center}
+
+![](https://files.catbox.moe/ehp5ti.jpg)
+{: .center}
+
+>*"Who's there? Come around to the other side so I can see you," she yelped, kicking her legs a bit more now to indicate distress, her backside facing you. "I've been stuck in here for a while!" The sorceress' face was flushed, and her long, black hair extending down like her arms. Her eyes were wide open and darting around, taking in every detail of the room that she could see. Watching her rump waggle made me pause for a moment as she tried to move her body in vain. As she kicked, glimpses of her underwear flashed when her robe shifted around a little too much. Trying to clear my mind of what I was seeing, I quickly paced over to the other side of the wooden device to face the girl, instead of her posterior.*
+>
+>*"My name is Alexander," I introduced myself, looking at the sorceress, who stared back at me with wide, teary eyes. "What's your name?"*
+>
+>*She quickly blurted out, "Solaria, fire sorcerer." She added a prideful tone as she announced her title, but it was deflated by the fact that she was trapped inside a pillory. "Now c'mon, free me already! T-This sucks, you know?"*
+
+Your tense crawl through a dungeon filled with monsters is halted by the last thing you were expecting to find, a sorcerer dangling uselessly in a wooden device. Okay, it's a pillory. I just wanted to be nice. There's quite the dilemma to have here. Will you free her and work with her to escape the dungeon safely? Or will you take advantage of her misfortune?
+
+### *The Big Cummy*
+{:. center}
+
+*<https://prompts.aidg.club/3271>*
+{: .center}
+
+>*"Mommy…"*
+>
+>*"What is it, honey?" she asked, knowing what it would be as she unavoidably watched her daughter's throbbing member swell in the rearview mirror. Violet's pulsing cockhead was inches behind Joy, nearly jutting above the headrest.*
+>
+>*"Cummy," said Violet, in her sharp, decisive voice. Here? Now? Joy had tried to 'take care' of her daughter before they left, making sure she let out at least three distinct loads, gallons upon gallons of the white slurry pumped into the special drain she had installed in their home. She had naively hoped that might have been enough to temporarily sate little Vi's libido for at least long enough to reach her doctor's office for this appointment. Even still, she should have known better than to take her out without a double layer of the oversized condoms she used for protection in public. But they were expensive and Violet had gone through the box after her last outing. Joy had planned to buy more on their way back from the doctor's office.*
+>
+>*But here she was, with her daughter's immense cock, sticking straight up, clearly visible in the mirror. The thought of what anyone who glanced at their car might see was mortifying.*
+
+Little girl, big dick, bigger cooms. Mom is trying her best.
+
+### *Scary Campfire Stories*
+{:. center}
+
+*<https://prompts.aidg.club/3272>*
+{: .center}
+
+![](https://files.catbox.moe/9aqyo6.png)
+{: .center}
+
+>*"You call yourself a teacher of survival, but you are leading your students astray. This is a crime among my people, and these were once our lands."*
+>
+>*The scoutmaster immediately barked out in fear "W-who's there? People know where we are! Someone, help!"*
+>
+>*But a sudden rustle in the darkness forced Chrissy into action. The spry woman leveled a can of bearspray in the direction of the voice, and blasted out a cloud of noxious capsaicin. An overwhelming smell of rotting meat filled the air, as a powerful, furred paw swatted the athletic woman to the ground with ease. A coughing, feminine voice spoke out above Chrissy "Ah, my meal spices itself, how exquisite."*
+>
+>*Chrissy awkwardly groped for her lantern flashlight, turning it on as it illuminated a ghastly abomination, hulking above her.*
+
+A group of anthropomorphic Forest Scouts are learning about roughing it in the forest the hard way. Chrissy and Megan, their inadequately trained scoutmasters, may not be able to control the situation, as scary storytelling gets out of hand.
+
+### *The Horny Brat I Met at the Grocery Store*
+{:. center}
+
+*<https://prompts.aidg.club/3273>*
+{: .center}
+
+>*"Candy!" she demands, holding out her open palm; I'm helpless to resist her cute smile and suggestive eyes. With shaking hands I pull a candy bar from my pocket, handing it over without hesitation. She laughs, taking it, her eyes never leaving mine.*
+>
+>*"I know what kind of thoughts you're having mister," she says softly. "But I promise I won't tell anybody. You don't have to worry about anything happening to your secret, okay? We can both benefit from this, so just trust me a lil' bit, I'm not gonna to say a word to anyone else."*
+>
+>*I try to respond, but can't find the words, so instead I simply nod dumbly. She grabs my wrist, pulling me down the sidewalk. "W-Where are we going?" I stammer, following after her as best I can.*
+>
+>*"Somewhere private," she replies coyly, leading me down the road.*
+
+After [meeting a horny brat at the grocery store](https://arch.b4k.co/vg/thread/354149827/#354393382), things quickly spiral out of control when she proposes a unique arrangement.
+
+### *A Red Panda Problem*
+{:. center}
+
+*<https://prompts.aidg.club/3275>*
+{: .center}
+
+![](https://files.catbox.moe/ocd814.jpg)
+{: .center}
+
+>*"Oh, hey you're awake." I said in a soft voice. She then jumped out of my bed and started frantically looking around, trying to figure out where she is.*
+>
+>*"Where am I?" Mei asks with fear in her voice. "Did you kidnap me?!"*
+>
+>*"W-Woah wait don't get too worked up or you'll—" I was interrupted by a giant poof of pink smoke that slowly dissipated, revealing Mei, now transformed into a giant ten foot tall red panda. It took me a while (and a lot of broken furniture), but I finally managed to get Mei to calm down and get her to change back into a human so I could explain things to her.*
+>
+>*"So I came out your computer?" Mei asked.*
+>
+>*"Long story short, yes." I replied. "And no, I didn't kidnap you. at least I didn't do it on purpose."*
+>
+>*Mei nodded in acknowledgement before turning to face away from me, resting against the headboard of the bed. Mei sighed heavily as she stared at the ceiling, taking all of the information in. After a few minutes had passed, she looked back at me.*
+>
+>*"So... what now?" Mei asked me.*
+
+Have you ever wanted to spend time with Mei from Turning Red? well I sure have! So if there's anyone like me out there then I hope you have a swell time with Mei.
+
+### *When You Wish Upon a Star*
+{:. center}
+
+*<https://prompts.aidg.club/3277>*
+{: .center}
+
+![](https://files.catbox.moe/bny2gb.jpg)
+{: .center}
+
+>*The redheaded starlet's panic rose to new levels, as she realized the huge, aggressive canine was now actively humping at her rear, her dress rucked up over her hips, as she felt Sam's long canine claws scratching at her back. The husky's paws dug into the flesh of Christina's creamy back, as she felt the wet prick of his swelling dog penis poking inquisitively against her pubic mound. Christina was mortified, her legs beginning to shake, and her breathing growing heavy as the enormous canine pressed closer. Christina found herself firmly pressed down on her stomach and huge breasts, as Sam shifted his weight further onto her back. She could feel the hard tip of the husky's thick penis prodding at her nether regions, as Christina moaned out for help.*
+>
+>*Christina Hendricks tried to shift out from under the amorous canine, but was helplessly kept in place by the huge dog's front paws, and the force of his weight pressing against her raised-up bottom. Lisette watched, amused, as Christina writhed underneath the husky, trying to push herself out from beneath the canine, but failing miserably. "It's okay Joana, just relax. Sam has been preparing himself for this moment for a long time. My Vengeance will be complete." As Lisette spoke, the husky's knotty cock throbbed heavily, and Sam's body suddenly tensed, as he drove home his thick, muscular length.*
+
+When an ailing young girl named Lisette lies stricken with cancer, her desperate parents are left grieving and unprepared. The bereaved parents are eager to grant whatever happiness they can into their debilitated youth's life, and by reaching out to charities, miracles can happen. When the Make-A-Wish foundation takes notice of Lisette's desperate state, the young woman's fondest dreams may finally be made reality. Will Christina Hendricks, famed redheaded television starlet, be able to bring a smile to a sickly child's face?
+
+### *Welcome to the VDV*
+{:. center}
+
+*<https://prompts.aidg.club/3283>*
+{: .center}
+
+![](https://files.catbox.moe/yjkm4a.jpg)
+{: .center}
+
+>*The novelty of the inexplicable event immediately ceased, as the predatory creature opened its toothy, red-gummed maw wide. Instinct and two weeks of military training kicked in, as Yevgeny popped the creature in its stubby muzzle, right on the snout. He tried to shout "Cyka bylat!" But only emitted a burst of bubbles, as the huge, muscular shark woman recoiled in shock from the blow.*
+>
+>*The shark woman's black eyes narrowed in anger, as she used her clawed hands to assertively pin his arms down to his sides. The undersea predator opened her maw wide again, preparing for a massive chomp, as Yevgeny just angrily stared back. He flinched as she lunged, but she pulled back at the last moment, an unreadable expression flashing across her, seemingly emotionless, shark face. The creature hesitantly gnashed at him several more times, but seemed somehow reluctant to commit. Yevgeny was quite terrified, and rapidly drowning, but he thought he must of been hallucinating when the shark woman effortlessly spoke to him underwater, her gravelly, husky voice saying "That was a pretty good jab... for a scrawny Nerd."*
+
+When the Russian special force unit, VDV, incurs massive losses invading Ukraine, Putin issues emergency drafts to refill the paratrooper rosters. When the young Yevgeny is drafted to lead a suicidal child soldier battalion during the naval invasion of Odessa, fate intervenes dramatically. Will the stalwart, sensitive young man be able to lose his virginity, before he loses his life to the cruel Black Seas?
+
+### *Indigo Children*
+{:. center}
+
+*<https://prompts.aidg.club/3284>*
+{: .center}
+
+![](https://files.catbox.moe/u3e2at.jpg)
+{: .center}
+
+>*Helen groggily rose to her feet, as she realized the platform she was standing on, was unsteady. Worse, she was completely naked, exposed to the stinking, putrid elements, as she gazed around at her surroundings. The woman had been dumped right into the middle of a swampy bog, her feet standing on a massive lily-pad. As soon as Helen discerned the nature of her surrounding biome, the terrified woman's nerves somehow ratcheted up to another level of alarm. The roaring croak that issued out from behind her, however, made Helen collapse into a shrieking mass of horror. It's bulging, green heft shook the lilypad as it clambered on, as a bulbous toad began confidently approaching the hysteric Helen.*
+
+The mind is a terrible thing to taste.
+
+***
+
 ## The Friday of *Warfare*
 {: .center}
 
 Let's make prompts about combat, struggle, victory and defeat in the face of worthy opponents.
 {: .center}
 
-4th March, 2022
+[4th March, 2022](#the-log)
 {: .center}
 
 ### *The War of Rigging, 2022*
