@@ -1245,7 +1245,7 @@ And another one. Whoa, it actually picked up on the fact that youkai have resurr
 
 ***Note:** I've included the recommended 80% coverage version, and also a softer gentler 40% version. `[ Start: ... ]` can be very useful for giving guidance to Euterpe when beginning a new chapter.*
 
-![Sample: (pink mine) (edited)](https://files.catbox.moe/40z6wk.png)
+![Sample: (pink mine) ](https://files.catbox.moe/40z6wk.png)
 
 ##### [Desert Fantasy and Folklore](https://files.catbox.moe/z0ik57.module)
 
@@ -2994,7 +2994,7 @@ Final training data, merged, fully cleaned: <https://files.catbox.moe/5kjbkh.zip
 - Carla Puyal
 - Alyson Belle
 - Victoria August
-- M Wills (edited)
+- M Wills
 
 ![example](https://files.catbox.moe/akescu.png)
 [: .center]
