@@ -27,7 +27,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 - Added [Hunter S. Thompson](#hunter-s-thompson) module.
 - Added [Cave Johnson Voicelines](#cave-johnson) module.
-- Added [Them's Fighting Herds Wiki](#thems-fighting-herds-wiki) module.
+- Added [Them's Fighting Herds Wiki](#thems-fighting-herds) module.
 - Added [Wikipedia](#wikipedia) module.
 - Added [Ice](#ice) module.
 - Added [Raymond Chandler](#raymond-chandler) module.
@@ -170,7 +170,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [A Song of Ice and Fire](#a-song-of-ice-and-fire)
       - [Star Trek: The Next Generation](#star-trek-the-next-generation)
       - [Star Wars](#star-wars)
-      - [Them's Fighting Herds (Wiki)](#thems-fighting-herds-wiki)
+      - [Them's Fighting Herds](#thems-fighting-herds)
       - [Touhou Project](#touhou-project)
       - [Vampire: The Masquerade](#vampire-the-masquerade)
       - [Warrior Cats: Universe](#warrior-cats-universe)
@@ -1113,7 +1113,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ***Note:** This was not made by me! I am uploading this for an anonymous user.*
 
-##### [Them's Fighting Herds (Wiki)](https://files.catbox.moe/kvvp8q.module)
+##### [Them's Fighting Herds](https://files.catbox.moe/kvvp8q.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/376722341/#376803880)
 
