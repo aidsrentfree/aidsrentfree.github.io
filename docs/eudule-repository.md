@@ -2997,7 +2997,7 @@ Final training data, merged, fully cleaned: <https://files.catbox.moe/5kjbkh.zip
 - M Wills
 
 ![example](https://files.catbox.moe/akescu.png)
-[: .center]
+{: .center}
 
 ##### [Forced Bi/Gay](https://files.catbox.moe/fmq55t.module)
 
