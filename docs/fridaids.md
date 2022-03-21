@@ -366,6 +366,7 @@ I hear you boys like C&F! Well, this gal's got it in excess.
 {: .center}
 
 ![](https://files.catbox.moe/4ujipw.png)
+{: .center}
 
 >*From reading online imageboards, you've discovered a ritual to send yourself into another dimension. All you need is to invoke the name of a new world, and you have a certain one in mind. In this world, you're a greasy, grossly obese man with a terrible personality who gets beaten up for no reason all the time. But, say, in a world only filled with children...*
 >
@@ -495,6 +496,7 @@ Sometimes Vaporub leads to sex with your niece.
 {: .center}
 
 ![](https://files.catbox.moe/0v3x82.png)
+{: .center}
 
 >*"W-what is this? I was just, I'm... simply, uh, mistaken--"*
 >
