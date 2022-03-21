@@ -337,7 +337,7 @@ Let's make prompts about kids.
 {: .center}
 
 ### *The Cutest and Funniest Pagliaccia*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3230>*
 {: .center}
@@ -360,7 +360,7 @@ Let's make prompts about kids.
 I hear you boys like C&F! Well, this gal's got it in excess.
 
 ### *Welcome to Lolliland!*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3231>*
 {: .center}
@@ -382,7 +382,7 @@ I hear you boys like C&F! Well, this gal's got it in excess.
 An entire dimension full of little girls, perfect for a lecherous, gross loser. I mean, unless you accidentally say the invocation wrong, and get sent to candyland instead.
 
 ### *THE MASKED LOLIBABA*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3239>*
 {: .center}
@@ -413,7 +413,7 @@ Okay, here's ACTUALLY one REAL theme friday submission, despite the fact that I 
 I give no guarantees of quality lmao
 
 ### *Smedrins the Big, Gay, Vore Dragon*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3241>*
 {: .center}
@@ -432,7 +432,7 @@ I give no guarantees of quality lmao
 Vore Smedrins
 
 ### *House of Cute & Funny*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3242>*
 {: .center}
@@ -448,7 +448,7 @@ Vore Smedrins
 Visiting the culture festival at Tanegawa-sensei's elementry school, you find that her class is hosting a "House of Cute & Funny." With how weird her sense of humor is, you can't help but wonder what kind of thing she came up this time.
 
 ### *Girl Scout Kisses*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3243>*
 {: .center}
@@ -464,7 +464,7 @@ Visiting the culture festival at Tanegawa-sensei's elementry school, you find th
 When two girl scouts approach you to sell their cookies, you find the younger of the two is interested in more than just your money...
 
 ### *Side Effects Include: Incest*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3244>*
 {: .center}
@@ -489,7 +489,7 @@ When two girl scouts approach you to sell their cookies, you find the younger of
 Sometimes Vaporub leads to sex with your niece.
 
 ### *They Call Me 'Handsome'*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3246>*
 {: .center}
@@ -507,7 +507,7 @@ Sometimes Vaporub leads to sex with your niece.
 Kinsley Napleton is eager to consummate an illicit affair with an underage, male lover. But will this Ara-araing milf be able to /ss/ without suffering shame and society's persecution?
 
 ### *The Moonlight Princess*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3247>*
 {: .center}
@@ -521,7 +521,7 @@ Kinsley Napleton is eager to consummate an illicit affair with an underage, male
 A stranger in the presence of a Goddess, drawn to her by inexplicable forces. Was this a delicate rose to be protected? Or greedily plucked. A very open ended prompt about meeting a loli Moon Goddess.
 
 ### *Elves, Alchemy and Ejaculate*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3248>*
 {: .center}
@@ -537,7 +537,7 @@ A stranger in the presence of a Goddess, drawn to her by inexplicable forces. Wa
 A sultry tale on sultry night. Get kidnapped by a mother/daughter duo of Elf druidesses as they extract your magic man gravy.
 
 ### *Dragon Bussy. Drussy?*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3249>*
 {: .center}
@@ -554,7 +554,7 @@ With Dranpei - a feisty red dragon who prefers a humanoid form - cornered, how b
 
 
 ### *Nights Upon the Dunes*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3250>*
 {: .center}
@@ -566,7 +566,7 @@ With Dranpei - a feisty red dragon who prefers a humanoid form - cornered, how b
 A battered veteran's night is spiced up when a exotic dancer of the dunes offers their companionship. When facing the hardships of age, is it not unwise to find comfort in the company of a youth?
 
 ### *Loli-Land!*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3251>*
 {: .center}
@@ -580,7 +580,7 @@ A battered veteran's night is spiced up when a exotic dancer of the dunes offers
 Stumble upon the sick and depraved Loli-Land! Anything goes, you beautiful sicko you.
 
 ### *IT's a Hard Knock Life*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3253>*
 {: .center}
@@ -595,7 +595,7 @@ Stumble upon the sick and depraved Loli-Land! Anything goes, you beautiful sicko
 Pennywhistle the monster clown is on hard times, and is resorting to desperate measures to get his fix of fearful prey. The voracious, hulking harlequin plans to regain his strength, and the respect of the community that once feared him, by devouring an endless parade of seedy hos. But, can the evil entity afford his habit?
 
 ### *Lessons in Respect*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3254>*
 {: .center}
@@ -605,7 +605,7 @@ Pennywhistle the monster clown is on hard times, and is resorting to desperate m
 Little hellions brutalize their teacher with abandon.
 
 ### *Amateur Night*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3255>*
 {: .center}
@@ -624,7 +624,7 @@ Little hellions brutalize their teacher with abandon.
 My boyfriend always considered himself to be a funny guy, but when the prospect of performing an amateur comedy night at a local club rolls around, a big case of performance anxiety rears its ugly head. I want to convince him to give it a try, but he'll definitely need some support to get through it. Maybe a dirty little promise will help...
 
 ### *Bad Birthday Boy*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3256>*
 {: .center}
@@ -641,7 +641,7 @@ My boyfriend always considered himself to be a funny guy, but when the prospect 
 As a spoiled, pampered child reaches his vaunted thirteenth birthday, he's eager to show off his family's wealth to his lackeys and friends. Planning to hire a real, live stripper, dressed as his favorite video-game character, Ankha, Paxton Martinelli hope's to host a party nobody will ever forget. But, will improper prop handling propel the pole-dancer into peril?
 
 ### *Café Cunny*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3258>*
 {: .center}
@@ -662,7 +662,7 @@ As a spoiled, pampered child reaches his vaunted thirteenth birthday, he's eager
 In Cafe Cunny all waitresses are cute little lolis! But it also has a super special secret!
 
 ### *Molly's Money Troubles*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3259>*
 {: .center}
@@ -683,7 +683,7 @@ In Cafe Cunny all waitresses are cute little lolis! But it also has a super spec
 Your little sister Molly is a brat. She wanted desperately to be more like a teenager so she started demanding expensive makeup, trendy clothing, and even a cellphone. When your Mom has had enough she cut her off. Instead of trying the things normal 11yo would do to make money like opening a lemonade stand or mowing lawns, she tried to sell pictures of herself online. When the app banned her for age as she was signing up she comes to you for help.
 
 ### *Naïve cunny with doggo*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3260>*
 {: .center}
@@ -697,7 +697,7 @@ Your little sister Molly is a brat. She wanted desperately to be more like a tee
 
 Hailey, a naive child on the beach with her dog Buddy. Shaun makes her do hmmmm
 ### *I'M PEACE*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3262>*
 {: .center}
@@ -720,7 +720,7 @@ Hailey, a naive child on the beach with her dog Buddy. Shaun makes her do hmmmm
 Watch as your daughter has unprotected futa sex with her alien girlfriend right in front of you.
 
 ### *Princess and the Daddy*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3263>*
 {: .center}
@@ -745,7 +745,7 @@ Watch as your daughter has unprotected futa sex with her alien girlfriend right 
 Written like a children's book for the cute and funny Friday.
 
 ### *The YAMO Detective*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3264>*
 {: .center}
@@ -761,7 +761,7 @@ Written like a children's book for the cute and funny Friday.
 You are a detective in an alternate reality of extended childhood and adolescence, where people are not considered legal adults until the age of thirty. It is your job to catch "young adult molesters"—YAMOs for short. You're good at your job, but today you will find yourself tempted by a young twenty one year-old girl who seeks your protection...
 
 ### *Pretty, Petulent, Prim, Princess*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3265>*
 {: .center}
@@ -778,7 +778,7 @@ You are a detective in an alternate reality of extended childhood and adolescenc
 Madeline Halbrook is an esteemed instructor in the feminine arts of etiquette, poise, hospitality, and diplomacy. But, when the beautiful tutor is charged with turning the future heir of the Rastmarl throne into a proper lady, Madeline may find difficulty in reaching her young, haughty, royal student. Tea time takes on a turbulent new tone, as Madeline is forced to accommodate a particularly unladylike guest of the Rastmarl princess.
 
 ### *The Fire Sorceress*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3270>*
 {: .center}
@@ -795,7 +795,7 @@ Madeline Halbrook is an esteemed instructor in the feminine arts of etiquette, p
 Your tense crawl through a dungeon filled with monsters is halted by the last thing you were expecting to find, a sorcerer dangling uselessly in a wooden device. Okay, it's a pillory. I just wanted to be nice. There's quite the dilemma to have here. Will you free her and work with her to escape the dungeon safely? Or will you take advantage of her misfortune?
 
 ### *The Big Cummy*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3271>*
 {: .center}
@@ -811,7 +811,7 @@ Your tense crawl through a dungeon filled with monsters is halted by the last th
 Little girl, big dick, bigger cooms. Mom is trying her best.
 
 ### *Scary Campfire Stories*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3272>*
 {: .center}
@@ -830,7 +830,7 @@ Little girl, big dick, bigger cooms. Mom is trying her best.
 A group of anthropomorphic Forest Scouts are learning about roughing it in the forest the hard way. Chrissy and Megan, their inadequately trained scoutmasters, may not be able to control the situation, as scary storytelling gets out of hand.
 
 ### *The Horny Brat I Met at the Grocery Store*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3273>*
 {: .center}
@@ -846,7 +846,7 @@ A group of anthropomorphic Forest Scouts are learning about roughing it in the f
 After [meeting a horny brat at the grocery store](https://arch.b4k.co/vg/thread/354149827/#354393382), things quickly spiral out of control when she proposes a unique arrangement.
 
 ### *A Red Panda Problem*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3275>*
 {: .center}
@@ -871,7 +871,7 @@ After [meeting a horny brat at the grocery store](https://arch.b4k.co/vg/thread/
 Have you ever wanted to spend time with Mei from Turning Red? well I sure have! So if there's anyone like me out there then I hope you have a swell time with Mei.
 
 ### *When You Wish Upon a Star*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3277>*
 {: .center}
@@ -886,7 +886,7 @@ Have you ever wanted to spend time with Mei from Turning Red? well I sure have! 
 When an ailing young girl named Lisette lies stricken with cancer, her desperate parents are left grieving and unprepared. The bereaved parents are eager to grant whatever happiness they can into their debilitated youth's life, and by reaching out to charities, miracles can happen. When the Make-A-Wish foundation takes notice of Lisette's desperate state, the young woman's fondest dreams may finally be made reality. Will Christina Hendricks, famed redheaded television starlet, be able to bring a smile to a sickly child's face?
 
 ### *Welcome to the VDV*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3283>*
 {: .center}
@@ -901,7 +901,7 @@ When an ailing young girl named Lisette lies stricken with cancer, her desperate
 When the Russian special force unit, VDV, incurs massive losses invading Ukraine, Putin issues emergency drafts to refill the paratrooper rosters. When the young Yevgeny is drafted to lead a suicidal child soldier battalion during the naval invasion of Odessa, fate intervenes dramatically. Will the stalwart, sensitive young man be able to lose his virginity, before he loses his life to the cruel Black Seas?
 
 ### *Indigo Children*
-{:. center}
+{: .center}
 
 *<https://prompts.aidg.club/3284>*
 {: .center}
