@@ -23,6 +23,18 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(21st March, 2022)
+
+- Added [Hunter S. Thompson](#hunter-s-thompson) module.
+- Added [Cave Johnson Voicelines](#cave-johnson) module.
+- Added [Them's Fighting Herds Wiki](#thems-fighting-herds-wiki) module.
+- Added [Wikipedia](#wikipedia) module.
+- Added [Ice](#ice) module.
+- Added [Raymond Chandler](#raymond-chandler) module.
+- Added [Judy Hopps](#judy-hopps) module.
+- Added [Tentacles](#tentacles) module.
+- Added [Feminization](#feminization) module.
+
 (14th March, 2022)
 
 - Updated [Fallout: New Vegas](#fallout-new-vegas) module with 1280 context successor.
@@ -97,12 +109,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Hamilton: An American Musical](#hamilton-an-american-musical) module.
 - Added [Oregairu](#oregairu) module.
 
-(22nd February, 2022)
-
-- Added [Spice and Wolf](#spice-and-wolf) module
-- Added [DOOM](#doom) module.
-- Added [All The Shit I Wrote](#all-the-shit-i-wrote) module.
-
 ***
 
 ## [Table of Contents](#modules)
@@ -116,12 +122,14 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [C. S. Lewis](#c-s-lewis)
     - [E. E. Cummings](#e-e-cummings)
     - [George Orwell](#george-orwell)
+    - [Hunter S. Thompson](#hunter-s-thompson)
     - [Italo Calvino](#italo-calvino)
     - [J. R. R. Tolkien](#j-r-r-tolkien)
     - [Jane Austen](#jane-austen)
     - [Jorge Luis Borges](#jorge-luis-borges)
     - [P. G. Wodehouse](#p-g-wodehouse)
     - [R. A. Lafferty](#r-a-lafferty)
+    - [Raymond Chandler](#raymond-chandler)
     - [Rod Serling](#rod-serling)
     - [Thomas Pynchon](#thomas-pynchon)
   - [Independent](#independent)
@@ -162,6 +170,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [A Song of Ice and Fire](#a-song-of-ice-and-fire)
       - [Star Trek: The Next Generation](#star-trek-the-next-generation)
       - [Star Wars](#star-wars)
+      - [Them's Fighting Herds (Wiki)](#thems-fighting-herds-wiki)
       - [Touhou Project](#touhou-project)
       - [Vampire: The Masquerade](#vampire-the-masquerade)
       - [Warrior Cats: Universe](#warrior-cats-universe)
@@ -199,6 +208,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Wildlife](#wildlife)
       - [Yinglets](#yinglets)
     - [Concepts](#concepts)
+      - [Cave Johnson](#cave-johnson)
       - [Forbidden Lands (Random Encounters)](#forbidden-lands-random-encounters)
       - [LitRPG](#litrpg)
       - [Natural Horror](#natural-horror)
@@ -220,11 +230,13 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Giantesses](#giantesses)
       - [Good Girls](#good-girls)
       - [Hyper Futa](#hyper-futa)
+      - [Judy Hopps](#judy-hopps)
       - [Loli/Shota](#lolishota)
       - [Monster Girls](#monster-girls)
       - [Non-Humans](#non-humans)
       - [Sergals](#sergals)
       - [Small Equines](#small-equines)
+      - [Tentacles!](#tentacles)
       - [Veggie's Lolis](#veggies-lolis)
     - [Acts](#acts)
       - [Assorted Mind Control](#assorted-mind-control)
@@ -242,6 +254,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Dad on Son](#dad-on-son)
       - [Eroguro](#eroguro)
       - [Erotic Horror](#erotic-horror)
+      - [Feminization](#feminization)
       - [Forced Bi/Gay](#forced-bigay)
       - [Furry](#furry)
       - [Furry ENF](#furry-enf)
@@ -272,6 +285,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Discworld Witch Series](#discworld-witch-series)
       - [The Dresden Files](#the-dresden-files)
       - [Harry Potter](#harry-potter)
+      - [Ice](#ice)
       - [Percy Jackson](#percy-jackson)
       - [Redwall](#redwall)
       - [The Solar Cycle](#the-solar-cycle)
@@ -328,6 +342,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Movie Plots](#movie-plots)
   - [Online Hell Tweet Generator](#online-hell-tweet-generator)
   - [Rhyme and Poetry](#rhyme-and-poetry)
+  - [Wikipedia](#wikipedia)
   - [Yu-Gi-Oh Cards](#yu-gi-oh-cards)
 
 ***
@@ -415,7 +430,23 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *ZIP file contains the module, the training data, the image, and the base for the training data I formatted. So if at some point [Euterpe V3] or [20] beaks or whatever the fuck comes out and I'm not there to retrain the modules, you'll have everything you need.*
 
-[by Anon](https://arch.b4k.co/vg/thread/371608780/#371627864)
+#### [Hunter S. Thompson](https://files.catbox.moe/cr8tuh.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/376546016/#376651450)
+
+*Alright, results look good enough to me, so here's my Hunter S. Thompson module for Euterpe.*
+
+*Since whoever made the Sigurd one didn't leave training data, I started from scratch and ended up with the following books in the training data: Hell's Angels, Fear and Loathing: Las Vegas, Fear and Loathing: Campaign Trail, Great Shark Hunt, Curse of Lono, Generation of Swine, Songs of the Doomed, Better Than Sex, Proud Highway Saga, Rum Diary, Fear and Loathing: America, Screwjack, Kingdom of Fear, Hey Rube, and Fear and Loathing: Rolling Stone.*
+
+*Due to the prevalence of Thompson's own name in the writing, banning "Hunter" and "Thompson" is recommended if you don't want the AI to immediately go for those if it needs a name.*
+
+*Finally, here's the full pack for this module: <https://files.catbox.moe/szni1m.zip>*
+
+*Usually, I only share my modules with the full pack, but since this pack is 50 MB in size, I linked only the module file as well. Anyway, this contains everything I used in training: The source ebooks, the plaintext conversion, and the edited training data I used.*
+
+*So if Krake gets modules and I'm dead and unable to retrain, some other step slut can just retrain this.*
+
+*Have fun!*
 
 #### [Italo Calvino](https://files.catbox.moe/otyyhe.module)
 
@@ -494,6 +525,17 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *Too many to list but includes Selenium Ghosts of the Eighteen-Seventies, Continued On the Next Rock, About a Secret Crocodile, Slow Tuesday Night, Nine Hundred Grandmothers, And Now Walk Gently Through the Fire, Groaning Hinges of the World, Among the Hairy Earthmen, The World As Will and Wallpaper, Narrow Valley, Ginny Wrapped In the Sun, The Skinny People of Leptophlebo Street, Land of the Great Horses, Thus We Frustrate Charlemagne*
 
 ![](https://files.catbox.moe/5s797j.jpg)
+{: .center}
+
+#### [Raymond Chandler](https://files.catbox.moe/dusd12.module)
+
+[by Spoder](https://discord.com/channels/836774308772446268/939922436500107314/954873562374750219)
+
+*Chandler's detective stories and novels are genre fiction which often transcends itself due to his eye for character and his way of turning a phrase. This module is deliberately overtrained so as to make it copy his style as much as possible, so it is based on probably his most famous novel.*
+
+*Trained to 100.49% with 391 steps.*
+
+![example](https://files.catbox.moe/a5vl2t.jpg)
 {: .center}
 
 #### [Rod Serling](https://files.catbox.moe/q2nzv7.zip)
@@ -1070,6 +1112,16 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 ***Tags:** Third Person, Legends, Extended Canon, Expanded Universe, Jedi, Sith, Empire, Rebel, Galactic Civil War*
 
 ***Note:** This was not made by me! I am uploading this for an anonymous user.*
+
+##### [Them's Fighting Herds (Wiki)](https://files.catbox.moe/kvvp8q.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/376722341/#376803880)
+
+*It's a Them's Fightin' Herds module.*
+
+> \>There's enough lore to make a module from that game?
+
+*It’s unfortunately very small (1000 steps) and that’s with everyone’s wiki bios, the outdated backstories, and 90% of all the fanfiction from that fandom. Though the game is mostly unfinished so maybe more will be added with time.*
 
 ##### [Touhou Project](https://files.catbox.moe/09eq95.module)
 
@@ -1984,6 +2036,16 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 
 #### [Concepts](#elements)
 
+##### [Cave Johnson](https://files.catbox.moe/ov3ahg.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/376294694/#376438241)
+
+> \>[Module WHEN?](https://theportalwiki.com/wiki/Cave_Johnson_voice_lines)
+
+*The future is now!*
+
+*Just remember that AI is bad at intentional comedy*
+
 ##### [Forbidden Lands (Random Encounters)](https://files.catbox.moe/tk5j74.module)
 
 [by TravelingRobot](https://story-explorer.ai/index.php?view=article&id=132:forbidden-lands-random-encounters&catid=16)
@@ -2569,6 +2631,19 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 
 ![example](https://files.catbox.moe/clbluc.jpg)
 
+##### [Judy Hopps](https://files.catbox.moe/bbbd54.module)
+
+[by GhostWriter](https://discord.com/channels/854479693503660032/939950910690439179/953177198804750386)
+
+*Trained 8000 steps on a bunch of random Zootopia Fanfictions  (mostly smutty, covering a wide range of kinks) Featuring Judy Hopps as a character & also the novelization of the movie to reinforce accuracy.*
+*For additional performance, rentry.co/DenOfSin has a Judy Hopps lorebook card files.catbox.moe/rqtk46.png (Not used in the samples below)*
+
+>**Nick** was on his way home from the police station, feeling exhausted and depressed. He had been working hard to find out who had stolen his wallet and what they were trying to do with it. The trail was going cold and he didn't know why. It seemed like whoever had done this to him was just too clever for him to catch.
+
+>**Judy** stared at the book, trying to make sense of what she was reading.
+>
+>She had just finished chapter nine and her mind was reeling with everything she'd learned. She could hardly believe it; if it were true, then… well, that would mean that the entire city was in danger. If the ZPD didn't have a mole, then it was likely that they had been infiltrated by some sort of secret society. And if they were in league with them, then it meant that the entire city was at risk. It also meant that if they weren't part of this group, then they were working for them.
+
 ##### [Loli/Shota](https://files.catbox.moe/l492v0.module)
 
 [procured by Anon](https://arch.b4k.co/vg/thread/371696139/#371736508)
@@ -2668,6 +2743,14 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 [by Anon](https://arch.b4k.co/vg/thread/371544232/#371545765)
 
 *I'm back with the small equines module. Top rated small horse degeneracy stories focused on the smallest horses. 2.25mb, 3k steps, 2.54 loss.*
+
+##### [Tentacles!](https://files.catbox.moe/g0lv96.module)
+
+[by Naliamegod](https://discord.com/channels/854479693503660032/939950910690439179/953909440271241306)
+
+*So as part of my MG module, I realized I had a decent amount of tentacle sex content thanks to LE and MGQ. So, why not just make a tentacle module with my remaining steps? Release your inner Toshio Maeda with this module! Perfect for boys and girls!*
+
+***Tags:** Tentacle sex, non-consensual, non-human, monster girl (scylla mostly), corruption*
 
 ##### [Veggie's Lolis](https://files.catbox.moe/h1qubt.module)
 
@@ -2886,6 +2969,35 @@ Final training data, merged, fully cleaned: <https://files.catbox.moe/5kjbkh.zip
 >A man stepped forward holding a large silver bowl containing water. He dipped his fingers into it then held out two slim white arms toward the kneeling women. They rose unsteadily to their feet and allowed themselves to be led across the room. As they approached the altar, their faces glowed red, flushed with excitement. Their lips were moist and parted slightly. Their breathing quickened.
 >
 >They knelt before the altar, each facing the other. One reached up and grasped the hand of the woman beside her. Together they leaned forward until their foreheads touched. Then, without hesitation or preamble, the taller woman lowered her head and pressed her lips against those of her companion. For several moments nothing happened. Slowly, though, the shorter woman's lips began to part. Soon they were locked together in a passionate embrace. Their tongues met and caressed one another. There was no sound save the soft moanings of pleasure. Finally, when the kiss had lasted so long that both women seemed ready to collapse from exhaustion, the taller woman broke away.
+
+##### [Feminization](https://files.catbox.moe/4ut2v6.module)
+
+[by Magenta.Darkstar](https://discord.com/channels/854479693503660032/939950910690439179/954041283045888020)
+
+*Probably one of the most popular fetishes for erotic text RP, this is not based on Literotica content. This is sourcing professionally written erotica of varying degrees of explicitness and quality.*
+
+*Erotic stories involving Feminization, Romance, Transgender, Sissy, Gender Transformation, and Crossdressing. Stories are annotated with Tags and Categories.*
+
+***Tags:** Feminization, Romance, First Time, Transgender, Sissy, Magical, Gender Transformation, Crossdressing, Punishment, Real Life, Slow Transformation.*
+
+***Source Material:** 8000 Steps, Trained tp 150%, Featuring Selected Works From Authors*
+
+- Zoe Brown
+- Jane Futa
+- Alex Wolffe 
+- Nikki Crescent
+- Melissa Raquel
+- Gal Horne
+- Ava Hayes
+- Barbara Deloto
+- Hannah May
+- Carla Puyal
+- Alyson Belle
+- Victoria August
+- M Wills (edited)
+
+![example](https://files.catbox.moe/akescu.png)
+[: .center]
 
 ##### [Forced Bi/Gay](https://files.catbox.moe/fmq55t.module)
 
@@ -3288,6 +3400,26 @@ Alright, might be overkill, but shoved all 500 steps into it for over 1000% trai
 >\>is anyone willing to use their steps to train a module based on [all the Harry Potter books](https://files.catbox.moe/g1dves.txt) if I prep the text?
 
 *Here it is! 100% trained on the Harry Potter data you sent.*
+
+##### [Ice](https://files.catbox.moe/vt1ing.module)
+
+[by mark and jez](https://discord.com/channels/836774308772446268/939922436500107314/954391362655109140)
+
+*A module trained solely on Anna Kavan's freezing slipstream nightmare, Ice.*
+
+***Tags:** slipstream, sci-fi, surreal, apocalyptic, descriptive prose*
+
+***Source:** Anna Kavan's Ice (276 KB, 308 steps, 101.80% coverage, Average Loss: 2.8464)*
+
+Samples (both on modified Gojira):
+
+>**Fifty inches of snow** buried the small town, the air filled with the drifting fluff. The world of men had no more significance: only the eternal winter and its hardships governed the daily round. All that was left was to obey and endure, suffer, wait.
+>
+>Hearing me coming, Míkál ran into the deserted street and thrust his cheek against my own and with his eyes rolled into the back of his head, moaned 'White Christ' then turned quickly and plunged headlong through the white dust, his body vanishing.
+>
+>Snow devils soared in the air like vortices spinning round at the point where I entered, gathering into balls with sparks of electric blue and vanishing. Before me was an infinite row of grey houses, the only lights the glow from a few windows, which faded and disappeared one after another.
+
+>**The flames swallowed** the streets: great red tongues writhed over black earth, curled round buildings and climbed up on to roof-tops. A monstrous roaring filled the night: dogs began howling, their shrill calls competed with one another till an infinite chorus of them merged into an agonising bellow that pierced at our ears, shaking even the marble streets of the square, reducing the white stone colonnades to kindling. The cry would last all day. It could be heard from far off—impinging itself upon every spot under heaven; it reverberated like a terrible thunder between the cities across the desert. That incessant turmoil became oppressive and chilling—the closer we grew towards its source, the more threatening it sounded, reaching far back into eternity where no escape was possible.
 
 ##### [Percy Jackson](https://files.catbox.moe/nkdymu.module)
 
@@ -4330,6 +4462,19 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 >Thou dost not know what it means,<br>
 >To live alone with one's self,<br>
 >In the lonely place where all men die. <br>
+
+### [Wikipedia](https://files.catbox.moe/lbauds.module)
+
+[by ChrisNonyminus](https://discord.com/channels/836774308772446268/939922436500107314/953362842915057694)
+
+*Trained on the wikitext2.txt dataset, for the purpose of generating wikipedia articles. Turn off the bracket generation ban.*
+
+*This is highly experimental.*
+
+***Tags:** Generator, wiki, random*
+
+![example](https://files.catbox.moe/2xdnq4.png)
+{: .center}
 
 ### [Yu-Gi-Oh Cards](https://files.catbox.moe/ot7tl9.module)
 
