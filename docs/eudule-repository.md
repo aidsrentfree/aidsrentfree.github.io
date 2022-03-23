@@ -107,14 +107,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Norse](#norse) module.
 - Added [Five Nights at Freddy's](#five-nights-at-freddys) module.
 
-(23rd February, 2022)
-
-- Added [/aids/](#aids).
-- Added [Magical Girls - Battle Royale](#magical-girls---battle-royale) module.
-- Added [Magical Girls - Romance](#magical-girls---romance) module.
-- Added [Hamilton: An American Musical](#hamilton-an-american-musical) module.
-- Added [Oregairu](#oregairu) module.
-
 ***
 
 ## [Table of Contents](#modules)
