@@ -23,6 +23,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(23rd March, 2022)
+
+- Added [Thomas Ligotti](#thomas-ligotti) module.
+- Added [Contemporary Poetry](#contemporary-poetry) module.
+- Added [Gotrek and Felix](#gotrek-and-felix) module.
+
 (21st March, 2022)
 
 - Added [Hunter S. Thompson](#hunter-s-thompson) module.
@@ -131,6 +137,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [R. A. Lafferty](#r-a-lafferty)
     - [Raymond Chandler](#raymond-chandler)
     - [Rod Serling](#rod-serling)
+    - [Thomas Ligotti](#thomas-ligotti)
     - [Thomas Pynchon](#thomas-pynchon)
   - [Independent](#independent)
     - [Kinky Friedman](#kinky-friedman)
@@ -216,6 +223,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Video Games](#video-games)
     - [Styles](#styles)
       - [All The Shit I Wrote](#all-the-shit-i-wrote)
+      - [Contemporary Poetry](#contemporary-poetry)
       - [Cross-Genre, Oh My!](#cross-genre-oh-my)
       - [Lyrical Writing](#lyrical-writing)
       - [The Manwhore Module](#the-manwhore-module)
@@ -284,6 +292,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Discworld Watch Series](#discworld-watch-series)
       - [Discworld Witch Series](#discworld-witch-series)
       - [The Dresden Files](#the-dresden-files)
+      - [Gotrek and Felix](#gotrek-and-felix)
       - [Harry Potter](#harry-potter)
       - [Ice](#ice)
       - [Percy Jackson](#percy-jackson)
@@ -553,6 +562,16 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - *Night Gallery 2*
 
 *Those were the only ones I could find easily. I think The Season To Be Wary would've fit in well as well, but I couldn't find it. Maybe that's for V2 of the module, if that will become a thing. Anyway, I decided to include all my files with the module, so you get the original ebooks I used, the original parsing in plaintext that Pandoc made, and my final edited text files that I used for the training. Maybe it's interesting for someone to see how the module was made. Note: I had an ebook that combined the three Twilight Zone books into one, so there's three ebooks in total.*
+
+#### [Thomas Ligotti](https://files.catbox.moe/u998fl.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/376918608/#377024927)
+
+*Trained up a Ligotti module with his short story collections Grimscribe, Songs of a Dead Dreamer, and Teatro Grottesco. 100% coverage. For those spooky times.*
+
+![](https://files.catbox.moe/0suig1.jpg)
+{: .center}
+
 
 #### [Thomas Pynchon](https://files.catbox.moe/r7bqzm.module)
 
@@ -2205,6 +2224,64 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 
 *There is a part of me that is genuinely curious if there's some sort of other notable thing about it, but I doubt it. The subject matter across the training material is very diluted.*
 
+##### [Contemporary Poetry](https://files.catbox.moe/fck5oo.module)
+
+[by rari](https://discord.com/channels/836774308772446268/939922436500107314/955505877178282004)
+
+*Trained on Lang Leav, Rupi Kaur, Michael Faudet, and other contemporary writers.*
+
+***Source Material:** Trained at 105%, 837 steps*
+
+- Love and Misadventure
+- Sea of Strangers
+- Milk and Honey
+- Lullabies
+- Memories
+- Love Looks Pretty On You
+- Dirty Pretty Things
+- The Universe of Us
+- The Sun and Her Flowers
+- I Wrote This For You
+- Note to Self
+- I Hope this reaches her
+- Planting Gardens in Graves
+- Algedonic
+- Rest in the Mourning
+- A Beautiful Composition of Broken
+- Whiskey, Words, and a Shovel
+- Your Soul is A River
+
+>she never stopped
+>
+>for a moment, to breathe
+>
+>\*\*\*
+>a man without a wife is only a man
+>
+>without a purpose
+>
+>\*\*\*
+>
+>I was meant for a life with you.
+>
+>And so we danced the night away in our own private dream world of music and light.
+>
+>\*\*\*
+>
+>the nights are long without you,
+>
+>but the days go by faster
+>
+>when I'm holding you,
+>
+>so you might as well come back home,
+>
+>come back home to me.
+>
+>\*\*\*
+>
+>what did you mean by that?
+
 ##### [Cross-Genre, Oh My!](https://files.catbox.moe/um8rft.module)
 
 [by OccultSage](https://discord.com/channels/854479693503660032/939950910690439179/940003307756326942)
@@ -3392,6 +3469,22 @@ Alright, might be overkill, but shoved all 500 steps into it for over 1000% trai
 >"You okay?" I asked her.
 >
 >She nodded, but didn't look at me.
+
+##### [Gotrek and Felix](https://files.catbox.moe/806mu5.module)
+
+[by Khoa Phan](https://discord.com/channels/836774308772446268/939922436500107314/956233637886562365)
+
+*Gotrek Gurnisson, a Dwarf Slayer, and Felix Jaeger, his Human chronicler, are a duo of warriors travelling throughout the length and breadth of the Old World, battling Dark Forces and stopping plots in Gotrek's quest for a heroic death against a terrible foe. The adventures of these warriors have been written down in the series of books: "My Travels with Gotrek" by Master Felix Jaeger, which outlines Felix's many adventures with his maniacal comrade throughout many of their endeavours, recording everything till the day Gotrek has finally met his doom, and will finally be allowed to enter the halls of his ancestors.*
+
+***Source Material:** Trollslayer, Skavenslayer, Daemonslayer, Dragonslayer, Beastslayer, Vampireslayer, Giantslayer, Orcslayer, Manslayer, Elfslayer, Shamanslayer, Zombieslayer, Berthold’s Beard, Blood Sport, Charnal Congress, Road of Skulls, The Anthology, The Contest*
+
+***Tags:** Warhammer Fantasy, Interspecies-Bromance (Human-Dwarf), Gritty, Lotsa Action, Adventure*
+
+>**The blade moved** like a living thing. It seemed to flicker and dance, glinting with the colours of its own sheen as it cut through the air towards Felix’s throat. He ducked reflexively, but not quickly enough. The steel bit deep into his flesh just below the collar bone and he felt the hot blood well up in his mouth.
+>
+>Felix fell to one knee and gaped at the wound as blood poured from it. This was going to be bad, very bad indeed. If he didn’t get help soon, he would surely die.
+>
+>The blade slashed down again, this time catching him on the thigh. Again, pain exploded in his head and he had to bite back a scream of agony as he slumped to one side.
 
 ##### [Harry Potter](https://files.catbox.moe/f65mhi.module)
 
