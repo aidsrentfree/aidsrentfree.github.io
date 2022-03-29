@@ -23,6 +23,11 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(29th March, 2022)
+
+- Added [Changelings](#changelings) module.
+- Added [Vladimir Nabokov](#vladimir-nabokov) module.
+
 (23rd March, 2022)
 
 - Added [Thomas Ligotti](#thomas-ligotti) module.
@@ -91,22 +96,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Underworld](#underworld) module.
 - Added [Fate/stay night](#fatestay-night) module.
 
-(25th February, 2022)
-
-- Added [Sweet Time](#sweet-time) module.
-- Added [Naked Lunch](#naked-lunch) module.
-- Added [Online Tweet Hell Generator](#online-hell-tweet-generator) module.
-- Added [The Lion King](#the-lion-king) module.
-- Added [Ancient Egypt](#ancient-egypt) module.
-- Added [The Island of Doctor Moreau](#the-island-of-doctor-moreau) module.
-- Added [Angels and Demons](#angels-and-demons) module.
-- Added [Fallout: New Vegas](#fallout-new-vegas) module.
-- Added [F.R.I.E.N.D.S](#friends) module.
-- Added [Jojo's Bizarre Adventure](#jojos-bizarre-adventure) module.
-- Added [Percy Jackson](#percy-jackson) module.
-- Added [Norse](#norse) module.
-- Added [Five Nights at Freddy's](#five-nights-at-freddys) module.
-
 ***
 
 ## [Table of Contents](#modules)
@@ -131,6 +120,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Rod Serling](#rod-serling)
     - [Thomas Ligotti](#thomas-ligotti)
     - [Thomas Pynchon](#thomas-pynchon)
+    - [Vladimir Nabokov](#vladimir-nabokov)
   - [Independent](#independent)
     - [Kinky Friedman](#kinky-friedman)
     - [Will Wright](#will-wright)
@@ -224,6 +214,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Sexual](#sexual)
     - [Beings](#beings)
       - [Angels and Demons](#angels-and-demons)
+      - [Changelings](#changelings)
       - [Cougars](#cougars)
       - [Dragons](#dragons)
       - [Khajit and Argonians](#khajit-and-argonians)
@@ -564,7 +555,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 ![](https://files.catbox.moe/0suig1.jpg)
 {: .center}
 
-
 #### [Thomas Pynchon](https://files.catbox.moe/r7bqzm.module)
 
 [by Spoder](https://discord.com/channels/836774308772446268/939922436500107314/948028047465017375)
@@ -578,6 +568,14 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 ![](https://files.catbox.moe/vkud87.jpg)
 {: .center}
 
+#### [Vladimir Nabokov](https://files.catbox.moe/uq7dra.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/377748138/#377939056)
+
+*Trained up a Nabokov module for Euterpe to 100%, using all his native English novels: Lolita, Bend Sinister, Pnin, Speak Memory, etc.*
+
+![](https://files.catbox.moe/ubbtgr.jpg)
+{: .center}
 
 ***
 
@@ -2601,6 +2599,12 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 >"I don't know," he admitted.
 >
 >The demon laughed and reached down between its legs, cupping his balls gently in one hand while the other stroked the base of his cock until he started leaking more precum onto his stomach.
+
+##### [Changelings](https://files.catbox.moe/5zcud2.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/377748138/#377750187)
+
+*Changeling module for horsefuckers that also fuck bugs.*
 
 ##### [Cougars](https://files.catbox.moe/cyhrhc.module)
 

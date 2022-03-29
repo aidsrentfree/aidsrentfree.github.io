@@ -52,7 +52,15 @@ Probably! This is a brand new event after all. If something isn't working, be su
 	- [Where will the decks be stored?](#where-will-the-decks-be-stored)
 	- [Is any of this subject to change?](#is-any-of-this-subject-to-change)
 	- [Who asked for this?](#who-asked-for-this)
-- [**/aids/ Starship Exploration Vessel**](#aids-starship-exploration-vessel)
+- [**Treasure Hunting**](#treasure-hunting)
+	- [**Allies**](#allies)
+	- [**Antagonists**](#antagonists)
+	- [**Areas**](#areas)
+	- [**Artifacts**](#artifacts)
+	- [**Eras**](#eras)
+	- [**Locations**](#locations)
+	- [**Obstacles**](#obstacles)
+- [**Starship Exploration Vessel**](#starship-exploration-vessel)
 	- [**The Ship**](#the-ship)
 	- [**The Personnel**](#the-personnel)
 	- [**The Equipment**](#the-equipment)
@@ -62,7 +70,104 @@ Probably! This is a brand new event after all. If something isn't working, be su
 
 ***
 
-## **/aids/ Starship Exploration Vessel**
+## **Treasure Hunting**
+{: .center}
+
+![/aids/ Treasure Hunting](https://files.catbox.moe/jgzpi3.png)
+{: .center}
+
+*Spanning multiple countries, crypts, and time periods, explore the forgotten annals of history in search of bountiful loot!*
+{: .center}
+
+### **Allies**
+{: .center}
+
+| Card | Name | Description | Post |
+|---|:---:|:---:|:---:|
+| ![Card](https://files.catbox.moe/6e8onx.png) | Farai Okeke | A mysterious African man with a lot of charisma and a penchant for traveling. | [Rentry](https://rentry.org/q6vy9)
+| ![Card](https://files.catbox.moe/oq8mp0.png) | Fillip Engström | A musclebound Swede that works as a bodyguard for explorers to see the world. | [Rentry](https://rentry.org/q6vy9)
+| ![Card](https://files.catbox.moe/pqv5f2.png) | Moira McDevitt | A fiery Irish thief that can get you whatever you need... for a price. | [Rentry](https://rentry.org/q6vy9)
+| ![Card](https://files.catbox.moe/eco5p0.png) | Riverboat Rich | A mysterious old captain that always seems to show up when you need a ride along a river. | [Rentry](https://rentry.org/q6vy9)
+| ![Card](https://files.catbox.moe/s335tb.png) | Scamper | A streetwise young boy that knows every nook and cranny of the surrounding area. | [Rentry](https://rentry.org/q6vy9)
+| ![Card](https://files.catbox.moe/30a5ge.png) | Diane | Very cute; very British. | [>>377898323](https://arch.b4k.co/vg/thread/377748138/#377898323) |
+
+### **Antagonists**
+{: .center}
+
+| Card | Name | Description | Post |
+|---|:---:|:---:|:---:|
+| ![Card](https://files.catbox.moe/bvxngi.png) | Her Majesty's Historical Club | A group of British upper class gentlemen looking to find artifacts for the glory of the Queen. | [Rentry](https://rentry.org/q6vy9) |
+| ![Card](https://files.catbox.moe/5byjy1.png) | Quinn Foster | A finance shark that got rich and got out, he is now living out his midlife crisis through archaeology. | [Rentry](https://rentry.org/q6vy9) |
+| ![Card](https://files.catbox.moe/v0lcie.png) | Heinrich Schliemann | A German businessman and amateur archaeologist that uses his wealth to his advantage. | [Rentry](https://rentry.org/q6vy9) |
+| ![Card](https://files.catbox.moe/wlbn19.png) | Erforschungskommando "Walküre" | A small group of Nazi soldiers searching for historical artifacts and roughing up locals. | [Rentry](https://rentry.org/q6vy9) |
+| ![Card](https://files.catbox.moe/19q2g0.png) | Laura Williams | An idle aristocrat with too much time on her hands. | [Rentry](https://rentry.org/q6vy9) |
+| ![Card](https://files.catbox.moe/avo3h5.png) | Craxil | Mythological snake-people that may or may not exist. | [>>377771424](https://arch.b4k.co/vg/thread/377748138/#377771424) |
+
+### **Areas**
+{: .center}
+
+| Card | Name | Description | Post |
+|---|:---:|:---:|:---:|
+| ![Card](https://files.catbox.moe/853bm8.png) | China | A massive territory with mountains, forests, deserts and more. | [Rentry](https://rentry.org/q6vy9) |
+| ![Card](https://files.catbox.moe/i8gbph.png) | Colombia | Explore wild jungles and massive mountain ranges. | [Rentry](https://rentry.org/q6vy9) |
+| ![Card](https://files.catbox.moe/gm4muy.png) | Egypt | Seek the pharaoh's treasures in vast deserts. | [Rentry](https://rentry.org/q6vy9) |
+| ![Card](https://files.catbox.moe/972j9j.png) | American Frontier | Untamed plains and prairies await. | [Rentry](https://rentry.org/q6vy9) |
+| ![Card](https://files.catbox.moe/36atje.png) | Scandinavia | Snowy forests filled with legends of Vikings and Norse mythology. | [Rentry](https://rentry.org/q6vy9) |
+
+### **Artifacts**
+{: .center}
+
+| Card | Name | Description | Post |
+|---|:---:|:---:|:---:|
+| ![Card](https://files.catbox.moe/ndvdg8.png) | Ankh of Lust | An ancient ankh with a propensity for causing orgies. | [Rentry](https://rentry.org/q6vy9) |
+| ![Card](https://files.catbox.moe/eolhju.png) | Ancient Manuscript | A forgotten tome that hides a secret. | [Rentry](https://rentry.org/q6vy9) |
+| ![Card](https://files.catbox.moe/8lg9gi.png) | Gunslinger's Iron | An old, ornate revolver belonging to a legendary gunman of the past. | [Rentry](https://rentry.org/q6vy9) |
+| ![Card](https://files.catbox.moe/kzfapl.png) | Ring of Dominance | A ring that holds magical powers. | [Rentry](https://rentry.org/q6vy9) |
+| ![Card](https://files.catbox.moe/i6tsw1.png) | Sampo | A mythical artifact that promises endless wealth. | [Rentry](https://rentry.org/q6vy9) |
+| ![Card](https://files.catbox.moe/2kf5f1.png) | Fertility Idol | I mean, look at it. | [>>377815140](https://arch.b4k.co/vg/thread/377748138/#377815140) |
+| ![Card](https://files.catbox.moe/ik3ogq.png) | Lucky Hat | Never leave the home without it. | [>>377857624](https://arch.b4k.co/vg/thread/377748138/#377857624) |
+
+### **Eras**
+{: .center}
+
+| Card | Name | Description | Post |
+|---|:---:|:---:|:---:|
+| ![Card](https://files.catbox.moe/ssj44i.png) | The 1820s | Amateur scholars blazing trails. | [Rentry](https://rentry.org/q6vy9) |
+| ![Card](https://files.catbox.moe/lqgs2a.png) | The 1870s | Idle nobles and businessmen get involved as the dark continent opens up. | [Rentry](https://rentry.org/q6vy9) |
+| ![Card](https://files.catbox.moe/g7lgme.png) | The 1930s | Ideology rules the day, even in archaeology. | [Rentry](https://rentry.org/q6vy9) |
+| ![Card](https://files.catbox.moe/rta7mm.png) | The 1980s | Technology advances, but still there are questions to answer. | [Rentry](https://rentry.org/q6vy9) |
+| ![Card](https://files.catbox.moe/krd1ic.png) | The 2020s | With all possible information at your fingertips, the remaining mysteries are just all the more satisfying to solve. | [Rentry](https://rentry.org/q6vy9) |
+
+### **Locations**
+{: .center}
+
+| Card | Name | Description | Post |
+|---|:---:|:---:|:---:|
+| ![Card](https://files.catbox.moe/qp48p0.png) | El Dorado | A fabled city of gold. | [Rentry](https://rentry.org/q6vy9) |
+| ![Card](https://files.catbox.moe/1ce3qj.png) | Lost Dutchman's Mine | A lost gold mine, waiting for someone to claim it. | [Rentry](https://rentry.org/q6vy9) |
+| ![Card](https://files.catbox.moe/rtz8kd.png) | Shangri-La | A mythical utopia hidden in a valley. | [Rentry](https://rentry.org/q6vy9) |
+| ![Card](https://files.catbox.moe/34jsk7.png) | Themiscyra | The capital city of the Amazons. | [Rentry](https://rentry.org/q6vy9) |
+| ![Card](https://files.catbox.moe/8v9rmx.png) | Zerzura | A jewel of the desert, loaded with treasure. | [Rentry](https://rentry.org/q6vy9) |
+| ![Card](https://files.catbox.moe/kb58rb.png) | The Jungle Temple | The quintessential abandoned temple. | [>>377847282](https://arch.b4k.co/vg/thread/377748138/#377847282) |
+| ![Card](https://files.catbox.moe/wl3wdh.png) | The Bazaar | Your one-stop shop. | [>>377890814](https://arch.b4k.co/vg/thread/377748138/#377890814) |
+| ![Card](https://files.catbox.moe/o9xcrq.png) | The British Museum | The treasure hunting leaderboard. | [>>377891920](https://arch.b4k.co/vg/thread/377748138/#377891920) |
+
+### **Obstacles**
+{: .center}
+
+| Card | Name | Description | Post |
+|---|:---:|:---:|:---:|
+| ![Card](https://files.catbox.moe/geobd8.png) | Local Authorities | An explorer's worst nightmare: Bureaucracy. | [Rentry](https://rentry.org/q6vy9) |
+| ![Card](https://files.catbox.moe/gz9vae.png) | Torrential Rain | Slippery when wet. | [Rentry](https://rentry.org/q6vy9) |
+| ![Card](https://files.catbox.moe/48jkzy.png) | Wild Rapids | Better hope you've got a good skipper to bail you out! | [Rentry](https://rentry.org/q6vy9) |
+| ![Card](https://files.catbox.moe/aknm84.png) | Rockslide | Look out below! | [Rentry](https://rentry.org/q6vy9) |
+| ![Card](https://files.catbox.moe/bonedl.png) | Local Tribes | They don't take kindly to strangers 'round here. | [Rentry](https://rentry.org/q6vy9) |
+| ![Card](https://files.catbox.moe/qqre3t.png) | The Rope Bridge | A rickety bridge. | [>>377838503](https://arch.b4k.co/vg/thread/377748138/#377838503) |
+| ![Card](https://files.catbox.moe/oiudyk.png) | The Dynamite Truck | Inspired from the movie Sorcerer. Keep away from rickety bridges. | [>>377842021](https://arch.b4k.co/vg/thread/377748138/#377842021) |
+| ![Card](https://files.catbox.moe/95pppf.png) | Curse | How foreboding. | [>>377865674](https://arch.b4k.co/vg/thread/377748138/#377865674) |
+| ![Card](https://files.catbox.moe/hwtzbt.png) | Minecarts | An esteemed, if gung-ho, method of transportation. | [>>377888014](https://arch.b4k.co/vg/thread/377748138/#377888014)
+
+## **Starship Exploration Vessel**
 {: .center}
 
 ![/aids/ Starship Exploration Vessel](https://files.catbox.moe/2ix8xc.png)
