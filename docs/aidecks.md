@@ -52,7 +52,7 @@ Probably! This is a brand new event after all. If something isn't working, be su
 	- [Where will the decks be stored?](#where-will-the-decks-be-stored)
 	- [Is any of this subject to change?](#is-any-of-this-subject-to-change)
 	- [Who asked for this?](#who-asked-for-this)
-- [**Treasure Hunting**](#treasure-hunting)
+- [**Treasure Hunting Grave Robber Wars**](#treasure-hunting-grave-robber-wars)
 	- [**Allies**](#allies)
 	- [**Antagonists**](#antagonists)
 	- [**Areas**](#areas)
@@ -70,7 +70,7 @@ Probably! This is a brand new event after all. If something isn't working, be su
 
 ***
 
-## **Treasure Hunting**
+## **Treasure Hunting Grave Robber Wars**
 {: .center}
 
 ![/aids/ Treasure Hunting](https://files.catbox.moe/jgzpi3.png)
