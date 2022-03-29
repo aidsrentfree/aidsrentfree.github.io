@@ -33,6 +33,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 - [Rules](#rules)
 - [The Log](#the-log)
+- [The Friday of *Adventure Parties*](#the-friday-of-adventure-parties)
 - [The Friday of *Fairness and Amusement*](#the-friday-of-fairness-and-amusement)
   - [*The Cutest and Funniest Pagliaccia*](#the-cutest-and-funniest-pagliaccia)
   - [*Welcome to Lolliland!*](#welcome-to-lolliland)
@@ -324,6 +325,17 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Your Daughter will Do Anything to Have You Back*](#your-daughter-will-do-anything-to-have-you-back)
   - [*Ben and Gwen Tennyson in: Omnifriks*](#ben-and-gwen-tennyson-in-omnifriks)
   - [*Goblin girl in Heat*](#goblin-girl-in-heat)
+
+***
+
+## The Friday of *Adventure Parties*
+{: .center}
+
+Let's make prompts that feature a merry company of comrades who share a zest for escapades and desire to take risks.
+{: .center}
+
+[1st April, 2022](#the-log)
+{: .center}
 
 ***
 
