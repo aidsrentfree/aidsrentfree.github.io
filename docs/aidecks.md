@@ -73,7 +73,7 @@ Probably! This is a brand new event after all. If something isn't working, be su
 ## **Treasure Hunting Grave Robber Wars**
 {: .center}
 
-![/aids/ Treasure Hunting](https://files.catbox.moe/jgzpi3.png)
+![/aids/ Treasure Hunting](https://files.catbox.moe/o27xrn.png)
 {: .center}
 
 *Spanning multiple countries, crypts, and time periods, explore the forgotten annals of history in search of bountiful loot!*
@@ -90,6 +90,10 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | ![Card](https://files.catbox.moe/eco5p0.png) | Riverboat Rich | A mysterious old captain that always seems to show up when you need a ride along a river. | [Rentry](https://rentry.org/q6vy9)
 | ![Card](https://files.catbox.moe/s335tb.png) | Scamper | A streetwise young boy that knows every nook and cranny of the surrounding area. | [Rentry](https://rentry.org/q6vy9)
 | ![Card](https://files.catbox.moe/30a5ge.png) | Diane | Very cute; very British. | [>>377898323](https://arch.b4k.co/vg/thread/377748138/#377898323) |
+| ![Card](https://files.catbox.moe/pc9100.png) | Akira Shiranu | Dutiful shrine maiden who's knowledgeable with Japanese history | [>>378121348](https://arch.b4k.co/vg/thread/378048507/#378121348) |
+| ![Card](https://files.catbox.moe/t5ec0q.png) | Amira Khalid | Middle Eastern milf who can guide you through the desert | [>>378121348](https://arch.b4k.co/vg/thread/378048507/#378121348) |
+| ![Card](https://files.catbox.moe/bihcqh.png) | Cassidy Monroe | Wealthy female companion who's funding your adventure | [>>378121348](https://arch.b4k.co/vg/thread/378048507/#378121348) |
+| ![Card](https://files.catbox.moe/5f88gf.png) | Melody Abrams | Milfy historic researcher. | [>>378121348](https://arch.b4k.co/vg/thread/378048507/#378121348) |
 
 ### **Antagonists**
 {: .center}
@@ -102,6 +106,10 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | ![Card](https://files.catbox.moe/wlbn19.png) | Erforschungskommando "Walküre" | A small group of Nazi soldiers searching for historical artifacts and roughing up locals. | [Rentry](https://rentry.org/q6vy9) |
 | ![Card](https://files.catbox.moe/19q2g0.png) | Laura Williams | An idle aristocrat with too much time on her hands. | [Rentry](https://rentry.org/q6vy9) |
 | ![Card](https://files.catbox.moe/avo3h5.png) | Craxil | Mythological snake-people that may or may not exist. | [>>377771424](https://arch.b4k.co/vg/thread/377748138/#377771424) |
+| ![Card](https://files.catbox.moe/6d4id1.png) | Egyptian Goddess Bastet | In no mood for games. | [>>378121348](https://arch.b4k.co/vg/thread/378048507/#378121348) |
+| ![Card](https://files.catbox.moe/ckghgz.png) | Kamala Cohan| Feisty Indian rival treasurehunter. | [>>378121348](https://arch.b4k.co/vg/thread/378048507/#378121348) |
+| ![Card](https://files.catbox.moe/776uxt.png) | Mummy | Totally not sexy. | [>>378121348](https://arch.b4k.co/vg/thread/378048507/#378121348) |
+| ![Card](https://files.catbox.moe/cxqyk2.png) | Quetzalcoatl | Totally not a sexy Quetzalcoatl that will stalk you through South American excursions. | [>>378121348](https://arch.b4k.co/vg/thread/378048507/#378121348) |
 
 ### **Areas**
 {: .center}
@@ -126,6 +134,7 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | ![Card](https://files.catbox.moe/i6tsw1.png) | Sampo | A mythical artifact that promises endless wealth. | [Rentry](https://rentry.org/q6vy9) |
 | ![Card](https://files.catbox.moe/2kf5f1.png) | Fertility Idol | I mean, look at it. | [>>377815140](https://arch.b4k.co/vg/thread/377748138/#377815140) |
 | ![Card](https://files.catbox.moe/ik3ogq.png) | Lucky Hat | Never leave the home without it. | [>>377857624](https://arch.b4k.co/vg/thread/377748138/#377857624) |
+| ![Card](https://files.catbox.moe/3uq9la.png) | Artifact of Hermaphrodite | It's quite obviously cursed, but you already knew that. | [>>378121348](https://arch.b4k.co/vg/thread/378048507/#378121348) |
 
 ### **Eras**
 {: .center}
