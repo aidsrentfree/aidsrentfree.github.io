@@ -21,7 +21,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 - A link to your prompt must posted in the thread.
   - Said link must be to prompts.aidg.club.
 - Your submission must be posted as a reply to an anchor post made **on or near to the Friday** of the event.
-  - An image is optional, but recommended. Not for any particular reason, other than it makes my job ~~easier~~ harder it makes it harder. But at least your prompt will be more eye-catching?
+  - An image is optional, though recommended. Not for any particular reason, other than it makes my job ~~easier~~ harder it makes it harder. But at least your prompt will be more eye-catching?
 - Please at least try.
 - ~~Explore link is optional as well.~~ Well, we certainly aren't doing that anymore.
 
