@@ -34,6 +34,18 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 - [Rules](#rules)
 - [The Log](#the-log)
 - [The Friday of *Adventure Parties*](#the-friday-of-adventure-parties)
+  - [*Some Storyteller Partygoing*](#some-storyteller-partygoing)
+  - [*The New Adventures of Gilgamesh*](#the-new-adventures-of-gilgamesh)
+  - [*To Create a King*](#to-create-a-king)
+  - [*A Touching Evening*](#a-touching-evening)
+  - [*New Adventure Family and the beast lands.*](#new-adventure-family-and-the-beast-lands)
+  - [*Corrupted Casualty*](#corrupted-casualty)
+  - [*Daddy is the Demon King*](#daddy-is-the-demon-king)
+  - [*The Sensation of Drowning*](#the-sensation-of-drowning)
+  - [*Dunwallen: In Which A Party of Adventurers Encounter A Curious Tavern On A Foggy Night*](#dunwallen-in-which-a-party-of-adventurers-encounter-a-curious-tavern-on-a-foggy-night)
+  - [*Hi, We're Dave.*](#hi-were-dave)
+  - [*Tank!*](#tank)
+  - [*Pressured Picker*](#pressured-picker)
 - [The Friday of *Fairness and Amusement*](#the-friday-of-fairness-and-amusement)
   - [*The Cutest and Funniest Pagliaccia*](#the-cutest-and-funniest-pagliaccia)
   - [*Welcome to Lolliland!*](#welcome-to-lolliland)
@@ -336,6 +348,253 @@ Let's make prompts that feature a merry company of comrades who share a zest for
 
 [1st April, 2022](#the-log)
 {: .center}
+
+### *Some Storyteller Partygoing*
+{: .center}
+
+*<https://prompts.aidg.club/3360>*
+{: .center}
+
+![](https://files.catbox.moe/xx0wwv.png)
+{: .center}
+
+>*"Calli, we're not bringing you." She said firmly while giving Calliope a stern glare, crossing her arms and trying to look parental.*
+>
+>*"But why?"*
+>
+>*"Because this isn't your kind of place," Euterpe replied matter-of-factly.*
+>
+>*I thought it might be fun to bring her along, so I interjected. "I don't know Euterpe, I think there's no harm in letting Calli tag along. She's only one year younger." Calli's head snapped to me and she smiled widely.*
+>
+>*"See! Krake thinks I should come along!" She proudly announced, giving a smug little smirk to her big sis as if she won with her innocent act of persuasion.*
+>
+>*Euterpe stood in thought for a moment before she sighed and nodded, letting her arms fall from across her chest, but still looking annoyed. "Fine. We'll go with you." She said with an exasperated sigh. "Just don't make me look stupid at the party, or in front of Krake."*
+
+You're Krake, the legendary storyteller! Except in this world, you're simply a bored teenage kid prepping for a party to alleviate the boredom of this sleepy town suburbia hell. You're bringing your best friend(or more?), Euterpe, and you suppose it's fine to let her little sister, Calliope, come along too. So many possibilities! Get turnt, become the life of the party, Or maybe even get a little closer to Euterpe...?
+
+### *The New Adventures of Gilgamesh*
+{: .center}
+
+*<https://prompts.aidg.club/3361>*
+{: .center}
+
+![](https://files.catbox.moe/pzm9vp.png)
+{: .center}
+
+>*In strong-walled Uruk, in that storied ziggurat of fired brick, there entered the man of the wilderness, Enkidu, whose voice resounded and disturbed the court, "Gilgamesh, who is my friend and brother!" And that king of Uruk saw Enkidu and was joyful at this reunion. Enkidu struck out his hairy wildman's arm, which rippled with muscle, in challenge to Gilgamesh, as was their custom and Gilgamesh met his grasp.*
+
+Journey with the most ancient of heroes, experience the first recorded Bromance in the untamed world of Mesopotamian mythology
+
+(Yute needed a little more help, but fret not: <https://files.catbox.moe/v6detv.module>)
+
+### *To Create a King*
+{: .center}
+
+*<https://prompts.aidg.club/3363>*
+{: .center}
+
+![](https://files.catbox.moe/0yptb7.png)
+{: .center}
+
+>*As soon as Jaria sensed his spying, she eased down Melly's spine, brushing aside her soggy tail to give the mouse boy a clear view of the full extent of the cat's bare fur, still glossy with moisture. Jaria hoped the princess would forgive her manipulation, but, unlike Melly, she wanted more than simple revenge. The wolf wanted to secure the future of her homeland, and for that, it needed a king. Nils, once he matured, might be able to fill that role. Until then, however, he must be tutored in all he needed to know if he was to become an effective leader. And, above all, he must want to be king.*
+>
+>*Not exactly a purveyor of deft political acumen, Jaria knew she could at least rely on one thing most males desired to tempt him into the role: a beautiful queen to warm his bed.*
+
+A former royal guard turned adventurer plays matchmaker with her makeshift adventuring party
+
+### *A Touching Evening*
+{: .center}
+
+*<https://prompts.aidg.club/3364>*
+{: .center}
+
+![](https://files.catbox.moe/sn3i72.jpg)
+{: .center}
+
+>*Eventually, I feel like I have to address this in some way, and figure the direct path is the easiest one, so I nonchalantly ask him, "Hey, Kiroth, is something wrong? You seem off somehow, like you're thinking about something."*
+>
+>*Getting called out seems to catch him off guard, as he stammers a bit before falling into silence again. But eventually, he calms down and responds, "I... it's been quite some time since we've last seen a proper settlement, has it not? While I don't like it, I can't shake the feeling that I'm... feeling a bit deprived at this point."*
+>
+>*"Deprived? In what way?" I could take a guess that he means what I think he means, but I didn't want to presume. Rather I'd let him say it first.*
+>
+>*Sure enough, a slight blush rises to his cheeks and he fidgets a bit again. "You... you know. That way," he mutters in response.*
+>
+>*That's probably as much as a clear answer as I'm going to get out of him. "Really? Like, I'm feeling it too, but you didn't seem affected at all to me," I reply. Up to this evening, he always seemed to be completely cool and collected.*
+>
+>*But he just shakes his head. "Elves are... well, naturally more sedate. Just because we don't show what we feel doesn't mean we don't feel it. And, well... I've been feeling it. Quite heavily. And I don't think I can take it much longer. In fact, I've been debating with myself for the last two hours whether I should ask you directly for... well, help," he explains, the blush on his face only getting worse. "Reinhold, I know you don't desire me in this way, but please, could you indulge your poor, suffering friend?"*
+
+Spending a lot of time out on the trail adventuring with your male companion, with not a woman in sight for weeks, does leave me quite pent up and desiring some intimate touch, though I can bear it. However, I had no idea just how much my companion was suffering from the same thing. And being a good friend, I have to help him out. Even if that means doing... odd stuff.
+
+### *New Adventure Family and the beast lands.*
+{: .center}
+
+*<https://prompts.aidg.club/3365>*
+{: .center}
+
+>*Rovia is a frontier backwater settlement built right up against the eastern border and it serves as a gateway and way station for travelers on their way east. There are plenty of opportunities for quests and jobs, just not many good paying ones. Many adventurers in the know avoid these places like the plague. It is known that every corner of this land is filled with horny fat horses and pigs, even in towns. Since they are not inherently hostile or anything, the animals presence is tolerated and accepted. So far as the common people are concerned, the animals simply are there and can´t be blamed for the nature of things in here.*
+>
+>*It is normal for the beasts to mate any young girl that has their ass in a nice position. Once they have been taken for breeding, they just end up pregnant for the animals. These girls soon become huge breasted and assed and eventually start to smell as bad as their partners.*
+>
+>*The horses in particular seem attracted to young adventurer girl asses that are bent over or squatting nice and low.*
+>
+>*Even a reluctant breeding cow becomes extremely wet and sweaty once mounted, ready for breeding. However Jonah and the girls barely know a thing about this.*
+>
+>*As they enter the small village, Jonah asks Mary "Hey mom. This place seems so ready and bustling for adventurer work huh? I wonder why the guilds avoid the place so."*
+
+An nice adventuring group is torn asunder by the fetishes of the heroes mother. She wishes to see their darling girls become fat animals livestock.
+### *Corrupted Casualty*
+{: .center}
+
+*<https://prompts.aidg.club/3366>*
+{: .center}
+
+![](https://files.catbox.moe/fwr780.png)
+{: .center}
+
+>*"What is this?" you exclaim, annoyed. "My intel can't have been bad, this was supposed to be a shrine of the herm worshipers!"*
+>
+>*A soft, sultry voice from the shadows makes a shiver of fear rush up your spine. The voice holds no hint of threat or malice, nor is it a strange one. On the contrary, your fear stems from recognizing this voice. It belongs to Rosa, a woman you had sacrificed for your campaign to even find the location of this church of hermaphrodites. The melodic cadence of her voice is the still the same as it had been the last time you'd seen her, but now her voice carries a sense of superiority and amusement that makes your hair stand on end.*
+>
+>*"Oh, but it is, Sir Loin. It very much is a 'church' as you call it. You see, us hermaphrodites have different definitions for places of worship." Rosa said. Her smile grew wide and devious as she saw the surprise in your face.*
+>
+>*With Rosa's arrival the room filled with the smell of sex and desire. At least that was what you felt as the pungent aroma took hold of your senses.*
+>
+>*"We consider ourselves our own gods, Sir Loin. We worship the Goddess, not a singular deity. To the Goddess we give what the other churches demand to be kept in that 'holy' matrimony of theirs. Instead of forcing ourselves to singular celibacy we give what's ours in tribute to the Church of the Holy Order of the Goddess: our seed. And men are the vessels we fill with it." Rosa explained. She stepped out of the shadows and approached you, wearing nothing but a silken robe and a thong which clung tightly to her curves. The sheer material of the underwear left little doubt that it hid a thick penis, one that she must have gained when she joined the cult.*
+
+You've done your fair share of sacrificing party members for the sake of your goals and ideals. Now one of them, long thought 'sacrificed' in a battle against some cult has returned to put you in your place.
+
+### *Daddy is the Demon King*
+{: .center}
+
+*<https://prompts.aidg.club/3367>*
+{: .center}
+
+![](https://files.catbox.moe/ku8bpk.jpg)
+{: .center}
+
+>*"Oh, you got me!" I state hoping that this game will be over.*
+>
+>*"No Daddy! You are supposed to be the big tough bad guy. You can't go down that easy. It's no fun!" Katie explains.*
+>
+>*"I think he was doing a good job," Jenna chimes in.*
+>
+>*"Yeah, thank you for playing with us again Mr. Johnson," Lily adds.*
+>
+>*I smile at the girls. I'm happy to play along however they wish. In truth, I was hoping this weekend would be a more traditional girl's slumber party. That way I could admire my daughter and her cute young friends in their pajamas and not have to be afraid that my wife would catch me perving on them. Still, these outfits are cute in their own way, and being the 'Demon King' means I can wrestle with them and cop-a-feel.*
+>
+>*"You guys don't get it. Daddy, this is supposed to be the epic final battle. The Demon King needs to be scary and strong. So you need to be more aggressive, okay?" Katie tells me with an overly serious face.*
+>
+>*"More aggressive... Okay then," I say thinking deviously to myself.*
+
+Your daughter and her friends are having a sleepover and playing pretend. You get to play the part of the Demon King. Your daughter takes playing pretend very seriously and wants you to get into your role.
+
+### *The Sensation of Drowning*
+{: .center}
+
+*<https://prompts.aidg.club/3369>*
+{: .center}
+
+![](https://files.catbox.moe/nzatmx.jpg)
+{: .center}
+
+>*She looked out at the waters, and that was when she saw him: a dark shadow, a ghostly apparition. He was cloaked in black, as though he came from the night itself. His hair, damp with seafoam, was as light as the moon, and his skin was a pale alabaster. He was tall and slender, moving with effortless grace. Arissia stared at him in both wonder and fear. The man stepped onto the shore, making nary a sound as his feet sunk into the sand. His lips quirked in what was almost a smile, though there was an odd emptiness in his eyes.*
+>
+>*He bowed and introduced himself. When he spoke, his voice was as gentle as a summer breeze, though its tone was laced with a sense of foreboding. "It is a pleasure to meet you. My name is Rien. What brings you here, to this shore?"*
+>
+>*"I am Arissia of Acadae," Arissia began. "My kingdom..." she broke off. Her throat felt thick with impending tears.*
+>
+>*Rien roved his eyes over the dead wilderness. In the distance the flames of the burning city cast red shadows across the land. "I see. Do you have somewhere to go?"*
+>
+>*"No...my father told me to escape, but..."*
+>
+>*"It will be dangerous," said Rien quietly, his eyes still gazing out at the burning city. "There is no place for a fallen kingdom's princess. I will accompany you."*
+>
+>*Rien offered his hand, and Arissia hesitantly took it. His skin was cool, his palm smooth, as though it were made of glass. Not knowing what else to do, she followed him on a journey without a destination.*
+
+After the fall of her kingdom, Princess Arissia was alone. By the seaside, she met a ghostly man named Rien, who offered to accompany her on a journey through her dead kingdom. After their somber adventure, they found themselves at the seaside once more. It is winter, and Rien has a sinister proposal.
+
+### *Dunwallen: In Which A Party of Adventurers Encounter A Curious Tavern On A Foggy Night*
+{: .center}
+
+*<https://prompts.aidg.club/3371>*
+{: .center}
+
+![](https://files.catbox.moe/rv97uv.jpg)
+{: .center}
+
+>*The inn was cozy, with wooden walls and a small hearth with a cauldron of—Grifaldus sniffed appreciatively—boar stew. Though the inn was empty of patrons, the party was too tired to notice. Grifaldus led the party to the bar, though they stopped short once they saw the bartender.*
+>
+>*The bartender was wearing the most peculiar mask, carved in polished wood with intricate lines and designs. It was a mask of a fox, and the bartender's eyes were hidden behind dark lenses.*
+>
+>*"Ah, new customers!" he trilled in a melodious voice. "A hale and hearty welcome to Dunwallon!" He bowed theatrically. "What brings you here?"*
+>
+>*"Well, good sir," said Grifaldus, his enthusiasm tempered by the oddity of the mask, "we were lost in the woods, and followed the light here. You see, we have been wandering for days, and we need a place to rest our heads."*
+>
+>*"Oh, how tragic," said the bartender. "I'm terribly sorry for your plight. Please, take a seat! We'll get you lot some hot food and warm drinks." He clapped his hands and serving maids appeared from shadowed doorways, their faces hidden behind impassive masks carved in the shape of animals. They carried silver trays laden with steaming bowls of soup and meat pies. The party, baffled, sat at one of the tables.*
+>
+>*"It's been so long since we last had visitors in Dunwallen," said one of the maids, her voice soft under her bunny mask. "So nice to see new faces." She giggled after uttering this last sentence, the dark eyes of her bunny mask peering with interest at Grifaldus. Out of the corner of his eye, he could see that these odd masked servers were gathering around the rest of his party, whispering soft words and in general appearing a good deal more seductive than warranted, considering that the party was still dressed in their traveling clothes and haven't bathed in days.*
+>
+>*"Oh, uh, ahem," said Grifaldus articulately. "Yes, I suppose so. Er, if you don't mind me asking, why are you all wearing these peculiar animal masks?"*
+
+After several long days of tramping through the woods, Grifaldus and his party of intrepid adventurers needed rest. Salvation arrived in the form of Dunwallen: an odd town where everyone wore animal masks. Well, nothing wrong with that...or was there?
+
+### *Hi, We're Dave.*
+{: .center}
+
+*<https://prompts.aidg.club/3377>*
+{: .center}
+
+![](https://files.catbox.moe/jn2rxx.jpg)
+
+>*"Wow, that really is a pretty sight," the lead clone said in awed reverence of the breathtaking sunset. Dave Z5-5J23 began snapping shots as his assistant recorded it on video. His diminished team of Daves eagerly gazed ahead, precariously perched atop a treacherously high mountain peak. One of the clones was so enamored viewing the alien forest vista, the Dave didn't notice his footing slipping. Several Daves whistled in appreciation at the plummeting spectacle, as others edged back a few inches. "Alright team, enough lollygagging, let's move into the forest proper."*
+>
+>*As the team slipped past alien trees, covered in purple, resinous extensions, one of the clone explorers cried out "Hey! Check it out! I found a neat leaf!" All the Dave clones eagerly gathered around, each equally appreciative of the seemingly conventional specimen of ground litter. "That little sucker is absolutely going in the scrapbook," the leader said authoritatively, as his identical companions excitedly nodded in agreement. They were all so distracted with the thrilling discovery, none of the clones noticed the crouched creature stalking up from behind.*
+>
+>*Chaos ensued, as a multi-limbed, tiger-like monstrosity set upon the Dave clones with predatory intent. The mandibles lining its slavering mouth latched upon the team leader as it gruesomely began chewing him apart, while clawing wildly at the others with its many talon-bearing legs. The Dave clones bravely set upon the creature with single-minded ferocity, attacking the alien beast in waves as they were systematically mangled to shreds. The surviving assistant fished their only radio from the deceased leader's half-eaten corpse, as he called in "Hey Dave, this is Dave 92-K880. There's this really cool leaf, but some ornery bugger is fucking with us. We're going to need more Daves, pronto."*
+
+Some people prefer their own company. When a company of those people learn to work in perfect harmony, what can they accomplish?
+
+### *Tank!*
+{: .center}
+
+*<https://prompts.aidg.club/3379>*
+{: .center}
+
+![](https://files.catbox.moe/9s5xqt.jpg)
+{: .center}
+
+>*"Y-Your shield is quite impressive, sir; is it as heavy as it looks?" A good question, as the massive slab of steel to my left was more a wall than it was a mere shield; a rectangular bulwark of heavy metal with a thick rim of polished mithril.*
+>
+>*"Thanks," I said, flashing a smile. "It is quite heavy, indeed, but it is tried and true. Let's cut to it, if you don't mind my boldness; what happened to your previous 'tank'?" In such situations it was pertinent to prod. Seldom were parties broken without tragedy and I wanted to know who I'd be fighting alongside. Peck paused, his pale cheeks burning with shame, but another spoke for him.*
+>
+>*"She hit it big and ditched us, but that's not important," a bratty purr whispered from my periphery, its owner strutting into view. A young cat-girl, fancifully robed in the colors of a brilliant flame, stepped into view. Her ebon locks were a stark contrast to the emerald green eyes that she so analytically scanned me with. Lycille was her name as I'd come to find and she was Peck's partner in adventure.*
+>
+>*"Peck and I just need a piece of muscle to take the hits while we're doing the fun stuff," Lycille sat herself at the table, giving me the skeptical 'up and down', "but you don't look like much." Lycille spoke a big game but was she a big girl? No. She was nearly a child. Both she and Peck were; I found the pouty cat-girl's mannerisms endearing.*
+
+When a humble kitsune boy named Peck and his fiery companion Lycille seek out a tank to join their party, who are you to turn down an opportunity for a new beginning?
+
+### *Pressured Picker*
+{: .center}
+
+*<https://prompts.aidg.club/3383>*
+{: .center}
+
+![](https://files.catbox.moe/332riw.png)
+{: .center}
+
+>*"Roger? What'cha doing, exactly? Doesn't look like the kind of lockpicking we want to see you doing." Meredith snickered at that, amused by the sight of your face. Looking at yourself in the reflection of the Lock-Lady's belly you realize your cheeks are beet red. You hadn't even noticed.*
+>
+>*Brunhilde looked about as embarrassed as you felt. Her chest rose and fell with heavy but controlled breaths. Meredith on the other hand seemed more amused and intrigued than anything. She rubbed her chin as she thought out loud "You know, we've so far seen a lot of subtle hints that the owner of this place is a sexual deviant. Remember the dream journal we found, Brunni?"*
+>
+>*Brunhilde laughed awkwardly at that, but nodded in agreement "Ah, ya. The one about the succubus assisted dreams, right? It was very...descriptive." Meredith grunted, pointing to the lock "I think he also mentioned the idea of using his 'prowess' as a way to lock his most precious belongings. If I'm right - and the way this lock is looking at you right now is telling me I'm right, Roger - you have to...well, unlock her through pleasure."*
+>
+>*"Uh...okay? I know you two keep calling me 'Lock Lover' and other things about me being intimate with locks when you think I'm sleeping, but this is a bit much for a joke, don't you think?" you replied with a wry chuckle as you squeezed the Lock-Lady's hips.*
+>
+>*Brunhilde averted her eyes as Meredith snickered, cooing "Oh I'm dead serious you sneaky bastard. You'll have to actually get hands-on with this lock and at least make her lose the willpower to keep the vault locked."*
+>
+>*That notion made you swallow. You stared at Meredith's delight, then to Brunhilde's disgusted-yet-aroused facial expression all the way back to the Lock-Lady at your mercy.*
+
+Rogue School did not prepare you for this.
 
 ***
 
