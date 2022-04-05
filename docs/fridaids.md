@@ -545,6 +545,8 @@ After several long days of tramping through the woods, Grifaldus and his party o
 {: .center}
 
 ![](https://files.catbox.moe/jn2rxx.jpg)
+{: .center}
+
 
 >*"Wow, that really is a pretty sight," the lead clone said in awed reverence of the breathtaking sunset. Dave Z5-5J23 began snapping shots as his assistant recorded it on video. His diminished team of Daves eagerly gazed ahead, precariously perched atop a treacherously high mountain peak. One of the clones was so enamored viewing the alien forest vista, the Dave didn't notice his footing slipping. Several Daves whistled in appreciation at the plummeting spectacle, as others edged back a few inches. "Alright team, enough lollygagging, let's move into the forest proper."*
 >
