@@ -93,14 +93,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Yu-Gi-Oh Cards](#yu-gi-oh-cards) module.
 - Added [Clickhole](#clickhole) module.
 
-(26th February, 2022)
-
-- Added [Mushoku Tensei](#mushoku-tensei) module.
-- Added [Old West](#old-west) module.
-- Added [The Club](#the-club).
-- Added [Underworld](#underworld) module.
-- Added [Fate/stay night](#fatestay-night) module.
-
 ***
 
 ## [Table of Contents](#modules)
