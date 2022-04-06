@@ -23,6 +23,11 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(6th April, 2022)
+
+- Added [Shortstacks](#shortstacks) module.
+- Added [The Epic of Gilgamesh](#the-epic-of-gilgamesh) module.
+
 (29th March, 2022)
 
 - Added [Changelings](#changelings) module.
@@ -226,6 +231,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Monster Girls](#monster-girls)
       - [Non-Humans](#non-humans)
       - [Sergals](#sergals)
+      - [Shortstacks](#shortstacks)
       - [Small Equines](#small-equines)
       - [Tentacles!](#tentacles)
       - [Veggie's Lolis](#veggies-lolis)
@@ -262,6 +268,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Fiction](#fiction)
     - [Classic](#classic)
       - [Blood Meridian or The Evening Redness in the West](#blood-meridian-or-the-evening-redness-in-the-west)
+      - [The Epic of Gilgamesh](#the-epic-of-gilgamesh)
       - [The Island of Doctor Moreau](#the-island-of-doctor-moreau)
       - [Naked Lunch](#naked-lunch)
       - [Ninteen Eighty-Four](#ninteen-eighty-four)
@@ -2811,6 +2818,17 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 >
 >He let out a low laugh and said, "You know, you're really cute." He slid his hands down my sides to hold on to my hips, then pressed forward so I could feel him pressing against my ass. "I think you can stay a little longer." he said.
 
+##### [Shortstacks](https://files.catbox.moe/8o8p17.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/378352447/#378422070)
+
+*Okay, here it goes.*
+
+*Trained 100% on 2 mb of AO3 shortstack stories. It's working surprisingly well despite having a high loss.*
+
+![example](https://files.catbox.moe/eqtacz.png)
+{: .center}
+
 ##### [Small Equines](https://files.catbox.moe/yr70sq.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/371544232/#371545765)
@@ -3250,6 +3268,12 @@ Here is the Euterpe edition of the TGTF Gender Bender module. Focuses on MtF fan
 [by Anon](https://arch.b4k.co/vg/thread/372436776/#372524869)
 
 *Blood Meridian module for Terp, works similar as the Sigurd one, it makes the prose a bit more wordy and adds some darker tone, but it doesn't mess with the grammar or formatting*
+
+##### [The Epic of Gilgamesh](https://files.catbox.moe/v6detv.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/378352447/#378410617)
+
+Trained on the N. K. Sanders English translation of the ancient Mesopotamian poem, "The Epic of Gilgamesh".
 
 ##### [The Island of Doctor Moreau](https://files.catbox.moe/nq3xok.module)
 
