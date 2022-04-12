@@ -23,6 +23,24 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(12th April, 2022)
+
+- Added [A Dragon Ranch in Suburbia](#a-dragon-ranch-in-suburbia) module.
+- Added [Longform Mind Control](#longform-mind-control) module.
+- Updated [Monster Girls and other Non-Humans](#non-humans) module.
+- Added [Item generator](#dscryb) module.
+- Added [First Person/Deep POV](#first-persondeep-pov) module.
+- Added [DanMachi](#danmachi) module.
+- Added [Bridgerton](#bridgerton) module.
+- Added [Starcraft](#starcraft) module.
+- Added [Emo/Pop/Punk Lyrics](#emopoppunk-lyrics) module.
+- Added [Taylor Swift Lyrics](#taylor-swift-lyrics) module.
+- Added [Disney Song Lyrics](#disney-song-lyrics) module.
+- Added [Darkest Dungeon Narration](#darkest-dungeon-narration) module.
+- Added [Zombie Apocalypse](#zombie-apocalypse) module.
+- Added [Gatomon](#gatomon) module.
+- Added [The Meditations of Marcus Aurelius](#the-meditations-of-marcus-aurelius) module.
+
 (6th April, 2022)
 
 - Added [Shortstacks](#shortstacks) module.
@@ -65,33 +83,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 (11th March, 2022)
 
 - Added [Touhou Project](#touhou-project) module.
-
-(8th March, 2022)
-
-- Added [E. E. Cummings](#e-e-cummings) module.
-- Added [Suma Theologica](#suma-theologica) module.
-- Updated [Poetic Fantasy](#poetic-fantasy) module with V2 1280 context size version.
-- Updated [Surrealistic Look Through the Glass](#surrealistic-look-through-the-glass) module with V2 1280 context size version.
-- Added [Monster Girls and other Nonhumans](#non-humans) module.
-
-(5th March, 2022)
-
-- Added [TGTF Gender Bender](#tgtf-gender-bender) module.
-- Added [Young Girl's Handbook of Good Manners for Use in Educational Establishments](#young-girls-handbook-of-good-manners-for-use-in-educational-establishments) module.
-- Added [Konosuba Light Novel](#konosuba) module.
-- Added [Thomas Pynchon](#thomas-pynchon) module.
-- Added [Movie Plots](#movie-plots) module.
-- Added [Forbidden Lands (Random Encounters)](#forbidden-lands-random-encounters) module.
-- Added [Ulysses](#ulysses) module.
-- Added [R. A. Lafferty](#r-a-lafferty) module.
-- Added [Rhyme and Poetry](#rhyme-and-poetry) module.
-- Updated [Western Romance](#western-romance) with "secret sauce" (trained at 1280 token size) successor.
-
-(28th February, 2022)
-
-- Added [C. D. E Cuckold](#c-d-e-cuckold) module.
-- Added [Yu-Gi-Oh Cards](#yu-gi-oh-cards) module.
-- Added [Clickhole](#clickhole) module.
 
 ***
 
@@ -154,6 +145,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [The Lion King](#the-lion-king)
       - [Sailor Moon](#sailor-moon)
       - [A Song of Ice and Fire](#a-song-of-ice-and-fire)
+      - [Starcraft](#starcraft)
       - [Star Trek: The Next Generation](#star-trek-the-next-generation)
       - [Star Wars](#star-wars)
       - [Them's Fighting Herds](#thems-fighting-herds)
@@ -181,11 +173,13 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Underworld](#underworld)
       - [Western Romance](#western-romance)
       - [Western](#western)
+      - [Zombie Apocalypse](#zombie-apocalypse)
   - [Elements](#elements)
     - [Things](#things)
       - [Annotated Tech](#annotated-tech)
       - [Cynthia (Pokemon)](#cynthia-pokemon)
       - [Female Wrestling](#female-wrestling)
+      - [Gatomon](#gatomon)
       - [Gryphons](#gryphons)
       - [Magical Girls - Battle Royale](#magical-girls---battle-royale)
       - [Magical Girls - Romance](#magical-girls---romance)
@@ -195,6 +189,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Yinglets](#yinglets)
     - [Concepts](#concepts)
       - [Cave Johnson](#cave-johnson)
+      - [Darkest Dungeon Narration](#darkest-dungeon-narration)
       - [Forbidden Lands (Random Encounters)](#forbidden-lands-random-encounters)
       - [LitRPG](#litrpg)
       - [Natural Horror](#natural-horror)
@@ -204,9 +199,13 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [All The Shit I Wrote](#all-the-shit-i-wrote)
       - [Contemporary Poetry](#contemporary-poetry)
       - [Cross-Genre, Oh My!](#cross-genre-oh-my)
+      - [Disney Song Lyrics](#disney-song-lyrics)
+      - [Emo/Pop/Punk Lyrics](#emopoppunk-lyrics)
+      - [First Person/Deep POV](#first-persondeep-pov)
       - [Lyrical Writing](#lyrical-writing)
       - [The Manwhore Module](#the-manwhore-module)
       - [Smorgasboard Experiment](#smorgasboard-experiment)
+      - [Taylor Swift Lyrics](#taylor-swift-lyrics)
       - [Weird Fiction](#weird-fiction)
   - [Sexual](#sexual)
     - [Beings](#beings)
@@ -231,6 +230,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Assorted Mind Control](#assorted-mind-control)
       - [Dronifurcation](#dronifurcation)
       - [Hypnosis (Femsub)](#hypnosis-femsub)
+      - [Longform Mind Control](#longform-mind-control)
       - [Respect (Second Person)](#respect-second-person)
       - [Scat](#scat)
       - [Score](#score)
@@ -269,6 +269,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Young Girl's Handbook of Good Manners for Use in Educational Establishments](#young-girls-handbook-of-good-manners-for-use-in-educational-establishments)
     - [Modern](#modern)
       - [Altered Carbon](#altered-carbon)
+      - [Bridgerton](#bridgerton)
       - [Cradle Series](#cradle-series)
       - [Discworld](#discworld)
       - [Discworld Watch Series](#discworld-watch-series)
@@ -283,6 +284,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [The Witcher](#the-witcher)
   - [Non-Fiction](#non-fiction)
     - [The King James Bible](#the-king-james-bible)
+    - [The Meditations of Marcus Aurelius](#the-meditations-of-marcus-aurelius)
     - [Suma Theologica](#suma-theologica)
   - [Visual Novels](#visual-novels)
     - [Ace Attorney](#ace-attorney)
@@ -290,6 +292,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Steins;Gate](#steinsgate)
   - [Light Novels](#light-novels)
     - [A Certain Magical Index (1-22)](#a-certain-magical-index-1-22)
+    - [DanMachi](#danmachi)
     - [Fate/Zero](#fatezero)
     - [Highschool DxD (1-10)](#highschool-dxd-1-10)
     - [Konosuba](#konosuba)
@@ -305,6 +308,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Web Fiction](#web-fiction)
     - [The Beginning After The End](#the-beginning-after-the-end)
     - [Crimson](#crimson)
+    - [A Dragon Ranch in Suburbia](#a-dragon-ranch-in-suburbia)
     - [Final Judgement](#final-judgement)
     - [Golden Heart Trilogy](#golden-heart-trilogy)
     - [My Immortal](#my-immortal)
@@ -328,6 +332,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Creative Cooking](#creative-cooking)
   - [Furry Character Generator](#furry-character-generator)
   - [The Guy Fieri Menu Item Generator Module](#the-guy-fieri-menu-item-generator-module)
+  - [Dscryb](#dscryb)
   - [Light Novel Blurb Generator](#light-novel-blurb-generator)
   - [Michael Jackson Lyrics](#michael-jackson-lyrics)
   - [Movie Plots](#movie-plots)
@@ -1094,6 +1099,14 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - A Dance With Dragons- George R.R Martin
 
 ***Usage:** This replicates the general writing of the ASOIAF universe, so you may insert yourself as any character from within the books or try making your own. I would recommend complementing this module with a good lorebook about ASOIAF for the best experience*
+
+##### [Starcraft](https://anonfiles.com/h246ecWcx9/Starcraft_module)
+
+[by davits1](https://discord.com/channels/836774308772446268/939922436500107314/958758218606190602)
+
+*I retrained my Starcraft module for Euterpe. Same data (no fanfics, official novels only). 3rd person past tense. 3.5k steps, 100% coverage (3 MB file size).*
+
+**Tags: sci-fi, games, strategy, Starcraft**
 
 ##### [Star Trek: The Next Generation](https://files.catbox.moe/70vpir.module)
 
@@ -1924,6 +1937,39 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 
 *Again, with everything I put into it packed into an archive.*
 
+##### [Zombie Apocalypse](https://files.catbox.moe/280cxf.module)
+
+[by Basileus](https://story-explorer.ai/index.php?view=article&id=78:zombie-apocalypse&catid=16&highlight=WyJ6b21iaWUiLCJhcG9jYWx5cHNlIl0=)
+
+*Survival horror as a tide of undead flesh rises over the world.*
+
+***Training Corpus:***
+
+- Rot & Ruin by Jonathan Maberry
+- Devil's Wake by Steven Barnes and Tananarive Due
+- Extinction Horizon by Nicholas Sansbury Smith
+- Plague of the Undead by Joe McKinney
+- The First Days by Rhiannon Frater
+- Arisen, Fortress Britain by Glynn James and Michael Stephen Fuchs
+- The Apocalypse Crusade by Peter Meredith
+- Survivor Song by Paul Tremblay
+- The Rising by Brian Keene
+- Autumn by David Moody
+- Night of the Living Dead by John Russo
+- Resident Evil: The Umbrella Conspiracy by S.D. Perry
+- Nights of the Living Dead (anthology)
+- Zombie Fiction for Women (anthology)
+- Undead Worlds (anthology)
+- Undead Worlds 2 (anthology)
+
+>**Guttural groans and rattling gurgles echoed from down the street**. The sounds were coming closer, growing louder by the second. A man staggered into view as he passed a liquor store on his way to an apartment building across the road. He was dressed in rags, covered with dirt and blood that ran freely from open wounds all over his body. His face was swollen like a puffer fish's, his eyes glazed over and dead white. As he moved toward them, they could see the remains of what had once been human flesh hanging off him like rotting meat dangling from a butcher's hook. The stench was overwhelming; it made their stomachs churn and sent bile rushing up their throats.
+>
+>The man reached out one hand, fingers splayed wide apart, searching for something. It looked as if he was trying to touch someone or something but couldn't quite make contact. Then he began to run at full speed toward the group of people huddled together on the sidewalk.
+>
+>"Run!" Benny shouted, pushing Katie forward as she stumbled back against the wall. "He'll get us."
+>
+>Katie didn't move. She stared in horror as the creature came charging straight toward her. Her mouth opened in terror, then closed again when she realized there was nothing she could do. All around her the others were screaming and running away from the approaching monster. Some tried to flee down the street while others simply stood frozen where they were. But none of them seemed able to break free of the fear that gripped their hearts.
+
 ### [Elements](#themes)
 
 #### [Things](#elements)
@@ -1958,6 +2004,18 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 *Trained on a few fanfics from "Wanna be the strongest in the world" and Rumble Roses. Mostly 3rd person, past tense.*
 
 ***Tags:** wrestling, fighting, sports, female*
+
+##### [Gatomon](https://files.catbox.moe/zxvmty.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/379666235/#379790382)
+
+*Since I had 500 steps left over, I went ahead and trained a very niche module. One focused on Gatomon.*
+
+> \>Can you share your training data for posterity?
+
+*It's [a lot of really old stories from digiartistsdomain, furaffinity, inkbunny, and sofurry](https://files.catbox.moe/7loxkt.txt). I probably needed to check AO3 too.*
+
+*I'm just now realizing that there were all-caps sentences, but I don't know how to fix that in Notepad++.*
 
 ##### [Gryphons](https://files.catbox.moe/bj3ixf.module)
 
@@ -2053,6 +2111,14 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 *The future is now!*
 
 *Just remember that AI is bad at intentional comedy*
+
+##### [Darkest Dungeon Narration](https://files.catbox.moe/1i33ee.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/379666235/#379886008)
+
+*I meant to have this done a while ago. Apologies for tarrying. Behold! A module trained on the narration of the Darkest Dungeon [1 and 2].*
+
+*I recommend biasing against newlines because there's a lot of short barks in there compared to long passages.*
 
 ##### [Forbidden Lands (Random Encounters)](https://files.catbox.moe/tk5j74.module)
 
@@ -2414,6 +2480,142 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 >
 >The wolf-man slid off the desk, his hands closing around my hips as he turned me. He pressed me back against it, his fingers sliding beneath my dress to grasp my ass cheeks. My back arched as he bent me over the desk, his cock pressing against my wet pussy. I could smell my own sex and it filled my nostrils. The wolf-man pressed his cock against me and slid inside me. I cried out at the feeling of being filled by such a huge cock. My ass pressed against the edge of the desk.
 
+##### [Disney Song Lyrics](https://anonfiles.com/58E7e0W8xf/Disney_Songs_module)
+
+[by rari 👹](https://discord.com/channels/836774308772446268/939922436500107314/963100926300786698)
+
+*Trained on [all the disney song lyrics.](https://www.disneyclips.com/lyrics/)*
+
+>**When you wish upon a star**</br>
+>Anything your heart desires will come true</br>
+>It's time to start believing</br>
+>So open up your mind, close your eyes and make a wish</br>
+>We're all children of the night, shining like stars above</br>
+>There's magic in the air</br>
+>Let your dreams come true</br>
+
+##### [Emo/Pop/Punk Lyrics](https://anonfiles.com/vf28efWaxa/Emo_Rock_Punk_Lyrics_module)
+
+[by ari 👹](https://discord.com/channels/836774308772446268/939922436500107314/956913918159253515)
+
+*Trained on the top emo/rock/punk bands of the 2000s. Bands include Panic! At the Disco, My Chemical Romance, etc.*
+
+*Trained to 90.68% with 3599 steps.*
+
+*30 - 100 songs per band (songs sorted by popularity).*
+
+*Bands included:*
+
+- American Football
+- Arctic Monkeys
+- Avenged Sevenfold
+- Avril Lavigne
+- Blink 182
+- Brand New
+- Breaking Benjamin
+- Bullet For My Valentine
+- Cap’n Jazz 
+- Coldplay
+- Creed
+- Dashboard Confessional
+- Daughtry
+- Death Cab For Cutie
+- Evanescence
+- Fall Out Boy
+- FM Static
+- Foo Fighters
+- Good Charlotte
+- Green Day
+- Incubus
+- Jimmy Eat World
+- La Dispute
+- Lifehouse
+- Linkin Park
+- Mayday Parade
+- Muse
+- My Chemical Romance
+- New Found Glory
+- Nickelback
+- Oasis
+- Panic! At the Disco
+- Papa Roach
+- Paramore
+- Radiohead
+- Red Hot Chili Peppers
+- Secondhand Serenade
+- Seether
+- Simple Plan
+- Skillet
+- Slipknot
+- Snow Patrol
+- Sum 41
+- Sunny Day Real Estate
+- System of A Down
+- Taking Back Sunday
+- Texas is the reason
+- The All-American Rejects
+- The Click Five
+- The Goo Goo Dolls
+- The Killers
+- The Maine
+- The Ready Set
+- The Red Jumpsuit Apparatus
+- The Used
+- Thirty Seconds to Mars
+- Tigers Jaw
+- Tokio Hotel
+- We The Kings
+- Within Temptation
+
+>[Verse]</br>
+>The thing is, I know you can't love me like I need to be loved</br>
+>I'll always be the one that needs something more from you</br>
+>If you're still holding my hand, you gotta let go of my heart</br>
+>I can't stand it when people try to change what makes me who I am</br>
+>So don't try to fix it or put me back together because it's not broken</br>
+>Just let me go</br>
+>I've got everything here without you now</br>
+>And you say I'm too much, but I never was enough for you</br>
+>But then again, I guess we both knew</br>
+>[Chorus]</br>
+>You say you're in love with me, but I don't hear you say it back</br>
+>Why do I feel like I'm not your number one priority?</br>
+>So why do I feel like you just don't care anymore?</br>
+>Oh no</br>
+>Baby, I don't think that we should break up</br>
+
+##### [First Person/Deep POV](https://anonfiles.com/vbB7ebW7x7/First_and_Deep_POV_module)
+
+[by Charistum](https://discord.com/channels/836774308772446268/939922436500107314/961486500850171905)
+
+*Trained off of a collection of first person and Deep POV stories. Steps: 4857, Loss: 2.75*
+
+***Source Material:***
+
+**Vorkosigan Saga by Lous Mcmaster Bujold**
+
+- Cordelia's Honor | 1.1 MB
+- The Warrior's Apprentice | 578.9 kb
+
+**World of the Five Gods by Lois McMaster Bujold**
+
+- The Assassins of Thasalon | 482.2 kb
+- The Curse of Chalion | 932.4 kb
+- Paladin of Souls | 841.7 kb
+
+**The Hunger Games Series by Suzanne Collins | 1.6 MB**
+
+- The Hunger Games
+- Catching Fire
+- Mockingjay
+
+**Divergent Series by Veronica Roth | 1.7 MB**
+
+- Divergent
+- Insurgent
+- Allegiant
+- Excerpt from Four: The Transfer
+
 ##### [Lyrical Writing](https://files.catbox.moe/nz9oc2.module)
 
 [by Magenta.Darkstar](https://discord.com/channels/836774308772446268/939922436500107314/942243209730457600)
@@ -2488,6 +2690,34 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 >"Hey, now, wait a minute, Mrs. P."
 >
 >"Not one word."
+
+##### [Taylor Swift Lyrics](https://anonfiles.com/Ncz3e3W9x9/Taylor_Swift_Module_module)
+
+[by rari 👹](https://discord.com/channels/836774308772446268/939922436500107314/956649880217088020)
+
+*Trained on Taylor's Top 250 Songs on Genius*
+
+*Trained to 106% with 555 steps.*
+
+>[Verse]</br>
+>I've been a mess since you said goodbye</br>
+>My heart's been out of place, I don't know what to do</br>
+>It was such an easy thing to lose you</br>
+>But it's so hard to find again</br>
+>And now the tears won't stop falling down my face</br>
+>I'll never see your smile or hold your hand</br>
+>'Cause you're not coming back home</br>
+>[Chorus]</br>
+>If only you knew how much I needed you here with me</br>
+>You were the one that held my broken heart together</br>
+>Now there's no one left to dry these tears from my eyes</br>
+>The pain is just too much to take</br>
+>There's nothing else I can do but cry</br>
+>I'm so lost without you by my side</br>
+>'Cause you're not coming back home</br>
+>(No, you're not coming back)</br>
+>(No, you're not coming back)</br>
+>(No, you're not coming back)</br>
 
 ##### [Weird Fiction](https://files.catbox.moe/zoq25d.module)
 
@@ -2736,23 +2966,24 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 
 ***Note:** This was not made by me! I am uploading this for an anonymous user.*
 
-##### [Non-Humans](https://anonfiles.com/x687OaM5x0/Monster_Girls_and_other_nonhumans_Hora_module)
+##### [Non-Humans](https://anonfiles.com/7dKeedW0xb/Monster_girls_and_other_non-humans_Hora_hora_2._module)
 
-[by Naliamegod](https://discord.com/channels/870618914323849228/870619535600922644/949646616439189544)
+[by Naliamegod](https://discord.com/channels/870618914323849228/870619535600922644/963037633422950410)
 
-*Hora adventurers!*
+*Hora hora!*
 
-*Finally I have completed version 1.0 my monster girl themed module. My main goal is to get a good amount of "unique" erotic content that goes beyond making love with creatures with two legs and two arms. Expect plenty of slimes, snakes, tentacles and other inhumane things. My module consists text from:*
+*A massive update to my previous Monster Girl module, now beefed up with plenty of data from AO3 thanks to Pume's AO3 datasetting tool.  Not only is the dataset nearly 3x larger (from 7mb to over 22mb), but it has far greater of variety of MG content, notably an increase in "beastgirl" type MGE (e.g. Jinkos, Doggirls, etc).  Current dataset includes:*
 
-- A plethora of non-human, sci-fi/fantasy and erotic horror literotic content from jorfl's literotic site
-- My own collection of curated NSFW monstergirl work from AO3 and literotic
+- A plethora of non-human, sci-fi/fantasy and erotic horror literotic content from jorfl’s literotic site as well as my own additions
+- A large collection AO3, brought together thanks to Pume's AO3 data setting module.  Most data was under the "MGE" tag, but I got a few other related fanfiction (e.g. Darkstalkers, Rosario x Vampiro, MGQ)
 - Work written by manyeyedhydra
+- Near complete collection of SPARTAN047's MGE works
 - Curated text from the game Monster Girl Dreams (sex scenes and descriptions)
 - Curated text from Monster Girl Quest (sex scenes)
 
-*This is not finished, as I plan to update at some point with other work found online and adding more data from the Monster Girl games if possible. For best results, I recommend using your bias settings as that is generally the best way to make the NovelAi from gives you the features you desire your erotic monster to have or, more importantly, not have.*
+*For best results, I recommend using your bias settings as that is generally the best way to make the NovelAi from gives you the features you desire your erotic monster to have or, more importantly, not have.*
 
-***Tags:** monster girls, non-human, tentacles, femdom, nonconsent, "bad endings", death by snoo-snoo, possible light furry/anthro*
+***Tags:** monster girls, non-human, succubus, angels, tentacles, femdom, nonconsent, “bad endings”, death by snoo-snoo, possible light furry/anthro, corruption, transformation.*
 
 ##### [Sergals](https://files.catbox.moe/6ywd2a.module)
 
@@ -2896,6 +3127,16 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 [by Anon](https://arch.b4k.co/vg/thread/371608780/#371662447)
 
 *I trained a module on femsub hypnosis scripts. The quality of the training data is all over the place and it's probably a very bad idea to let Euterpe hypnotize you, but if anybody is interested, I've uploaded it here.*
+
+##### [Longform Mind Control](https://anonfiles.com/79JceaWaxb/Longform_Mind_Control_module)
+
+[by Somdudewilson](https://discord.com/channels/870618914323849228/870619535600922644/956330041766195320)
+
+Description: Remake of a Sigurd module for Euterpe.
+
+A module made of a collection of 3 of my favorite long-form/slow-burn mind control stories from Fiction.Live. All of them are in 2nd person. 2.85k steps, ~100% coverage.
+
+***Tags:** mind control, long-form, slow-burn, 2nd person*
 
 ##### [Respect (Second Person)](https://files.catbox.moe/pwihg8.module)
 
@@ -3391,6 +3632,39 @@ Alright, might be overkill, but shoved all 500 steps into it for over 1000% trai
 >
 >'So who knows what the hell this is?'
 
+##### [Bridgerton](https://anonfiles.com/Zf66e6W1x1/Bridgerton_module)
+
+[by rari 👹](https://discord.com/channels/836774308772446268/939922436500107314/959527800988131328)
+
+Okay since I just finished it on Netflix I feel like I had to do this  
+
+Title: Bridgerton
+Description:  Trained on the Bridgerton series (Books 1-8).
+
+*Trained to 50.87% with 2467 steps.*
+
+>"But he didn't," Colin said.
+>
+>Theo frowned, confused by the statement. "What do you mean?"
+>
+>Colin shook his head. "It's nothing. I'm just so tired."
+>
+>He made a hasty retreat into bed, pulling up the covers and sinking back against them before turning over onto his side with a groan.
+>
+>"Do you want me to bring you up some tea?" she asked him.
+>
+>He waved her off with a grunt of impatience. He really was exhausted. He'd been up all night thinking about what might have happened if they'd missed that last step, and then again when he'd awoken this morning, only to be unable to stop his mind from spinning about it.
+>
+>If he'd not been there, would she have fallen? Would someone else have seen her fall and stopped to help her, or had they run off thinking it was part of their performance, too? He'd heard the reports that many people thought it was all a trick somehow, that it couldn't really be as bad as everyone seemed to think, and he hated the idea that people would think of Theo in such a way—that he'd let her down.
+>
+>And it wasn't just that. The idea of anyone else getting hurt because of him made him sick.
+>
+>He should have stayed home. That's what he should have done. But the moment he'd seen that stage, his feet had taken on a life of their own. And he'd almost gotten them killed, he realized now.
+>
+>Colin sighed. "I should have stayed home."
+>
+>She squeezed his hand. She had no answers for him, and so she said nothing, but he felt better having her there.
+
 ##### [Cradle Series](https://files.catbox.moe/rpsuvf.module)
 
 [by Neverside](https://discord.com/channels/836774308772446268/939922436500107314/951303816144359434)
@@ -3632,6 +3906,12 @@ Samples (both on modified Gojira):
 
 *Go forth and sin.*
 
+#### [The Meditations of Marcus Aurelius](https://files.catbox.moe/0pcoh5.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/379666235/#379674194)
+
+*Probably treading ground already covered by NAI's baked-in philosophy module, but I'll put this out there anyway. A module trained on the George Long translation of The Meditations of Marcus Aurelius*
+
 #### [Suma Theologica](https://files.catbox.moe/l8vcyk.module)
 
 [by LaPapaya](https://discord.com/channels/836774308772446268/939922436500107314/949894119025688588)
@@ -3751,6 +4031,16 @@ Example Text:
 *I trained a Module on A Certain Magical Index Volumes 1-22 from <https://nyaa.si/view/1263900>, couldn't be bothered to clean up more.*
 
 *~7.6mb of text, trained for 4.4k steps. Loss graph looks fucked but it works nicely enough.*
+
+#### [DanMachi](https://anonfiles.com/Fd8be0W9x7/DanMachi_Euterpe_module)
+
+[by Consort Eternal Han-Jo Han](https://discord.com/channels/836774308772446268/939922436500107314/960695061815889961)
+
+*DanMachi Module Trained with 6647 steps on Volumes 1 to 12 and 16 Euterpe*
+
+**Source: DanMachi Light Novel, around 5.8mb of text. Module trained at 100%.**
+
+**Tags: Anime, Manga, Comedy, Fantasy, Harem**
 
 #### [Fate/Zero](https://files.catbox.moe/s56gyt.module)
 
@@ -3945,6 +4235,14 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 *Here's a module based on the (2.5MB) massive Persona 5 fanfiction, [Crimson](https://www.fanfiction.net/s/12546921/1/Crimson).*
 
 *(oh, trained to 100% btw)*
+
+#### [A Dragon Ranch in Suburbia](https://anonfiles.com/b5I0e0W9x8/A_Dragon_Ranch_in_Suburbia_module)
+
+*A remake of my Sigurd module for Euterpe.*
+
+*Both of Ausfer’s Dragon Ranch and its sequel series A Dragon in Suburbia. Expect lots of feral dragonesses x male human.  Trained to 1k (100%).*
+
+***Tags:** non-human, dragon, furry, ranch*
 
 #### [Final Judgement](https://files.catbox.moe/453qde.module)
 
@@ -4387,6 +4685,69 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 
 ![](https://files.catbox.moe/uhpidv.png)
 {: .center}
+
+### [Dscryb](https://anonfiles.com/T5Dae5W8xa/items_generator_1000_percent_module)
+
+[by some idiot](https://discord.com/channels/836774308772446268/939922436500107314/962307591504031754)
+
+*Trained on item descriptions scraped from [Dscryb](https://dscryb.com/scenes/items/) check em out, it's a great website with a lot of work put into it! Trained at 1000% because of TravelingRobot's research into overtrained modules. I have one at 190% but it's not as good.*
+
+***Tags:** Item Generator, fantasy-adventure, Dungeons and Dragons, overtrained module*
+
+***Instructions:***
+
+*Turn off the preamble in AI Settings, write a dinkus, newline and then the name of the item you want described, newline, and generate. Because this is the structure of all of the training data:*
+\*\*\*
+
+<name of item>
+
+<description of item>
+
+\*\*\*
+
+<same pattern repeating>
+
+***Output Samples:***
+
+>\*\*\*
+>
+>Evil spellbook
+>
+>The tome is small and well-worn. Its pages are a mass of intricate drawings with words woven throughout the lines. You can see symbols from all sorts of ancient, forgotten, and forbidden magical traditions etched in its margins. Some pages smell faintly of dust and others of dried blood.
+
+>\*\*\*
+>
+>Evil spellbook
+>
+>This volume is written in a language that can only be translated by those able to channel arcane power. Its pages are covered with complex sigils and strange diagrams, some of which appear to be illustrations of arcane creatures like the one you saw in your last battle with a drow sorcerer. The book also contains spells, some of them rather powerful.
+
+>\*\*\*
+>
+>Vine whip
+>
+>Thickly lashed and weighted strands of vine twine have been wrapped around a stout cord. The ends form the shape of a small whip as they are coiled together, giving this weapon the appearance of a long-handled pair of tongs. When you grip it in your hand, it tingles pleasantly, the vine whip humming softly against your palm.
+
+>\*\*\*
+>
+>Helmet from heaven
+>
+>The helmet is a fine piece of work, as if it were an angel crafted by artisans in heaven. It has an ornate crest with a golden sun and five points, each pointing to a star, forming a sort of halo. The visor opens easily; inside are two large orbs which look like gems but are actually some kind of magical light source. When you hold the helmet up, nothing seems to happen; when you put it on, however, your vision shifts from darkness to a world where every surface glows in beautiful hues, no matter how dark or dim it might be. It is the most spectacular thing you’ve ever seen.
+>
+>Helmet from hell
+>
+>It seems obvious now, but the helmet isn’t meant to protect. No, its purpose is to harm. You can feel the evil pouring out of it into your skull, and as you try to remove it, you find that it sticks to your skin like glue. It must have been enchanted by some sort of demon, perhaps the same one who created the helmet. When you take it off, your vision goes back to normal, but the feeling lingers.
+
+>\*\*\*
+>
+>Runic sword
+>
+>The runes on this weapon are not the common set but rather the ancient ones. You cannot read them, but it seems that someone of power has worked upon the weapon. Its power is immense: its sharp, glinting blade slices through flesh as easily as though it were paper. The length of the weapon is a bit short, however, and the grip is far too large for you to hold comfortably in your hand. A few of the runes have broken free from their grooves and are lying in the grass nearby.
+
+>\*\*\*
+>
+>Running Gag Potion
+>
+>Carry this potion around with you and you’ll find that no matter what happens you can always count on it being funny in some way. There appears to be an endless supply of jokes available when you have a bottle of this. The potion will never go bad, so long as you carry it with you. This allows you to drink it freely whenever you need a joke at your disposal. It can be taken multiple times to replenish the amount of laughs that it provides.
 
 ### [Light Novel Blurb Generator](https://files.catbox.moe/g4v1n5.module)
 
