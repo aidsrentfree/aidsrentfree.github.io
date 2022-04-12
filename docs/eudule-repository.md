@@ -25,6 +25,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 (12th April, 2022)
 
+- Added [Knotting](#knotting) module.
 - Added [A Dragon Ranch in Suburbia](#a-dragon-ranch-in-suburbia) module.
 - Added [Longform Mind Control](#longform-mind-control) module.
 - Updated [Monster Girls and other Non-Humans](#non-humans) module.
@@ -230,6 +231,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Assorted Mind Control](#assorted-mind-control)
       - [Dronifurcation](#dronifurcation)
       - [Hypnosis (Femsub)](#hypnosis-femsub)
+      - [Knotting](#knotting)
       - [Longform Mind Control](#longform-mind-control)
       - [Respect (Second Person)](#respect-second-person)
       - [Scat](#scat)
@@ -3127,6 +3129,14 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 [by Anon](https://arch.b4k.co/vg/thread/371608780/#371662447)
 
 *I trained a module on femsub hypnosis scripts. The quality of the training data is all over the place and it's probably a very bad idea to let Euterpe hypnotize you, but if anybody is interested, I've uploaded it here.*
+
+##### [Knotting](https://anonfiles.com/x2MeefW7xc/Knotting_module)
+
+[Magenta.Darkstar](https://discord.com/channels/854479693503660032/939950910690439179/959196007902617651)
+
+*Trained on a bunch of stories, mostly anthro (werwolf, furry, etc...), featuring knotting.*
+
+***Tags:** non-human, cum, knotting.*
 
 ##### [Longform Mind Control](https://anonfiles.com/79JceaWaxb/Longform_Mind_Control_module)
 
