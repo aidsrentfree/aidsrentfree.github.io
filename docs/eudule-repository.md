@@ -1108,7 +1108,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *I retrained my Starcraft module for Euterpe. Same data (no fanfics, official novels only). 3rd person past tense. 3.5k steps, 100% coverage (3 MB file size).*
 
-**Tags: sci-fi, games, strategy, Starcraft**
+***Tags:** sci-fi, games, strategy, Starcraft*
 
 ##### [Star Trek: The Next Generation](https://files.catbox.moe/70vpir.module)
 
@@ -2488,13 +2488,13 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 
 *Trained on [all the disney song lyrics.](https://www.disneyclips.com/lyrics/)*
 
->**When you wish upon a star**</br>
->Anything your heart desires will come true</br>
->It's time to start believing</br>
->So open up your mind, close your eyes and make a wish</br>
->We're all children of the night, shining like stars above</br>
->There's magic in the air</br>
->Let your dreams come true</br>
+>**When you wish upon a star**<br>
+>Anything your heart desires will come true<br>
+>It's time to start believing<br>
+>So open up your mind, close your eyes and make a wish<br>
+>We're all children of the night, shining like stars above<br>
+>There's magic in the air<br>
+>Let your dreams come true<br>
 
 ##### [Emo/Pop/Punk Lyrics](https://anonfiles.com/vf28efWaxa/Emo_Rock_Punk_Lyrics_module)
 
@@ -2569,22 +2569,22 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 - We The Kings
 - Within Temptation
 
->[Verse]</br>
->The thing is, I know you can't love me like I need to be loved</br>
->I'll always be the one that needs something more from you</br>
->If you're still holding my hand, you gotta let go of my heart</br>
->I can't stand it when people try to change what makes me who I am</br>
->So don't try to fix it or put me back together because it's not broken</br>
->Just let me go</br>
->I've got everything here without you now</br>
->And you say I'm too much, but I never was enough for you</br>
->But then again, I guess we both knew</br>
->[Chorus]</br>
->You say you're in love with me, but I don't hear you say it back</br>
->Why do I feel like I'm not your number one priority?</br>
->So why do I feel like you just don't care anymore?</br>
->Oh no</br>
->Baby, I don't think that we should break up</br>
+>[Verse]<br>
+>The thing is, I know you can't love me like I need to be loved<br>
+>I'll always be the one that needs something more from you<br>
+>If you're still holding my hand, you gotta let go of my heart<br>
+>I can't stand it when people try to change what makes me who I am<br>
+>So don't try to fix it or put me back together because it's not broken<br>
+>Just let me go<br>
+>I've got everything here without you now<br>
+>And you say I'm too much, but I never was enough for you<br>
+>But then again, I guess we both knew<br>
+>[Chorus]<br>
+>You say you're in love with me, but I don't hear you say it back<br>
+>Why do I feel like I'm not your number one priority?<br>
+>So why do I feel like you just don't care anymore?<br>
+>Oh no<br>
+>Baby, I don't think that we should break up<br>
 
 ##### [First Person/Deep POV](https://anonfiles.com/vbB7ebW7x7/First_and_Deep_POV_module)
 
@@ -2596,22 +2596,22 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 
 **Vorkosigan Saga by Lous Mcmaster Bujold**
 
-- Cordelia's Honor | 1.1 MB
-- The Warrior's Apprentice | 578.9 kb
+- Cordelia's Honor, 1.1 MB
+- The Warrior's Apprentice, 578.9 kb
 
 **World of the Five Gods by Lois McMaster Bujold**
 
-- The Assassins of Thasalon | 482.2 kb
-- The Curse of Chalion | 932.4 kb
-- Paladin of Souls | 841.7 kb
+- The Assassins of Thasalon, 482.2 kb
+- The Curse of Chalion, 932.4 kb
+- Paladin of Souls, 841.7 kb
 
-**The Hunger Games Series by Suzanne Collins | 1.6 MB**
+**The Hunger Games Series by Suzanne Collins, 1.6 MB**
 
 - The Hunger Games
 - Catching Fire
 - Mockingjay
 
-**Divergent Series by Veronica Roth | 1.7 MB**
+**Divergent Series by Veronica Roth, 1.7 MB**
 
 - Divergent
 - Insurgent
@@ -2701,25 +2701,25 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 
 *Trained to 106% with 555 steps.*
 
->[Verse]</br>
->I've been a mess since you said goodbye</br>
->My heart's been out of place, I don't know what to do</br>
->It was such an easy thing to lose you</br>
->But it's so hard to find again</br>
->And now the tears won't stop falling down my face</br>
->I'll never see your smile or hold your hand</br>
->'Cause you're not coming back home</br>
->[Chorus]</br>
->If only you knew how much I needed you here with me</br>
->You were the one that held my broken heart together</br>
->Now there's no one left to dry these tears from my eyes</br>
->The pain is just too much to take</br>
->There's nothing else I can do but cry</br>
->I'm so lost without you by my side</br>
->'Cause you're not coming back home</br>
->(No, you're not coming back)</br>
->(No, you're not coming back)</br>
->(No, you're not coming back)</br>
+>[Verse]<br>
+>I've been a mess since you said goodbye<br>
+>My heart's been out of place, I don't know what to do<br>
+>It was such an easy thing to lose you<br>
+>But it's so hard to find again<br>
+>And now the tears won't stop falling down my face<br>
+>I'll never see your smile or hold your hand<br>
+>'Cause you're not coming back home<br>
+>[Chorus]<br>
+>If only you knew how much I needed you here with me<br>
+>You were the one that held my broken heart together<br>
+>Now there's no one left to dry these tears from my eyes<br>
+>The pain is just too much to take<br>
+>There's nothing else I can do but cry<br>
+>I'm so lost without you by my side<br>
+>'Cause you're not coming back home<br>
+>(No, you're not coming back)<br>
+>(No, you're not coming back)<br>
+>(No, you're not coming back)<br>
 
 ##### [Weird Fiction](https://files.catbox.moe/zoq25d.module)
 
@@ -2974,7 +2974,7 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 
 *Hora hora!*
 
-*A massive update to my previous Monster Girl module, now beefed up with plenty of data from AO3 thanks to Pume's AO3 datasetting tool.  Not only is the dataset nearly 3x larger (from 7mb to over 22mb), but it has far greater of variety of MG content, notably an increase in "beastgirl" type MGE (e.g. Jinkos, Doggirls, etc).  Current dataset includes:*
+*A massive update to my previous Monster Girl module, now beefed up with plenty of data from AO3 thanks to Pume's [AO3 datasetting tool](https://pume-p.github.io/ao3-datasetting/).  Not only is the dataset nearly 3x larger (from 7mb to over 22mb), but it has far greater of variety of MG content, notably an increase in "beastgirl" type MGE (e.g. Jinkos, Doggirls, etc).  Current dataset includes:*
 
 - A plethora of non-human, sci-fi/fantasy and erotic horror literotic content from jorfl’s literotic site as well as my own additions
 - A large collection AO3, brought together thanks to Pume's AO3 data setting module.  Most data was under the "MGE" tag, but I got a few other related fanfiction (e.g. Darkstalkers, Rosario x Vampiro, MGQ)
@@ -4048,9 +4048,9 @@ Example Text:
 
 *DanMachi Module Trained with 6647 steps on Volumes 1 to 12 and 16 Euterpe*
 
-**Source: DanMachi Light Novel, around 5.8mb of text. Module trained at 100%.**
+***Source:** DanMachi Light Novel, around 5.8mb of text. Module trained at 100%.*
 
-**Tags: Anime, Manga, Comedy, Fantasy, Harem**
+***Tags:** Anime, Manga, Comedy, Fantasy, Harem*
 
 #### [Fate/Zero](https://files.catbox.moe/s56gyt.module)
 
@@ -4707,15 +4707,16 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 ***Instructions:***
 
 *Turn off the preamble in AI Settings, write a dinkus, newline and then the name of the item you want described, newline, and generate. Because this is the structure of all of the training data:*
-\*\*\*
 
-<name of item>
-
-<description of item>
-
-\*\*\*
-
-<same pattern repeating>
+>\*\*\*
+>
+>[ name of item ]
+>
+>[ description of item ]
+>
+>\*\*\*
+>
+>[ same pattern repeating ]
 
 ***Output Samples:***
 
