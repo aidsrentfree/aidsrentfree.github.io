@@ -33,6 +33,20 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 - [Rules](#rules)
 - [The Log](#the-log)
+- [The Friday of *Yanderes*](#the-friday-of-yanderes)
+  - [*Skin to Skin(walker)*](#skin-to-skinwalker)
+  - [*My girlfriend has been acting a bit possessive lately*](#my-girlfriend-has-been-acting-a-bit-possessive-lately)
+  - [*I would literally kill for my little brother*](#i-would-literally-kill-for-my-little-brother)
+  - [*IT WAS ME, HARRY!*](#it-was-me-harry)
+  - [*Christine*](#christine)
+  - [*Hard Knocks in Yandere City*](#hard-knocks-in-yandere-city)
+  - [*My Little Sister is a Jealous Brat*](#my-little-sister-is-a-jealous-brat)
+  - [*Just Business*](#just-business)
+  - [*Harem with a catch*](#harem-with-a-catch)
+  - [*Dealing with a Yandere Elf*](#dealing-with-a-yandere-elf)
+  - [*The Yandere Handbook*](#the-yandere-handbook)
+  - [*Slugging It Out*](#slugging-it-out)
+  - [*I Love My Wife*](#i-love-my-wife)
 - [The Friday of *Adventure Parties*](#the-friday-of-adventure-parties)
   - [*Some Storyteller Partygoing*](#some-storyteller-partygoing)
   - [*The New Adventures of Gilgamesh*](#the-new-adventures-of-gilgamesh)
@@ -337,6 +351,243 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Your Daughter will Do Anything to Have You Back*](#your-daughter-will-do-anything-to-have-you-back)
   - [*Ben and Gwen Tennyson in: Omnifriks*](#ben-and-gwen-tennyson-in-omnifriks)
   - [*Goblin girl in Heat*](#goblin-girl-in-heat)
+
+***
+
+## The Friday of *Yanderes*
+{: .center}
+
+Let's make prompts about the women who love you so much, they just might get you killed.
+{: .center}
+
+[15th April, 2022](#the-log)
+{: .center}
+
+### *Skin to Skin(walker)*
+{: .center}
+
+*<https://prompts.aidg.club/3512>*
+{: .center}
+
+![](https://files.catbox.moe/nzmqen.jpg)
+{: .center}
+
+>*"Come with me, sir." she repeats, grabbing my arm. Her grip is like iron, it hurts, but I don't really have the energy to even think about it. She's right anyways, this place isn't safe.*
+>
+>*As soon as we both get in the car, she speeds off down the road, not even bothering to turn on the siren. I'm not sure if it's the loss of blood or the stench that seems to have permeated in the fabric of the seats, but my stomach starts to feel queasy the moment we start driving. While I'm trying to avoid throwing up, the officer veers off the side of the road as branches and leaves smack across the window. I have no idea where we're going, but it's clear it isn't to any hospital. Looking in the rearview mirror, I can see the woman staring ahead, completely stone faced like there's nothing wrong with this little detour.*
+>
+>*The ride goes on for quite some time before we come to an abrupt stop in front of some beaten down cabin in the middle of the woods. Stepping out of the car, the officer slowly walks over to my side of the vehicle and unlocks the door, pulling me out with that same iron grip as before. My heart pounds as she then drags me inside the cabin, still as expressionless as before, like this is all routine for her. There's a mattress in the corner but that's it—no windows, just a single light bulb hanging from the ceiling that doesn't seem to be working. As she pushes me down onto the bed, she speaks up for the first time in what must have been a half an hour, "Why did you have to leave me?" It sounds garbled, inhuman, her words coming in short breaths. "Why couldn't you have just accepted my love?"*
+
+They say love comes in many forms. I'm not really sure it counts if all the forms are the same obsessed skinwalker. She's willing to kill anyone who stands in her way, as long as she gets you in the end.
+
+### *My girlfriend has been acting a bit possessive lately*
+{: .center}
+
+*<https://prompts.aidg.club/3541>*
+{: .center}
+
+![](https://files.catbox.moe/b24hf4.jpg)
+{: .center}
+
+>*"...Anna?" I asked again.*
+>
+>*"Yes, darling?" she replied innocently.*
+>
+>*"What's this around my neck?"*
+>
+>*"It's a leather collar, of course. I had it made specially for you!"*
+>
+>*"No, I mean, I can't really get out of bed with this..." I gestured at the short metal chain which restrained me to the bedframe.*
+
+I'm sure Anna only wants the best for me, but it's becoming difficult to deal with her increasingly alarming, excessive behavior. Would a normal girlfriend go so far as to break into their partner's home and tie them to their bed while they're asleep?
+
+### *I would literally kill for my little brother*
+{: .center}
+
+*<https://prompts.aidg.club/3542>*
+{: .center}
+
+![](https://files.catbox.moe/zyrohh.jpg)
+{: .center}
+
+>*"Shouta? Who is...this person you brought home with you?" I asked him, trying to hide my obvious displeasure. Shouta was standing at the door holding hands with a little girl I'd never met before. She must have been around his age, maybe eight or nine years old, with tanned skin, a flowery dress, and tomboyish short hair. I could already tell what kind of girl she was. This fucking bitch...who the hell do you think you are?*
+>
+>*"Um, onee-chan, this is my friend, Tsubomi-san," Shouta answered shyly. "I met her at school today, and she wanted to come over and play some games. Is...that okay?"*
+>
+>*Of course it's not ok to bring this manipulative succubus home with you! Play games?! Yeah right, I see right through you, "Tsubomi", if that's even your real name! You're just after his dick, aren't you?! Get the fuck away from my Shouta, you filthy whore!*
+>
+>*...is what I wanted to say, but I bit my tongue instead.*
+
+A deranged incestual shotacon mercilessly eliminates all threats that stand in the way of her beloved little brother.
+
+### *IT WAS ME, HARRY!*
+{: .center}
+
+*<https://prompts.aidg.club/3543>*
+{: .center}
+
+>*"I'm responsible for every bad date you've ever had," Lilian told her crush. "Remember when you were fifteen and your pants fell down when you were confessing to that girl? It was me, Harry. I pulled them down. Remember when you were sneaking out the house at night to meet a girl at her place and you slipped on the wet floor and broke your leg, in spite of the fact that you knew you had cleaned the living room and left the floor sparkling clean? I ran through the house at super speed, so fast the light hadn't even left the room yet, and left a puddle there, waiting for you."*
+>
+>*"No!"*
+
+Remember when you were working hard on an AI theme friday prompt and instead you pushed a copypasta out the door?
+
+### *Christine*
+{: .center}
+
+*<https://prompts.aidg.club/3544>*
+{: .center}
+
+![](https://files.catbox.moe/tffc7h.jpg)
+{: .center}
+
+>*Before Christine, Arnie had been a loser. But after he found her for sale online from an old man who seemed eager to be rid of the rusted chassis and fixed her up, something changed inside of him. He had a confidence, a swagger, as he walked the halls at school and cruised that relic on the roads around town. A few people, even his only friend Dennis, teased him for loving that "Boomer-mobile" as much as he did, but Arnie was inseparable from the old car with her tailfins and chrome.*
+
+Adaptation of Stephen King's story of the killer classic car who loves the man who climbs behind her wheel and refuses to let anyone come between them.
+
+### *Hard Knocks in Yandere City*
+{: .center}
+
+*<https://prompts.aidg.club/3545>*
+{: .center}
+
+![](https://files.catbox.moe/tqdncz.jpg)
+{: .center}
+
+>*Their tactics are as simple as they are sinister. A yandere appears outwardly like a proper, innocent young maiden. They are masters of deception and disguise and will keep up their appearance as long as it takes to cement their grip on their target. Once she finds a suitable prey — preferably, a young, inexperienced male — she propositions him for a formal relationship. Of course, this is only a ruse, as the yandere's true motivation is to monopolize him, to make him only look at her, to make him dependent on her love, and eventually, to kidnap and enslave him so he can never leave her. It's a story that happens every day in this rotten city. Yes, every day, countless men disappear into the cellars, basements, closets, and dungeons of their sick, twisted captors, never to be seen again.*
+>
+>*I took another puff of my cigar, before clenching my fist. See, when I see a problem, I immediately try and think of how to fix it. That's why I became a private eye in the first place. At first it was for the victims — yes, I used to really care about those things, "helping" people and all that. These days? The only thing that keeps me going is alcohol and bitterness. I don't do this for the victims anymore — no, it's the hate that drives me, the desire for revenge, for justice, for SOMETHING to be done.*
+
+A private eye specializing in cases involving yanderes is hunting down yet another a deranged lovestruck kidnapper.
+
+### *My Little Sister is a Jealous Brat*
+{: .center}
+
+*<https://prompts.aidg.club/3546>*
+{: .center}
+
+![](https://files.catbox.moe/syy0d6.png)
+{: .center}
+
+>*"Lexi... what the fuck are you doing?" I gasp.*
+>
+>*"You don't need her, you have me. I'm prettier and I love you way more than she does, you know I do. We should be together, you and I. She doesn't deserve you!"*
+>
+>*"Lexi, stop it!" I snap, pushing her off of me. My hands are shaking though and she feels it.*
+>
+>*Lexi takes my hand in hers, pulling me to my feet, "Come on, big brother... let's go upstairs and play."*
+>
+>*I pull my hand away from her and step back, "Lexi, listen to me, you need to calm down, okay?"*
+>
+>*She shakes her head, "No, you don't understand. I'm tired of listening to her whine, I'm tired of hearing about how great she is. She doesn't deserve you, you should be with me, you should be mine. I want you to be with me forever." As much as I try to deny it, Lexi's words are having an effect on me. Her body language and tone of voice are convincing me; I feel myself being drawn into her spell.*
+>
+>*"I... I don't think we should do this..." I say feebly.*
+>
+>*"Please, just come upstairs with me and I'll show you how much I love you; Mom and Dad won't be back for hours. I promise it'll be our little secret."*
+>
+>*When I don't make any move to either follow or walk away, Lexi grabs my hand and begins tugging me toward the stairs. She leads me to her bedroom, which is decorated in pink and white and then pulls me over to the far wall by her bed. She turns to face me and places her hands on my chest, leaning in close.*
+>
+>*"Kiss me," she whispers, her breath warm against my face. "Kiss me with more passion than you ever kissed her."*
+
+When your little sister gets jealous of your girlfriend, there's only one course of action for her to take.
+
+### *Just Business*
+{: .center}
+
+*<https://prompts.aidg.club/3547>*
+{: .center}
+
+![](https://files.catbox.moe/i7i2aj.jpg)
+{: .center}
+
+>*Once I turned him down for some of his offers of more work, his demeanor changed. Sure, the compliments were still there, but they now held a certain edge to them, like he was slyly trying to put down whatever I mentioned I was doing at some point. It was around this time that he presented me with a new contract during one long overtime session, claiming it to be an exciting new opportunity to grow the company, help support my family better, yada yada. If he was pushing it this hard, there was some sort of catch to it, and yes, it had quite the catch: If I were to sign this contract, I would become Mr. Adams's "personal assistant", move in to his mansion, and for all intents and purposes follow his every command 24 hours a day, 7 days a week. The pay was a drastic step up from my current situation, but this was too much for me to take in, especially with only a few moments to think about it.*
+>
+>*So I turned him down, but that didn't deter him. In fact, he would just get even more intent. Now he would denigrate my work, always couching it in a tone implying that I'm just not fit for a secretary job, but could probably fit in better in a personal assistant job. Every few days, he'd put the contract on my desk, making me turn him down again, every time getting just a bit more insistent. Around this time, I was genuinely starting to worry that I would end up pressured into this job by hook or by crook, and Adams's actions weren't easing those worries in the slightest. Before long, he somehow learned of the familial troubles I had and made remarks about how money must be tight for me these days. He'd ask me if my friends were helping me out with this, which I had to answer in the negative, which he immediately took as an opportunity to start talking about how I don't need friends, all I need is the company. The company would see to me... if only I would sign that contract.*
+
+Being the secretary of a reclusive tech millionaire has its perks, but also its drawbacks. So while I'm making decent money, I find my hours getting longer and longer, with my boss taking up more and more of my free time. And all the while, he can't stop offering me a different job, some sort of personal servant gig. Combined with the way he looks at me sometimes... I worry.
+
+### *Harem with a catch*
+{: .center}
+
+*<https://prompts.aidg.club/3548>*
+{: .center}
+
+![](https://files.catbox.moe/9mvgjz.jpg)
+{: .center}
+
+>*"Gina, What the fuck is going on here?" James asked, feeling confused, heartbroken and flabbergasted.*
+>
+>*Gina shrugged her shoulders, her natural smile giving her an unnatural sense of ease as she says "I was breaking her in, like the others. I, uh, didn't expect you to be home so quickly. So...oops?" she giggled, winking at James.*
+>
+>*"'Oops'? What the fuck is going on? Why the hell do you have a dick and what did you do to Tawna?" James yelled, trying to sound steadfast despite Gina's casual demeanor intimidating him.*
+>
+>*Gina glanced over at the bed. Tawna was still on her back, legs spread wide, panting. She looked as gorgeous as James had imagined, though he hadn't ever imagined getting to see her like this, with his female, or rather hermaphroditic best friend's semen gushing out of her holes. Gina cleared her throat as she mumbled "Guess the cat's outta the bag, huh. Anyway, yeah. I was working on breaking her in for your harem."*
+>
+>*It took James a moment to process what Gina just said. His brows furrowed and he cocked his head as all he could utter was "Harem? What harem?"*
+
+Gina and James had gone through thick and thin for decades. He'd always considered her his best friend, a sister even. Or a true 'bro' if you will. It made it all the more painful to see her on his own bed, with his latest date Tawna, the latter of which was filled to the brim with what must've been dozens of loads.
+
+### *Dealing with a Yandere Elf*
+{: .center}
+
+*<https://prompts.aidg.club/3549>*
+{: .center}
+
+![](https://files.catbox.moe/7t01s8.jpg)
+{: .center}
+
+>*When I left her in the woods, I expected that to be the end of it. She could wipe her tears and go on with her life, and I'd go back to my adventuring lifestyle. Little did I know; there was more than a few months to come where the memories of that night would haunt me — as this girl continued to hunt me down over and over.*
+>
+>*Somehow, this damn fool elf girl had gotten the idea that we were destined to be together... all because I raped and violated her! She wouldn't leave me alone; like a rabid dog, she was constantly after me, constantly hunting me down in my everyday life, across cities and even countries, whereever my adventures take me, this crazy elf shows up!*
+>
+>*My life turned to absolute shit. I couldn't move without her trying to seduce me. She tried to steal my friends, she even tried to blackmail me over the sexual assault I had committed on her in the woods just so that I'd wind up with her. Now, I know what you are thinking, 'Anton, Lyanna is a beautiful elf girl, why not just take her?" Because this girl is fucking insane!*
+
+Respecting an elf is more dangerous than you think.
+
+### *The Yandere Handbook*
+{: .center}
+
+*<https://prompts.aidg.club/3553>*
+{: .center}
+
+![](https://files.catbox.moe/2b2k8u.jpg)
+{: .center}
+
+>*Thank you for purchasing this newly revised and expanded edition of the Handbook for the Obsessively Lovestruck Young Woman with Psychopathic Tendencies. Within these pages you will find the proven secrets, techniques, and strategies to make your beloved love you, and only you, forever.*
+
+A book full of helpful tips for those girls whose love goes more than a little too far.
+
+### *Slugging It Out*
+{: .center}
+
+*<https://prompts.aidg.club/3526>*
+{: .center}
+
+![](https://files.catbox.moe/hb5xi8.jpg)
+{: .center}
+
+>*"Don't worry poopsykins, I'll keep you safe! You're going to be my favorite pet, I promise, we're going to do such wonderful things together. I have needs though, my sweet, womanly needs. But you'll find out all about that later, when I'm ready to be sated." The slug queen cooed into Keith's ear.*
+>
+>*"No, I'm sorry Queen Borbax, but I'm not interested. I've got a girlfriend who I need to get back to right now," Keith stammered, trying to extricate himself from the slug's embrace. The slug queen seemed disappointed at first, but soon smothered him with even more affection, and pressed her slimy lips against his own.*
+>
+>*"Oh poopsykins, you don't understand what's happening, this is the beginning of our new life together! You can't resist your destiny now, the fate of humanity depends on it!" The slug queen crooned.*
+>
+>*Keith was overwhelmed with emotion as the slug monster continued to hold him close, her slimy, quivering body pressing up against his. He could feel the uneven struggles of the numerous, live women inside the creature's abdomen, and was overcome by the feeling that he might be one of them in an instant.*
+
+Sometimes a nice, cool beverage is the only thing that can alleviate a hot and steamy situation.
+
+### *I Love My Wife*
+{: .center}
+
+*<https://prompts.aidg.club/3558>*
+{: .center}
+
+![](https://files.catbox.moe/fpirv5.jpg)
+{: .center}
+
+>*I love my wife very, very much. I make sure to tell her as much whenever I say anything to her. I knew we were perfect soulmates who would spend our entire lives together before I even knew her name, because she told me such the first time we were alone in her basement. She already knew everything about me, even how I walked home alone from school. In that undercroft she won me over in a whirlwind romance as I came to understand the new way of things, the depths of her love and the central importance she had in my life. When I proved I was worthy of having my chains loosened and being given almost entirely free rein to roam the house, she made me understand in crystal clarity, that there was nothing in the world that should come before spending my whole life with her.*
+
+The yandere got her Senpai.
 
 ***
 
