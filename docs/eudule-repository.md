@@ -23,6 +23,13 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(23rd April, 2022)
+
+- Added [Light Novel Title Generator](#light-novel-title-generator) module.
+- Added [Imouto](#imouto) module.
+- Added [Muscular Females](#muscular-girls) module.
+- Added [Excessive Cum](#excessive-cum) module.
+
 (12th April, 2022)
 
 - Added [Knotting](#knotting) module.
@@ -80,10 +87,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Hyper Futa Excessive Semen](#hyper-futa) module.
 - Added [Erotic Horror](#erotic-horror) module.
 - Updated [Touhou Project](#touhou-project) module with smaller successor.
-
-(11th March, 2022)
-
-- Added [Touhou Project](#touhou-project) module.
 
 ***
 
@@ -218,9 +221,11 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Giantesses](#giantesses)
       - [Good Girls](#good-girls)
       - [Hyper Futa](#hyper-futa)
+      - [Imouto](#imouto)
       - [Judy Hopps](#judy-hopps)
       - [Loli/Shota](#lolishota)
       - [Monster Girls](#monster-girls)
+      - [Muscular Girls](#muscular-girls)
       - [Non-Humans](#non-humans)
       - [Sergals](#sergals)
       - [Shortstacks](#shortstacks)
@@ -245,6 +250,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Dad on Son](#dad-on-son)
       - [Eroguro](#eroguro)
       - [Erotic Horror](#erotic-horror)
+      - [Excessive Cum](#excessive-cum)
       - [Feminization](#feminization)
       - [Forced Bi/Gay](#forced-bigay)
       - [Furry](#furry)
@@ -336,6 +342,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [The Guy Fieri Menu Item Generator Module](#the-guy-fieri-menu-item-generator-module)
   - [Dscryb](#dscryb)
   - [Light Novel Blurb Generator](#light-novel-blurb-generator)
+  - [Light Novel Title Generator](#light-novel-title-generator)
   - [Michael Jackson Lyrics](#michael-jackson-lyrics)
   - [Movie Plots](#movie-plots)
   - [Online Hell Tweet Generator](#online-hell-tweet-generator)
@@ -2935,6 +2942,12 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 
 ![example](https://files.catbox.moe/clbluc.jpg)
 
+##### [Imouto](https://files.catbox.moe/9976si.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/381208591/#381244583)
+
+Here's an imouto focused loli module I trained on some of my NAI stories at 100% for 690 steps with an average loss of 2.1173. Most of the stories involve little sisters.
+
 ##### [Judy Hopps](https://files.catbox.moe/bbbd54.module)
 
 [by GhostWriter](https://discord.com/channels/854479693503660032/939950910690439179/953177198804750386)
@@ -2967,6 +2980,17 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 ***Tags:** Third Person, Monster Girl*
 
 ***Note:** This was not made by me! I am uploading this for an anonymous user.*
+
+##### [Muscular Girls](https://files.catbox.moe/fcvu1r.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/381208591/#381247753)
+
+*Anons, I have something for you. I didn't thought this module would work well, but god damn, it did.*
+
+*It's trained on some AO3 muscular female stories. And what can I say? It does the work for me.*
+
+![example](https://files.catbox.moe/v32zn4.png)
+{: .center}
 
 ##### [Non-Humans](https://anonfiles.com/7dKeedW0xb/Monster_girls_and_other_non-humans_Hora_hora_2._module)
 
@@ -3303,6 +3327,18 @@ Final training data, merged, fully cleaned: <https://files.catbox.moe/5kjbkh.zip
 >A man stepped forward holding a large silver bowl containing water. He dipped his fingers into it then held out two slim white arms toward the kneeling women. They rose unsteadily to their feet and allowed themselves to be led across the room. As they approached the altar, their faces glowed red, flushed with excitement. Their lips were moist and parted slightly. Their breathing quickened.
 >
 >They knelt before the altar, each facing the other. One reached up and grasped the hand of the woman beside her. Together they leaned forward until their foreheads touched. Then, without hesitation or preamble, the taller woman lowered her head and pressed her lips against those of her companion. For several moments nothing happened. Slowly, though, the shorter woman's lips began to part. Soon they were locked together in a passionate embrace. Their tongues met and caressed one another. There was no sound save the soft moanings of pleasure. Finally, when the kiss had lasted so long that both women seemed ready to collapse from exhaustion, the taller woman broke away.
+
+##### [Excessive Cum](https://files.catbox.moe/am3rvn.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/381208591/#381371704)
+
+[100% coverage version](https://files.catbox.moe/orvrzg.module)
+
+*Yo, made a module focused on excessive cum.*
+
+*If this gets added to the module archive put these notes with it:*
+
+*\>Trained to 50% on 1mb of material. Surprisingly coherent, uses a mix of Futa/F and M/F for source material. Also a good module for worship shit.*
 
 ##### [Feminization](https://files.catbox.moe/4ut2v6.module)
 
@@ -4789,7 +4825,24 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 >Synopsis:
 >
 >It all started when I woke up with amnesia in a mysterious forest... Or at least, that's what I thought. Turns out, I actually died, but when I came back to life I found myself in some other dimension full of monsters! At first, I couldn't tell which way was up or down, but then I met a man who gave me a magic item that made my head clear right away. Unfortunately, it also showed me the true form of the giant demon that killed me—but hey, it's not like I had much of a choice, now did I?
-***
+
+### [Light Novel Title Generator](https://litter.catbox.moe/hsembm.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/380936757/#381066335)
+
+*Probably my last module until Kraig V2*
+
+*Normal Catbox is borked...*
+
+*Generate your own light novel titles such as;*
+
+>"I've Reached MAX LEVEL But Mom Won't Let Me Leave the House!!"
+
+>"My Hair Might Be Gone But I'll Never Stop Trying To Become A Hero!"
+
+*and*
+
+>"My Little Sister Can't Become an Assassin Because She's Too Cute."
 
 ### [Michael Jackson Lyrics](https://files.catbox.moe/39ix7t.module)
 
