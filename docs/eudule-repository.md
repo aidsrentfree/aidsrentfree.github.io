@@ -4826,13 +4826,11 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 >
 >It all started when I woke up with amnesia in a mysterious forest... Or at least, that's what I thought. Turns out, I actually died, but when I came back to life I found myself in some other dimension full of monsters! At first, I couldn't tell which way was up or down, but then I met a man who gave me a magic item that made my head clear right away. Unfortunately, it also showed me the true form of the giant demon that killed me—but hey, it's not like I had much of a choice, now did I?
 
-### [Light Novel Title Generator](https://litter.catbox.moe/hsembm.module)
+### [Light Novel Title Generator](https://files.catbox.moe/53ranj.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/380936757/#381066335)
 
 *Probably my last module until Kraig V2*
-
-*Normal Catbox is borked...*
 
 *Generate your own light novel titles such as;*
 
