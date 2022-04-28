@@ -358,7 +358,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 ## The Friday of *Witchcraft*
 {: .center}
 
-Let's make prompts about the double, double toil and trouble; fire burns and the caldron bubbles.
+Let's make prompts about the double, double toil and trouble; fire burns and the cauldron bubbles.
 {: .center}
 
 ***(Witches + Magical Disasters)***
