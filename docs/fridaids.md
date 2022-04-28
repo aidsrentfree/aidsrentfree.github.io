@@ -33,6 +33,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 - [Rules](#rules)
 - [The Log](#the-log)
+- [The Friday of *Witchcraft*](#the-friday-of-witchcraft)
 - [The Friday of *Yanderes*](#the-friday-of-yanderes)
   - [*Skin to Skin(walker)*](#skin-to-skinwalker)
   - [*My girlfriend has been acting a bit possessive lately*](#my-girlfriend-has-been-acting-a-bit-possessive-lately)
@@ -351,6 +352,17 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Your Daughter will Do Anything to Have You Back*](#your-daughter-will-do-anything-to-have-you-back)
   - [*Ben and Gwen Tennyson in: Omnifriks*](#ben-and-gwen-tennyson-in-omnifriks)
   - [*Goblin girl in Heat*](#goblin-girl-in-heat)
+
+***
+
+## The Friday of *Witchcraft*
+{: .center}
+
+Let's make prompts about the double, double toil and trouble; fire burns and the caldron bubbles.
+{: .center}
+
+[29th April, 2022](#the-log)
+{: .center}
 
 ***
 
