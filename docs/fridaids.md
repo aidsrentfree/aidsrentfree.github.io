@@ -361,6 +361,9 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 Let's make prompts about the double, double toil and trouble; fire burns and the caldron bubbles.
 {: .center}
 
+***(Witches + Magical Disasters)***
+{: .center}
+
 [29th April, 2022](#the-log)
 {: .center}
 
