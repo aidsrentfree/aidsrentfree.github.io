@@ -43,7 +43,6 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Whatever Will Happen to Cashmere the Witch in One Day*](#whatever-will-happen-to-cashmere-the-witch-in-one-day)
   - [*An Ill-advised Experiment*](#an-ill-advised-experiment)
   - [*Wings Clipped by Shame*](#wings-clipped-by-shame)
-  - [*Title*](#title)
 - [The Friday of *Yanderes*](#the-friday-of-yanderes)
   - [*Skin to Skin(walker)*](#skin-to-skinwalker)
   - [*My girlfriend has been acting a bit possessive lately*](#my-girlfriend-has-been-acting-a-bit-possessive-lately)
@@ -563,19 +562,6 @@ Having brought supplies to the witch, Rania, she invites you in for some tea. Wh
 >*Unused to such adoration, Naranya faltered for a moment before realizing they must be enamored with her new spell. As a result, she had been given a boisterous reception of eager, drunken applause and shouting for her to continue. Still, something seemed off. When she lit those torches, she felt like something was missing. Right, her talon was bare of her magic rings! The raven witch looked down at… her naked breasts?*
 
 Cocky raven witch accidentally shows up naked to a magic show.
-
-### *Title*
-{: .center}
-
-*<>*
-{: .center}
-
-![]()
-{: .center}
-
->*quote*
-
-desc
 
 ***
 
