@@ -25,6 +25,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 (29th April, 2022)
 
+- Added (and then updated) [The 36 Lessons of Vivec](#the-36-lessons-of-vivec) module.
 - Added [Pokephilia](#pokephilia) module.
 - Updated [All The Shit I Wrote](#all-the-shit-i-wrote) module.
 - Added [Far Future Science Fantasy](#far-future-science-fantasy) module.
@@ -34,7 +35,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Futa League of Legends](#league-of-futas) module.
 - Added [Columbo Book Series](#columbo) module.
 - Added [Dagoth Ur](#dagoth-ur) module.
-- Added [The 36 Lessons of Vivec](#the-36-lessons-of-vivec) module.
 
 (23rd April, 2022)
 
@@ -2021,11 +2021,13 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 
 #### [Things](#elements)
 
-##### [The 36 Lessons of Vivec](https://files.catbox.moe/12k7ap.module)
+##### [The 36 Lessons of Vivec](https://files.catbox.moe/so9pvy.module)
 
-[by Anon](https://arch.b4k.co/vg/thread/381943814/#382072919)
+[by Anon](https://arch.b4k.co/vg/thread/381943814/#382251360)
 
 *I might as well post my (also overtrained) [36 Sermons](https://en.uesp.net/wiki/Morrowind:The_36_Lessons_of_Vivec) module.*
+
+>The king's son, the one with the red hair and the golden eyes, was given to a temple of the gods. His father's new wife, the one with the black hair and the silver eyes, had come from an ancient family of sorcerers who worshiped the dark goddess. She thought it would be fun to put her husband's son in a cage, feed him once a day, and let the priests of the dark goddess play with him. They called themselves the Black-Eyed Men. The boy grew very fast. He learned many things, and he grew very strong. The priests were afraid they might not be able to control him if he ever got out of the cage. So they gave him a name that meant 'the one who will destroy all.' They made him into a warrior so powerful that no one could stand against him. Then they taught him how to fight, and told him his purpose: to kill the man who killed his father, the man who married his mother, and the woman who brought him into this world.
 
 ##### [Annotated Tech](https://files.catbox.moe/nxto4y.module)
 

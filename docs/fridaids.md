@@ -42,6 +42,8 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Spellbound*](#spellbound)
   - [*Whatever Will Happen to Cashmere the Witch in One Day*](#whatever-will-happen-to-cashmere-the-witch-in-one-day)
   - [*An Ill-advised Experiment*](#an-ill-advised-experiment)
+  - [*Wings Clipped by Shame*](#wings-clipped-by-shame)
+  - [*Title*](#title)
 - [The Friday of *Yanderes*](#the-friday-of-yanderes)
   - [*Skin to Skin(walker)*](#skin-to-skinwalker)
   - [*My girlfriend has been acting a bit possessive lately*](#my-girlfriend-has-been-acting-a-bit-possessive-lately)
@@ -544,6 +546,36 @@ Cashmere the Witch, a wonderful, shy, but incredibly talented witch who practice
 >*I swallowed thickly—not liking the way the liquid felt in my throat, nor the feeling of uneasiness that came over me. "What was in my tea?"*
 
 Having brought supplies to the witch, Rania, she invites you in for some tea. What your friend neglected to mention was that she'd slipped an experiment of hers into it.
+
+### *Wings Clipped by Shame*
+{: .center}
+
+*<https://prompts.aidg.club/3604>*
+{: .center}
+
+![](https://files.catbox.moe/lotbb6.jpg)
+{: .center}
+
+>*A scattered few people milled around the square, drinking cheap ale or passing around a jug of some nameless moonshine concoction. Most of them were bleary-eyed and lolling about, but a few seemed like they already caught sight of her arrival. The raven slowly arced downward with clumsy, drawn-out flaps, betraying her inexperience. Upon reaching the ground, Naranya landed clumsily on the splintered boards of the wooden stage, barely managing to keep herself upright. Several amused laughs rang out around her as she awkwardly teetered about, balancing on two short legs after being accustomed to her full height.*
+>
+>*She looked away and chirped awkwardly before releasing her transformation in what was akin to a magical exhale. Once again, her body twisted and wriggled as it flowed back into its natural shape, reverting to her original stature as she gestured with a magical flourish, igniting a few nearby torches and illuminating her figure in a soft, orange glow. The moment she was fully back in her proper form, the crowd erupted into raucous cheers and applause, quickly becoming rowdier as other townsfolk began to appear.*
+>
+>*Unused to such adoration, Naranya faltered for a moment before realizing they must be enamored with her new spell. As a result, she had been given a boisterous reception of eager, drunken applause and shouting for her to continue. Still, something seemed off. When she lit those torches, she felt like something was missing. Right, her talon was bare of her magic rings! The raven witch looked down at… her naked breasts?*
+
+Cocky raven witch accidentally shows up naked to a magic show.
+
+### *Title*
+{: .center}
+
+*<>*
+{: .center}
+
+![]()
+{: .center}
+
+>*quote*
+
+desc
 
 ***
 
