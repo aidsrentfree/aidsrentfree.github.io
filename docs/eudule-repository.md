@@ -23,6 +23,16 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(29th April, 2022)
+
+- Added [Pokephilia](#pokephilia) module.
+- Updated [All The Shit I Wrote](#all-the-shit-i-wrote) module.
+- Added [Far Future Science Fantasy](#far-future-science-fantasy) module.
+- Added [Time Loops](#time-loops) module.
+- Added [Proverbs and Sayings](#proverbs-and-sayings) module.
+- Added [Xenogears](#xenogears) module.
+- Added [Futa League of Legends](#league-of-futas) module.
+
 (23rd April, 2022)
 
 - Added [Light Novel Title Generator](#light-novel-title-generator) module.
@@ -76,17 +86,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Judy Hopps](#judy-hopps) module.
 - Added [Tentacles](#tentacles) module.
 - Added [Feminization](#feminization) module.
-
-(14th March, 2022)
-
-- Updated [Fallout: New Vegas](#fallout-new-vegas) module with 1280 context successor.
-- Added [Will Wright](#will-wright) module.
-- Added [Cradle Series](#cradle-series) module.
-- Added [Isekai](#isekai) module.
-- Added [Raunchy Shoddy (it's scat)](#scat) module.
-- Added [Hyper Futa Excessive Semen](#hyper-futa) module.
-- Added [Erotic Horror](#erotic-horror) module.
-- Updated [Touhou Project](#touhou-project) module with smaller successor.
 
 ***
 
@@ -157,10 +156,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Vampire: The Masquerade](#vampire-the-masquerade)
       - [Warrior Cats: Universe](#warrior-cats-universe)
       - [World of Pokemon](#world-of-pokemon)
+      - [Xenogears](#xenogears)
     - [Generic](#generic)
       - [Cyberpunk (Annotated)](#cyberpunk-annotated)
       - [Desert Fantasy and Folklore](#desert-fantasy-and-folklore)
       - [Elizabethan Fantasy](#elizabethan-fantasy)
+      - [Far Future Science Fantasy](#far-future-science-fantasy)
       - [The Great War](#the-great-war)
       - [In The Fields](#in-the-fields)
       - [Isekai](#isekai)
@@ -197,6 +198,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Forbidden Lands (Random Encounters)](#forbidden-lands-random-encounters)
       - [LitRPG](#litrpg)
       - [Natural Horror](#natural-horror)
+      - [Time Loops](#time-loops)
       - [Tsundere Dialogue](#tsundere-dialogue)
       - [Video Games](#video-games)
     - [Styles](#styles)
@@ -217,6 +219,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Changelings](#changelings)
       - [Cougars](#cougars)
       - [Dragons](#dragons)
+      - [League of Futas](#league-of-futas)
       - [Khajit and Argonians](#khajit-and-argonians)
       - [Giantesses](#giantesses)
       - [Good Girls](#good-girls)
@@ -238,6 +241,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Hypnosis (Femsub)](#hypnosis-femsub)
       - [Knotting](#knotting)
       - [Longform Mind Control](#longform-mind-control)
+      - [Pokephilia](#pokephilia)
       - [Respect (Second Person)](#respect-second-person)
       - [Scat](#scat)
       - [Score](#score)
@@ -346,6 +350,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Michael Jackson Lyrics](#michael-jackson-lyrics)
   - [Movie Plots](#movie-plots)
   - [Online Hell Tweet Generator](#online-hell-tweet-generator)
+- [Proverbs and Sayings](#proverbs-and-sayings)
   - [Rhyme and Poetry](#rhyme-and-poetry)
   - [Wikipedia](#wikipedia)
   - [Yu-Gi-Oh Cards](#yu-gi-oh-cards)
@@ -1250,6 +1255,22 @@ And another one. Whoa, it actually picked up on the fact that youkai have resurr
 
 ***Note:** I do recommend a slight bias against Flareon and trainer*
 
+##### [Xenogears](https://files.catbox.moe/rbipmw.module)
+
+[by Incognit0ErgoSum](https://discord.com/channels/836774308772446268/939922436500107314/969285674798809189)
+
+*A module trained on the Xenogears script as well as a few fanfics so it doesn't forget how to write in prose.*
+
+>Billy glanced at Citan. "Are you sure about this?" he asked. Billy was right to be concerned. He could not tell whether Citan actually had the power to do such a thing, or if it was just an act.
+>
+>Citan nodded as he stood up and walked over to the door. "I'm sure," he said with a confident smile on his face. "You'll see."
+>
+>The door opened and Citan stepped out into the corridor. There were no guards around; they must have been inside their rooms. Citan took off down the hall towards the elevators.
+>
+>"Wait! You can't go alone!" Billy yelled after him, but he couldn't stop Citan from leaving. The elevator doors closed before he could even finish saying anything else. Billy turned to the others and sighed. "Looks like we're going in alone," he muttered under his breath.
+>
+>Fei looked at the other Gears. He could feel the tension running through them all. They all knew that Citan's plan might fail, or worse, it could result in Citan's death. "I don't think we should let Citan do this by himself. If anything happens to him..." His voice trailed off and he stared vacantly at the ground.
+
 #### [Generic](#setting)
 
 ##### [Cyberpunk (Annotated)](https://files.catbox.moe/m7j93y.module)
@@ -1402,6 +1423,17 @@ And another one. Whoa, it actually picked up on the fact that youkai have resurr
 >She hath a heart of gold, my lord,
 >
 >A heart that never is sad.
+
+##### [Far Future Science Fantasy](https://files.catbox.moe/791aag.module)
+
+[by lion](https://arch.b4k.co/vg/thread/381623576/#381721605)
+
+*I know Science Fantasy was more relevant yesterday what with the deck deadline but this isn't a card anyway.*
+
+*Here's a Far Future Science Fantasy module I also just posted on [the NAI discord](discord.com/channels/836774308772446268/939922436500107314/968205697093353522)*
+
+*It's around 50 MB of works which take place far in the future or across time, focusing on humanity's histo-cultural evolution and dying earth themes. Not in any way nasuverse related but w/e
+Special thanks to anon who made this possible.*
 
 ##### [The Great War](https://files.catbox.moe/ke8xa6.module)
 
@@ -2219,6 +2251,19 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 >
 >My brain, normally so quick, had shut down; all I could think about was running away from this thing, but I couldn't move my feet.
 
+##### [Time Loops](https://files.catbox.moe/27eu14.module)
+
+[by pume_](https://discord.com/channels/836774308772446268/939922436500107314/968227681021882378)
+
+*Have you ever die over and over again? I mean- pft- groundhog day- never watch it? you should. basically you stuck in some sort of time frame and having to relive it over and over again.*
+
+***Source Material:** Euterpe v2, 2.21mb, 5 .txt, 2589 steps, 100% coverage, 2.7422 loss.*
+- The Seven Deaths of Evelyn Hard
+- The First Fifteen Lives of Harr
+- Replay
+- Allochthon
+- All You Need Is Kill
+
 ##### [Tsundere Dialogue](https://files.catbox.moe/abwkde.module)
 
 [by lion](https://discord.com/channels/836774308772446268/939922436500107314/942968719104168007)
@@ -2278,15 +2323,15 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 
 #### [Styles](#elements)
 
-##### [All The Shit I Wrote](https://files.catbox.moe/s8auby.module)
+##### [All The Shit I Wrote](https://files.catbox.moe/3fe8ff.module)
 
-[by Anon](https://arch.b4k.co/vg/thread/373644395/#373702801)
+[by Anon](https://arch.b4k.co/vg/thread/381623576/#381684224)
 
-*Well, fuck, I guess since you asked, I might as well post it, but don't expect miracles.*
+*Well, since I posted the last version of this, I might as well post this new version too.*
 
-*So yeah, I guess you can call this version 3 of gayanon's "All The Shit I Wrote" module, trained on just under 1 MB of text that I've penned over the years and collected. In my experience, there are two things notable about it: A predisposition towards male characters (go figure) and baseball. I don't even know if it gets my writing style because I of course don't fucking know my own writing style, it's just how I write naturally.*
+*Version 4 of "All The Shit I Wrote", AKA the gayanon module, now trained on about 192K words of my collected writings. I'm not sure what changed between versions of the module, since all I added was two months of assorted prompts I wrote, and empty prompt generations will still almost always go towards baseball in some way or another.*
 
-*There is a part of me that is genuinely curious if there's some sort of other notable thing about it, but I doubt it. The subject matter across the training material is very diluted.*
+*I'm not sure what exactly one would use this module for, so for those willing to experiment and fuck around with things, here's something to give a shot. I'm genuinely curious, which is why I trained this module in the first place.*
 
 ##### [Contemporary Poetry](https://files.catbox.moe/fck5oo.module)
 
@@ -2862,6 +2907,12 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 
 *Since somebody else is apparently using this one, I'll note it works better with a higher randomness preset, as few of those there are at the moment.*
 
+##### [League of Futas](https://files.catbox.moe/yw71p6.module)
+
+[by Coffee~](https://discord.com/channels/854479693503660032/939950910690439179/968570268253573200)
+
+*So a while back I made a module trained on a few stories about futa league of legends characters... Mostly non-con heavy themes, and mostly just about Ahri enslaving a few characters in the league. Probably not anything too quality and trained on limited amount of material, but it worked well for me last few months. Thought I might as well share it.*
+
 ##### [Khajit and Argonians](https://files.catbox.moe/rnp45m.module)
 
 [by ScalyWanderer](https://discord.com/channels/854479693503660032/939950910690439179/943335271737462785)
@@ -3171,6 +3222,14 @@ Description: Remake of a Sigurd module for Euterpe.
 A module made of a collection of 3 of my favorite long-form/slow-burn mind control stories from Fiction.Live. All of them are in 2nd person. 2.85k steps, ~100% coverage.
 
 ***Tags:** mind control, long-form, slow-burn, 2nd person*
+
+##### [Pokephilia](https://files.catbox.moe/4xwqyv.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/381623576/#381647501)
+
+*Here's this Pokephilia module I threw together.*
+
+*~2mb trained to 200%, it's working good so far. Should work for gay and straight stuff.*
 
 ##### [Respect (Second Person)](https://files.catbox.moe/pwihg8.module)
 
@@ -4944,6 +5003,38 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 >(after 15 mins)
 >
 >i felt some rumbly in my stomach.
+
+## [Proverbs and Sayings](https://files.catbox.moe/b1pmqp.module)
+
+[by rari 🌙](https://discord.com/channels/836774308772446268/939922436500107314/968868987033227364)
+
+*Proverbs and sayings generator. Trained on 250kb worth of random proverbs and sayings.*
+
+>A thousand years is the time that one day is long.<br>
+>\*\*\*<br>
+>One word may change the fate of a nation.<br>
+>\*\*\*<br>
+>A single moment can change your destiny forever.<br>
+>\*\*\*<br>
+>It is not what you are born with but how much you have learnt along the way that matters in the end.<br>
+>\*\*\*<br>
+>To get to where we want to be, it takes time and effort; to stay there takes commitment and love.<br>
+>\*\*\*<br>
+>A good wife is better than one hundred sons.<br>
+>\*\*\*<br>
+>The most powerful tool for world peace is love.<br>
+>\*\*\*<br>
+>If you keep a bird in your garden, it will eventually eat all the worms from the ground.<br>
+>\*\*\*<br>
+>Do not seek love as though it were a bird. If it comes, it will come to you without wings.<br>
+>\*\*\*<br>
+>Love is like a mountain, too big to be climbed by a small man.<br>
+>\*\*\*<br>
+>What does not kill us makes us stronger.<br>
+>\*\*\*<br>
+>The man who looks up when he is afraid is wise, but the man who stays down is a coward.<br>
+>\*\*\*<br>
+>There is no shortcut to success; you have to walk the path yourself.<br>
 
 ### [Rhyme and Poetry](https://files.catbox.moe/o1bsiu.module)
 
