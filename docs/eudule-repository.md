@@ -32,6 +32,9 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Proverbs and Sayings](#proverbs-and-sayings) module.
 - Added [Xenogears](#xenogears) module.
 - Added [Futa League of Legends](#league-of-futas) module.
+- Added [Columbo Book Series](#columbo) module.
+- Added [Dagoth Ur](#dagoth-ur) module.
+- Added [The 36 Lessons of Vivec](#the-36-lessons-of-vivec) module.
 
 (23rd April, 2022)
 
@@ -181,6 +184,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Zombie Apocalypse](#zombie-apocalypse)
   - [Elements](#elements)
     - [Things](#things)
+      - [The 36 Lessons of Vivec](#the-36-lessons-of-vivec)
       - [Annotated Tech](#annotated-tech)
       - [Cynthia (Pokemon)](#cynthia-pokemon)
       - [Female Wrestling](#female-wrestling)
@@ -282,6 +286,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Modern](#modern)
       - [Altered Carbon](#altered-carbon)
       - [Bridgerton](#bridgerton)
+      - [Columbo](#columbo)
       - [Cradle Series](#cradle-series)
       - [Discworld](#discworld)
       - [Discworld Watch Series](#discworld-watch-series)
@@ -331,6 +336,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Worm](#worm)
   - [Scripts](#scripts)
     - [10th Doctor Transcripts](#10th-doctor-transcripts)
+    - [Dagoth Ur](#dagoth-ur)
     - [Arrested Development](#arrested-development)
     - [Disco Elysium](#disco-elysium)
     - [F.R.I.E.N.D.S.](#friends)
@@ -2014,6 +2020,12 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 ### [Elements](#themes)
 
 #### [Things](#elements)
+
+##### [The 36 Lessons of Vivec](https://files.catbox.moe/12k7ap.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/381943814/#382072919)
+
+*I might as well post my (also overtrained) [36 Sermons](https://en.uesp.net/wiki/Morrowind:The_36_Lessons_of_Vivec) module.*
 
 ##### [Annotated Tech](https://files.catbox.moe/nxto4y.module)
 
@@ -3770,6 +3782,18 @@ Description:  Trained on the Bridgerton series (Books 1-8).
 >
 >She squeezed his hand. She had no answers for him, and so she said nothing, but he felt better having her there.
 
+##### [Columbo](https://files.catbox.moe/har0zx.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/381943814/#381944454)
+
+*I used the novels to make a Columbo module!*
+
+*Trained on the six Columbo books by William Harrington; cleaned and trained to 100% for 2250 steps.*
+
+![example](https://files.catbox.moe/0hvcjx.png)
+{: .center}
+
+
 ##### [Cradle Series](https://files.catbox.moe/rpsuvf.module)
 
 [by Neverside](https://discord.com/channels/836774308772446268/939922436500107314/951303816144359434)
@@ -4453,6 +4477,14 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 >DOCTOR: All right then, let's see how long it takes you to kill me.
 >
 >(The Doctor kicks the controls at the base of the Cyberman's neck, sending it reeling backwards.)
+
+#### [Dagoth Ur](https://files.catbox.moe/kblxjk.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/381943814/#382072196)
+
+*because of you fucking weirdos I burned some steps on this, module on all his voicelines.*
+
+*BTW there's also <https://aidsrentfree.github.io/modules/euterpe#the-elder-scrolls-in-game-texts> which is way better and I did not make. Use that instead, you fool.*
 
 #### [Arrested Development](https://files.catbox.moe/j9mzcq.module)
 
