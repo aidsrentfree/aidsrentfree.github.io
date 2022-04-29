@@ -34,6 +34,14 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 - [Rules](#rules)
 - [The Log](#the-log)
 - [The Friday of *Witchcraft*](#the-friday-of-witchcraft)
+  - [*Wicked Witch of the Beast*](#wicked-witch-of-the-beast)
+  - [*Witch's Price*](#witchs-price)
+  - [*Practice Makes Perfect*](#practice-makes-perfect)
+  - [*The Last Ingredient*](#the-last-ingredient)
+  - [*Aini's failed summoning*](#ainis-failed-summoning)
+  - [*Spellbound*](#spellbound)
+  - [*Whatever Will Happen to Cashmere the Witch in One Day*](#whatever-will-happen-to-cashmere-the-witch-in-one-day)
+  - [*An Ill-advised Experiment*](#an-ill-advised-experiment)
 - [The Friday of *Yanderes*](#the-friday-of-yanderes)
   - [*Skin to Skin(walker)*](#skin-to-skinwalker)
   - [*My girlfriend has been acting a bit possessive lately*](#my-girlfriend-has-been-acting-a-bit-possessive-lately)
@@ -358,7 +366,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 ## The Friday of *Witchcraft*
 {: .center}
 
-Let's make prompts about the double, double toil and trouble; fire burns and the cauldron bubbles.
+Let's make prompts about the double, double toil and trouble; fire burns and cauldron bubbles.
 {: .center}
 
 ***(Witches + Magical Disasters)***
@@ -366,6 +374,176 @@ Let's make prompts about the double, double toil and trouble; fire burns and the
 
 [29th April, 2022](#the-log)
 {: .center}
+
+### *Wicked Witch of the Beast*
+{: .center}
+
+*<https://prompts.aidg.club/3584>*
+{: .center}
+
+![](https://files.catbox.moe/0mdanb.jpg)
+{: .center}
+
+>*There's trash strewn all over my front porch and several bags have been torn open by some sort of animal. The moment that I turn my flashlight on, I'm greeted to the sight of something large scurrying behind a trash can that's been tipped over. I can see the silhouette of the animal as it pokes its head over the side of the can—it's a cat, a large fluffy black one. Her bright yellow eyes reflect off the light like two small spotlights as she stares right at me; she looks scraggly and disheveled, but definitely not like a stray. She's probably just lost and scared; letting her stay inside for one night wouldn't hurt too much, but in the morning I'll have to find out who she belongs to. I can hear her purring as I walk over to pick her up, she's clearly excited to see me; she doesn't even try to run off when I approach.*
+>
+>*Scooping the cat up in my arms, I carry her inside my house and place her down in the kitchen for the night. Then, as soon as I turn back around to close the door, I hear a deep, yet but feminine voice calling out from behind me, "Oh thank goodness, it was freezing out there!"*
+
+Estrus cycles can be a bitch,<br>
+Especially if you're just a witch!<br>
+
+Won't you just be a treat,<br>
+And help this cat out with her heat?
+
+### *Witch's Price*
+{: .center}
+
+*<https://prompts.aidg.club/3597>*
+{: .center}
+
+![](https://files.catbox.moe/i8dwj8.jpg)
+{: .center}
+
+>*"Now then, now that it's official I promise to save your pathetic village as soon as I get my payment. So run along to your village and fetch your child," She told me.*
+>
+>*I was confused about what she meant. I had thought it was a promise for my future child, like the stories I've heard as a child. I didn't think she wanted my child right away. Maria seemed to notice my confusion as her sinister expression softened.*
+>
+>*"Uh Ms. Maria, I don't... I don't have a child yet. I'm not even married," I explained nervously.*
+>
+>*"What!? Why would you promise me a child you don't have?" She asked angrily.*
+>
+>*"Well um, I thought it was just the promise to give you one someday," I replied.*
+>
+>*"That doesn't make any sense. Why would I do that?" She asked while rubbing her temples. "What if you never had a kid? Then I would have done all that work for free."*
+>
+>*"I'm sorry, this is my first time doing this sort of thing. I don't know how magic works," I said as I backed away from the angry witch.*
+>
+>*"That's for sure," She exclaimed as she grabbed the collar of my shirt. "That contract we just signed, well that was very binding. So if we don't fulfill our ends of the bargain it will be bad for both of us."*
+>
+>*"So, what should we do?" I asked looking down into furious eyes.*
+>
+>*Maria let out a sigh before loosening her grip on my shirt and saying, "I guess we have no choice."*
+
+A witch demand's your firstborn child as payment for saving your village, but what are you going to do when she demands her payment upfront.
+
+### *Practice Makes Perfect*
+{: .center}
+
+*<https://prompts.aidg.club/3598>*
+{: .center}
+
+![](https://files.catbox.moe/icnz5p.png)
+{: .center}
+
+>*"Now it's your turn," Hazel said as she turned to Eliza. "You should use the incantation, since you're still learning."*
+>
+>*"Right. The incantation..." Eliza said with her eyes still glued to her spellbook.*
+>
+>*Eventually Eliza stepped forward, pointed her wand at my head, and said, "Hocus Crocus, uhh... touch your toes... es..."*
+>
+>*Something happened, but I didn't lean forward again. A bright light flashed from the witch-in-training's oversized wand and a loud crackling noise filled the room. The light faded as quickly as it had appeared and the sound with it.*
+>
+>*"Touch your toeses?" I asked as I rubbed my eyes with my hands.*
+>
+>*Wait? I could move my hands? Just as I realized that, I saw both Eliza and Hazel bending over to touch their toes. Their dresses clung tight to their asses right before my eyes. Do I have control over these two beautiful ladies? I had to check...*
+>
+>*"Stand up," I commanded.*
+>
+>*The two witches stood up. Eliza glared at me with a look of defiance while Hazel seemed to be appraising the situation.*
+
+Life as a guinea pig for magical practice is great. At least it is when something goes wrong and you get control over two beautiful witches for the night.
+
+### *The Last Ingredient*
+{: .center}
+
+*<https://prompts.aidg.club/3599>*
+{: .center}
+
+![](https://files.catbox.moe/6wdnvq.png)
+{: .center}
+
+>*At this point, I can't quite suppress a slight blush as I tell her, "Well... I've got everything I need except... something called 'seed of virgin'. And I was kind of hoping that's something relating to a plant...?"*
+>
+>*Again, she laughs, then shakes her head. "Oh, no, Arvid. That's why I laughed earlier. Honestly, it's been a long time since they last used Potency in a potion challenge, so either this year's roster was set up by some ancient Archmage that longs for the good old days when those upstart youngsters didn't get free rides, or by some Rector in a remote university that hasn't updated his textbooks in a century. So, yes, when this ingredient list says 'seed of virgin', it does indeed mean that you need to acquire semen from some sort of creature that still counts as a 'virgin'. Don't ask me how to tell that, by the way, I don't think anybody's truly understood the magical properties of virginity yet," she explains, a more sly smile creeping onto her lips at my clear embarrassment. Just as I want to ask how exactly I'm supposed to tell whether somebody is a virgin or not, then, she turns around and starts digging through a nearby cupboard, muttering to herself.*
+>
+>*Eventually, she returns, holding a small flask and a sheet of paper, handing them to me. "Here you go, you're going to need this. This concoction, when mixed with the seed of a virgin, shows a strong reaction by bubbling up. When mixed with the seed of a non-virgin, it remains inert. So once you've, well, 'acquired' some semen you want to test, just take a small sample of it and mix it with this to check. I've given you the recipe for that concoction as well in case you run out, and thankfully, it's really easy to make. Happy hunting!"*
+
+After about a month of searching, I've finally acquired most of the ingredients for the potion I need to make for the wizarding license exam! Now, what's this last one... "seed of virgin"?
+
+### *Aini's failed summoning*
+{: .center}
+
+*<https://prompts.aidg.club/3600>*
+{: .center}
+
+![](https://files.catbox.moe/wjmzvs.png)
+{: .center}
+
+>*Despite the contempt Aini felt at the teacher's demand — which was put into writing and signed by the head master's secretary — she had to admit that the constant oozing of her nose and mouth was concerning. Once the rookie witch arrived at her dorm room she decided to try a cleansing ritual she read about once.*
+>
+>*As soon as that thought manifested Aini could feel her lips move on their own, her voice box twisting as something forced her to say "I wouldn't do that if I were you," in her own voice. But Aini couldn't even process those words, the sensation of having her voice used like that threw her into a coughing fit so bad she had to sit on her desk, in front of her dressing mirror.*
+>
+>*The coughing fit passed eventually, leaving Aini's throat and lungs burning with a dull pain. She sat up slowly, leaning back with her eyes pressed shut before she lurched onto her desk, staring at herself in the mirror. What the witch's reflection showed made her sit up straighter. The sclera of Aini's left eye had yellowed completely; not just a yellowish white but a filthy, sludgy yellow, much like the slime-girl Inia's body.*
+>
+>*The left half of Aini's lips curved into a sickly smile as she again her herself say "What, you didn't expect me to just vanish, right? You have only yourself to blame for letting me possess you."*
+
+Aini isn't just a fan of lace and lolita fashion, she has a knack for the occult to boot! Well, she likes it but she never reads the boring safety instructions. Who needs those anyway? The slime-girl she summoned into herself certainly doesn't mind.
+
+### *Spellbound*
+{: .center}
+
+*<https://prompts.aidg.club/3601>*
+{: .center}
+
+![](https://files.catbox.moe/eqbt7o.jpg)
+{: .center}
+
+>*They said she could cast curses on people with a glance, or even control them like puppets using a voodoo doll she kept on her at all times. To most, she was a child born of pure sin and hatred.*
+>
+>*But I took those rumors as they were—rumors. Veronica may have had a wardrobe taken straight from a graveyard, but it didn’t mean she was evil. In fact, the gothic girl had more class than most of us. Veronica never lashed out at anyone. She was always calm and collected. Fierce in her rebuttals sometimes, but never mean-spirited or malicious. I couldn’t believe she was the same person who caused such fear and panic in so many people.*
+>
+>*Having said that, what if I told you it was all true? That Veronica really did worship the devil; that she wasn’t just an innocent girl trying to fit in, but a powerful witch with a deep connection to the darkness? What if I told you she could bring harm to those around her with a single glance, or even a wave of her hand? Would you believe me?*
+>
+>*Well, I didn't. And unfortunately, I'm facing the consequences.*
+
+I didn't believe the rumors surrounding Veronica. I mean, a witch? Were people living in the 1600s or something? It was stupid to even think such a thing.
+
+But not everything has to make sense, now does it?
+
+### *Whatever Will Happen to Cashmere the Witch in One Day*
+{: .center}
+
+*<https://prompts.aidg.club/3602>*
+{: .center}
+
+![](https://files.catbox.moe/r3cv3r.jpg)
+{: .center}
+
+>*In one day, Cashmere the Witch will be swept away into the future. She will have concocted a "potion of future sight", thinking that she was doing it for the grand possibility of glimpsing into her own destiny. Of course, she shall be completely correct: She will see her future, but after her first few moments of blissful joyous success, her smile would fade. Like a druggie who has taken a hot dose, the apex of happiness and elation becomes an endless and crushing nightmare instead as she experiences an infinite expanse of possible futures. The reason she comes to this conclusion in one day is simple: Fathoming all of those possibilities, exploring what will and what won't happen, what could happen and what should not ever happen, all at once, rips a linear mind away from where they were. For Cashmire, her single moment of the future in one day shall be the only future she will experience, forever.*
+
+Cashmere the Witch, a wonderful, shy, but incredibly talented witch who practices alchemy and other things the modern would would scoff at. Her dreams of becoming big culminate in the potion of future sight, and the rest is history. Or should I say, the rest is the future of a point in the past chosen to lay out the deterministically decided events that ruined Cashmere's life.
+
+### *An Ill-advised Experiment*
+{: .center}
+
+*<https://prompts.aidg.club/3603>*
+{: .center}
+
+![]()
+{: .center}
+
+>*While Rania could be a little bit ditzy, the witch had a heart of gold even if she could be mischievous or teasing. That said, she could be extremely stubborn—which was why she needed me to bring her supplies; she refused to use any magic to get the items she required, insisting that it would interfere with her experiments.*
+>
+>*We ate in silence, watching one another as we chewed our food. After a few minutes, Rania pushed her plate away and reached for the mug of tea. "So, you got everything on my list?" she asked, taking a sip of the warm drink.*
+>
+>*"Yes, even the tea and...undergarments." You replied hesitantly. You weren't sure why a woman with seemingly no interest in sex would want such racy underwear but you knew better than to question her.*
+>
+>*Rania's cheeks flushed, but her smile was sly. She might have bought them on a lark for a chance to tease me, either hoping to goad me into commenting on them or because she knew I'd be uncomfortable buying them for her.*
+>
+>*I downed the last of my tea and opened my mouth to suggest unpacking the goods from my pack by the door but I froze—something felt wrong with my body. A sense of dread washed over me; like a cold wind blowing across my skin, chilling me to the bone. Looking up, my gaze fell upon Rania, who was now holding her teacup with both hands and staring at me expectantly—Rania had put one of her experiments in my tea.*
+>
+>*I swallowed thickly—not liking the way the liquid felt in my throat, nor the feeling of uneasiness that came over me. "What was in my tea?"*
+
+Having brought supplies to the witch, Rania, she invites you in for some tea. What your friend neglected to mention was that she'd slipped an experiment of hers into it.
 
 ***
 
