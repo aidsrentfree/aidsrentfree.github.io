@@ -23,6 +23,10 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(30th April, 2022)
+
+- Added [Vorefag](#vorefag) module.
+
 (29th April, 2022)
 
 - Added (and then updated) [The 36 Lessons of Vivec](#the-36-lessons-of-vivec) module.
@@ -216,6 +220,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [The Manwhore Module](#the-manwhore-module)
       - [Smorgasboard Experiment](#smorgasboard-experiment)
       - [Taylor Swift Lyrics](#taylor-swift-lyrics)
+      - [Vorefag](#vorefag)
       - [Weird Fiction](#weird-fiction)
   - [Sexual](#sexual)
     - [Beings](#beings)
@@ -2786,6 +2791,15 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 >(No, you're not coming back)<br>
 >(No, you're not coming back)<br>
 >(No, you're not coming back)<br>
+
+##### [Vorefag](https://files.catbox.moe/dyihdl.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/382310591/#382318794)
+
+*Compendium of primarily vore writings, with anthro flavorings. Trends towards the oral, with sensuous prose.*
+
+![example](https://files.catbox.moe/09xa8b.png)
+{: .center}
 
 ##### [Weird Fiction](https://files.catbox.moe/zoq25d.module)
 
