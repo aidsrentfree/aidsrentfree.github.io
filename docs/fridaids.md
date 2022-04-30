@@ -48,6 +48,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*The Madness of Mordreg*](#the-madness-of-mordreg)
   - [*Were's My Wolf?*](#weres-my-wolf)
   - [*Sanguine Stalkers*](#sanguine-stalkers)
+  - [*The End of an Adventure*](#the-end-of-an-adventure)
 - [The Friday of *Yanderes*](#the-friday-of-yanderes)
   - [*Skin to Skin(walker)*](#skin-to-skinwalker)
   - [*My girlfriend has been acting a bit possessive lately*](#my-girlfriend-has-been-acting-a-bit-possessive-lately)
@@ -650,6 +651,31 @@ When Ted hires an amateur witch to turn him into a werewolf, the older man has n
 >*A fine wind blew past us.*
 
 Thralldom is not without its benefits, especially when it is in servitude to a most regal mistress. Vampires, witches and perhaps a bit of femdom.
+
+### *The End of an Adventure*
+{: .center}
+
+*<https://prompts.aidg.club/3614>*
+{: .center}
+
+![](https://files.catbox.moe/g0b7p1.jpg)
+{: .center}
+
+>*You chuckle at yourself. "Sorry, what did you ask?"*
+>
+>*She smiles sweetly at you, but there is something like sadness hidden in those sapphire eyes. For a moment they spark with some sort of light or energy before fading again to be replaced by their usual appearance. "I asked if you had any plans after we get to where I'm headed," she states matter-of-factly.*
+>
+>*You shake your head lightly. "Not much use for a paladin wielding a holy blade now that all the demons are dead... I don't really know what I'll do."*
+>
+>*"Oh?" There's interest in her tone.*
+>
+>*"Well, not too sure yet," you admit with another laugh, rubbing the back of your head sheepishly. "What about you? Have you found anything to do next?"*
+>
+>*The young witch nods slowly, looking away shyly as she does so. "Oh yes, plenty!" she says quickly, then trails off, leaving you uncertain if she actually does have anything planned.*
+>
+>*You look up again, thinking that perhaps you should stay with her and find new adventures like you originally intended, instead of returning to normal life. Maybe it wouldn't be so bad to settle down somewhere quiet, far removed from cities and adventurers and other such people. That sounds nice, doesn't it?*
+
+Escorting the last of your party members after the tale has concluded, you talk with the witch Vanessa as you accompany her home.
 
 ***
 
