@@ -43,6 +43,11 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Whatever Will Happen to Cashmere the Witch in One Day*](#whatever-will-happen-to-cashmere-the-witch-in-one-day)
   - [*An Ill-advised Experiment*](#an-ill-advised-experiment)
   - [*Wings Clipped by Shame*](#wings-clipped-by-shame)
+  - [*Was Above, So Below*](#was-above-so-below)
+  - [*Faith, Fear, and Frailty*](#faith-fear-and-frailty)
+  - [*The Madness of Mordreg*](#the-madness-of-mordreg)
+  - [*Were's My Wolf?*](#weres-my-wolf)
+  - [*Sanguine Stalkers*](#sanguine-stalkers)
 - [The Friday of *Yanderes*](#the-friday-of-yanderes)
   - [*Skin to Skin(walker)*](#skin-to-skinwalker)
   - [*My girlfriend has been acting a bit possessive lately*](#my-girlfriend-has-been-acting-a-bit-possessive-lately)
@@ -562,6 +567,89 @@ Having brought supplies to the witch, Rania, she invites you in for some tea. Wh
 >*Unused to such adoration, Naranya faltered for a moment before realizing they must be enamored with her new spell. As a result, she had been given a boisterous reception of eager, drunken applause and shouting for her to continue. Still, something seemed off. When she lit those torches, she felt like something was missing. Right, her talon was bare of her magic rings! The raven witch looked down at… her naked breasts?*
 
 Cocky raven witch accidentally shows up naked to a magic show.
+
+### *Was Above, So Below*
+{: .center}
+
+*<https://prompts.aidg.club/3606>*
+{: .center}
+
+![](https://files.catbox.moe/kgyxy3.jpg)
+{: .center}
+
+>*The sea witch extended her undulating tentacles towards Hilda with trembling anticipation. Leif nearly stopped the malevolent creature as she deftly plucked Hilda out from her fur bindings, and dragged his wife kicking and screaming into the brackish waters. But, the painful throbbing of his infected arm sapped his resolve, as he simply collapsed and witnessed the horrifying proceedings. The sea witch's tentacles coiled around the struggling woman, as Hilda thrashed and kicked, trying to break free of her captor. Leif heard the faint splash of his wife being submerged below the surface, as the sea witch held Hilda down. Then, the viking heard the soft splashing and slurping noises of the hag's suckers eagerly enveloping his wife.*
+>
+>*As Hilda screamed and struggled, her wails were muted by the enveloping tentacles of the horrid sea witch and Leif could only hear her frantic panting and gurgling. The viking man watched helplessly as the sea witch tightly bundled his wife in her writhing tendrils, like a spider wrapping up a trapped insect. Hilda's muffled shrieks became increasingly desperate as the sea witch continued to draw her closer, the uncompromising hag contorting Leif's petite wife until she was forced to curl into a tight fetal position. "I'm sorry, my love," Leif whispered to Hilda, as he sat back on the sandy shore with a pained expression on his face. He knew she couldn't hear him, but he hoped she would somehow understand.*
+
+When a great warrior is laid low by a small trifle, the tides only know what price he may pay for another chance.
+
+### *Faith, Fear, and Frailty*
+{: .center}
+
+*<https://prompts.aidg.club/3607>*
+{: .center}
+
+![](https://files.catbox.moe/ac2b9t.jpg)
+{: .center}
+
+>*"Let's get you out of those rags, shall we?" A flash of brilliant, purple light filled the room, as Magdalene's clothes simply exploded off her body, leaving the petite, Italian girl completely exposed before Xyra and her thronging cultists.*
+>
+>*Things only escalated from their, as Xyra began urgently forcing the nude girl down towards her exposed, demonic crotch, which was surrounded with short, dark pubic hairs. Magdalene wordlessly shrieked in alarm, as her face was roughly smashed into the soft, moistening folds of the purple-skinned demoness. "No need to be so timid, my little dove, dive right in," Xyra purred, as she used her unnaturally strong grip to urge the squirming nun's head deep between the succubus' thighs. Abigail continued fighting her bonds, as she watched her battle sister's entire head gradually disappear within the clenching, vaginal depths of the giant succubus. A lewd, squelching noise filled the hushed room, as Magdalene's screams were slowly muffled by the enveloping, slippery wetness of the succubus.*
+
+Abigail Veracotti is a trained battle nun of the Colebury Order. Sent on an important mission from the Vatican, Abigail and her battle sisters must uproot an insidious cell of satanic cultists. But, can her pious training overcome the stress of battling the forces of evil?
+
+### *The Madness of Mordreg*
+{: .center}
+
+*<https://prompts.aidg.club/3610>*
+{: .center}
+
+![](https://files.catbox.moe/jq3zx9.jpg)
+{: .center}
+
+>*Faith was my shield and sword as an agent of The Church, but as I stood before that door, a terrible sense of unease had set itself upon me. Sentient dread, perhaps?*
+>
+>*I reached for the handle of the door with a shaky hand, when something moved within. I froze, waiting to see if the creature would emerge, a prayer of protection already upon my lips. The sound of footsteps approached, a single pair of feet. The gait was—tiny, unassuming, a soft pitter of bare soles against softly creaking planks.*
+>
+>*The door opened with a squeal of rusty hinges, and while I was more than ready to prepare a protective incantation, I found myself stupefied by the sight that greeted me. There, bathed in the glow of hearthfire, was a girl. There was a sickly sweet perfection to this child, her face smooth and white as porcelain, hair an untidy mess of golden curls. "Hello mister!" She rocked playfully along her heels, a dark, gossamer gown clinging to her form.*
+>
+>*"Please, come inside! It'll be dark soon and the swamp is really creepy." Innocence played upon her smooth features, but it was illusory. It had to be. The floorboards of the little witch's tree cottage were cracked and ancient, its walls lined with overflowing bookshelves. Each shelf was filled with dusty tomes, their covers embossed with a myriad of strange sigils penned in long dead tongues. The fourth wall was dominated by a large window, looking out upon a forest of black, gnarled yews. I could hear the wind howling outside, and felt a sudden chill run down my spine. This little girl was not what she appeared to be; the miasma of witchery was suffocating here.*
+
+There was a darkness to Mordreg, some terrible presence that was renewing the taint of the ancient swamp. I thought myself resolute, a humble investigator of The Church, until finding myself at the heart of Mordreg, and lulled by its unassuming mistress.
+
+### *Were's My Wolf?*
+{: .center}
+
+*<https://prompts.aidg.club/3612>*
+{: .center}
+
+![](https://files.catbox.moe/e81uuw.jpg)
+{: .center}
+
+>*"Right, smart wolf-- I mean man. You're totally still human inside, I get that. But, we've gotta set some ground rules here, it wouldn't be seemly for a woman to be answering to a wolf, so you'll have to play the part--" before Tabitha could complete her explicit instructions, the wolf shot up from his pounce, rounding behind her in an instant, and plowing her over with his paws.*
+>
+>*"What the fuck, Ted, stop it! I told you, you need me to reverse the spell! Get off me, you stupid mutt!" The big wolf settled down on Tabitha's back, Ted using his weight to keep the small woman down. The wolf growled into her ear threateningly, as his clawed paws gripped at her back painfully. "Alright, okay. I'm sorry I was acting bossy earlier, but you made your point! Stop getting slobber and wolf hair all over me, this witch get-up dress is dry-clean only!" But the wolf only barked loudly in response, as if demanding her silence. Tabitha didn't understand what was going on, until she felt the shaggy wolf settling his hips against her rump with clear intent. "You have got to be fucking kidding me. Do not-- Nnghhh!" With an animalistic yip, the large wolf began excitedly humping Tabitha's rear end.*
+
+When Ted hires an amateur witch to turn him into a werewolf, the older man has no idea just how much hassle he signed himself up for. Nor does Tabitha, a young enchantress who just inherited a huge pain-in-the-backside of her own making.
+
+### *Sanguine Stalkers*
+{: .center}
+
+*<https://prompts.aidg.club/3613>*
+{: .center}
+
+![](https://files.catbox.moe/tqiybp.jpg)
+{: .center}
+
+>*"Ah, the moon is so full, mon cheri." Lady Mirabelle whispered from the shadows, stepping into the moon-lit courtyard as if she were a ghost or spirit herself; a statement that was not without its merit. Dressed in her finest, scarlet gown, Mirabelle Toussaint smelled of roses but reeked of undeath. She wore white kid gloves that seemed more like skin than silk. Her lips parted slowly, teasing the pointed markers of her vampirism. "It will be a good hunt, no?"*
+>
+>*"Yes, Lady Toussaint." I deferred blankly. Thralldom, and its benefits as a lesser vampire, was a gift. Freewill was a hinderance, simple as. True freedom was found in servitude.*
+>
+>*"Oh, ma puce, never leave my side." The vampiress spoke to me as if I were a pet, and a pitiable one at that. Was she mocking me? Perhaps, though a glimmer of sincerity presented itself in Lady Mirabelle's ruby eyes. No, she could only want me by her side; it was a power play, perhaps.*
+>
+>*A fine wind blew past us.*
+
+Thralldom is not without its benefits, especially when it is in servitude to a most regal mistress. Vampires, witches and perhaps a bit of femdom.
 
 ***
 
