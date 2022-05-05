@@ -52,6 +52,8 @@ Probably! This is a brand new event after all. If something isn't working, be su
 	- [Where will the decks be stored?](#where-will-the-decks-be-stored)
 	- [Is any of this subject to change?](#is-any-of-this-subject-to-change)
 	- [Who asked for this?](#who-asked-for-this)
+- [**Heists**](#heists)
+- [**Modern Space Fantasy**](#modern-space-fantasy)
 - [**Treasure Hunting Grave Robber Wars**](#treasure-hunting-grave-robber-wars)
 	- [**Allies**](#allies)
 	- [**Antagonists**](#antagonists)
@@ -69,8 +71,30 @@ Probably! This is a brand new event after all. If something isn't working, be su
 	- [**Lifeforms**](#lifeforms)
 
 ***
+## **Heists**
+{: .center}
+
+*It's a perfect format for decks, make cards about the crew, the masterminds, the target loot, the crazy places to be broken into, it goes on.*<br>
+*And don't limit yourself strictly to formats like Ocean's 11, although personally that will be my focus, but any sort of organized planned robbery like bank jobs, knocking over a train, can work if you play your cards right.*
+{: .center}
+
+***
+
+## **Modern Space Fantasy**
+{: .center}
+
+(April 2022)
+{: .center}
+
+¯\\\_(ツ)\_/¯
+{: .center}
+
+***
 
 ## **Treasure Hunting Grave Robber Wars**
+{: .center}
+
+(March 2022)
 {: .center}
 
 ![/aids/ Treasure Hunting](https://files.catbox.moe/o27xrn.png)
@@ -179,6 +203,9 @@ Probably! This is a brand new event after all. If something isn't working, be su
 ***
 
 ## **Starship Exploration Vessel**
+{: .center}
+
+(February 2022)
 {: .center}
 
 ![/aids/ Starship Exploration Vessel](https://files.catbox.moe/2ix8xc.png)

@@ -27,8 +27,8 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 - Added 105% coverage version to [Young Girl's Handbook](#young-girls-handbook-of-good-manners-for-use-in-educational-establishments) module.
 - Added [Women with Multiple Breasts](#women-with-multiple-breasts) module.
-- Added [Allied Mastercomputer](#allied-mastercomputer) module.
-- Added [Hellbound Heart](#hellbound-heart) module.
+- Added [I Have No Mouth and I Must Scream](#allied-mastercomputer-i-have-no-mouth-and-i-must-scream) module.
+- Added [Hellraiser](#hellbound-heart-hellraiser) module.
 
 (30th April, 2022)
 
@@ -178,7 +178,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Elements](#elements)
     - [Things](#things)
       - [The 36 Lessons of Vivec](#the-36-lessons-of-vivec)
-      - [Allied Mastercomputer](#allied-mastercomputer)
+      - [Allied Mastercomputer (I Have No Mouth and I Must Scream)](#allied-mastercomputer-i-have-no-mouth-and-i-must-scream)
       - [Annotated Tech](#annotated-tech)
       - [Cynthia (Pokemon)](#cynthia-pokemon)
       - [Female Wrestling](#female-wrestling)
@@ -290,7 +290,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [The Dresden Files](#the-dresden-files)
       - [Gotrek and Felix](#gotrek-and-felix)
       - [Harry Potter](#harry-potter)
-      - [Hellbound Heart](#hellbound-heart)
+      - [Hellbound Heart (Hellraiser)](#hellbound-heart-hellraiser)
       - [Ice](#ice)
       - [Percy Jackson](#percy-jackson)
       - [Redwall](#redwall)
@@ -2026,7 +2026,7 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 
 >The king's son, the one with the red hair and the golden eyes, was given to a temple of the gods. His father's new wife, the one with the black hair and the silver eyes, had come from an ancient family of sorcerers who worshiped the dark goddess. She thought it would be fun to put her husband's son in a cage, feed him once a day, and let the priests of the dark goddess play with him. They called themselves the Black-Eyed Men. The boy grew very fast. He learned many things, and he grew very strong. The priests were afraid they might not be able to control him if he ever got out of the cage. So they gave him a name that meant 'the one who will destroy all.' They made him into a warrior so powerful that no one could stand against him. Then they taught him how to fight, and told him his purpose: to kill the man who killed his father, the man who married his mother, and the woman who brought him into this world.
 
-##### [Allied Mastercomputer](https://files.catbox.moe/jf1yus.module)
+##### [Allied Mastercomputer (I Have No Mouth and I Must Scream)](https://files.catbox.moe/jf1yus.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/382753460/#382876553)
 
@@ -3949,7 +3949,7 @@ Description:  Trained on the Bridgerton series (Books 1-8).
 
 *Here it is! 100% trained on the Harry Potter data you sent.*
 
-##### [Hellbound Heart](https://files.catbox.moe/2eh920.module)
+##### [Hellbound Heart (Hellraiser)](https://files.catbox.moe/2eh920.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/382753460/#382962570)
 
