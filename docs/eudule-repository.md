@@ -23,6 +23,13 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(5th May, 2022)
+
+- Added 105% coverage version to [Young Girl's Handbook](#young-girls-handbook-of-good-manners-for-use-in-educational-establishments) module.
+- Added [Women with Multiple Breasts](#women-with-multiple-breasts) module.
+- Added [Allied Mastercomputer](#allied-mastercomputer) module.
+- Added [Hellbound Heart](#hellbound-heart) module.
+
 (30th April, 2022)
 
 - Added [Vorefag](#vorefag) module.
@@ -75,24 +82,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 - Added [Changelings](#changelings) module.
 - Added [Vladimir Nabokov](#vladimir-nabokov) module.
-
-(23rd March, 2022)
-
-- Added [Thomas Ligotti](#thomas-ligotti) module.
-- Added [Contemporary Poetry](#contemporary-poetry) module.
-- Added [Gotrek and Felix](#gotrek-and-felix) module.
-
-(21st March, 2022)
-
-- Added [Hunter S. Thompson](#hunter-s-thompson) module.
-- Added [Cave Johnson Voicelines](#cave-johnson) module.
-- Added [Them's Fighting Herds Wiki](#thems-fighting-herds) module.
-- Added [Wikipedia](#wikipedia) module.
-- Added [Ice](#ice) module.
-- Added [Raymond Chandler](#raymond-chandler) module.
-- Added [Judy Hopps](#judy-hopps) module.
-- Added [Tentacles](#tentacles) module.
-- Added [Feminization](#feminization) module.
 
 ***
 
@@ -189,6 +178,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Elements](#elements)
     - [Things](#things)
       - [The 36 Lessons of Vivec](#the-36-lessons-of-vivec)
+      - [Allied Mastercomputer](#allied-mastercomputer)
       - [Annotated Tech](#annotated-tech)
       - [Cynthia (Pokemon)](#cynthia-pokemon)
       - [Female Wrestling](#female-wrestling)
@@ -244,6 +234,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Small Equines](#small-equines)
       - [Tentacles!](#tentacles)
       - [Veggie's Lolis](#veggies-lolis)
+      - [Women with Multiple Breasts](#women-with-multiple-breasts)
     - [Acts](#acts)
       - [Assorted Mind Control](#assorted-mind-control)
       - [Dronifurcation](#dronifurcation)
@@ -299,6 +290,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [The Dresden Files](#the-dresden-files)
       - [Gotrek and Felix](#gotrek-and-felix)
       - [Harry Potter](#harry-potter)
+      - [Hellbound Heart](#hellbound-heart)
       - [Ice](#ice)
       - [Percy Jackson](#percy-jackson)
       - [Redwall](#redwall)
@@ -2034,6 +2026,14 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 
 >The king's son, the one with the red hair and the golden eyes, was given to a temple of the gods. His father's new wife, the one with the black hair and the silver eyes, had come from an ancient family of sorcerers who worshiped the dark goddess. She thought it would be fun to put her husband's son in a cage, feed him once a day, and let the priests of the dark goddess play with him. They called themselves the Black-Eyed Men. The boy grew very fast. He learned many things, and he grew very strong. The priests were afraid they might not be able to control him if he ever got out of the cage. So they gave him a name that meant 'the one who will destroy all.' They made him into a warrior so powerful that no one could stand against him. Then they taught him how to fight, and told him his purpose: to kill the man who killed his father, the man who married his mother, and the woman who brought him into this world.
 
+##### [Allied Mastercomputer](https://files.catbox.moe/jf1yus.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/382753460/#382876553)
+
+> \>I kinda wanna see an Allied Mastercomputer module now...
+
+*Couldn't find a complete transcript of the game unfortunately so it's the short story + a handful of game quotes.*
+
 ##### [Annotated Tech](https://files.catbox.moe/nxto4y.module)
 
 [by Magenta.Darkstar](https://discord.com/channels/836774308772446268/939922436500107314/942242004887277578)
@@ -3177,6 +3177,18 @@ Here's an imouto focused loli module I trained on some of my NAI stories at 100%
 
 *Veggie's loli module for Euterpe*
 
+##### [Women with Multiple Breasts](https://files.catbox.moe/vj1hw1.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/382753460/#382819998)
+
+*I have a strange model for my fellow degens.*
+
+*It's trained on the stories section of the multiple breasts art page, which is full of women with multiple: sets of breasts obviously, limbs, as well as humantaurs, and all manner of other strange transformations.*
+
+*It works pretty well, even though the ai struggles to remember the shape after transformation.*
+
+***Stats:** 4270 steps (100%), 2.6127664391832552 loss.*
+
 #### [Acts](#sexual)
 
 ##### [Assorted Mind Control](https://files.catbox.moe/nl9kdj.module)
@@ -3723,7 +3735,19 @@ Trained on the N. K. Sanders English translation of the ancient Mesopotamian poe
 
 [by Anon](https://arch.b4k.co/vg/thread/374651445/#374800020)
 
-Alright, might be overkill, but shoved all 500 steps into it for over 1000% training.
+[105% coverage version](https://files.catbox.moe/vt1h91.module)
+
+*The Young Girl's Handbook of Good Manners for Use in Educational Establishments was a book written in late 19th centaury by one of the most prolific french erotica authors. The book is written as a set of rules and recommendations for young noble girls to follow in their everyday life in high society.*
+
+*Some example guidelines the book presents are:*
+
+>Putting honey between your legs to get a little dog to lick you is permitted in a pinch; but it is unnecessary to return the favor.<br>
+>If you suck off a gentleman before receiving communion, be very careful not to swallow the cum: you would no longer have the requisite empty stomach.<br>
+>To give ten sous to a pauper because he has no bread is excellent; but to suck his cock because he has no mistress is going too far; you are under no obligation whatsoever.
+
+*The 1000% module is heavily overtrained to generate rules like that. The 105% module doesn't really do much in my experience, but if somebody wants something that might potentially turn the story slightly towards noble debauchery it might work.*
+
+*Training data/full book: <https://files.catbox.moe/z9poky.txt>*
 
 #### [Modern](#works)
 
@@ -3924,6 +3948,12 @@ Description:  Trained on the Bridgerton series (Books 1-8).
 >\>is anyone willing to use their steps to train a module based on [all the Harry Potter books](https://files.catbox.moe/g1dves.txt) if I prep the text?
 
 *Here it is! 100% trained on the Harry Potter data you sent.*
+
+##### [Hellbound Heart](https://files.catbox.moe/2eh920.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/382753460/#382962570)
+
+*Trained a module on Clive Barker's Hellbound Heart, the book the cenobites come from.*
 
 ##### [Ice](https://files.catbox.moe/vt1ing.module)
 
