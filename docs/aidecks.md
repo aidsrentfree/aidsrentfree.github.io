@@ -98,6 +98,7 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | Card | Name | Description | Post |
 |---|:---:|:---:|:---:|
 | ![Card](https://files.catbox.moe/6c49ok.png) | The Lucky Lover Casino | Casino and sex trafficking headquarters. | [>>383332867](https://arch.b4k.co/vg/thread/383189508/#383332867) |
+
 ### **The Score**
 {: .center}
 
