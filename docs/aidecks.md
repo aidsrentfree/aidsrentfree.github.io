@@ -53,6 +53,13 @@ Probably! This is a brand new event after all. If something isn't working, be su
 	- [Is any of this subject to change?](#is-any-of-this-subject-to-change)
 	- [Who asked for this?](#who-asked-for-this)
 - [**Heists**](#heists)
+	- [**The Clientele**](#the-clientele)
+	- [**The Joint**](#the-joint)
+	- [**The Score**](#the-score)
+	- [**The Obstacles**](#the-obstacles)
+	- [**The Rivals**](#the-rivals)
+	- [**The Crew**](#the-crew)
+	- [**The Getaway**](#the-getaway)
 - [**Modern Space Fantasy**](#modern-space-fantasy)
 - [**Treasure Hunting Grave Robber Wars**](#treasure-hunting-grave-robber-wars)
 	- [**Allies**](#allies)
@@ -77,6 +84,70 @@ Probably! This is a brand new event after all. If something isn't working, be su
 *It's a perfect format for decks, make cards about the crew, the masterminds, the target loot, the crazy places to be broken into, it goes on.*<br>
 *And don't limit yourself strictly to formats like Ocean's 11, although personally that will be my focus, but any sort of organized planned robbery like bank jobs, knocking over a train, can work if you play your cards right.*
 {: .center}
+
+### **The Clientele**
+{: .center}
+
+| Card | Name | Description | Post |
+|---|:---:|:---:|:---:|
+| ![Card](https://files.catbox.moe/szjclr.png) | Carmina Di Antonnio | A client to provide jobs or buy artifacts from the team post-heist. | [>>383511619](https://arch.b4k.co/vg/thread/383402156/#383403956) |
+
+### **The Joint**
+{: .center}
+
+| Card | Name | Description | Post |
+|---|:---:|:---:|:---:|
+| ![Card](https://files.catbox.moe/6c49ok.png) | The Lucky Lover Casino | Casino and sex trafficking headquarters. | [>>383332867](https://arch.b4k.co/vg/thread/383189508/#383332867) |
+### **The Score**
+{: .center}
+
+| Card | Name | Description | Post |
+|---|:---:|:---:|:---:|
+| ![Card](https://files.catbox.moe/eoxilg.png) | Money | More of a general card for money than $1,000,000 specifically. | [>>383332867](https://arch.b4k.co/vg/thread/383189508/#383332867) |
+| ![Card](https://files.catbox.moe/vmdvdi.png) | Kobold Slaves | For utility or decadence, who doesn't want a cute 'bold or two under their command? | [>>383334469](https://arch.b4k.co/vg/thread/383189508/#383334469) |
+| ![Card](https://files.catbox.moe/eh5nr5.png) | The Golden Gallons | At least it's not actually golden? | [>>383445543](https://arch.b4k.co/vg/thread/383402156/#383445543) |
+
+### **The Obstacles**
+{: .center}
+
+| Card | Name | Description | Post |
+|---|:---:|:---:|:---:|
+| ![Card](https://files.catbox.moe/tprzei.png) | Security Systems | All the physical and technological obstacles guarding the goods. | [>>383332867](https://arch.b4k.co/vg/thread/383189508/#383332867) |
+| ![Card](https://files.catbox.moe/6jot32.png) | Private Security | The best faceless goons money can buy. | [>>383332867](https://arch.b4k.co/vg/thread/383189508/#383332867) |
+| ![Card](https://files.catbox.moe/izkwg7.png) | Honor Among Thieves | With friends like these... | [>>383333174](https://arch.b4k.co/vg/thread/383189508/#383333174) |
+| ![Card](https://files.catbox.moe/acbs3e.png) | Laser Hallway | Dazzling, but deadly. | [>>383332737](https://arch.b4k.co/vg/thread/383189508/#383332737) |
+
+### **The Rivals**
+{: .center}
+
+| Card | Name | Description | Post |
+|---|:---:|:---:|:---:|
+| ![Card](https://files.catbox.moe/msg14e.png) | That French Fuck | Merde. | [>>383417545](https://arch.b4k.co/vg/thread/383402156/#383417545) |
+| ![Card](https://files.catbox.moe/8p1rgj.png) | Leo Love | The charismatic owner of a successful casino and sex trafficking operation. | [>>383332867](https://arch.b4k.co/vg/thread/383189508/#383332867) |
+| ![Card](https://files.catbox.moe/t9ebpx.png) | Vinyr | Fledgling criminal overlord whose overconfidence has left him open to a nice robbery. | [>>383334469](https://arch.b4k.co/vg/thread/383189508/#383334469) |
+| ![Card](https://files.catbox.moe/ghhb4j.png) | Inspector Augustin | Competently incompetent. | [>>383459326](https://arch.b4k.co/vg/thread/383402156/#383459326) |
+
+### **The Crew**
+{: .center}
+
+| Card | Name | Description | Post |
+|---|:---:|:---:|:---:|
+| ![Card](https://files.catbox.moe/d9cdzd.png) | Vincent "Vinny" Sentorini | A man with quite the collection of office supplies. | [>>383417545](https://arch.b4k.co/vg/thread/383402156/#383417545) |
+| ![Card](https://files.catbox.moe/rislou.png) | Hackerman | The most powerful hacker of all time. | [>>383417545](https://arch.b4k.co/vg/thread/383402156/#383417545) |
+| ![Card](https://files.catbox.moe/0imgvs.png) | Annabelle Wise | An American hobbyist heist master with the perfect plan, the Brains. | [>>383332867](https://arch.b4k.co/vg/thread/383189508/#383332867) |
+| ![Card](https://files.catbox.moe/unvlsx.png) | Fiddler | A young boy who may or may not be playing pretend, has potential. | [>>383332867](https://arch.b4k.co/vg/thread/383189508/#383332867) |
+| ![Card](https://files.catbox.moe/ypd3sl.png) | Vlada Ivanova | A bloodthirsty Russian criminal with a reputation, the Muscle. | [>>383332867](https://arch.b4k.co/vg/thread/383189508/#383332867) |
+| ![Card](https://files.catbox.moe/lssfx5.png) | The Petito Twins | Androgynous Italian fraternal (male and female) twin acrobats, the Infiltrator(s). | [>>383332867](https://arch.b4k.co/vg/thread/383189508/#383332867) |
+| ![Card](https://files.catbox.moe/0d0r6l.png) | Paulie 'the Hammer' | Will beat your face in, and look good while doing it. | [>>383337475](https://arch.b4k.co/vg/thread/383189508/#383337475) |
+| ![Card](https://files.catbox.moe/u9a36b.png) | Big Louie | .... 'Big' is just a nickname. | [>>383342847](https://arch.b4k.co/vg/thread/383189508/#383342847) |
+| ![Card](https://files.catbox.moe/n5w94w.png) | Fujiko Mine | Sorry boys, she's taken... your possessions.  | [>>383469396](https://arch.b4k.co/vg/thread/383402156/#383469396) |
+
+### **The Getaway**
+{: .center}
+
+| Card | Name | Description | Post |
+|---|:---:|:---:|:---:|
+| ![Card](https://files.catbox.moe/bd0hf1.png) | Fiat 126p | You know what Fiat stands for, right? | [>>383417545](https://arch.b4k.co/vg/thread/383402156/#383417545) |
 
 ***
 
