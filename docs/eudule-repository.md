@@ -23,6 +23,17 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(10th May, 2022)
+
+- Added [The Simpsons Episode Generator](#the-simpsons-episode-generator) module.
+- Added [Leviathan or The Matter, Forme and Power of a Commonwealth Ecclesiasticall and Civil](#leviathan-or-the-matter-forme-and-power-of-a-commonwealth-ecclesiasticall-and-civil) module.
+- Added [Stephen King's Christine](#christine) module.
+- Added [Death Note: Another Note: The Los Angeles BB Murder Cases](#death-note-another-note-the-los-angeles-bb-murder-cases) module.
+- Added [The Stanley Parable](#the-stanley-parable) module.
+- Added [The Ninth Doctor](#9th-doctor-transcripts) module.
+- Added [Deng Xiaoping](#deng-xiaoping) module.
+- Added [Submachine Universe](#submachine-universe) module.
+
 (5th May, 2022)
 
 - Added 105% coverage version to [Young Girl's Handbook](#young-girls-handbook-of-good-manners-for-use-in-educational-establishments) module.
@@ -77,11 +88,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 - Added [Shortstacks](#shortstacks) module.
 - Added [The Epic of Gilgamesh](#the-epic-of-gilgamesh) module.
-
-(29th March, 2022)
-
-- Added [Changelings](#changelings) module.
-- Added [Vladimir Nabokov](#vladimir-nabokov) module.
 
 ***
 
@@ -147,6 +153,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Starcraft](#starcraft)
       - [Star Trek: The Next Generation](#star-trek-the-next-generation)
       - [Star Wars](#star-wars)
+      - [Submachine Universe](#submachine-universe)
       - [Them's Fighting Herds](#thems-fighting-herds)
       - [Touhou Project](#touhou-project)
       - [Vampire: The Masquerade](#vampire-the-masquerade)
@@ -189,6 +196,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Male Prisons](#male-prisons)
       - [Melee Combat](#melee-combat)
       - [Wildlife](#wildlife)
+      - [Deng Xiaoping](#deng-xiaoping)
       - [Yinglets](#yinglets)
     - [Concepts](#concepts)
       - [Cave Johnson](#cave-johnson)
@@ -274,6 +282,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Blood Meridian or The Evening Redness in the West](#blood-meridian-or-the-evening-redness-in-the-west)
       - [The Epic of Gilgamesh](#the-epic-of-gilgamesh)
       - [The Island of Doctor Moreau](#the-island-of-doctor-moreau)
+      - [Leviathan or The Matter, Forme and Power of a Commonwealth Ecclesiasticall and Civil](#leviathan-or-the-matter-forme-and-power-of-a-commonwealth-ecclesiasticall-and-civil)
       - [Naked Lunch](#naked-lunch)
       - [Ninteen Eighty-Four](#ninteen-eighty-four)
       - [Otto Penzler's Big Book of Ghost Stories](#otto-penzlers-big-book-of-ghost-stories)
@@ -282,6 +291,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Modern](#modern)
       - [Altered Carbon](#altered-carbon)
       - [Bridgerton](#bridgerton)
+      - [Christine](#christine)
       - [Columbo](#columbo)
       - [Cradle Series](#cradle-series)
       - [Discworld](#discworld)
@@ -306,6 +316,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Steins;Gate](#steinsgate)
   - [Light Novels](#light-novels)
     - [A Certain Magical Index (1-22)](#a-certain-magical-index-1-22)
+    - [Death Note: Another Note: The Los Angeles BB Murder Cases](#death-note-another-note-the-los-angeles-bb-murder-cases)
     - [DanMachi](#danmachi)
     - [Fate/Zero](#fatezero)
     - [Highschool DxD (1-10)](#highschool-dxd-1-10)
@@ -332,6 +343,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [text_adventures.txt](#text_adventurestxt)
     - [Worm](#worm)
   - [Scripts](#scripts)
+    - [9th Doctor Transcripts](#9th-doctor-transcripts)
     - [10th Doctor Transcripts](#10th-doctor-transcripts)
     - [Dagoth Ur](#dagoth-ur)
     - [Arrested Development](#arrested-development)
@@ -340,6 +352,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Hamilton: An American Musical](#hamilton-an-american-musical)
     - [Kurisu Dialogue](#kurisu-dialogue)
     - [Seinfeld](#seinfeld)
+    - [The Stanley Parable](#the-stanley-parable)
 - [Utilities](#utilities)
   - [/aids/](#aids)
   - [Clickhole](#clickhole)
@@ -353,8 +366,9 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Michael Jackson Lyrics](#michael-jackson-lyrics)
   - [Movie Plots](#movie-plots)
   - [Online Hell Tweet Generator](#online-hell-tweet-generator)
-- [Proverbs and Sayings](#proverbs-and-sayings)
+  - [Proverbs and Sayings](#proverbs-and-sayings)
   - [Rhyme and Poetry](#rhyme-and-poetry)
+  - [The Simpsons Episode Generator](#the-simpsons-episode-generator)
   - [Wikipedia](#wikipedia)
   - [Yu-Gi-Oh Cards](#yu-gi-oh-cards)
 
@@ -1150,6 +1164,18 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 ***Tags:** Third Person, Legends, Extended Canon, Expanded Universe, Jedi, Sith, Empire, Rebel, Galactic Civil War*
 
 ***Note:** This was not made by me! I am uploading this for an anonymous user.*
+
+##### [Submachine Universe](https://files.catbox.moe/btmchq.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/383189508/#383287590)
+
+*Submachine module trained on metaphysics/fantasy science theories/schizophrenic ramblings from the game Submachine Universe by Mateusz Skutnik:*
+
+>So the beginning of it all was in a man's mind, somewhere at the bottom of Subconsciousness. In this world there are two types of people: those who have Karma and those who don't. The ones with Karma can see others with Karma as well as see things that are not visible to other people and they also have some sort of control over their "Karma" but if it goes out of their control then they might end up losing themselves into the Subconsciousness and could be stuck here for years or even decades. But if you do manage to stay in your head, then you will find out that there is only one way out of this world and it's through Subconsciousness. And when you reach there, you will know everything about yourself and how you ended up here.
+
+*or*
+
+>The Submachine is a great mystery, with many questions and theories about it. Some of them are: how can we connect different portals? Why does the Submachine have so much Karma energy inside it? Does it exist only in our minds or is there something more to it? Where did all these machines come from? Who built them? Are they connected to the Submind? What if the Submachine is actually just one giant machine that was created by someone, and some parts were destroyed (or never existed) while others grew over time into what we know today.
 
 ##### [Them's Fighting Herds](https://files.catbox.moe/kvvp8q.module)
 
@@ -2153,6 +2179,14 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 - The Zoologist's Guide to the Galaxy - Arik Kershenbaum
 - The Soul of an Octopus - Sy Montgomery
 - Owls of the Eastern Ice - Jonathan C. Slaght
+
+##### [Deng Xiaoping](https://files.catbox.moe/9mtoud.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/383189508/#383278121)
+
+*Deng module deng module:*
+
+>In the past, our people had a saying: “The only thing worse than an enemy is an ally.” We have no such enemies now but we do have some allies who are not too reliable. I think the problem lies in that they don’t understand China well enough or they have their own interests and are not sincere about them. The world has changed so much since then; it can be said to be in a state of constant revolution. What matters most for us today is how we fit into this situation and what we should do next.
 
 ##### [Yinglets](https://files.catbox.moe/vasbcx.module)
 
@@ -3673,6 +3707,12 @@ Trained on the N. K. Sanders English translation of the ancient Mesopotamian poe
 
 ***A:** Basically I just did as a test. I wanted to keep the introduction in the text, so I decided to add a line helping the AI understand that this story is intended to be thought of as a kind of journal ('I have written The Island of Doctor Moreau, the name of the story I tell in this journal'). Maybe it won't have any effect, I don't know. If you use the training data and don't like the presence of that line, feel free to remove it.*
 
+##### [Leviathan or The Matter, Forme and Power of a Commonwealth Ecclesiasticall and Civil](https://files.catbox.moe/a637dg.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/383402156/#383582071)
+
+*I bring ye olde 1984, as an instruction manual*
+
 ##### [Naked Lunch](https://files.catbox.moe/cwfviv.module)
 
 [by mark and jez](https://discord.com/channels/836774308772446268/939922436500107314/946285905457602610)
@@ -3821,6 +3861,14 @@ Description:  Trained on the Bridgerton series (Books 1-8).
 >Colin sighed. "I should have stayed home."
 >
 >She squeezed his hand. She had no answers for him, and so she said nothing, but he felt better having her there.
+
+##### [Christine](https://files.catbox.moe/lckich.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/383189508/#383238296)
+
+*Corrected a mistake of my own laziness from a few Fridays back. <https://prompts.aidg.club/3544> is now updated with a Christine specific module.*
+
+*In the unlikely event anyone happens to want a Stephen King horror module about classic rock and roll and murderous automobiles for use outside of that prompt.*
 
 ##### [Columbo](https://files.catbox.moe/har0zx.module)
 
@@ -4207,6 +4255,16 @@ Example Text:
 
 *~7.6mb of text, trained for 4.4k steps. Loss graph looks fucked but it works nicely enough.*
 
+#### [Death Note: Another Note: The Los Angeles BB Murder Cases](https://files.catbox.moe/rxpaja.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/383189508/#383264938)
+
+*Trained on Death Note: Another Note: The Los Angeles BB Murder Cases, the 2006 novel by Nisio Isin. 100% coverage.*
+
+>"There are two things I don't like about this case. First, that it's a murder investigation... and second, that you're involved in it."
+>
+>It was the morning of December 27th. The sky outside was clear, but inside the room where Misora Chiba had been murdered, there was no sign of sunshine. Ryuzaki, having finished his report at the office, went home to finish some work he needed to do, then returned to the scene of the crime to look over what remained of the murder weapon: Misora Chiba's hairpin. The evening before, he had examined her clothing and other items found at the crime scene as well as the location surrounding it from a purely scientific perspective. He did not have any intention of trying to solve the case himself—he simply wanted to see if anything seemed out of place or inconsistent with the results of the autopsy.
+
 #### [DanMachi](https://anonfiles.com/Fd8be0W9x7/DanMachi_Euterpe_module)
 
 [by Consort Eternal Han-Jo Han](https://discord.com/channels/836774308772446268/939922436500107314/960695061815889961)
@@ -4486,6 +4544,20 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 
 ### [Scripts](#works)
 
+#### [9th Doctor Transcripts](https://files.catbox.moe/uyvj3y.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/383189508/#383278121)
+
+*9th Doctor module trained on Series 1 transcripts from <chakoteya.net>:*
+
+>ROSE: It's beautiful.
+>
+>DOCTOR: Yeah, I know. Well done me.
+>
+>ROSE: But it must be a thousand years old.
+>
+>DOCTOR: No, it was made two hundred and fifty years ago. The builders lived here for five months before they decided to go back in time. They were building their own world inside the planet. And then they went back in time again.
+
 #### [10th Doctor Transcripts](https://files.catbox.moe/kzfwhd.module)
 
 [by hat](https://discord.com/channels/836774308772446268/939922436500107314/943689222026579999)
@@ -4759,6 +4831,12 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 >GUARD: Good luck.
 >
 >JERRY: Thanks.
+
+#### [The Stanley Parable](https://files.catbox.moe/7wfnio.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/383189508/#383267489)
+
+*In celebration of the Ultra Deluxe release, here's a Stanley Parable module that's lacking anything in the Ultra Deluxe release.*
 
 ## [Utilities](#modules)
 {: .center}
@@ -5082,7 +5160,7 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 >
 >i felt some rumbly in my stomach.
 
-## [Proverbs and Sayings](https://files.catbox.moe/b1pmqp.module)
+### [Proverbs and Sayings](https://files.catbox.moe/b1pmqp.module)
 
 [by rari 🌙](https://discord.com/channels/836774308772446268/939922436500107314/968868987033227364)
 
@@ -5160,6 +5238,15 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 >Thou dost not know what it means,<br>
 >To live alone with one's self,<br>
 >In the lonely place where all men die. <br>
+
+### [The Simpsons Episode Generator](https://files.catbox.moe/byivz2.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/383402156/#383478629)
+
+*Just burning some steppies here. Create your own Simpsons episodes.*
+
+![](https://files.catbox.moe/4oqboy.jpg)
+{: .center}
 
 ### [Wikipedia](https://files.catbox.moe/lbauds.module)
 

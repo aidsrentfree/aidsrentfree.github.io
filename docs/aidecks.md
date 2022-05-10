@@ -107,6 +107,7 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | ![Card](https://files.catbox.moe/eoxilg.png) | Money | More of a general card for money than $1,000,000 specifically. | [>>383332867](https://arch.b4k.co/vg/thread/383189508/#383332867) |
 | ![Card](https://files.catbox.moe/vmdvdi.png) | Kobold Slaves | For utility or decadence, who doesn't want a cute 'bold or two under their command? | [>>383334469](https://arch.b4k.co/vg/thread/383189508/#383334469) |
 | ![Card](https://files.catbox.moe/eh5nr5.png) | The Golden Gallons | At least it's not actually golden? | [>>383445543](https://arch.b4k.co/vg/thread/383402156/#383445543) |
+| ![Card](https://files.catbox.moe/lpg9xm.png) | GPT-4 | What do we want? A girl worth fighting for! | [>>383606420](https://arch.b4k.co/vg/thread/383402156/#383606420) |
 
 ### **The Obstacles**
 {: .center}
