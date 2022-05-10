@@ -4548,7 +4548,7 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 
 [by Anon](https://arch.b4k.co/vg/thread/383189508/#383278121)
 
-*9th Doctor module trained on Series 1 transcripts from <chakoteya.net>:*
+*9th Doctor module trained on Series 1 transcripts from [chakoteya.net](http://www.chakoteya.net/DoctorWho/):*
 
 >ROSE: It's beautiful.
 >
