@@ -33,6 +33,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 - [Rules](#rules)
 - [The Log](#the-log)
+- [The Friday of *Weird Magical Artifacts*](#the-friday-of-weird-magical-artifacts)
 - [The Friday of *Witchcraft*](#the-friday-of-witchcraft)
   - [*Wicked Witch of the Beast*](#wicked-witch-of-the-beast)
   - [*Witch's Price*](#witchs-price)
@@ -367,6 +368,17 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Your Daughter will Do Anything to Have You Back*](#your-daughter-will-do-anything-to-have-you-back)
   - [*Ben and Gwen Tennyson in: Omnifriks*](#ben-and-gwen-tennyson-in-omnifriks)
   - [*Goblin girl in Heat*](#goblin-girl-in-heat)
+
+***
+
+## The Friday of *Weird Magical Artifacts*
+{: .center}
+
+Let's make prompts about magical items, mysterious relics and enigmatic devices; peculiar paraphernalia used to great effect, untold chaos, or both.
+{: .center}
+
+[13th May, 2022](#the-log)
+{: .center}
 
 ***
 
