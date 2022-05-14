@@ -34,6 +34,20 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 - [Rules](#rules)
 - [The Log](#the-log)
 - [The Friday of *Weird Magical Artifacts*](#the-friday-of-weird-magical-artifacts)
+  - [*Knot in Your Own Body*](#knot-in-your-own-body)
+  - [*The Weak Should Fear the Strong*](#the-weak-should-fear-the-strong)
+  - [*The Level -4,294,967,295 "simple amulet"*](#the-level--4294967295-simple-amulet)
+  - [*A Quite Gay Blade*](#a-quite-gay-blade)
+  - [*The Devil's Device, Maria, and Her Greatest Performance*](#the-devils-device-maria-and-her-greatest-performance)
+  - [*A friendly presence*](#a-friendly-presence)
+  - [*The incident with the gem of Hors´Dhong*](#the-incident-with-the-gem-of-horsdhong)
+  - [*The Snake Charmer*](#the-snake-charmer)
+  - [*Healer's Crook*](#healers-crook)
+  - [*Cavalry Blue, Chestnut, and Yellowstone*](#cavalry-blue-chestnut-and-yellowstone)
+  - [*The Little Sister of the Occult Club Member Succumbs to a Remote Surprise Feeling!*](#the-little-sister-of-the-occult-club-member-succumbs-to-a-remote-surprise-feeling)
+  - [*Dog-brained Farmhands Lose to the Collar*](#dog-brained-farmhands-lose-to-the-collar)
+  - [*You have a Wizard inside of you!*](#you-have-a-wizard-inside-of-you)
+  - [*Burning Desire - Aphrodite's Stockings*](#burning-desire---aphrodites-stockings)
 - [The Friday of *Witchcraft*](#the-friday-of-witchcraft)
   - [*Wicked Witch of the Beast*](#wicked-witch-of-the-beast)
   - [*Witch's Price*](#witchs-price)
@@ -379,6 +393,248 @@ Let's make prompts about magical items, mysterious relics and enigmatic devices;
 
 [13th May, 2022](#the-log)
 {: .center}
+
+### *Knot in Your Own Body*
+{: .center}
+
+*<https://prompts.aidg.club/3640>*
+{: .center}
+
+![](https://files.catbox.moe/qnk6o2.jpg)
+{: .center}
+
+>*As she looked around, she saw her own body laying face-first in the middle of the floor. "Hello?" she called out only for it to come out as a low, muffled growl instead. "What's going on?" she thought to herself as she continued looking around the room. The bathroom door was open; looking ahead in the mirror, she saw Benji in her place.*
+>
+>*Her heart leapt into her throat as she stared back at her reflection. Her body was covered in soft fur and she could feel her tail starting to wag behind her involuntarily. She was a big fluffy dog—she was Benji.*
+>
+>*Her legs were too weak and unwieldy to lift herself up. She could only wobble pathetically as she tumbled off of the couch and landed in front of her own body on the ground. Elaine could hear her own heartbeat; it was like a drum beating in her ear, but at least she was still alive.*
+>
+>*The body on the floor then started to stir, slowly rolling over onto its back like a dog would. It dawned on her fast—if she was trapped in Benji's body, that must be Benji trapped inside of hers...*
+
+After buying a silly "cursed" pendant, Elaine has found her mind in the wrong place. Which place exactly? While, inside of her pet dog's body of course. That's knot good!
+
+### *The Weak Should Fear the Strong*
+{: .center}
+
+*<https://prompts.aidg.club/3660>*
+{: .center}
+
+![](https://files.catbox.moe/8szwox.jpg)
+{: .center}
+
+>*Vera's victim struggled initially, until the assertive weightlifter used her empowered strength to easily coerce compliance. At first things proceeded like a normal, forced, lesbian cunnilingus session, as the kneeling girl's face was firmly planted in Vera's bushy groin. It wasn't until the overpowered woman felt Vera's bushy lips curl over her face with a sucking, inhuman motion, that things escalated to a horrific instance of the supernatural. Vera was too entranced from whatever medication induced stupor overwhelmed her to even notice, but somehow, her womanhood was possessed with a voracious hunger for the small woman before it. The womanly folds tightened around the girl's face with sickening, slurping sounds, as Vera gorged upon the small girl, without reservation or remorse. The stunned girl squirmed, wriggling under the stronger woman's dominating force, as the ravenous gym bunny attacked her helpless victim.*
+
+Some dedicated weightlifters and body builders are willing to take dangerous supplements to enhance their physical performance. Everyone knows steroids can be dangerous to yourself, but sometimes, those supplements are dangerous to others as well!
+
+### *The Level -4,294,967,295 "simple amulet"*
+{: .center}
+
+*<https://prompts.aidg.club/3662>*
+{: .center}
+
+![](https://files.catbox.moe/rp1la4.png)
+{: .center}
+
+>*The dwarf looks at you like you're crazy. "But ye know they called ye a hero! Th' demon prince was th' root of all evil and ya put him down! Only to kill off yer own king!"*
+>
+>*"Do you actually want to know why?" You finally quit playing with your nails and looked dead straight into her eyes.*
+>
+>*She took a step back, clearly intimidated. "What? Y-Yes! Everyone does!"*
+>
+>*You sigh, and look back at the crater you were just lying in. "I was bored. I thought it would be interesting to go start a fight with some humans."*
+>
+>*The dwarf stared at you with wide eyes, unable to speak. She stammers out a few words as she looks at you with confusion and awe. "...Ye killed 'em all because a' fuckin' boredom?"*
+>
+>*You nod at her question. "Exactly. I don't know how people can't get this concept. I'm hilariously overpowered. Nothing has consequence. I obliterated him and the queen, and not a single thing changed. Don't you get it? Nothing matters. There's nothing to do but sit in this crater and do nothing, it's all the same."*
+>
+>*"O-Oh," she said quietly as she stared at you with wide eyes.*
+
+Bored bored bored. Demon king dead, check, Human king dead because why not, check... if this was a video game, the end credits would have been rolling awhile ago. As the most powerful man in existence, the days just seem to pass by. That is, until an odd proposition by a dwarf lady drags you out from your man crater (you know, man cave but for bored gods) and, with the naïve faith that she'll show you what it means to have a feeling other than boredom, embarks on a unique kind of journey. One to discover what brings smiles to the fantasy races of this world.
+
+### *A Quite Gay Blade*
+{: .center}
+
+*<https://prompts.aidg.club/3664>*
+{: .center}
+
+![](https://files.catbox.moe/wtwb3i.gif)
+{: .center}
+
+>*Imagine my surprise when a female voice suddenly booms inside of my head, "Excuse me, I have plenty power inside of me, you insolent peasant! How dare you presume me to be weak just because I don't turn you into a hero right away?" I'm completely flabbergasted, looking around wildly, searching for the source of the voice, when it speaks again, ringing in my mind, "Down here, dimwit!" Staring down at the grass, all I see is the sword, and after a few moments of silence, the voice speaks once more, "Don't stare like the idiot you are! Yes, it's me, Pelagia, the blade of the elves, the maker of emperors. Show some damn respect, at the very least."*
+>
+>*Quite thrown off by this energetic response, I stammer out an answer, "Um... well, I just didn't expect you to be able to..."*
+>
+>*Pelagia cuts me off, again booming inside my head, "Talk? I'm a millennia old magical artifact, of course I can communicate with you, you amateur. And you better listen, because the only reason you're not dead right now is because you're cute." What? The expression on my face must be one of utter cluelessness, and the blade pounces on it. "Yes, cute. Do you really think you're the only one that found me in all those years? Many sought to lay their grubby mitts on my impeccable hilt, but it was always burly warriors or old wizards, and so I just zapped them out of existence. Your cute butt quite frankly just saved your life. And if you want me to cooperate, you better put that cute butt to work, peasant," she explains.*
+
+Having spent several months searching for the fabled magical blade known only as Pelagia, I've finally managed to track it down. But then, I come to find out that not only can Pelagia talk to me, she's very bossy, and has some very peculiar tastes she needs satisfied before she will allow me to use its magic.
+
+### *The Devil's Device, Maria, and Her Greatest Performance*
+{: .center}
+
+*<https://prompts.aidg.club/3663>*
+{: .center}
+
+![](https://files.catbox.moe/4orc7n.png)
+{: .center}
+
+>*Finally, everyone was seated. The lights dimmed, and the orchestra began playing. There was a single chair onstage, where Maria sat down and assumed position. There was nothing else to do now but wait for her cue. She could hear every single person in the audience waiting with bated breath, excited to hear the wonder girl perform. She counted down from three, then quickly lifted the bow onto the strings.*
+>
+>*The first note rang out loudly, followed by another, and another...and then the music swelled up until the whole room was bathed in sound. Wondrous sound. Impossibly wondrous, as if to stand valiantly in protest against the saying, 'too good to be true.' But in the midst of the magnificent music, unaware to everyone, even Maria herself, the Devil's Cello had activated.*
+
+Maria's dreams are achieved with the grandest performance in her life. She knows unnatural powers have brought her this fame, and yet, she is more blissfully unaware than she could ever know. To her, a gentle performance, a respectful audience. To the devil, a full room of those to descend into pure depravity and degeneracy.
+
+### *A friendly presence*
+{: .center}
+
+*<https://prompts.aidg.club/3665>*
+{: .center}
+
+![](https://files.catbox.moe/jpio1t.jpg)
+{: .center}
+
+>*The equine's ear flicked as she mulled over the meaning behind Jess' present. It was quite clear that the swan thought Ramona needed to get laid; since she loved to talk all about how much she needed a hard railing to de-stress from the endless hours at work or the relentless bitching from her family. However, Ramona wasn't one for casual sex. She didn't even like getting casually affectionate with friends, let alone strangers! Still, it was a nice gesture regardless of the motive. It wouldn't hurt to wear the bracelet around for a bit. If it somehow caught someone's attention, then she could always just turn them down politely.*
+>
+>*After slipping the gift around her wrist and finishing up her drink, the anthro horse concluded her lunch break with her friend by making her way out of the cafe. As she went out into the large shopping center proper, a small tingle arose in her crotch. Grimacing to herself, Ramona figured all that talk about sex must've gotten to her.*
+
+Anthro mare has an inopportune phantom public pussy penetration
+
+### *The incident with the gem of Hors´Dhong*
+{: .center}
+
+*<https://prompts.aidg.club/3666>*
+{: .center}
+
+![](https://files.catbox.moe/a8ysqm.jpg)
+{: .center}
+
+>*In the midst of the night, unnoticed by all. The shining artifact in the adventurers bag starts humming and sends dark rune trails of its influence outside the house.*
+>
+>*Animals moo and oink in the night. Upon contacting the smelly enclosures, the animals breath in the foul scriptures and start undergoing rapid transformation.*
+>
+>*The pigs and horses of the stead grow obese and their smegma laden cocks jut out imposingly from their hairy crotches. Huge animal asses wobble and their porcine and equine balls sway low between thick hind legs.*
+>
+>*They can now smell the fine human females in the farm house...*
+
+While an group of young adventurers are lodging at a nice and idyllic farm, a weird artifact they found from a nearby temple causes some peculiar changes in the farm animals all around them...
+
+### *The Snake Charmer*
+{: .center}
+
+*<https://prompts.aidg.club/3668>*
+{: .center}
+
+![](https://files.catbox.moe/tozbei.png)
+{: .center}
+
+>*"Behold!" he cried, holding aloft his magical flute. "This instrument can charm thee—and all thy kindred."*
+>
+>*She reared back on her coils, opening wide her jaws to strike. But the man blew upon the flute, and its music filled the air. The snake-woman's head drooped; her tongue flicked out to taste the strange notes, then withdrew again into her mouth. She swayed like a serpent charmed by the sound of a piper's pipe, and slowly slithered down onto the floor of the temple.*
+>
+>*Still, he could see that something was wrong—something was very wrong—the music was supposed to act as a lullaby; yet the snake-woman seemed restless.*
+>
+>*Her body writhed sensuously against the stones of the floor, and her tail lashed about restlessly. Her once hatred filled gaze now held a new expression that made him shudder involuntarily.*
+
+A tomb robber find out that the power of his magical flute is much more potent that he thought.
+
+### *Healer's Crook*
+{: .center}
+
+*<https://prompts.aidg.club/3670>*
+{: .center}
+
+![](https://files.catbox.moe/iu8oz8.jpg)
+{: .center}
+
+>*The item was both the cause and the source for all her current troubles. Some dullard of a 'hero' had given her the rod long ago, claiming it was useless.*
+>
+>*As it turned out that hero had just been unable to attune to the rod. It had been a gradual process, Nora mused as she touched herself. At first she could only heal small scratches, maybe heal a small plant whose branches got broken off. With each healing a small tingling sensation followed. It was pleasant, but made the girl ache for...something, an action she dared not speak of.*
+>
+>*Nora was panting, her ample chest heaving, rising and falling as one hand traced the length of the Rod of Healing. Touching it both increased her longing as well as her pleasure in the moment, even if the afterglow only left her wanting more.*
+
+So you found a staff of healing. Great, right? You can now cure most people's ailments within an hour and make bank as a faith healer that owes no taxes to any deity. Only issue is you get horny, proportionally to the severity of what you are healing. Recently you also found out you can tranquilize / daze people with your special item. Surely no issues will arise from that.
+
+### *Cavalry Blue, Chestnut, and Yellowstone*
+{: .center}
+
+*<https://prompts.aidg.club/3649>*
+{: .center}
+
+![](https://files.catbox.moe/5c1f4n.png)
+{: .center}
+
+>*"What are you doing, girl?" Rogers asked the nuzzling horse. Daisy whinnied softly at him, before breaking eye contact and beginning to trot around the clearing. A peculiar sensation washed over Edgar as the mare circled him, almost causing him to drop his prized brush. His trusty mare stood before him, looking back expectantly as her tail flicked. The cavalryman felt his face flush as he realized the intimate moment he shared with his beloved mount. Edgar stared wantonly at the attractive equine, until a shrill squeal from his faithful companion caused him to snap out of his reverie.*
+>
+>*Edgar couldn't help but chuckle to himself, while Daisy snorted playfully. Daisy's tail was raised high, revealing an impressive display of her hindquarters. The mare's rear end was so enticing that Edgar found himself unable to look away, and soon enough his eyes locked onto the inviting sight. Between Daisy's firm haunches, the mare's nethers were pink, glistening, and clearly aroused.*
+
+When Edgar Rogers is separated from his cavalry unit, his culture, and common sense, the only thing he has left is his beloved mare, Daisy.
+
+### *The Little Sister of the Occult Club Member Succumbs to a Remote Surprise Feeling!*
+{: .center}
+
+*<https://prompts.aidg.club/3671>*
+{: .center}
+
+![](https://files.catbox.moe/0b6279.png)
+{: .center}
+
+>*I flipped open to a bookmarked page. At the top, in a gothic font, read, "To Create A Voodoo Onahole", then followed it by the steps necessary to make one. I was careful to follow the recipe, glittering the salt in patterns perfectly replicating the instructions, letting my pink onahole dangle into the bowl of water while it infused the liquid. Other preparations were completed too of course, this operation being quite complex; but it was finally done. All I had to do was to take the poached strand of Fumi's hair, and insert it into water with the onahole while I chanted the words to the spell.*
+>
+>*As I finished the last line, "I conjure thee! O toy of pleasure, become a living vessel, to fulfill my wishes!", The water turned a deep purple and opaque, hair disappearing and onahole morphing rapidly. It was reshaping into a large, dark shape in the bowl, becoming longer and thicker with each passing moment. It took up the full size of the bowl and flopped out, now looking more like a torso. And just like that, the ritual was over, and I was left with a... new kind of onahole.*
+
+Wow, it sure does rock being in the Occult Club! You get to get up to all kinds of delights, like turning your onahole into a Fumi-onahole that remotely transfers your pleasures into her from any distance. Will she survive even a single school day with your relentless teasing?
+
+### *Dog-brained Farmhands Lose to the Collar*
+{: .center}
+
+*<https://prompts.aidg.club/3673>*
+{: .center}
+
+![](https://files.catbox.moe/hbavi2.png)
+{: .center}
+
+>*"Hey Mindy, maybe we shouldn't." I suggested, looking up. I raised an eyebrow when I saw that the collar was firmly locked around Mindy's neck. "...Mindy?"*
+>
+>*She reached for her neck and then widened her eyes in surprise. "Hey, when did this darn thing get on me? I don't remember putting this on," she complained, and then she pointed at me. "Hey! What're you doing?"*
+>
+>*I shook my head in confusion, and then realized the collar in my possession had too somehow got onto my neck. We both tried to remove them, but we couldn't figure out how it got onto our necks.*
+>
+>*"...Okay, we should definitely go get help. Even if they get mad at us for it, this is just weird." I said as I gestured towards the doors of the barn.*
+>
+>*"Right," she nervously nodded, but didn't move. "First let me get these clothes off." she added as she began to unbutton her shirt.*
+>
+>*I blushed, feeling embarrassed. I tapped her roughly on the shoulder and, in the most confident voice I could muster, said: "Mindy!"*
+>
+>*She looked at me expectantly. "What?" she said as she gave me a dirty look.*
+>
+>*I seriously paused for a second. What was my complaint...? Oh, right! "I still have my clothes on too, wait up." I wasn't entirely sure if this was word for word what I was going to say, but it was the best I could do.*
+
+Two runaways, living on a farm, should have followed simple rules. It seems their curiosity has robbed them of their humanity, reducing them to nothing more than mindless dogs. But perhaps being a dog (at least mentally) isn't so bad?
+
+### *You have a Wizard inside of you!*
+{: .center}
+
+*<https://prompts.aidg.club/3674>*
+{: .center}
+
+>*One of the most wicked practices of these warlord wizards was "soul-binding", where the soul of a person was removed from the still living body, and forcibly implanted into an inanimate object, cursed to live forever as an immobile thing, deprived even of their humanity. The luckier victims were bound to precious objects, like crowns, staves or rings, their powerful souls were used as sources of power, and they were passed from generation to generation as a symbol of prestige. The less lucky, however, were bound to simple tools, scattered upon the world, and either used by common people, unwary of the nature of their items, or worse, abandoned in some dump, left to rot in their immobility for eternity.*
+>
+>*The ancient wizard Sagafex, one of the most powerful warlocks of those ages of turmoil, was so reviled by his enemies and hated by the other sorcerers, that his soul was bound by a special enchantment that made the item he was grafted into virtually indestructible, and to further humiliate him, his soul was put into what now could be recalled as a dragon dildo, cursed to be shoved up the ass of the worst perverts of mankind for the millennia to come; but in secret, Sagafex knew the fate that was nearing him, and prepared a special countermeasure to take revenge on the wizards: at his fated hour, he would modify the curse to not only capture his soul, but also the soul of all the other wizards who would be near him to seal him into the magic dildo, and after absorbing their power, to ensure that he would be finally freed after all the other wizards would die out, after a million orgasms would be achieved using the cursed sex toy, Sagafex in the end would be unsealed from his anal prison once more!*
+
+An ancient wizard is sealed inside of a dildo. Thousands of years later, an unsuspecting man goes to fuck himself.
+
+### *Burning Desire - Aphrodite's Stockings*
+{: .center}
+
+*<https://prompts.aidg.club/3675>*
+{: .center}
+
+>*As Tanya lifted the box, her heart was pounding in her chest like a drum as she waited for the moment of truth. Opening it carefully, she looked down into the contents. There, lying innocently in their little bed of black felt was the very pair of stockings she'd fantasized about wearing ever since she'd first heard the whispered rumors. They were a perfect fit—a bit snug around her legs; not too short or too long, and just the right sheerness to show off her shapely legs. The nylon was so soft that it made her nipples pucker slightly and her breath catch in her throat.*
+>
+>*Tanya knew that this was the moment of truth. She wasn't sure what would happen when her husband arrived home but she hoped that if he saw her wearing these; his reaction would be powerful. Her breathing became ragged as she tried to steady herself. Finally, she reached down to straighten the stockings upon her legs. She ran her fingers over them, feeling their smooth nylon texture and their gentle pressure against her skin.*
+>
+>*She looked up at the door—it was time. "Please God, let him be aroused," she whispered.*
+
+In a bid to save her failing marriage, Tanya seeks out 'Aphrodite's Stockings', an enchanted pair of black stockings.
 
 ***
 
