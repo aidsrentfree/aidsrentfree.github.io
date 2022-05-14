@@ -589,7 +589,7 @@ Wow, it sure does rock being in the Occult Club! You get to get up to all kinds 
 *<https://prompts.aidg.club/3673>*
 {: .center}
 
-![](https://files.catbox.moe/hbavi2.png)
+![](https://files.catbox.moe/zyivpe.png)
 {: .center}
 
 >*"Hey Mindy, maybe we shouldn't." I suggested, looking up. I raised an eyebrow when I saw that the collar was firmly locked around Mindy's neck. "...Mindy?"*
