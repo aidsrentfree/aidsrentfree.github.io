@@ -48,6 +48,9 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Dog-brained Farmhands Lose to the Collar*](#dog-brained-farmhands-lose-to-the-collar)
   - [*You have a Wizard inside of you!*](#you-have-a-wizard-inside-of-you)
   - [*Burning Desire - Aphrodite's Stockings*](#burning-desire---aphrodites-stockings)
+  - [*Don't Give Up On Magic Pasties*](#dont-give-up-on-magic-pasties)
+  - [*Sweet Dreams*](#sweet-dreams)
+  - [*God Love Dog*](#god-love-dog)
 - [The Friday of *Witchcraft*](#the-friday-of-witchcraft)
   - [*Wicked Witch of the Beast*](#wicked-witch-of-the-beast)
   - [*Witch's Price*](#witchs-price)
@@ -635,6 +638,59 @@ An ancient wizard is sealed inside of a dildo. Thousands of years later, an unsu
 >*She looked up at the door—it was time. "Please God, let him be aroused," she whispered.*
 
 In a bid to save her failing marriage, Tanya seeks out 'Aphrodite's Stockings', an enchanted pair of black stockings.
+
+### *Don't Give Up On Magic Pasties*
+{: .center}
+
+*<https://prompts.aidg.club/3676>*
+{: .center}
+
+![](https://files.catbox.moe/5epkic.png)
+{: .center}
+
+>*The texture felt strange, and she looked down to see the pasty had hardened in a sort of suction cup that gripped her flesh tightly. It was still soft and flexible, but it held her nipple in place. This was simply horrific. She wanted to put all her clothes back on and run out of the store, but a secondary feeling that had been building kept her stationary, roiling and twisting in her guts. The first feeling was horrified disgust at the situation she had gotten herself into, but the second was something else foreign to her, brought on by her imaginations of exposure. Letting a shuddered breath out slowly, she grabbed the second pasty, this one on her right nipple, and stuck it on. Right as she did, she heard a heavy knocking on the door that made her jump.*
+>
+>*"WHAT?!" Pippa shouted immediately, angry and embarrassed despite a locked door between them and whoever was outside.*
+>
+>*"I forgot! There's one more thing you should know about the pasties. They convert pain into pleasure. Weird, but I guess that's why they're so defensively-minded." The armorer's voice sounded amused as he said this.*
+>
+>*"Ex-cuuuuse me?!"*
+
+Pippa loves infinite ZORK! But her armor is skimpier than she is prepared for mentally, and she's really starting to lose it to the whole pinch-yourself-and-get-pleasured thing.
+
+### *Sweet Dreams*
+{: .center}
+
+*<https://prompts.aidg.club/3679>*
+{: .center}
+
+![](https://files.catbox.moe/940y1b.png)
+{: .center}
+
+>*I was surprised, to say the least, when it was actually Sonic the Hedgehog! I loved this game as a kid! but it was different, modded to be all cute like everything else in the pack. What a bore. Well I guess it's still worth a play, seeing as it's still a rom hack instead of just a regular Sega game like the others in the collection. right before the title screen fades, I notice something. I swear that I saw the title switch to saying Deceiver instead of Sonic. 'Eh, I'm probably just seeing things' I thought to myself. I am awake pretty late. So the game begins and as I played I soon realize that this game is really hard. It was around this moment when the unthinkable happened, Sonic started talking directly to me.*
+>
+>*"Hey Anon! You suck! Why don't you just kill yourself already?" Sonic said to me.*
+>
+>*"What the fuck, how did you know my name?" I asked.*
+>
+>*"I'm not telling you~" he responded.*
+>
+>*So I'm guessing he's the one that the game called Deceiver.*
+
+Anon gets hoodwinked.
+
+### *God Love Dog*
+{: .center}
+
+*<https://prompts.aidg.club/3687>*
+{: .center}
+
+![](https://files.catbox.moe/sokrrr.jpg)
+{: .center}
+
+>*Passing strangers seemed perplexed, and a bit mortified, at the increasingly intimate display of their fellow human female. As they walked by, one man even blurted out loud with disgust, "Are you kissing your dog in public?!" A young girl, who was walking with her mother by that same alleyway, giggled audibly in response. The woman, who's name was Heather Laney, ignored the gasps and stares of passerby. She just continued intently running her hands along the large dog's frame, her slobber-soaked mouth still hanging open invitingly before the dark-furred pooch's snout.*
+
+When Jesus says "Yes.", you don't say "No."
 
 ***
 
