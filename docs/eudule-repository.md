@@ -23,6 +23,14 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(18th May, 2022)
+
+- Added [Noir/Pulp Fiction](#noir) module.
+- Added [Mass Effect](#mass-effect) module.
+- Added [Andy Weir](#andy-weir) module.
+- Added [Magic: The Gathering](#magic-the-gathering) module.
+- Added [Tas_Tan](#tas_tan) module.
+
 (10th May, 2022)
 
 - Added [The Simpsons Episode Generator](#the-simpsons-episode-generator) module.
@@ -84,11 +92,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Gatomon](#gatomon) module.
 - Added [The Meditations of Marcus Aurelius](#the-meditations-of-marcus-aurelius) module.
 
-(6th April, 2022)
-
-- Added [Shortstacks](#shortstacks) module.
-- Added [The Epic of Gilgamesh](#the-epic-of-gilgamesh) module.
-
 ***
 
 ## [Table of Contents](#modules)
@@ -98,6 +101,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - [Modules](#modules)
 - [Authors](#authors)
   - [Traditional](#traditional)
+    - [Andy Weir](#andy-weir)
     - [Clark Ashton Smith](#clark-ashton-smith)
     - [C. S. Lewis](#c-s-lewis)
     - [E. E. Cummings](#e-e-cummings)
@@ -129,6 +133,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Prinnyd00d](#prinnyd00d)
     - [SlutWriter](#slutwriter)
     - [Smutknight](#smutknight)
+    - [Tas_Tan](#tas_tan)
     - [Tastatura](#tastatura)
     - [TheGoHt](#thegoht)
 - [Themes](#themes)
@@ -148,6 +153,8 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Jojo's Bizarre Adventure](#jojos-bizarre-adventure)
       - [Library of Ruina](#library-of-ruina)
       - [The Lion King](#the-lion-king)
+      - [Magic: The Gathering](#magic-the-gathering)
+      - [Mass Effect](#mass-effect)
       - [Sailor Moon](#sailor-moon)
       - [A Song of Ice and Fire](#a-song-of-ice-and-fire)
       - [Starcraft](#starcraft)
@@ -169,6 +176,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [In The Fields](#in-the-fields)
       - [Isekai](#isekai)
       - [LN School Rom-Com](#ln-school-rom-com)
+      - [Noir](#noir)
       - [Norse](#norse)
       - [Old West](#old-west)
       - [Oriental Fantasy](#oriental-fantasy)
@@ -396,6 +404,17 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 ***
 
 ### [Traditional](#writers)
+
+#### [Andy Weir](https://files.catbox.moe/z4s0pe.module)
+
+[by pume_](https://discord.com/channels/836774308772446268/939922436500107314/972146172795953253)
+
+*Train on Andy Weir's work. Good at real science stuff, Quantum Computer, Lost on mar, Lost on moon, Lost on another solar system 12 light-years from earth.*
+
+***Source Material:** Euterpe v2, 1.84mb, 5 .txt, 2161 steps, 100% coverage, 2.5521 loss.*
+*Project Hail Mary, The Martian, Artemis, Randomize, The egg*
+
+*andy weir v2 - as the martian dataset have been fix, all clean now.*
 
 #### [Clark Ashton Smith](https://files.catbox.moe/ezoai8.module)
 
@@ -735,6 +754,16 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *Smutknight: 1237 steps, 100.04%, Couldn't check the loss on this one. It was made during the weird training hiccups that ate steps and I got booted from the Loss graph screen right after I downloaded the module.*
 
 *Smutknight is somewhat vanilla smut, as far as my tastes go anyways, but results have been good for me so far. Author focused a lot on League of Legends and fantasy settings but the module should slot into most topics just fine.*
+
+#### [Tas_Tan](https://files.catbox.moe/ocz107.module)
+
+[by PaeRist](https://discord.com/channels/854479693503660032/939950910690439179/970235819405217832)
+
+*Erotic stories involving Large Cock, Breeding, Futanari, abnormal semen consistency, ugly bastards, shortstacks. Very Femsub. I suggest looking at his Archive of our own profile to get an idea.*
+
+*7182 steps*
+
+*52 files*
 
 #### [Tastatura](https://files.catbox.moe/hc44bv.module)
 
@@ -1099,9 +1128,27 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 >
 >She had been living outside of the Pride Lands for several months now, finding a place with other lions who had no desire to be part of the pride hierarchy. They were content to live their own lives without having any responsibilities to the others around them.
 
-1
-[20:45]
+##### [Magic: The Gathering](https://files.catbox.moe/sy7s40.module)
 
+[by Potato](https://discord.com/channels/836774308772446268/939922436500107314/974897545966944306)
+
+*Includes fiction from the Magic: The Gathering universe, with novels such as The Thran, The Brothers' War, Planeswalker, and various individual tales of quality web stories like Core 2019, The Promised End, The Truth of Names and other tales. I'm looking for quality writing and variety of characters over setting and lore accuracy. I have not included newer tales due to not playing the game recently.*
+
+*Updated! Added Ravnica, City of Guilds, the Anthology "The Colors of Magic", The Hour of Devastation series and the web story, Memories of Blood.*
+
+***Tags:** Mtg, Magic, the, gathering, fantasy, web, novelization*
+
+![](https://files.catbox.moe/vrfz49.png)
+{: .center}
+
+![](https://files.catbox.moe/75ejav.png)
+{: .center}
+
+##### [Mass Effect](https://files.catbox.moe/j7zuq4.module)
+
+[by raspandyp](https://discord.com/channels/836774308772446268/939922436500107314/971030434043551754)
+
+*Over 26406 words containing the lore of the Mass Effect trilogy. Based on the wiki, games and comics. It is neutral enough if you don't want your story to be focused on Shepard, even it if contains the informations about them.*
 
 ##### [Sailor Moon](https://files.catbox.moe/ticmjh.module)
 
@@ -1559,6 +1606,67 @@ Special thanks to anon who made this possible.*
 >Her smile was bright as always, and her eyes sparkled in excitement.
 >
 >It reminded me of that picture of the girl on TV. Iroha looked like she was having a blast, and I felt myself getting dragged along to play with her.
+
+##### [Noir](https://files.catbox.moe/hwj2kv.module)
+
+A.K.A "101 Noir/Pulp Fiction Books (Hard Case Crime Collection)"
+
+[by Kitty](https://discord.com/channels/836774308772446268/939922436500107314/970662823233486878)
+
+*Imagine dreary saxophone music, desolate streetlamps, and a lone figure walking through the drizzling rain. Noir fiction is Film noir's literary sister, and she portrays crime fiction in bleak hues of moral gray. Even the protagonists are deliciously flawed. Perhaps unsurprisingly, you will also find a lot of alcohol and an unhealthy fixation on cigarettes.*
+
+*This module was experimentally trained on 101 books from the Hard Case Crime series, comprising a selection of vintage noir paperbacks and modern novels. The publisher's intent is to "recreate the flavor and setting of the paperback crime novels of the 1940s and '50s."*
+
+***Tags:** Noir, Pulp, Hard-boiled Fiction, Euterpe*
+
+***Notes:** Retrained for Euterpe using the exact settings previously used for Sigurd. It gained significant improvements; no additional tags were required to influence output. It also developed a lot more flirting and tension. For some reason.*
+
+***Sources:** (32.5mb, 10000 steps, 26.46% coverage, 2.60 loss)*
+
+>I was in the car, driving along a two-lane road, when I heard the news. It was on the radio, of course, and it wasn't good news. The President had been shot, and he'd died soon after. He'd been hit by a bullet from an assassin's gun. That was all they said.
+>
+>The news got worse as I listened to the announcer give more details. There were reports that the man who fired the shot was dead, but there was no way to be sure. They hadn't caught him yet. He might still be out there somewhere. They didn't know where he'd come from or why he did what he did.
+>
+>That last bit made me feel sick. I knew why he did it, and I hated myself for knowing. If I hadn't seen what he saw...if I hadn't felt what he felt...maybe I could have stopped him. Maybe I should have.
+>
+>I turned off the radio and stared at the back of my hand, which was resting on the steering wheel. It looked like any other hand, except that it was a little swollen and red around the knuckles.
+>
+>"It's not your fault," I told myself, although I wasn't sure if I believed that. "He's the one who killed the President."
+>
+>But maybe I am responsible, just a little bit.
+
+>"So what do you want to know?" I asked. "I'm not a detective, I just came along for the ride."
+>
+>She took a sip of her drink and looked at me over the rim of her glass. "You're not afraid of him," she said.
+>
+>"Not really," I told her. "What's he going to do? He can't kill me, I don't have anything on him. And if he does try something like that, I'll just go back to New York City."
+>
+>"He has ways of finding people," she said. "And they're very unpleasant."
+>
+>"Like what?" I asked.
+>
+>She shrugged. "The same as any other man with power. They find out things about you that are embarrassing or incriminating and use them against you." She drained her glass and set it down on the table beside her. "They can ruin your career. Or they can make you disappear."
+>
+>"Well, let's hope he doesn't get his hands on anything too juicy," I said. "Because if he does, I might have to come back here again sometime."
+>
+>She smiled. "I think we'd better be careful what we say around each other."
+
+>"I'm not sure I like the sound of that," she said. "What do you mean?"
+>
+>He shrugged, then went on, "It's a long story." He pulled out his pack of cigarettes and lit one, blew smoke at her. She smiled, then turned away to watch the river flow by. "You know what it means when a man tells you he has a long story?"
+>
+>She looked back at him. "No, what does it mean?"
+>
+>"It means he doesn't want to tell it yet."
+>
+>She nodded. "That makes sense."
+>
+>He puffed again, then said, "So why don't we just forget about this whole business? Forget about my long story, and your big problem, and go our separate ways. It would be easier for both of us."
+>
+>"But if you don't help me—"
+>
+>"Why should I?"
+
 
 ##### [Norse](https://files.catbox.moe/pd0hhu.module)
 
