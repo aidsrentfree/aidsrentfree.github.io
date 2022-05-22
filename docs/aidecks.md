@@ -91,6 +91,7 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | Card | Name | Description | Post |
 |---|:---:|:---:|:---:|
 | ![Card](https://files.catbox.moe/szjclr.png) | Carmina Di Antonnio | A client to provide jobs or buy artifacts from the team post-heist. | [>>383511619](https://arch.b4k.co/vg/thread/383402156/#383403956) |
+| ![Card](https://files.catbox.moe/k8fgm1.png) | Robert Black | A classic mob boss with a job for you, don't mess it up. | [>>385133468](https://arch.b4k.co/vg/thread/385081274/#385133468) |
 
 ### **The Joint**
 {: .center}
@@ -98,6 +99,8 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | Card | Name | Description | Post |
 |---|:---:|:---:|:---:|
 | ![Card](https://files.catbox.moe/6c49ok.png) | The Lucky Lover Casino | Casino and sex trafficking headquarters. | [>>383332867](https://arch.b4k.co/vg/thread/383189508/#383332867) |
+| ![Card](https://files.catbox.moe/wlrnrf.png) | The Zenith | A state of the art train filled with the rich and their riches. | [>>385133468](https://arch.b4k.co/vg/thread/385081274/#385133468) |
+| ![Card](https://files.catbox.moe/598167.png) | History Museum |  A non-specific history museum filled with artifacts (consider the [Treasure Hunting Artifacts](#treasure-hunting-grave-robber-wars) as a possible Score). | [>>385133468](https://arch.b4k.co/vg/thread/385081274/#385133468) |
 
 ### **The Score**
 {: .center}
@@ -108,6 +111,9 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | ![Card](https://files.catbox.moe/vmdvdi.png) | Kobold Slaves | For utility or decadence, who doesn't want a cute 'bold or two under their command? | [>>383334469](https://arch.b4k.co/vg/thread/383189508/#383334469) |
 | ![Card](https://files.catbox.moe/eh5nr5.png) | The Golden Gallons | At least it's not actually golden? | [>>383445543](https://arch.b4k.co/vg/thread/383402156/#383445543) |
 | ![Card](https://files.catbox.moe/lpg9xm.png) | GPT-4 | What do we want? A girl worth fighting for! | [>>383606420](https://arch.b4k.co/vg/thread/383402156/#383606420) |
+| ![Card](https://files.catbox.moe/lmc5jw.png) | Horni Virus | A lewd classification of computer virus used by (and sometimes on) hackers. | [>>385077701](https://arch.b4k.co/vg/thread/384803404/#385077701) |
+| ![Card](https://files.catbox.moe/rmv3xu.png) | The Ho Diamond | Many thieves' wet dream, some say literally. | [>>385133468](https://arch.b4k.co/vg/thread/385081274/#385133468) |
+| ![Card](https://files.catbox.moe/gmwhe6.png) | The Stash | A famous person's personal stash of his/her most depraved porn. | [>>385133468](https://arch.b4k.co/vg/thread/385081274/#385133468) |
 
 ### **The Obstacles**
 {: .center}
@@ -118,6 +124,8 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | ![Card](https://files.catbox.moe/6jot32.png) | Private Security | The best faceless goons money can buy. | [>>383332867](https://arch.b4k.co/vg/thread/383189508/#383332867) |
 | ![Card](https://files.catbox.moe/izkwg7.png) | Honor Among Thieves | With friends like these... | [>>383333174](https://arch.b4k.co/vg/thread/383189508/#383333174) |
 | ![Card](https://files.catbox.moe/acbs3e.png) | Laser Hallway | Dazzling, but deadly. | [>>383332737](https://arch.b4k.co/vg/thread/383189508/#383332737) |
+| ![Card](https://files.catbox.moe/wvguw7.png) | Amateur Crooks | They're here to steal the same thing, but they're probably going to fail and make things harder for you. | [>>385133468](https://arch.b4k.co/vg/thread/385081274/#385133468) |
+| ![Card](https://files.catbox.moe/bcxu50.png) | The Police | You know the plan has failed once the cops show up and you aren't long gone. | [>>385133468](https://arch.b4k.co/vg/thread/385081274/#385133468) |
 
 ### **The Rivals**
 {: .center}
@@ -143,6 +151,7 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | ![Card](https://files.catbox.moe/0d0r6l.png) | Paulie 'the Hammer' | Will beat your face in, and look good while doing it. | [>>383337475](https://arch.b4k.co/vg/thread/383189508/#383337475) |
 | ![Card](https://files.catbox.moe/u9a36b.png) | Big Louie | .... 'Big' is just a nickname. | [>>383342847](https://arch.b4k.co/vg/thread/383189508/#383342847) |
 | ![Card](https://files.catbox.moe/n5w94w.png) | Fujiko Mine | Sorry boys, she's taken... your possessions.  | [>>383469396](https://arch.b4k.co/vg/thread/383402156/#383469396) |
+| ![Card](https://files.catbox.moe/lqig2y.png) | Marie Masson | A French fashion designer who turned to a life of crime to fund her projects. | [>>385133468](https://arch.b4k.co/vg/thread/385081274/#385133468) |
 
 ### **The Getaway**
 {: .center}
@@ -150,6 +159,7 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | Card | Name | Description | Post |
 |---|:---:|:---:|:---:|
 | ![Card](https://files.catbox.moe/bd0hf1.png) | Fiat 126p | You know what Fiat stands for, right? | [>>383417545](https://arch.b4k.co/vg/thread/383402156/#383417545) |
+| ![Card](https://files.catbox.moe/b2z5mx.png) | Escape Tunnel |  A convenient tunnel that leads to freedom (or maybe straight into a trap). | [>>385133468](https://arch.b4k.co/vg/thread/385081274/#385133468) |
 
 ***
 
