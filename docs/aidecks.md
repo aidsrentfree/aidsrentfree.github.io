@@ -107,7 +107,6 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | ![Card](https://files.catbox.moe/j1coh2.png) | The Bank | For when you need to make a withdrawal. | [>>385148026](https://arch.b4k.co/vg/thread/385081274/#385148026) |
 | ![Card](https://files.catbox.moe/imxygq.png) | The Museum | Those treasure hunter's do the hard part—you're just here to collect. | [>>385148247](https://arch.b4k.co/vg/thread/385081274/#385148247) |
 | ![Card](https://files.catbox.moe/5uvwr7.png) | The Vaults of Dendrin | Built by a deity that was forgotten by the passing of time, these ancient chambers are filled with all sorts of magical traps and summoned minions. | [>>385177547](https://arch.b4k.co/vg/thread/385081274/#385177547) |
-| ![Card](https://files.catbox.moe/kf1zvm.png) | Tahiti | Perfect for a job of volcanic proportions. | [>>385200038](https://arch.b4k.co/vg/thread/385081274/#385200038) |
 
 ### **The Score**
 {: .center}
@@ -185,6 +184,7 @@ Probably! This is a brand new event after all. If something isn't working, be su
 |---|:---:|:---:|:---:|
 | ![Card](https://files.catbox.moe/bd0hf1.png) | Fiat 126p | You know what Fiat stands for, right? | [>>383417545](https://arch.b4k.co/vg/thread/383402156/#383417545) |
 | ![Card](https://files.catbox.moe/b2z5mx.png) | Escape Tunnel |  A convenient tunnel that leads to freedom (or maybe straight into a trap). | [>>385133468](https://arch.b4k.co/vg/thread/385081274/#385133468) |
+| ![Card](https://files.catbox.moe/kf1zvm.png) | Tahiti | Perfect for a job of volcanic proportions. | [>>385200038](https://arch.b4k.co/vg/thread/385081274/#385200038) |
 
 ***
 
