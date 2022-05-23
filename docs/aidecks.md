@@ -59,6 +59,7 @@ Probably! This is a brand new event after all. If something isn't working, be su
 	- [**The Obstacles**](#the-obstacles)
 	- [**The Rivals**](#the-rivals)
 	- [**The Crew**](#the-crew)
+	- [**The Tricks**](#the-tricks)
 	- [**The Getaway**](#the-getaway)
 - [**Modern Space Fantasy**](#modern-space-fantasy)
 - [**Treasure Hunting Grave Robber Wars**](#treasure-hunting-grave-robber-wars)
@@ -101,6 +102,12 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | ![Card](https://files.catbox.moe/6c49ok.png) | The Lucky Lover Casino | Casino and sex trafficking headquarters. | [>>383332867](https://arch.b4k.co/vg/thread/383189508/#383332867) |
 | ![Card](https://files.catbox.moe/wlrnrf.png) | The Zenith | A state of the art train filled with the rich and their riches. | [>>385133468](https://arch.b4k.co/vg/thread/385081274/#385133468) |
 | ![Card](https://files.catbox.moe/598167.png) | History Museum |  A non-specific history museum filled with artifacts (consider the [Treasure Hunting Artifacts](#treasure-hunting-grave-robber-wars) as a possible Score). | [>>385133468](https://arch.b4k.co/vg/thread/385081274/#385133468) |
+| ![Card](https://files.catbox.moe/y5a9fw.png) | Pleasure Island | You can see Epstein's house from here! | [>>385147490](https://arch.b4k.co/vg/thread/385081274/#385147490) |
+| ![Card](https://files.catbox.moe/sgdsxf.png) | The Armored Car | Treasure in transit. | [>>385147696](https://arch.b4k.co/vg/thread/385081274/#385147696) |
+| ![Card](https://files.catbox.moe/j1coh2.png) | The Bank | For when you need to make a withdrawal. | [>>385148026](https://arch.b4k.co/vg/thread/385081274/#385148026) |
+| ![Card](https://files.catbox.moe/imxygq.png) | The Museum | Those treasure hunter's do the hard part—you're just here to collect. | [>>385148247](https://arch.b4k.co/vg/thread/385081274/#385148247) |
+| ![Card](https://files.catbox.moe/5uvwr7.png) | The Vaults of Dendrin | Built by a deity that was forgotten by the passing of time, these ancient chambers are filled with all sorts of magical traps and summoned minions. | [>>385177547](https://arch.b4k.co/vg/thread/385081274/#385177547) |
+| ![Card](https://files.catbox.moe/kf1zvm.png) | Tahiti | Perfect for a job of volcanic proportions. | [>>385200038](https://arch.b4k.co/vg/thread/385081274/#385200038) |
 
 ### **The Score**
 {: .center}
@@ -114,6 +121,7 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | ![Card](https://files.catbox.moe/lmc5jw.png) | Horni Virus | A lewd classification of computer virus used by (and sometimes on) hackers. | [>>385077701](https://arch.b4k.co/vg/thread/384803404/#385077701) |
 | ![Card](https://files.catbox.moe/rmv3xu.png) | The Ho Diamond | Many thieves' wet dream, some say literally. | [>>385133468](https://arch.b4k.co/vg/thread/385081274/#385133468) |
 | ![Card](https://files.catbox.moe/gmwhe6.png) | The Stash | A famous person's personal stash of his/her most depraved porn. | [>>385133468](https://arch.b4k.co/vg/thread/385081274/#385133468) |
+| ![Card](https://files.catbox.moe/5to6p4.png) | Elixir of Panacea | Won't heal a broken heart. | [>>385177547](https://arch.b4k.co/vg/thread/385081274/#385177547)
 
 ### **The Obstacles**
 {: .center}
@@ -136,6 +144,7 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | ![Card](https://files.catbox.moe/8p1rgj.png) | Leo Love | The charismatic owner of a successful casino and sex trafficking operation. | [>>383332867](https://arch.b4k.co/vg/thread/383189508/#383332867) |
 | ![Card](https://files.catbox.moe/t9ebpx.png) | Vinyr | Fledgling criminal overlord whose overconfidence has left him open to a nice robbery. | [>>383334469](https://arch.b4k.co/vg/thread/383189508/#383334469) |
 | ![Card](https://files.catbox.moe/ghhb4j.png) | Inspector Augustin | Competently incompetent. | [>>383459326](https://arch.b4k.co/vg/thread/383402156/#383459326) |
+| ![Card](https://files.catbox.moe/f0z5xi.png) | Lysanthir The Blue | A paranoid wizard lord with a vast collection of enchanted artifacts. | [>>385177547](https://arch.b4k.co/vg/thread/385081274/#385177547) |
 
 ### **The Crew**
 {: .center}
@@ -152,6 +161,22 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | ![Card](https://files.catbox.moe/u9a36b.png) | Big Louie | .... 'Big' is just a nickname. | [>>383342847](https://arch.b4k.co/vg/thread/383189508/#383342847) |
 | ![Card](https://files.catbox.moe/n5w94w.png) | Fujiko Mine | Sorry boys, she's taken... your possessions.  | [>>383469396](https://arch.b4k.co/vg/thread/383402156/#383469396) |
 | ![Card](https://files.catbox.moe/lqig2y.png) | Marie Masson | A French fashion designer who turned to a life of crime to fund her projects. | [>>385133468](https://arch.b4k.co/vg/thread/385081274/#385133468) |
+| ![Card](https://files.catbox.moe/zj0tsi.png) | Johnny 'Wheels' | A real human bean. | [>>385149115](https://arch.b4k.co/vg/thread/385081274/#385149115) |
+| ![Card](https://files.catbox.moe/g9m15o.png) | Cal | A leading man. | [>>385149371](https://arch.b4k.co/vg/thread/385081274/#385149371) |
+| ![Card](https://files.catbox.moe/tuljug.png) | Hana Matsuda | A smelly teenage shut-in hacker girl, aka Hex online. | [>>385166427](https://arch.b4k.co/vg/thread/385081274/#385166427) |
+| ![Card](https://files.catbox.moe/ji5v0x.png) | Vigdis Giantslayer | Size isn't everything. | [>>385230982](https://arch.b4k.co/vg/thread/385081274/#385230982) |
+
+### **The Tricks**
+{: .center}
+
+| Card | Name | Description | Post |
+|---|:---:|:---:|:---:|
+| ![Card](https://files.catbox.moe/bbf0l5.png) | Safecracking | Cracking open Capitalism's coconut. | [>>385148669](https://arch.b4k.co/vg/thread/385081274/#385148669)
+| ![Card](https://files.catbox.moe/ag3qrp.png) | Of Course I Belong Here | Prejudice presents positives. | [>>385148883](https://arch.b4k.co/vg/thread/385081274/#385148883) |
+| ![Card](https://files.catbox.moe/k3shlo.png) | Active Camouflage | Out of sight, out of mind. | [>>385149627](https://arch.b4k.co/vg/thread/385081274/#385149627) |
+| ![Card](https://files.catbox.moe/p385yl.png) | The Art Forger | When you think about it, museums already do this all the time. | [>>385148445](https://arch.b4k.co/vg/thread/385081274/#385148445) |
+| ![Card](https://files.catbox.moe/1z8z2i.png) | Punxsutawney Thumper | DAM! | [>>385150295](https://arch.b4k.co/vg/thread/385081274/#385150295) |
+| ![Card](https://files.catbox.moe/9un5fu.png) | Backwards Long Jump | A trick that'll leave [pannenkoek2012](https://youtu.be/kpk2tdsPh0A?t=631) jumping for joy. | [>>385152095](https://arch.b4k.co/vg/thread/385081274/#385152095) |
 
 ### **The Getaway**
 {: .center}
