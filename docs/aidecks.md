@@ -175,7 +175,7 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | ![Card](https://files.catbox.moe/k3shlo.png) | Active Camouflage | Out of sight, out of mind. | [>>385149627](https://arch.b4k.co/vg/thread/385081274/#385149627) |
 | ![Card](https://files.catbox.moe/p385yl.png) | The Art Forger | When you think about it, museums already do this all the time. | [>>385148445](https://arch.b4k.co/vg/thread/385081274/#385148445) |
 | ![Card](https://files.catbox.moe/1z8z2i.png) | Punxsutawney Thumper | DAM! | [>>385150295](https://arch.b4k.co/vg/thread/385081274/#385150295) |
-| ![Card](https://files.catbox.moe/9un5fu.png) | Backwards Long Jump | A trick that'll leave [pannenkoek2012](https://youtu.be/kpk2tdsPh0A?t=631) jumping for joy. | [>>385152095](https://arch.b4k.co/vg/thread/385081274/#385152095) |
+| ![Card](https://files.catbox.moe/ry5b40.png) | Backwards Long Jump | A trick that'll leave [pannenkoek2012](https://youtu.be/kpk2tdsPh0A?t=631) jumping for joy. | [>>385152095](https://arch.b4k.co/vg/thread/385081274/#385152095) |
 
 ### **The Getaway**
 {: .center}
