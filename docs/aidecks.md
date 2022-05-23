@@ -82,6 +82,13 @@ Probably! This is a brand new event after all. If something isn't working, be su
 ## **Heists**
 {: .center}
 
+(May 2022)
+{: .center}
+
+
+![](https://files.catbox.moe/vwtlhi.png)
+{: .center}
+
 *It's a perfect format for decks, make cards about the crew, the masterminds, the target loot, the crazy places to be broken into, it goes on.*<br>
 *And don't limit yourself strictly to formats like Ocean's 11, although personally that will be my focus, but any sort of organized planned robbery like bank jobs, knocking over a train, can work if you play your cards right.*
 {: .center}
