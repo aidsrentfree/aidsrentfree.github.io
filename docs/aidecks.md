@@ -85,7 +85,6 @@ Probably! This is a brand new event after all. If something isn't working, be su
 (May 2022)
 {: .center}
 
-
 ![](https://files.catbox.moe/vwtlhi.png)
 {: .center}
 

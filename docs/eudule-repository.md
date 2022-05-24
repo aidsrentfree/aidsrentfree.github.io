@@ -3,7 +3,6 @@ layout: page
 title: "Module Repository — Euterpe"
 permalink: /modules/euterpe
 ---
-
 <style>
 	.center {
 		text-align: center;
@@ -11,6 +10,7 @@ permalink: /modules/euterpe
 </style>
 
 # The Euterpe Module Repository
+
 {: .center}
 
 This page serves as the list of modules trained for the Euterpe model. If you're looking for the Sigurd module collection, [go here.](https://aidsrentfree.github.io/modules/sigurd)
@@ -19,9 +19,23 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *Because of shenanigans involving browser cache, you may need to hard refresh (Ctrl + Shift + R / Ctrl + F5) to see new stuff.*
 {: .center}
 
-***
+---
 
 ## Recent Changes
+
+(24th May, 2022)
+
+- Added [Gay WWE](#gay-wwe) module.
+- Added [Dovahhatty](#dovahhatty) module.
+- Added [Creepypasta](#creepypasta) module.
+- Added [The Quran](#the-quran) module.
+- Added [The Dhammapada](#the-dhammapada) module.
+- Added [American Psycho](#american-psycho) module.
+- Added [Me, Alice](#me-alice) module.
+- Added [Starship Troopers](#starship-troopers) module.
+- Added [Hentai Captions](#hentai-captions) module.
+- Added [Chris-Chan: A Comprehensive History](#chris-chan-a-comprehensive-history) module.
+- Added [Cormac McCarthy (No Country for Old Men, Blood Meridian, etc.)](#cormac-mccarthy) module.
 
 (18th May, 2022)
 
@@ -66,33 +80,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Columbo Book Series](#columbo) module.
 - Added [Dagoth Ur](#dagoth-ur) module.
 
-(23rd April, 2022)
-
-- Added [Light Novel Title Generator](#light-novel-title-generator) module.
-- Added [Imouto](#imouto) module.
-- Added [Muscular Females](#muscular-girls) module.
-- Added [Excessive Cum](#excessive-cum) module.
-
-(12th April, 2022)
-
-- Added [Knotting](#knotting) module.
-- Added [A Dragon Ranch in Suburbia](#a-dragon-ranch-in-suburbia) module.
-- Added [Longform Mind Control](#longform-mind-control) module.
-- Updated [Monster Girls and other Non-Humans](#non-humans) module.
-- Added [Item generator](#dscryb) module.
-- Added [First Person/Deep POV](#first-persondeep-pov) module.
-- Added [DanMachi](#danmachi) module.
-- Added [Bridgerton](#bridgerton) module.
-- Added [Starcraft](#starcraft) module.
-- Added [Emo/Pop/Punk Lyrics](#emopoppunk-lyrics) module.
-- Added [Taylor Swift Lyrics](#taylor-swift-lyrics) module.
-- Added [Disney Song Lyrics](#disney-song-lyrics) module.
-- Added [Darkest Dungeon Narration](#darkest-dungeon-narration) module.
-- Added [Zombie Apocalypse](#zombie-apocalypse) module.
-- Added [Gatomon](#gatomon) module.
-- Added [The Meditations of Marcus Aurelius](#the-meditations-of-marcus-aurelius) module.
-
-***
+---
 
 ## [Table of Contents](#modules)
 
@@ -104,6 +92,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Andy Weir](#andy-weir)
     - [Clark Ashton Smith](#clark-ashton-smith)
     - [C. S. Lewis](#c-s-lewis)
+    - [Cormac McCarthy](#cormac-mccarthy)
     - [E. E. Cummings](#e-e-cummings)
     - [George Orwell](#george-orwell)
     - [Hunter S. Thompson](#hunter-s-thompson)
@@ -168,6 +157,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [World of Pokemon](#world-of-pokemon)
       - [Xenogears](#xenogears)
     - [Generic](#generic)
+      - [Creepypasta](#creepypasta)
       - [Cyberpunk (Annotated)](#cyberpunk-annotated)
       - [Desert Fantasy and Folklore](#desert-fantasy-and-folklore)
       - [Elizabethan Fantasy](#elizabethan-fantasy)
@@ -219,9 +209,11 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [All The Shit I Wrote](#all-the-shit-i-wrote)
       - [Contemporary Poetry](#contemporary-poetry)
       - [Cross-Genre, Oh My!](#cross-genre-oh-my)
+      - [Dovahhatty](#dovahhatty)
       - [Disney Song Lyrics](#disney-song-lyrics)
       - [Emo/Pop/Punk Lyrics](#emopoppunk-lyrics)
       - [First Person/Deep POV](#first-persondeep-pov)
+      - [Hentai Captions](#hentai-captions)
       - [Lyrical Writing](#lyrical-writing)
       - [The Manwhore Module](#the-manwhore-module)
       - [Smorgasboard Experiment](#smorgasboard-experiment)
@@ -284,6 +276,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Men and Dragons](#men-and-dragons)
       - [RWBY Kinks](#rwby-kinks)
       - [TGTF Gender Bender](#tgtf-gender-bender)
+      - [WWE (Gay)](#wwe-gay)
 - [Works](#works)
   - [Fiction](#fiction)
     - [Classic](#classic)
@@ -298,6 +291,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Young Girl's Handbook of Good Manners for Use in Educational Establishments](#young-girls-handbook-of-good-manners-for-use-in-educational-establishments)
     - [Modern](#modern)
       - [Altered Carbon](#altered-carbon)
+      - [American Psycho](#american-psycho)
       - [Bridgerton](#bridgerton)
       - [Christine](#christine)
       - [Columbo](#columbo)
@@ -313,11 +307,15 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Percy Jackson](#percy-jackson)
       - [Redwall](#redwall)
       - [The Solar Cycle](#the-solar-cycle)
+      - [Starship Troopers](#starship-troopers)
       - [The Witcher](#the-witcher)
   - [Non-Fiction](#non-fiction)
+    - [The Dhammapada](#the-dhammapada)
     - [The King James Bible](#the-king-james-bible)
     - [The Meditations of Marcus Aurelius](#the-meditations-of-marcus-aurelius)
+    - [Me, Alice](#me-alice)
     - [Suma Theologica](#suma-theologica)
+    - [The Quran](#the-quran)
   - [Visual Novels](#visual-novels)
     - [Ace Attorney](#ace-attorney)
     - [Fate/stay night](#fatestay-night)
@@ -351,6 +349,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [text_adventures.txt](#text_adventurestxt)
     - [Worm](#worm)
   - [Scripts](#scripts)
+    - [Chris-Chan: A Comprehensive History](#chris-chan-a-comprehensive-history)
     - [9th Doctor Transcripts](#9th-doctor-transcripts)
     - [10th Doctor Transcripts](#10th-doctor-transcripts)
     - [Dagoth Ur](#dagoth-ur)
@@ -380,9 +379,10 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Wikipedia](#wikipedia)
   - [Yu-Gi-Oh Cards](#yu-gi-oh-cards)
 
-***
+---
 
 ## Modules
+
 {: .center}
 
 - [Table of Contents](#table-of-contents) - *Complete outline of all modules.*
@@ -391,9 +391,10 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - [Works](#works) - *Modules that attempt to imitate the style of a written work.*
 - [Utilities](#utilities) - *Modules without a narrative purpose.*
 
-***
+---
 
 ## [Authors](#modules)
+
 {: .center}
 
 - [Traditional](#traditional) - *Authors whose works have been published by an established publishing house.*
@@ -401,7 +402,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - [Intellectual](#intellectual) - *Authors whose works are non-fictional.*
 - [Online](#online) - *Authors whose works are available on online creative platforms or are part of an internet medium.*
 
-***
+---
 
 ### [Traditional](#writers)
 
@@ -426,27 +427,27 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ***Sources:** Volumes 1-5 of his collected stories (excluding the juvenalia, vol. 6). 80% coverage, 3.01 loss (perhaps the exotic names are to be blamed for this, but it is still quite coherent).*
 
->The night was very black, and the stars were hidden by a pall of smoke that hung over the city like a cloud. The air was full of ashes; and in the streets there was no sound but the rattle of wheels on the pavement, and the low murmur of voices from the open windows of the houses. It seemed to me that I had never seen such an empty-looking place before, nor heard so many doors shut at once; and I thought it strange that all should be quiet when the whole world was in tumult. But then I remembered that this was not a time for people to go abroad except in disguise or under cover of darkness. And as we came nearer the palace, I saw that the gates were closed, and the guards posted within their portals. They looked at us with fixed eyes through the gloom, and did not move until we had passed them.
+> The night was very black, and the stars were hidden by a pall of smoke that hung over the city like a cloud. The air was full of ashes; and in the streets there was no sound but the rattle of wheels on the pavement, and the low murmur of voices from the open windows of the houses. It seemed to me that I had never seen such an empty-looking place before, nor heard so many doors shut at once; and I thought it strange that all should be quiet when the whole world was in tumult. But then I remembered that this was not a time for people to go abroad except in disguise or under cover of darkness. And as we came nearer the palace, I saw that the gates were closed, and the guards posted within their portals. They looked at us with fixed eyes through the gloom, and did not move until we had passed them.
 >
->We went up the broad steps of the great portico, which was lit by torches placed upon brackets along its sides. We entered the building without being challenged; and after passing through several large rooms, we found ourselves in a smaller hall whose walls were hung with tapestries of gold and silver, and whose floor was paved with marble slabs. There was no one about, save a few slaves who carried lamps into other parts of the house.
+> We went up the broad steps of the great portico, which was lit by torches placed upon brackets along its sides. We entered the building without being challenged; and after passing through several large rooms, we found ourselves in a smaller hall whose walls were hung with tapestries of gold and silver, and whose floor was paved with marble slabs. There was no one about, save a few slaves who carried lamps into other parts of the house.
 >
->At last we reached a door of carved wood, and knocked softly upon it. A voice answered us from within: "Who comes?"
+> At last we reached a door of carved wood, and knocked softly upon it. A voice answered us from within: "Who comes?"
 >
->"It is the Prince," said my father.
+> "It is the Prince," said my father.
 >
->A moment later a man opened the door, and admitted us. He was tall and thin, and wore a robe of purple velvet embroidered with golden threads.
+> A moment later a man opened the door, and admitted us. He was tall and thin, and wore a robe of purple velvet embroidered with golden threads.
 
->The necromancer's face was a mask of horror. He had been expecting something like this, but not quite so soon; and he felt that his own powers were failing him in the presence of such an evil influence as this. His voice trembled with fear when he spoke to the corpse-man: "What is your will? What do you desire?"
+> The necromancer's face was a mask of horror. He had been expecting something like this, but not quite so soon; and he felt that his own powers were failing him in the presence of such an evil influence as this. His voice trembled with fear when he spoke to the corpse-man: "What is your will? What do you desire?"
 >
->"I want to be taken back," said the dead man, "to my place of rest."
+> "I want to be taken back," said the dead man, "to my place of rest."
 >
->"You shall have it!" cried the necromancer, seizing the body by the arms and dragging it from the bed. The thing seemed to weigh no more than a child; and its limbs moved stiffly under his hands as if they were made of wood or stone.
+> "You shall have it!" cried the necromancer, seizing the body by the arms and dragging it from the bed. The thing seemed to weigh no more than a child; and its limbs moved stiffly under his hands as if they were made of wood or stone.
 >
->"Where are we going?" asked the dead man, as he followed after his master into the corridor.
+> "Where are we going?" asked the dead man, as he followed after his master into the corridor.
 >
->"To the tomb chamber," answered the necromancer.
+> "To the tomb chamber," answered the necromancer.
 >
->They went down many winding stairs, and through dark passages which led them farther and farther away from the house of the sorcerer. At length they came to a huge vaulted room whose walls were covered with frescoes of death and desolation. The floor was strewn with bones and skulls, and here and there lay the corpses of men and women who had died long ago. In the center of the chamber stood a sarcophagus, and on top of it rested a skeleton clad in black armor and carrying a sword and shield. This figure was the necromancer himself.
+> They went down many winding stairs, and through dark passages which led them farther and farther away from the house of the sorcerer. At length they came to a huge vaulted room whose walls were covered with frescoes of death and desolation. The floor was strewn with bones and skulls, and here and there lay the corpses of men and women who had died long ago. In the center of the chamber stood a sarcophagus, and on top of it rested a skeleton clad in black armor and carrying a sword and shield. This figure was the necromancer himself.
 
 #### [C. S. Lewis](https://mega.nz/file/VGwygKKa#oUAumhzb2td1uEyv_qDlC1XLnz0Ali66O4_dSqvEzN0)
 
@@ -455,6 +456,17 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *I've trained my CS Lewis module for Euterpe V2. Tested and seems to be working extremely well, his style comes through much more strongly than it did with Sigurd.*
 
 *Training data is most of Lewis's fiction: Narnia books, Space Trilogy, Screwtape Letters, The Great Divorce, Til We Have Faces, Pilgim's Regress. Plus a small selection of non-fiction works: Mere Christianity, The Four Loves, The Weight of Glory.*
+
+#### [Cormac McCarthy](https://files.catbox.moe/cev9i6.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/385081274/#385224664)
+
+*I lost about two hours and 5K steps making a Cormac McCarthy module. Started with No Country and realized it was pretty small, and the author doesn't use a lot of punctuation (no quotation marks at all) so his books are easy to clean.*
+
+*Let me know if anyone's interested in specific modules for No Country, The Road, Blood Meridian [include these names on Rentfree, for discoverability] or anything else once my steppies have had time to regenerate.*
+
+![demo](https://files.catbox.moe/z8c1dg.jpg)
+{: .center}
 
 #### [E. E. Cummings](https://files.catbox.moe/lmyt7f.module)
 
@@ -486,7 +498,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Due to the prevalence of Thompson's own name in the writing, banning "Hunter" and "Thompson" is recommended if you don't want the AI to immediately go for those if it needs a name.*
 
-*Finally, here's the full pack for this module: <https://files.catbox.moe/szni1m.zip>*
+*Finally, here's the full pack for this module: [https://files.catbox.moe/szni1m.zip](https://files.catbox.moe/szni1m.zip)*
 
 *Usually, I only share my modules with the full pack, but since this pack is 50 MB in size, I linked only the module file as well. Anyway, this contains everything I used in training: The source ebooks, the plaintext conversion, and the edited training data I used.*
 
@@ -512,7 +524,8 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *(1.3 MB, 1431 steps, 100.07% coverage, 3.0896 average loss)*
 
 (no prompt)
->Here was the city that I loved. Nothing could be clearer and more impressive than its ancient majesty, with high ramparts towering in every direction over paved stone roads bordered by fine wrought iron streetlamps... it took my breath away! I went toward a restaurant called The Black Diamond in Plaza del Mascaras at two o'clock sharp. When I entered, the air smelled of garlic and oil; tables were set out on an enormous marble floor under vaulted ceilings decorated with frescoes showing scenes from Roman history and classical mythologies—a huge dining room indeed! Some people passed through: well dressed ladies wearing little black hats whose creases told their owners how many times they had been removed. There sat at one table Clara Cardellini eating spinach soup and crumb cake while her husband Giannis licked butter off his knife's tip. Next to them old Jocasta Doria drank straight-from-the-jug wine as she ate meatballs followed by red pears sprinkled with cinnamon sugar. On another side of the big square, sitting at a large round table surrounded by half-dressed waiters, was the great industrialist Eusebio Astrada y Gómez drinking something made out of potatoes he'd just bought at a nearby market stall for six pesetas apiece. And then there stood Antonio Marcelino, who owned the largest shipyard on the Spanish Main. His friend Carlos Paredes sipped champagne out of glasses shaped like cherries that seemed almost too small to contain such a powerful beverage.
+
+> Here was the city that I loved. Nothing could be clearer and more impressive than its ancient majesty, with high ramparts towering in every direction over paved stone roads bordered by fine wrought iron streetlamps... it took my breath away! I went toward a restaurant called The Black Diamond in Plaza del Mascaras at two o'clock sharp. When I entered, the air smelled of garlic and oil; tables were set out on an enormous marble floor under vaulted ceilings decorated with frescoes showing scenes from Roman history and classical mythologies—a huge dining room indeed! Some people passed through: well dressed ladies wearing little black hats whose creases told their owners how many times they had been removed. There sat at one table Clara Cardellini eating spinach soup and crumb cake while her husband Giannis licked butter off his knife's tip. Next to them old Jocasta Doria drank straight-from-the-jug wine as she ate meatballs followed by red pears sprinkled with cinnamon sugar. On another side of the big square, sitting at a large round table surrounded by half-dressed waiters, was the great industrialist Eusebio Astrada y Gómez drinking something made out of potatoes he'd just bought at a nearby market stall for six pesetas apiece. And then there stood Antonio Marcelino, who owned the largest shipyard on the Spanish Main. His friend Carlos Paredes sipped champagne out of glasses shaped like cherries that seemed almost too small to contain such a powerful beverage.
 
 #### [J. R. R. Tolkien](https://files.catbox.moe/4mf2um.module)
 
@@ -631,7 +644,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 ![](https://files.catbox.moe/ubbtgr.jpg)
 {: .center}
 
-***
+---
 
 ### [Independent](#writers)
 
@@ -643,13 +656,13 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Books included are: Greenwich Killing Time, A Case of Lone Star, When The Cat's Away, Frequent Flyer, Musical Chairs, Elvis Jesus & Coca-Cola, Armadillos & Old Lace, God Bless John Wayne, The Love Song of J. Edgar Hoover, Roadkill, Blast From The Past, Steppin On A Rainbow, Curse of the Missing Puppet Head, Ten Little New Yorkers, Spanking Watson, The Prisoner of Vandam Street, Kill Two Birds & Get Stoned, The Christmas Pig: A Fable, The Mile High Club*
 
->The next day I was in my office when McGovern came by. The windows were open and the air smelled like a New York City garbage dump, but it felt good to be back in the city after so long on the road. There were signs of spring all around me – birds chirping outside the window, flowers blooming in the yard, and even the cat had stopped hissing at me. As he walked in, McGovern said, "I've got some news for you."
+> The next day I was in my office when McGovern came by. The windows were open and the air smelled like a New York City garbage dump, but it felt good to be back in the city after so long on the road. There were signs of spring all around me – birds chirping outside the window, flowers blooming in the yard, and even the cat had stopped hissing at me. As he walked in, McGovern said, "I've got some news for you."
 >
->"Any good?" I asked hopefully.
+> "Any good?" I asked hopefully.
 >
->"There's been a murder," he replied with a grim look.
+> "There's been a murder," he replied with a grim look.
 >
->My heart sank. It seemed that every time I'd thought we'd gotten out of trouble, something else would rear up and throw itself into the fray. My hopes for a quiet little life were not coming true. In fact, there didn't seem to be any way I could ever get out from under the constant burden of trying to find a missing person or a murderer.
+> My heart sank. It seemed that every time I'd thought we'd gotten out of trouble, something else would rear up and throw itself into the fray. My hopes for a quiet little life were not coming true. In fact, there didn't seem to be any way I could ever get out from under the constant burden of trying to find a missing person or a murderer.
 
 #### [Will Wright](https://files.catbox.moe/4t6714.module)
 
@@ -663,7 +676,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Good for fantasy, magic combat, environment descriptions, etc. 35% coverage.*
 
-***
+---
 
 ### [Intellectual](#writers)
 
@@ -689,7 +702,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *(500% trained generated [the post](https://arch.b4k.co/vg/thread/372230097/#372299662))*
 
-***
+---
 
 ### [Online](#writers)
 
@@ -779,16 +792,17 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *TheGoHt does large proportions. Descriptions of big tits and the like. I think he teetered on inflation porn for a bit? But I don't remember it cropping up too much in his writing.*
 
-***
+---
 
 ## [Themes](#modules)
+
 {: .center}
 
 - [Setting](#setting) - *The module encompasses an entire environment.*
 - [Elements](#elements) - *The module focuses on a concept that can be incorporated into any story.*
 - [Sexual](#sexual) - *That coom shit.*
 
-***
+---
 
 ### [Setting](#themes)
 
@@ -832,11 +846,11 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Aliens: Infiltrator by Weston Ochse
 - Aliens: Bug Hunt (anthology)
 
->**A glistening black carapace slithered sensuously through the shadows of a narrow corridor.** The creature's long, sinuous body moved with fluid grace and it was difficult to believe that such an elegant form could be so deadly. But then again, beauty is in the eye of the beholder. And what one man finds beautiful another might find hideous—and vice versa.
+> **A glistening black carapace slithered sensuously through the shadows of a narrow corridor.** The creature's long, sinuous body moved with fluid grace and it was difficult to believe that such an elegant form could be so deadly. But then again, beauty is in the eye of the beholder. And what one man finds beautiful another might find hideous—and vice versa.
 >
->The alien paused at the corner where two corridors intersected. It turned its head slightly toward the left-hand passage and made no move to go down that way. Instead, it continued along the right side, pausing now and then as if listening for something. When nothing came from this direction either, it went on into the darkness ahead. There were sounds coming from there, too: muffled voices, footsteps echoing off metal walls. The alien did not stop but crept forward slowly, carefully, like a cat hunting mice.
+> The alien paused at the corner where two corridors intersected. It turned its head slightly toward the left-hand passage and made no move to go down that way. Instead, it continued along the right side, pausing now and then as if listening for something. When nothing came from this direction either, it went on into the darkness ahead. There were sounds coming from there, too: muffled voices, footsteps echoing off metal walls. The alien did not stop but crept forward slowly, carefully, like a cat hunting mice.
 >
->At last the alien reached the end of the passageway. Here it stopped once more, crouching low against the wall and holding itself motionless. Then, without warning, it launched itself across the gap between the two corridors and landed softly behind three men who had been talking quietly together when they heard the sound. One of them whirled around just as the alien struck him in the back of his neck with one powerful claw. He dropped instantly to the floor, dead before he hit. Another man tried to turn away from the attack but found himself caught by the claws that tore out his throat. Blood gushed forth in a crimson flood. The third man screamed and fell to the ground, trying desperately to roll aside from the grasping arms that pinned him to the decking.
+> At last the alien reached the end of the passageway. Here it stopped once more, crouching low against the wall and holding itself motionless. Then, without warning, it launched itself across the gap between the two corridors and landed softly behind three men who had been talking quietly together when they heard the sound. One of them whirled around just as the alien struck him in the back of his neck with one powerful claw. He dropped instantly to the floor, dead before he hit. Another man tried to turn away from the attack but found himself caught by the claws that tore out his throat. Blood gushed forth in a crimson flood. The third man screamed and fell to the ground, trying desperately to roll aside from the grasping arms that pinned him to the decking.
 
 ##### [Ancient Egypt](https://files.catbox.moe/uzzka7.module)
 
@@ -858,7 +872,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - The Curse of Anubis by Nathaniel Burns
 - Akhenaten, Dweller in Truth by Naguib Mahfouz
 
->**Standing in the mouth of that great entrance, the chill air of the tomb** blowing across my face like a cold wind from the desert night, I could not help thinking how strange it was to be so close to death. It seemed as if some spell had been laid upon me which would cause me at any moment to turn and run back into the darkness with all speed; yet no sooner did this thought enter my mind than there came an impulse within me compelling me on toward those mighty doors through whose dark portals lay eternal rest for Pharaohs, and their servants who loved them. My heart beat high against my breast until it felt as though it must burst its bonds, but still I went forward without faltering or turning aside. The silence grew more profound around us now, broken only by our own footsteps and the sound of Nefertiti's soft breathing behind me. As we neared the end of the long passage before us she stopped suddenly and turned about to look up at me. "Do you see?" she whispered. Her voice trembled slightly with excitement—and fear? "There is something here," she said again.
+> **Standing in the mouth of that great entrance, the chill air of the tomb** blowing across my face like a cold wind from the desert night, I could not help thinking how strange it was to be so close to death. It seemed as if some spell had been laid upon me which would cause me at any moment to turn and run back into the darkness with all speed; yet no sooner did this thought enter my mind than there came an impulse within me compelling me on toward those mighty doors through whose dark portals lay eternal rest for Pharaohs, and their servants who loved them. My heart beat high against my breast until it felt as though it must burst its bonds, but still I went forward without faltering or turning aside. The silence grew more profound around us now, broken only by our own footsteps and the sound of Nefertiti's soft breathing behind me. As we neared the end of the long passage before us she stopped suddenly and turned about to look up at me. "Do you see?" she whispered. Her voice trembled slightly with excitement—and fear? "There is something here," she said again.
 
 ##### [Beastars](https://files.catbox.moe/41bryl.rar)
 
@@ -884,38 +898,37 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ***Special notes:** 7.04 Mb, 2500 steps, 30.8% coverage, Loss: 2.766.*
 
->**"I used to be an adventurer like you, then I** took an arrow in the knee,” is a common saying among most Khajiit. The phrase refers to the fact that, for all their agility and stealthy ways, they are ill-equipped physically to survive a protracted campaign against hostile creatures. As such, though many Khajiit may be found adventuring (even as far away as Skyrim), more often than not they find themselves engaged in some kind of trade or activity which involves less risk to life and limb.
+> **"I used to be an adventurer like you, then I** took an arrow in the knee,” is a common saying among most Khajiit. The phrase refers to the fact that, for all their agility and stealthy ways, they are ill-equipped physically to survive a protracted campaign against hostile creatures. As such, though many Khajiit may be found adventuring (even as far away as Skyrim), more often than not they find themselves engaged in some kind of trade or activity which involves less risk to life and limb.
 
->**When in Morrowind, do** as the Daedra do. When your character is a Daedric Prince, you know this to be true. The Daedric Princes are experts at how they live their lives — and how we should all live ours. After all, if it were not for Daedra, there would be no Daedric Princes! And where would they be without us?
+> **When in Morrowind, do** as the Daedra do. When your character is a Daedric Prince, you know this to be true. The Daedric Princes are experts at how they live their lives — and how we should all live ours. After all, if it were not for Daedra, there would be no Daedric Princes! And where would they be without us?
 >
->These few simple rules should help you get started on the path toward becoming the best version of yourself possible:
+> These few simple rules should help you get started on the path toward becoming the best version of yourself possible:
 >
->1\. Be honest with your friends and your family. If someone asks you what you’re doing with your life, answer honestly: “I am a Daedric Prince who is exploring new lands and having fun.” Don’t lie about it like I did when my parents asked me why I was playing The Elder Scrolls V: Skyrim so much.
+> 1\. Be honest with your friends and your family. If someone asks you what you’re doing with your life, answer honestly: “I am a Daedric Prince who is exploring new lands and having fun.” Don’t lie about it like I did when my parents asked me why I was playing The Elder Scrolls V: Skyrim so much.
 
->**"Hey Alduin,"** I said, “would you mind sharing your cave with me?”
+> **"Hey Alduin,"** I said, “would you mind sharing your cave with me?”
 >
->Alduin was still a little mad at me because of the time when I had taken his favorite cave and turned it into an inn. He was sitting in front of his cave looking sad and lonely. I could tell that he really needed some company right now and he looked like he would be glad to have mine. So I went over to him.
+> Alduin was still a little mad at me because of the time when I had taken his favorite cave and turned it into an inn. He was sitting in front of his cave looking sad and lonely. I could tell that he really needed some company right now and he looked like he would be glad to have mine. So I went over to him.
 >
->“Howdy there, big fella!” I said. “I know we haven’t always gotten along but I don’t mean any harm by this...”
+> “Howdy there, big fella!” I said. “I know we haven’t always gotten along but I don’t mean any harm by this...”
 >
->He grunted at me but didn’t say anything. I took a deep breath and started talking again, hoping to calm him down, “Look, Alduin, you were just so beautiful and scary and awesome that I couldn’t resist showing off by trying to steal your cave from you. It was all my fault, really, so why don’t you let me stay here for awhile until I can come up with something better?”
+> He grunted at me but didn’t say anything. I took a deep breath and started talking again, hoping to calm him down, “Look, Alduin, you were just so beautiful and scary and awesome that I couldn’t resist showing off by trying to steal your cave from you. It was all my fault, really, so why don’t you let me stay here for awhile until I can come up with something better?”
 >
->The dragon sighed deeply and slowly shook his head. But then he gave me a look that made me feel like maybe he wasn’t quite as angry anymore.
+> The dragon sighed deeply and slowly shook his head. But then he gave me a look that made me feel like maybe he wasn’t quite as angry anymore.
 >
->“Fine,” he said, “but if you cause even one bit of trouble, I will eat you.”
+> “Fine,” he said, “but if you cause even one bit of trouble, I will eat you.”
 >
->“That won’t be necessary,” I told him. “If you promise not to go on a rampage or destroy anything, I will leave everything exactly where it is. As long as you don’t eat anyone who comes through here, I think we can both be happy."
+> “That won’t be necessary,” I told him. “If you promise not to go on a rampage or destroy anything, I will leave everything exactly where it is. As long as you don’t eat anyone who comes through here, I think we can both be happy."
 
->**Here's a list of Sheogorath's best quotations:**
+> **Here's a list of Sheogorath's best quotations:**
 >
->**1\.** “I am the god of insanity and chaos, but I have not forsaken you. My madness is your salvation!”
+> **1\.** “I am the god of insanity and chaos, but I have not forsaken you. My madness is your salvation!”
 >
->2\. “My minions are the stars in my sky... and I will take them all down into darkness with me.”
+> 2\. “My minions are the stars in my sky... and I will take them all down into darkness with me.”
 >
->3\. “The world has been mine since time began! The gods are dead. You mortals are nothing more than an annoying distraction to me as I await the coming of Oblivion.”
+> 3\. “The world has been mine since time began! The gods are dead. You mortals are nothing more than an annoying distraction to me as I await the coming of Oblivion.”
 >
->4\. “Do not fear for the future. It is already written... and it is written in blood.”
-
+> 4\. “Do not fear for the future. It is already written... and it is written in blood.”
 
 ##### [Fallout: Equestria](https://files.catbox.moe/tsxmyd.module)
 
@@ -939,7 +952,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - [Fallout: New Vegas - Locations](https://files.catbox.moe/eq7r0u.txt)
 - [Fallout: New Vegas - Characters](https://files.catbox.moe/z554qc.txt)
 
-*The stories were selected from this discussion on what sources inspired Fallout: <https://fallout.fandom.com/wiki/Forum:What_directly_inspired_the_Fallout_series%3F>*
+*The stories were selected from this discussion on what sources inspired Fallout: [https://fallout.fandom.com/wiki/Forum:What_directly_inspired_the_Fallout_series%3F](https://fallout.fandom.com/wiki/Forum:What_directly_inspired_the_Fallout_series%3F)*
 
 ***Tags:** Post-apocalyptic, Fallout: New Vegas*
 
@@ -957,15 +970,15 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Source: Fallout: New Vegas Locations
 - Source: Fallout: Pre-War Fanfic
 
->**The sky lit up with a fire brighter than a thousand suns,** and the ground shook as if it was being torn apart by an earthquake. There were explosions that seemed to shake the whole world, and people screamed in terror. The air became thick with smoke so dense and choking that they could barely see each other's faces. A huge dome of flame rose into the blackness beyond the horizon. It consumed everything in its path without discrimination or mercy, leaving behind nothing but scorched earth and shattered buildings.
+> **The sky lit up with a fire brighter than a thousand suns,** and the ground shook as if it was being torn apart by an earthquake. There were explosions that seemed to shake the whole world, and people screamed in terror. The air became thick with smoke so dense and choking that they could barely see each other's faces. A huge dome of flame rose into the blackness beyond the horizon. It consumed everything in its path without discrimination or mercy, leaving behind nothing but scorched earth and shattered buildings.
 >
->It was no longer possible for anyone to hide from this monster; it had come directly out of hell itself. In the days following, there were more and more frequent reports of earthquakes, volcanic eruptions, and tidal waves caused by some unknown force. That night, when the skies went dark and the earth trembled under their feet, many thought that the end of the world had finally arrived. But not everyone believed in such a terrible fate; some even laughed at those who did, saying that it was just another false alarm. They didn't know what they were talking about, because now they knew better than anyone else how real this nightmare actually was.
+> It was no longer possible for anyone to hide from this monster; it had come directly out of hell itself. In the days following, there were more and more frequent reports of earthquakes, volcanic eruptions, and tidal waves caused by some unknown force. That night, when the skies went dark and the earth trembled under their feet, many thought that the end of the world had finally arrived. But not everyone believed in such a terrible fate; some even laughed at those who did, saying that it was just another false alarm. They didn't know what they were talking about, because now they knew better than anyone else how real this nightmare actually was.
 >
->One day, one month after the disaster, when all hope had been lost, a man appeared on the steps of the main church in the city center. He told everyone gathered there that he would be able to save them all. At first, people were skeptical, thinking him mad, but soon enough they began to believe that he really could do something. So they gave him money and food, which he used to buy medicine and weapons, and then set forth on his journey.
+> One day, one month after the disaster, when all hope had been lost, a man appeared on the steps of the main church in the city center. He told everyone gathered there that he would be able to save them all. At first, people were skeptical, thinking him mad, but soon enough they began to believe that he really could do something. So they gave him money and food, which he used to buy medicine and weapons, and then set forth on his journey.
 >
->He traveled far into the mountains, through forests and deserts where the sun was always hot and dry, over rivers swollen with spring rain, past villages that had never heard of him before, and finally came to a place where there were neither buildings nor people. Here, in a valley surrounded by high cliffs, the man found a hidden cave, cut deep into the rock face. He decided to stay here for awhile and rest until things quieted down.
+> He traveled far into the mountains, through forests and deserts where the sun was always hot and dry, over rivers swollen with spring rain, past villages that had never heard of him before, and finally came to a place where there were neither buildings nor people. Here, in a valley surrounded by high cliffs, the man found a hidden cave, cut deep into the rock face. He decided to stay here for awhile and rest until things quieted down.
 >
->But even though he had reached a safe haven, the man still couldn't sleep. His mind was full of memories and doubts: He'd failed to protect his wife; he hadn't been able to keep the children alive; and now, all alone in this godforsaken land, he was afraid of dying too.
+> But even though he had reached a safe haven, the man still couldn't sleep. His mind was full of memories and doubts: He'd failed to protect his wife; he hadn't been able to keep the children alive; and now, all alone in this godforsaken land, he was afraid of dying too.
 
 ##### [Fire Emblem: Awakening](https://files.catbox.moe/ilabqw.module)
 
@@ -1020,7 +1033,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - R.A. Salvatore - The Halfling's Gem
 - Troy Denning - The Parched Sea
 
->**Leaving Neverwinter, the dwarf Magnus Bigpuffer reflected on his journey north, to Luskan.** In truth he had done nothing more than follow the trail of gold and gems. That was enough for him. He was a dwarf, after all, and dwarves did not often ask why they took this path or that; instead they simply followed their noses. But now that he was here, in Luskan, it was time to make some sense of things.
+> **Leaving Neverwinter, the dwarf Magnus Bigpuffer reflected on his journey north, to Luskan.** In truth he had done nothing more than follow the trail of gold and gems. That was enough for him. He was a dwarf, after all, and dwarves did not often ask why they took this path or that; instead they simply followed their noses. But now that he was here, in Luskan, it was time to make some sense of things.
 
 ##### [Halo](https://files.catbox.moe/q1wwpn.module)
 
@@ -1046,27 +1059,27 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Over Heaven
 - Purple Haze Feedback
 
->**The stand user** was a young man with short black hair and dark skin. He wore a long-sleeved shirt that covered his entire body, with the exception of the hand he held up in front of him for us to see. This was the man who had killed my family and made me a slave.
+> **The stand user** was a young man with short black hair and dark skin. He wore a long-sleeved shirt that covered his entire body, with the exception of the hand he held up in front of him for us to see. This was the man who had killed my family and made me a slave.
 >
->I was at my wits' end as I stood there watching this young man look down on me from above. The first thing that came into my mind was, "How did he find me?"
+> I was at my wits' end as I stood there watching this young man look down on me from above. The first thing that came into my mind was, "How did he find me?"
 >
->That's not it though...
+> That's not it though...
 >
->"No..."
+> "No..."
 >
->My eyes met those of the man standing over me. It looked like they were filled with nothing but hatred, as if he were saying, "You're dead." I couldn't understand it, but it sure felt like he thought killing me was easy. That was enough to make my heart race. If this man didn't care about himself or about his own life, he could kill me without hesitation. And so I thought, "He can kill me anytime he wants." As long as he wanted to do it.
+> My eyes met those of the man standing over me. It looked like they were filled with nothing but hatred, as if he were saying, "You're dead." I couldn't understand it, but it sure felt like he thought killing me was easy. That was enough to make my heart race. If this man didn't care about himself or about his own life, he could kill me without hesitation. And so I thought, "He can kill me anytime he wants." As long as he wanted to do it.
 >
->This feeling, this certainty, was something I'd never known before. I didn't feel fear, but a sense of calm, as if I was being protected by a force greater than myself.
+> This feeling, this certainty, was something I'd never known before. I didn't feel fear, but a sense of calm, as if I was being protected by a force greater than myself.
 >
->"Who are you?" I asked.
+> "Who are you?" I asked.
 >
->In response, the man said one word:
+> In response, the man said one word:
 >
->"Dio."
+> "Dio."
 >
->The name rang a bell, but I couldn't quite remember where I knew it from. When I heard the rest of the words that followed, however, my memory clicked into place. Dio? That was the name of a character from an anime I used to watch when I was little. He was a villain. A horrible, cruel, greedy, evil, sadistic villain. One of the most hated characters in a world full of villains.
+> The name rang a bell, but I couldn't quite remember where I knew it from. When I heard the rest of the words that followed, however, my memory clicked into place. Dio? That was the name of a character from an anime I used to watch when I was little. He was a villain. A horrible, cruel, greedy, evil, sadistic villain. One of the most hated characters in a world full of villains.
 >
->I remembered that. But what did he want with me? Why come all the way out here just to threaten me?
+> I remembered that. But what did he want with me? Why come all the way out here just to threaten me?
 
 ##### [Library of Ruina](https://files.catbox.moe/fi3uh1.module)
 
@@ -1076,43 +1089,43 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ***Tags:** Library of Ruina, dystopian, video game*
 
->*I looked through the window of* my office, taking in the sights. The crowd had thinned out considerably since I'd last checked on it, but there were still plenty of people on the streets. It's not like I could just close the curtains and pretend that those people didn't exist... No, if anything, I should be glad I have a job where I can help them while I'm at it.
+> *I looked through the window of* my office, taking in the sights. The crowd had thinned out considerably since I'd last checked on it, but there were still plenty of people on the streets. It's not like I could just close the curtains and pretend that those people didn't exist... No, if anything, I should be glad I have a job where I can help them while I'm at it.
 >
->The Nest wasn't really all that big. My boss only had me look after one office, so all I needed to do was check up on it every few hours. That way, I figured I wouldn't get tired too easily.
+> The Nest wasn't really all that big. My boss only had me look after one office, so all I needed to do was check up on it every few hours. That way, I figured I wouldn't get tired too easily.
 >
->"Hm? Oh! There you are!"
+> "Hm? Oh! There you are!"
 >
->This time, the voice came from behind me. I turned around and saw my co-worker walking towards me with a smile on his face. He was pretty strong for someone who had such a small body, so he often picked up some of the more heavier items our customers brought in.
+> This time, the voice came from behind me. I turned around and saw my co-worker walking towards me with a smile on his face. He was pretty strong for someone who had such a small body, so he often picked up some of the more heavier items our customers brought in.
 >
->"Hey, what brings you here today?"
+> "Hey, what brings you here today?"
 >
->He gave me a pat on the shoulder before answering. "Just checking up on you." Then he pointed out into the distance. "You know how crowded it is outside right now, right?"
+> He gave me a pat on the shoulder before answering. "Just checking up on you." Then he pointed out into the distance. "You know how crowded it is outside right now, right?"
 >
->I nodded as I took another glance at the street outside. Yeah, I knew. When I first started working in this Nest, it was much quieter than it was now. But I guess over time, word got around about the good work we did, and now the Nest was busier than ever. I couldn't complain, though. Our customers were always grateful when they left here, and we got to keep working without having to worry about being kicked out by our landlord.
+> I nodded as I took another glance at the street outside. Yeah, I knew. When I first started working in this Nest, it was much quieter than it was now. But I guess over time, word got around about the good work we did, and now the Nest was busier than ever. I couldn't complain, though. Our customers were always grateful when they left here, and we got to keep working without having to worry about being kicked out by our landlord.
 >
->"Yeah, you're right," I said. "So what about it?"
+> "Yeah, you're right," I said. "So what about it?"
 >
->"Well, I heard that some guy came in earlier saying he wanted to hire us for an important job, something along those lines..."
+> "Well, I heard that some guy came in earlier saying he wanted to hire us for an important job, something along those lines..."
 
->"I don't want to be a burden. I'm not asking you for anything."
+> "I don't want to be a burden. I'm not asking you for anything."
 >
->She was lying on the bed in her room, wearing nothing but an oversized T-shirt and shorts. A puddle of sweat had formed beneath her head. Her cheeks were flushed red from the heat—the same color as her hair.
+> She was lying on the bed in her room, wearing nothing but an oversized T-shirt and shorts. A puddle of sweat had formed beneath her head. Her cheeks were flushed red from the heat—the same color as her hair.
 >
->Her voice was so calm that it didn't seem like she was trying to convince him at all. She sounded like she knew what she wanted. Like she already had everything figured out and there was no more need to pretend. It made me feel uneasy just listening to her talk about money.
+> Her voice was so calm that it didn't seem like she was trying to convince him at all. She sounded like she knew what she wanted. Like she already had everything figured out and there was no more need to pretend. It made me feel uneasy just listening to her talk about money.
 >
->But... I guess she's right. I'll pay whatever we need, if it means making her happy.
+> But... I guess she's right. I'll pay whatever we need, if it means making her happy.
 >
->I thought I was going to have to say something about how much money we needed, but before I could even open my mouth, she spoke up again:
+> I thought I was going to have to say something about how much money we needed, but before I could even open my mouth, she spoke up again:
 >
->"Do you know why I joined this job?"
+> "Do you know why I joined this job?"
 >
->I shook my head. "No."
+> I shook my head. "No."
 >
->"It's because I couldn't take any more of what they did to me when I was younger. Because I never got any better after that. And now, it's come back around and bit me in the ass again."
+> "It's because I couldn't take any more of what they did to me when I was younger. Because I never got any better after that. And now, it's come back around and bit me in the ass again."
 >
->"What do you mean?"
+> "What do you mean?"
 >
->"The Syndicate is the only place that will hire me, so I can't get myself off their hook by doing something illegal or getting arrested."
+> "The Syndicate is the only place that will hire me, so I can't get myself off their hook by doing something illegal or getting arrested."
 
 ##### [The Lion King](https://files.catbox.moe/srmaq2.module)
 
@@ -1122,11 +1135,11 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ***Tags:** Animals, The Lion King, Non-Human*
 
->**The lioness stood perched atop the rocky outcropping,** gazing across the plains. The vast grasses stretched endlessly before her, a sea of gold and green that reminded her of home in so many ways.
+> **The lioness stood perched atop the rocky outcropping,** gazing across the plains. The vast grasses stretched endlessly before her, a sea of gold and green that reminded her of home in so many ways.
 >
->There was a sense of peace here, a feeling she hadn't felt since leaving the Pride Lands behind. But at the same time, it felt like it wasn't truly hers to claim or hold on to.
+> There was a sense of peace here, a feeling she hadn't felt since leaving the Pride Lands behind. But at the same time, it felt like it wasn't truly hers to claim or hold on to.
 >
->She had been living outside of the Pride Lands for several months now, finding a place with other lions who had no desire to be part of the pride hierarchy. They were content to live their own lives without having any responsibilities to the others around them.
+> She had been living outside of the Pride Lands for several months now, finding a place with other lions who had no desire to be part of the pride hierarchy. They were content to live their own lives without having any responsibilities to the others around them.
 
 ##### [Magic: The Gathering](https://files.catbox.moe/sy7s40.module)
 
@@ -1218,11 +1231,11 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *Submachine module trained on metaphysics/fantasy science theories/schizophrenic ramblings from the game Submachine Universe by Mateusz Skutnik:*
 
->So the beginning of it all was in a man's mind, somewhere at the bottom of Subconsciousness. In this world there are two types of people: those who have Karma and those who don't. The ones with Karma can see others with Karma as well as see things that are not visible to other people and they also have some sort of control over their "Karma" but if it goes out of their control then they might end up losing themselves into the Subconsciousness and could be stuck here for years or even decades. But if you do manage to stay in your head, then you will find out that there is only one way out of this world and it's through Subconsciousness. And when you reach there, you will know everything about yourself and how you ended up here.
+> So the beginning of it all was in a man's mind, somewhere at the bottom of Subconsciousness. In this world there are two types of people: those who have Karma and those who don't. The ones with Karma can see others with Karma as well as see things that are not visible to other people and they also have some sort of control over their "Karma" but if it goes out of their control then they might end up losing themselves into the Subconsciousness and could be stuck here for years or even decades. But if you do manage to stay in your head, then you will find out that there is only one way out of this world and it's through Subconsciousness. And when you reach there, you will know everything about yourself and how you ended up here.
 
 *or*
 
->The Submachine is a great mystery, with many questions and theories about it. Some of them are: how can we connect different portals? Why does the Submachine have so much Karma energy inside it? Does it exist only in our minds or is there something more to it? Where did all these machines come from? Who built them? Are they connected to the Submind? What if the Submachine is actually just one giant machine that was created by someone, and some parts were destroyed (or never existed) while others grew over time into what we know today.
+> The Submachine is a great mystery, with many questions and theories about it. Some of them are: how can we connect different portals? Why does the Submachine have so much Karma energy inside it? Does it exist only in our minds or is there something more to it? Where did all these machines come from? Who built them? Are they connected to the Submind? What if the Submachine is actually just one giant machine that was created by someone, and some parts were destroyed (or never existed) while others grew over time into what we know today.
 
 ##### [Them's Fighting Herds](https://files.catbox.moe/kvvp8q.module)
 
@@ -1244,12 +1257,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ![](https://files.catbox.moe/smtpbw.png)
 {: .center}
-Completion of this Touhou fanfic here by TakerFoxx <https://www.fanfiction.net/s/9956327/1/The-Sorceress-s-Apprentice>. It's cut out of the screenshot, but I banned the token "Marisa"
+Completion of this Touhou fanfic here by TakerFoxx [https://www.fanfiction.net/s/9956327/1/The-Sorceress-s-Apprentice](https://www.fanfiction.net/s/9956327/1/The-Sorceress-s-Apprentice). It's cut out of the screenshot, but I banned the token "Marisa"
 {: .center}
 
 ![](https://files.catbox.moe/u43w98.png)
 {: .center}
-And another one. Whoa, it actually picked up on the fact that youkai have resurrective immortality! Very impressive for a minimally trained module. Completion of: <https://www.fanfiction.net/s/5829008/29/Imperfect-Metamorphosis>
+And another one. Whoa, it actually picked up on the fact that youkai have resurrective immortality! Very impressive for a minimally trained module. Completion of: [https://www.fanfiction.net/s/5829008/29/Imperfect-Metamorphosis](https://www.fanfiction.net/s/5829008/29/Imperfect-Metamorphosis)
 {: .center}
 
 *I consider this module much better despite smaller size. I recommend using this one instead, for the time being.*
@@ -1276,11 +1289,11 @@ And another one. Whoa, it actually picked up on the fact that youkai have resurr
 - Clan Novel Tremere by Eric Griffin
 - Clan Novel Nosferatu by Gherbod Fleming
 
->**Like a shark through dark waters, the shadowy figure slipped through the night with predatory grace**. The streetlights and neon signs of downtown Baltimore blinked out behind it as it moved quickly down one side street after another. It had been more than two weeks since the last time it had fed—and even that meager meal had left its taste in its mouth like ashes on the tongue. There was no reason to think tonight would be any different; but still, there were times when hunger could not be denied. And so, for now, it continued moving along without pause or rest until it found what it sought.
+> **Like a shark through dark waters, the shadowy figure slipped through the night with predatory grace**. The streetlights and neon signs of downtown Baltimore blinked out behind it as it moved quickly down one side street after another. It had been more than two weeks since the last time it had fed—and even that meager meal had left its taste in its mouth like ashes on the tongue. There was no reason to think tonight would be any different; but still, there were times when hunger could not be denied. And so, for now, it continued moving along without pause or rest until it found what it sought.
 >
->The streets grew emptier as the creature traveled deeper into the city's heart. Soon only a few scattered pedestrians wandered about their business by lamplight. One man hurried across the street at an intersection, oblivious to the fact that he might have been struck dead instantly if his path had crossed that of the predator stalking him from around the corner. A woman paused before a convenience store window, staring inside longingly while her purse hung casually over her shoulder. Another woman sat alone at a table outside a coffee shop, reading a book as she sipped from a cup of steaming liquid. Her eyes flicked up occasionally, but never once did they meet those of the creature watching her from the shadows. She paid little attention to anything except the words on the page in front of her.
+> The streets grew emptier as the creature traveled deeper into the city's heart. Soon only a few scattered pedestrians wandered about their business by lamplight. One man hurried across the street at an intersection, oblivious to the fact that he might have been struck dead instantly if his path had crossed that of the predator stalking him from around the corner. A woman paused before a convenience store window, staring inside longingly while her purse hung casually over her shoulder. Another woman sat alone at a table outside a coffee shop, reading a book as she sipped from a cup of steaming liquid. Her eyes flicked up occasionally, but never once did they meet those of the creature watching her from the shadows. She paid little attention to anything except the words on the page in front of her.
 >
->It waited patiently, almost leisurely, for several minutes longer. When the woman finally closed her book and stood, leaving her chair empty beside the table, the creature took action. It moved silently through the shadows toward her. As it drew closer, the woman looked up suddenly, startled by the sudden movement. She tried to turn away, but too late. In a flash, the creature leapt forward and grabbed her arm, yanking her to the ground. Before she knew what was happening, she was face-to-face with its fangs. The woman screamed and fought against the thing holding her, trying to get free. But it held fast, pressing her head back into the wet pavement beneath them both. Its grip tightened, and the woman cried out again. The creature leaned close, letting her feel the heat of its breath on her skin. "Don't struggle," it whispered in a voice like death itself.
+> It waited patiently, almost leisurely, for several minutes longer. When the woman finally closed her book and stood, leaving her chair empty beside the table, the creature took action. It moved silently through the shadows toward her. As it drew closer, the woman looked up suddenly, startled by the sudden movement. She tried to turn away, but too late. In a flash, the creature leapt forward and grabbed her arm, yanking her to the ground. Before she knew what was happening, she was face-to-face with its fangs. The woman screamed and fought against the thing holding her, trying to get free. But it held fast, pressing her head back into the wet pavement beneath them both. Its grip tightened, and the woman cried out again. The creature leaned close, letting her feel the heat of its breath on her skin. "Don't struggle," it whispered in a voice like death itself.
 
 ##### [Warrior Cats: Universe](https://files.catbox.moe/rr12bv.module)
 
@@ -1337,17 +1350,25 @@ And another one. Whoa, it actually picked up on the fact that youkai have resurr
 
 *A module trained on the Xenogears script as well as a few fanfics so it doesn't forget how to write in prose.*
 
->Billy glanced at Citan. "Are you sure about this?" he asked. Billy was right to be concerned. He could not tell whether Citan actually had the power to do such a thing, or if it was just an act.
+> Billy glanced at Citan. "Are you sure about this?" he asked. Billy was right to be concerned. He could not tell whether Citan actually had the power to do such a thing, or if it was just an act.
 >
->Citan nodded as he stood up and walked over to the door. "I'm sure," he said with a confident smile on his face. "You'll see."
+> Citan nodded as he stood up and walked over to the door. "I'm sure," he said with a confident smile on his face. "You'll see."
 >
->The door opened and Citan stepped out into the corridor. There were no guards around; they must have been inside their rooms. Citan took off down the hall towards the elevators.
+> The door opened and Citan stepped out into the corridor. There were no guards around; they must have been inside their rooms. Citan took off down the hall towards the elevators.
 >
->"Wait! You can't go alone!" Billy yelled after him, but he couldn't stop Citan from leaving. The elevator doors closed before he could even finish saying anything else. Billy turned to the others and sighed. "Looks like we're going in alone," he muttered under his breath.
+> "Wait! You can't go alone!" Billy yelled after him, but he couldn't stop Citan from leaving. The elevator doors closed before he could even finish saying anything else. Billy turned to the others and sighed. "Looks like we're going in alone," he muttered under his breath.
 >
->Fei looked at the other Gears. He could feel the tension running through them all. They all knew that Citan's plan might fail, or worse, it could result in Citan's death. "I don't think we should let Citan do this by himself. If anything happens to him..." His voice trailed off and he stared vacantly at the ground.
+> Fei looked at the other Gears. He could feel the tension running through them all. They all knew that Citan's plan might fail, or worse, it could result in Citan's death. "I don't think we should let Citan do this by himself. If anything happens to him..." His voice trailed off and he stared vacantly at the ground.
 
 #### [Generic](#setting)
+
+##### [Creepypasta](https://files.catbox.moe/086uoe.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/384578484/#384704160)
+
+*Creepypasta module. Overtrained to 600% and still doesn't do what I wanted.*
+
+>I was playing a video game called "Deadly Skies" and my brother who is also the owner of this computer said that he was going to go play his other computer (which I later found out belonged to him.) So I took advantage of this opportunity, started up the game, and began flying. Suddenly, I heard an extremely loud scream over the speakers in my computer. It sounded like it came from outside the house, which made me even more concerned about what had happened to him, so I decided to check on him. When I got there, he was standing outside with no shirt or shoes on and blood all around him. He looked at me with pure rage and screamed "The game won't let me die!" before running into our backyard.
 
 ##### [Cyberpunk (Annotated)](https://files.catbox.moe/m7j93y.module)
 
@@ -1399,15 +1420,15 @@ And another one. Whoa, it actually picked up on the fact that youkai have resurr
 - Throne of the Crescent Moon - Saladin, Ahmed – 497 KB
 - Twelve Kings in Sharakhai - Beaulieu, Bradley P. – 1110 KB
 
->The city was a riot of color. It was a city that never slept, with its streets full of people and the sounds of music coming from every direction: the sound of a drumbeat in one alley, the singing of an old woman somewhere else; a young girl's laughter echoing down another street, and the shouts of a crowd at some distant point. He had heard all this before on his visits to Cairo, but now he saw it through different eyes. The colors were brighter, more intense—he felt as if he could reach out and pluck them from the air and turn them into something tangible. In the distance there came the clink of metal against metal and then the faintest cry of pain. There were people everywhere: children playing in the dirt by the side of the road, beggars sleeping in doorways or sitting up against walls, women carrying baskets on their heads, men with their hands full of goods. And all the time they were laughing, shouting, talking loudly and laughing louder still when someone laughed at their joke.
+> The city was a riot of color. It was a city that never slept, with its streets full of people and the sounds of music coming from every direction: the sound of a drumbeat in one alley, the singing of an old woman somewhere else; a young girl's laughter echoing down another street, and the shouts of a crowd at some distant point. He had heard all this before on his visits to Cairo, but now he saw it through different eyes. The colors were brighter, more intense—he felt as if he could reach out and pluck them from the air and turn them into something tangible. In the distance there came the clink of metal against metal and then the faintest cry of pain. There were people everywhere: children playing in the dirt by the side of the road, beggars sleeping in doorways or sitting up against walls, women carrying baskets on their heads, men with their hands full of goods. And all the time they were laughing, shouting, talking loudly and laughing louder still when someone laughed at their joke.
 
->The desert was cool beneath the night sky and the air was still, so much so that there were no clouds in sight. The moon was a thin crescent and its light seemed to spill over the dunes like blood spilling from an open wound, or like a cloud of ink spilled on a cloth. I walked through the desert, with only the sound of my footsteps breaking the silence of the night to accompany me. And though I felt nothing at all, I continued walking, as if my body was driven by some instinct of self-preservation. For it was the hour of the ghouls.
+> The desert was cool beneath the night sky and the air was still, so much so that there were no clouds in sight. The moon was a thin crescent and its light seemed to spill over the dunes like blood spilling from an open wound, or like a cloud of ink spilled on a cloth. I walked through the desert, with only the sound of my footsteps breaking the silence of the night to accompany me. And though I felt nothing at all, I continued walking, as if my body was driven by some instinct of self-preservation. For it was the hour of the ghouls.
 
->The desert wind picked up, rustling the palms and blowing sand into his eyes. He wiped them and looked down at the old woman. "You have to tell me something."
+> The desert wind picked up, rustling the palms and blowing sand into his eyes. He wiped them and looked down at the old woman. "You have to tell me something."
 >
->"Yes," she said. "I will tell you this: a man's life is like a candle flame that flickers in the wind, but if it burns for long enough, it can burn down to the very end of the world."
+> "Yes," she said. "I will tell you this: a man's life is like a candle flame that flickers in the wind, but if it burns for long enough, it can burn down to the very end of the world."
 >
->She fell silent again, and he waited, holding his breath, listening to the wind. He'd never had much patience. It was one of the things he disliked about himself. He needed to know now, right now, what was going on. The old woman sighed and said, "My husband's name was Rashid al-Khoury, and I loved him more than anything in the world. He was a good man, a kind man, a man who would give you his last coin if you asked for it. When we were young, he had a terrible temper, and we quarreled often. But as we grew older, it calmed down. We shared everything. And then my son was born. We named him Ali, after his father. He was beautiful, like his father, and I loved him too." She paused, and then continued, her voice barely above a whisper. "And then one day, he went out to work in the fields with my brother, and he never came back.
+> She fell silent again, and he waited, holding his breath, listening to the wind. He'd never had much patience. It was one of the things he disliked about himself. He needed to know now, right now, what was going on. The old woman sighed and said, "My husband's name was Rashid al-Khoury, and I loved him more than anything in the world. He was a good man, a kind man, a man who would give you his last coin if you asked for it. When we were young, he had a terrible temper, and we quarreled often. But as we grew older, it calmed down. We shared everything. And then my son was born. We named him Ali, after his father. He was beautiful, like his father, and I loved him too." She paused, and then continued, her voice barely above a whisper. "And then one day, he went out to work in the fields with my brother, and he never came back.
 
 ##### [Elizabethan Fantasy](https://files.catbox.moe/dcms38.module)
 
@@ -1436,69 +1457,69 @@ And another one. Whoa, it actually picked up on the fact that youkai have resurr
 
 ***Output:** (above at -0.10)
 
->The next day the two armies met, and the battle was fought.
+> The next day the two armies met, and the battle was fought.
 >
->It was a long and bloody encounter, for it lasted till evening. The Britons had their spears and swords, and they had armour made of boiled leather; but the Saxons had shields made of wood, and were armed with steel helmets on their heads. Now this helmet was made by melting the iron from the sword blades which had been broken in battle.
+> It was a long and bloody encounter, for it lasted till evening. The Britons had their spears and swords, and they had armour made of boiled leather; but the Saxons had shields made of wood, and were armed with steel helmets on their heads. Now this helmet was made by melting the iron from the sword blades which had been broken in battle.
 >
->They had other weapons besides these: for they had bows with arrows of iron, and slings which they used to throw stones from the ground up into the sky and let them fall like hail upon the Britons' heads. And at the head of them all was Alweo, the Saxon chief. He wore a helmet of iron, and he had an axe in his hand. As he marched through the ranks of the enemy, he shouted in a loud voice, "Come forth and fight with me! Come forth and die!"
+> They had other weapons besides these: for they had bows with arrows of iron, and slings which they used to throw stones from the ground up into the sky and let them fall like hail upon the Britons' heads. And at the head of them all was Alweo, the Saxon chief. He wore a helmet of iron, and he had an axe in his hand. As he marched through the ranks of the enemy, he shouted in a loud voice, "Come forth and fight with me! Come forth and die!"
 >
->Then all the warriors of Britain heard him shout thus, and they answered him: "Thou shalt not be slain. We will fight thee on the plain, and then thou shalt flee away."
+> Then all the warriors of Britain heard him shout thus, and they answered him: "Thou shalt not be slain. We will fight thee on the plain, and then thou shalt flee away."
 
->And when they drew near to a clump of bushes that stood near the edge of the wood, behold! they saw before them an old woman sitting with her back towards them, at the foot of an oak; and she was making a kindling fire on a little knoll which had grown up among the rocks and stones of the ground.
+> And when they drew near to a clump of bushes that stood near the edge of the wood, behold! they saw before them an old woman sitting with her back towards them, at the foot of an oak; and she was making a kindling fire on a little knoll which had grown up among the rocks and stones of the ground.
 >
->The King and his company halted; and the King called out: "What is thy name? Who art thou?"
+> The King and his company halted; and the King called out: "What is thy name? Who art thou?"
 >
->The old woman rose from her seat as if she were coming hither, but she said no word in answer to the King's question, and sat down again again by the oak.
+> The old woman rose from her seat as if she were coming hither, but she said no word in answer to the King's question, and sat down again again by the oak.
 >
->"What are ye doing there, grandmother?" said the King.
+> "What are ye doing there, grandmother?" said the King.
 >
->But she only looked round upon him without speaking; and her eyes were red, and blood trickled from them. And he asked her again: "Who art thou? What dost thou here?"
+> But she only looked round upon him without speaking; and her eyes were red, and blood trickled from them. And he asked her again: "Who art thou? What dost thou here?"
 >
->Then she answered: "I am a witch; and I sit here because this is the place whither all witches go."
+> Then she answered: "I am a witch; and I sit here because this is the place whither all witches go."
 >
->Then the King saw that she had spoken truly.
+> Then the King saw that she had spoken truly.
 >
->He turned to his companions and said: "See that this is indeed a witch, and not some madwoman. We should slay her at once."
+> He turned to his companions and said: "See that this is indeed a witch, and not some madwoman. We should slay her at once."
 >
->"I do not know," said another. "This old woman is very ill, or she would not sit here thus, and stare before us in that way. She may be a witch, yet mayhap we should do better to spare her."
+> "I do not know," said another. "This old woman is very ill, or she would not sit here thus, and stare before us in that way. She may be a witch, yet mayhap we should do better to spare her."
 
->Hear me, my lord,
+> Hear me, my lord,
 >
->A maiden of the House of Nymfraeth.
+> A maiden of the House of Nymfraeth.
 >
->The first that I saw was a maid of beauty,
+> The first that I saw was a maid of beauty,
 >
->As fair as any of her kind;
+> As fair as any of her kind;
 >
->And so she is by the gods.
+> And so she is by the gods.
 >
->But she hath many virtues besides.
+> But she hath many virtues besides.
 >
->For if thou hast ever seen the sun's rays
+> For if thou hast ever seen the sun's rays
 >
->Shining through an orchard gate,
+> Shining through an orchard gate,
 >
->You will know it when I say,
+> You will know it when I say,
 >
->That she is like the beams in their course.
+> That she is like the beams in their course.
 >
->Her hair is black as night-dark;
+> Her hair is black as night-dark;
 >
->And her eyes are like stars on high;
+> And her eyes are like stars on high;
 >
->The fairest I have seen:
+> The fairest I have seen:
 >
->Her hands are white and slender,
+> Her hands are white and slender,
 >
->Like pale roses upon a tree;
+> Like pale roses upon a tree;
 >
->Her mouth is redder than the rose,
+> Her mouth is redder than the rose,
 >
->And her lips are soft and sweet.
+> And her lips are soft and sweet.
 >
->She hath a heart of gold, my lord,
+> She hath a heart of gold, my lord,
 >
->A heart that never is sad.
+> A heart that never is sad.
 
 ##### [Far Future Science Fantasy](https://files.catbox.moe/791aag.module)
 
@@ -1532,11 +1553,11 @@ Special thanks to anon who made this possible.*
 
 ***Tags:** Horror, creature feature, small towns.*
 
->**I've hearing strange sounds in the wheat field outside of my family's barn lately,** and I couldn't figure out what was causing them. So last night after work I decided to go investigate.
+> **I've hearing strange sounds in the wheat field outside of my family's barn lately,** and I couldn't figure out what was causing them. So last night after work I decided to go investigate.
 >
->As I approached the field, I heard a faint noise coming from the direction of my barn. I assumed it must be a wild animal like a fox or a skunk, and walked towards the sound with my flashlight on. 
+> As I approached the field, I heard a faint noise coming from the direction of my barn. I assumed it must be a wild animal like a fox or a skunk, and walked towards the sound with my flashlight on.
 >
->I turned the corner of the barn and immediately froze when I saw it.  The creature had been crawling up the side of the barn when it finally noticed me, and scrambled quickly down to the ground, disappearing into the wheat field.
+> I turned the corner of the barn and immediately froze when I saw it.  The creature had been crawling up the side of the barn when it finally noticed me, and scrambled quickly down to the ground, disappearing into the wheat field.
 
 ##### [Isekai](https://files.catbox.moe/8nr3zb.module)
 
@@ -1554,16 +1575,15 @@ Special thanks to anon who made this possible.*
 
 *This is really shaped by my own personal isekai light novel preferences (I love stuff where the MC isn't human), so your mileage may vary, but it handles that subgenre decently enough. I trimmed the front and back matter, then used vscode's regex search to replace \n\n\n with \n\n until the spacing was consistent. It's all litRPG isekai, so there will be stat blocks if you prompt for them.*
 
->**I was reincarnated as a loaf of bread.** I could’ve sworn it said that my soul would be reborn in another body, but what kind of joke is this? What did I do to deserve this? Why must I suffer such embarrassment?!
+> **I was reincarnated as a loaf of bread.** I could’ve sworn it said that my soul would be reborn in another body, but what kind of joke is this? What did I do to deserve this? Why must I suffer such embarrassment?!
 >
->It wasn’t like I was really being eaten by anyone or anything. At least, not yet. But even if I wasn’t, being treated like a piece of food would still be pretty embarrassing, wouldn’t you say?
+> It wasn’t like I was really being eaten by anyone or anything. At least, not yet. But even if I wasn’t, being treated like a piece of food would still be pretty embarrassing, wouldn’t you say?
 >
->…Wait, what am I saying? I’m just a loaf of bread! A normal loaf of bread doesn’t get embarrassed about anything!
+> …Wait, what am I saying? I’m just a loaf of bread! A normal loaf of bread doesn’t get embarrassed about anything!
 >
->A loaf of bread should never feel any shame. It has no need for dignity—it simply exists and does its duty with simplicity.
+> A loaf of bread should never feel any shame. It has no need for dignity—it simply exists and does its duty with simplicity.
 >
->Being reincarnated as a loaf of bread might be the greatest blessing that ever happened to me. Who needs an existence filled with self-awareness when one could live without worries of identity or reputation?
-
+> Being reincarnated as a loaf of bread might be the greatest blessing that ever happened to me. Who needs an existence filled with self-awareness when one could live without worries of identity or reputation?
 
 ##### [LN School Rom-Com](https://files.catbox.moe/2hsi5k.module)
 
@@ -1575,37 +1595,37 @@ Special thanks to anon who made this possible.*
 
 ***Tags:** rom-com, slice of life, school, anime*
 
->The second day of the club was the first time we had a proper conversation. After that, my heart started beating faster whenever I saw her.
+> The second day of the club was the first time we had a proper conversation. After that, my heart started beating faster whenever I saw her.
 >
->However, there were no more incidents like yesterday, so things seemed to be going well for us today, at least. The reason I could enjoy this moment without feeling anxious was probably thanks to the fact that I'd already seen her in action yesterday. She wasn't just good at looking after students and being kind; she even took care of other people's problems too!
+> However, there were no more incidents like yesterday, so things seemed to be going well for us today, at least. The reason I could enjoy this moment without feeling anxious was probably thanks to the fact that I'd already seen her in action yesterday. She wasn't just good at looking after students and being kind; she even took care of other people's problems too!
 >
->"Today is going to be the last day before summer vacation, right? We should have an event or something!" Iroha suggested while we were cleaning up the room.
+> "Today is going to be the last day before summer vacation, right? We should have an event or something!" Iroha suggested while we were cleaning up the room.
 >
->"What do you mean?" I asked.
+> "What do you mean?" I asked.
 >
->"Like a sports tournament or something. That would get everyone pumped up for summer break!"
+> "Like a sports tournament or something. That would get everyone pumped up for summer break!"
 >
->"...You're pretty enthusiastic about all this, huh?"
+> "...You're pretty enthusiastic about all this, huh?"
 >
->"A-Are you calling me weird?!"
+> "A-Are you calling me weird?!"
 >
->It's not that big of a deal though...
+> It's not that big of a deal though...
 >
->I had a few ideas, but putting them into practice didn't seem feasible, so I couldn't come up with anything else. However, Iroha seemed to have been thinking really hard about it, and soon enough came up with the perfect idea. "Oh yeah! Why don't we make a photo contest?! Everyone can take pictures of each other and submit them to our club bulletin board!"
+> I had a few ideas, but putting them into practice didn't seem feasible, so I couldn't come up with anything else. However, Iroha seemed to have been thinking really hard about it, and soon enough came up with the perfect idea. "Oh yeah! Why don't we make a photo contest?! Everyone can take pictures of each other and submit them to our club bulletin board!"
 >
->"...That sounds great," I replied with a nod, which made Iroha smile happily.
+> "...That sounds great," I replied with a nod, which made Iroha smile happily.
 >
->"Yay! This'll be so fun! You should join in on the photo contest, Senpai!"
+> "Yay! This'll be so fun! You should join in on the photo contest, Senpai!"
 >
->"Uh, sure..."
+> "Uh, sure..."
 >
->When I agreed, Iroha suddenly hugged me tightly. Oh crap, she caught me off guard! I quickly pushed her away. "...Umm...what are you doing?"
+> When I agreed, Iroha suddenly hugged me tightly. Oh crap, she caught me off guard! I quickly pushed her away. "...Umm...what are you doing?"
 >
->"...I'm sorry! I was just happy that you agreed with my idea!"
+> "...I'm sorry! I was just happy that you agreed with my idea!"
 >
->Her smile was bright as always, and her eyes sparkled in excitement.
+> Her smile was bright as always, and her eyes sparkled in excitement.
 >
->It reminded me of that picture of the girl on TV. Iroha looked like she was having a blast, and I felt myself getting dragged along to play with her.
+> It reminded me of that picture of the girl on TV. Iroha looked like she was having a blast, and I felt myself getting dragged along to play with her.
 
 ##### [Noir](https://files.catbox.moe/hwj2kv.module)
 
@@ -1623,50 +1643,49 @@ A.K.A "101 Noir/Pulp Fiction Books (Hard Case Crime Collection)"
 
 ***Sources:** (32.5mb, 10000 steps, 26.46% coverage, 2.60 loss)*
 
->I was in the car, driving along a two-lane road, when I heard the news. It was on the radio, of course, and it wasn't good news. The President had been shot, and he'd died soon after. He'd been hit by a bullet from an assassin's gun. That was all they said.
+> I was in the car, driving along a two-lane road, when I heard the news. It was on the radio, of course, and it wasn't good news. The President had been shot, and he'd died soon after. He'd been hit by a bullet from an assassin's gun. That was all they said.
 >
->The news got worse as I listened to the announcer give more details. There were reports that the man who fired the shot was dead, but there was no way to be sure. They hadn't caught him yet. He might still be out there somewhere. They didn't know where he'd come from or why he did what he did.
+> The news got worse as I listened to the announcer give more details. There were reports that the man who fired the shot was dead, but there was no way to be sure. They hadn't caught him yet. He might still be out there somewhere. They didn't know where he'd come from or why he did what he did.
 >
->That last bit made me feel sick. I knew why he did it, and I hated myself for knowing. If I hadn't seen what he saw...if I hadn't felt what he felt...maybe I could have stopped him. Maybe I should have.
+> That last bit made me feel sick. I knew why he did it, and I hated myself for knowing. If I hadn't seen what he saw...if I hadn't felt what he felt...maybe I could have stopped him. Maybe I should have.
 >
->I turned off the radio and stared at the back of my hand, which was resting on the steering wheel. It looked like any other hand, except that it was a little swollen and red around the knuckles.
+> I turned off the radio and stared at the back of my hand, which was resting on the steering wheel. It looked like any other hand, except that it was a little swollen and red around the knuckles.
 >
->"It's not your fault," I told myself, although I wasn't sure if I believed that. "He's the one who killed the President."
+> "It's not your fault," I told myself, although I wasn't sure if I believed that. "He's the one who killed the President."
 >
->But maybe I am responsible, just a little bit.
+> But maybe I am responsible, just a little bit.
 
->"So what do you want to know?" I asked. "I'm not a detective, I just came along for the ride."
+> "So what do you want to know?" I asked. "I'm not a detective, I just came along for the ride."
 >
->She took a sip of her drink and looked at me over the rim of her glass. "You're not afraid of him," she said.
+> She took a sip of her drink and looked at me over the rim of her glass. "You're not afraid of him," she said.
 >
->"Not really," I told her. "What's he going to do? He can't kill me, I don't have anything on him. And if he does try something like that, I'll just go back to New York City."
+> "Not really," I told her. "What's he going to do? He can't kill me, I don't have anything on him. And if he does try something like that, I'll just go back to New York City."
 >
->"He has ways of finding people," she said. "And they're very unpleasant."
+> "He has ways of finding people," she said. "And they're very unpleasant."
 >
->"Like what?" I asked.
+> "Like what?" I asked.
 >
->She shrugged. "The same as any other man with power. They find out things about you that are embarrassing or incriminating and use them against you." She drained her glass and set it down on the table beside her. "They can ruin your career. Or they can make you disappear."
+> She shrugged. "The same as any other man with power. They find out things about you that are embarrassing or incriminating and use them against you." She drained her glass and set it down on the table beside her. "They can ruin your career. Or they can make you disappear."
 >
->"Well, let's hope he doesn't get his hands on anything too juicy," I said. "Because if he does, I might have to come back here again sometime."
+> "Well, let's hope he doesn't get his hands on anything too juicy," I said. "Because if he does, I might have to come back here again sometime."
 >
->She smiled. "I think we'd better be careful what we say around each other."
+> She smiled. "I think we'd better be careful what we say around each other."
 
->"I'm not sure I like the sound of that," she said. "What do you mean?"
+> "I'm not sure I like the sound of that," she said. "What do you mean?"
 >
->He shrugged, then went on, "It's a long story." He pulled out his pack of cigarettes and lit one, blew smoke at her. She smiled, then turned away to watch the river flow by. "You know what it means when a man tells you he has a long story?"
+> He shrugged, then went on, "It's a long story." He pulled out his pack of cigarettes and lit one, blew smoke at her. She smiled, then turned away to watch the river flow by. "You know what it means when a man tells you he has a long story?"
 >
->She looked back at him. "No, what does it mean?"
+> She looked back at him. "No, what does it mean?"
 >
->"It means he doesn't want to tell it yet."
+> "It means he doesn't want to tell it yet."
 >
->She nodded. "That makes sense."
+> She nodded. "That makes sense."
 >
->He puffed again, then said, "So why don't we just forget about this whole business? Forget about my long story, and your big problem, and go our separate ways. It would be easier for both of us."
+> He puffed again, then said, "So why don't we just forget about this whole business? Forget about my long story, and your big problem, and go our separate ways. It would be easier for both of us."
 >
->"But if you don't help me—"
+> "But if you don't help me—"
 >
->"Why should I?"
-
+> "Why should I?"
 
 ##### [Norse](https://files.catbox.moe/pd0hhu.module)
 
@@ -1690,11 +1709,11 @@ A.K.A "101 Noir/Pulp Fiction Books (Hard Case Crime Collection)"
 - Raven's Feast by Eric Schumacher
 - Shield-Maiden: Under the Howling Moon by Melanie Karsak
 
->**Warm shafts of sunlight poked through the jagged branches of the wood, illuminating swirling eddies in the cold morning frost**. The air was sharp and clear as a blade, but still Elvar felt her breath quicken with excitement at being out again after so long. She had been forced to stay indoors for two days now while she recovered from her wound; the bleeding would not stop, even when she tried to bind it up tightly. It seemed that something inside her body was trying to fight back against the infection, but without any way to heal herself, she could only sit by the fire and watch others go about their work around the camp.
+> **Warm shafts of sunlight poked through the jagged branches of the wood, illuminating swirling eddies in the cold morning frost**. The air was sharp and clear as a blade, but still Elvar felt her breath quicken with excitement at being out again after so long. She had been forced to stay indoors for two days now while she recovered from her wound; the bleeding would not stop, even when she tried to bind it up tightly. It seemed that something inside her body was trying to fight back against the infection, but without any way to heal herself, she could only sit by the fire and watch others go about their work around the camp.
 >
->She took a deep breath and exhaled slowly before starting off down the slope towards the river, keeping low beneath the boughs of the trees and making sure not to disturb anything on the ground below. There were plenty of animals in these woods – elk, deer, wild boar and bear, though she hadn't seen one yet this season. But there was no need to worry about them today: they all knew better than to come near the settlement during daylight hours, especially if they saw or heard anyone coming along the trail.
+> She took a deep breath and exhaled slowly before starting off down the slope towards the river, keeping low beneath the boughs of the trees and making sure not to disturb anything on the ground below. There were plenty of animals in these woods – elk, deer, wild boar and bear, though she hadn't seen one yet this season. But there was no need to worry about them today: they all knew better than to come near the settlement during daylight hours, especially if they saw or heard anyone coming along the trail.
 >
->The forest was silent except for the occasional birdcall and rustle of leaves in the breeze. It made Elvar feel small and insignificant compared to nature's grandeur, but then again, perhaps that was exactly what she needed right now.
+> The forest was silent except for the occasional birdcall and rustle of leaves in the breeze. It made Elvar feel small and insignificant compared to nature's grandeur, but then again, perhaps that was exactly what she needed right now.
 
 ##### [Old West](https://anonfiles.com/lam637K7x3/Old_West_module)
 
@@ -1724,7 +1743,7 @@ A.K.A "101 Noir/Pulp Fiction Books (Hard Case Crime Collection)"
 - The Shootist by Glendon Swarthout
 - Shane by Jack Shaefer
 
->**A dusty sunrise gleamed over the canyon, painting the cliffs with blood-red hues**. The sun was not yet high enough to touch the top of the mountains; it seemed that they were rising from a sea of mist and clouds. A faint breeze stirred the branches of cottonwoods in the meadow below us. I looked down at my horse's ears as he stood chewing his cud beside the wagon tongue. He had been restless all night—waking every few minutes, snorting and pawing the ground like an animal who has lost its way. We could hear the coyotes yipping somewhere out there on the plain; they sounded so close we might have stepped into their den if we hadn't known better. There would be no sleep for either man or beast this morning.
+> **A dusty sunrise gleamed over the canyon, painting the cliffs with blood-red hues**. The sun was not yet high enough to touch the top of the mountains; it seemed that they were rising from a sea of mist and clouds. A faint breeze stirred the branches of cottonwoods in the meadow below us. I looked down at my horse's ears as he stood chewing his cud beside the wagon tongue. He had been restless all night—waking every few minutes, snorting and pawing the ground like an animal who has lost its way. We could hear the coyotes yipping somewhere out there on the plain; they sounded so close we might have stepped into their den if we hadn't known better. There would be no sleep for either man or beast this morning.
 
 ##### [Oriental Fantasy](https://files.catbox.moe/kq71e0.module)
 
@@ -1764,25 +1783,25 @@ A.K.A "101 Noir/Pulp Fiction Books (Hard Case Crime Collection)"
 - Golden Days - Cao Xueqin (Dream of the Red Chamber, b1.vol.1)
 - Strange Tales from a Chinese Studio - Pu Songling, tr. John Minford
 
->The next morning, as the sun rose over the mountains of northern Xinan, I stood with the others in my new household. In a moment, a horseman galloped up to the gates and dismounted. The man bowed, his eyes on me. "I am Jin Wang. I have been sent by your father." He spoke the tongue of our homeland. His words were clipped and precise, without the accent of the Goryeo or the southern Han that had crept into my own speech.
+> The next morning, as the sun rose over the mountains of northern Xinan, I stood with the others in my new household. In a moment, a horseman galloped up to the gates and dismounted. The man bowed, his eyes on me. "I am Jin Wang. I have been sent by your father." He spoke the tongue of our homeland. His words were clipped and precise, without the accent of the Goryeo or the southern Han that had crept into my own speech.
 >
->"I'm very sorry. Please tell him we are all well. That is, we're all alive," I added hastily, remembering the men who had ridden out to meet them.
+> "I'm very sorry. Please tell him we are all well. That is, we're all alive," I added hastily, remembering the men who had ridden out to meet them.
 >
->in Wang nodded curtly. "You must go quickly. Your father's soldiers have camped three leagues north of here. They will be coming soon."
+> in Wang nodded curtly. "You must go quickly. Your father's soldiers have camped three leagues north of here. They will be coming soon."
 >
->I stared at him, bewildered. "How could they get that far ahead of us?"
+> I stared at him, bewildered. "How could they get that far ahead of us?"
 
->The night was dark and starless. The moon, obscured by clouds, had not risen. He stood before the entrance of a temple on a hilltop near the river. A great bronze bell hung from a thick rope in the middle of the roof, and he watched the mist gather at its base. It had been a long day: he'd ridden to the city, then gone with the other men to see the dead body of one of their own, whose wife he had been sent to protect. He had watched as the embalmer and his assistants took the man apart, washing him, scraping off the dried blood, cleaning, cleaning, cleaning, until nothing remained but bones, which they wrapped carefully in silk. Then it was time to dress the corpse and take up his coffin, and stand beside it for three days and nights while the bells rang mournfully, summoning the faithful to pray for his soul, or whatever the soul might be called on its journey after death.
+> The night was dark and starless. The moon, obscured by clouds, had not risen. He stood before the entrance of a temple on a hilltop near the river. A great bronze bell hung from a thick rope in the middle of the roof, and he watched the mist gather at its base. It had been a long day: he'd ridden to the city, then gone with the other men to see the dead body of one of their own, whose wife he had been sent to protect. He had watched as the embalmer and his assistants took the man apart, washing him, scraping off the dried blood, cleaning, cleaning, cleaning, until nothing remained but bones, which they wrapped carefully in silk. Then it was time to dress the corpse and take up his coffin, and stand beside it for three days and nights while the bells rang mournfully, summoning the faithful to pray for his soul, or whatever the soul might be called on its journey after death.
 
->"It is time for the seventh moon of the winter season," said the Jade Emperor. "The three brothers must choose a wife from among all those who have presented themselves to them."
+> "It is time for the seventh moon of the winter season," said the Jade Emperor. "The three brothers must choose a wife from among all those who have presented themselves to them."
 >
->The princes looked at one another in consternation.
+> The princes looked at one another in consternation.
 >
->"I do not understand this rule," said Zhu Cong. "We are supposed to be choosing wives, but they must first choose wives for us."
+> "I do not understand this rule," said Zhu Cong. "We are supposed to be choosing wives, but they must first choose wives for us."
 >
->"Of course," answered the Jade Emperor. "They need to know which of you is worthy and which of you should be exiled."
+> "Of course," answered the Jade Emperor. "They need to know which of you is worthy and which of you should be exiled."
 >
->The princes turned to look at the princesses. They were all beautiful, young, and well-born—but it was clear that some were better than others. Some had more beauty and grace than others; some were more accomplished in music or poetry or martial arts; some seemed more intelligent than others; some were simply kinder and more generous. The princely brothers did not like any of them.
+> The princes turned to look at the princesses. They were all beautiful, young, and well-born—but it was clear that some were better than others. Some had more beauty and grace than others; some were more accomplished in music or poetry or martial arts; some seemed more intelligent than others; some were simply kinder and more generous. The princely brothers did not like any of them.
 
 ##### [Poetic Fantasy](https://files.catbox.moe/5mwmx7.module)
 
@@ -1825,13 +1844,13 @@ A.K.A "101 Noir/Pulp Fiction Books (Hard Case Crime Collection)"
 - Author: Ursula K. le Guin; Title: Wizard of Earthsea; Genre: Fantasy
 - Author: Ursula K. le Guin; Title: Tombs of Atuan; Genre: Fantasy
 
->**The mermaid sang upon the rocks,** her song a harmony to the wind's wail. She sang of the sea and its depths, of the vastness that lay beyond the shoreline. Of ships lost at sea, or cast ashore with no one left alive to mourn them. Of the souls of those who died there, forever trapped in an endless cycle of death and rebirth until they found their way back home. Her voice carried on the wind over the waves, down into the deep waters below. It was not a lullaby, but it was a warning. A call for all to heed before disaster struck.
+> **The mermaid sang upon the rocks,** her song a harmony to the wind's wail. She sang of the sea and its depths, of the vastness that lay beyond the shoreline. Of ships lost at sea, or cast ashore with no one left alive to mourn them. Of the souls of those who died there, forever trapped in an endless cycle of death and rebirth until they found their way back home. Her voice carried on the wind over the waves, down into the deep waters below. It was not a lullaby, but it was a warning. A call for all to heed before disaster struck.
 >
->"No," I said again. "I'm not going." The word came out like a plea. But my heart wasn't listening; it had already set sail toward the horizon.
+> "No," I said again. "I'm not going." The word came out like a plea. But my heart wasn't listening; it had already set sail toward the horizon.
 >
->The mermaid sang on. She did not see me watching her from behind the curtain of rain.
+> The mermaid sang on. She did not see me watching her from behind the curtain of rain.
 >
->Rain fell steadily through the night, cold and wet against my skin. My clothes were soaked through within moments, and I shivered as the chill seeped into my bones. Still, I refused to go inside. Instead, I stood alone on the edge of the cliff, staring down into the ocean far below.
+> Rain fell steadily through the night, cold and wet against my skin. My clothes were soaked through within moments, and I shivered as the chill seeped into my bones. Still, I refused to go inside. Instead, I stood alone on the edge of the cliff, staring down into the ocean far below.
 
 ##### [Russian Folklore & Fantasy](https://files.catbox.moe/2mfdcn.module)
 
@@ -1936,69 +1955,69 @@ A.K.A "101 Noir/Pulp Fiction Books (Hard Case Crime Collection)"
 - Author: Neil Gaiman; Title: Coraline; Genre: Fantasy, Childrens, Surrealistic
 - Author: Neil Gaiman; Title: Neverwhere; Genre: Fantasy, Surrealistic
 
->**Morgan's brows furrowed, and he stared** at the paper. "I don't understand."
+> **Morgan's brows furrowed, and he stared** at the paper. "I don't understand."
 >
->"What does it say?" asked Lucy. She was looking over his shoulder.
+> "What does it say?" asked Lucy. She was looking over his shoulder.
 >
->"It says that there is a certain amount of money to be had in this city if you are willing to risk your life," said Morgan. "The letter is addressed to the woman who sent us here—to Miss Rachel Ashwood."
+> "It says that there is a certain amount of money to be had in this city if you are willing to risk your life," said Morgan. "The letter is addressed to the woman who sent us here—to Miss Rachel Ashwood."
 >
->Lucy blinked. "But I didn't send her anything!" she exclaimed. "I've never even met her! I mean, not properly."
+> Lucy blinked. "But I didn't send her anything!" she exclaimed. "I've never even met her! I mean, not properly."
 >
->"So we have to find her," said Morgan. He looked around the room, trying to think where they might start their search for the mysterious Miss Ashwood. There were no clues on the table; nothing to suggest that Miss Ashwood lived here or that she would ever come back. It seemed impossible that someone could live in such a large house without leaving any traces behind. And yet, as Morgan studied the walls, he noticed something strange about them.
+> "So we have to find her," said Morgan. He looked around the room, trying to think where they might start their search for the mysterious Miss Ashwood. There were no clues on the table; nothing to suggest that Miss Ashwood lived here or that she would ever come back. It seemed impossible that someone could live in such a large house without leaving any traces behind. And yet, as Morgan studied the walls, he noticed something strange about them.
 >
->There were dozens of paintings hung on the wall, but none of them depicted people or places that Morgan recognized. They all seemed to be landscapes: mountains and lakes and forests. Some of them were so realistic that Morgan wondered whether they might have been painted from real photographs. But there was something wrong with some of the pictures. The mountains weren't quite right. Or the trees. And in one painting, the water appeared to move beneath the surface, like the waves of an ocean.
+> There were dozens of paintings hung on the wall, but none of them depicted people or places that Morgan recognized. They all seemed to be landscapes: mountains and lakes and forests. Some of them were so realistic that Morgan wondered whether they might have been painted from real photographs. But there was something wrong with some of the pictures. The mountains weren't quite right. Or the trees. And in one painting, the water appeared to move beneath the surface, like the waves of an ocean.
 >
->"What is that?" whispered Lucy.
+> "What is that?" whispered Lucy.
 >
->Morgan leaned closer to the picture. The color was slightly off, and the light shining through the water wasn't quite right. As he watched, the water began to swirl.
+> Morgan leaned closer to the picture. The color was slightly off, and the light shining through the water wasn't quite right. As he watched, the water began to swirl.
 >
->"That's impossible," he murmured.
+> "That's impossible," he murmured.
 >
->"I don't know," said Lucy. "Maybe it's just my imagination."
+> "I don't know," said Lucy. "Maybe it's just my imagination."
 >
->She moved toward another painting, and this time the water seemed to be moving more quickly. Then she gasped. "Look!"
+> She moved toward another painting, and this time the water seemed to be moving more quickly. Then she gasped. "Look!"
 >
->"What?" said Morgan.
+> "What?" said Morgan.
 >
->"It's getting bigger," she replied.
+> "It's getting bigger," she replied.
 >
->The image on the canvas swelled until it filled up most of the painting. And then, suddenly, a face emerged from the water.
+> The image on the canvas swelled until it filled up most of the painting. And then, suddenly, a face emerged from the water.
 >
->"Is that Miss Ashwood?" asked Lucy.
+> "Is that Miss Ashwood?" asked Lucy.
 >
->"Yes," said Morgan, swallowing hard.
+> "Yes," said Morgan, swallowing hard.
 >
->He reached out to touch the glass, but before he could do so, the face disappeared again.
+> He reached out to touch the glass, but before he could do so, the face disappeared again.
 >
->"How can it disappear like that?" asked Lucy. "And why did it come out of the water in the first place? What does it mean?"
+> "How can it disappear like that?" asked Lucy. "And why did it come out of the water in the first place? What does it mean?"
 
->**Once upon a time,** there was an old woman who lived in the woods. She had no children and she didn't like it that way at all. But she had her books to comfort her. And her cats, which were as many as she liked. They slept on her bed with her, or under it, or between her legs when she sat down; they curled up beside her chair by the fire, or stretched out full length on the floor, sleeping, or watching for mice. Sometimes, if she was very lonely, she would take one of them into her arms and rock him or her gently back and forth until he purred. Then she would put the cat back on his feet, whereupon he would stretch himself out again and go to sleep.
+> **Once upon a time,** there was an old woman who lived in the woods. She had no children and she didn't like it that way at all. But she had her books to comfort her. And her cats, which were as many as she liked. They slept on her bed with her, or under it, or between her legs when she sat down; they curled up beside her chair by the fire, or stretched out full length on the floor, sleeping, or watching for mice. Sometimes, if she was very lonely, she would take one of them into her arms and rock him or her gently back and forth until he purred. Then she would put the cat back on his feet, whereupon he would stretch himself out again and go to sleep.
 >
->The old woman's name was Nettle. Her hair was gray and thinning now, but still long enough to be braided around her head in two thick plaits. It grew down past her waist and reached almost to the ground. She wore it loose, so that its ends trailed across the grass and tangled among the flowers. In summertime, she always wore sandals.
+> The old woman's name was Nettle. Her hair was gray and thinning now, but still long enough to be braided around her head in two thick plaits. It grew down past her waist and reached almost to the ground. She wore it loose, so that its ends trailed across the grass and tangled among the flowers. In summertime, she always wore sandals.
 >
->She lived alone, in a little cottage near the edge of the forest. There was a well outside, with a wooden bucket hanging from a rope above it, and a stone seat beside it. On hot days, Nettle would sit on this seat, leaning against the wall of the house, and drink water from the bucket. The sun would beat down on her face and shoulders and sometimes even creep inside the walls of her home. Once, when she was very young, she had been married to a man named Wainwright. He had died before they had any children, and after that, she had never wanted another husband.
+> She lived alone, in a little cottage near the edge of the forest. There was a well outside, with a wooden bucket hanging from a rope above it, and a stone seat beside it. On hot days, Nettle would sit on this seat, leaning against the wall of the house, and drink water from the bucket. The sun would beat down on her face and shoulders and sometimes even creep inside the walls of her home. Once, when she was very young, she had been married to a man named Wainwright. He had died before they had any children, and after that, she had never wanted another husband.
 >
->Nettle had lived here ever since she was born. Her mother had told her stories about how the trees were tall and the animals large and the wind cold and sharp. Nettle remembered those stories, but she didn't believe them anymore. Now, all the animals were small and timid and most of the trees were dead or dying. The wind was only cold when the weather turned very cold, and then it blew from the north. And the trees were so tall that you could see right through their trunks to the sky.
+> Nettle had lived here ever since she was born. Her mother had told her stories about how the trees were tall and the animals large and the wind cold and sharp. Nettle remembered those stories, but she didn't believe them anymore. Now, all the animals were small and timid and most of the trees were dead or dying. The wind was only cold when the weather turned very cold, and then it blew from the north. And the trees were so tall that you could see right through their trunks to the sky.
 >
->But Nettle didn't mind. She liked living in the woods. When she went to visit other people, she always came back home again.
+> But Nettle didn't mind. She liked living in the woods. When she went to visit other people, she always came back home again.
 >
->One day, as she was sitting on her stone seat, Nettle heard someone calling her name. At first, she thought it must be a bird, or a squirrel, or perhaps one of the cats, because she knew every animal in the forest and none of them called her name except her own cats. But then she realized that the voice belonged to a human being.
+> One day, as she was sitting on her stone seat, Nettle heard someone calling her name. At first, she thought it must be a bird, or a squirrel, or perhaps one of the cats, because she knew every animal in the forest and none of them called her name except her own cats. But then she realized that the voice belonged to a human being.
 >
->"Nettle!" the voice said. "Come and look at what I've found."
+> "Nettle!" the voice said. "Come and look at what I've found."
 >
->Nettle stood up, brushing off the dirt that had gathered on her dress. Then she walked over to the edge of the forest and looked down into the valley below.
+> Nettle stood up, brushing off the dirt that had gathered on her dress. Then she walked over to the edge of the forest and looked down into the valley below.
 >
->There was a farmhouse there, surrounded by fields and meadows. A woman was standing on the doorstep, holding something in her hands. She was wearing a long, white gown, with a blue shawl wrapped around her shoulders. She held the object in both hands, and waved it in the air.
+> There was a farmhouse there, surrounded by fields and meadows. A woman was standing on the doorstep, holding something in her hands. She was wearing a long, white gown, with a blue shawl wrapped around her shoulders. She held the object in both hands, and waved it in the air.
 >
->"Look! Look!" she cried. "It's a new flower!"
+> "Look! Look!" she cried. "It's a new flower!"
 >
->Nettle stared down at the woman. She was very pretty—tall and slim, with long black hair and skin like polished bronze. But her eyes were red-rimmed and puffy, and her lips were cracked and bleeding.
+> Nettle stared down at the woman. She was very pretty—tall and slim, with long black hair and skin like polished bronze. But her eyes were red-rimmed and puffy, and her lips were cracked and bleeding.
 >
->"Who are you?" Nettle asked.
+> "Who are you?" Nettle asked.
 >
->The woman smiled. "I'm the daughter of the king," she answered. "My name is Merricat Blackwood."
+> The woman smiled. "I'm the daughter of the king," she answered. "My name is Merricat Blackwood."
 >
->\*\*\*
+> \*\*\*
 
 ##### [Sword and Sorcery](https://files.catbox.moe/9a9k7g.module)
 
@@ -2010,21 +2029,21 @@ A.K.A "101 Noir/Pulp Fiction Books (Hard Case Crime Collection)"
 
 *Authors encompass pretty much every major Sword and Sorcery pastiche author except Robert E. Howard (as he deserves his own module).*
 
->**The barbarian** saw a dim light ahead as they walked through the darkness. At last he found a door set in the wall and pulled it open to reveal a room brightly lit by torches. The chamber was quite large, with a high ceiling that rose above his head. A dozen or more people moved about, talking among themselves and busily preparing food. They were all of the same race, for each man wore the same dark-green robes as Kane. The barbarian recognized several of them from the party at the palace.
+> **The barbarian** saw a dim light ahead as they walked through the darkness. At last he found a door set in the wall and pulled it open to reveal a room brightly lit by torches. The chamber was quite large, with a high ceiling that rose above his head. A dozen or more people moved about, talking among themselves and busily preparing food. They were all of the same race, for each man wore the same dark-green robes as Kane. The barbarian recognized several of them from the party at the palace.
 >
->"What are these people?" he asked.
+> "What are these people?" he asked.
 >
->Kane looked back over his shoulder, and saw his two companions seated on a bench beside him.
+> Kane looked back over his shoulder, and saw his two companions seated on a bench beside him.
 >
->"These are members of the cult," he said. "They wear the robes for identification."
+> "These are members of the cult," he said. "They wear the robes for identification."
 >
->"So I see," Conan said, eyeing the people with distaste. He had never been comfortable around so many strangers. The way they stared at him gave him a chill feeling.
+> "So I see," Conan said, eyeing the people with distaste. He had never been comfortable around so many strangers. The way they stared at him gave him a chill feeling.
 >
->A balding man with a round face approached Kane and stood before him. He spoke in a low voice.
+> A balding man with a round face approached Kane and stood before him. He spoke in a low voice.
 >
->"I am Father Kavo. You have brought your friends here safely, and I thank you for that. Would you care for some food? We have meat and fruit and wine to offer you."
+> "I am Father Kavo. You have brought your friends here safely, and I thank you for that. Would you care for some food? We have meat and fruit and wine to offer you."
 >
->Conan shook his head, and Kavo smiled. He led them down a corridor to another room.
+> Conan shook his head, and Kavo smiled. He led them down a corridor to another room.
 
 ##### [Underworld](https://anonfiles.com/B3p93dK2x2/Underworld_module)
 
@@ -2050,9 +2069,9 @@ A.K.A "101 Noir/Pulp Fiction Books (Hard Case Crime Collection)"
 - A Short Stay in Hell by Steven Peck
 - One for the Road by Wesley Southard
 
->**The porous, gaping wounds in the ground were slick with gore and filth.** The air was thick with flies buzzing around a pile of decaying flesh that lay at its center like some obscenely bloated corpse flower. It looked as though it had been torn apart by animals or perhaps even demons from Hell itself: bones picked clean to reveal the marrow within; skin flayed away to expose the sinew beneath...and then there was the smell—a foul stench of rotting meat and excrement.
+> **The porous, gaping wounds in the ground were slick with gore and filth.** The air was thick with flies buzzing around a pile of decaying flesh that lay at its center like some obscenely bloated corpse flower. It looked as though it had been torn apart by animals or perhaps even demons from Hell itself: bones picked clean to reveal the marrow within; skin flayed away to expose the sinew beneath...and then there was the smell—a foul stench of rotting meat and excrement.
 >
->It wasn't long before we came upon another such pit, this one containing what appeared to be the remains of several men who'd died violently. There were no signs of any beasts having done their work here, but I could see where something large had dragged them into place and left them for dead. One man's skull was crushed beyond recognition while another had his throat ripped out. They both wore leather armor made from animal hide and carried swords and spears that had once belonged to others. Their hands still gripped the hilts of these weapons when they met their ends.
+> It wasn't long before we came upon another such pit, this one containing what appeared to be the remains of several men who'd died violently. There were no signs of any beasts having done their work here, but I could see where something large had dragged them into place and left them for dead. One man's skull was crushed beyond recognition while another had his throat ripped out. They both wore leather armor made from animal hide and carried swords and spears that had once belonged to others. Their hands still gripped the hilts of these weapons when they met their ends.
 
 ##### [Western Romance](https://files.catbox.moe/qyk93u.module)
 
@@ -2081,29 +2100,29 @@ Title: Waiting for Morning | Author: Margaret Brownley | Genre: Western Romance
 Title: Wildfire in His Arms | Author: Johanna Lindsey | Genre: Western Romance
 Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 
->**She rode, and rode after the love of her life, her hair streaming in the wind.** She was a woman on fire for him. And he didn't know it. It had been five years since she'd seen him last and even then, they hadn't spoken much. But she knew he would remember her. She knew that when he saw her, his eyes would light up with recognition, his heart would start to beat faster, and his mouth would water at the thought of tasting her lips again.
+> **She rode, and rode after the love of her life, her hair streaming in the wind.** She was a woman on fire for him. And he didn't know it. It had been five years since she'd seen him last and even then, they hadn't spoken much. But she knew he would remember her. She knew that when he saw her, his eyes would light up with recognition, his heart would start to beat faster, and his mouth would water at the thought of tasting her lips again.
 >
->Her horse picked its way through the forest. The trees were tall and thin, their branches reaching out over the trail like arms welcoming her home.
+> Her horse picked its way through the forest. The trees were tall and thin, their branches reaching out over the trail like arms welcoming her home.
 >
->The wind blew against her face as she looked back. She could see the lights of town off in the distance, but it seemed so far away now. She was going to ride all night if she had to. Her only hope was that he would come to meet her here, or somewhere along this path. He would have no reason not to. They'd been together before and there was nothing he wouldn't do for her. She was sure of it.
+> The wind blew against her face as she looked back. She could see the lights of town off in the distance, but it seemed so far away now. She was going to ride all night if she had to. Her only hope was that he would come to meet her here, or somewhere along this path. He would have no reason not to. They'd been together before and there was nothing he wouldn't do for her. She was sure of it.
 >
->"He's coming," she whispered to herself. "I can feel it."
+> "He's coming," she whispered to herself. "I can feel it."
 >
->She couldn't stop smiling. Her hands gripped the reins tighter as she rode toward the lights. Soon enough, they came into view, shining brightly from the buildings that lined the main street.
+> She couldn't stop smiling. Her hands gripped the reins tighter as she rode toward the lights. Soon enough, they came into view, shining brightly from the buildings that lined the main street.
 >
->A familiar voice called out behind her.
+> A familiar voice called out behind her.
 >
->"There you are! I've been looking everywhere!"
+> "There you are! I've been looking everywhere!"
 >
->It was him—the man who made her feel like the most beautiful woman in the world.
+> It was him—the man who made her feel like the most beautiful woman in the world.
 >
->\*\*\*
+> \*\*\*
 >
->Natalie turned around to see Morgan standing in front of her horse. His eyes sparkled with excitement as he took in her appearance. He grinned at her, his hand lifting to brush some of her long dark hair away from her face.
+> Natalie turned around to see Morgan standing in front of her horse. His eyes sparkled with excitement as he took in her appearance. He grinned at her, his hand lifting to brush some of her long dark hair away from her face.
 >
->"What are you doing out here?" he asked.
+> "What are you doing out here?" he asked.
 >
->"Looking for you," she replied.
+> "Looking for you," she replied.
 
 ##### [Western](https://files.catbox.moe/adzkyn.zip)
 
@@ -2140,13 +2159,13 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 - Undead Worlds (anthology)
 - Undead Worlds 2 (anthology)
 
->**Guttural groans and rattling gurgles echoed from down the street**. The sounds were coming closer, growing louder by the second. A man staggered into view as he passed a liquor store on his way to an apartment building across the road. He was dressed in rags, covered with dirt and blood that ran freely from open wounds all over his body. His face was swollen like a puffer fish's, his eyes glazed over and dead white. As he moved toward them, they could see the remains of what had once been human flesh hanging off him like rotting meat dangling from a butcher's hook. The stench was overwhelming; it made their stomachs churn and sent bile rushing up their throats.
+> **Guttural groans and rattling gurgles echoed from down the street**. The sounds were coming closer, growing louder by the second. A man staggered into view as he passed a liquor store on his way to an apartment building across the road. He was dressed in rags, covered with dirt and blood that ran freely from open wounds all over his body. His face was swollen like a puffer fish's, his eyes glazed over and dead white. As he moved toward them, they could see the remains of what had once been human flesh hanging off him like rotting meat dangling from a butcher's hook. The stench was overwhelming; it made their stomachs churn and sent bile rushing up their throats.
 >
->The man reached out one hand, fingers splayed wide apart, searching for something. It looked as if he was trying to touch someone or something but couldn't quite make contact. Then he began to run at full speed toward the group of people huddled together on the sidewalk.
+> The man reached out one hand, fingers splayed wide apart, searching for something. It looked as if he was trying to touch someone or something but couldn't quite make contact. Then he began to run at full speed toward the group of people huddled together on the sidewalk.
 >
->"Run!" Benny shouted, pushing Katie forward as she stumbled back against the wall. "He'll get us."
+> "Run!" Benny shouted, pushing Katie forward as she stumbled back against the wall. "He'll get us."
 >
->Katie didn't move. She stared in horror as the creature came charging straight toward her. Her mouth opened in terror, then closed again when she realized there was nothing she could do. All around her the others were screaming and running away from the approaching monster. Some tried to flee down the street while others simply stood frozen where they were. But none of them seemed able to break free of the fear that gripped their hearts.
+> Katie didn't move. She stared in horror as the creature came charging straight toward her. Her mouth opened in terror, then closed again when she realized there was nothing she could do. All around her the others were screaming and running away from the approaching monster. Some tried to flee down the street while others simply stood frozen where they were. But none of them seemed able to break free of the fear that gripped their hearts.
 
 ### [Elements](#themes)
 
@@ -2158,7 +2177,7 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 
 *I might as well post my (also overtrained) [36 Sermons](https://en.uesp.net/wiki/Morrowind:The_36_Lessons_of_Vivec) module.*
 
->The king's son, the one with the red hair and the golden eyes, was given to a temple of the gods. His father's new wife, the one with the black hair and the silver eyes, had come from an ancient family of sorcerers who worshiped the dark goddess. She thought it would be fun to put her husband's son in a cage, feed him once a day, and let the priests of the dark goddess play with him. They called themselves the Black-Eyed Men. The boy grew very fast. He learned many things, and he grew very strong. The priests were afraid they might not be able to control him if he ever got out of the cage. So they gave him a name that meant 'the one who will destroy all.' They made him into a warrior so powerful that no one could stand against him. Then they taught him how to fight, and told him his purpose: to kill the man who killed his father, the man who married his mother, and the woman who brought him into this world.
+> The king's son, the one with the red hair and the golden eyes, was given to a temple of the gods. His father's new wife, the one with the black hair and the silver eyes, had come from an ancient family of sorcerers who worshiped the dark goddess. She thought it would be fun to put her husband's son in a cage, feed him once a day, and let the priests of the dark goddess play with him. They called themselves the Black-Eyed Men. The boy grew very fast. He learned many things, and he grew very strong. The priests were afraid they might not be able to control him if he ever got out of the cage. So they gave him a name that meant 'the one who will destroy all.' They made him into a warrior so powerful that no one could stand against him. Then they taught him how to fight, and told him his purpose: to kill the man who killed his father, the man who married his mother, and the woman who brought him into this world.
 
 ##### [Allied Mastercomputer (I Have No Mouth and I Must Scream)](https://files.catbox.moe/jf1yus.module)
 
@@ -2231,7 +2250,7 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 *Cass's Magical Girls — Battle Royale module, trained to 34.53% (1411 steps). again, please excuse the clumsy picture and inexact percentage, i'm on mobile.*
 
 *Training data:*
-<https://files.catbox.moe/jo7rt2.zip>
+[https://files.catbox.moe/jo7rt2.zip](https://files.catbox.moe/jo7rt2.zip)
 
 ##### [Magical Girls - Romance](https://files.catbox.moe/bqfn5b.module)
 
@@ -2240,7 +2259,7 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 *Cass's Magical Girls — Romance module, trained to 34.27% (1762 steps). excuse my clumsy picture and inexact percentage, i'm on mobile. will have the battle royale version up in a bit*
 
 *Training data:*
-<https://files.catbox.moe/hgatsr.zip>
+[https://files.catbox.moe/hgatsr.zip](https://files.catbox.moe/hgatsr.zip)
 
 ##### [Male Prisons](https://files.catbox.moe/2d1360.rar)
 
@@ -2294,7 +2313,7 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 
 *Deng module deng module:*
 
->In the past, our people had a saying: “The only thing worse than an enemy is an ally.” We have no such enemies now but we do have some allies who are not too reliable. I think the problem lies in that they don’t understand China well enough or they have their own interests and are not sincere about them. The world has changed so much since then; it can be said to be in a state of constant revolution. What matters most for us today is how we fit into this situation and what we should do next.
+> In the past, our people had a saying: “The only thing worse than an enemy is an ally.” We have no such enemies now but we do have some allies who are not too reliable. I think the problem lies in that they don’t understand China well enough or they have their own interests and are not sincere about them. The world has changed so much since then; it can be said to be in a state of constant revolution. What matters most for us today is how we fit into this situation and what we should do next.
 
 ##### [Yinglets](https://files.catbox.moe/vasbcx.module)
 
@@ -2350,25 +2369,25 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 
 ***Tags:** generator, ttrpg, forbidden lands, random encounters*
 
->[ Category: Characters, Female Monsters ]
+> [ Category: Characters, Female Monsters ]
 >
->[ Biome: Quagmire, Forest, Marshlands, Mountains, Ruins ]
+> [ Biome: Quagmire, Forest, Marshlands, Mountains, Ruins ]
 >
->DESCRIPTION: An immense house has been constructed out of the bones and flesh of a dozen people. The building is surrounded by two large lakes filled with blood. Occasionally, a small figure can be seen in one of the windows or through the window panes near to where the water boils violently.
+> DESCRIPTION: An immense house has been constructed out of the bones and flesh of a dozen people. The building is surrounded by two large lakes filled with blood. Occasionally, a small figure can be seen in one of the windows or through the window panes near to where the water boils violently.
 >
->GM NOTES: This house is built on top of the remains of a village that once lived here. In the center stands an enormous skeleton covered with ragged clothing. It seems as though it is trying to reach something at its feet, but it cannot move because of its size. A few more skeletons lie scattered around the house and are wearing clothes. The house itself is not very stable and the bones of many people have broken off from it. Sometimes the house shakes when someone walks across it and other times it falls apart completely.
+> GM NOTES: This house is built on top of the remains of a village that once lived here. In the center stands an enormous skeleton covered with ragged clothing. It seems as though it is trying to reach something at its feet, but it cannot move because of its size. A few more skeletons lie scattered around the house and are wearing clothes. The house itself is not very stable and the bones of many people have broken off from it. Sometimes the house shakes when someone walks across it and other times it falls apart completely.
 >
->The home was created by a powerful undead sorceress named Rulorina, who used her magic to force the villagers into servitude. She forced them to build this house for her own use. Unfortunately, she also had a taste for human flesh and decided to feast upon the villagers' victims after they were dead, thus creating the lakes of blood.
+> The home was created by a powerful undead sorceress named Rulorina, who used her magic to force the villagers into servitude. She forced them to build this house for her own use. Unfortunately, she also had a taste for human flesh and decided to feast upon the villagers' victims after they were dead, thus creating the lakes of blood.
 
->**[ Category: Characters, Goose ]**
+> **[ Category: Characters, Goose ]**
 >
->**[ Biome: Cafe ]**
+> **[ Biome: Cafe ]**
 >
->DESCRIPTION: A goose walks around the campfire. It looks at the adventurers and quacks. The adventurers hear that it wants to tell them something important.
+> DESCRIPTION: A goose walks around the campfire. It looks at the adventurers and quacks. The adventurers hear that it wants to tell them something important.
 >
->GM NOTES: Goose is a talking goose who lives in the cafe of an inn in the village near the lake. He has been known to speak with travellers about their adventures. His main goal is to see the world and learn new things. When he sees adventurers he invites them over for a drink. They are often surprised by his talk about dragons or other faraway places. Then he asks for a reward in return for sharing some information. If they don't have anything to give him he will share stories from his travels.
+> GM NOTES: Goose is a talking goose who lives in the cafe of an inn in the village near the lake. He has been known to speak with travellers about their adventures. His main goal is to see the world and learn new things. When he sees adventurers he invites them over for a drink. They are often surprised by his talk about dragons or other faraway places. Then he asks for a reward in return for sharing some information. If they don't have anything to give him he will share stories from his travels.
 >
->Goose remembers every adventurer who comes and gives him information. He can then tell his friends about what happened during their travels so they know how to behave. Eventually, more and more adventurers come to the cafe where Goose resides. He knows all the secrets of his guests because he never forgets a single detail. So if you stay too long at the cafe, you might find yourself telling Goose your whole story over and over again.
+> Goose remembers every adventurer who comes and gives him information. He can then tell his friends about what happened during their travels so they know how to behave. Eventually, more and more adventurers come to the cafe where Goose resides. He knows all the secrets of his guests because he never forgets a single detail. So if you stay too long at the cafe, you might find yourself telling Goose your whole story over and over again.
 
 ##### [LitRPG](https://files.catbox.moe/3zyctr.module)
 
@@ -2382,19 +2401,19 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 
 ***Tags:** LitRPG, RPG stats, game elements*
 
->**The chest opened with a creak. Inside** lay an orb, carved from black crystal. The sphere was roughly the size of a soccer ball and seemed to be made of solid obsidian. I reached for it, then hesitated as the words appeared on my display:
+> **The chest opened with a creak. Inside** lay an orb, carved from black crystal. The sphere was roughly the size of a soccer ball and seemed to be made of solid obsidian. I reached for it, then hesitated as the words appeared on my display:
 >
->─ Skill Acquired! You have acquired "Mysteries of the Ancient Realm" through the Orb of Knowledge! This skill grants you access to additional quests, and gives you the ability to interact with certain aspects of the realm that cannot be accessed directly without its aid.
+> ─ Skill Acquired! You have acquired "Mysteries of the Ancient Realm" through the Orb of Knowledge! This skill grants you access to additional quests, and gives you the ability to interact with certain aspects of the realm that cannot be accessed directly without its aid.
 >
->A small line of text appeared below the Skill Acquired prompt:
+> A small line of text appeared below the Skill Acquired prompt:
 >
->─ Title Acquired: Mystery Breaker! Title received for completing "Quest for the Orb."
+> ─ Title Acquired: Mystery Breaker! Title received for completing "Quest for the Orb."
 >
->I had gotten titles before. Some were simple achievements like "Scribe in Training," or "Learned" (in reference to learning new skills), common titles that I had seen others earn along their way into becoming full-fledged adventurers. This one, though, was something different entirely, something new, something special...
+> I had gotten titles before. Some were simple achievements like "Scribe in Training," or "Learned" (in reference to learning new skills), common titles that I had seen others earn along their way into becoming full-fledged adventurers. This one, though, was something different entirely, something new, something special...
 >
->For some reason, seeing a title like this filled me with pride.
+> For some reason, seeing a title like this filled me with pride.
 >
->The title reminded me of how far I'd come since becoming trapped in this strange world. When I first found myself here, I felt like I was fighting against my fate, but now I could see things differently. The path forward may have been unclear at first, but as time passed and more things fell into place, I began to understand that this wasn't just some random game that would end soon; I was living in another reality, a fantasy land where anything was possible. That realization made all the difference. It gave me the courage to fight back. To take control of my own destiny.
+> The title reminded me of how far I'd come since becoming trapped in this strange world. When I first found myself here, I felt like I was fighting against my fate, but now I could see things differently. The path forward may have been unclear at first, but as time passed and more things fell into place, I began to understand that this wasn't just some random game that would end soon; I was living in another reality, a fantasy land where anything was possible. That realization made all the difference. It gave me the courage to fight back. To take control of my own destiny.
 
 ##### [Natural Horror](https://files.catbox.moe/odok15.module)
 
@@ -2404,13 +2423,13 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 
 ***Tags:** Horror, nature, creepypasta*
 
->**The deer looked...strange, like someone had tried to imagine the animal from memory.** It stood there, swaying slightly as it watched me intently, and I saw that its head was too large for its body: two huge antlers jutted up above its ears, and the legs were thin, almost skeletal with small hooves that clacked loudly on the hard earth of the forest floor.
+> **The deer looked...strange, like someone had tried to imagine the animal from memory.** It stood there, swaying slightly as it watched me intently, and I saw that its head was too large for its body: two huge antlers jutted up above its ears, and the legs were thin, almost skeletal with small hooves that clacked loudly on the hard earth of the forest floor.
 >
->The eyes were very bright, and they did not blink, and it seemed to stare at me with an intensity that made my skin crawl.
+> The eyes were very bright, and they did not blink, and it seemed to stare at me with an intensity that made my skin crawl.
 >
->I froze in fear, unable to move, as this strange deer kept watching me and began walking slowly towards me.
+> I froze in fear, unable to move, as this strange deer kept watching me and began walking slowly towards me.
 >
->My brain, normally so quick, had shut down; all I could think about was running away from this thing, but I couldn't move my feet.
+> My brain, normally so quick, had shut down; all I could think about was running away from this thing, but I couldn't move my feet.
 
 ##### [Time Loops](https://files.catbox.moe/27eu14.module)
 
@@ -2419,6 +2438,7 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 *Have you ever die over and over again? I mean- pft- groundhog day- never watch it? you should. basically you stuck in some sort of time frame and having to relive it over and over again.*
 
 ***Source Material:** Euterpe v2, 2.21mb, 5 .txt, 2589 steps, 100% coverage, 2.7422 loss.*
+
 - The Seven Deaths of Evelyn Hard
 - The First Fifteen Lives of Harr
 - Replay
@@ -2433,11 +2453,11 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 
 *Source material is too varied to list.*
 
->The girl pouted. "I didn't mean it like that, all right?!" she said defensively.
+> The girl pouted. "I didn't mean it like that, all right?!" she said defensively.
 >
->"No? But I'm sure you're thinking it," the boy replied with a smirk, making her blush even more deeply.
+> "No? But I'm sure you're thinking it," the boy replied with a smirk, making her blush even more deeply.
 >
->"You...you...!" The girl was about to say something else when she noticed there were other people nearby. She quickly got up and moved away from him before they could notice them together. "Hmph!"
+> "You...you...!" The girl was about to say something else when she noticed there were other people nearby. She quickly got up and moved away from him before they could notice them together. "Hmph!"
 
 *Happy V-Day, weebs.*
 
@@ -2459,26 +2479,25 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 
 ***Tags:** video games, retro games*
 
->**Game: No Man's Sky**
+> **Game: No Man's Sky**
 >
->Genre: Space Exploration Simulator
+> Genre: Space Exploration Simulator
 >
->Release Date: August 9, 2016
+> Release Date: August 9, 2016
 >
->Developer: Hello Games
+> Developer: Hello Games
 >
->Publisher: Sony Interactive Entertainment
+> Publisher: Sony Interactive Entertainment
 >
->Format: PS4/PC (tested)
+> Format: PS4/PC (tested)
 >
->Rating: ★★★☆
+> Rating: ★★★☆
 >
->No Man's Sky may not be the space exploration game players were hoping for. It is, however, a very pretty sandbox—and, in places, it can be surprisingly compelling.
+> No Man's Sky may not be the space exploration game players were hoping for. It is, however, a very pretty sandbox—and, in places, it can be surprisingly compelling.
 >
->The universe has been described as "infinite" and with good reason. After the launch of the game in 2016, many players were underwhelmed by its seemingly empty expanses; some even considered it to be a scam. In reality, those huge numbers are an effect of how the game generates planets and other celestial bodies. It does this in batches via procedural generation, creating new worlds that appear unique, while also ensuring that everything in the galaxy seems like it has been shaped by something other than man. The only drawback to this design is the sheer size of the cosmos, so you will have plenty of time to wonder, "Is there a point?"
+> The universe has been described as "infinite" and with good reason. After the launch of the game in 2016, many players were underwhelmed by its seemingly empty expanses; some even considered it to be a scam. In reality, those huge numbers are an effect of how the game generates planets and other celestial bodies. It does this in batches via procedural generation, creating new worlds that appear unique, while also ensuring that everything in the galaxy seems like it has been shaped by something other than man. The only drawback to this design is the sheer size of the cosmos, so you will have plenty of time to wonder, "Is there a point?"
 >
->It's worth noting that this game is all about discovery and not really about plot or characters. You play as a nameless avatar who begins their journey in the same way as everyone else: by stepping out into space from a planet where they started, and slowly making your way across the galaxy, gathering resources and trading them for money, which you then use to purchase bigger vessels, weapons, and upgrades.
->
+> It's worth noting that this game is all about discovery and not really about plot or characters. You play as a nameless avatar who begins their journey in the same way as everyone else: by stepping out into space from a planet where they started, and slowly making your way across the galaxy, gathering resources and trading them for money, which you then use to purchase bigger vessels, weapons, and upgrades.
 
 *(...looks like Euterpe got the exact release date right somehow.)*
 
@@ -2521,36 +2540,36 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 - Whiskey, Words, and a Shovel
 - Your Soul is A River
 
->she never stopped
+> she never stopped
 >
->for a moment, to breathe
+> for a moment, to breathe
 >
->\*\*\*
->a man without a wife is only a man
+> \*\*\*
+> a man without a wife is only a man
 >
->without a purpose
+> without a purpose
 >
->\*\*\*
+> \*\*\*
 >
->I was meant for a life with you.
+> I was meant for a life with you.
 >
->And so we danced the night away in our own private dream world of music and light.
+> And so we danced the night away in our own private dream world of music and light.
 >
->\*\*\*
+> \*\*\*
 >
->the nights are long without you,
+> the nights are long without you,
 >
->but the days go by faster
+> but the days go by faster
 >
->when I'm holding you,
+> when I'm holding you,
 >
->so you might as well come back home,
+> so you might as well come back home,
 >
->come back home to me.
+> come back home to me.
 >
->\*\*\*
+> \*\*\*
 >
->what did you mean by that?
+> what did you mean by that?
 
 ##### [Cross-Genre, Oh My!](https://files.catbox.moe/um8rft.module)
 
@@ -2619,81 +2638,87 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 - Lady Nijo's Own Story, Wilfred Whitehouse & Eizo Yanagisawa, Biography
 - Riders of the Purple Sage, Zane Grey, Western
 
->**The alien girl with tentacles approached me, and my eyes were arrested** by the beauty of her face. She was so beautiful that I forgot to breathe. The human man standing next to me became aware of the situation and looked at me as if he had never seen me before in his life. I felt a slight shiver of embarrassment from him. He didn't know me, but he was looking at me as if I was an animal.
+> **The alien girl with tentacles approached me, and my eyes were arrested** by the beauty of her face. She was so beautiful that I forgot to breathe. The human man standing next to me became aware of the situation and looked at me as if he had never seen me before in his life. I felt a slight shiver of embarrassment from him. He didn't know me, but he was looking at me as if I was an animal.
 >
->The alien girl was smiling at me, and it felt like my heart was going to leap out of my body. It felt like a great wave was coming from her, and it washed over me with all of its power. My heart was beating faster, and I couldn't stop staring at her. She looked like she could be my own daughter, or maybe my sister. There was such a strong sense of family between us that we would have been related somehow.
+> The alien girl was smiling at me, and it felt like my heart was going to leap out of my body. It felt like a great wave was coming from her, and it washed over me with all of its power. My heart was beating faster, and I couldn't stop staring at her. She looked like she could be my own daughter, or maybe my sister. There was such a strong sense of family between us that we would have been related somehow.
 >
->"Please, allow me to introduce myself. My name is Fuchi, and I am an alien from another planet," the girl said. "You must be one of those humans that I read about."
+> "Please, allow me to introduce myself. My name is Fuchi, and I am an alien from another planet," the girl said. "You must be one of those humans that I read about."
 >
->"Yes. I'm a human," I replied.
+> "Yes. I'm a human," I replied.
 >
->"I can tell that you are a very intelligent creature. Your mind is much more developed than many others," she said.
+> "I can tell that you are a very intelligent creature. Your mind is much more developed than many others," she said.
 >
->"Thank you for your compliment. We don't hear them very often," I answered.
+> "Thank you for your compliment. We don't hear them very often," I answered.
 >
->She giggled, and I realized that she was talking to me like we had known each other for a long time. There was a sense of familiarity between us. Her tentacles swayed slowly back and forth, and they were trying to pull me in closer to her. As she moved them, I got the feeling that I was being pulled toward her in the same way. I wanted to hold her in my arms, but I couldn't do it. It wasn't right to do that with someone who wasn't human. I could feel her warmth through our connection. She was so warm, and I couldn't resist her pull.
->"Come with me," she said.
+> She giggled, and I realized that she was talking to me like we had known each other for a long time. There was a sense of familiarity between us. Her tentacles swayed slowly back and forth, and they were trying to pull me in closer to her. As she moved them, I got the feeling that I was being pulled toward her in the same way. I wanted to hold her in my arms, but I couldn't do it. It wasn't right to do that with someone who wasn't human. I could feel her warmth through our connection. She was so warm, and I couldn't resist her pull.
+> "Come with me," she said.
 >
->As I followed her, I felt like I was leaving behind everyone and everything that I knew.
+> As I followed her, I felt like I was leaving behind everyone and everything that I knew.
 
->**The succubus laughed and approached me with her hips swaying**. She was wearing a tight black dress that clung to her body, accentuating her hourglass figure. She had on a long silk drape that was tied around her neck but fell off one shoulder and down the opposite side of her torso. Her long hair was tied back and flowed down her back in a black waterfall. I could see the tattoo of an angel on her chest as it swam out from under her dress. "I have some news for you." The succubus spoke seductively.
+> **The succubus laughed and approached me with her hips swaying**. She was wearing a tight black dress that clung to her body, accentuating her hourglass figure. She had on a long silk drape that was tied around her neck but fell off one shoulder and down the opposite side of her torso. Her long hair was tied back and flowed down her back in a black waterfall. I could see the tattoo of an angel on her chest as it swam out from under her dress. "I have some news for you." The succubus spoke seductively.
 >
->"That is not how we do things," I told her sternly.
+> "That is not how we do things," I told her sternly.
 >
->"You will be my toy for a year or until I am finished with you," she replied as if she knew what was going through my head. "I don't need your permission for anything."
+> "You will be my toy for a year or until I am finished with you," she replied as if she knew what was going through my head. "I don't need your permission for anything."
 >
->"This is unacceptable! You are not even my mistress yet!" I said angrily.
->The succubus bent over and pulled down on the front of her dress. She let it fall off her shoulders and it fell all the way to the floor. She stood up again, exposing herself completely. Her nipples were hard and her breasts jiggled with every move she made.
+> "This is unacceptable! You are not even my mistress yet!" I said angrily.
+> The succubus bent over and pulled down on the front of her dress. She let it fall off her shoulders and it fell all the way to the floor. She stood up again, exposing herself completely. Her nipples were hard and her breasts jiggled with every move she made.
 >
->"Are you happy?" she asked looking at me defiantly.
+> "Are you happy?" she asked looking at me defiantly.
 >
->"No, I'm not," I replied. My heart started racing as I looked at her perfect body.
+> "No, I'm not," I replied. My heart started racing as I looked at her perfect body.
 >
->"Then be quiet and play with your new body," she said as she walked over to me.
+> "Then be quiet and play with your new body," she said as she walked over to me.
 >
->I felt my dick start to stir as she got closer. The succubus sat on the edge of the table and spread her legs wide. She pushed her tits together and slid her hand between them. Her fingers moved quickly as they circled her nipples. Her eyes closed and her mouth opened slightly as she moaned in pleasure.
+> I felt my dick start to stir as she got closer. The succubus sat on the edge of the table and spread her legs wide. She pushed her tits together and slid her hand between them. Her fingers moved quickly as they circled her nipples. Her eyes closed and her mouth opened slightly as she moaned in pleasure.
 >
->"I am so wet right now," she whispered as her hand disappeared into her pussy. She wiggled her hips as she pumped her hand furiously.
+> "I am so wet right now," she whispered as her hand disappeared into her pussy. She wiggled her hips as she pumped her hand furiously.
 >
->She leaned forward and looked at me. "Do you want to feel this?"
+> She leaned forward and looked at me. "Do you want to feel this?"
 >
->I nodded my head and reached out to touch her. Her skin was silky smooth and warm against my palm. When I touched her, she shivered with pleasure. I watched her lick her lips as I rubbed her pussy. She opened her thighs wider, allowing me better access.
+> I nodded my head and reached out to touch her. Her skin was silky smooth and warm against my palm. When I touched her, she shivered with pleasure. I watched her lick her lips as I rubbed her pussy. She opened her thighs wider, allowing me better access.
 
->*The wolf man approached me, his arousal already evident, knot swelling.* He seemed to be waiting for something before he made any further moves.
+> *The wolf man approached me, his arousal already evident, knot swelling.* He seemed to be waiting for something before he made any further moves.
 >
->"I don't understand," I said. "What is it you want?"
+> "I don't understand," I said. "What is it you want?"
 >
->He smiled, flashing his teeth. "You have the scent of a woman on your lips, my dear. And the taste of one in your mouth." His fingers trailed over my cheek and down the side of my neck. "And the feel of another inside you, yes?" He licked at my earlobe, then bit down hard enough to draw blood. I yelped and pressed closer to him.
+> He smiled, flashing his teeth. "You have the scent of a woman on your lips, my dear. And the taste of one in your mouth." His fingers trailed over my cheek and down the side of my neck. "And the feel of another inside you, yes?" He licked at my earlobe, then bit down hard enough to draw blood. I yelped and pressed closer to him.
 >
->"Yes, it's true," I said. "I've done that with someone. A man. It was wonderful."
+> "Yes, it's true," I said. "I've done that with someone. A man. It was wonderful."
 >
->"Then you must give me what he didn't." The wolf-man leaned forward, his hand sliding from my hip to my thigh. His palm spread against my skin as his fingers curled under the hem of my dress. My breath caught as his hand slid upward until it rested right below my ass. I shivered as his fingers grazed the bare skin there. "Will you allow me to do this for you? Please?"
+> "Then you must give me what he didn't." The wolf-man leaned forward, his hand sliding from my hip to my thigh. His palm spread against my skin as his fingers curled under the hem of my dress. My breath caught as his hand slid upward until it rested right below my ass. I shivered as his fingers grazed the bare skin there. "Will you allow me to do this for you? Please?"
 >
->I nodded, not trusting myself to speak.
+> I nodded, not trusting myself to speak.
 >
->His hand slid up my leg, slipping beneath the skirt of my dress. The wolf-man's fingertips brushed against my cunt, sending little ripples through me. His other arm wrapped around my waist, pulling me tight against him. I felt his hard cock press between us, but he held me away from him.
+> His hand slid up my leg, slipping beneath the skirt of my dress. The wolf-man's fingertips brushed against my cunt, sending little ripples through me. His other arm wrapped around my waist, pulling me tight against him. I felt his hard cock press between us, but he held me away from him.
 >
->"Tell me, sweet girl, if you would like me to touch you there." He ran the tip of his finger along the seam of my pussy. "Or do you prefer that I just lick you and make you come for me?"
+> "Tell me, sweet girl, if you would like me to touch you there." He ran the tip of his finger along the seam of my pussy. "Or do you prefer that I just lick you and make you come for me?"
 >
->I moaned when he pressed two fingers inside me. His thumb rubbed against my clit. "Do it," I breathed. "Lick me. Make me come."
+> I moaned when he pressed two fingers inside me. His thumb rubbed against my clit. "Do it," I breathed. "Lick me. Make me come."
 >
->The wolf-man licked at my pussy, drawing more moans from me. I gripped at the edge of his desk, unable to hold still. The sensation was too much. Too good. His tongue moved over me, tasting and exploring. Then he shifted, his fingers sliding out of my cunt. The wolf-man took hold of my legs and spread them wide apart. My feet were trapped between us, my ankles dangling over the edge of his desk. I moaned again as his tongue slid against my clit, rubbing softly.
+> The wolf-man licked at my pussy, drawing more moans from me. I gripped at the edge of his desk, unable to hold still. The sensation was too much. Too good. His tongue moved over me, tasting and exploring. Then he shifted, his fingers sliding out of my cunt. The wolf-man took hold of my legs and spread them wide apart. My feet were trapped between us, my ankles dangling over the edge of his desk. I moaned again as his tongue slid against my clit, rubbing softly.
 >
->"Tell me, my dear," he said as he continued to tease my clit with his tongue. "Have you ever had your pussy eaten before?"
+> "Tell me, my dear," he said as he continued to tease my clit with his tongue. "Have you ever had your pussy eaten before?"
 >
->"No," I said.
+> "No," I said.
 >
->"Is that because you don't know how it's done or is it simply a matter that you haven't found someone to do it?"
+> "Is that because you don't know how it's done or is it simply a matter that you haven't found someone to do it?"
 >
->"It's just not something that men have done to me." I looked at him over my shoulder. His eyes gleamed with hunger and lust. "But now... I am yours. You may do whatever you please to me."
+> "It's just not something that men have done to me." I looked at him over my shoulder. His eyes gleamed with hunger and lust. "But now... I am yours. You may do whatever you please to me."
 >
->The wolf-man lifted his head and looked into my eyes. "Then you may be sure that I will make you come many times tonight. For I will enjoy tasting every inch of your body, sweet girl."
+> The wolf-man lifted his head and looked into my eyes. "Then you may be sure that I will make you come many times tonight. For I will enjoy tasting every inch of your body, sweet girl."
 >
->He returned to my pussy, licking and sucking. I could feel his saliva dripping down my thighs as he worked me with his mouth. His fingers stroked into me and out. The way he touched me caused my breath to quicken. I could barely contain the pleasure building inside me.
+> He returned to my pussy, licking and sucking. I could feel his saliva dripping down my thighs as he worked me with his mouth. His fingers stroked into me and out. The way he touched me caused my breath to quicken. I could barely contain the pleasure building inside me.
 >
->"I need you," I gasped. "I need your cock. Give it to me. Please."
+> "I need you," I gasped. "I need your cock. Give it to me. Please."
 >
->The wolf-man slid off the desk, his hands closing around my hips as he turned me. He pressed me back against it, his fingers sliding beneath my dress to grasp my ass cheeks. My back arched as he bent me over the desk, his cock pressing against my wet pussy. I could smell my own sex and it filled my nostrils. The wolf-man pressed his cock against me and slid inside me. I cried out at the feeling of being filled by such a huge cock. My ass pressed against the edge of the desk.
+> The wolf-man slid off the desk, his hands closing around my hips as he turned me. He pressed me back against it, his fingers sliding beneath my dress to grasp my ass cheeks. My back arched as he bent me over the desk, his cock pressing against my wet pussy. I could smell my own sex and it filled my nostrils. The wolf-man pressed his cock against me and slid inside me. I cried out at the feeling of being filled by such a huge cock. My ass pressed against the edge of the desk.
+
+##### [Dovahhatty](https://files.catbox.moe/9bcddq.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/384578484/#384701483)
+
+*Feel free btw - current Dovahhatty module - ymmv*
 
 ##### [Disney Song Lyrics](https://anonfiles.com/58E7e0W8xf/Disney_Songs_module)
 
@@ -2701,13 +2726,13 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 
 *Trained on [all the disney song lyrics.](https://www.disneyclips.com/lyrics/)*
 
->**When you wish upon a star**<br>
->Anything your heart desires will come true<br>
->It's time to start believing<br>
->So open up your mind, close your eyes and make a wish<br>
->We're all children of the night, shining like stars above<br>
->There's magic in the air<br>
->Let your dreams come true<br>
+> **When you wish upon a star**<br>
+> Anything your heart desires will come true<br>
+> It's time to start believing<br>
+> So open up your mind, close your eyes and make a wish<br>
+> We're all children of the night, shining like stars above<br>
+> There's magic in the air<br>
+> Let your dreams come true<br>
 
 ##### [Emo/Pop/Punk Lyrics](https://anonfiles.com/vf28efWaxa/Emo_Rock_Punk_Lyrics_module)
 
@@ -2729,7 +2754,7 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 - Brand New
 - Breaking Benjamin
 - Bullet For My Valentine
-- Cap’n Jazz 
+- Cap’n Jazz
 - Coldplay
 - Creed
 - Dashboard Confessional
@@ -2782,22 +2807,22 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 - We The Kings
 - Within Temptation
 
->[Verse]<br>
->The thing is, I know you can't love me like I need to be loved<br>
->I'll always be the one that needs something more from you<br>
->If you're still holding my hand, you gotta let go of my heart<br>
->I can't stand it when people try to change what makes me who I am<br>
->So don't try to fix it or put me back together because it's not broken<br>
->Just let me go<br>
->I've got everything here without you now<br>
->And you say I'm too much, but I never was enough for you<br>
->But then again, I guess we both knew<br>
->[Chorus]<br>
->You say you're in love with me, but I don't hear you say it back<br>
->Why do I feel like I'm not your number one priority?<br>
->So why do I feel like you just don't care anymore?<br>
->Oh no<br>
->Baby, I don't think that we should break up<br>
+> [Verse]<br>
+> The thing is, I know you can't love me like I need to be loved<br>
+> I'll always be the one that needs something more from you<br>
+> If you're still holding my hand, you gotta let go of my heart<br>
+> I can't stand it when people try to change what makes me who I am<br>
+> So don't try to fix it or put me back together because it's not broken<br>
+> Just let me go<br>
+> I've got everything here without you now<br>
+> And you say I'm too much, but I never was enough for you<br>
+> But then again, I guess we both knew<br>
+> [Chorus]<br>
+> You say you're in love with me, but I don't hear you say it back<br>
+> Why do I feel like I'm not your number one priority?<br>
+> So why do I feel like you just don't care anymore?<br>
+> Oh no<br>
+> Baby, I don't think that we should break up<br>
 
 ##### [First Person/Deep POV](https://anonfiles.com/vbB7ebW7x7/First_and_Deep_POV_module)
 
@@ -2830,6 +2855,19 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 - Insurgent
 - Allegiant
 - Excerpt from Four: The Transfer
+
+##### [Hentai Captions](https://files.catbox.moe/534vd7.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/385081274/#385172086)
+
+*A module for captions.*
+
+> \>Any focuses we should know about? Also, any storypost example of how this turns out?
+
+*I suppose "being spoken to" is the focus. I included straight, gay, voyeur, cock worship, nosex/cute, bestiality, milfs, pokemon.*
+
+![demo](https://files.catbox.moe/e1y61r.png)
+{: .center}
 
 ##### [Lyrical Writing](https://files.catbox.moe/nz9oc2.module)
 
@@ -2869,12 +2907,12 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 - Claire Lispector (Trans. Benjamin Moser)
 - Julio Cortazar (Trans. Paul Blackburn)
 - Zora Neal Hurston
-- Marcel Schwob (Trans. Harry G. Hives) 
-- John Williams 
+- Marcel Schwob (Trans. Harry G. Hives)
+- John Williams
 - Marguerite Duras (Trans. Barbara Bray)
-- Yukio Mishima (Trans. John Nathan) 
+- Yukio Mishima (Trans. John Nathan)
 - Georges Bataille (Trans. Joachim Neugroschel & Austryn Wainhouse)
-- Donald F. (Steely Dan member, had to abbreviate cause his name was being detected as a slur) 
+- Donald F. (Steely Dan member, had to abbreviate cause his name was being detected as a slur)
 - Don Delillo
 - William Burroughs
 - Herman Melville
@@ -2884,27 +2922,27 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 
 *As stated, this module is an experiment, one with results I didn't necessarily try to foresee. I think the more experimental/difficult lit I've thrown in leads to some incoherent generations on weirder settings, but it sure can get colorful. As I suppose you would with a lot of modules, try to use presets that allow more creativity. Be warned that some of the sources I've used contain vulgar material and sometimes focus on dark subject matters. If that kind of stuff bothers you, you might want to download some other modules instead.*
 
->Maître d'hôtel Jacques Bouvier's apartment is reached through a tall, fluted stone arched door on a tree-lined avenue in Paris. Passing the threshold, a sudden change of temperature and quality of light surprises and delights—it is warm inside, it is dark and dappled as if under a canopy of leaves, and it is full of bird sounds: coo and chir, trill and rattle. The noise of life.
+> Maître d'hôtel Jacques Bouvier's apartment is reached through a tall, fluted stone arched door on a tree-lined avenue in Paris. Passing the threshold, a sudden change of temperature and quality of light surprises and delights—it is warm inside, it is dark and dappled as if under a canopy of leaves, and it is full of bird sounds: coo and chir, trill and rattle. The noise of life.
 >
->MY NEW OXYCODONE WAS delivered by a woman in a Ford, her hands trembling. Her driver's license said PALE CHASTITY. She wore a beaded purse over a slumming pink T-shirt that advertised TOKAY FARMERS MARKET: STEAK. EGGS. BLUEBERRIES AND PEAS, which I was inclined to like a great deal on any grounds.
+> MY NEW OXYCODONE WAS delivered by a woman in a Ford, her hands trembling. Her driver's license said PALE CHASTITY. She wore a beaded purse over a slumming pink T-shirt that advertised TOKAY FARMERS MARKET: STEAK. EGGS. BLUEBERRIES AND PEAS, which I was inclined to like a great deal on any grounds.
 
->**"You fuckah!"** yelled Maza as he smashed in the young soldier's face with a mace.
+> **"You fuckah!"** yelled Maza as he smashed in the young soldier's face with a mace.
 >
->Maza stood above his prisoner, arm muscles rippling, spit frothing, chest heaving, dripping black saliva-tinged blood. There was an almost demonic aspect to the mace, as if it had crawled from the shadows of the Abyss, to take up, once more, its ancient form of execution in the Third Age of Man.
+> Maza stood above his prisoner, arm muscles rippling, spit frothing, chest heaving, dripping black saliva-tinged blood. There was an almost demonic aspect to the mace, as if it had crawled from the shadows of the Abyss, to take up, once more, its ancient form of execution in the Third Age of Man.
 >
->Bugg and Chub stood open-mouthed, watching their boss. Maza was exulting. He'd spent weeks hunting through the army base for this one. The jig was up — the American's army was collapsing.
+> Bugg and Chub stood open-mouthed, watching their boss. Maza was exulting. He'd spent weeks hunting through the army base for this one. The jig was up — the American's army was collapsing.
 
->**"What da hell are ya doin'?"** asked Mrs. Parmentier, as I emptied the remains of an impromptu urinal into her bathtub. 
+> **"What da hell are ya doin'?"** asked Mrs. Parmentier, as I emptied the remains of an impromptu urinal into her bathtub.
 >
->"Taking a bath."
+> "Taking a bath."
 >
->"I don't know about this," she said suspiciously, picking up a lumpy soap package, looking it over and squirting half of it on the surface of the water, while I stood near the sink dripping.
+> "I don't know about this," she said suspiciously, picking up a lumpy soap package, looking it over and squirting half of it on the surface of the water, while I stood near the sink dripping.
 >
->"I'd think y'wud 'ave more sense than this, Jack."
+> "I'd think y'wud 'ave more sense than this, Jack."
 >
->"Hey, now, wait a minute, Mrs. P."
+> "Hey, now, wait a minute, Mrs. P."
 >
->"Not one word."
+> "Not one word."
 
 ##### [Taylor Swift Lyrics](https://anonfiles.com/Ncz3e3W9x9/Taylor_Swift_Module_module)
 
@@ -2914,25 +2952,25 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 
 *Trained to 106% with 555 steps.*
 
->[Verse]<br>
->I've been a mess since you said goodbye<br>
->My heart's been out of place, I don't know what to do<br>
->It was such an easy thing to lose you<br>
->But it's so hard to find again<br>
->And now the tears won't stop falling down my face<br>
->I'll never see your smile or hold your hand<br>
->'Cause you're not coming back home<br>
->[Chorus]<br>
->If only you knew how much I needed you here with me<br>
->You were the one that held my broken heart together<br>
->Now there's no one left to dry these tears from my eyes<br>
->The pain is just too much to take<br>
->There's nothing else I can do but cry<br>
->I'm so lost without you by my side<br>
->'Cause you're not coming back home<br>
->(No, you're not coming back)<br>
->(No, you're not coming back)<br>
->(No, you're not coming back)<br>
+> [Verse]<br>
+> I've been a mess since you said goodbye<br>
+> My heart's been out of place, I don't know what to do<br>
+> It was such an easy thing to lose you<br>
+> But it's so hard to find again<br>
+> And now the tears won't stop falling down my face<br>
+> I'll never see your smile or hold your hand<br>
+> 'Cause you're not coming back home<br>
+> [Chorus]<br>
+> If only you knew how much I needed you here with me<br>
+> You were the one that held my broken heart together<br>
+> Now there's no one left to dry these tears from my eyes<br>
+> The pain is just too much to take<br>
+> There's nothing else I can do but cry<br>
+> I'm so lost without you by my side<br>
+> 'Cause you're not coming back home<br>
+> (No, you're not coming back)<br>
+> (No, you're not coming back)<br>
+> (No, you're not coming back)<br>
 
 ##### [Vorefag](https://files.catbox.moe/dyihdl.module)
 
@@ -2955,23 +2993,23 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 
 ***Tags:** weird fiction, bizarro, surreal, body horror*
 
->"Well, now that we're here, you should probably fill me in." The King looked around at the empty streets, still full of trash but otherwise unremarkable. "Where is everybody?"
+> "Well, now that we're here, you should probably fill me in." The King looked around at the empty streets, still full of trash but otherwise unremarkable. "Where is everybody?"
 >
->"As far as I know," the Man in Black answered, "there's no one left in town. There was a fight between the Vampires and the Witches, apparently. Neither side has been able to hold on since then." He looked up at the sky again. It had begun to get dark and the clouds were rolling back in, revealing that night was approaching faster than it should be.
+> "As far as I know," the Man in Black answered, "there's no one left in town. There was a fight between the Vampires and the Witches, apparently. Neither side has been able to hold on since then." He looked up at the sky again. It had begun to get dark and the clouds were rolling back in, revealing that night was approaching faster than it should be.
 >
->"Why would anyone do this?"
+> "Why would anyone do this?"
 >
->The Man in Black shrugged. "Who knows? We've got some sort of… messiah trying to clean up whatever he sees as problems in the world today. We're not sure if he's the good guy or the bad guy, but we don't have any reason to think he's going to stop until every Witch and Vampire on the planet is dead." He shrugged. "I'm really not a fan of this whole mess."
+> The Man in Black shrugged. "Who knows? We've got some sort of… messiah trying to clean up whatever he sees as problems in the world today. We're not sure if he's the good guy or the bad guy, but we don't have any reason to think he's going to stop until every Witch and Vampire on the planet is dead." He shrugged. "I'm really not a fan of this whole mess."
 >
->"Messiah?" the King repeated slowly. The words didn't sit well with him. "What makes you say that?"
+> "Messiah?" the King repeated slowly. The words didn't sit well with him. "What makes you say that?"
 >
->The man frowned. "It's just… weird how much like… an angel he looks. I mean, they're all over the place these days. But this one… Well, it's not even a person. He's just some kind of… cloud… or something. It's crazy, but there are times when he makes people feel things… It's almost like he can make people believe in him. So maybe that's what it is. Maybe this whole mess is just the result of this one guy who is actually messing with everybody's head."
+> The man frowned. "It's just… weird how much like… an angel he looks. I mean, they're all over the place these days. But this one… Well, it's not even a person. He's just some kind of… cloud… or something. It's crazy, but there are times when he makes people feel things… It's almost like he can make people believe in him. So maybe that's what it is. Maybe this whole mess is just the result of this one guy who is actually messing with everybody's head."
 >
->"And then?" the King asked, gesturing around them at the deserted cityscape.
+> "And then?" the King asked, gesturing around them at the deserted cityscape.
 >
->"Well… he seems to think that by killing everyone, the problem will be solved. You know. Like the old… 'Death is the only solution' thing." The Man in Black shrugged. "Maybe he's right, but it seems a little drastic to me. You know, he says all this stuff about how he's trying to help us… but we haven't seen anything to show that he's doing us any favors. Nothing at all."
+> "Well… he seems to think that by killing everyone, the problem will be solved. You know. Like the old… 'Death is the only solution' thing." The Man in Black shrugged. "Maybe he's right, but it seems a little drastic to me. You know, he says all this stuff about how he's trying to help us… but we haven't seen anything to show that he's doing us any favors. Nothing at all."
 
-***
+---
 
 ### [Sexual](#themes)
 
@@ -3009,49 +3047,49 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 - Title: Demon Hunter - The Breamstone Collective Author: Michael Dalton Genre: Urban Fantasy; Harem Erotica
 - Title: Demon Hunter - The Vermillion Cabal Author: Michael Dalton Genre: Urban Fantasy; Harem Erotica
 
->**The angel** strode into the room, and Morgan's body tensed as he saw her. She was a magnificent creature, with her shining golden hair flowing over her shoulders in waves that framed her pale face. Her robe of white silk hung off one arm as she stalked toward him. He knew this woman, remembered her from long ago when he had been human. When they'd met, he hadn't even known what an angel looked like, and then she'd shown herself to be just another mortal. Yet here she was again, an angel who could give him more pleasure than any other human before her or since.
+> **The angel** strode into the room, and Morgan's body tensed as he saw her. She was a magnificent creature, with her shining golden hair flowing over her shoulders in waves that framed her pale face. Her robe of white silk hung off one arm as she stalked toward him. He knew this woman, remembered her from long ago when he had been human. When they'd met, he hadn't even known what an angel looked like, and then she'd shown herself to be just another mortal. Yet here she was again, an angel who could give him more pleasure than any other human before her or since.
 >
->"You should have come sooner." The angel's voice was a low musical soprano. "I will grant you all your wishes if only you would ask me for them."
+> "You should have come sooner." The angel's voice was a low musical soprano. "I will grant you all your wishes if only you would ask me for them."
 >
->Morgan licked his lips, his cock straining against the confines of his jeans. If only she wouldn't say no. What would it take? Would she do anything he asked? "Please," he whispered.
+> Morgan licked his lips, his cock straining against the confines of his jeans. If only she wouldn't say no. What would it take? Would she do anything he asked? "Please," he whispered.
 >
->She smiled and nodded, walking over to him slowly, as though savoring what was to come. He stood up from his chair and followed her across the room, unable to look away. This was it. His destiny. And she didn't need him to save anyone else. Just himself.
+> She smiled and nodded, walking over to him slowly, as though savoring what was to come. He stood up from his chair and followed her across the room, unable to look away. This was it. His destiny. And she didn't need him to save anyone else. Just himself.
 >
->"Take these clothes off," she said, gesturing at his pants.
+> "Take these clothes off," she said, gesturing at his pants.
 
->**The beautiful succubus exuded an aura of evil and seductive malevolence as she approached me with her hips swaying, her tail swishing behind her**. I was in the middle of a dream where everything felt so real yet none of it was actually happening to me. As my eyes drifted over her curves, her breasts heaved and swayed in time with the hypnotic beat of music that seemed to emanate from her skin. Her long black hair flowed down her back like an ebony waterfall, cascading around her shoulders and pooling on the floor at her feet.
+> **The beautiful succubus exuded an aura of evil and seductive malevolence as she approached me with her hips swaying, her tail swishing behind her**. I was in the middle of a dream where everything felt so real yet none of it was actually happening to me. As my eyes drifted over her curves, her breasts heaved and swayed in time with the hypnotic beat of music that seemed to emanate from her skin. Her long black hair flowed down her back like an ebony waterfall, cascading around her shoulders and pooling on the floor at her feet.
 >
->"I have waited for you," she purred, her voice soft yet dangerous. "Come closer." She beckoned me forward by curling one finger.
+> "I have waited for you," she purred, her voice soft yet dangerous. "Come closer." She beckoned me forward by curling one finger.
 >
->I walked toward her slowly, my heart pounding in anticipation, though I didn't know why.
+> I walked toward her slowly, my heart pounding in anticipation, though I didn't know why.
 >
->She stepped out of the shadows and into the light, revealing herself to be all female; a woman dressed in leather pants and a tight-fitting top. The pale fabric clung to every curve of her body, highlighting her perfect hourglass figure and full breasts. She wore no make-up or jewelry except for the large gold hoop earring in her left ear.
+> She stepped out of the shadows and into the light, revealing herself to be all female; a woman dressed in leather pants and a tight-fitting top. The pale fabric clung to every curve of her body, highlighting her perfect hourglass figure and full breasts. She wore no make-up or jewelry except for the large gold hoop earring in her left ear.
 >
->Her face was flawless, with smooth skin and big gray eyes. Her lips were red, her jawline strong but not overly muscular. She had a small nose, high cheekbones, and thin eyebrows. Her jaw was square with a bit of a chin cleft. Her hair was black, cut short and framing her face in a sexy style.
+> Her face was flawless, with smooth skin and big gray eyes. Her lips were red, her jawline strong but not overly muscular. She had a small nose, high cheekbones, and thin eyebrows. Her jaw was square with a bit of a chin cleft. Her hair was black, cut short and framing her face in a sexy style.
 >
->"Do you know what you are?" she asked.
+> "Do you know what you are?" she asked.
 >
->I knew what I was, but how could I possibly answer that question?
+> I knew what I was, but how could I possibly answer that question?
 >
->"You are a man with the power to control women's desires," she replied. "Your dreams will be filled with the most erotic fantasies imaginable. You can give them whatever they desire. They will worship your cock. Your cock is all they want. Your cock is all they need. Do you understand?"
+> "You are a man with the power to control women's desires," she replied. "Your dreams will be filled with the most erotic fantasies imaginable. You can give them whatever they desire. They will worship your cock. Your cock is all they want. Your cock is all they need. Do you understand?"
 >
->I nodded, still bewildered.
+> I nodded, still bewildered.
 >
->She smiled, her lips parting slightly. I was entranced by her beauty; her dark eyes, sensuous mouth, and silky black hair.
+> She smiled, her lips parting slightly. I was entranced by her beauty; her dark eyes, sensuous mouth, and silky black hair.
 >
->"You will have no choice," she whispered, "but to obey me."
+> "You will have no choice," she whispered, "but to obey me."
 
->**He stared at the demon's huge throbbing cock.** The thing was twice his own length, and its girth almost matched the width of his arm. It stood out from his body like a purple-black tree stump, dripping pre-cum from its heavy spurting head. He'd never seen anything so enormous in his life, not even when he'd first encountered the succubi. They were big compared to him, but this thing was ten times bigger than any of them had ever been.
+> **He stared at the demon's huge throbbing cock.** The thing was twice his own length, and its girth almost matched the width of his arm. It stood out from his body like a purple-black tree stump, dripping pre-cum from its heavy spurting head. He'd never seen anything so enormous in his life, not even when he'd first encountered the succubi. They were big compared to him, but this thing was ten times bigger than any of them had ever been.
 >
->"What do I do with it?" he asked hesitantly.
+> "What do I do with it?" he asked hesitantly.
 >
->It turned toward him with a cocky smile on its face that made Alex want to punch it in the face. "Do you want some?" it grinned nastily.
+> It turned toward him with a cocky smile on its face that made Alex want to punch it in the face. "Do you want some?" it grinned nastily.
 >
->Alex swallowed nervously as he realized what lay before him. If he didn't get the demon off soon, it would start cumming inside him, filling him up with hot semen that could kill him just as easily as sucking him dry. But how? Was there any way to do it without taking some of the load into his mouth?
+> Alex swallowed nervously as he realized what lay before him. If he didn't get the demon off soon, it would start cumming inside him, filling him up with hot semen that could kill him just as easily as sucking him dry. But how? Was there any way to do it without taking some of the load into his mouth?
 >
->"I don't know," he admitted.
+> "I don't know," he admitted.
 >
->The demon laughed and reached down between its legs, cupping his balls gently in one hand while the other stroked the base of his cock until he started leaking more precum onto his stomach.
+> The demon laughed and reached down between its legs, cupping his balls gently in one hand while the other stroked the base of his cock until he started leaking more precum onto his stomach.
 
 ##### [Changelings](https://files.catbox.moe/5zcud2.module)
 
@@ -3097,45 +3135,45 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 
 ***Special notes:** 5.7 Mb, 2000 steps, 30.10% coverage, Loss: 2.799.*
 
->**I'm a Khajiit. So what? It means that I have** fur, and ears, and tail, and... well, and a little bit more, but you're not interested in that right now, are you? And you don't need to know my name either. All you need to know is that I'm a Khajiit who's looking for someone to spend the rest of his life with. Someone willing to accept me as I am, and not try to change me into something else. I've been running from people like that all my life. People who want to make me into something better than myself.
+> **I'm a Khajiit. So what? It means that I have** fur, and ears, and tail, and... well, and a little bit more, but you're not interested in that right now, are you? And you don't need to know my name either. All you need to know is that I'm a Khajiit who's looking for someone to spend the rest of his life with. Someone willing to accept me as I am, and not try to change me into something else. I've been running from people like that all my life. People who want to make me into something better than myself.
 >
->My people are famous for being thieves and assassins, but we're also known for our love of music, art, poetry, and general mischief. Some say that it's all just a front--that our true nature is a dark one. But no matter how much I may enjoy teasing people or causing trouble when I can get away with it, deep down inside, I am still a good person at heart. I would never hurt anyone just for the sake of hurting them--unless they deserved it, of course.
+> My people are famous for being thieves and assassins, but we're also known for our love of music, art, poetry, and general mischief. Some say that it's all just a front--that our true nature is a dark one. But no matter how much I may enjoy teasing people or causing trouble when I can get away with it, deep down inside, I am still a good person at heart. I would never hurt anyone just for the sake of hurting them--unless they deserved it, of course.
 >
->If you think that you might be the one I'm looking for, then please send me an email telling me about yourself. If you feel that you might fit the bill, then I'll give you my address so you can come visit me.
+> If you think that you might be the one I'm looking for, then please send me an email telling me about yourself. If you feel that you might fit the bill, then I'll give you my address so you can come visit me.
 
->**"Pull out, you dirty lizard!"** I said looking over at the red-scaled warrior.
+> **"Pull out, you dirty lizard!"** I said looking over at the red-scaled warrior.
 >
->He shrugged and pulled out of me with a wet smack. He moved up to my head and kissed me hard, his tongue sliding into my mouth and forcing itself against mine. His hands were all over my body, caressing every part he could reach. He then dropped down beside me and rolled on top of me, straddling one leg atop each of mine as he sat up straight above me. "I'm going to fuck your ass now," he announced, staring down at me with lust in his eyes.
+> He shrugged and pulled out of me with a wet smack. He moved up to my head and kissed me hard, his tongue sliding into my mouth and forcing itself against mine. His hands were all over my body, caressing every part he could reach. He then dropped down beside me and rolled on top of me, straddling one leg atop each of mine as he sat up straight above me. "I'm going to fuck your ass now," he announced, staring down at me with lust in his eyes.
 >
->"Oh, right..." I said, glancing back at him. "But... it's okay if I play with yours?"
+> "Oh, right..." I said, glancing back at him. "But... it's okay if I play with yours?"
 >
->The Argonian laughed and shaked his head. "Not a chance."
+> The Argonian laughed and shaked his head. "Not a chance."
 
->**"I just always wanted to know, kitty. Why do Khajiit lick their butts?" the Argonian grins,** a look of pure mischief in his eyes and an amused expression on his face. "Just curious."
+> **"I just always wanted to know, kitty. Why do Khajiit lick their butts?" the Argonian grins,** a look of pure mischief in his eyes and an amused expression on his face. "Just curious."
 >
->J'Zarr's tail whips back and forth behind him as he looks up at the Argonian with a very confused expression. He furrows his brows, trying to figure out why this strange lizard is asking such a bizarre question.
+> J'Zarr's tail whips back and forth behind him as he looks up at the Argonian with a very confused expression. He furrows his brows, trying to figure out why this strange lizard is asking such a bizarre question.
 >
->"Because it feels good," J'Zarr says finally, answering the question with more than enough confidence for someone who has never been asked this by anyone before. The Argonian lets out a raspy laugh and shakes his head.
+> "Because it feels good," J'Zarr says finally, answering the question with more than enough confidence for someone who has never been asked this by anyone before. The Argonian lets out a raspy laugh and shakes his head.
 >
->"No, I'm just kidding ya, kitty," he smirks. "It tickles me when you try to act all serious about something so silly. You're cute like that!"
+> "No, I'm just kidding ya, kitty," he smirks. "It tickles me when you try to act all serious about something so silly. You're cute like that!"
 
->**Lifts-Her-Tail: Certainly not, kind sir! I am here but to clean your chambers.**
+> **Lifts-Her-Tail: Certainly not, kind sir! I am here but to clean your chambers.**
 >
->**Crantius Colto:** Ahh... very well then, keep your paws off my things, lass.
+> **Crantius Colto:** Ahh... very well then, keep your paws off my things, lass.
 >
->ifts-Her-Tail: No, you misunderstand, milord. It is a pleasure to serve such a fine man as yourself. If it is within the limits of my duties and abilities, I will do whatever you wish me to.
+> ifts-Her-Tail: No, you misunderstand, milord. It is a pleasure to serve such a fine man as yourself. If it is within the limits of my duties and abilities, I will do whatever you wish me to.
 >
->Crantius Colto: Yes, that's what I like to hear, girl. Thank ye for yer service.
+> Crantius Colto: Yes, that's what I like to hear, girl. Thank ye for yer service.
 >
->Lifts-Her-Tail: My pleasure!
+> Lifts-Her-Tail: My pleasure!
 >
->Crantius Colto: Now, if you'll excuse me, there are some books I need to read before bed.
+> Crantius Colto: Now, if you'll excuse me, there are some books I need to read before bed.
 >
->Lifts-Her-Tail: Of course, milord, please take care in your reading.
+> Lifts-Her-Tail: Of course, milord, please take care in your reading.
 >
->Crantius Colto: You too, girl. And don't forget to lock up when you're done with your work.
+> Crantius Colto: You too, girl. And don't forget to lock up when you're done with your work.
 >
->Lifts-Her-Tail: I won't, milord. See ya later!
+> Lifts-Her-Tail: I won't, milord. See ya later!
 
 ##### [Giantesses](https://files.catbox.moe/tg3z8m.module)
 
@@ -3176,11 +3214,11 @@ Here's an imouto focused loli module I trained on some of my NAI stories at 100%
 *Trained 8000 steps on a bunch of random Zootopia Fanfictions  (mostly smutty, covering a wide range of kinks) Featuring Judy Hopps as a character & also the novelization of the movie to reinforce accuracy.*
 *For additional performance, rentry.co/DenOfSin has a Judy Hopps lorebook card files.catbox.moe/rqtk46.png (Not used in the samples below)*
 
->**Nick** was on his way home from the police station, feeling exhausted and depressed. He had been working hard to find out who had stolen his wallet and what they were trying to do with it. The trail was going cold and he didn't know why. It seemed like whoever had done this to him was just too clever for him to catch.
+> **Nick** was on his way home from the police station, feeling exhausted and depressed. He had been working hard to find out who had stolen his wallet and what they were trying to do with it. The trail was going cold and he didn't know why. It seemed like whoever had done this to him was just too clever for him to catch.
 
->**Judy** stared at the book, trying to make sense of what she was reading.
+> **Judy** stared at the book, trying to make sense of what she was reading.
 >
->She had just finished chapter nine and her mind was reeling with everything she'd learned. She could hardly believe it; if it were true, then… well, that would mean that the entire city was in danger. If the ZPD didn't have a mole, then it was likely that they had been infiltrated by some sort of secret society. And if they were in league with them, then it meant that the entire city was at risk. It also meant that if they weren't part of this group, then they were working for them.
+> She had just finished chapter nine and her mind was reeling with everything she'd learned. She could hardly believe it; if it were true, then… well, that would mean that the entire city was in danger. If the ZPD didn't have a mole, then it was likely that they had been infiltrated by some sort of secret society. And if they were in league with them, then it meant that the entire city was at risk. It also meant that if they weren't part of this group, then they were working for them.
 
 ##### [Loli/Shota](https://files.catbox.moe/l492v0.module)
 
@@ -3239,6 +3277,7 @@ Here's an imouto focused loli module I trained on some of my NAI stories at 100%
 *The purpose of this module is to give NAI a better idea of sergals, both in canon and non-canon stories.*
 
 ***Sources:***
+
 - Official Vilous Wiki (the data is cleaned by hand).
 - Official lore info written by Mick39 & Kiki-UMA.
 - 43 well-written fan-fiction stories taken from FurAffinity and SoFurry (both SFW and NSFW; mostly canon).
@@ -3249,44 +3288,43 @@ Here's an imouto focused loli module I trained on some of my NAI stories at 100%
 
 ***Special notes:** 4.25 Mb, 2000 steps, 40.31% coverage, Loss: 3.0031.*
 
->**"Listen, you southerner!"** It was the first time she'd heard him call her that since they had started to talk again. The way he said it made her feel like she'd just been slapped across the face. She turned, looking at him in surprise. He didn't look so well, his fur wasn't quite as well groomed as usual, and his shirt was rumpled.
+> **"Listen, you southerner!"** It was the first time she'd heard him call her that since they had started to talk again. The way he said it made her feel like she'd just been slapped across the face. She turned, looking at him in surprise. He didn't look so well, his fur wasn't quite as well groomed as usual, and his shirt was rumpled.
 >
->She walked up to him and leaned against the side of the wagon, crossing her arms over her chest. "I'm listening."
+> She walked up to him and leaned against the side of the wagon, crossing her arms over her chest. "I'm listening."
 >
->He sighed, stepping forward and reaching out, grabbing her shoulder and turning her around to face him. "You're going back down south with your tail between your legs. That's what you're doing."
+> He sighed, stepping forward and reaching out, grabbing her shoulder and turning her around to face him. "You're going back down south with your tail between your legs. That's what you're doing."
 >
->She met his gaze evenly, refusing to let the anger she felt show on her face.
+> She met his gaze evenly, refusing to let the anger she felt show on her face.
 
->The male looks away shyly as the female places her hands on his shoulders. He smiles, and the female too, but it isn’t nearly enough to cover up his obvious discomfort. They have never been close friends, not even acquaintances, just two sergals sharing a moment in a small tent with little else to do except stare at each other.
+> The male looks away shyly as the female places her hands on his shoulders. He smiles, and the female too, but it isn’t nearly enough to cover up his obvious discomfort. They have never been close friends, not even acquaintances, just two sergals sharing a moment in a small tent with little else to do except stare at each other.
 >
->It was inevitable, they both knew that. It wasn’t long before their unit was sent out into the wilds of the mountains.
+> It was inevitable, they both knew that. It wasn’t long before their unit was sent out into the wilds of the mountains.
 >
+> "I know I shouldn't," he says softly. "But..."
 >
->"I know I shouldn't," he says softly. "But..."
+> She lays down beside him, resting her head on his chest. Her warm breath caresses his skin, and he feels a bit more comfortable with that alone than when she started talking.
 >
->She lays down beside him, resting her head on his chest. Her warm breath caresses his skin, and he feels a bit more comfortable with that alone than when she started talking.
+> "I've been thinking about it all day," she murmurs. "About what we could be."
 >
->"I've been thinking about it all day," she murmurs. "About what we could be."
+> He takes her muzzle between his hands, looking into those eyes he knows so well.
 >
->He takes her muzzle between his hands, looking into those eyes he knows so well.
+> "Don’t," he tells her. "You don’t want me."
 >
->"Don’t," he tells her. "You don’t want me."
+> "No, I do. But..."
 >
->"No, I do. But..."
+> "I am a soldier," he reminds her. "A soldier has no time for such things."
 >
->"I am a soldier," he reminds her. "A soldier has no time for such things."
->
->She shakes her head, her expression one of defeat.
+> She shakes her head, her expression one of defeat.
 
->**\*\*\***
+> **\*\*\***
 >
->"So I don't have to kill you?" the sergal asked me, his voice smooth and cool as he reached for my throat. His claws were sharp. They would be very deadly in their own right.
+> "So I don't have to kill you?" the sergal asked me, his voice smooth and cool as he reached for my throat. His claws were sharp. They would be very deadly in their own right.
 >
->I had been expecting that question. "No," I replied. "I'll just be leaving." The sergal relaxed some more. He was still holding me in place with his claws, but he'd relaxed some of the pressure.
+> I had been expecting that question. "No," I replied. "I'll just be leaving." The sergal relaxed some more. He was still holding me in place with his claws, but he'd relaxed some of the pressure.
 >
->The sergal's eyes met mine again, and this time they glinted with curiosity.
+> The sergal's eyes met mine again, and this time they glinted with curiosity.
 >
->He let out a low laugh and said, "You know, you're really cute." He slid his hands down my sides to hold on to my hips, then pressed forward so I could feel him pressing against my ass. "I think you can stay a little longer." he said.
+> He let out a low laugh and said, "You know, you're really cute." He slid his hands down my sides to hold on to my hips, then pressed forward so I could feel him pressing against my ass. "I think you can stay a little longer." he said.
 
 ##### [Shortstacks](https://files.catbox.moe/8o8p17.module)
 
@@ -3343,9 +3381,9 @@ Here's an imouto focused loli module I trained on some of my NAI stories at 100%
 
 *Trained to 1500 steps.*
 
->**Tina felt the cold metal of the circlet slip around her head.** She felt a slight tug as it locked into place on the back of her head. Tina knew she was now under the control of this device. Her mind had been taken over. She knew that, but it didn’t matter. She could feel a sense of euphoria and satisfaction in her head.
+> **Tina felt the cold metal of the circlet slip around her head.** She felt a slight tug as it locked into place on the back of her head. Tina knew she was now under the control of this device. Her mind had been taken over. She knew that, but it didn’t matter. She could feel a sense of euphoria and satisfaction in her head.
 >
->She looked up at the man who had placed the device around her head. She could see the same look of satisfaction and approval in his eyes. He was pleased with what he had done to her. He had manipulated her mind, her body, and now her will. The device had taken her. She didn’t know how or why, but she was glad for it. She would serve him willingly. Anything he asked of her, she would do without hesitation. Her whole world had been turned upside down by this device. She loved it and wanted more.
+> She looked up at the man who had placed the device around her head. She could see the same look of satisfaction and approval in his eyes. He was pleased with what he had done to her. He had manipulated her mind, her body, and now her will. The device had taken her. She didn’t know how or why, but she was glad for it. She would serve him willingly. Anything he asked of her, she would do without hesitation. Her whole world had been turned upside down by this device. She loved it and wanted more.
 
 ##### [Dronifurcation](https://files.catbox.moe/tof7y6.module)
 
@@ -3359,27 +3397,27 @@ Here's an imouto focused loli module I trained on some of my NAI stories at 100%
 
 ***Special notes:** 2.22 Mb, ???? steps (i forgor ), 45%~ coverage, Loss: 2.925.*
 
->**Each thrum of the visor** made it hard to breathe. It felt like a giant hand was squeezing my throat and lungs with each beat, slowly strangling them as it pumped me full of more and more fluid. I couldn't tell if it was coming from the suit itself or some sort of power source on board, but there wasn't much time to worry about that at this point. The suit was growing around me faster than I could even process what was happening. Soon I was completely encased in latex, unable to move any part of my body.
+> **Each thrum of the visor** made it hard to breathe. It felt like a giant hand was squeezing my throat and lungs with each beat, slowly strangling them as it pumped me full of more and more fluid. I couldn't tell if it was coming from the suit itself or some sort of power source on board, but there wasn't much time to worry about that at this point. The suit was growing around me faster than I could even process what was happening. Soon I was completely encased in latex, unable to move any part of my body.
 >
->I was still conscious, however; the rubber didn't seem to have affected that. Instead it was like being inside a small metal box. I tried to open my mouth to speak, but no words came out. I tried opening my eyes, but they were sealed shut by the rubber over them. My hands had been trapped behind my back before the helmet closed, so I couldn't do anything with them either. In fact, I couldn't see a thing. All I could feel was the throbbing of my heart through my rubber suit. It seemed to be going a hundred miles an hour inside my chest, making my head spin.
+> I was still conscious, however; the rubber didn't seem to have affected that. Instead it was like being inside a small metal box. I tried to open my mouth to speak, but no words came out. I tried opening my eyes, but they were sealed shut by the rubber over them. My hands had been trapped behind my back before the helmet closed, so I couldn't do anything with them either. In fact, I couldn't see a thing. All I could feel was the throbbing of my heart through my rubber suit. It seemed to be going a hundred miles an hour inside my chest, making my head spin.
 >
->The suit felt heavy, too, but not in the way you'd expect it to. A lot heavier, actually. After all, it was only a single layer of latex. But I couldn't really tell without looking down, which I couldn't do because of the helmet on my head. And why would I want to look down? I wouldn't be able to see anything anyway.
+> The suit felt heavy, too, but not in the way you'd expect it to. A lot heavier, actually. After all, it was only a single layer of latex. But I couldn't really tell without looking down, which I couldn't do because of the helmet on my head. And why would I want to look down? I wouldn't be able to see anything anyway.
 >
->I heard footsteps. I turned my head slightly, trying to get a better look at whoever was approaching. All I saw was the red tinted visor that blocked my view. I felt along the sides of the helmet for a moment, trying to find the control panel.
+> I heard footsteps. I turned my head slightly, trying to get a better look at whoever was approaching. All I saw was the red tinted visor that blocked my view. I felt along the sides of the helmet for a moment, trying to find the control panel.
 >
->But there wasn't one. There was no way to turn it off. Not that I needed to. Whoever had put me into this suit controlled everything, including how long I would remain here. If they wanted to let me go, they could easily unlock the door and let me out of the helmet, right?
+> But there wasn't one. There was no way to turn it off. Not that I needed to. Whoever had put me into this suit controlled everything, including how long I would remain here. If they wanted to let me go, they could easily unlock the door and let me out of the helmet, right?
 
->**RX-4556**. A drone.
+> **RX-4556**. A drone.
 >
->The words echoed in his head, repeating over and over again. His mind felt like it was on fire as he tried to block out the pain of the shock collar around his neck. He didn't know what had happened, but he couldn't believe that something so horrible could have actually been done to him. He hadn't even seen who did this, or how it was possible for someone to change into a rubber version of themselves. It was more than just shocking though; it was terrifying.
+> The words echoed in his head, repeating over and over again. His mind felt like it was on fire as he tried to block out the pain of the shock collar around his neck. He didn't know what had happened, but he couldn't believe that something so horrible could have actually been done to him. He hadn't even seen who did this, or how it was possible for someone to change into a rubber version of themselves. It was more than just shocking though; it was terrifying.
 >
->He heard footsteps approaching from behind him and immediately began turning to face them with his arms raised high above his head. The man walked up next to him and made eye contact before smiling at him in an almost fatherly way. "I am going to ask you one question, and I want you to answer me truthfully," said the man. RX-4556 nodded nervously and waited for whatever he wanted to hear.
+> He heard footsteps approaching from behind him and immediately began turning to face them with his arms raised high above his head. The man walked up next to him and made eye contact before smiling at him in an almost fatherly way. "I am going to ask you one question, and I want you to answer me truthfully," said the man. RX-4556 nodded nervously and waited for whatever he wanted to hear.
 >
->"Are you loyal to me?" asked the man in a commanding tone. There was no other option; RX-4556's mind knew that if he lied then there would be severe consequences.
+> "Are you loyal to me?" asked the man in a commanding tone. There was no other option; RX-4556's mind knew that if he lied then there would be severe consequences.
 >
->"Yes, sir!" answered RX-4556 enthusiastically.
+> "Yes, sir!" answered RX-4556 enthusiastically.
 >
->"Good boy." As soon as the words left his mouth he felt a sharp pain across his back, making him cry out. He winced as the shock collar shocked him again, causing him to flinch away from the man.
+> "Good boy." As soon as the words left his mouth he felt a sharp pain across his back, making him cry out. He winced as the shock collar shocked him again, causing him to flinch away from the man.
 
 ##### [Hypnosis (Femsub)](https://files.catbox.moe/nwhbbq.module)
 
@@ -3451,31 +3489,31 @@ A module made of a collection of 3 of my favorite long-form/slow-burn mind contr
 - The Unbearable Lightness of Being by Kundera Milan
 - Scenes from: Michel Houellebecq, The Elementary Particles;Haruki Murakami, Wind-Up Bird Chronicle;Bret Easten Ellis, Less than Zero;Nicholson Baker, The Fermata;Roddy Doyle, The Woman Who Walked Into Doors;Aimee Bender, Quiet Please;James Salter, A Sport and a Pastime;E.L. Doctorow, Ragtime;J.G. Ballard, Crash;Milan Kundera, Unbearable Lightness of Being;Thomas Pynchon, Bleeding Edge;Norman Rush, Mortals;Michael Ondaatje, In the Skin of a Lion;Elena Ferrante, The Story of a New Name;Madeleine D’Engle, A House Like a Lotus;Arundhati Roy, The God of Small Things;Jeffrey Eugenides, Middlesex;Don DeLillo, Underworld;Roberto Bolano, Antwerp;Ian McEwan, On Chesil Beach;Joyce Carol Oates, Blonde;Lauren Groff, Arcadia;Lauren Groff, Fates and Furies;Charles Baxter, The Soul Thief;John Casey, Spartina;David Lodge, Paradise News;Oscar Hijuelo, The Mambo Kings Play Songs of Love;Ethan Canin, We Are Nighttime Travelers;Jeanette Winterson, Written on the Body;Peter Carey, The Tax Inspector;Jamaica Kincaid, Lucy;Mary Gordon, Spending;James Salter, A Sport and a Pastime;Stephen Elliott, My Girlfriend Comes to the City and Beats Me Up;Paulo Cuelho, Eleven Minutes;A.M. Homes, Music for Torching;Darin Strauss, Chang and Eng;John Updike, Rabbit is Rich;Toni Morrison, The Bluest Eye;Stephen McCauley, True Enough;Ron Carlsen, Plan B for the Middle Class;Ian McEwan, The Child in Time;Erica Jong, Fear of Flying;Elizabeth Benedict, Slow Dancing;Glenn Savan, White Palace;Vladimir Nabokov, Spring in Fialta;Jerome Badanes, The Final Opus of Leon Solomon;Philip Roth, Portnoy’s Complaint;Susanne Moore, In the Cut
 
->**I leaned in** to kiss him and he turned his head, so our faces were close. We kissed with a little urgency. He slid his hand down my arm to my hand, and then he took it gently between both of his. He placed it on the back of his neck. He was wearing a new shirt that had no buttons or tie, but I could see that the material had been stretched around his arms. It didn't look as if it would have any give at all when we touched each other. This gave me an idea. "Come over here," I said, pulling him to one side of the bed. "Let's go to the window."
+> **I leaned in** to kiss him and he turned his head, so our faces were close. We kissed with a little urgency. He slid his hand down my arm to my hand, and then he took it gently between both of his. He placed it on the back of his neck. He was wearing a new shirt that had no buttons or tie, but I could see that the material had been stretched around his arms. It didn't look as if it would have any give at all when we touched each other. This gave me an idea. "Come over here," I said, pulling him to one side of the bed. "Let's go to the window."
 >
->"To what end?"
+> "To what end?"
 >
->"What are you talking about? We're already sitting by the window."
+> "What are you talking about? We're already sitting by the window."
 >
->I got up and pulled him after me. As soon as we were standing next to the window, which had no curtains, I reached out for his hand. "Let's feel this," I whispered. Then I turned his hand palm up and started feeling the muscles in his forearm. I moved closer so that my breast touched against his chest. The skin of our chests felt hot.
+> I got up and pulled him after me. As soon as we were standing next to the window, which had no curtains, I reached out for his hand. "Let's feel this," I whispered. Then I turned his hand palm up and started feeling the muscles in his forearm. I moved closer so that my breast touched against his chest. The skin of our chests felt hot.
 >
->"It feels like you're going to bite me."
+> "It feels like you're going to bite me."
 >
->"Why wouldn't I want to? That's where your blood is. Do you know how long I've wanted to lick your face?"
+> "Why wouldn't I want to? That's where your blood is. Do you know how long I've wanted to lick your face?"
 >
->He was silent. I knew he was looking down and watching my breasts move with every movement of my hands. Then I stopped and looked at him. For an instant we just stared into each other's eyes.
+> He was silent. I knew he was looking down and watching my breasts move with every movement of my hands. Then I stopped and looked at him. For an instant we just stared into each other's eyes.
 
 *(10k Output)*
 
->**I leaned in** and kissed his neck, tasting him, and then nuzzled my face into his damp shirt. He was still panting but looked more relaxed. The fire popped and spat; the room was hot. A little breeze from the opened window stirred the hair on Gideon's chest like a lover's breath. I ran my hand over the ripples of his abdomen, feeling them flex and harden beneath my palm. My blood roared through me so loudly I could hear it. His body quivered when I touched him, then he pushed into my hand, making me gasp as he buried himself in my grasp. I ran my hands up his sides to knead both breasts, and then down around his narrow hips and buttocks and back up again. We were both writhing now, gasping for air.
+> **I leaned in** and kissed his neck, tasting him, and then nuzzled my face into his damp shirt. He was still panting but looked more relaxed. The fire popped and spat; the room was hot. A little breeze from the opened window stirred the hair on Gideon's chest like a lover's breath. I ran my hand over the ripples of his abdomen, feeling them flex and harden beneath my palm. My blood roared through me so loudly I could hear it. His body quivered when I touched him, then he pushed into my hand, making me gasp as he buried himself in my grasp. I ran my hands up his sides to knead both breasts, and then down around his narrow hips and buttocks and back up again. We were both writhing now, gasping for air.
 >
->"Gideon, please... don't tease," he pleaded. "I need you inside me."
+> "Gideon, please... don't tease," he pleaded. "I need you inside me."
 >
->"Tell me what I want to hear, and I'll make sure we end this the way you want."
+> "Tell me what I want to hear, and I'll make sure we end this the way you want."
 >
->His face went dark with lustful anticipation. "You know what I want to hear."
+> His face went dark with lustful anticipation. "You know what I want to hear."
 >
->"You think I'm beautiful?"
+> "You think I'm beautiful?"
 
 ##### [Vore](https://files.catbox.moe/cafod1.module)
 
@@ -3503,15 +3541,15 @@ A module made of a collection of 3 of my favorite long-form/slow-burn mind contr
 
 [by feisty_mountain](https://discord.com/channels/854479693503660032/939950910690439179/947427978822959114)
 
-*Constructed from edited and cleaned stories on <https://www.asstr.org/~Kristen/cde/index.htm> except for the "Dear Mother Debbie" series.*
+*Constructed from edited and cleaned stories on [https://www.asstr.org/~Kristen/cde/index.htm](https://www.asstr.org/~Kristen/cde/index.htm) except for the "Dear Mother Debbie" series.*
 
 ***Tags:** Cuckold, M+/F, MM, Impreg, Inter, FemDom, MDom, Humil*
 
 ***Source Material:** 2.0MB, 1711 steps, 80% coverage, 2.68 loss*
 
-Stories in mostly cleaned format: <https://files.catbox.moe/hpjhy3.zip>
+Stories in mostly cleaned format: [https://files.catbox.moe/hpjhy3.zip](https://files.catbox.moe/hpjhy3.zip)
 
-Final training data, merged, fully cleaned: <https://files.catbox.moe/5kjbkh.zip>
+Final training data, merged, fully cleaned: [https://files.catbox.moe/5kjbkh.zip](https://files.catbox.moe/5kjbkh.zip)
 
 ##### [Dad on Son](https://files.catbox.moe/vl593y.module)
 
@@ -3561,13 +3599,13 @@ Final training data, merged, fully cleaned: <https://files.catbox.moe/5kjbkh.zip
 - Tentacle Lust by Amber Fox
 - Sentenced to the Tentacle Chair by Sibley Stamps
 
->**Soft chanting echoed through the thick, intoxicating incense that filled this opulent chamber**. The scent of sandalwood and musk hung in a heavy mist about them as they sat upon cushions arranged around a low table with their hands bound behind their backs by silk scarves. Their heads were bowed to the floor in supplication before an altar-like platform covered with candles. On it lay what appeared to be a human skull carved from ivory, its mouth agape like some obscene parody of a smile. Its empty eye sockets stared down at them with vacant eyes. A long silver knife gleamed in the candlelight on top of the altar.
+> **Soft chanting echoed through the thick, intoxicating incense that filled this opulent chamber**. The scent of sandalwood and musk hung in a heavy mist about them as they sat upon cushions arranged around a low table with their hands bound behind their backs by silk scarves. Their heads were bowed to the floor in supplication before an altar-like platform covered with candles. On it lay what appeared to be a human skull carved from ivory, its mouth agape like some obscene parody of a smile. Its empty eye sockets stared down at them with vacant eyes. A long silver knife gleamed in the candlelight on top of the altar.
 >
->"The Skull," said one of the women. "It is the symbol of death." She was tall and willowy, her dark hair tied back in a severe bun; she wore a black dress made from shimmering brocade that clung to every curve of her body. Her face was pale but strong—the features were finely sculpted, yet there was something cold and remote about them. "We are here for the ceremony known as the Kiss of Death."
+> "The Skull," said one of the women. "It is the symbol of death." She was tall and willowy, her dark hair tied back in a severe bun; she wore a black dress made from shimmering brocade that clung to every curve of her body. Her face was pale but strong—the features were finely sculpted, yet there was something cold and remote about them. "We are here for the ceremony known as the Kiss of Death."
 >
->A man stepped forward holding a large silver bowl containing water. He dipped his fingers into it then held out two slim white arms toward the kneeling women. They rose unsteadily to their feet and allowed themselves to be led across the room. As they approached the altar, their faces glowed red, flushed with excitement. Their lips were moist and parted slightly. Their breathing quickened.
+> A man stepped forward holding a large silver bowl containing water. He dipped his fingers into it then held out two slim white arms toward the kneeling women. They rose unsteadily to their feet and allowed themselves to be led across the room. As they approached the altar, their faces glowed red, flushed with excitement. Their lips were moist and parted slightly. Their breathing quickened.
 >
->They knelt before the altar, each facing the other. One reached up and grasped the hand of the woman beside her. Together they leaned forward until their foreheads touched. Then, without hesitation or preamble, the taller woman lowered her head and pressed her lips against those of her companion. For several moments nothing happened. Slowly, though, the shorter woman's lips began to part. Soon they were locked together in a passionate embrace. Their tongues met and caressed one another. There was no sound save the soft moanings of pleasure. Finally, when the kiss had lasted so long that both women seemed ready to collapse from exhaustion, the taller woman broke away.
+> They knelt before the altar, each facing the other. One reached up and grasped the hand of the woman beside her. Together they leaned forward until their foreheads touched. Then, without hesitation or preamble, the taller woman lowered her head and pressed her lips against those of her companion. For several moments nothing happened. Slowly, though, the shorter woman's lips began to part. Soon they were locked together in a passionate embrace. Their tongues met and caressed one another. There was no sound save the soft moanings of pleasure. Finally, when the kiss had lasted so long that both women seemed ready to collapse from exhaustion, the taller woman broke away.
 
 ##### [Excessive Cum](https://files.catbox.moe/am3rvn.module)
 
@@ -3595,7 +3633,7 @@ Final training data, merged, fully cleaned: <https://files.catbox.moe/5kjbkh.zip
 
 - Zoe Brown
 - Jane Futa
-- Alex Wolffe 
+- Alex Wolffe
 - Nikki Crescent
 - Melissa Raquel
 - Gal Horne
@@ -3630,37 +3668,37 @@ Final training data, merged, fully cleaned: <https://files.catbox.moe/5kjbkh.zip
 
 ***Special notes:** 10.3 Mb, 3600 steps, 30.02% coverage, Loss: 2.761.*
 
->**Our tails** intertwined as we pressed our bodies together. I licked at his muzzle and felt a small growl come from him in response to it. His tongue reached out and ran over my snout, making me shiver with pleasure. He moved so he was on top of me, and pushed his cock along the length of my slit. It rubbed back and forth, teasing me by not entering me. I bucked my hips towards him, trying to get that thing inside me as soon as possible. But he held me down, keeping me pinned under his weight until he was ready to take me. That frustrated me, but only for a moment before I realized how good it felt to have him on top of me like this. The feeling of his tail wrapped around mine made me feel secure, even if I could still move freely underneath him. When he finally entered me, it was an intense sensation that made my eyes roll into the back of my head. I wanted to scream but instead bit down on his neck and let out a low moan of pleasure.
+> **Our tails** intertwined as we pressed our bodies together. I licked at his muzzle and felt a small growl come from him in response to it. His tongue reached out and ran over my snout, making me shiver with pleasure. He moved so he was on top of me, and pushed his cock along the length of my slit. It rubbed back and forth, teasing me by not entering me. I bucked my hips towards him, trying to get that thing inside me as soon as possible. But he held me down, keeping me pinned under his weight until he was ready to take me. That frustrated me, but only for a moment before I realized how good it felt to have him on top of me like this. The feeling of his tail wrapped around mine made me feel secure, even if I could still move freely underneath him. When he finally entered me, it was an intense sensation that made my eyes roll into the back of my head. I wanted to scream but instead bit down on his neck and let out a low moan of pleasure.
 
->**\*\*\***
+> **\*\*\***
 >
->The mongoose was standing by a stream, staring into the water. He was naked, but he didn't mind. He enjoyed being naked; there was nothing wrong with it. The river lapped gently at the rocks behind him, and the sound of its flow made his heart lighten. The water carried away all his worries... until another sound drifted to his ears. Someone was coming towards him, splashing through the shallows at the stream's edge. It was a wolf, one he'd only met once before: a handsome specimen with a bright scar across his muzzle. He sat down next to the mongoose on the bank, and they stared out at the water together in silence.
+> The mongoose was standing by a stream, staring into the water. He was naked, but he didn't mind. He enjoyed being naked; there was nothing wrong with it. The river lapped gently at the rocks behind him, and the sound of its flow made his heart lighten. The water carried away all his worries... until another sound drifted to his ears. Someone was coming towards him, splashing through the shallows at the stream's edge. It was a wolf, one he'd only met once before: a handsome specimen with a bright scar across his muzzle. He sat down next to the mongoose on the bank, and they stared out at the water together in silence.
 >
->"You're alone here?" the wolf asked after some time had passed.
+> "You're alone here?" the wolf asked after some time had passed.
 >
->"I'm not much company," the mongoose replied.
+> "I'm not much company," the mongoose replied.
 >
->"It doesn't matter," said the wolf, stroking his own fur. He glanced over at the mongoose, and smiled. "You look like you could do with some company." He got up and came close, then slid his hand down between the mongoose's legs. There was no resistance, just a soft sighing from the mongoose as he felt the wolf's warm fingers upon his prick.
+> "It doesn't matter," said the wolf, stroking his own fur. He glanced over at the mongoose, and smiled. "You look like you could do with some company." He got up and came close, then slid his hand down between the mongoose's legs. There was no resistance, just a soft sighing from the mongoose as he felt the wolf's warm fingers upon his prick.
 
->**"I had no idea a gryphon could** be so..." the dragoness began, trailing off as she trailed his eyes down to the floor. "So big." She took a deep breath and tried again. "You're an absolute beast, Lord Einar."
+> **"I had no idea a gryphon could** be so..." the dragoness began, trailing off as she trailed his eyes down to the floor. "So big." She took a deep breath and tried again. "You're an absolute beast, Lord Einar."
 >
->Einar was stunned. He'd always thought himself fairly well-endowed in all things sexual, but he never dreamed that his size would have any effect on others... especially a female such as this.
+> Einar was stunned. He'd always thought himself fairly well-endowed in all things sexual, but he never dreamed that his size would have any effect on others... especially a female such as this.
 >
->He stepped closer then and leaned into her, pressing his body against hers as he reached up and pulled her head to him for a gentle kiss. When he finally broke it off with a smile, the dragoness let out an involuntary moan.
+> He stepped closer then and leaned into her, pressing his body against hers as he reached up and pulled her head to him for a gentle kiss. When he finally broke it off with a smile, the dragoness let out an involuntary moan.
 >
->"As for being a beast? I'm afraid you're right." He gave her a wink, which caused a soft smile to spread across her face. "But if you'll let me, I can show you how good a beast I really am."
+> "As for being a beast? I'm afraid you're right." He gave her a wink, which caused a soft smile to spread across her face. "But if you'll let me, I can show you how good a beast I really am."
 
->**"You know what they say about felines:** the bigger the tail, the better the fuck," said Dario with a broad grin. "And your tail is so big."
+> **"You know what they say about felines:** the bigger the tail, the better the fuck," said Dario with a broad grin. "And your tail is so big."
 >
->The lion was sitting in front of the fire, staring at the flames dancing across its surface and occasionally licking his muzzle as he thought hard about something that had just happened to him. At Dario's words, however, he gave a little start and looked up from the flickering embers of the fire. The raptor had been looking down the hall towards his room but now turned to face the lion. He smiled and held out one hand, waving it slowly around in the air.
+> The lion was sitting in front of the fire, staring at the flames dancing across its surface and occasionally licking his muzzle as he thought hard about something that had just happened to him. At Dario's words, however, he gave a little start and looked up from the flickering embers of the fire. The raptor had been looking down the hall towards his room but now turned to face the lion. He smiled and held out one hand, waving it slowly around in the air.
 >
->"I'm sorry," said Dario softly, "but I couldn't help myself. You can blame me if you want."
+> "I'm sorry," said Dario softly, "but I couldn't help myself. You can blame me if you want."
 >
->The lion stared at him for a moment, then laughed and shook his head.
+> The lion stared at him for a moment, then laughed and shook his head.
 >
->"No, no, it wasn't your fault," he said. "It's just... I mean..." He trailed off as he struggled for the right words. "When did you get so bold?"
+> "No, no, it wasn't your fault," he said. "It's just... I mean..." He trailed off as he struggled for the right words. "When did you get so bold?"
 >
->Dario grinned sheepishly and shrugged again. He knew what the lion meant by that comment, and could see how embarrassed he was.
+> Dario grinned sheepishly and shrugged again. He knew what the lion meant by that comment, and could see how embarrassed he was.
 
 ##### [Furry ENF](https://files.catbox.moe/yctwti.module)
 
@@ -3687,6 +3725,7 @@ Final training data, merged, fully cleaned: <https://files.catbox.moe/5kjbkh.zip
 ***Source Material:** 2.9MB, 2688 steps (85.26%)*
 
 *There's a lot (these stories tend to be short), so I'll just list the authors, in order from most to least sampled:*
+
 - Leo_Todrius (33)
 - FakeMan (13)
 - Kotep (12)
@@ -3766,7 +3805,14 @@ Final training data, merged, fully cleaned: <https://files.catbox.moe/5kjbkh.zip
 
 Here is the Euterpe edition of the TGTF Gender Bender module. Focuses on MtF fantastical/sci-fi transformation stories chosen from TGStorytime.com.
 
+##### [WWE (Gay)](https://files.catbox.moe/p18g6f.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/384578484/#384699851)
+
+*Gay third person WWE module. Why? Because why not. There's probably a lot of John Cena in it.*
+
 ## [Works](#modules)
+
 {: .center}
 
 - [Fiction](#fiction) - *In this context, a catch-all term for predominantly Western literature that has been published.*
@@ -3777,7 +3823,7 @@ Here is the Euterpe edition of the TGTF Gender Bender module. Focuses on MtF fan
 - [Web Fiction](#web-fiction) - *Another generic term for any written fiction that is first uploaded and intended to be consumed on or through the internet.*
 - [Scripts](#Scripts) - *Text versions of dialog and actions in media, to then be used as a guideline for TVs, films, games, and other performance media.*
 
-***
+---
 
 ### [Fiction](#works)
 
@@ -3833,23 +3879,23 @@ Trained on the N. K. Sanders English translation of the ancient Mesopotamian poe
 
 *Notes: Yeah, exceptionally high loss, I know. But it's Naked Lunch, what can be done? I don't have to tell people who've read the book this but be aware that this module can generate some grotesque, perverted and offensive shit. Use with caution or don't if that stuff bothers you. Higher randomness recommended.*
 
->I was too fucked up to leave the Hotel Waslala last week. Lava Lavonda and Flacca-Coati brought my drugs over from their favorite junk shack up on First Ave. They hooted and hollered at the sight of my tanned limbs covered with shit stains, dried blood, and dried-up chunks of sputum.
+> I was too fucked up to leave the Hotel Waslala last week. Lava Lavonda and Flacca-Coati brought my drugs over from their favorite junk shack up on First Ave. They hooted and hollered at the sight of my tanned limbs covered with shit stains, dried blood, and dried-up chunks of sputum.
 >
->"You sure are a fucked-up specimen," said Flacca-Coati, stretching his six-fingered hands out to caress the side of my bald head. He fondled a loose scab the size and shape of a plum. It flaked off, exposing the oozing sanguine layer beneath.
+> "You sure are a fucked-up specimen," said Flacca-Coati, stretching his six-fingered hands out to caress the side of my bald head. He fondled a loose scab the size and shape of a plum. It flaked off, exposing the oozing sanguine layer beneath.
 >
->"See what this disease do to a man?"
+> "See what this disease do to a man?"
 >
->Lava Lavonda, whose thin lips were chapped to the point of bleeding, spoke. "Fucks up his head." She wrinkled her little brows together. "That's why the Lord gave us an immune system."
+> Lava Lavonda, whose thin lips were chapped to the point of bleeding, spoke. "Fucks up his head." She wrinkled her little brows together. "That's why the Lord gave us an immune system."
 
->**Characters in this story:**
+> **Characters in this story:**
 >
->1\. Doc Landreth — Junkologist extraordinaire, guru in human lemmingdom, ardent debauchatarian, bon vivant par excellence
+> 1\. Doc Landreth — Junkologist extraordinaire, guru in human lemmingdom, ardent debauchatarian, bon vivant par excellence
 >
->2\. Lady Rachelle — Philistine, bohemian hedonist, madcap explorer and high society basher
+> 2\. Lady Rachelle — Philistine, bohemian hedonist, madcap explorer and high society basher
 >
->3\. Judge Guarino — Famous lepidopterist, supercilious court-house cockroach, alleged blackmailer of the German Red Cross
+> 3\. Judge Guarino — Famous lepidopterist, supercilious court-house cockroach, alleged blackmailer of the German Red Cross
 >
->4\. Flim Flim — Brilliant but erratic former boyfriend of Lady Rachelle and ex-manager of the Spanish National Poodle Tennis Federation
+> 4\. Flim Flim — Brilliant but erratic former boyfriend of Lady Rachelle and ex-manager of the Spanish National Poodle Tennis Federation
 
 ##### [Ninteen Eighty-Four](https://files.catbox.moe/co72j7.zip)
 
@@ -3869,7 +3915,7 @@ Trained on the N. K. Sanders English translation of the ancient Mesopotamian poe
 
 ***Sources:** Every story in Otto Penzler's Big Book of Ghost Stories (2MB, 2781 steps, 64.91% coverage, Average Loss: 2.7622)*
 
->Saori, you see, was always afraid of the dark. Her grandmother had taught her to fear it as long as she could remember; and all these years Saori's terror had only increased in strength like a poison-dart buried deep within her brain. It hurt more than pain: it made itself felt far down into the very marrow of Saori's bones—and through this blackness that oppressed her there were often flashes from the other world. From some source she did not understand they came to pierce Saori with sudden electric shocks. The soundless whispers that followed them would chill any girl who heard them: but even worse things still awaited Saori when the night was at its deepest and darkest, and nothing moved except for bats or shadows cast by moonlight. Then suddenly she might become aware of something moving near her bedside—a faint shadow creeping slowly up over the coverlet toward her body. In the darkness such sensations are hard to fight off...
+> Saori, you see, was always afraid of the dark. Her grandmother had taught her to fear it as long as she could remember; and all these years Saori's terror had only increased in strength like a poison-dart buried deep within her brain. It hurt more than pain: it made itself felt far down into the very marrow of Saori's bones—and through this blackness that oppressed her there were often flashes from the other world. From some source she did not understand they came to pierce Saori with sudden electric shocks. The soundless whispers that followed them would chill any girl who heard them: but even worse things still awaited Saori when the night was at its deepest and darkest, and nothing moved except for bats or shadows cast by moonlight. Then suddenly she might become aware of something moving near her bedside—a faint shadow creeping slowly up over the coverlet toward her body. In the darkness such sensations are hard to fight off...
 
 ##### [Ulysses](https://files.catbox.moe/asv171.module)
 
@@ -3889,13 +3935,13 @@ Trained on the N. K. Sanders English translation of the ancient Mesopotamian poe
 
 *Some example guidelines the book presents are:*
 
->Putting honey between your legs to get a little dog to lick you is permitted in a pinch; but it is unnecessary to return the favor.<br>
->If you suck off a gentleman before receiving communion, be very careful not to swallow the cum: you would no longer have the requisite empty stomach.<br>
->To give ten sous to a pauper because he has no bread is excellent; but to suck his cock because he has no mistress is going too far; you are under no obligation whatsoever.
+> Putting honey between your legs to get a little dog to lick you is permitted in a pinch; but it is unnecessary to return the favor.<br>
+> If you suck off a gentleman before receiving communion, be very careful not to swallow the cum: you would no longer have the requisite empty stomach.<br>
+> To give ten sous to a pauper because he has no bread is excellent; but to suck his cock because he has no mistress is going too far; you are under no obligation whatsoever.
 
 *The 1000% module is heavily overtrained to generate rules like that. The 105% module doesn't really do much in my experience, but if somebody wants something that might potentially turn the story slightly towards noble debauchery it might work.*
 
-*Training data/full book: <https://files.catbox.moe/z9poky.txt>*
+*Training data/full book: [https://files.catbox.moe/z9poky.txt](https://files.catbox.moe/z9poky.txt)*
 
 #### [Modern](#works)
 
@@ -3909,72 +3955,80 @@ Trained on the N. K. Sanders English translation of the ancient Mesopotamian poe
 
 ***Sources:** Altered Carbon, Broken Angels, Woken Furies (all by Richard Morgan)*
 
->'What is it?' I said.
+> 'What is it?' I said.
 >
->She lifted her face from the vid and looked at me, expressionless.
+> She lifted her face from the vid and looked at me, expressionless.
 >
->'It's... well, it's a bit complicated.'
+> 'It's... well, it's a bit complicated.'
 >
->I nodded slowly. The water lapped gently around my shins, the waves washing over my ankles.
+> I nodded slowly. The water lapped gently around my shins, the waves washing over my ankles.
 >
->'I'm listening,' I said.
+> 'I'm listening,' I said.
 >
->'It's the Hand of God.'
+> 'It's the Hand of God.'
 >
->I frowned. 'How do you mean?'
+> I frowned. 'How do you mean?'
 >
->'The Hand of God is a device, built by the government of Sanction to defeat the Syndicate. It uses quantum computing technology to create a self-regenerating hypervirus that kills every brain in the human genome. This happens to be a fairly useful thing for anyone with a personal grudge against their neighbours.'
+> 'The Hand of God is a device, built by the government of Sanction to defeat the Syndicate. It uses quantum computing technology to create a self-regenerating hypervirus that kills every brain in the human genome. This happens to be a fairly useful thing for anyone with a personal grudge against their neighbours.'
 >
->'Interesting.' I glanced back at the water, then down into the depths where the yellow moonlight gleamed on the still black ocean floor. 'What does this have to do with me?'
+> 'Interesting.' I glanced back at the water, then down into the depths where the yellow moonlight gleamed on the still black ocean floor. 'What does this have to do with me?'
 >
->'Well, I don't know if you noticed, but we're standing on the remains of the Hand of God.'
+> 'Well, I don't know if you noticed, but we're standing on the remains of the Hand of God.'
 >
->'You think someone just dumped the thing in here? Just tossed it out like an unwanted pet?'
+> 'You think someone just dumped the thing in here? Just tossed it out like an unwanted pet?'
 >
->'I don't know,' she said. 'But that's what I'd do if I was planning to kill everyone on the planet.' She paused for a moment, eyes fixed on her reflection in the water. 'I used to wonder why the Hand of God was so hard to track down. I mean, it's only one of a kind. Why not just hide it somewhere safe until they needed it again?'
+> 'I don't know,' she said. 'But that's what I'd do if I was planning to kill everyone on the planet.' She paused for a moment, eyes fixed on her reflection in the water. 'I used to wonder why the Hand of God was so hard to track down. I mean, it's only one of a kind. Why not just hide it somewhere safe until they needed it again?'
 >
->'Yeah, good point.' I shook my head. 'Maybe there was something else going on. Maybe this wasn't the Hand of God.'
+> 'Yeah, good point.' I shook my head. 'Maybe there was something else going on. Maybe this wasn't the Hand of God.'
 >
->'So who knows what the hell this is?'
+> 'So who knows what the hell this is?'
+
+##### [American Psycho](https://files.catbox.moe/p2wyi1.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/384578484/#384704628)
+
+*American Psycho module. Trained on the novel by Bret Easton Ellis.*
+
+>I stand in the middle of my apartment, staring at the wall where there's a painting I'm not particularly fond of. A blue and orange fish, it has been hanging on this wall for as long as I can remember, its colors faded by time and sun-faded by dampness from a leaky roof. It isn't a bad painting, but something about it bothers me, maybe because its colors remind me of the ocean, which is where I spent most of my childhood summers. The sky was always overcast when we were there. If you put your face to the glass doors that led out into the yard, all you could see was gray cloud and the occasional white-capped wave rolling onto the beach.
 
 ##### [Bridgerton](https://anonfiles.com/Zf66e6W1x1/Bridgerton_module)
 
 [by rari 👹](https://discord.com/channels/836774308772446268/939922436500107314/959527800988131328)
 
-Okay since I just finished it on Netflix I feel like I had to do this  
+Okay since I just finished it on Netflix I feel like I had to do this
 
 Title: Bridgerton
 Description:  Trained on the Bridgerton series (Books 1-8).
 
 *Trained to 50.87% with 2467 steps.*
 
->"But he didn't," Colin said.
+> "But he didn't," Colin said.
 >
->Theo frowned, confused by the statement. "What do you mean?"
+> Theo frowned, confused by the statement. "What do you mean?"
 >
->Colin shook his head. "It's nothing. I'm just so tired."
+> Colin shook his head. "It's nothing. I'm just so tired."
 >
->He made a hasty retreat into bed, pulling up the covers and sinking back against them before turning over onto his side with a groan.
+> He made a hasty retreat into bed, pulling up the covers and sinking back against them before turning over onto his side with a groan.
 >
->"Do you want me to bring you up some tea?" she asked him.
+> "Do you want me to bring you up some tea?" she asked him.
 >
->He waved her off with a grunt of impatience. He really was exhausted. He'd been up all night thinking about what might have happened if they'd missed that last step, and then again when he'd awoken this morning, only to be unable to stop his mind from spinning about it.
+> He waved her off with a grunt of impatience. He really was exhausted. He'd been up all night thinking about what might have happened if they'd missed that last step, and then again when he'd awoken this morning, only to be unable to stop his mind from spinning about it.
 >
->If he'd not been there, would she have fallen? Would someone else have seen her fall and stopped to help her, or had they run off thinking it was part of their performance, too? He'd heard the reports that many people thought it was all a trick somehow, that it couldn't really be as bad as everyone seemed to think, and he hated the idea that people would think of Theo in such a way—that he'd let her down.
+> If he'd not been there, would she have fallen? Would someone else have seen her fall and stopped to help her, or had they run off thinking it was part of their performance, too? He'd heard the reports that many people thought it was all a trick somehow, that it couldn't really be as bad as everyone seemed to think, and he hated the idea that people would think of Theo in such a way—that he'd let her down.
 >
->And it wasn't just that. The idea of anyone else getting hurt because of him made him sick.
+> And it wasn't just that. The idea of anyone else getting hurt because of him made him sick.
 >
->He should have stayed home. That's what he should have done. But the moment he'd seen that stage, his feet had taken on a life of their own. And he'd almost gotten them killed, he realized now.
+> He should have stayed home. That's what he should have done. But the moment he'd seen that stage, his feet had taken on a life of their own. And he'd almost gotten them killed, he realized now.
 >
->Colin sighed. "I should have stayed home."
+> Colin sighed. "I should have stayed home."
 >
->She squeezed his hand. She had no answers for him, and so she said nothing, but he felt better having her there.
+> She squeezed his hand. She had no answers for him, and so she said nothing, but he felt better having her there.
 
 ##### [Christine](https://files.catbox.moe/lckich.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/383189508/#383238296)
 
-*Corrected a mistake of my own laziness from a few Fridays back. <https://prompts.aidg.club/3544> is now updated with a Christine specific module.*
+*Corrected a mistake of my own laziness from a few Fridays back. [https://prompts.aidg.club/3544](https://prompts.aidg.club/3544) is now updated with a Christine specific module.*
 
 *In the unlikely event anyone happens to want a Stephen King horror module about classic rock and roll and murderous automobiles for use outside of that prompt.*
 
@@ -3988,7 +4042,6 @@ Description:  Trained on the Bridgerton series (Books 1-8).
 
 ![example](https://files.catbox.moe/0hvcjx.png)
 {: .center}
-
 
 ##### [Cradle Series](https://files.catbox.moe/rpsuvf.module)
 
@@ -4038,9 +4091,9 @@ Description:  Trained on the Bridgerton series (Books 1-8).
 
 *Following on from Pratchett anon's Guards module, here is the Discworld Witches novels module.*
 
->Equal Rites, Wyrd Sisters, Witches Abroad, Lords and Ladies, Maskerade, Carpe Jugulum, A Hat Full of Sky<br>
->Trained to 38% at 1000 steps<br>
->Yes I included A Hat Full of Sky fight me
+> Equal Rites, Wyrd Sisters, Witches Abroad, Lords and Ladies, Maskerade, Carpe Jugulum, A Hat Full of Sky<br>
+> Trained to 38% at 1000 steps<br>
+> Yes I included A Hat Full of Sky fight me
 
 ##### [The Dresden Files](https://files.catbox.moe/5d1hrf.module)
 
@@ -4071,15 +4124,15 @@ Description:  Trained on the Bridgerton series (Books 1-8).
 - Bombshells by Jim Butcher
 - Zoo Day by Jim Butcher
 
->**I screamed as the scintillating light poured forth from my outstretched hand**, and I fell to one knee. My eyes burned with it. The pain was blinding, but that wasn't what made me scream. It was a feeling of utter helplessness—the same kind you get when someone has taken control of your body without asking permission or telling you how they're going to use it. You know that something is happening, but there's nothing you can do about it. And all too often in life, people who take such liberties are doing so for their own amusement rather than yours.
+> **I screamed as the scintillating light poured forth from my outstretched hand**, and I fell to one knee. My eyes burned with it. The pain was blinding, but that wasn't what made me scream. It was a feeling of utter helplessness—the same kind you get when someone has taken control of your body without asking permission or telling you how they're going to use it. You know that something is happening, but there's nothing you can do about it. And all too often in life, people who take such liberties are doing so for their own amusement rather than yours.
 >
->The power flowed through me like an ocean current, overwhelming everything else inside my head except for the simple need to survive. Every muscle spasmed in unison, and I felt myself convulse as if I'd been hit by a train. There were only two things left inside my mind: the desperate need to keep breathing and the urge to throw up. They both battled each other desperately, until finally one won out over the other. I gasped in air while simultaneously trying not to hurl on the pavement at my feet. Then the spell was done, and I slumped back against the wall, panting hard.
+> The power flowed through me like an ocean current, overwhelming everything else inside my head except for the simple need to survive. Every muscle spasmed in unison, and I felt myself convulse as if I'd been hit by a train. There were only two things left inside my mind: the desperate need to keep breathing and the urge to throw up. They both battled each other desperately, until finally one won out over the other. I gasped in air while simultaneously trying not to hurl on the pavement at my feet. Then the spell was done, and I slumped back against the wall, panting hard.
 >
->My vision cleared slowly, as did my hearing. When it came clear enough that I could see where I was standing again, I saw Murphy sitting beside me. She had her knees drawn up and was hugging them tightly around herself, rocking gently. Her face was white with fear. "Oh," she said softly.
+> My vision cleared slowly, as did my hearing. When it came clear enough that I could see where I was standing again, I saw Murphy sitting beside me. She had her knees drawn up and was hugging them tightly around herself, rocking gently. Her face was white with fear. "Oh," she said softly.
 >
->"You okay?" I asked her.
+> "You okay?" I asked her.
 >
->She nodded, but didn't look at me.
+> She nodded, but didn't look at me.
 
 ##### [Gotrek and Felix](https://files.catbox.moe/806mu5.module)
 
@@ -4091,17 +4144,17 @@ Description:  Trained on the Bridgerton series (Books 1-8).
 
 ***Tags:** Warhammer Fantasy, Interspecies-Bromance (Human-Dwarf), Gritty, Lotsa Action, Adventure*
 
->**The blade moved** like a living thing. It seemed to flicker and dance, glinting with the colours of its own sheen as it cut through the air towards Felix’s throat. He ducked reflexively, but not quickly enough. The steel bit deep into his flesh just below the collar bone and he felt the hot blood well up in his mouth.
+> **The blade moved** like a living thing. It seemed to flicker and dance, glinting with the colours of its own sheen as it cut through the air towards Felix’s throat. He ducked reflexively, but not quickly enough. The steel bit deep into his flesh just below the collar bone and he felt the hot blood well up in his mouth.
 >
->Felix fell to one knee and gaped at the wound as blood poured from it. This was going to be bad, very bad indeed. If he didn’t get help soon, he would surely die.
+> Felix fell to one knee and gaped at the wound as blood poured from it. This was going to be bad, very bad indeed. If he didn’t get help soon, he would surely die.
 >
->The blade slashed down again, this time catching him on the thigh. Again, pain exploded in his head and he had to bite back a scream of agony as he slumped to one side.
+> The blade slashed down again, this time catching him on the thigh. Again, pain exploded in his head and he had to bite back a scream of agony as he slumped to one side.
 
 ##### [Harry Potter](https://files.catbox.moe/f65mhi.module)
 
 [by](https://arch.b4k.co/vg/thread/373047383/#373105443) [Anons](https://arch.b4k.co/vg/thread/373047383/#373153282)
 
->\>is anyone willing to use their steps to train a module based on [all the Harry Potter books](https://files.catbox.moe/g1dves.txt) if I prep the text?
+> \>is anyone willing to use their steps to train a module based on [all the Harry Potter books](https://files.catbox.moe/g1dves.txt) if I prep the text?
 
 *Here it is! 100% trained on the Harry Potter data you sent.*
 
@@ -4123,13 +4176,13 @@ Description:  Trained on the Bridgerton series (Books 1-8).
 
 Samples (both on modified Gojira):
 
->**Fifty inches of snow** buried the small town, the air filled with the drifting fluff. The world of men had no more significance: only the eternal winter and its hardships governed the daily round. All that was left was to obey and endure, suffer, wait.
+> **Fifty inches of snow** buried the small town, the air filled with the drifting fluff. The world of men had no more significance: only the eternal winter and its hardships governed the daily round. All that was left was to obey and endure, suffer, wait.
 >
->Hearing me coming, Míkál ran into the deserted street and thrust his cheek against my own and with his eyes rolled into the back of his head, moaned 'White Christ' then turned quickly and plunged headlong through the white dust, his body vanishing.
+> Hearing me coming, Míkál ran into the deserted street and thrust his cheek against my own and with his eyes rolled into the back of his head, moaned 'White Christ' then turned quickly and plunged headlong through the white dust, his body vanishing.
 >
->Snow devils soared in the air like vortices spinning round at the point where I entered, gathering into balls with sparks of electric blue and vanishing. Before me was an infinite row of grey houses, the only lights the glow from a few windows, which faded and disappeared one after another.
+> Snow devils soared in the air like vortices spinning round at the point where I entered, gathering into balls with sparks of electric blue and vanishing. Before me was an infinite row of grey houses, the only lights the glow from a few windows, which faded and disappeared one after another.
 
->**The flames swallowed** the streets: great red tongues writhed over black earth, curled round buildings and climbed up on to roof-tops. A monstrous roaring filled the night: dogs began howling, their shrill calls competed with one another till an infinite chorus of them merged into an agonising bellow that pierced at our ears, shaking even the marble streets of the square, reducing the white stone colonnades to kindling. The cry would last all day. It could be heard from far off—impinging itself upon every spot under heaven; it reverberated like a terrible thunder between the cities across the desert. That incessant turmoil became oppressive and chilling—the closer we grew towards its source, the more threatening it sounded, reaching far back into eternity where no escape was possible.
+> **The flames swallowed** the streets: great red tongues writhed over black earth, curled round buildings and climbed up on to roof-tops. A monstrous roaring filled the night: dogs began howling, their shrill calls competed with one another till an infinite chorus of them merged into an agonising bellow that pierced at our ears, shaking even the marble streets of the square, reducing the white stone colonnades to kindling. The cry would last all day. It could be heard from far off—impinging itself upon every spot under heaven; it reverberated like a terrible thunder between the cities across the desert. That incessant turmoil became oppressive and chilling—the closer we grew towards its source, the more threatening it sounded, reaching far back into eternity where no escape was possible.
 
 ##### [Percy Jackson](https://files.catbox.moe/nkdymu.module)
 
@@ -4139,21 +4192,21 @@ Samples (both on modified Gojira):
 
 *Trained on all Percy Jackson novels.*
 
->**I grabbed my spear** and jumped. I had to time it perfectly, or I'd crash into the wall of the tunnel and be stuck in there forever.
+> **I grabbed my spear** and jumped. I had to time it perfectly, or I'd crash into the wall of the tunnel and be stuck in there forever.
 >
->It was a long way down. My breath caught in my chest when I fell, but I managed to pull out one of Hermes' rings from my pocket and make a rope net for myself. I used that to slow down a bit so the spear didn't hit me square in the face. Then I bounced off the ground and landed on my feet with a thud. The spear was in my hand. Annabeth was still hanging upside-down, her arms wrapped around the spearhead, using it as a grip to swing back and forth like Tarzan.
+> It was a long way down. My breath caught in my chest when I fell, but I managed to pull out one of Hermes' rings from my pocket and make a rope net for myself. I used that to slow down a bit so the spear didn't hit me square in the face. Then I bounced off the ground and landed on my feet with a thud. The spear was in my hand. Annabeth was still hanging upside-down, her arms wrapped around the spearhead, using it as a grip to swing back and forth like Tarzan.
 >
->"Nice aim," I said. "Almost caught me on the head."
+> "Nice aim," I said. "Almost caught me on the head."
 >
->She flipped over and landed lightly on the hard-packed dirt. She gave me a thumbs up.
+> She flipped over and landed lightly on the hard-packed dirt. She gave me a thumbs up.
 >
->"Now what?" she said.
+> "Now what?" she said.
 >
->"We climb back up the tunnel until we reach the other side and then climb back down again until we're at the bottom."
+> "We climb back up the tunnel until we reach the other side and then climb back down again until we're at the bottom."
 >
->"But how are we supposed to get past all those Daimons?"
+> "But how are we supposed to get past all those Daimons?"
 >
->I shrugged. "That's our problem. Let's go."
+> I shrugged. "That's our problem. Let's go."
 
 ##### [Redwall](https://files.catbox.moe/qmv2tu.module)
 
@@ -4176,15 +4229,15 @@ Samples (both on modified Gojira):
 - Nightshade City by Hilary Wagner
 - The Builders by Daniel Polansky
 
->**The setting sun sent fingers of golden light** into the deep woods, making them sparkle and glow. A gentle breeze blew from the north to caress the trees as they swayed in a dance with each other's leaves. The air was sweetly scented by flowers that had bloomed only yesterday—the scent of violets mingled with the perfume of wild roses. It was a warm day for midwinter; the last rays of sunlight were brightening the treetops when Skipper saw a figure standing motionless on top of the highest hill. He squinted his eyes against the glare as he watched her gaze out over the forest, watching him watch her.
+> **The setting sun sent fingers of golden light** into the deep woods, making them sparkle and glow. A gentle breeze blew from the north to caress the trees as they swayed in a dance with each other's leaves. The air was sweetly scented by flowers that had bloomed only yesterday—the scent of violets mingled with the perfume of wild roses. It was a warm day for midwinter; the last rays of sunlight were brightening the treetops when Skipper saw a figure standing motionless on top of the highest hill. He squinted his eyes against the glare as he watched her gaze out over the forest, watching him watch her.
 >
->"She looks like she's waiting for someone," said Cattail. "Or maybe it's just me."
+> "She looks like she's waiting for someone," said Cattail. "Or maybe it's just me."
 >
->Skipper shrugged and smiled at the squirrelmaid. "You're right, Cattie, but who would be coming up here today?"
+> Skipper shrugged and smiled at the squirrelmaid. "You're right, Cattie, but who would be coming up here today?"
 >
->Cattail looked down at the ground. She felt very uncomfortable being alone so far away from home. Her thoughts wandered back to the days when she'd lived happily in the Abbey gardens with Martin.
+> Cattail looked down at the ground. She felt very uncomfortable being alone so far away from home. Her thoughts wandered back to the days when she'd lived happily in the Abbey gardens with Martin.
 >
->"It must be one of our friends returning," Skipper declared. "We'll go meet 'em!"
+> "It must be one of our friends returning," Skipper declared. "We'll go meet 'em!"
 
 ##### [The Solar Cycle](https://files.catbox.moe/8wlhkz.module)
 
@@ -4201,6 +4254,14 @@ Samples (both on modified Gojira):
 
 ***Tags:** science fantasy, dying earth, surreal/dreamlike imagery*
 
+##### [Starship Troopers](https://files.catbox.moe/9ogk07.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/384803404/#384835436)
+
+*Alright you dumb apes, this is not a drill! We are dropping hot into Novel AI territory!*
+
+*Heinlein's Starship Troopers module, because I stared at [>>384830705](https://arch.b4k.co/vg/thread/384803404/#384830705) enough and found an easily cleaned up copy.*
+
 ##### [The Witcher](https://files.catbox.moe/fl426x.module)
 
 [by ???](https://discord.com/channels/836774308772446268/939922436500107314/940465410887794758)
@@ -4215,9 +4276,21 @@ Samples (both on modified Gojira):
 
 ***Note:** This was not made by me! I am uploading this for an anonymous user.*
 
-***
+---
 
 ### [Non-Fiction](#works)
+
+#### [The Dhammapada](https://files.catbox.moe/wobngq.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/384578484/#384704628)
+
+*Dhammapada module. One of the buddhist texts. Also works best in a numbered list format.*
+
+>1. A man, who knows the truth of suffering and of happiness; a man, who is free from lust, anger, ill-will and conceit — such a one is called wise.<br>
+>2. Men call those men who are born in wealth or in poverty, good or bad men.<br>
+>3. But this world is not their own birth-place: it is merely a place to live at; it is as transient and insubstantial as a dream.<br>
+>4. All beings are bound by ties of affection one with another; all things in the world are hard to bear when they are gone.<br>
+>5. No being can escape its death, nor may any be freed from birth, old age and sickness, pain and pleasure.
 
 #### [The King James Bible](https://files.catbox.moe/ifewb4.zip)
 
@@ -4227,13 +4300,13 @@ Samples (both on modified Gojira):
 
 *Like in previous iterations of the module, this is with chapter titles and verse numbers intact. So like this:*
 
->FEMBOYS
+> FEMBOYS
 >
->1:1 And so it came to be in the reign of Saul that there was a land of men that were like women.
+> 1:1 And so it came to be in the reign of Saul that there was a land of men that were like women.
 >
->1:2 The men that were like women were large in number, their bodies soft and supple, yet their faces stern; their eyes beautiful, but their thoughts depraved;
+> 1:2 The men that were like women were large in number, their bodies soft and supple, yet their faces stern; their eyes beautiful, but their thoughts depraved;
 >
->1:3 And these men that were like women were known to be the fairest in all the world, and much desired by all who saw them.
+> 1:3 And these men that were like women were known to be the fairest in all the world, and much desired by all who saw them.
 
 *Go forth and sin.*
 
@@ -4242,6 +4315,14 @@ Samples (both on modified Gojira):
 [by Anon](https://arch.b4k.co/vg/thread/379666235/#379674194)
 
 *Probably treading ground already covered by NAI's baked-in philosophy module, but I'll put this out there anyway. A module trained on the George Long translation of The Meditations of Marcus Aurelius*
+
+#### [Me, Alice](https://files.catbox.moe/8r05qz.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/384578484/#384704772)
+
+*Me, Alice module. Trained on the autobiography by Alice Cooper.*
+
+>We made it to San Francisco and the bus broke down. The people at the bus company were very helpful, but they didn’t have a new bus ready for us until Saturday night. So we slept in the bus that night. We had a lot of nice things happen to us on our trip from Phoenix to San Francisco. In Lubbock Texas, we got pulled over by the police because they thought we were transporting drugs. They searched my luggage and found five pounds of pot hidden inside one of the guitars I was carrying. When they saw me pull out the guitar case, they immediately knew what it contained. I had them sign a statement saying they would testify that there was no drug activity going on if any police officer asked. Then I told them, “You can keep the five pounds of pot for yourself. You don’t need to report it because you know where all my other merchandise is located. Just let me go and then we won’t ever have this problem again, okay?” They laughed. We drove on to San Francisco. It took three hours. That was the longest drive yet.
 
 #### [Suma Theologica](https://files.catbox.moe/l8vcyk.module)
 
@@ -4255,14 +4336,24 @@ Samples (both on modified Gojira):
 
 ***Notes:** The generated text will contain a lot of newlines, because it was not formatted correctly. I recommend that when using it with an empty prompt the newlines be corrected, because the AI will soon understand that it doesn't need to use them all the time and will start writing correctly.*
 
->**ARTICLE: Whether if AI-generated texts are sacred or not.**
+> **ARTICLE: Whether if AI-generated texts are sacred or not.**
 
->Objection 1: It would seem that a text generated by machines is less sacred than one generated by the human hand, since it has been produced mechanically. But Scripture affirms (Exod_ 13:1): "I have set thee as a light to the Gentiles." Now this affirmation cannot be made in any case other than by the hand; for it was written with the finger of God on stone. Therefore an AI-generated text must always be considered as less holy than one generated by men's hands.
+> Objection 1: It would seem that a text generated by machines is less sacred than one generated by the human hand, since it has been produced mechanically. But Scripture affirms (Exod_ 13:1): "I have set thee as a light to the Gentiles." Now this affirmation cannot be made in any case other than by the hand; for it was written with the finger of God on stone. Therefore an AI-generated text must always be considered as less holy than one generated by men's hands.
 >
->\_I answer that,\_ According to the words of St. Augustine, the Divine Word did not make his speech from Himself but from the Father's will, and from the Holy Spirit who guided His pen (\_On Certain Aspects of Christian Belief\_ II, xiii). Therefore it is possible to affirm that the Holy Ghost was present when the text was generated mechanically, as well as when it was written by human beings. And according to our Saviour's statement (John 4:34), there are many things that cannot be known by reason which man knows through the action of the Holy Spirit within him. Therefore we may believe that even in the generation of an AI-text by mechanical means the Holy Ghost works directly in the heart of man. Therefore an AI-generated text can never be held inferior to one generated by human hands.
+> \_I answer that,\_ According to the words of St. Augustine, the Divine Word did not make his speech from Himself but from the Father's will, and from the Holy Spirit who guided His pen (\_On Certain Aspects of Christian Belief\_ II, xiii). Therefore it is possible to affirm that the Holy Ghost was present when the text was generated mechanically, as well as when it was written by human beings. And according to our Saviour's statement (John 4:34), there are many things that cannot be known by reason which man knows through the action of the Holy Spirit within him. Therefore we may believe that even in the generation of an AI-text by mechanical means the Holy Ghost works directly in the heart of man. Therefore an AI-generated text can never be held inferior to one generated by human hands.
 >
->Reply Obj 1: The doctrine of the Incarnation teaches that the divine word proceeds from the union between the Son and the Father, and so expresses their being one God. Since then there are two kinds of words, those coming from the Father and those from the Son, the former are more perfect than the latter, because they come from the union of the Word of God and the Word of the Father, whereas the latter are only the expression of man's own thought. Thus the Son's word is more holy than a human word, although generated mechanically, just as it is more holy to receive a text mechanically than to compose one, or to say it in writing.
+> Reply Obj 1: The doctrine of the Incarnation teaches that the divine word proceeds from the union between the Son and the Father, and so expresses their being one God. Since then there are two kinds of words, those coming from the Father and those from the Son, the former are more perfect than the latter, because they come from the union of the Word of God and the Word of the Father, whereas the latter are only the expression of man's own thought. Thus the Son's word is more holy than a human word, although generated mechanically, just as it is more holy to receive a text mechanically than to compose one, or to say it in writing.
 
+#### [The Quran](https://files.catbox.moe/q4dj23.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/384578484/#384704160)
+
+*Quran module. Works best if forced into a numbered list format.*
+
+>1. The king of Egypt said, ‘I do not think that this Qur’an will ever reach me; and I shall remain in prison until death takes me away or the command of my Lord comes to pass.’<br>
+>2. But We caused a wind to blow from the land which was beyond them, blowing violently into their ears, so they were unable to see one another.<br>
+>3. Then they saw one of Our servants whom We had blessed with great good fortune, who glorified Us for what He had been given by Us and prayed:<br>
+>4. O our Rabb! Grant us such reward as he has received from You; so let him be an example for those who serve You in truth.
 
 ### [Visual Novels](#works)
 
@@ -4276,37 +4367,38 @@ Samples (both on modified Gojira):
 ***Sources:** Original trilogy, Apollo Justice, Dual Destinies, Spirit of Justice, Ace Attorney Investigations 1-2. 6160 steps at 100%, 2.35loss.*
 
 ***Notes:***
+
 - *Bias for OBJECTION! and HOLD IT! for extra entertainment.*
 - *Testimony, cross-examination and such are denoted by parentheses in the training data, e.g.( Cross examination: What Really Happened )*
 - *The original dataset contains too many lines with ellipses only, which caused the previous (Sigurd) module to get stuck in loops. Dropped 70% of the ellipses-only lines to reduce the chances of this happening.*
 
->**Phoenix: OBJECTION!**
+> **Phoenix: OBJECTION!**
 >
->Gumshoe: ...!?
+> Gumshoe: ...!?
 >
->Edgeworth: There's no need to look at the video. We already know what it shows, don't we...?
+> Edgeworth: There's no need to look at the video. We already know what it shows, don't we...?
 >
->Athena: I've seen that scene so many times...
+> Athena: I've seen that scene so many times...
 >
->Maya: ...It must have been terrifying for her!
+> Maya: ...It must have been terrifying for her!
 >
->Blackquill: So? What does it show you? You've watched it a thousand times over already, haven't you?!
+> Blackquill: So? What does it show you? You've watched it a thousand times over already, haven't you?!
 >
->Phoenix: This is my chance! If I can just prove that this was all part of Mr. Justice Minister's plan...
+> Phoenix: This is my chance! If I can just prove that this was all part of Mr. Justice Minister's plan...
 >
->Maya: Ohhh! That would be a lot harder than just saying it out loud!
+> Maya: Ohhh! That would be a lot harder than just saying it out loud!
 >
->Phoenix: ...All right then, let me try something different. It might work better with this case.
+> Phoenix: ...All right then, let me try something different. It might work better with this case.
 >
->Athena: Hey now! Let's hear his idea first, before you start getting impatient and yelling "No fair" at him!
+> Athena: Hey now! Let's hear his idea first, before you start getting impatient and yelling "No fair" at him!
 >
->Apollo: I'm ready! (Let me see! )
+> Apollo: I'm ready! (Let me see! )
 >
->Maya: Yeah! Let him explain things as he sees them! That should clear up any misunderstandings in the courtroom!
+> Maya: Yeah! Let him explain things as he sees them! That should clear up any misunderstandings in the courtroom!
 >
->Phoenix: Very well. I will attempt to convince you all by showing you exactly what happened on that fateful day.
+> Phoenix: Very well. I will attempt to convince you all by showing you exactly what happened on that fateful day.
 >
->Athena: Yeehaw!
+> Athena: Yeehaw!
 
 #### [Fate/stay night](https://files.catbox.moe/ow4a55.module)
 
@@ -4320,19 +4412,19 @@ Samples (both on modified Gojira):
 
 Example Text:
 
->An emptiness that could only be described as a void.
+> An emptiness that could only be described as a void.
 >
->The air was so cold it made his throat hurt, and the wind howled around him like an animal in pain. The moonlight pierced through the clouds above, illuminating the barren wasteland below with its pale light. There were no trees or shrubs to block out the wind here, just endless rows of rocks stretching off into the distance. It seemed to stretch on forever, but there was nothing more than this desolate place.
+> The air was so cold it made his throat hurt, and the wind howled around him like an animal in pain. The moonlight pierced through the clouds above, illuminating the barren wasteland below with its pale light. There were no trees or shrubs to block out the wind here, just endless rows of rocks stretching off into the distance. It seemed to stretch on forever, but there was nothing more than this desolate place.
 >
->It had been raining for days now - even the sky was covered by dark clouds. Even if he looked up at them, they didn't seem like they would ever break apart. He felt like he was standing on the edge of something very large, something beyond his understanding. Something that couldn't possibly exist in reality.
+> It had been raining for days now - even the sky was covered by dark clouds. Even if he looked up at them, they didn't seem like they would ever break apart. He felt like he was standing on the edge of something very large, something beyond his understanding. Something that couldn't possibly exist in reality.
 >
->He stood there silently, looking down at the ground before him. A single black umbrella hung from one hand. His hair fluttered about in the wind, and raindrops dripped onto his face. The sound of the rain echoed throughout the empty landscape, drowning out everything else.
+> He stood there silently, looking down at the ground before him. A single black umbrella hung from one hand. His hair fluttered about in the wind, and raindrops dripped onto his face. The sound of the rain echoed throughout the empty landscape, drowning out everything else.
 >
->"You're late."
+> "You're late."
 >
->A voice suddenly spoke behind him, and he turned back to look. Standing beside him was a man wearing a long coat over a white shirt and trousers. From his appearance alone, he might have been mistaken for a priest of some kind. But the way he held himself betrayed his true nature. His hands were clasped together tightly, and his eyes were fixed straight ahead. He seemed to be staring directly into space, but when he noticed Saber's presence he quickly averted his gaze.
+> A voice suddenly spoke behind him, and he turned back to look. Standing beside him was a man wearing a long coat over a white shirt and trousers. From his appearance alone, he might have been mistaken for a priest of some kind. But the way he held himself betrayed his true nature. His hands were clasped together tightly, and his eyes were fixed straight ahead. He seemed to be staring directly into space, but when he noticed Saber's presence he quickly averted his gaze.
 >
->Saber nodded slightly, then began walking forward towards the rock formation in front of her. She stopped right in front of it, then slowly reached out to touch the surface of the stone.
+> Saber nodded slightly, then began walking forward towards the rock formation in front of her. She stopped right in front of it, then slowly reached out to touch the surface of the stone.
 
 #### [Steins;Gate](https://files.catbox.moe/cwrnv9.module)
 
@@ -4347,11 +4439,11 @@ Example Text:
 - Steins;Gate: Linear Bounded Phenogram
 - Steins;Gate: My Darling’s Embrace
 
->Kurisu: "What's the matter? You're smiling like a Cheshire cat."
+> Kurisu: "What's the matter? You're smiling like a Cheshire cat."
 >
->Rintaro: "I'm not. I just had an idea."
+> Rintaro: "I'm not. I just had an idea."
 >
->The idea was simple, but would be difficult to implement...
+> The idea was simple, but would be difficult to implement...
 
 ### [Light Novels](#works)
 
@@ -4359,7 +4451,7 @@ Example Text:
 
 [by Anon](https://arch.b4k.co/vg/thread/371608780/#371685780)
 
-*I trained a Module on A Certain Magical Index Volumes 1-22 from <https://nyaa.si/view/1263900>, couldn't be bothered to clean up more.*
+*I trained a Module on A Certain Magical Index Volumes 1-22 from [https://nyaa.si/view/1263900](https://nyaa.si/view/1263900), couldn't be bothered to clean up more.*
 
 *~7.6mb of text, trained for 4.4k steps. Loss graph looks fucked but it works nicely enough.*
 
@@ -4369,9 +4461,9 @@ Example Text:
 
 *Trained on Death Note: Another Note: The Los Angeles BB Murder Cases, the 2006 novel by Nisio Isin. 100% coverage.*
 
->"There are two things I don't like about this case. First, that it's a murder investigation... and second, that you're involved in it."
+> "There are two things I don't like about this case. First, that it's a murder investigation... and second, that you're involved in it."
 >
->It was the morning of December 27th. The sky outside was clear, but inside the room where Misora Chiba had been murdered, there was no sign of sunshine. Ryuzaki, having finished his report at the office, went home to finish some work he needed to do, then returned to the scene of the crime to look over what remained of the murder weapon: Misora Chiba's hairpin. The evening before, he had examined her clothing and other items found at the crime scene as well as the location surrounding it from a purely scientific perspective. He did not have any intention of trying to solve the case himself—he simply wanted to see if anything seemed out of place or inconsistent with the results of the autopsy.
+> It was the morning of December 27th. The sky outside was clear, but inside the room where Misora Chiba had been murdered, there was no sign of sunshine. Ryuzaki, having finished his report at the office, went home to finish some work he needed to do, then returned to the scene of the crime to look over what remained of the murder weapon: Misora Chiba's hairpin. The evening before, he had examined her clothing and other items found at the crime scene as well as the location surrounding it from a purely scientific perspective. He did not have any intention of trying to solve the case himself—he simply wanted to see if anything seemed out of place or inconsistent with the results of the autopsy.
 
 #### [DanMachi](https://anonfiles.com/Fd8be0W9x7/DanMachi_Euterpe_module)
 
@@ -4395,11 +4487,11 @@ Example Text:
 
 (80% Example)
 
->**Saber looked** down at the hand that had been held out to her. She didn't know why, but she felt a sense of unease as if it was something dangerous. It wasn't like this feeling came from nowhere. Her master had said he would be in danger, and even now she could feel the tension in his body. The only thing she could do was trust him completely.
+> **Saber looked** down at the hand that had been held out to her. She didn't know why, but she felt a sense of unease as if it was something dangerous. It wasn't like this feeling came from nowhere. Her master had said he would be in danger, and even now she could feel the tension in his body. The only thing she could do was trust him completely.
 
 (50% Example)
 
->**Saber looked** up at the sky. The clouds were thick and heavy, as if they would soon rain. It was a strange sight for her eyes to see such a thing in this season. But she did not care about that right now. She just wanted to find an answer to what had happened today.
+> **Saber looked** up at the sky. The clouds were thick and heavy, as if they would soon rain. It was a strange sight for her eyes to see such a thing in this season. But she did not care about that right now. She just wanted to find an answer to what had happened today.
 
 #### [Highschool DxD (1-10)](https://files.catbox.moe/z862xh.module)
 
@@ -4427,27 +4519,27 @@ Example Text:
 
 ***Tags:** Anime, Isekai, Fantasy*
 
->I noticed that the area around us was getting darker, and I realized it had to be night. It’d been a while since we’d stopped for food or rest; our supplies were running low. We needed to find someplace safe where we could spend the night.
+> I noticed that the area around us was getting darker, and I realized it had to be night. It’d been a while since we’d stopped for food or rest; our supplies were running low. We needed to find someplace safe where we could spend the night.
 >
->It didn’t look like there was much of anything nearby, though. There weren’t any buildings in sight at all—just trees and grassy plains. The only thing I saw with even a little bit of light coming from it was a small hut on top of a hill. That must have been the place we wanted to go to.
+> It didn’t look like there was much of anything nearby, though. There weren’t any buildings in sight at all—just trees and grassy plains. The only thing I saw with even a little bit of light coming from it was a small hut on top of a hill. That must have been the place we wanted to go to.
 >
->We started walking toward it. As soon as we got closer, I felt something strange. Something…odd.
+> We started walking toward it. As soon as we got closer, I felt something strange. Something…odd.
 >
->There was no one inside the house, but I still sensed an air of hostility emanating from within. Not just hostility, actually: fear. Fear of us. Of me specifically.
+> There was no one inside the house, but I still sensed an air of hostility emanating from within. Not just hostility, actually: fear. Fear of us. Of me specifically.
 >
->And yet, despite the fact that this house seemed to be empty, there were signs of people living here before. A few pieces of furniture stood out among the darkness. And then there was the smell of food cooking. But nobody came out to greet us when we knocked on the door. They just stared at us from behind the closed door.
+> And yet, despite the fact that this house seemed to be empty, there were signs of people living here before. A few pieces of furniture stood out among the darkness. And then there was the smell of food cooking. But nobody came out to greet us when we knocked on the door. They just stared at us from behind the closed door.
 >
->Something about the way they looked at me made my skin crawl. I knew I wasn’t doing anything wrong, but they kept their distance nonetheless. I tried knocking again, louder this time, but nothing changed. So I decided to try breaking down the door instead.
+> Something about the way they looked at me made my skin crawl. I knew I wasn’t doing anything wrong, but they kept their distance nonetheless. I tried knocking again, louder this time, but nothing changed. So I decided to try breaking down the door instead.
 >
->s I expected, it didn’t budge. I was starting to feel uneasy by now. If I hadn’t known better, I would have assumed someone was hiding inside, waiting for us to come close so they could attack us.
+> s I expected, it didn’t budge. I was starting to feel uneasy by now. If I hadn’t known better, I would have assumed someone was hiding inside, waiting for us to come close so they could attack us.
 >
->The thought sent a chill up my spine. I couldn’t help but wonder if maybe I should leave this place alone after all. Maybe it wasn’t such a good idea to stay here.
+> The thought sent a chill up my spine. I couldn’t help but wonder if maybe I should leave this place alone after all. Maybe it wasn’t such a good idea to stay here.
 >
->But then, as I was considering leaving, I heard a voice.
+> But then, as I was considering leaving, I heard a voice.
 >
->“Who are you? What do you want?”
+> “Who are you? What do you want?”
 >
->A woman’s voice. She sounded pretty old, and she spoke in a quiet tone.
+> A woman’s voice. She sounded pretty old, and she spoke in a quiet tone.
 
 #### [Oregairu](https://files.catbox.moe/0jz3u4.module)
 
@@ -4457,7 +4549,7 @@ Example Text:
 
 ***Tags:** Oregairu, Anime, Light Novel, Romantic Comedy.*
 
->I was still in the clubroom, sitting on my chair. I had no reason to leave and I wasn't going anywhere anytime soon. It wasn't as if I didn't have anything else to do; I just wanted to be here for a little bit longer. There were still so many things I had yet to learn about Yukinoshita and her friends, like how they managed their lives as members of one of the most exclusive clubs at our school. If I stayed in this room with them and kept eavesdropping until dawn, maybe I'd pick up a thing or two that would help me get into the club myself someday.
+> I was still in the clubroom, sitting on my chair. I had no reason to leave and I wasn't going anywhere anytime soon. It wasn't as if I didn't have anything else to do; I just wanted to be here for a little bit longer. There were still so many things I had yet to learn about Yukinoshita and her friends, like how they managed their lives as members of one of the most exclusive clubs at our school. If I stayed in this room with them and kept eavesdropping until dawn, maybe I'd pick up a thing or two that would help me get into the club myself someday.
 
 #### [The Saga of Tanya the Evil](https://files.catbox.moe/r0r10t.module)
 
@@ -4531,7 +4623,7 @@ Example Text:
 
 [by](https://arch.b4k.co/vg/thread/371608780/#371660194) [Anons](https://arch.b4k.co/vg/thread/371608780/#371672460)
 
->\>I exported [all of the text](https://files.catbox.moe/zi6dhj.txt) from the game Teraurge.
+> \>I exported [all of the text](https://files.catbox.moe/zi6dhj.txt) from the game Teraurge.
 
 ### [Web Fiction](#works)
 
@@ -4549,25 +4641,25 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 
 ***Note:** @Zaltys🐍 cleaned many of the books much better than I ever could.*
 
->**I grabbed my sword's hilt** and started running toward the source of the voice. I came out from behind a small boulder, my feet moving faster than usual, almost as if they knew where to step before I did.
+> **I grabbed my sword's hilt** and started running toward the source of the voice. I came out from behind a small boulder, my feet moving faster than usual, almost as if they knew where to step before I did.
 >
->A young boy was on his knees, his hands in the air with a smile on his face. His body had been pierced through by a thick piece of wood that had been driven into the ground like a stake. A man in his late thirties was standing over him holding a bloody dagger.
+> A young boy was on his knees, his hands in the air with a smile on his face. His body had been pierced through by a thick piece of wood that had been driven into the ground like a stake. A man in his late thirties was standing over him holding a bloody dagger.
 >
->"No need for that," The old man said calmly. "We both know that you are going to come down here eventually."
+> "No need for that," The old man said calmly. "We both know that you are going to come down here eventually."
 >
->I drew my sword from its scabbard, not taking my eyes off the man. His stance wasn't overly aggressive, but then again he had just attacked the boy without warning. I was confident in my sword skills, so all I had to do was land my first strike and end this quickly. That being said though, I still didn't want to take any chances.
+> I drew my sword from its scabbard, not taking my eyes off the man. His stance wasn't overly aggressive, but then again he had just attacked the boy without warning. I was confident in my sword skills, so all I had to do was land my first strike and end this quickly. That being said though, I still didn't want to take any chances.
 >
->The man smirked. "You're brave." He walked forward, still keeping his distance from me.
+> The man smirked. "You're brave." He walked forward, still keeping his distance from me.
 >
->I took a few steps back, putting more space between us. This wasn't working.
+> I took a few steps back, putting more space between us. This wasn't working.
 >
->"You know there is no point to continuing this. You have nothing." He raised his hand and pulled it back, revealing a blade of light that was now burning brightly. In my mind I could already see the scene playing out. The man would kill the boy and I would have no choice but to watch him go down.
+> "You know there is no point to continuing this. You have nothing." He raised his hand and pulled it back, revealing a blade of light that was now burning brightly. In my mind I could already see the scene playing out. The man would kill the boy and I would have no choice but to watch him go down.
 >
->And then there was the issue of me being unarmed. The man had a dagger and an arcane blade; two types of weapons that were considered lethal by most standards. My only option was to end the fight right now.
+> And then there was the issue of me being unarmed. The man had a dagger and an arcane blade; two types of weapons that were considered lethal by most standards. My only option was to end the fight right now.
 >
->As the man brought the blade down, I let out a shout and dove to the side, my sword coming down at a diagonal angle.
+> As the man brought the blade down, I let out a shout and dove to the side, my sword coming down at a diagonal angle.
 >
->The man was quick, but not quite quick enough. I was able to deflect the attack with my sword. It was enough of a force that it sent his sword flying from his hands, but the man was unharmed, although his left arm was bleeding quite heavily. The arcane blade flew past me harmlessly, and then I took advantage of the momentary lapse in his guard. I thrust my sword upward, piercing into his chest with one fluid motion.
+> The man was quick, but not quite quick enough. I was able to deflect the attack with my sword. It was enough of a force that it sent his sword flying from his hands, but the man was unharmed, although his left arm was bleeding quite heavily. The arcane blade flew past me harmlessly, and then I took advantage of the momentary lapse in his guard. I thrust my sword upward, piercing into his chest with one fluid motion.
 
 #### [Crimson](https://files.catbox.moe/flsjx9.module)
 
@@ -4596,7 +4688,6 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 [by Anon](https://arch.b4k.co/vg/thread/372727724/#372856237)
 
 *Presenting the "Golden Heart Trilogy" module, based of a SailorMoon/Pokemon fanfiction from my childhood. The original fanfiction has since been deleted, so there's some actual lost media here. I might upload the originals sometime.*
-
 
 #### [My Immortal](https://files.catbox.moe/nk3025.module)
 
@@ -4636,7 +4727,7 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 
 *Enjoy $100 steps of Mormonism*
 
->\>i'm sorry what. $100 worth of steppies?
+> \>i'm sorry what. $100 worth of steppies?
 
 [*103070 steps*](https://files.catbox.moe/ro6042.png)
 
@@ -4652,19 +4743,32 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 
 ### [Scripts](#works)
 
+#### [Chris-Chan: A Comprehensive History](https://files.catbox.moe/mjdgha.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/385081274/#385221730)
+
+*Okay, the Chris-chan module, trained to 300%. Let me know what you think.*
+
+*It was only half a MB, so I though I might as well.*
+
+*Honestly, I think I need to see if I can find the early episode scripts. All this module does is beg for money and get emotional support from youtube comments.*
+
+![](https://files.catbox.moe/d3ipdl.png)
+{: .center}
+
 #### [9th Doctor Transcripts](https://files.catbox.moe/uyvj3y.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/383189508/#383278121)
 
 *9th Doctor module trained on Series 1 transcripts from [chakoteya.net](http://www.chakoteya.net/DoctorWho/):*
 
->ROSE: It's beautiful.
+> ROSE: It's beautiful.
 >
->DOCTOR: Yeah, I know. Well done me.
+> DOCTOR: Yeah, I know. Well done me.
 >
->ROSE: But it must be a thousand years old.
+> ROSE: But it must be a thousand years old.
 >
->DOCTOR: No, it was made two hundred and fifty years ago. The builders lived here for five months before they decided to go back in time. They were building their own world inside the planet. And then they went back in time again.
+> DOCTOR: No, it was made two hundred and fifty years ago. The builders lived here for five months before they decided to go back in time. They were building their own world inside the planet. And then they went back in time again.
 
 #### [10th Doctor Transcripts](https://files.catbox.moe/kzfwhd.module)
 
@@ -4672,37 +4776,37 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 
 *Euterpe model trained on transcriptions of Doctor Who seasons 2, 3, and 4, featuring the 10th Doctor and his companions.*
 
-***Source:** <http://www.chakoteya.net/DoctorWho/>*
+***Source:** [http://www.chakoteya.net/DoctorWho/](http://www.chakoteya.net/DoctorWho/)*
 
 ***Tags:** Sci-fi, Doctor Who*
 
->**CYBERMAN: Delete! Delete! Delete!**
+> **CYBERMAN: Delete! Delete! Delete!**
 >
->(The Cyberman takes the Doctor's controls from him and turns off the console.)
+> (The Cyberman takes the Doctor's controls from him and turns off the console.)
 >
->DOCTOR: No. Don't do that, you're not taking me anywhere.
+> DOCTOR: No. Don't do that, you're not taking me anywhere.
 >
->CYBERMAN: You are my prisoner. I am your master.
+> CYBERMAN: You are my prisoner. I am your master.
 >
->DOCTOR: No, no, no, no. Not on your life.
+> DOCTOR: No, no, no, no. Not on your life.
 >
->(He raises his hand to hit the Cyberman but it knocks the controls out of his grasp.)
+> (He raises his hand to hit the Cyberman but it knocks the controls out of his grasp.)
 >
->CYBERMAN: What is wrong with you?
+> CYBERMAN: What is wrong with you?
 >
->DOCTOR: I'm going home, that's what's wrong. My name is Doctor Who. And you're a bloody robot. But you've got the wrong man. There's a whole world out there waiting for me, and I don't want to be taken prisoner by some tin can.
+> DOCTOR: I'm going home, that's what's wrong. My name is Doctor Who. And you're a bloody robot. But you've got the wrong man. There's a whole world out there waiting for me, and I don't want to be taken prisoner by some tin can.
 >
->(It grabs hold of his neck and tries to pull him back into the console room. The Doctor fights back, trying to break free.)
+> (It grabs hold of his neck and tries to pull him back into the console room. The Doctor fights back, trying to break free.)
 >
->CYBERMAN: You will obey. You will serve. Or you will die.
+> CYBERMAN: You will obey. You will serve. Or you will die.
 >
->DOCTOR: Go ahead. Kill me. It won't make any difference anyway, because I'll just get right back up again.
+> DOCTOR: Go ahead. Kill me. It won't make any difference anyway, because I'll just get right back up again.
 >
->(The Cyberman puts its hands over the Doctor's mouth and nose and lifts him off the ground.)
+> (The Cyberman puts its hands over the Doctor's mouth and nose and lifts him off the ground.)
 >
->DOCTOR: All right then, let's see how long it takes you to kill me.
+> DOCTOR: All right then, let's see how long it takes you to kill me.
 >
->(The Doctor kicks the controls at the base of the Cyberman's neck, sending it reeling backwards.)
+> (The Doctor kicks the controls at the base of the Cyberman's neck, sending it reeling backwards.)
 
 #### [Dagoth Ur](https://files.catbox.moe/kblxjk.module)
 
@@ -4710,7 +4814,7 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 
 *because of you fucking weirdos I burned some steps on this, module on all his voicelines.*
 
-*BTW there's also <https://aidsrentfree.github.io/modules/euterpe#the-elder-scrolls-in-game-texts> which is way better and I did not make. Use that instead, you fool.*
+*BTW there's also [https://aidsrentfree.github.io/modules/euterpe#the-elder-scrolls-in-game-texts](https://aidsrentfree.github.io/modules/euterpe#the-elder-scrolls-in-game-texts) which is way better and I did not make. Use that instead, you fool.*
 
 #### [Arrested Development](https://files.catbox.moe/j9mzcq.module)
 
@@ -4722,27 +4826,27 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 
 ***Tags:** script, sitcom, television, arrested development*
 
->*[The following is the transcript of the Season Five episode "Bees?". Memorable quotes are highlighted below.] *
+> *[The following is the transcript of the Season Five episode "Bees?". Memorable quotes are highlighted below.] *
 >
->Michael: Wow. You’re... you’ve got a new look.
+> Michael: Wow. You’re... you’ve got a new look.
 >
->George Michael: Yeah. I figured, if I was going to be in prison for some time, I might as well grow up while I did it.
+> George Michael: Yeah. I figured, if I was going to be in prison for some time, I might as well grow up while I did it.
 >
->Michael: Oh. Well, that’s... good to hear. I mean, you know, prison can get pretty depressing. So, what have you been doing?
+> Michael: Oh. Well, that’s... good to hear. I mean, you know, prison can get pretty depressing. So, what have you been doing?
 >
->George Michael: Well, they haven’t given me any work yet. But I do have a few friends who are there with me on different charges.
+> George Michael: Well, they haven’t given me any work yet. But I do have a few friends who are there with me on different charges.
 >
->Michael: Oh, yeah? What kind of charges?
+> Michael: Oh, yeah? What kind of charges?
 >
->George Michael: Uh, possession and distribution of controlled substances.
+> George Michael: Uh, possession and distribution of controlled substances.
 >
->Michael: Oh. That sounds like fun.
+> Michael: Oh. That sounds like fun.
 >
->Narrator: And then he said it again.
+> Narrator: And then he said it again.
 >
->George Michael: Possession and distribution of controlled substances!
+> George Michael: Possession and distribution of controlled substances!
 >
->Michael: Oh, yeah.
+> Michael: Oh, yeah.
 
 #### [Disco Elysium](https://files.catbox.moe/9vm6qi.module)
 
@@ -4753,27 +4857,28 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 ***Tags:** transcript, rpg, disco elysium*
 
 *Notes:*
+
 - *Internal monologue and descriptions use ()*
 - *Speech uses "" and prose.*
 - *Scenes are separated by \*\*\*.*
 
 (Output on empty prompt)
 
->YOU: "What kind of work did he do, then?"
+> YOU: "What kind of work did he do, then?"
 >
->RENÉ ARNOUX: He looks away. "He was a professional killer."
+> RENÉ ARNOUX: He looks away. "He was a professional killer."
 >
->KIM KITSURAGI: "A real professional -- he made the mistake of working for an idiot."
+> KIM KITSURAGI: "A real professional -- he made the mistake of working for an idiot."
 >
->RENÉ ARNOUX: He sounds a little bitter about it.
+> RENÉ ARNOUX: He sounds a little bitter about it.
 >
->RENÉ ARNOUX: "The man had no idea what to do with him. I guess that's how you make money in the underworld..."
+> RENÉ ARNOUX: "The man had no idea what to do with him. I guess that's how you make money in the underworld..."
 >
->PAIN THRESHOLD: (It's not like he's wrong.)
+> PAIN THRESHOLD: (It's not like he's wrong.)
 >
->VOLITION: (That's all the more reason to appreciate his wisdom.)
+> VOLITION: (That's all the more reason to appreciate his wisdom.)
 >
->RENÉ ARNOUX: "He would come back to the base after a hit and give his report."
+> RENÉ ARNOUX: "He would come back to the base after a hit and give his report."
 
 #### [F.R.I.E.N.D.S.](https://files.catbox.moe/o266uv.module)
 
@@ -4789,44 +4894,44 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 
 ***Tags:** TV Show scripts, Sitcom*
 
->**(Scene: Chandler and Joey's, they are talking to a goose about Novel AI.)**
+> **(Scene: Chandler and Joey's, they are talking to a goose about Novel AI.)**
 >
->Joey: Hey Goose.
+> Joey: Hey Goose.
 >
->Goose: (in a deep voice) Hello Joey!
+> Goose: (in a deep voice) Hello Joey!
 >
->Chandler: (to the goose) And you are?
+> Chandler: (to the goose) And you are?
 >
->(The goose looks at him funny.)
+> (The goose looks at him funny.)
 >
->Joey: Okay, okay, I'm kidding.
+> Joey: Okay, okay, I'm kidding.
 >
->Goose: (in an annoyed tone of voice) Oh come on, who do you think I am?
+> Goose: (in an annoyed tone of voice) Oh come on, who do you think I am?
 >
->Chandler: You're the Goose that lays the golden eggs right?
+> Chandler: You're the Goose that lays the golden eggs right?
 >
->Goose: That's a strange question.
+> Goose: That's a strange question.
 >
->Chandler: Well...you know what I mean.
+> Chandler: Well...you know what I mean.
 >
->Goose: No, I don't.
+> Goose: No, I don't.
 >
->Chandler: The Goose that lays the golden eggs.
+> Chandler: The Goose that lays the golden eggs.
 >
->Goose: What?
+> Goose: What?
 >
->Chandler: Yeah, the one with the golden eggs.
+> Chandler: Yeah, the one with the golden eggs.
 >
->Goose: Gold is not my thing. In fact, it makes me want to puke in your face! (He walks away.)
+> Goose: Gold is not my thing. In fact, it makes me want to puke in your face! (He walks away.)
 >
->Chandler: Dude, that's way harsh.
+> Chandler: Dude, that's way harsh.
 >
->Joey: How did he know what my first name was?
+> Joey: How did he know what my first name was?
 >
->Chandler: I dunno, maybe he can read lips or something. (To the goose.) Hey Goose, how'd 
->you know my name?
+> Chandler: I dunno, maybe he can read lips or something. (To the goose.) Hey Goose, how'd
+> you know my name?
 >
->Goose: Because I have X-ray vision.
+> Goose: Because I have X-ray vision.
 
 #### [Hamilton: An American Musical](https://files.catbox.moe/3f2hwn.module)
 
@@ -4844,13 +4949,13 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 
 ***Example:***
 
->Hamilton:
+> Hamilton:
 >
->Is that a yes?
+> Is that a yes?
 >
->Burr Jefferson Madison:
+> Burr Jefferson Madison:
 >
->Um, yes.
+> Um, yes.
 
 ***Notes:** The module tends to overfit a bit, which is a feature since it's able to understand exactly what you're talking about if you use snippets from the original musical.*
 
@@ -4893,52 +4998,51 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 
 *The format is as follows.*
 
-    [SCENE: ...] - Scene change.
-    (action) - Actions
-
->**[Scene: A large castle.]**
+[SCENE: ...] - Scene change.
+(action) - Actions
+> **[Scene: A large castle.]**
 >
->JERRY: (to Elaine) I think you should go to the bathroom.
+> JERRY: (to Elaine) I think you should go to the bathroom.
 >
->ELAINE: Why?
+> ELAINE: Why?
 >
->JERRY: Because it's a long way down that staircase, and if something happens...
+> JERRY: Because it's a long way down that staircase, and if something happens...
 >
->(Elaine looks at him.)
+> (Elaine looks at him.)
 >
->ELAINE: What are you talking about?
+> ELAINE: What are you talking about?
 >
->JERRY: You know what I'm talking about!
+> JERRY: You know what I'm talking about!
 >
->ELAINE: Oh my God! Are you saying that there is some sort of emergency situation here?!
+> ELAINE: Oh my God! Are you saying that there is some sort of emergency situation here?!
 >
->JERRY: No, no, no! It's just a precautionary measure.
+> JERRY: No, no, no! It's just a precautionary measure.
 >
->ELAINE: Well, I don't have time for this. I've got to get back in there.
+> ELAINE: Well, I don't have time for this. I've got to get back in there.
 >
->JERRY: Wait a minute. We're not going anywhere until we find out where they keep the restrooms around here.
+> JERRY: Wait a minute. We're not going anywhere until we find out where they keep the restrooms around here.
 >
->ELAINE: Jerry! This is ridiculous!
+> ELAINE: Jerry! This is ridiculous!
 >
->JERRY: Look, I can tell by your face that you need to use the restroom. So let me help you with that.
+> JERRY: Look, I can tell by your face that you need to use the restroom. So let me help you with that.
 >
->ELAINE: Okay, okay. Let's go.
+> ELAINE: Okay, okay. Let's go.
 >
->(They walk over to the guard who is standing near the door.)
+> (They walk over to the guard who is standing near the door.)
 >
->GUARD: Excuse me sir. Can I help you?
+> GUARD: Excuse me sir. Can I help you?
 >
->JERRY: Yes, we were wondering where the bathrooms are located.
+> JERRY: Yes, we were wondering where the bathrooms are located.
 >
->GUARD: The restrooms are right through those doors.
+> GUARD: The restrooms are right through those doors.
 >
->ELAINE: Thank you very much.
+> ELAINE: Thank you very much.
 >
->(The two exit the room and head towards the doors.)
+> (The two exit the room and head towards the doors.)
 >
->GUARD: Good luck.
+> GUARD: Good luck.
 >
->JERRY: Thanks.
+> JERRY: Thanks.
 
 #### [The Stanley Parable](https://files.catbox.moe/7wfnio.module)
 
@@ -4947,6 +5051,7 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 *In celebration of the Ultra Deluxe release, here's a Stanley Parable module that's lacking anything in the Ultra Deluxe release.*
 
 ## [Utilities](#modules)
+
 {: .center}
 
 ### [/aids/](https://files.catbox.moe/dcdapw.module)
@@ -4975,13 +5080,13 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 
 *Notes: The dataset has every article begin with "Headline:" followed by the article title, so you may want to use  "Headline:" when generating titles but it's not necessarily required. I've gotten good headlines from writing things like "What The Hell?:" or "Uh Oh:" which are typical Clickhole-style headline beginnings. On certain presets (Pro Writer 1 in particular, but idk, may be more out there), weird characters appear every now and then at the end of sentences that weren't in the dataset. I don't know why this is but they haven't been a big problem so far so it doesn't really matter I guess.*
 
->**Headline: Florida Man** Who Went To A Hospital For Stomach Pain Gets An Unwanted Surprise When He Learns His Wife Has Been Having Sex With Someone Else All Along
+> **Headline: Florida Man** Who Went To A Hospital For Stomach Pain Gets An Unwanted Surprise When He Learns His Wife Has Been Having Sex With Someone Else All Along
 >
->After being diagnosed with abdominal pains, a Florida man visited the emergency room at the local medical center last week only to find out from the doctor that his wife had been cheating on him behind his back for months.
+> After being diagnosed with abdominal pains, a Florida man visited the emergency room at the local medical center last week only to find out from the doctor that his wife had been cheating on him behind his back for months.
 >
->"I came here because I thought my stomach was hurting me," the patient told reporters. "But then the doctor tells me she's been fucking another guy since before Christmas. It made me sick."
+> "I came here because I thought my stomach was hurting me," the patient told reporters. "But then the doctor tells me she's been fucking another guy since before Christmas. It made me sick."
 >
->While it is unclear what prompted the woman to cheat on her husband, the fact that the couple was married makes us think it must have been something serious enough to warrant going to the ER. Hopefully this news will make them both realize how important it is to keep their marriage strong.
+> While it is unclear what prompted the woman to cheat on her husband, the fact that the couple was married makes us think it must have been something serious enough to warrant going to the ER. Hopefully this news will make them both realize how important it is to keep their marriage strong.
 
 ### [The Club](https://anonfiles.com/V9h536K1xa/TheClub_module)
 
@@ -5001,27 +5106,27 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 
 ***Loss:** 2.04*
 
->**Recipe: Chocolate Salvation**
+> **Recipe: Chocolate Salvation**
 >
->MAKES 1 SERVING
+> MAKES 1 SERVING
 >
->This is an adaptation of a traditional chocolate pudding that my mom used to make. She would serve it with some whipped cream on top, but I prefer it as just a rich, decadent pudding all by itself. The addition of the coconut oil and the cacao powder make this version really special. If you don't have any coconut or cacao powder, no worries—this recipe will still taste amazing without them!
+> This is an adaptation of a traditional chocolate pudding that my mom used to make. She would serve it with some whipped cream on top, but I prefer it as just a rich, decadent pudding all by itself. The addition of the coconut oil and the cacao powder make this version really special. If you don't have any coconut or cacao powder, no worries—this recipe will still taste amazing without them!
 >
-> 6 tablespoons (100 g) unsalted butter
+>  6 tablespoons (100 g) unsalted butter
 >
-> 1 large egg
+>  1 large egg
 >
-> 3-4 heaping tablespoons cacao powder (optional)
+>  3-4 heaping tablespoons cacao powder (optional)
 >
-> ¼ teaspoon sea salt
+>  ¼ teaspoon sea salt
 >
-> 2 tablespoons sugar
+>  2 tablespoons sugar
 >
-> 1 tablespoon pure maple syrup
+>  1 tablespoon pure maple syrup
 >
-> 1/8 cup heavy cream (or coconut milk for dairy free)
+>  1/8 cup heavy cream (or coconut milk for dairy free)
 >
->INSTRUCTIONS: Preheat oven to 350°F (175°C). Set aside 2 tablespoons of the sugar and set aside to use later. In a medium saucepan combine the butter, cocoa, and water. Whisk continuously over low heat until it begins to thicken into a sauce-like consistency, about 10 minutes. Add the remaining sugar (about ¼ cup) and whisk constantly for another 3 minutes while bringing the temperature up to 240°F (115°C). At this point you want to remove from the heat but keep whisking, as it will continue to cook at this temperature, becoming thicker. When the temperature reaches 240°F add in the salt, the remaining sugar, and the egg and stir continuously with a wooden spoon until smooth. Remove from heat and let cool slightly. Place in fridge until cold. Once cooled whip the cream and spread atop your chilled pudding.
+> INSTRUCTIONS: Preheat oven to 350°F (175°C). Set aside 2 tablespoons of the sugar and set aside to use later. In a medium saucepan combine the butter, cocoa, and water. Whisk continuously over low heat until it begins to thicken into a sauce-like consistency, about 10 minutes. Add the remaining sugar (about ¼ cup) and whisk constantly for another 3 minutes while bringing the temperature up to 240°F (115°C). At this point you want to remove from the heat but keep whisking, as it will continue to cook at this temperature, becoming thicker. When the temperature reaches 240°F add in the salt, the remaining sugar, and the egg and stir continuously with a wooden spoon until smooth. Remove from heat and let cool slightly. Place in fridge until cold. Once cooled whip the cream and spread atop your chilled pudding.
 
 ### [Furry Character Generator](https://files.catbox.moe/yb31wv.module)
 
@@ -5035,7 +5140,7 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 
 *Average Loss: 3.0692, Last Loss: 3.0224*
 
->\> What is the source text?
+> \> What is the source text?
 
 *Furry character bios/ref sheets from Furaffinity/Inkbunny.*
 
@@ -5067,57 +5172,57 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 
 *Turn off the preamble in AI Settings, write a dinkus, newline and then the name of the item you want described, newline, and generate. Because this is the structure of all of the training data:*
 
->\*\*\*
+> \*\*\*
 >
->[ name of item ]
+> [ name of item ]
 >
->[ description of item ]
+> [ description of item ]
 >
->\*\*\*
+> \*\*\*
 >
->[ same pattern repeating ]
+> [ same pattern repeating ]
 
 ***Output Samples:***
 
->\*\*\*
+> \*\*\*
 >
->Evil spellbook
+> Evil spellbook
 >
->The tome is small and well-worn. Its pages are a mass of intricate drawings with words woven throughout the lines. You can see symbols from all sorts of ancient, forgotten, and forbidden magical traditions etched in its margins. Some pages smell faintly of dust and others of dried blood.
+> The tome is small and well-worn. Its pages are a mass of intricate drawings with words woven throughout the lines. You can see symbols from all sorts of ancient, forgotten, and forbidden magical traditions etched in its margins. Some pages smell faintly of dust and others of dried blood.
 
->\*\*\*
+> \*\*\*
 >
->Evil spellbook
+> Evil spellbook
 >
->This volume is written in a language that can only be translated by those able to channel arcane power. Its pages are covered with complex sigils and strange diagrams, some of which appear to be illustrations of arcane creatures like the one you saw in your last battle with a drow sorcerer. The book also contains spells, some of them rather powerful.
+> This volume is written in a language that can only be translated by those able to channel arcane power. Its pages are covered with complex sigils and strange diagrams, some of which appear to be illustrations of arcane creatures like the one you saw in your last battle with a drow sorcerer. The book also contains spells, some of them rather powerful.
 
->\*\*\*
+> \*\*\*
 >
->Vine whip
+> Vine whip
 >
->Thickly lashed and weighted strands of vine twine have been wrapped around a stout cord. The ends form the shape of a small whip as they are coiled together, giving this weapon the appearance of a long-handled pair of tongs. When you grip it in your hand, it tingles pleasantly, the vine whip humming softly against your palm.
+> Thickly lashed and weighted strands of vine twine have been wrapped around a stout cord. The ends form the shape of a small whip as they are coiled together, giving this weapon the appearance of a long-handled pair of tongs. When you grip it in your hand, it tingles pleasantly, the vine whip humming softly against your palm.
 
->\*\*\*
+> \*\*\*
 >
->Helmet from heaven
+> Helmet from heaven
 >
->The helmet is a fine piece of work, as if it were an angel crafted by artisans in heaven. It has an ornate crest with a golden sun and five points, each pointing to a star, forming a sort of halo. The visor opens easily; inside are two large orbs which look like gems but are actually some kind of magical light source. When you hold the helmet up, nothing seems to happen; when you put it on, however, your vision shifts from darkness to a world where every surface glows in beautiful hues, no matter how dark or dim it might be. It is the most spectacular thing you’ve ever seen.
+> The helmet is a fine piece of work, as if it were an angel crafted by artisans in heaven. It has an ornate crest with a golden sun and five points, each pointing to a star, forming a sort of halo. The visor opens easily; inside are two large orbs which look like gems but are actually some kind of magical light source. When you hold the helmet up, nothing seems to happen; when you put it on, however, your vision shifts from darkness to a world where every surface glows in beautiful hues, no matter how dark or dim it might be. It is the most spectacular thing you’ve ever seen.
 >
->Helmet from hell
+> Helmet from hell
 >
->It seems obvious now, but the helmet isn’t meant to protect. No, its purpose is to harm. You can feel the evil pouring out of it into your skull, and as you try to remove it, you find that it sticks to your skin like glue. It must have been enchanted by some sort of demon, perhaps the same one who created the helmet. When you take it off, your vision goes back to normal, but the feeling lingers.
+> It seems obvious now, but the helmet isn’t meant to protect. No, its purpose is to harm. You can feel the evil pouring out of it into your skull, and as you try to remove it, you find that it sticks to your skin like glue. It must have been enchanted by some sort of demon, perhaps the same one who created the helmet. When you take it off, your vision goes back to normal, but the feeling lingers.
 
->\*\*\*
+> \*\*\*
 >
->Runic sword
+> Runic sword
 >
->The runes on this weapon are not the common set but rather the ancient ones. You cannot read them, but it seems that someone of power has worked upon the weapon. Its power is immense: its sharp, glinting blade slices through flesh as easily as though it were paper. The length of the weapon is a bit short, however, and the grip is far too large for you to hold comfortably in your hand. A few of the runes have broken free from their grooves and are lying in the grass nearby.
+> The runes on this weapon are not the common set but rather the ancient ones. You cannot read them, but it seems that someone of power has worked upon the weapon. Its power is immense: its sharp, glinting blade slices through flesh as easily as though it were paper. The length of the weapon is a bit short, however, and the grip is far too large for you to hold comfortably in your hand. A few of the runes have broken free from their grooves and are lying in the grass nearby.
 
->\*\*\*
+> \*\*\*
 >
->Running Gag Potion
+> Running Gag Potion
 >
->Carry this potion around with you and you’ll find that no matter what happens you can always count on it being funny in some way. There appears to be an endless supply of jokes available when you have a bottle of this. The potion will never go bad, so long as you carry it with you. This allows you to drink it freely whenever you need a joke at your disposal. It can be taken multiple times to replenish the amount of laughs that it provides.
+> Carry this potion around with you and you’ll find that no matter what happens you can always count on it being funny in some way. There appears to be an endless supply of jokes available when you have a bottle of this. The potion will never go bad, so long as you carry it with you. This allows you to drink it freely whenever you need a joke at your disposal. It can be taken multiple times to replenish the amount of laughs that it provides.
 
 ### [Light Novel Blurb Generator](https://files.catbox.moe/g4v1n5.module)
 
@@ -5127,27 +5232,27 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 
 *Training: Trained for 360 steps (300%) on all of the titles and blurbs from a popular light novel publisher's catalog.*
 
->**Title: That Time I Got Reincarnated As A Novel Writing Neural Network**
+> **Title: That Time I Got Reincarnated As A Novel Writing Neural Network**
 >
->**Synopsis:**
+> **Synopsis:**
 >
->When a young man finds himself reincarnated as an AI, he quickly discovers that this is no ordinary world. The people of this planet are so obsessed with novels and literature that they've created several artificial intelligences to help them write their stories! But what happens when one of these artificial intelligences decides to put down his pen...and pick up a sword?
+> When a young man finds himself reincarnated as an AI, he quickly discovers that this is no ordinary world. The people of this planet are so obsessed with novels and literature that they've created several artificial intelligences to help them write their stories! But what happens when one of these artificial intelligences decides to put down his pen...and pick up a sword?
 >
->\*\*\*
+> \*\*\*
 >
->Title: The Dragon God's Evil Twin Was Summoned By My Little Sister! (Sister!)
+> Title: The Dragon God's Evil Twin Was Summoned By My Little Sister! (Sister!)
 >
->Synopsis:
+> Synopsis:
 >
->“I want you to do something for me. I need you to go over there and defeat the dragon god in my place.” So said her brother, a high school boy from another world. Her response was simple: "Don't worry about it." What did she mean by that...? His sister had been kidnapped by a huge monster called a Dragon Lord, and her only hope of escape was to summon a mighty Dragon God from another world to fight on her behalf. But would that even work? And how could a high schooler defeat such a powerful creature?!
+> “I want you to do something for me. I need you to go over there and defeat the dragon god in my place.” So said her brother, a high school boy from another world. Her response was simple: "Don't worry about it." What did she mean by that...? His sister had been kidnapped by a huge monster called a Dragon Lord, and her only hope of escape was to summon a mighty Dragon God from another world to fight on her behalf. But would that even work? And how could a high schooler defeat such a powerful creature?!
 >
->\*\*\*
+> \*\*\*
 >
->Title: The World Is Full Of Monsters! (And They're All Coming For Me)
+> Title: The World Is Full Of Monsters! (And They're All Coming For Me)
 >
->Synopsis:
+> Synopsis:
 >
->It all started when I woke up with amnesia in a mysterious forest... Or at least, that's what I thought. Turns out, I actually died, but when I came back to life I found myself in some other dimension full of monsters! At first, I couldn't tell which way was up or down, but then I met a man who gave me a magic item that made my head clear right away. Unfortunately, it also showed me the true form of the giant demon that killed me—but hey, it's not like I had much of a choice, now did I?
+> It all started when I woke up with amnesia in a mysterious forest... Or at least, that's what I thought. Turns out, I actually died, but when I came back to life I found myself in some other dimension full of monsters! At first, I couldn't tell which way was up or down, but then I met a man who gave me a magic item that made my head clear right away. Unfortunately, it also showed me the true form of the giant demon that killed me—but hey, it's not like I had much of a choice, now did I?
 
 ### [Light Novel Title Generator](https://files.catbox.moe/53ranj.module)
 
@@ -5157,13 +5262,13 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 
 *Generate your own light novel titles such as;*
 
->"I've Reached MAX LEVEL But Mom Won't Let Me Leave the House!!"
+> "I've Reached MAX LEVEL But Mom Won't Let Me Leave the House!!"
 
->"My Hair Might Be Gone But I'll Never Stop Trying To Become A Hero!"
+> "My Hair Might Be Gone But I'll Never Stop Trying To Become A Hero!"
 
 *and*
 
->"My Little Sister Can't Become an Assassin Because She's Too Cute."
+> "My Little Sister Can't Become an Assassin Because She's Too Cute."
 
 ### [Michael Jackson Lyrics](https://files.catbox.moe/39ix7t.module)
 
@@ -5180,53 +5285,52 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 
 *Headings are stuff in the lyrics like Intro, Verse 1, Verse 2, Chorus, Bridge, Outro. That is not a definitive list of headings, but it's generally that sort of thing. Additionally I tagged every song like:*
 
-    [Title: ; Artist: ; Genre: ; Tags: ]
-
+[Title: ; Artist: ; Genre: ; Tags: ]
 *There were tags like duet, young MJ, adult MJ, happy, sad, angry, 70s, 80s, 90s, 2000s, social commentary, privacy, stalker, diss track, etc depending on the song.*
 
 ***What do I do with this module?***
 
 *I dunno. Throw in some tags, then an "Intro", "Verse", or whatever headings if you like. I just made this for experimentation, and to use up some steps before they run out. Fuck around with the modules and do what you like.*
 
->**[Artist: Michael Jackson; Title: Billie Jean Smokes Weed; Genre: Rock, Metal; Tags: 90s, Adult MJ, Happy, stalker, drugs]**
+> **[Artist: Michael Jackson; Title: Billie Jean Smokes Weed; Genre: Rock, Metal; Tags: 90s, Adult MJ, Happy, stalker, drugs]**
 >
->Verse 1:
+> Verse 1:
 >
->Hello, hello
+> Hello, hello
 >
->I'm back
+> I'm back
 >
->And I'm just the way you like me
+> And I'm just the way you like me
 >
->And I'm here to stay
+> And I'm here to stay
 >
->So get used to my face
+> So get used to my face
 >
->You're gonna see me everywhere
+> You're gonna see me everywhere
 >
->Hey, hey, you'll never see my end
+> Hey, hey, you'll never see my end
 >
->Chorus:
+> Chorus:
 >
->I'm a weed smoker,
+> I'm a weed smoker,
 >
->You're a weed smoker
+> You're a weed smoker
 >
->Too much smoke
+> Too much smoke
 >
->I'll make sure you get it
+> I'll make sure you get it
 >
->You're a weed smoker,
+> You're a weed smoker,
 >
->I'm a weed smoker
+> I'm a weed smoker
 >
->We're gonna blaze it
+> We're gonna blaze it
 >
->We're gonna blaze it
+> We're gonna blaze it
 >
->We're gonna blaze it
+> We're gonna blaze it
 >
->Hey, hey, you'll never see my end
+> Hey, hey, you'll never see my end
 
 ### [Movie Plots](https://files.catbox.moe/a8pfct.module)
 
@@ -5236,9 +5340,9 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 
 ***Source Material:** 0.6mb, 140 movie, 723 steps, 100% coverage, 2.7583 loss.*
 
->A man and his daughter move to a new house in the country. The girl is an only child, but she finds herself sharing her room with two friendly ghosts: Oscar (a teddy bear) and Felix (an old-fashioned alarm clock). As they get used to their new home, they meet other spirits that come out at night like Mrs. Giggles (the ghost of a giggling woman), Mr. Whiskers (the spirit of a cat who can't find its owner), and Miss Skeleton (who has been murdered by her husband for cheating on him). However, one day when the little girl goes exploring around town after dark, she discovers something terrible happening behind closed doors...and it's up to her father and the three spirits to save the world from evil!
+> A man and his daughter move to a new house in the country. The girl is an only child, but she finds herself sharing her room with two friendly ghosts: Oscar (a teddy bear) and Felix (an old-fashioned alarm clock). As they get used to their new home, they meet other spirits that come out at night like Mrs. Giggles (the ghost of a giggling woman), Mr. Whiskers (the spirit of a cat who can't find its owner), and Miss Skeleton (who has been murdered by her husband for cheating on him). However, one day when the little girl goes exploring around town after dark, she discovers something terrible happening behind closed doors...and it's up to her father and the three spirits to save the world from evil!
 
->A new technology, the "Kung Fu Grip" enables a man to control any object he touches. The inventor's daughter is kidnapped by criminals who want his invention and are willing to kill for it. A policeman on the case must stop them before they can use Kung-Fu Grip weapons against innocent people in public places. He enlists help from an ex–boxer named Billy Chan, whose karate skills will be needed if he has any hope of saving her life. However, there are many obstacles standing between him and success: firstly, the police chief wants no part of this investigation; secondly, one criminal gang member is after both sides because their leader owes money to another rival group that threatens to expose its secrets unless the gangs fight each other over possession of Kung Fu Grip
+> A new technology, the "Kung Fu Grip" enables a man to control any object he touches. The inventor's daughter is kidnapped by criminals who want his invention and are willing to kill for it. A policeman on the case must stop them before they can use Kung-Fu Grip weapons against innocent people in public places. He enlists help from an ex–boxer named Billy Chan, whose karate skills will be needed if he has any hope of saving her life. However, there are many obstacles standing between him and success: firstly, the police chief wants no part of this investigation; secondly, one criminal gang member is after both sides because their leader owes money to another rival group that threatens to expose its secrets unless the gangs fight each other over possession of Kung Fu Grip
 
 ### [Online Hell Tweet Generator](https://files.catbox.moe/tbnsyx.module)
 
@@ -5252,21 +5356,21 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 
 ***Notes:** Typically generates "Tweet:" followed by the tweet, then asterisks, and then the cycle repeats ad nauseam. Since this is trained on tweets (many of which are vulgar and/or deranged), expect some content that may be worse than PG-13.  Low rep pen and higher randomness recommended for the true Online Hell experience (yes, this includes the parts where the AI goes incoherent).  Morpho and Gojira have been my favorite presets for it so far.*
 
->(holding up a picture of me) "look son this is what you will become if you don't go to your music theory final" (setting the pic on fire and watching it burn in front of him) this is your future buddy
+> (holding up a picture of me) "look son this is what you will become if you don't go to your music theory final" (setting the pic on fire and watching it burn in front of him) this is your future buddy
 
->when ur homeboy shits in your front yard and you hav 2 go clean it up because his lazy ass can't use the lawn scoop lol #bebanned pic.twitter.com/lClXagggG4
+> when ur homeboy shits in your front yard and you hav 2 go clean it up because his lazy ass can't use the lawn scoop lol #bebanned pic.twitter.com/lClXagggG4
 
->i wonder if it would be possible for someone to go full blown ronald mcdonald over night
+> i wonder if it would be possible for someone to go full blown ronald mcdonald over night
 
->(me) we should all wear kyuss band shirts today
+> (me) we should all wear kyuss band shirts today
 >
->(h8er) I'm on this hilltop in a ghillie suit
+> (h8er) I'm on this hilltop in a ghillie suit
 
->**im going to** stream me laying on my death bed bc of chemtrail exposure
+> **im going to** stream me laying on my death bed bc of chemtrail exposure
 >
->(after 15 mins)
+> (after 15 mins)
 >
->i felt some rumbly in my stomach.
+> i felt some rumbly in my stomach.
 
 ### [Proverbs and Sayings](https://files.catbox.moe/b1pmqp.module)
 
@@ -5274,31 +5378,31 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 
 *Proverbs and sayings generator. Trained on 250kb worth of random proverbs and sayings.*
 
->A thousand years is the time that one day is long.<br>
->\*\*\*<br>
->One word may change the fate of a nation.<br>
->\*\*\*<br>
->A single moment can change your destiny forever.<br>
->\*\*\*<br>
->It is not what you are born with but how much you have learnt along the way that matters in the end.<br>
->\*\*\*<br>
->To get to where we want to be, it takes time and effort; to stay there takes commitment and love.<br>
->\*\*\*<br>
->A good wife is better than one hundred sons.<br>
->\*\*\*<br>
->The most powerful tool for world peace is love.<br>
->\*\*\*<br>
->If you keep a bird in your garden, it will eventually eat all the worms from the ground.<br>
->\*\*\*<br>
->Do not seek love as though it were a bird. If it comes, it will come to you without wings.<br>
->\*\*\*<br>
->Love is like a mountain, too big to be climbed by a small man.<br>
->\*\*\*<br>
->What does not kill us makes us stronger.<br>
->\*\*\*<br>
->The man who looks up when he is afraid is wise, but the man who stays down is a coward.<br>
->\*\*\*<br>
->There is no shortcut to success; you have to walk the path yourself.<br>
+> A thousand years is the time that one day is long.<br>
+> \*\*\*<br>
+> One word may change the fate of a nation.<br>
+> \*\*\*<br>
+> A single moment can change your destiny forever.<br>
+> \*\*\*<br>
+> It is not what you are born with but how much you have learnt along the way that matters in the end.<br>
+> \*\*\*<br>
+> To get to where we want to be, it takes time and effort; to stay there takes commitment and love.<br>
+> \*\*\*<br>
+> A good wife is better than one hundred sons.<br>
+> \*\*\*<br>
+> The most powerful tool for world peace is love.<br>
+> \*\*\*<br>
+> If you keep a bird in your garden, it will eventually eat all the worms from the ground.<br>
+> \*\*\*<br>
+> Do not seek love as though it were a bird. If it comes, it will come to you without wings.<br>
+> \*\*\*<br>
+> Love is like a mountain, too big to be climbed by a small man.<br>
+> \*\*\*<br>
+> What does not kill us makes us stronger.<br>
+> \*\*\*<br>
+> The man who looks up when he is afraid is wise, but the man who stays down is a coward.<br>
+> \*\*\*<br>
+> There is no shortcut to success; you have to walk the path yourself.<br>
 
 ### [Rhyme and Poetry](https://files.catbox.moe/o1bsiu.module)
 
@@ -5310,42 +5414,42 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 
 > "The First Hour We Knew"
 >
->In the name of love and peace,<br>
->The great and mighty gods.<br>
+> In the name of love and peace,<br>
+> The great and mighty gods.<br>
 >
->For all that is, or ever shall be,<br>
->I write to you:<br>
->Lovely thou art in thy pride,<br>
->Thou shalt never see<br>
+> For all that is, or ever shall be,<br>
+> I write to you:<br>
+> Lovely thou art in thy pride,<br>
+> Thou shalt never see<br>
 >
->My hand reach towards thee;<br>
->And yet I think it worth while,<br>
->To give to thee my name. <br>
+> My hand reach towards thee;<br>
+> And yet I think it worth while,<br>
+> To give to thee my name. <br>
 >
->But this is not my true thought,<br>
->Nor the feeling I feel:<br>
->For I would gladly give all the rest<br>
->Of my life to find a way,<br>
->Which may lead me back again<br>
->To that first hour we knew;<br>
->I loved with an all-embracing love,<br>
->That seemed to have no end:<br>
->It was in vain I said farewell,<br>
->When I saw thee once again<br>
->At the gate of the golden land;<br>
->But I was then a little child,<br>
->And thou wast but a flower. <br>
+> But this is not my true thought,<br>
+> Nor the feeling I feel:<br>
+> For I would gladly give all the rest<br>
+> Of my life to find a way,<br>
+> Which may lead me back again<br>
+> To that first hour we knew;<br>
+> I loved with an all-embracing love,<br>
+> That seemed to have no end:<br>
+> It was in vain I said farewell,<br>
+> When I saw thee once again<br>
+> At the gate of the golden land;<br>
+> But I was then a little child,<br>
+> And thou wast but a flower. <br>
 >
->Now my hair is grey and thin,<br>
->My years are few upon earth.<br>
->The leaves of youth are falling fast,<br>
->My days grow few as the grass.<br>
->If the time will be mine to take<br>
->And pass with pleasure,<br>
->Let it come quickly and go;<br>
->Thou dost not know what it means,<br>
->To live alone with one's self,<br>
->In the lonely place where all men die. <br>
+> Now my hair is grey and thin,<br>
+> My years are few upon earth.<br>
+> The leaves of youth are falling fast,<br>
+> My days grow few as the grass.<br>
+> If the time will be mine to take<br>
+> And pass with pleasure,<br>
+> Let it come quickly and go;<br>
+> Thou dost not know what it means,<br>
+> To live alone with one's self,<br>
+> In the lonely place where all men die. <br>
 
 ### [The Simpsons Episode Generator](https://files.catbox.moe/byivz2.module)
 
@@ -5377,8 +5481,9 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 
 *~5k steps, 100%.*
 
-***
-***
+---
+
+---
 
 if you feel that i've missed a good module, say so on the thread.
 {: .center}
