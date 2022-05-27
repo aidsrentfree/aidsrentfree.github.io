@@ -23,6 +23,10 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(27th May, 2022)
+
+- Added [Freeman's Mind](#freemans-mind) module.
+
 (24th May, 2022)
 
 - Added [Gay WWE](#gay-wwe) module.
@@ -66,19 +70,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 (30th April, 2022)
 
 - Added [Vorefag](#vorefag) module.
-
-(29th April, 2022)
-
-- Added (and then updated) [The 36 Lessons of Vivec](#the-36-lessons-of-vivec) module.
-- Added [Pokephilia](#pokephilia) module.
-- Updated [All The Shit I Wrote](#all-the-shit-i-wrote) module.
-- Added [Far Future Science Fantasy](#far-future-science-fantasy) module.
-- Added [Time Loops](#time-loops) module.
-- Added [Proverbs and Sayings](#proverbs-and-sayings) module.
-- Added [Xenogears](#xenogears) module.
-- Added [Futa League of Legends](#league-of-futas) module.
-- Added [Columbo Book Series](#columbo) module.
-- Added [Dagoth Ur](#dagoth-ur) module.
 
 ---
 
@@ -352,9 +343,10 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Chris-Chan: A Comprehensive History](#chris-chan-a-comprehensive-history)
     - [9th Doctor Transcripts](#9th-doctor-transcripts)
     - [10th Doctor Transcripts](#10th-doctor-transcripts)
-    - [Dagoth Ur](#dagoth-ur)
     - [Arrested Development](#arrested-development)
+    - [Dagoth Ur](#dagoth-ur)
     - [Disco Elysium](#disco-elysium)
+    - [Freeman's Mind](#freemans-mind)
     - [F.R.I.E.N.D.S.](#friends)
     - [Hamilton: An American Musical](#hamilton-an-american-musical)
     - [Kurisu Dialogue](#kurisu-dialogue)
@@ -4808,14 +4800,6 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 >
 > (The Doctor kicks the controls at the base of the Cyberman's neck, sending it reeling backwards.)
 
-#### [Dagoth Ur](https://files.catbox.moe/kblxjk.module)
-
-[by Anon](https://arch.b4k.co/vg/thread/381943814/#382072196)
-
-*because of you fucking weirdos I burned some steps on this, module on all his voicelines.*
-
-*BTW there's also [https://aidsrentfree.github.io/modules/euterpe#the-elder-scrolls-in-game-texts](https://aidsrentfree.github.io/modules/euterpe#the-elder-scrolls-in-game-texts) which is way better and I did not make. Use that instead, you fool.*
-
 #### [Arrested Development](https://files.catbox.moe/j9mzcq.module)
 
 [by Dead Eye](https://discord.com/channels/836774308772446268/939922436500107314/944052107756052510)
@@ -4848,6 +4832,14 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 >
 > Michael: Oh, yeah.
 
+#### [Dagoth Ur](https://files.catbox.moe/kblxjk.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/381943814/#382072196)
+
+*because of you fucking weirdos I burned some steps on this, module on all his voicelines.*
+
+*BTW there's also [https://aidsrentfree.github.io/modules/euterpe#the-elder-scrolls-in-game-texts](https://aidsrentfree.github.io/modules/euterpe#the-elder-scrolls-in-game-texts) which is way better and I did not make. Use that instead, you fool.*
+
 #### [Disco Elysium](https://files.catbox.moe/9vm6qi.module)
 
 [by Dead Eye](https://discord.com/channels/836774308772446268/939922436500107314/940068756661600267)
@@ -4879,6 +4871,22 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 > VOLITION: (That's all the more reason to appreciate his wisdom.)
 >
 > RENÉ ARNOUX: "He would come back to the base after a hit and give his report."
+
+#### [Freeman's Mind](https://files.catbox.moe/hcbmbu.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/385469330/#385486086)
+
+*Prepare yourself for locked doors, incompetent soldiers, aliens, and everyone else paling in comparison to the Freeman.*
+
+*A module trained on Freeman's Mind (and Freeman's Mind 2, current through episode 17) by Ross Scott.*
+
+*Brackets may interact strangely with it, because the content is based on subtitles of a rambling stream of consciousness and the only stage direction came in the form of bracketed bits like*
+
+>[explosions]
+
+*So you might want to tick 'Ban Bracket Generation' to Off. Every non-Gordon character is something like*
+
+>SCIENTIST: Why do we have to wear these ridiculous ties?
 
 #### [F.R.I.E.N.D.S.](https://files.catbox.moe/o266uv.module)
 
