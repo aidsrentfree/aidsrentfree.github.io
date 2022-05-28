@@ -23,6 +23,10 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(28th May, 2022)
+
+- Added [AccursedFarms](#ross-scott) modules.
+
 (27th May, 2022)
 
 - Added [Freeman's Mind](#freemans-mind) module.
@@ -111,6 +115,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Nebic](#nebic)
     - [Phil Phantom](#phil-phantom)
     - [Prinnyd00d](#prinnyd00d)
+    - [Ross Scott](#ross-scott)
     - [SlutWriter](#slutwriter)
     - [Smutknight](#smutknight)
     - [Tas_Tan](#tas_tan)
@@ -743,6 +748,18 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 [by Anon](https://arch.b4k.co/vg/thread/371544232/#371546348)
 
 *Prinnyd00d vore module is GO*
+
+#### [Ross Scott](https://files.catbox.moe/4ftl1b.zip)
+
+[by Anon](https://arch.b4k.co/vg/thread/385699230/#385810283)
+
+*Alright, I think I'm done. Here is the result of my labor.*
+
+*I ended up throwing a few subtitle files out in the editing process, largely tiny videos or some that didn't fit the general theme (like Doomguy's Mind), and specifically the Terror TRAX episode because that was formatted horribly and I just decided "you know what, fuck this one in particular". But you can check the files and see what I created for yourself.*
+
+*In the end, I have three modules, as you can see in the image. One machinima-focused with Civil Protection and Freeman's Mind, one more "Ross talking"-focused with Game Dungeon, Dead Game News and assorted rants, and one that just threw everything together because hey, I have the steppies.*
+
+*Have fun, everybody!*
 
 #### [SlutWriter](https://files.catbox.moe/2v1cvm.module)
 
