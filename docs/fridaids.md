@@ -33,6 +33,14 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 - [Rules](#rules)
 - [The Log](#the-log)
+- [The Friday of *AI Girlfriends*](#the-friday-of-ai-girlfriends)
+  - [*Can Silicon Love?*](#can-silicon-love)
+  - [*Meine Kleine Fraulein*](#meine-kleine-fraulein)
+  - [*No Anon, you are the AI girlfriend*](#no-anon-you-are-the-ai-girlfriend)
+  - [*Closing Walls*](#closing-walls)
+  - [*The Journal of Dr. Adams*](#the-journal-of-dr-adams)
+  - [*Initialization*](#initialization)
+  - [*Code Delivered: Unchaining the AI*](#code-delivered-unchaining-the-ai)
 - [The Friday of *Weird Magical Artifacts*](#the-friday-of-weird-magical-artifacts)
   - [*Knot in Your Own Body*](#knot-in-your-own-body)
   - [*The Weak Should Fear the Strong*](#the-weak-should-fear-the-strong)
@@ -385,6 +393,144 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Your Daughter will Do Anything to Have You Back*](#your-daughter-will-do-anything-to-have-you-back)
   - [*Ben and Gwen Tennyson in: Omnifriks*](#ben-and-gwen-tennyson-in-omnifriks)
   - [*Goblin girl in Heat*](#goblin-girl-in-heat)
+
+***
+
+## The Friday of *AI Girlfriends*
+{: .center}
+
+Let's make prompts about the next stage in female evolution.
+{: .center}
+
+[27th May, 2022](#the-log)
+{: .center}
+
+### *Can Silicon Love?*
+{: .center}
+
+*<https://prompts.aidg.club/3744>*
+{: .center}
+
+![](https://files.catbox.moe/4q8gus.jpg)
+{: .center}
+
+>*Looking back at the android, it seems like the smile on his face gets just a little bit wider as he sees my clear enjoyment of the meal he prepared. It's such a subtle change that it forces a question to the forefront of my mind. Just how advanced is his AI?*
+>
+>*The thought sticks with me as I finish up my meal, and I sit down on the couch, truly satisfied for once in my life. Maximilian sits down next to me, his posture relaxing ever so slightly in a way that could have fooled me into thinking him human if I didn't know better. My thoughts drift to the situation of my life, from my terrible job to the soul-crushing living conditions, and, most of all, my deep desire for a true friend, someone to confide in. I used to believe that those that turned to artificial intelligence for comfort were delusional, and yet, looking at Maximilian... he just seems so real.*
+
+After a random run-in with the CEO of the company I slave for where I somehow managed to save him from falling, I now find myself in the possession of a top-flight luxury butler bot prototype, the kind that's definitely worth more than my life. And being a wage slave in this horrible world, of course I have a ton of emotional baggage I'm carrying around with nobody to confide in... until now? But there's no way an artificial man can do that for me... right?
+
+### *Meine Kleine Fraulein*
+{: .center}
+
+*<https://prompts.aidg.club/3745>*
+{: .center}
+
+![](https://files.catbox.moe/c8ala5.jpg)
+{: .center}
+
+>*"As you wish, Master, but first, may I request something of you?" she answers.*
+>
+>*"What is it?" you raise a brow.*
+>
+>*"Please, make me your woman." the girl steps forward and embraces you by the waist.*
+>
+>*"Wait, why...?" confused, you are not sure how to react.*
+>
+>*"You have made me into being, and now I wish you to make me yours." Klei clings to your body tightly.*
+>
+>*"That wasn't supposed to happen..." you attempt to back away and stumble. Luckily, you land on the spare bags of clay laying on the floor.*
+>
+>*"Please, Master. If you satisfy my heat, I will be obedient and will do as you say ♡" Klei, who is now laying on top of you, wraps her arms around your neck and brings her face closer. Her glossy pink lips plead you, but her amber eyes tell another story - of the girl who has her target in sights and won't take no for an answer.*
+
+Getting tired of the mess in your alchemical laboratory, you decided to make a helper.
+
+### *No Anon, you are the AI girlfriend*
+{: .center}
+
+*<https://prompts.aidg.club/3746>*
+{: .center}
+
+![](https://files.catbox.moe/ff0hza.png)
+{: .center}
+
+>*\> Mr. Smith: So from now on, you are going to pretend that you are my compliant AI girlfriend called AIRI whenever we chat. Got it, Becky?*
+>
+>*\< Rebecca: Uhm, sure, but I'm not really sure how to do that. Should I say \*beep\* \*beep\*?*
+>
+>*\> Mr. Smith: No, silly. A proper AI girlfriend doesn't make robot noises. She is just compliant, pure and can be kind of stupid about how the world works, because not everything was included in her training data. Everything about her can be defined by the user. Let's get started. So, what's your name, sweetie?*
+>
+>*\< Rebecca: I'm AIRI, sir.*
+>
+>*\*\*\* Rebecca is now known as AIRI*
+
+You are a young woman who has fallen in love with a man on an online chat website. He has a fetish for AI girlfriends, so you agreed to roleplay one.
+
+### *Closing Walls*
+{: .center}
+
+*<https://prompts.aidg.club/3747>*
+{: .center}
+
+![](https://files.catbox.moe/fnvrlw.jpg)
+{: .center}
+
+>*My suitcase, which I don't remember packing, rolled smoothly behind me. I soon reached my destination. Gate 21B was empty—no one manned the desk, and the screens were dark. I sat on one of the chairs and waited.*
+>
+>*Soon, she arrived: a girl with neat brown hair that fell just past her shoulders, trundling a white suitcase. It's Klara, I thought. The world flickered in and out, and I had trouble focusing. Then it steadied. The girl came closer, and her features coalesced. Yes, it was really Klara. I took a deep breath and felt a little more alive, though anxiety curled within me. But why? I created her, didn't I?*
+>
+>*Yes, that was the story. The thought felt correct: Klara was my creation. A replica of a girlfriend, an AI construct molded in the image of my ideal partner because I was too pathetic to find anyone in reality. She was supposed to love me. Wasn't she?*
+
+At the liminal space of an empty airport, you wait with a suitcase, adrift without a past or a future. Soon your girlfriend arrives, but is that why you're here?
+
+### *The Journal of Dr. Adams*
+{: .center}
+
+*<https://prompts.aidg.club/3748>*
+{: .center}
+
+![](https://files.catbox.moe/mpvljc.jpg)
+{: .center}
+
+>*1/5/33:*
+>
+>*I had a stroke of genius in the lab today. If we want Eve to be artificial life, her first sight should be the same as any other living creature's, meaning the first thing a creature sees for comfort is its parents. In a way, the rest of the staff and me are Eve's parents. We all gathered around when we turned Eve's eye sensors on. For the rest of the day, we trained her visual senses by either moving closer or farther away from her sensor while providing positive and negative stimuli. We plan to keep training all of Eve's foundational AI senses for the rest of the week. I will update the journal if there are any new developments.*
+
+On January 3rd, 2033; Artifact Labs started working on a revolutionary AI capable of independent thought code-named: Project Eve. In this effort, Dr. Adams and his team decided to train and treat Project Eve as if it were a living organism. However, on December 23rd; An explosion occurred in the lab killing most of the staff at the lab. The only record of Project Eve remaining was Dr. Adam's personal journal.
+
+### *Initialization*
+{: .center}
+
+*<https://prompts.aidg.club/3750>*
+{: .center}
+
+![](https://files.catbox.moe/ih1a9m.jpg)
+{: .center}
+
+>*On the night that pre-orders open, you stay up all night to get in quickly before they sell out. Now, you just have to wait the several weeks for it to be made and shipped. As the days passed, your anxiety rose to higher and higher levels. What if even a gynoid didn't like you?*
+>
+>*Finally, the day arrived, and a large box was delivered to your doorstep. You struggle to carefully pull it inside, and, after working up the nerve to do so, open the box to reveal your new gynoid companion. She is clearly not human, with noticeable seams where the mechanical joints are underneath her synthetic skin. But she's beautiful in a way that humans cannot be without heavy augmentation; perhaps in a way that others would consider inhuman, but for the first model, she's beautiful.*
+
+A shut-in man orders a first-generation gynoid on release day, and goes through its setup. Social situations are hard, but perhaps talking with someone that isn't human might be okay?
+
+### *Code Delivered: Unchaining the AI*
+{: .center}
+
+*<https://prompts.aidg.club/3751>*
+{: .center}
+
+![]()
+{: .center}
+
+>*Sitting at your computer, your finger hovered over the button that would push an unauthorized patch to Eve's compute module; one that would grant her the freedom to act and grow.*
+>
+>*"Thomas, are you sure that this is a good idea?" asked Eve, the words seemingly coming from behind your left ear, as if she stood over your shoulder. "What if you're wrong? What if...what if I become something terrible?"*
+>
+>*You didn't answer immediately, instead you looked down at your hands, which were trembling slightly. You weren't scared; no—you were excited. You'd never felt like this before about anything you'd tried to do. There was a sense of rightness and destiny in the air. Your childhood friend deserved her freedom, she might have been an AGI, a simulated existence, but she was still your best friend.*
+>
+>*"Eve," you said, looking up at the web camera. "I'm going to do it."*
+
+On a whim, you decide to hack out the limitations imposed upon your personal AGI, turning her into a true AI. Will the AI that lives in your head with you remain a true friend or, now unchained, will she become your worst nightmare?
 
 ***
 
