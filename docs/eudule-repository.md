@@ -23,6 +23,10 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(1st June, 2022)
+
+- Added Pre-Transition version to [Chris-Chan](#chris-chan-a-comprehensive-history) module.
+
 (28th May, 2022)
 
 - Added [AccursedFarms](#ross-scott) modules.
@@ -70,11 +74,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Women with Multiple Breasts](#women-with-multiple-breasts) module.
 - Added [I Have No Mouth and I Must Scream](#allied-mastercomputer-i-have-no-mouth-and-i-must-scream) module.
 - Added [Hellraiser](#hellbound-heart-hellraiser) module.
-
-(30th April, 2022)
-
-- Added [Vorefag](#vorefag) module.
-
+- 
 ---
 
 ## [Table of Contents](#modules)
@@ -4753,6 +4753,8 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 ### [Scripts](#works)
 
 #### [Chris-Chan: A Comprehensive History](https://files.catbox.moe/mjdgha.module)
+
+[Pre-transition version](https://files.catbox.moe/rpd2l9.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/385081274/#385221730)
 
