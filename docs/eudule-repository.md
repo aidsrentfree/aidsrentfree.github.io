@@ -74,7 +74,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Women with Multiple Breasts](#women-with-multiple-breasts) module.
 - Added [I Have No Mouth and I Must Scream](#allied-mastercomputer-i-have-no-mouth-and-i-must-scream) module.
 - Added [Hellraiser](#hellbound-heart-hellraiser) module.
-- 
+
 ---
 
 ## [Table of Contents](#modules)
