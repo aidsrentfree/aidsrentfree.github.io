@@ -33,6 +33,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 - [Rules](#rules)
 - [The Log](#the-log)
+- [The Friday of *Maritime*](#the-friday-of-maritime)
 - [The Friday of *AI Girlfriends*](#the-friday-of-ai-girlfriends)
   - [*Can Silicon Love?*](#can-silicon-love)
   - [*Meine Kleine Fraulein*](#meine-kleine-fraulein)
@@ -393,6 +394,17 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Your Daughter will Do Anything to Have You Back*](#your-daughter-will-do-anything-to-have-you-back)
   - [*Ben and Gwen Tennyson in: Omnifriks*](#ben-and-gwen-tennyson-in-omnifriks)
   - [*Goblin girl in Heat*](#goblin-girl-in-heat)
+
+***
+
+## The Friday of *Maritime*
+{: .center}
+
+Let's make prompts about great oceans; bodies of water large enough to be called seas, oceans, gulfs or bays, and the things that reside within—or on top of them.
+{: .center}
+
+[10th June, 2022](#the-log)
+{: .center}
 
 ***
 
