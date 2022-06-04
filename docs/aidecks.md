@@ -52,6 +52,12 @@ Probably! This is a brand new event after all. If something isn't working, be su
 	- [Where will the decks be stored?](#where-will-the-decks-be-stored)
 	- [Is any of this subject to change?](#is-any-of-this-subject-to-change)
 	- [Who asked for this?](#who-asked-for-this)
+- [**Agency for Investigation and Detainment of the Supernatural**](#agency-for-investigation-and-detainment-of-the-supernatural)
+	- [*The Agents*](#the-agents)
+	- [*The Paranormal*](#the-paranormal)
+	- [*The Location*](#the-location)
+	- [*The Equipment*](#the-equipment)
+	- [*The Twist*](#the-twist)
 - [**Heists**](#heists)
 	- [**The Clientele**](#the-clientele)
 	- [**The Joint**](#the-joint)
@@ -73,10 +79,53 @@ Probably! This is a brand new event after all. If something isn't working, be su
 - [**Starship Exploration Vessel**](#starship-exploration-vessel)
 	- [**The Ship**](#the-ship)
 	- [**The Personnel**](#the-personnel)
-	- [**The Equipment**](#the-equipment)
+	- [**The Equipment**](#the-equipment-1)
 	- [**Other Ships**](#other-ships)
 	- [**Space Phenomena**](#space-phenomena)
 	- [**Lifeforms**](#lifeforms)
+
+***
+
+## **Agency for Investigation and Detainment of the Supernatural**
+{: .center}
+
+*Strange beings lurk in the shadows, unknown to the general public. A secret network of operatives known as AIDS (Agency for Investigation and Detainment of the Supernatural) studies and catalogues these many paranormal phenomena. It doesn't matter whether it's ghosts, vampires or aliens, the agency will handle them all—the truth is out there.*
+{: .center}
+
+### *The Agents*
+{: .center}
+
+The suit and tie is optional.
+{: .center}
+
+
+### *The Paranormal*
+{: .center}
+
+*Spooky monsters and scary cryptids.*
+{: .center}
+
+
+### *The Location*
+{: .center}
+
+*Places where strange events were spotted.*
+{: .center}
+
+
+### *The Equipment*
+{: .center}
+
+*Special weapons and gear.*
+{: .center}
+
+
+### *The Twist*
+{: .center}
+
+*When dealing with the paranormal, things aren't always as they seem.*
+{: .center}
+
 
 ***
 ## **Heists**
