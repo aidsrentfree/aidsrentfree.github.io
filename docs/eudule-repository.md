@@ -23,6 +23,10 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(5th June, 2022)
+
+- Added [Dragon Age](#dragon-age) modules.
+
 (1st June, 2022)
 
 - Added Pre-Transition version to [Chris-Chan](#chris-chan-a-comprehensive-history) module.
@@ -67,13 +71,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [The Ninth Doctor](#9th-doctor-transcripts) module.
 - Added [Deng Xiaoping](#deng-xiaoping) module.
 - Added [Submachine Universe](#submachine-universe) module.
-
-(5th May, 2022)
-
-- Added 105% coverage version to [Young Girl's Handbook](#young-girls-handbook-of-good-manners-for-use-in-educational-establishments) module.
-- Added [Women with Multiple Breasts](#women-with-multiple-breasts) module.
-- Added [I Have No Mouth and I Must Scream](#allied-mastercomputer-i-have-no-mouth-and-i-must-scream) module.
-- Added [Hellraiser](#hellbound-heart-hellraiser) module.
 
 ---
 
@@ -127,6 +124,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Alien](#alien)
       - [Ancient Egypt](#ancient-egypt)
       - [Beastars](#beastars)
+      - [Dragon Age](#dragon-age)
       - [DOOM](#doom)
       - [The Elder Scrolls (In-Game Texts)](#the-elder-scrolls-in-game-texts)
       - [Fallout: Equestria](#fallout-equestria)
@@ -888,6 +886,28 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 [by Anon](https://arch.b4k.co/vg/thread/371544232/#371575535)
 
 *Beastars module trained at 3000 steps.*
+
+##### [Dragon Age](https://files.catbox.moe/y05v1c.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/386718207/#386823847)
+
+[51% coverage version](https://files.catbox.moe/9xp7vg.module)
+
+[75% coverage version](https://files.catbox.moe/6y4w7f.module)
+
+*I trained two Dragon Age modules for Euterpe, the first at 51% and the second at 75%.*
+
+*Sources: The novels The Stolen Throne, The Calling, Asunder, The Masked Empire and Last Flight. Also included the short story anthology Tevinter Nights.*
+
+*1. (4.02mb, 2382 steps, 51%, Average Loss 2.59)*
+
+*2. (4.02mb, 3503 steps, 75%)*
+
+*3. (4.02mb, 100%, average loss 2.58)*
+
+*I don't have the loss for the 75% version, sorry.*
+
+*Tags: Dark fantasy, fiction, dragons, novels, short stories*
 
 ##### [DOOM](https://files.catbox.moe/nuoulw.module)
 
