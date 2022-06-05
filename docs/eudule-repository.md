@@ -377,7 +377,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 ---
 
 ## Modules
-
 {: .center}
 
 - [Table of Contents](#table-of-contents) - *Complete outline of all modules.*
@@ -389,7 +388,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 ---
 
 ## [Authors](#modules)
-
 {: .center}
 
 - [Traditional](#traditional) - *Authors whose works have been published by an established publishing house.*
@@ -802,7 +800,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 ---
 
 ## [Themes](#modules)
-
 {: .center}
 
 - [Setting](#setting) - *The module encompasses an entire environment.*
@@ -3841,7 +3838,6 @@ Here is the Euterpe edition of the TGTF Gender Bender module. Focuses on MtF fan
 *Gay third person WWE module. Why? Because why not. There's probably a lot of John Cena in it.*
 
 ## [Works](#modules)
-
 {: .center}
 
 - [Fiction](#fiction) - *In this context, a catch-all term for predominantly Western literature that has been published.*
@@ -5098,7 +5094,6 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 *In celebration of the Ultra Deluxe release, here's a Stanley Parable module that's lacking anything in the Ultra Deluxe release.*
 
 ## [Utilities](#modules)
-
 {: .center}
 
 ### [/aids/](https://files.catbox.moe/dcdapw.module)
