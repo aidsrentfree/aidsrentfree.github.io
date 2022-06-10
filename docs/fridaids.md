@@ -34,6 +34,15 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 - [Rules](#rules)
 - [The Log](#the-log)
 - [The Friday of *Maritime*](#the-friday-of-maritime)
+  - [*Suckers for Love*](#suckers-for-love)
+  - [*/aids/ on the High Seas!*](#aids-on-the-high-seas)
+  - [*Dread Pirate Gloria's Extravagant Wedding Feast*](#dread-pirate-glorias-extravagant-wedding-feast)
+  - [*The Rusalka*](#the-rusalka)
+  - [*A Knightly Rescue*](#a-knightly-rescue)
+  - [*Beachy Revelations*](#beachy-revelations)
+  - [*Seaside Seduction*](#seaside-seduction)
+  - [*Living off the land... or sea, I guess*](#living-off-the-land-or-sea-i-guess)
+  - [*Piracy and a show*](#piracy-and-a-show)
 - [The Friday of *AI Girlfriends*](#the-friday-of-ai-girlfriends)
   - [*Can Silicon Love?*](#can-silicon-love)
   - [*Meine Kleine Fraulein*](#meine-kleine-fraulein)
@@ -405,6 +414,174 @@ Let's make prompts about great oceans; bodies of water large enough to be called
 
 [10th June, 2022](#the-log)
 {: .center}
+
+### *Suckers for Love*
+{: .center}
+
+*<https://prompts.aidg.club/3812>*
+{: .center}
+
+![](https://files.catbox.moe/3jr4i5.png)
+{: .center}
+
+>*My heart is pounding like a jackhammer as tentacles burst up from the depths in a grotesque display; they're uncoordinated, thrashing around like mad, trying to get a grip on anything they can find. One after another, the tentacles find their way onto the edge of my boat; their suction cups latch on tight—so tight that the wood starts to crack and splinter under the pressure.*
+>
+>*Through the murky water I can see the beast, a large squid-like monster; its deep, orange skin looks like rubber, and there doesn't seem to be a soul behind its eyes, just a being that's working on primal urges.*
+>
+>*Then, with one final tug, the hull of my boat is torn asunder—and with it goes any chance making it out of here in one piece. As I try to keep from going down with my quickly sinking vessel, the squid's appendages inch closer to me. The creature doesn't want my boat—it wants me!*
+
+Debeaked or not, giant monster squids need a little playtime too—even if it means taking it by force from innocent fishermen.
+
+### */aids/ on the High Seas!*
+{: .center}
+
+*<https://prompts.aidg.club/3834>*
+{: .center}
+
+![](https://files.catbox.moe/sighmz.png)
+{: .center}
+
+>*"Cap'n Baker?" I asked him quietly.*
+>
+>*"Ye? What is it, lad? Getting sea legs already?" he replied, looking down at me with a smile on his face.*
+>
+>*"Why does Spain only send animal girls to man their ships?" I asked.*
+>
+>*"Mmmm… Well, ye see, lad," Captain Baker began, leaning toward me conspiratorially. "Spain's overflowing with animal girls. They breed too much, the country can't afford to feed them all. So they've started filling all the cruddy jobs, sailor positions, and such." He gave me a wink. "But to horny pirates such as our little band here, they just look like tasty treats!"*
+>
+>*He chuckled at his own joke.*
+>
+>*"Are we going to not only take their treasure, but also the women?" I asked.*
+>
+>*"Aye! That's the plan," he answered with a grin. "A double victory. But most of all, it makes for good writin' material. We're all gonna be postin' stories about this voyage when we get back home."*
+>
+>*"So this entire boat is full of writers? It's not just me?" I asked.*
+>
+>*"Aye! Every member o' our crew has a pen in 'is hand or purse," Captain Baker said proudly. "We pillage women, grab treasure, and write about it all!"*
+
+I've been feeling very wholesome as of recent so sorry respect kings, here's a story about learning how to plunder booty and find true love at the same time, with the support of a very friendly (and hmm, recognizable? Do I know this fellow??) captain.
+
+### *Dread Pirate Gloria's Extravagant Wedding Feast*
+{: .center}
+
+*<https://prompts.aidg.club/3836>*
+{: .center}
+
+![](https://files.catbox.moe/3fzncj.png)
+{: .center}
+
+>*The heated pirate queen watched every moment unfold before her with rapt attention, her eyes glued to the feminine silhouettes slowly rippling down the scaly length of Sausage's long body. She could see the way the snake's coiling muscles bulged and flexed around the struggling elf maidens, which were now completely enveloped by his slick, slimy flesh. As the serpent continued swallowing the last of his prey, Gloria noticed a pair of bronze-colored, slender hands despairingly gripping the edges of the serpent's slobbery cheeks. They belonged to the smallest of the three victims, who still wasn't entirely down Sausage's gullet.*
+>
+>*Gloria leaned in close to Renard's ear again, whispering sultrily, "Look at that, lad. See how those uncalloused hands are still tryin' ta cling on? That be the most erotic sight I've seen in a dog's age!"*
+
+A concise story about a fantastical pirate voyage, filled with tense combat and exciting new experiences with a fluffy fox woman.
+
+### *The Rusalka*
+{: .center}
+
+*<https://prompts.aidg.club/3833>*
+{: .center}
+
+![](https://files.catbox.moe/yh2h8z.jpg)
+{: .center}
+
+>*"Oh, how darling you are!" said the creature. "So very handsome! Such lovely features!" Her lithe hands felt my face in fascination, mapping the curve of my cheeks, the soft swell of my lips. Enamored coos spilled forth from her mouth and she pressed herself against my chest as if she sought to mold herself to my body. "And so warm, so alive!"*
+>
+>*Struggling fiercely against her grip, I surfaced enough to draw a great, heaving breath of air. The lake shore seemed so distant, my muscles burning as I fought to swim free. "Wh-what's happening? What the hell are you?" I spluttered, struggling to keep my head above water.*
+>
+>*"Lonely," the creature crooned, rubbing her cheek against mine. It was cold and clammy, seeming to sap the warmth from my skin with its touch. "I've been so lonely, ever since I died and was left to haunt this lake in solitude. All my love and care was nothing compared to his new lover's wealth — I was only a poor farmer's daughter, and could not give him the riches she could offer. And so, my beloved husband drowned me and married his lover." Dark, wide eyes gazed up through a mess of waterlogged hair, a mournful cry escaping her throat.*
+
+While on a walk through the woods, you encounter a lake — and the strange being that inhabits it. Though the rusalka's body is long since cold, her ghostly heart still yearns for love.
+
+### *A Knightly Rescue*
+{: .center}
+
+*<https://prompts.aidg.club/3837>*
+{: .center}
+
+![](https://files.catbox.moe/gslxaj.png)
+{: .center}
+
+>*A woman! But this was no ordinary woman — green scales caught the light, their metallic luster glittering like emeralds in the midday sun; her long hair billowed around her in the water in great luxuriant waves. Her features were proud and regal, heavy lashes framing a pair of bright amber eyes with thin pupils. She wore a cuirass, an odd sight on such a slim frame, but seemed to carry its weight effortlessly. I couldn't help but look further down, and what I saw only amazed me further. Beneath the strange woman's waist lay a long, green-scaled mermaid tail, fins trailing behind as she swam through the waters.*
+>
+>*The mermaid drew herself up to her full height in the water. "I am Lady Sereia, noble zitiron of the merfolk who dwell in these seas," she spoke, voice stately. "Fear not, land-walker, for I shall aid you."*
+
+After a shipwreck strands you in the open sea, a mermaid knight takes it upon herself to help you.
+
+### *Beachy Revelations*
+{: .center}
+
+*<https://prompts.aidg.club/3838>*
+{: .center}
+
+![](https://files.catbox.moe/jqv98n.png)
+{: .center}
+
+>*For once, there's a bit of confusion on Andrew's face. "Bro, I swear, those guys on the Internet said this shit was guaranteed. I don't get it..." he trails off as he begins to look around.*
+>
+>*However, as he looks around, I find my eyes drawn to his naked body... and god damn, he looks good like that, all dripping wet and slick with water. He keeps in shape for sure, and his body shows the results. Trim and athletic... wait, what am I thinking? I'm not into dudes, right? But then, why am I hard right now? The cold water of the ocean should've dealt with that, right? And just as I find myself lost in thought, he turns to face me again, and of course he spots my erection right away, leading to him chuckling. "Heh, you like, bro? What, you gay or somethin'? I mean, I know I got a hot bod, but c'mon," he says, a smug grin plastered all across his face.*
+>
+>*While I find myself blushing from the sheer embarrassment, I can't help but notice... he's hard too! There's no way he can deny that, he's just as rock hard as I am! And so I can't help but confront him with it. "Hey, what about you, huh? If I'm so gay, what does that make you?" I throw back, and the moment Andrew looks down at himself, the smug grin disappears and he goes bright red.*
+
+For some reason, my friend decided that the new hotness for spring break is to not go anywhere at all, that that was what all the cool, hot chicks were doing. This leaves the two of us at a deserted nude beach, with him insisting that this was going to work. But as the two of us head out of the water, all wet and glistening, we have ourselves a moment of our own...
+
+### *Seaside Seduction*
+{: .center}
+
+*<https://prompts.aidg.club/3839>*
+{: .center}
+
+![](https://files.catbox.moe/b6hpfk.png)
+{: .center}
+
+>*As far as I'm concerned, I'm a bit in the middle right now. Not particularly hunting or anything like that, but wouldn't say no if somebody attractive were to show up and ask. Or at least that's what I thought when I first entered the place, because when I take a look around, I notice something unusual... or rather someone unusual. Sure, at first, one might miss the somewhat unassuming-looking fox sitting all by himself at a table in the corner, but upon closer inspection, one will notice a few peculiar things about him. For one, he's not the type to be here. Too slim, too small. This is very much a worker type of tavern, not the kind that attracts people with the build of a lordling. Similarly, you can tell he's got a certain luster in his fur. Everybody else's fur is matte and unkempt from all the work because we don't have the time nor materials to really take care of it.*
+>
+>*Mind, he's doing a great job just blending in the background with his dark attire. This is a guy that's on the lookout for something, and he doesn't want to draw attention to himself while he's doing that. And if he's here of all places, he's looking for someone for some... nocturnal escapades. There's no other reason to be here, really. But then, our eyes meet from across the room. No words are said here. Silently, his eyes narrow a bit, acknowledging me. His tail begins to swish just that little bit faster, that little bit more excited. A very slight smile creeping into his expression. God, why does he intrigue me so much?*
+
+After a hard day's work, there's nothing like a drink at the Leaky Tankard, and if you're lucky, a night together with one of the other patrons as well. But when a new guy that doesn't fit the dingy atmosphere shows up, I find myself quickly captivated. And when he brings me to an absolutely majestic ship, I can only wonder... who the hell is this guy?
+
+### *Living off the land... or sea, I guess*
+{: .center}
+
+*<https://prompts.aidg.club/3841>*
+{: .center}
+
+![](https://files.catbox.moe/2n78eg.jpg)
+{: .center}
+
+>*She lies on the deck in a bit of a confused state, breathing quickly from her struggle against you.*
+>
+>*"What do you think you're doing eating my doughnut?" you look at her, faking anger.*
+>
+>*"I... I didn't know it was yours." she tries to defend herself.*
+>
+>*"Well, it was, and now you ate it. You are in a lot of trouble, young lady!" you reprimand her.*
+>
+>*"I am sorry! I didn't mean to..." the girl tries to scoot backwards.*
+>
+>*"Well, you better think on how you can make it up to me, and quickly." you tell her sternly.*
+
+The sea can provide everything a healthy young man may need.
+
+### *Piracy and a show*
+{: .center}
+
+*<https://prompts.aidg.club/3835>*
+{: .center}
+
+![](https://files.catbox.moe/iyio3l.jpg)
+{: .center}
+
+>*"I weren't kiddin' about sharin' me loot, ye know," the pantheress grumbled, glaring at the dolphin who'd bound her. "What kind o' bounty hunters won't even take a bribe?"*
+>
+>*"I think we have plenty of plunder right here," a female dolphin said from behind the feline, taking hold of her coat and rolling it down her shoulders. "Why don't you show us all what you've got underneath those clothes?"*
+>
+>*The black panther's ears flattened as the dolphin began to tug away at her jacket until it was off her body and trapped at her wrists by the rope. "Oi, getcher paws off me ye scrawny virgin!" Blackpaw snapped, squirming about in protest. "I could puke into yer mother's distended cunt an' sire a better lay than ye!"*
+>
+>*Pausing in disgust, the dolphin arched her brow at the pirate. "Ew. Can we gag her or something?"*
+
+Dolphin bounty hunters get the better of Captain Blackpaw and her crew finds themselves enjoying the spectacle.
+
 
 ***
 
