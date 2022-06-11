@@ -98,7 +98,6 @@ Probably! This is a brand new event after all. If something isn't working, be su
 *The suit and tie is optional.*
 {: .center}
 
-
 ### **The Paranormal**
 {: .center}
 
@@ -108,7 +107,7 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | Card | Name | Description | Post |
 |---|:---:|:---:|:---:|
 | ![Card](https://files.catbox.moe/z5848e.png) | Sunshine Lovebeam | So much love it burns. | [>>386971626](https://arch.b4k.co/vg/thread/386954092/#386971626) |
-| ![Card](https://i.4cdn.org/vg/1654469395319.png) | Frankenstein(s) | Terrifying super mutants. | [>>386980727](https://arch.b4k.co/vg/thread/386954092/#386980727) |
+| ![Card](https://files.catbox.moe/z3ozkx.png) | Frankenstein(s) | Terrifying super mutants. | [>>386980727](https://arch.b4k.co/vg/thread/386954092/#386980727) |
 | ![Card](https://files.catbox.moe/vy9w4n.png) | Sobek | A renekton of trouble. | [>>386990696](https://arch.b4k.co/vg/thread/386954092/#386990696) |
 
 ### **The Location**
@@ -120,7 +119,6 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | Card | Name | Description | Post |
 |---|:---:|:---:|:---:|
 | ![Card](https://files.catbox.moe/44jg4p.png) | Revenant | Pirates of the Mausoleum. | [>>386960591](https://arch.b4k.co/vg/thread/386954092/#386960591) |
-
 
 ### **The Equipment**
 {: .center}
