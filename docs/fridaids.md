@@ -43,6 +43,10 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Seaside Seduction*](#seaside-seduction)
   - [*Living off the land... or sea, I guess*](#living-off-the-land-or-sea-i-guess)
   - [*Piracy and a show*](#piracy-and-a-show)
+  - [*The Serpent Goddess*](#the-serpent-goddess)
+  - [*Blastin' Bastards: A Sea-Punk Pirate's Tale*](#blastin-bastards-a-sea-punk-pirates-tale)
+  - [*A Chance Encounter With A Grumpy Sailor*](#a-chance-encounter-with-a-grumpy-sailor)
+  - [*Discovering Atlantis*](#discovering-atlantis)
 - [The Friday of *AI Girlfriends*](#the-friday-of-ai-girlfriends)
   - [*Can Silicon Love?*](#can-silicon-love)
   - [*Meine Kleine Fraulein*](#meine-kleine-fraulein)
@@ -582,6 +586,87 @@ The sea can provide everything a healthy young man may need.
 
 Dolphin bounty hunters get the better of Captain Blackpaw and her crew finds themselves enjoying the spectacle.
 
+### *The Serpent Goddess*
+{: .center}
+
+*<https://prompts.aidg.club/3844>*
+{: .center}
+
+![](https://files.catbox.moe/5nnhqo.png)
+{: .center}
+
+>*"You are a fine ssspecimen, my sssweet," she said in a sibilant voice that made his skin crawl. "I am ssso glad you were chosssen."*
+>
+>*She came ashore and dragged herself onto the beach, slithering toward him. Her scales were the green of new spring foliage, and her body was long and supple, moving sinuously over the sand. She wrapped itself around him, piling plump, chubby coils upon his trembling form until he was completely covered by her bulk. His face pressed against her smooth underbelly as she held him tightly. He could hear her heart beating steadily behind the wall of muscle and fat that surrounded him.*
+>
+>*"Do not be afraid, sssweetling," she whispered into his ear. "I am a benevolant goddesss. I will take good care of you."*
+
+A young man was chosen as a sacrifice for a serpentine sea goddess.
+His fate is less dire than expected.
+
+### *Blastin' Bastards: A Sea-Punk Pirate's Tale*
+{: .center}
+
+*<https://prompts.aidg.club/3845>*
+{: .center}
+
+![](https://files.catbox.moe/7im311.jpg)
+{: .center}
+
+>*We collectively raced toward the ship with motors screaming and an occasional burst of lead towards the sky; the huge ship was almost upon us. Our boats rode over surges with an grace unbefitting their age and disrepair, as if the old rust buckets shared our passion and fury. Mudskipper and I's turbo-boat was among the first to reach the ship, so we left the others to catch up; I worked at our scrapper's grapple caster, finalizing a few key adjustments to the device's automated boarding system. By an act of some forsaken God, the boarding device blinked online.*
+>
+>*The crew inside must have seen us approaching; lights blinked along the superstructure and something large and bulky loomed out from the darkness above our deck. We heard gunfire over our roar as the big guns opened fire on our boat.*
+>
+>*My boat-brother hunkered down behind the scrap-armor paneling of our boat, occasionally retaliating with a few potshots. "Hurry, ya scutter!" Mudskip growled, his words slurring into a confused mumble as he cowered, "I'm stayin' here."*
+>
+>*I fired off one last round before giving a nod and grappling my way up the side of the mega-ship's hull, soon accompanied by my lagging crewmates; it was an absolute melee. We knew These mega-ships were their own self contained cities. They needed to be. Hundreds, sometimes thousands of people lived upon these enormous vessels, which despite their technologically advanced systems were just as in need of repair as anything else. Lord only knew how many of these cradles of humanity remained, and we'd pilfer em' all, given the chance.*
+
+We're raiding a biggun boys! Load your gats, grease your motors and let's take the high seas! A futuristic tale of post-apocalyptic swashbuckling, [and sea-shanty shenanigans.]
+
+### *A Chance Encounter With A Grumpy Sailor*
+{: .center}
+
+*<https://prompts.aidg.club/3846>*
+{: .center}
+
+>*"What are you looking at?" she asks gruffly; her voice is low but has an edge to it like a blade. She doesn't sound angry or aggressive so much as simply annoyed with me for being there. This girl clearly isn't used to people paying attention to her.*
+>
+>*"I was wondering who you were," is my response. "I don't think we've met."*
+>
+>*"Ohana Itachizame," she replies curtly. "And if you're going to stare at me then you better have a good reason—I don't take kindly to stalkers."*
+>
+>*"I'm not stalking you; just admiring your beauty from afar," is my reply. Ohana's face turns surprised for a brief moment before turning into a scowl once again.*
+>
+>*"What's so special about me?" she asks with obvious annoyance.*
+>
+>*"You're pretty and you seem interesting, plus, you aren't afraid to speak your mind," I answer honestly. Ohana's eyebrows rise in surprise and her mouth opens slightly in shock—then she laughs, a short burst of amusement escaping her lips before she shakes her head and sighs heavily.*
+>
+>*"Sit with me and I'll buy you a drink?" I offer, attempting a charming smile. Ohana smirks; the corners of her lips curl upwards—her cheeks dimple ever so slightly as well.*
+
+As a civilian out on a pub crawl, you meet Ohana Itachizame—a rough and rude sailor out for the night before she ships out to sea tomorrow.
+
+### *Discovering Atlantis*
+{: .center}
+
+*<https://prompts.aidg.club/3849>*
+{: .center}
+
+![](https://files.catbox.moe/vvwvi4.jpg)
+{: .center}
+
+>*Into the room enters a large shark, its scaleless pale body seems to glow in the light. You cry out in shock causing a rush of bubbles from your mouth, pushing yourself up against the back of the bed and pulling your legs in you look around in a panic to find something to use as a weapon.*
+>
+>*With nothing useful nearby you look back at the creature you and see now that though the lower half of the body consists of a powerful looking tail with fins, the upper half is definitely not that of a fish or any aquatic mammal you have seen before. The upper body is slimmer than the lower, and humanoid in appearance but with four arms, each ending with a slender webbed hand.*
+>
+>*There are large, vivid blue eyes on the head, a small lipless mouth, and nostrils on the flat face but no apparent nose. On the back of the head is a large, pale blue fin leading down from the crown of the creature's head, and you see pinkish gills in the neck, pulsing with each breath.*
+>
+>*With a flick of its large tail, it moves towards you, you see no way around it to the door and are both in no state to swim and clearly would be outmatched.*
+>
+>*It stops at the foot of the bed, and raises its four hands, palms facing you. There's an odd feeling in your head, and a brief moment of disorientation, like the period between being awake and falling asleep, but it passes quickly.*
+>
+>*"Do not be afraid, I mean you no harm"*
+
+You crash land on an ocean world, encountering an alien race and discovering a world unlike anything you've seen before.
 
 ***
 
