@@ -25,7 +25,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 (14th June, 2022)
 
-- Added [Sea Shanties]() module.
+- Added [Sea Shanties](#sea-shanties) module.
 
 (5th June, 2022)
 
