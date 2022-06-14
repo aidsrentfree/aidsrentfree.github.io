@@ -23,6 +23,10 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(14th June, 2022)
+
+- Added [Sea Shanties]() module.
+
 (5th June, 2022)
 
 - Added [Dragon Age](#dragon-age) modules.
@@ -60,17 +64,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Andy Weir](#andy-weir) module.
 - Added [Magic: The Gathering](#magic-the-gathering) module.
 - Added [Tas_Tan](#tas_tan) module.
-
-(10th May, 2022)
-
-- Added [The Simpsons Episode Generator](#the-simpsons-episode-generator) module.
-- Added [Leviathan or The Matter, Forme and Power of a Commonwealth Ecclesiasticall and Civil](#leviathan-or-the-matter-forme-and-power-of-a-commonwealth-ecclesiasticall-and-civil) module.
-- Added [Stephen King's Christine](#christine) module.
-- Added [Death Note: Another Note: The Los Angeles BB Murder Cases](#death-note-another-note-the-los-angeles-bb-murder-cases) module.
-- Added [The Stanley Parable](#the-stanley-parable) module.
-- Added [The Ninth Doctor](#9th-doctor-transcripts) module.
-- Added [Deng Xiaoping](#deng-xiaoping) module.
-- Added [Submachine Universe](#submachine-universe) module.
 
 ---
 
@@ -187,6 +180,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Magical Girls - Romance](#magical-girls---romance)
       - [Male Prisons](#male-prisons)
       - [Melee Combat](#melee-combat)
+      - [Sea Shanties](#sea-shanties)
       - [Wildlife](#wildlife)
       - [Deng Xiaoping](#deng-xiaoping)
       - [Yinglets](#yinglets)
@@ -2317,6 +2311,12 @@ Title: The Woodcutter | Author: R. O. Lane | Genre: Western
 - Watership Down (Bigwig Stands his Ground)
 
 ***Tags:** Action, Combat, Fight Scenes, Melee, War, Description, Utility*
+
+##### [Sea Shanties](https://files.catbox.moe/hmliwa.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/387483506/#387548171)
+
+*Trained on traditional and modern sea shanties*
 
 ##### [Wildlife](https://files.catbox.moe/v56pdh.module)
 
