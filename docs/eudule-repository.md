@@ -23,6 +23,10 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(26th June, 2022)
+
+- Added [Jordan Peterson](#jordan-peterson) module.
+
 (14th June, 2022)
 
 - Added [Sea Shanties](#sea-shanties) module.
@@ -57,14 +61,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - Added [Chris-Chan: A Comprehensive History](#chris-chan-a-comprehensive-history) module.
 - Added [Cormac McCarthy (No Country for Old Men, Blood Meridian, etc.)](#cormac-mccarthy) module.
 
-(18th May, 2022)
-
-- Added [Noir/Pulp Fiction](#noir) module.
-- Added [Mass Effect](#mass-effect) module.
-- Added [Andy Weir](#andy-weir) module.
-- Added [Magic: The Gathering](#magic-the-gathering) module.
-- Added [Tas_Tan](#tas_tan) module.
-
 ---
 
 ## [Table of Contents](#modules)
@@ -97,6 +93,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Will Wright](#will-wright)
   - [Intellectual](#intellectual)
     - [Antony Beevor](#antony-beevor)
+    - [Jordan Peterson](#jordan-peterson)
     - [Otis Eugene Ray](#otis-eugene-ray)
   - [Online](#online)
     - [Frocto](#frocto)
@@ -676,6 +673,15 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *Trained on Antony Beevor's WW2 Histories at 50% and 25%. Works include Ardennes, Arnhem, Stalingrad, The Battle for Spain, The Fall of Berlin and The Second World War. I made two hoping that 25% would be better for different settings but both seem to lean heavy on WW2 anyway. The style is highly detailed so outputs are often going to include names of specific units, generals, location, weapons, vehicles etc.*
 
 ***Tags:** 3rd Person War History, WW2*
+
+#### [Jordan Peterson](https://files.catbox.moe/o2f8a3.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/388743834/#388776186)
+
+A module for people that need to get in touch with their inner lobster. It shouldn't need to be said, but for God's sake though, please don't use it in place of actual therapy.
+
+![example](https://files.catbox.moe/gw38ls.jpg)
+{: .center}
 
 #### [Otis Eugene Ray](https://files.catbox.moe/oar7w8.module)
 
