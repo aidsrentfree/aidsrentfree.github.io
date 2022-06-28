@@ -33,6 +33,14 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 - [Rules](#rules)
 - [The Log](#the-log)
+- [The Friday of *Bizarre Contests and Game Shows*](#the-friday-of-bizarre-contests-and-game-shows)
+  - [*The Price is Bite*](#the-price-is-bite)
+  - [*LG Bladder Holding Contest*](#lg-bladder-holding-contest)
+  - [*Gecko Gambler Gallingly Gypped*](#gecko-gambler-gallingly-gypped)
+  - [*Adrenaline Rush*](#adrenaline-rush)
+  - [*God's Grace Granted*](#gods-grace-granted)
+  - [*CFA International Cat Girl Show*](#cfa-international-cat-girl-show)
+  - [*Title*](#title)
 - [The Friday of *Maritime*](#the-friday-of-maritime)
   - [*Suckers for Love*](#suckers-for-love)
   - [*/aids/ on the High Seas!*](#aids-on-the-high-seas)
@@ -407,6 +415,130 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Your Daughter will Do Anything to Have You Back*](#your-daughter-will-do-anything-to-have-you-back)
   - [*Ben and Gwen Tennyson in: Omnifriks*](#ben-and-gwen-tennyson-in-omnifriks)
   - [*Goblin girl in Heat*](#goblin-girl-in-heat)
+
+***
+
+## The Friday of *Bizarre Contests and Game Shows*
+{: .center}
+
+Let's make prompts about the rush of competition; the thrill of victory, defeat, and the struggle to stay in unusual games.
+{: .center}
+
+[24th June, 2022](#the-log)
+{: .center}
+
+### *The Price is Bite*
+{: .center}
+
+*<https://prompts.aidg.club/3898>*
+{: .center}
+
+![](https://files.catbox.moe/rel2d6.jpg)
+{: .center}
+
+>*With that, the curtain is ripped from my cage, and I can finally get a good look out into the studio. The lights are dimmed down-low, but even through the darkness, I can see the faces of the crowd and contestants. My heart skips a beat when I catch sight of the woman standing behind the booth; she's pale—almost unnaturally so—and dressed in a deep, black gown. In fact, everyone in the audience looks like a corpse as well. It's like a sea of funeral attendees are watching from the stands.*
+>
+>*The host steps out from his podium, and moves to stand in front of the cage where I'm being kept like a prize pig at a fair. "The prize that our contestants will be playing for tonight is a twenty-four year old college student that's majoring in biochemistry. As you can see, he's a healthy young man—not too tall, not too short—but most importantly, he's got plenty of O-Negative blood in his body. He isn't known to donate regularly—if at all—which means that he should have plenty of the stuff to spare." Looking back towards the contestants, the host continues, "Now, the question is: How much, exactly?"*
+>
+>*I try and rattle the bars open, but it's useless, the metal only digs into my arms and legs as I thrash around like a fish out of water. The cloth binding that's wrapped around my mouth is so tight that I can barely breathe—I can't even scream for help. It's not like anyone would help me, if I could, though.*
+>
+>*"Well, well, it looks like he's eager to play!"*
+
+A vampire game show? How whacky! Cum on down to the Price is Bite!
+
+### *LG Bladder Holding Contest*
+{: .center}
+
+*<https://prompts.aidg.club/3934>*
+{: .center}
+
+![](https://files.catbox.moe/82rbeb.jpg)
+{: .center}
+
+>*"And now," said the announcer, "it's time for the main event!" As he spoke, the lights dimmed, and a spotlight focused on center stage where two giant screens flickered to life showing the four contestants standing side by side, each wearing her crop top and tight-fitting jeans. The girls' faces were flushed with both embarrassment and excitement as they stood before their adoring fans. "Our four contestants today, are named..." he paused to read off their names from a piece of paper that had been handed to him moments earlier by his assistant, "...Abigail, Brooke, Emily, and Jenny." The crowd erupted into applause at the introduction of each girl, quieting down only after the announcer gestured with his hands.*
+>
+>*"Alright, ladies, you know the drill; our lovely staff will bring you each a glass of water every five minutes. If you fail to drink the water before the next cup arrives, or you wet yourself, you are DISQUALIFIED! And let me remind our viewers who weren't able to tune into the pre-show, that EACH of these beautiful darlings has already drank quite a bit of water, and is no doubt starting to feel the pressure!" As if to illustrate the announcer's point, Abigail shifted uncomfortably on her heels, crossing and uncrossing her legs before turning back to the camera. "So, without further ado, let us begin the thirteenth annual LG Bladder Holding Contest!" The crowd once again burst into raucous applause which died down naturally as the contestants made their way into position on stage.*
+
+Every year, four young girls are chosen from around the country to participate in a widely televised bladder holding competition. The girl who can outlast the others gets twenty thousand dollars in prize money, as well as the privilege of relieving herself in the contest's trophy.
+
+### *Gecko Gambler Gallingly Gypped*
+{: .center}
+
+*<https://prompts.aidg.club/3935>*
+{: .center}
+
+![](https://files.catbox.moe/hcmpqh.jpg)
+{: .center}
+
+>*"That's it ye wee scallywag, no regrets now, yer my squeezebox and I like me toys," Card Shark whispered down in a husky tone, as she provocatively slipped several digits into Ploy's scaly snatch. The gecko woman's twin tails curled anxious around her forceful lover's thick thighs, as Card Shark leaned down and began wantonly licking into the defeated gambler's reptilian ear hole. Ploy groaned out heatedly around the bigger woman's nipple, trying to wriggle away from Card Shark's probing fingers and invasive tongue.*
+>
+>*Before Ploy knew it, gravity shifted as she realized the big shark woman was carrying her off down the arena stage. The shocked lizard girl looked up at the domineering lesbian plaintively, not daring to stop suckling at her breast. Card Shark looked down, and intuitively answered, "Well now, considern' yer loss, I've no right ta deny the crowd yer march of shame, do I, lassie? I'm eagerer than horsespit to see what color the crowd be decidin' to paint yer shiny scales, me quiverin' dolly. And then, I'll get to introduce ye to all the rich gentlemen that paid so nice n' dearly to get a little peak and peck of ye, that'll be a sight t'see, I reckon." Ploy desperately clutched at Card Shark's chest, quaking from the lesbian's cruel taunting. Even as the shark woman carried her, she kept wantonly fingering the gecko's roused vent. Suddenly, the big shark woman heaved Ploy unceremoniously onto the dusty ground, her digits withdrawing from the gecko's sex with a little squelch. "Right then, get ta walkin', lucky girl. I'll be right behind ye."*
+
+When a gecko girl's dual tails enchants her life with supernatural luck, the feisty female sets out to win a high-stakes, strip poker tournament. But, will the seedy gambling hall's owner, the infamous Card Shark, allow the favored a fortune?
+
+### *Adrenaline Rush*
+{: .center}
+
+*<https://prompts.aidg.club/3937>*
+{: .center}
+
+![](https://files.catbox.moe/o6z1tl.jpg)
+{: .center}
+
+>*Ever since we were kids, she had a penchant for incredible recklessness. She was always careening headlong towards death, never looking back, never thinking twice about what might happen next. Her blue eyes were always turned towards some distant future, and the hunger in them made me nervous.*
+>
+>*And this was her chance, just as it was mine. One of us would take the win, and one of us would go home empty-handed.*
+>
+>*We waited there, an instant of eternity, till we heard the blow of the whistle that signaled the beginning.*
+>
+>*My heart kicked into high gear, adrenaline pumping through my veins. A split-second calculation flashed through me: I could try to beat Riley on pure speed, or impress the judges with acrobatics and trickery. I built my jetboard with scraps as an all-rounder, so theoretically either approach would work. But I knew that Riley had practiced more than anyone else in The Bricks, and her insane recklessness made her unpredictable. There was another option too: jetboarding had very few rules. Though direct harm to one's opponent is prohibited, a whole range of things are allowed, ranging from dirty tactics to sabotaging the track.*
+>
+>*All these flew through my body more as impulse than thought, and my body made its decision.*
+
+After the Fall, a dangerous new sport became popular amongst the youth of the apocalypse: jetboarding. Risking life and limb on the hulking giants of rotting rollercoasters, this sport was the only way shantytown kids could attain fame and fortune...though corpses litter the road to glory. Ride the rails as an aspiring jetboarder!
+
+### *God's Grace Granted*
+{: .center}
+
+*<https://prompts.aidg.club/3941>*
+{: .center}
+
+![](https://files.catbox.moe/414kr2.jpg)
+{: .center}
+
+>*"Oh Jesus Christ! Get away from her you freak!" Nathan yelled at the top of his lungs.*
+>
+>*Tammy looked up from her meal, smiling placidly at Nathan as she tried to reply, but couldn't manage to speak from around Brenda's thick, wriggling thighs. The snake-fox then turned her attention back to Brenda's squirming form, licking up every inch of flesh exposed to help lubricate the hefty woman's descent down the voracious snake-fox's serpentine throat. Nathan thought about physically intervening, but realized the huge serpentine vixen probably weighed five times what he did, and was blocking the doorway with her coils and Brenda. Looking back from the exit to the grisly scene, Nathan blanched to realize Brenda was now up to her hips in Tammy's mouth, and the snake-fox was still slurping up more of her victim's feminine curves.*
+
+Nathan is a despondent writer that hates his job and his unromantic love-life. But, unbeknownst to the depressed man, every day God holds a contest to grant one earnest prayer from humanity. How will Nathan respond, to find his beloved waifu has become real by God's Grace?
+
+### *CFA International Cat Girl Show*
+{: .center}
+
+*<https://prompts.aidg.club/3942>*
+{: .center}
+
+![](https://files.catbox.moe/9nq7bw.jpg)
+{: .center}
+
+>*Randy felt his heart racing in his chest, as he watched the beautiful cat-girl's long, luxurious tail wag about frantically, as the punishment hound lapped lifted her legs into its salivating, pink maw. The young cat woman would soon be doomed to endure hours of agonizing, torturous digestion inside the hungry canine's stomach. Randy's own beautiful cat woman was also watching the disgusting process unfold. The predated feline's eyes were filled with tears, as she looked back at her own owner, pleading silently for him to help her. Her owner just shook his head sadly, as he watched the cat-girl being eaten alive by the hungry canine.*
+
+A bizarre version of a cat judging pageant, inspired by an old episode of Ren and Stimpy.
+
+
+### *Title*
+{: .center}
+
+*<https://prompts.aidg.club/>*
+{: .center}
+
+![]()
+{: .center}
+
+>**
+
+desc
+
 
 ***
 
