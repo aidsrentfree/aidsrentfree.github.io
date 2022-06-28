@@ -40,7 +40,6 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Adrenaline Rush*](#adrenaline-rush)
   - [*God's Grace Granted*](#gods-grace-granted)
   - [*CFA International Cat Girl Show*](#cfa-international-cat-girl-show)
-  - [*Title*](#title)
 - [The Friday of *Maritime*](#the-friday-of-maritime)
   - [*Suckers for Love*](#suckers-for-love)
   - [*/aids/ on the High Seas!*](#aids-on-the-high-seas)
@@ -524,20 +523,6 @@ Nathan is a despondent writer that hates his job and his unromantic love-life. B
 >*Randy felt his heart racing in his chest, as he watched the beautiful cat-girl's long, luxurious tail wag about frantically, as the punishment hound lapped lifted her legs into its salivating, pink maw. The young cat woman would soon be doomed to endure hours of agonizing, torturous digestion inside the hungry canine's stomach. Randy's own beautiful cat woman was also watching the disgusting process unfold. The predated feline's eyes were filled with tears, as she looked back at her own owner, pleading silently for him to help her. Her owner just shook his head sadly, as he watched the cat-girl being eaten alive by the hungry canine.*
 
 A bizarre version of a cat judging pageant, inspired by an old episode of Ren and Stimpy.
-
-
-### *Title*
-{: .center}
-
-*<https://prompts.aidg.club/>*
-{: .center}
-
-![]()
-{: .center}
-
->**
-
-desc
 
 
 ***
