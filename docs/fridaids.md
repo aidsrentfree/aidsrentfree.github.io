@@ -33,6 +33,22 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 - [Rules](#rules)
 - [The Log](#the-log)
+- [The Friday of *Wholesome Lovey Dovey Romance*](#the-friday-of-wholesome-lovey-dovey-romance)
+- [The Friday of *Babysitters*](#the-friday-of-babysitters)
+  - [*Sailor Moon, but if She Was a Snake Person That Ate People*](#sailor-moon-but-if-she-was-a-snake-person-that-ate-people)
+  - [*Strange Kuudere Girl*](#strange-kuudere-girl)
+  - [*Out Fur Walkies*](#out-fur-walkies)
+  - [*A Scaly Sentinel*](#a-scaly-sentinel)
+  - [*This Ready Flesh*](#this-ready-flesh)
+  - [*The Lord of Holidays*](#the-lord-of-holidays)
+  - [*Like The Old Days*](#like-the-old-days)
+  - [*Zoe Wants to Grow Up*](#zoe-wants-to-grow-up)
+  - [*Brushing Time*](#brushing-time)
+  - [*I Want My Android Babysitter's Reward Time!*](#i-want-my-android-babysitters-reward-time)
+  - [*Elven Tavern*](#elven-tavern)
+  - [*Man-Handling-Snake*](#man-handling-snake)
+  - [*Thank you for everything*](#thank-you-for-everything)
+  - [*Bad Dragon Brutalizes Damsels*](#bad-dragon-brutalizes-damsels)
 - [The Friday of *Bizarre Contests and Game Shows*](#the-friday-of-bizarre-contests-and-game-shows)
   - [*The Price is Bite*](#the-price-is-bite)
   - [*LG Bladder Holding Contest*](#lg-bladder-holding-contest)
@@ -417,6 +433,265 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 ***
 
+## The Friday of *Wholesome Lovey Dovey Romance*
+{: .center}
+
+Let's make prompts about a plethora of things! Slow burn, budding feelings, H\*nd holding, red faces, and happy-ever-afters, oh my!
+{: .center}
+
+[22nd July, 2022](#the-log)
+{: .center}
+
+***
+
+## The Friday of *Babysitters*
+{: .center}
+
+Let's make prompts about the sweet, sweet dynamic of babysitters and... those who are babysat. It doesn't have to be sweet!
+{: .center}
+
+[7th July, 2022](#the-log)
+{: .center}
+
+### *Sailor Moon, but if She Was a Snake Person That Ate People*
+{: .center}
+
+![pic](https://files.catbox.moe/9k7h9e.png)
+{: .center}
+
+*<https://prompts.aidg.club/4062>*
+
+>*Queen Beryl awaited atop her flowery throne for the foolish Sailor Scouts to arrive, eager to achieve the Dark Kingdom's final victory by wiping away the last traces of the Moon Kingdom's existence. This carefully prepared battlefield would bear witness to her glorious victory, and herald her status as the greatest of sorceresses to have ever existed. If she could exterminate those pitiable girls, Queen Metalia would surely grant Beryl greater access to the overwhelming powers of the Negaverse. The only trouble that anxiously gnawed at the slender woman's proud mind, was the unlikely resilience the Sailor Scouts suddenly enjoyed against her powerful augury magic.*
+>
+>*The sorceress had been unable to keep tabs on the five feminine thorns in her side, and so prepared enchanted countermeasures to ensnare each Sailor, preying upon their respective weaknesses. Queen Beryl would personally confront Sailor Moon herself, while the mighty lunar champion's guardians were disunited and disposed of by her minions and traps. But, when an ominous sliding noise rapidly approached Queen Beryl's personal dais, the powerful enchantress was caught off-guard by the failure of her scrying charms. A hissing voice rose out from behind, "Hey, Queen Beryl, check it out."*
+
+Queen Beryl's got cute feet, what more do you need to hear?
+
+### *Strange Kuudere Girl*
+{: .center}
+
+![img for 4061](https://files.catbox.moe/xrc17v.jpg)
+{: .center}
+
+*<https://prompts.aidg.club/4061>*
+{: .center}
+
+>*The curtain on the window dances lightly, pushed around by the hot summer wind. The old floor fan hums gently as it slowly turns its head back and forth, passing the air around the room and making the heat a bit more bearable.*
+>
+>*The melancholic monotony of the summer evening is broken by the lovely voice of your cousin.*
+>
+>*"Sex." the girl laying on the bed says, continuing to stare at the ceiling.*
+>
+>*"What?" surprised by her word, you reply.*
+>
+>*"Do to me." she responds.*
+>
+>*"You can't just ask for sex like that!" you grunt.*
+>
+>*"Why?" she turns to you and looks into your eyes, her face devoid of any emotions. "We did before."*
+>
+>*She was always like this.*
+
+During my testing she managed to keep her dejected demeanor, but your mileage may vary.
+
+### *Out Fur Walkies*
+{: .center}
+
+![pic](https://files.catbox.moe/gyoljz.png)
+{: .center}
+
+*<https://prompts.aidg.club/4063>*
+{: .center}
+
+>*Alina just didn't feel safe after suffering a violent mugging last year. The policeman had explained that the young lizard woman was likely targeted because of her looks, petite stature, and taste for expensive jewelry. Even as time went on, she couldn't shake the horrid memories of being wantonly groped as her beloved bijoux were systematically seized. The stinking criminal had slunk off from an alarming noise before events could proceed too drastically, but Alina couldn't forget how close she was to suffering an even more invasive exploitation. Determined to regain her power and abandon her agoraphobic seclusion, the meek reptile woman began taking precautions to walk the streets without fear.*
+
+Some dogs require frequent walking to relieve their natural tension and energy and keep their physique healthy. Responsible pets owners should make sure they can keep up with their pet's demanding natures when selecting an appropriate dog breed.
+
+### *A Scaly Sentinel*
+
+![pic](https://files.catbox.moe/ezln35.jpg)
+
+*<https://prompts.aidg.club/4066>*
+
+>*Golden shod hooves clapped against the rocky path, its rough travel betraying its lack of visitors. The pair atop the horse were equally finely-adorned, their dark robes sewn with beads and gemstones that glistened in the sun's rays. Despite their finery and garb, neither one looked happy as they rode on, with the man at the reins sweaty and strained and the youth seated behind him staring impassively at the scenery passing by.*
+>
+>*At last the path leveled out, revealing the mouth of a cave, thick with shadows the rays of the setting sun failed to pierce. The pair dismounted and made their way towards its entrance, the young prince trailing after his sire without a word. They paused outside the opening, the boy brushing up against the back of his father's robes as he stared into the darkness within. The elder man fidgeted nervously before turning towards his son.*
+Shitty king foists his brat on his ancient, scaly relative.
+
+### *This Ready Flesh*
+
+![pic](https://files.catbox.moe/zku3pm.jpg)
+
+*<https://prompts.aidg.club/4067>*
+
+>*"Good morning, X789."*
+>
+>*The Babysitter's corrugated voice scraped my eardrums, dragging me out of my drugged sleep. I blinked against the harsh fluorescent lights, tensing as the Babysitter removed my IV. Her mandibles closed around the tube in a hungry suckling motion. Every part of my body screamed at me to run—but there was nowhere to go. Beyond the door of my cell were countless others identical to it. In this concrete hell, there were no windows to look out of, no stars to gaze upon...only the sad sight of imprisoned Children guarded by a grotesque menagerie of Babysitters.*
+>
+>*Ruling over it all was Mother, who we never saw. All we knew was that sometimes, the Babysitters came for certain Children and took them away forevermore.*
+>
+>*"You need more nutrition," the Babysitter said after she finished. "Don't you want to be strong for Mother?" She stroked my cheek in a hideous facsimile of a caress, then grasped my hand with her claw. The door of my cell opened, and we joined the stream of Children heading towards the dining hall.*
+
+Step into the dark world of the Cells, where you are Subject X789. In this concrete purgatory, you are one of Mother's Children, watched over by a menagerie of grotesque Babysitters. As your fellow Children succumb to the corrosive effects of this dystopian dungeon, can you survive with your soul intact?
+
+### *The Lord of Holidays*
+{: .center}
+
+![pic](https://files.catbox.moe/ectqzt.png)
+{: .center}
+
+*<https://prompts.aidg.club/4068>*
+{: .center}
+
+>*With a sad expression on your face, you watch as the room of holidays argue before you. Santa, to most a jolly fellow, shakes his fist in frustration at Thanksgiving, represented by an unhappy turkey. A scowl spreads across his face and he glares down at the bird with malice in his eyes.*
+>
+>*"Lord of Holidays, you must resolve this injustice!" Santa calls to you, sitting on your decorated throne, which rests in a place in-between reality, a neutral ground for all holiday disputes taking the form of a court room, which floats gently on a sea of pitch-black dreams.*
+>
+>*You look over at the fat man, still holding your tired frown, but knowing that it's time to get serious. "Okay, from the top again, please. What seems to be the problem?" You ask.*
+>
+>*"The holidays are out of whack! Thanksgiving is too close to Christmas, Christmas comes too late, New Years isn't even a real holiday," Santa replies. You hear an insulted "Hey!" from a cartoony star in the back of the throne room like the ones you'd see on a Happy New Years card, except frowning and clearly upset.*
+
+You must babysit all the holidays, solve their squabbles, and let happiness return to mankind. If that means eradicating some holidays, so be it! New ones will replace the old.
+
+### *Like The Old Days*
+{: .center}
+
+![pic](https://files.catbox.moe/619nn0.png)
+{: .center}
+
+*<https://prompts.aidg.club/4070>*
+{: .center}
+
+>*A soft dusting of snow whitens the asphalt of the parking lot as I finally get to close up the shop after another long shift. Just like every other day, business has been slow on these cold, dark winter evenings, but it's not like I really care that much, I get paid all the same. Well, at least that's usually how things go, but today I've actally been rather antsy to get off work. Just a few hours into my shift, I got a message from old man Jenson that the blinds on Liam's place have been closed all the time and he hasn't been answering the door bell, which is worrying. As this is the kind of suburb where everybody knows everybody, people generally know that Liam and I are childhood friends. Not to mention, I've somehow managed to get myself in the position of a sort of local emotional support just by being willing to help whoever comes to me with troubles.*
+
+Comforting, cute, no homo kino.
+
+### *Zoe Wants to Grow Up*
+{: .center}
+
+![pic](https://files.catbox.moe/j9kegi.png)
+{: .center}
+
+*<https://prompts.aidg.club/4071>*
+{: .center}
+
+>*Well, it's Friday night, and—like millions of other losers—I'm doing nothing but sitting in front of a television. My evening differs from theirs in one way, however: tonight I'm babysitting an eleven-year-old girl named Zoe. Zoe's mother is good friends with my sister, and their relationship has somehow led to me babysitting her little urchin after my sister's realization that my new apartment is a mere four blocks from her friend's. Despite both my earnest protests, and my argument that an eleven-year-old doesn't need a babysitter for a single weekend, the pair of women were able to extract my guarantee that I would watch Zoe for the full weekend while they go off to God-knows-where on some sort of "Girl's Excursion".*
+
+...Did you just lose a physical confrontation with a drunken 11 year old? Are you serious?
+
+### *Brushing Time*
+{: .center}
+
+![pic](https://files.catbox.moe/lutmkk.jpg)
+{: .center}
+
+*<https://prompts.aidg.club/4017>*
+{: .center}
+
+>*"Nwwoooo!" Your daughter tries to run away, but you manage to catch her.*
+>
+>*"Time to brush your tail!" you say as you pull out a brush.*
+>
+>*"No, I don't want to!" She thrashes and squirms in your arms, trying to escape.*
+>
+>*"Stop struggling, you little vixen." You hold her under one arm as she flails her arms and legs around.*
+>
+>*"Mom, help! He's brushing me again!" She reaches toward your wife, Ayumu, who just entered the room.*
+>
+>*"Fu-fu-fu, my dear husband and my lovely daughter are bonding, how adorable!" Your wife laughs softly in response.*
+>
+>*At that moment, you notice something - your daughter has not just one tail, but two!*
+>
+>*"You grew a second tail? When did this happen?" you ask Yumi, delighted to see such a thing.*
+
+Tags: Kitsune, Grooming. Fuck yes. Bratty Kitsunes WILL get the brush.
+
+### *I Want My Android Babysitter's Reward Time!*
+{: .center}
+
+![img for 4075](https://files.catbox.moe/tdmyhf.png)
+{: .center}
+
+*<https://prompts.aidg.club/4075>*
+{: .center}
+
+>*"Mom, what is THAT?" I asked, pointing to the android sitting idly in the doorway next to my mother.*
+>
+>*"Oh, that's your new babysitter," she said casually. "It's a robo-maid, for when I'm working during the day."*
+>
+>*"A robot maid? You're going to let some machine take care of me?!" I cried out in horror.*
+>
+>*My mother let out an annoyed sigh, putting her hands on her hips. "Yes, because I've spoiled you. Don't you remember what you did to your last few babysitters?"*
+>
+>*I thought about that for a moment. The last babysitter, I think her name was Cindy, I was admittedly acting like a bratty little kid... but this one isn't even human! I mean, it looks somewhat human... in shape, it is definitely a female android... and there was something nice about the traditional Japanese maid outfit it wore: a black dress with a white apron overtop, complete with frilly lace at the collar and cuffs. It also had a cute hairstyle adorned with ribbons and bows. But how could I possibly trust something so foreign with my life?!*
+
+Lesson here is, be a brat, get a robot maid to coddle and reward you. 2022 parenting, amirite?
+
+### *Elven Tavern*
+{: .center}
+
+![pic](https://files.catbox.moe/p1u7n7.jpg)
+{: .center}
+
+*<https://prompts.aidg.club/4059>*
+
+>*A long winding road snakes between the trees, finally reaching a small clearing. Your feet feel sore from the long journey, so you decide to make a camp for the night. But amidst the twilight that enshrouds the woods, some unusual lights glitter. You walk a bit farther to investigate them, wary of the dangers they might house, but as you approach are greeted with a facade of the tavern. It is adorned with strange round white lanterns that seem to be magical in nature. The sign above the door reads "Tavern in the Woods".*
+>
+>*Ignoring the unoriginal name, the tavern is a welcome sight for you. Perhaps suspiciously convenient, even. Nevertheless, you decide to open the door and enter.*
+>
+>*The interior is quite well lit and has several tables and chairs, but the only living person is a woman behind the counter. She has long blonde hair, perfect fair skin and most noticeable - long elven ears. The young lady hums a song as she churns something in the bowl.*
+>
+>*As you open the door farther, it hits the bell, and it's clear ringing sound catches her attention.*
+
+If getting tricked into having passionate sex with an elf is your biggest problem, I want your kind of problems.
+
+### *Man-Handling-Snake*
+
+![pic](https://files.catbox.moe/uv5fg4.jpg)
+
+*<https://prompts.aidg.club/4080>*
+
+>*Little Eve hissed happily as she was hoisted and flung about in the calloused hands of her beloved, the pious man utterly lost in strychnine-induced revelry. The Pentecostal congregants chanted with devotional fervor, an electric feeling of great spirit filling the room. Devotional, exalting men whirled about, praising the Lord in strange languages, their fists wreathed with serpents. The most Godly of them passed about a mason jar, each man merrily sipping strychnine-laden water in praise of God's glory and sacred covenant with Mankind. The fattened diamondback rattler was happy just to be close to Enoch, her passion's sole focus.*
+>
+>*The sonorous timber of Enoch's deep voice as he chanted healing prayers and spoke in syllabic tongues sent her serpentine heart aflutter. Eve didn't mind at all when he gripped her a tad too tight in his exuberance, the comforting warmth of his firm hands was always welcomed. She'd only bitten him a few times, drawn into the group's ecstatic mood and acting on her ingrained viper instincts in the moment. Every year spent together with Enoch further cemented Eve's utter devotion to the big preacher man, and his heartfelt mission to espouse the wonder of God and his son, Jesus Christ. Her triangular head swayed and her hollow tail-tip subtly rattled to the hymn's rhythm, the joyous snake caught up in the religious revival like usual.*
+
+Discovered as CANONICALLY attached to the make a wish jesus prompt. Sure, I'm too scared to find out what this is about, but isn't that intriguing enough?
+
+### *Thank you for everything*
+
+![pic](https://files.catbox.moe/k8gg5m.jpg)
+
+*<https://prompts.aidg.club/4074>*
+
+>You close the door and turn the key, locking it. Finally, home. Hanging your wet umbrella and shoes to dry and setting a bag of groceries onto the cabinet, you enter the living room - after a full day of work, you just want to crash onto the sofa and give your legs a few minutes of rest. But as you approach the sofa, you see that it is already occupied - a little girl is sleeping soundly on it.
+>"What the!?" you exclaim as you step back.
+>The girl opens her eyes and looks sleepily at you. She rubs them with her forearm as she sits up.
+>"Who are you? What the hell are you doing here?" you lean in as you interrogate the little intruder.
+>"I'm sorry! I am just..." the girl cowers and puts her arms in front of herself for protection, as if afraid you'll hit her.
+>"Hey, I am not going to hurt you." you feel a bit bad for scaring her, "I just want to know how you got in here."
+>The girl doesn't say anything, but glances at the window. The morning was hot, so you'd opened it slightly for some fresh air and forgot to close it. With her delicate frame, it would be possible to squeeze in through the gap even with the latch on.
+>"Good grief." you sigh, "Well, whatever. Just get out of here. I don't want any trouble." you tell her.
+>You escort the little girl to the door, and she leaves your house in a hurry. Standing in the doorway, you watch her lithe silhouette depart as she walks across the street, feeling bad about yourself for getting angry and treating her like this.
+>The rain seems to have died down, for now, just the water running off the roof makes a sloshing sound. The girl approaches one of the houses on the other side and stands in front of the door, as if unwilling to enter. Despite the distance, you can hear the voices yelling from the inside and the sound of something breaking. The girl turns her body at a ninety-degree angle and starts slowly walking along the street. With every step she takes, you see more and more droplets making circles on the surface of puddles as the rain starts to pick up.
+>"Hey, you're going to catch a cold." gnawed by guilt, you decide to call out to her, "Come here."
+This girl radiates the need to protect. Good job on the writer's part!
+
+### *Bad Dragon Brutalizes Damsels*
+
+![pic](https://files.catbox.moe/t3ymmw.jpg)
+
+*<https://prompts.aidg.club/4086>*
+
+>*Loria Van Bernhardt stoically suppressed the urge to shiver as she clambered with her guide through the treacherous mountain crags, a bitter wind howling about them. The hardened Violet Knight continually aimed the wide shield slung to her side in the blowing wind's direction, stamping her hobnailed boots to fight back the encroaching frostbite. The robust warrior found herself struggling to keep up with the wiry elder's progress as they marched ahead. Yelling out over the roaring gales, Loria asked, "Grier, how do you scale these damned cliffs like a mountain goat?"*
+>
+>*The robed man ahead shrugged, responding, "Many valuable reagents could be found in these old caverns before the dragon came. Come here, we are nearly at the hidden entrance." The old man stooped low, bundled up tight in his layered robes, gesturing towards an almost imperceptible fissure under a great, cracked boulder. As the female knight trundled up to his side, Grier opened a bundle of cloth, revealing a gleaming sword and stoppered vial. The wiry druid explained, "This sword has been enchanted to scythe through the drake's hardened scales effortlessly, and that berserker's brew will allow you to match his reflexes. Good luck."*
+>
+>*Loria quickly tested the odd sword, finding the balance off and blade wanting, eliciting her to ask, "Are you certain of this sorcery? Can I truly trust my life to this weapon?"*
+
+Loria Van Bernhardt is a fantastic name, but sadly you see those tags on the prompt? Loria is not in for a good time, folks, but perhaps you will be.
+
+***
+
 ## The Friday of *Bizarre Contests and Game Shows*
 {: .center}
 
@@ -523,7 +798,6 @@ Nathan is a despondent writer that hates his job and his unromantic love-life. B
 >*Randy felt his heart racing in his chest, as he watched the beautiful cat-girl's long, luxurious tail wag about frantically, as the punishment hound lapped lifted her legs into its salivating, pink maw. The young cat woman would soon be doomed to endure hours of agonizing, torturous digestion inside the hungry canine's stomach. Randy's own beautiful cat woman was also watching the disgusting process unfold. The predated feline's eyes were filled with tears, as she looked back at her own owner, pleading silently for him to help her. Her owner just shook his head sadly, as he watched the cat-girl being eaten alive by the hungry canine.*
 
 A bizarre version of a cat judging pageant, inspired by an old episode of Ren and Stimpy.
-
 
 ***
 
