@@ -708,6 +708,7 @@ Discovered as CANONICALLY attached to the make a wish jesus prompt. Sure, I'm to
 >*The rain seems to have died down, for now, just the water running off the roof makes a sloshing sound. The girl approaches one of the houses on the other side and stands in front of the door, as if unwilling to enter. Despite the distance, you can hear the voices yelling from the inside and the sound of something breaking. The girl turns her body at a ninety-degree angle and starts slowly walking along the street. With every step she takes, you see more and more droplets making circles on the surface of puddles as the rain starts to pick up.*
 >
 >*"Hey, you're going to catch a cold." gnawed by guilt, you decide to call out to her, "Come here."*
+
 This girl radiates the need to protect. Good job on the writer's part!
 
 ### *Bad Dragon Brutalizes Damsels*
