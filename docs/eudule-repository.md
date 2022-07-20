@@ -23,6 +23,13 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(20th July, 2022)
+
+- Added [Conan the Barbarian](#conan-the-barbarian) module.
+- Added [Rambo](#rambo) module.
+- Added [Hard Boiled](#hard-boiled) module.
+- Added [The Girl with the Dragon Tattoo](#the-girl-with-the-dragon-tattoo-trilogy) module.
+
 (26th June, 2022)
 
 - Added [Jordan Peterson](#jordan-peterson) module.
@@ -147,6 +154,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Elizabethan Fantasy](#elizabethan-fantasy)
       - [Far Future Science Fantasy](#far-future-science-fantasy)
       - [The Great War](#the-great-war)
+      - [Hard Boiled](#hard-boiled)
       - [In The Fields](#in-the-fields)
       - [Isekai](#isekai)
       - [LN School Rom-Com](#ln-school-rom-com)
@@ -266,6 +274,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
   - [Fiction](#fiction)
     - [Classic](#classic)
       - [Blood Meridian or The Evening Redness in the West](#blood-meridian-or-the-evening-redness-in-the-west)
+      - [Conan the Barbarian](#conan-the-barbarian)
       - [The Epic of Gilgamesh](#the-epic-of-gilgamesh)
       - [The Island of Doctor Moreau](#the-island-of-doctor-moreau)
       - [Leviathan or The Matter, Forme and Power of a Commonwealth Ecclesiasticall and Civil](#leviathan-or-the-matter-forme-and-power-of-a-commonwealth-ecclesiasticall-and-civil)
@@ -285,11 +294,13 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Discworld Watch Series](#discworld-watch-series)
       - [Discworld Witch Series](#discworld-witch-series)
       - [The Dresden Files](#the-dresden-files)
+      - [The Girl with the Dragon Tattoo Trilogy](#the-girl-with-the-dragon-tattoo-trilogy)
       - [Gotrek and Felix](#gotrek-and-felix)
       - [Harry Potter](#harry-potter)
       - [Hellbound Heart (Hellraiser)](#hellbound-heart-hellraiser)
       - [Ice](#ice)
       - [Percy Jackson](#percy-jackson)
+      - [Rambo](#rambo)
       - [Redwall](#redwall)
       - [The Solar Cycle](#the-solar-cycle)
       - [Starship Troopers](#starship-troopers)
@@ -1570,6 +1581,18 @@ Special thanks to anon who made this possible.*
 *Basically first person past tense accounts of infantry on the western front, both historical and fictional to hopefully give an impression of the horrors of early 20th century combat and the disaffected ruined youth of that generation.*
 
 *I'll probably eventually whip up editions for the east, Italian front, and air combat.*
+
+##### [Hard Boiled](https://files.catbox.moe/z811ga.zip)
+
+[by Anon](https://arch.b4k.co/vg/thread/391646820/#q391651113)
+
+*Alright, so last thread, I talked about making a module, and evidently, I really wanted to make this module, because I knocked it out when I really should be going to sleep. So here is "Style: Hardboiled"!*
+
+*Sourced from various hardboiled-type crime story compilations, with focuses laid on Dashiell Hammett, Raymond Chandler, James M. Cain and Mickey Spillane. Apparently there's a Noir module out there, but it doesn't seem to have a lot of overlap with the authors I chose, and there is a difference between "noir" and "hardboiled". Also, I'm pretty sure my training material has more naked dames, Negroes and Chinamen.*
+
+*As usual, the file contains all the training data I used in case I take the big sleep before Krake modules come around.*
+
+*Also, feedback on how this works would be greatly appreciated, because while I had time to knock this out, I did not have time to test it at all. Figure there's no reason not to just throw it up here because hey, the steppies are burnt either way, right?*
 
 ##### [In The Fields](https://files.catbox.moe/fdw86z.module)
 
@@ -3866,6 +3889,12 @@ Here is the Euterpe edition of the TGTF Gender Bender module. Focuses on MtF fan
 
 *Blood Meridian module for Terp, works similar as the Sigurd one, it makes the prose a bit more wordy and adds some darker tone, but it doesn't mess with the grammar or formatting*
 
+##### [Conan the Barbarian](https://files.catbox.moe/cblns6.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/389889664/#q389987476)
+
+*Hither comes Conan, the Cimmerian! People were jazzed about Robert E. Howard at the height of the story parameters craze, so here's more of that, but in Module form.*
+
 ##### [The Epic of Gilgamesh](https://files.catbox.moe/v6detv.module)
 
 [by Anon](https://arch.b4k.co/vg/thread/378352447/#378410617)
@@ -4165,6 +4194,16 @@ Description:  Trained on the Bridgerton series (Books 1-8).
 >
 > She nodded, but didn't look at me.
 
+##### [The Girl with the Dragon Tattoo Trilogy](https://files.catbox.moe/0ecjvk.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/391327773/#q391393324)
+
+*Have the fruits of my interest in fucking a bi punk hacker girl.*
+
+*Stieg Larsson's Millennium Trilogy module*
+
+*I assume it can also do Nordic journalist thriller plots too, if that's your thing.*
+
 ##### [Gotrek and Felix](https://files.catbox.moe/806mu5.module)
 
 [by Khoa Phan](https://discord.com/channels/836774308772446268/939922436500107314/956233637886562365)
@@ -4238,6 +4277,14 @@ Samples (both on modified Gojira):
 > "But how are we supposed to get past all those Daimons?"
 >
 > I shrugged. "That's our problem. Let's go."
+
+##### [Rambo](https://files.catbox.moe/rzzoui.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/390970264/#q391026197)
+
+*After that exchange upthread, I remembered that Rambo was also a book character, so, naturally…*
+
+*Went in not expecting much but the author actually has a way with words.*
 
 ##### [Redwall](https://files.catbox.moe/qmv2tu.module)
 
