@@ -460,6 +460,7 @@ Let's make prompts about the sweet, sweet dynamic of babysitters and... those wh
 {: .center}
 
 *<https://prompts.aidg.club/4062>*
+{: .center}
 
 >*Queen Beryl awaited atop her flowery throne for the foolish Sailor Scouts to arrive, eager to achieve the Dark Kingdom's final victory by wiping away the last traces of the Moon Kingdom's existence. This carefully prepared battlefield would bear witness to her glorious victory, and herald her status as the greatest of sorceresses to have ever existed. If she could exterminate those pitiable girls, Queen Metalia would surely grant Beryl greater access to the overwhelming powers of the Negaverse. The only trouble that anxiously gnawed at the slender woman's proud mind, was the unlikely resilience the Sailor Scouts suddenly enjoyed against her powerful augury magic.*
 >
@@ -508,10 +509,16 @@ During my testing she managed to keep her dejected demeanor, but your mileage ma
 Some dogs require frequent walking to relieve their natural tension and energy and keep their physique healthy. Responsible pets owners should make sure they can keep up with their pet's demanding natures when selecting an appropriate dog breed.
 
 ### *A Scaly Sentinel*
+{: .center}
+
 
 ![pic](https://files.catbox.moe/ezln35.jpg)
+{: .center}
+
 
 *<https://prompts.aidg.club/4066>*
+{: .center}
+
 
 >*Golden shod hooves clapped against the rocky path, its rough travel betraying its lack of visitors. The pair atop the horse were equally finely-adorned, their dark robes sewn with beads and gemstones that glistened in the sun's rays. Despite their finery and garb, neither one looked happy as they rode on, with the man at the reins sweaty and strained and the youth seated behind him staring impassively at the scenery passing by.*
 >
@@ -519,10 +526,16 @@ Some dogs require frequent walking to relieve their natural tension and energy a
 Shitty king foists his brat on his ancient, scaly relative.
 
 ### *This Ready Flesh*
+{: .center}
+
 
 ![pic](https://files.catbox.moe/zku3pm.jpg)
+{: .center}
+
 
 *<https://prompts.aidg.club/4067>*
+{: .center}
+
 
 >*"Good morning, X789."*
 >
@@ -634,6 +647,8 @@ Lesson here is, be a brat, get a robot maid to coddle and reward you. 2022 paren
 {: .center}
 
 *<https://prompts.aidg.club/4059>*
+{: .center}
+
 
 >*A long winding road snakes between the trees, finally reaching a small clearing. Your feet feel sore from the long journey, so you decide to make a camp for the night. But amidst the twilight that enshrouds the woods, some unusual lights glitter. You walk a bit farther to investigate them, wary of the dangers they might house, but as you approach are greeted with a facade of the tavern. It is adorned with strange round white lanterns that seem to be magical in nature. The sign above the door reads "Tavern in the Woods".*
 >
@@ -646,10 +661,16 @@ Lesson here is, be a brat, get a robot maid to coddle and reward you. 2022 paren
 If getting tricked into having passionate sex with an elf is your biggest problem, I want your kind of problems.
 
 ### *Man-Handling-Snake*
+{: .center}
+
 
 ![pic](https://files.catbox.moe/uv5fg4.jpg)
+{: .center}
+
 
 *<https://prompts.aidg.club/4080>*
+{: .center}
+
 
 >*Little Eve hissed happily as she was hoisted and flung about in the calloused hands of her beloved, the pious man utterly lost in strychnine-induced revelry. The Pentecostal congregants chanted with devotional fervor, an electric feeling of great spirit filling the room. Devotional, exalting men whirled about, praising the Lord in strange languages, their fists wreathed with serpents. The most Godly of them passed about a mason jar, each man merrily sipping strychnine-laden water in praise of God's glory and sacred covenant with Mankind. The fattened diamondback rattler was happy just to be close to Enoch, her passion's sole focus.*
 >
@@ -658,29 +679,48 @@ If getting tricked into having passionate sex with an elf is your biggest proble
 Discovered as CANONICALLY attached to the make a wish jesus prompt. Sure, I'm too scared to find out what this is about, but isn't that intriguing enough?
 
 ### *Thank you for everything*
+{: .center}
 
 ![pic](https://files.catbox.moe/k8gg5m.jpg)
+{: .center}
 
 *<https://prompts.aidg.club/4074>*
+{: .center}
 
->You close the door and turn the key, locking it. Finally, home. Hanging your wet umbrella and shoes to dry and setting a bag of groceries onto the cabinet, you enter the living room - after a full day of work, you just want to crash onto the sofa and give your legs a few minutes of rest. But as you approach the sofa, you see that it is already occupied - a little girl is sleeping soundly on it.
->"What the!?" you exclaim as you step back.
->The girl opens her eyes and looks sleepily at you. She rubs them with her forearm as she sits up.
->"Who are you? What the hell are you doing here?" you lean in as you interrogate the little intruder.
->"I'm sorry! I am just..." the girl cowers and puts her arms in front of herself for protection, as if afraid you'll hit her.
->"Hey, I am not going to hurt you." you feel a bit bad for scaring her, "I just want to know how you got in here."
->The girl doesn't say anything, but glances at the window. The morning was hot, so you'd opened it slightly for some fresh air and forgot to close it. With her delicate frame, it would be possible to squeeze in through the gap even with the latch on.
->"Good grief." you sigh, "Well, whatever. Just get out of here. I don't want any trouble." you tell her.
->You escort the little girl to the door, and she leaves your house in a hurry. Standing in the doorway, you watch her lithe silhouette depart as she walks across the street, feeling bad about yourself for getting angry and treating her like this.
->The rain seems to have died down, for now, just the water running off the roof makes a sloshing sound. The girl approaches one of the houses on the other side and stands in front of the door, as if unwilling to enter. Despite the distance, you can hear the voices yelling from the inside and the sound of something breaking. The girl turns her body at a ninety-degree angle and starts slowly walking along the street. With every step she takes, you see more and more droplets making circles on the surface of puddles as the rain starts to pick up.
->"Hey, you're going to catch a cold." gnawed by guilt, you decide to call out to her, "Come here."
+>*You close the door and turn the key, locking it. Finally, home. Hanging your wet umbrella and shoes to dry and setting a bag of groceries onto the cabinet, you enter the living room - after a full day of work, you just want to crash onto the sofa and give your legs a few minutes of rest. But as you approach the sofa, you see that it is already occupied - a little girl is sleeping soundly on it.*
+>
+>*"What the!?" you exclaim as you step back.*
+>
+>*The girl opens her eyes and looks sleepily at you. She rubs them with her forearm as she sits up.*
+>
+>*"Who are you? What the hell are you doing here?" you lean in as you interrogate the little intruder.*
+>
+>*"I'm sorry! I am just..." the girl cowers and puts her arms in front of herself for protection, as if afraid you'll hit her.*
+>
+>*"Hey, I am not going to hurt you." you feel a bit bad for scaring her, "I just want to know how you got in here."*
+>
+>*The girl doesn't say anything, but glances at the window. The morning was hot, so you'd opened it slightly for some fresh air and forgot to close it. With her delicate frame, it would be possible to squeeze in through the gap even with the latch on.*
+>
+>*"Good grief." you sigh, "Well, whatever. Just get out of here. I don't want any trouble." you tell her.*
+>
+>*You escort the little girl to the door, and she leaves your house in a hurry. Standing in the doorway, you watch her lithe silhouette depart as she walks across the street, feeling bad about yourself for getting angry and treating her like this.*
+>
+>*The rain seems to have died down, for now, just the water running off the roof makes a sloshing sound. The girl approaches one of the houses on the other side and stands in front of the door, as if unwilling to enter. Despite the distance, you can hear the voices yelling from the inside and the sound of something breaking. The girl turns her body at a ninety-degree angle and starts slowly walking along the street. With every step she takes, you see more and more droplets making circles on the surface of puddles as the rain starts to pick up.*
+>
+>*"Hey, you're going to catch a cold." gnawed by guilt, you decide to call out to her, "Come here."*
 This girl radiates the need to protect. Good job on the writer's part!
 
 ### *Bad Dragon Brutalizes Damsels*
+{: .center}
+
 
 ![pic](https://files.catbox.moe/t3ymmw.jpg)
+{: .center}
+
 
 *<https://prompts.aidg.club/4086>*
+{: .center}
+
 
 >*Loria Van Bernhardt stoically suppressed the urge to shiver as she clambered with her guide through the treacherous mountain crags, a bitter wind howling about them. The hardened Violet Knight continually aimed the wide shield slung to her side in the blowing wind's direction, stamping her hobnailed boots to fight back the encroaching frostbite. The robust warrior found herself struggling to keep up with the wiry elder's progress as they marched ahead. Yelling out over the roaring gales, Loria asked, "Grier, how do you scale these damned cliffs like a mountain goat?"*
 >
