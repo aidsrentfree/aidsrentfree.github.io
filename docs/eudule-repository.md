@@ -25,7 +25,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 (22nd July, 2022)
 
-- Added [Burn Notice]() module.
+- Added [Burn Notice](#burn-notice) module.
 
 (20th July, 2022)
 
