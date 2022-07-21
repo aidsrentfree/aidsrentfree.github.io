@@ -23,6 +23,10 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(22nd July, 2022)
+
+- Added [Burn Notice]() module.
+
 (20th July, 2022)
 
 - Added [Conan the Barbarian](#conan-the-barbarian) module.
@@ -49,24 +53,6 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 (28th May, 2022)
 
 - Added [AccursedFarms](#ross-scott) modules.
-
-(27th May, 2022)
-
-- Added [Freeman's Mind](#freemans-mind) module.
-
-(24th May, 2022)
-
-- Added [Gay WWE](#gay-wwe) module.
-- Added [Dovahhatty](#dovahhatty) module.
-- Added [Creepypasta](#creepypasta) module.
-- Added [The Quran](#the-quran) module.
-- Added [The Dhammapada](#the-dhammapada) module.
-- Added [American Psycho](#american-psycho) module.
-- Added [Me, Alice](#me-alice) module.
-- Added [Starship Troopers](#starship-troopers) module.
-- Added [Hentai Captions](#hentai-captions) module.
-- Added [Chris-Chan: A Comprehensive History](#chris-chan-a-comprehensive-history) module.
-- Added [Cormac McCarthy (No Country for Old Men, Blood Meridian, etc.)](#cormac-mccarthy) module.
 
 ---
 
@@ -349,6 +335,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [9th Doctor Transcripts](#9th-doctor-transcripts)
     - [10th Doctor Transcripts](#10th-doctor-transcripts)
     - [Arrested Development](#arrested-development)
+    - [Burn Notice](#burn-notice)
     - [Dagoth Ur](#dagoth-ur)
     - [Disco Elysium](#disco-elysium)
     - [Freeman's Mind](#freemans-mind)
@@ -4919,6 +4906,14 @@ Description: A module trained on the first 8 novels of the series The Beginning 
 > George Michael: Possession and distribution of controlled substances!
 >
 > Michael: Oh, yeah.
+
+#### [Burn Notice](https://files.catbox.moe/6fsvph.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/392689745/#392760598)
+
+*Thanks again anons for the turnaround with the regex. But I should have realized that OSS saboteur handbook was way too small to train on. I do have something in the same vein though.*
+
+*A Burn Notice module trained on all the Michael Weston voiceovers from the show. Let Euterpe give you dry humored advice on spycraft.*
 
 #### [Dagoth Ur](https://files.catbox.moe/kblxjk.module)
 
