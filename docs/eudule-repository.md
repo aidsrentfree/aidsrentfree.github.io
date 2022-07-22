@@ -26,6 +26,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 (22nd July, 2022)
 
 - Added [Burn Notice](#burn-notice) module.
+- Added [Herman Meville](#herman-melville) module.
 
 (20th July, 2022)
 
@@ -69,6 +70,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [Cormac McCarthy](#cormac-mccarthy)
     - [E. E. Cummings](#e-e-cummings)
     - [George Orwell](#george-orwell)
+    - [Herman Melville](#herman-melville)
     - [Hunter S. Thompson](#hunter-s-thompson)
     - [Italo Calvino](#italo-calvino)
     - [J. R. R. Tolkien](#j-r-r-tolkien)
@@ -469,6 +471,12 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 *Someone suggested to do this as a module. Done.*
 
 *ZIP file contains the module, the training data, the image, and the base for the training data I formatted. So if at some point [Euterpe V3] or [20] beaks or whatever the fuck comes out and I'm not there to retrain the modules, you'll have everything you need.*
+
+#### [Herman Melville](https://files.catbox.moe/180vfs.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/392820195/#392926453)
+
+*Herman Melville module, trained on most of his prose + a bit of his letters.*
 
 #### [Hunter S. Thompson](https://files.catbox.moe/cr8tuh.module)
 
