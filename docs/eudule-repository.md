@@ -472,7 +472,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 *ZIP file contains the module, the training data, the image, and the base for the training data I formatted. So if at some point [Euterpe V3] or [20] beaks or whatever the fuck comes out and I'm not there to retrain the modules, you'll have everything you need.*
 
-#### [Herman Melville](https://files.catbox.moe/180vfs.module)
+#### [Herman Melville](https://files.catbox.moe/d0jsko.zip)
 
 [by Anon](https://arch.b4k.co/vg/thread/392820195/#392926453)
 
