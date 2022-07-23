@@ -34,6 +34,25 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 - [Rules](#rules)
 - [The Log](#the-log)
 - [The Friday of *Wholesome Lovey Dovey Romance*](#the-friday-of-wholesome-lovey-dovey-romance)
+  - [*Rachel and Karumi*](#rachel-and-karumi)
+  - [*Drive Me Crazy*](#drive-me-crazy)
+  - [*Cornered Prey*](#cornered-prey)
+  - [*A Knock At The Door*](#a-knock-at-the-door)
+  - [*Dark Ride Desires*](#dark-ride-desires)
+  - [*All-Night Book Store*](#all-night-book-store)
+  - [*Sucks You Got Dumped Bro*](#sucks-you-got-dumped-bro)
+  - [*Love Is Blind*](#love-is-blind)
+  - [*Sharing The Light*](#sharing-the-light)
+  - [*Gnarled Gnolls and Gory Gowns*](#gnarled-gnolls-and-gory-gowns)
+  - [*Lana and the Rain*](#lana-and-the-rain)
+  - [*Kokomo*](#kokomo)
+  - [*Fluffy Comforts*](#fluffy-comforts)
+  - [*Mirror of Deepest Desire*](#mirror-of-deepest-desire)
+  - [*Oil, Metal, and Romance*](#oil-metal-and-romance)
+  - [*Let's All Love lain*](#lets-all-love-lain)
+  - [*The Contract*](#the-contract)
+  - [*Escorting the Elven Diplomat*](#escorting-the-elven-diplomat)
+  - [*A Sweet Treat For The Blacksmith*](#a-sweet-treat-for-the-blacksmith)
 - [The Friday of *Babysitters*](#the-friday-of-babysitters)
   - [*Sailor Moon, but if She Was a Snake Person That Ate People*](#sailor-moon-but-if-she-was-a-snake-person-that-ate-people)
   - [*Strange Kuudere Girl*](#strange-kuudere-girl)
@@ -441,6 +460,353 @@ Let's make prompts about a plethora of things! Slow burn, budding feelings, H\*n
 
 [22nd July, 2022](#the-log)
 {: .center}
+
+### *Rachel and Karumi*
+{: .center}
+
+*<https://aidsprompts.crabdance.com/4194>*
+{: .center}
+
+>*"Mistress... It has been so long. I hope you're doing okay."*
+>
+>*Rachel smiled. "I'm fine. How are you?"*
+>
+>*"I am well. I have not seen my sisters in ages." He said with a smile.*
+>
+>*Kurumi woke next. "What happened?" She asked.*
+>
+>*"You were both asleep for over two thousand years. You were the last ones to sleep. We were waiting for your return." He answered.*
+>
+>*She nodded. "Thank you for waking us up. But why did we need to be awakened?"*
+>
+>*"Because there is something that needs to be done." He told her.*
+
+Two near immortal lovers reawakened after an indetermable amount of time. There's some epic destiny for them, but they just want to cuddle and love ach other.
+
+### *Drive Me Crazy*
+{: .center}
+
+*<https://aidsprompts.crabdance.com/4195>*
+{: .center}
+
+![pic](https://files.catbox.moe/s7uja8.jpg)
+{: .center}
+
+>*She signed up for this job as a summer gig before the next semester of high school, figuring it'd be a perfect fit considering how she did roller derby. After getting onboarded, Alison was zipping around Jackson Diner like she was born for it: making small talk with the customers, rattling off orders to the kitchen, and even doing some minor tricks when the fancy hit her.*
+>
+>*Things changed, however, on a sunny day in July. Alison was weaving down the tables with a tray full of milkshakes. Then, she saw her.*
+>
+>*A girl, sitting alone at Booth 8, blonde hair framing her pale face as she stared down at a book. Her shoulders were slim but straight as she read with perfect posture. She wore the immaculate uniform of the local private school, Yarrow Prep: navy blazer, white blouse, and plaid skirt.*
+>
+>*She was the most beautiful girl Alison had ever seen.*
+
+Alison was a girl who took on a summer job waitressing and rollerskating at the retro Jackson Diner. It was a good way to earn some bucks during the summer, though she didn't anticipate falling head over heels for the mysterious girl at Booth 8. Now all she's gotta do is to learn her name before the end of her shift...though that may be easier said than done.
+
+### *Cornered Prey*
+{: .center}
+
+*<https://aidsprompts.crabdance.com/4196>*
+{: .center}
+
+![pic](https://files.catbox.moe/vcopeb.png)
+{: .center}
+
+>*"S-stinky?" she blurted incredulously, somehow that being the first thing she objected to.*
+>
+>*"I have a nose, girl," the cheetah said with a teasing lilt, "And you smell real pent up." Her weight pressed against Amy's chest as the cat leaned in close, still keeping their bodies locked together as she reached up to delicately sniff Amy's neck. She could feel the thin fur on the cheetah's snout slide along the sensitive skin under her chin as her curious tongue came out to explore the crevice between her neck and jaw.*
+>
+>*"S-sorry, I'm… It-it's the, ah—"*
+>
+>*"Heat," the spotted cat giggled, "I know. Most girls get this way every now and then." The subtle shift of her hips had them pressed tightly against one another, causing the young deer to clench her thighs together instinctively. "But… nobody should have to suffer through it alone."*
+
+Anthro doe in the throes of heat is saved by a random encounter.
+
+### *A Knock At The Door*
+{: .center}
+
+*<https://aidsprompts.crabdance.com/4198>*
+{: .center}
+
+![pic](https://files.catbox.moe/l3ax6z.png)
+{: .center}
+
+>*I began to mention the idea of a weekend trip we planned to do together, when she suddenly I heard a knock at the door. I wondered who it could be so early, but I went over, opened the door, and found myself face to face with a man in a business suit. He looked wholly out of place here, in this remote village where people maintained the old ways of the town.*
+>
+>*"Oh. Hello." I said calmly, a bit confused, though also curious at the same time.*
+>
+>*He tapped one finger to his earpiece, and whispered into it: "He's here."*
+>
+>*"I'm sorry, what is this about? Is there a problem?"*
+>
+>*He paused, adjusting his tie uncomfortably. He let out a long sigh, before answering, "Well... we need to talk."*
+>
+>*The look on his face made me nervous, and I tried to repeat: "What? Talk about what? About what?"*
+
+Kitsunes, a perfect happy lovey dovey world, and literally my least favorite recurring antagonist: reality. If you wake up, it's all returning to nothing.
+
+### *Dark Ride Desires*
+{: .center}
+
+*<https://aidsprompts.crabdance.com/4189>*
+{: .center}
+
+![pic](https://files.catbox.moe/9pyyi5.png)
+{: .center}
+
+>*However, after the second display, we find ourselves drifting into an extended section of darkness. Before long, I can hardly see anything, barely able to make out Scott's form right next to me. And it is here where he makes a strange comment, saying "Hey, did you know that these dark rides aren't just for kids? In fact, there's a sort of tradition amongst teenagers and other couples to ride these dark rides and get up to some rather intimate stuff in the darkness. Where nobody can see you... why, I'm sure there's quite a lot of people that felt free to finally show their affection in a way they didn't dare to in public. Sounds nice, doesn't it?"*
+
+For quite some time now, I've been harboring feelings for my best friend, feelings that are deeper than just friendship. And him inviting me to an amusement park definitely doesn't help in keeping those feelings at bay. But then, he takes me along on a dark ride, and there, as the tunnel swallows our little vehicle, he makes a sly comment. Does he know, and does he want me to make the move?
+
+### *All-Night Book Store*
+{: .center}
+
+*<https://aidsprompts.crabdance.com/4190>*
+{: .center}
+
+![pic](https://files.catbox.moe/hwlrzu.png)
+{: .center}
+
+>*He doesn't seem to notice me, though the reading corner is a bit off to the side, so it makes sense. Quietly, I watch as he looks around nervously before heading over to one of the employees. He seems to be asking something, but I can't hear anything because he's being real hush-hush about it, which really makes me wonder just what he's looking for. And when he apparently gets his answer and takes off, I see why... he's heading right for the adult section. Now, really, I shouldn't stick my nose in things where it doesn't belong, but I just can't resist wanting to know more.*
+>
+>*When a few moments have passed, I get up from the bean bag chair and follow him into the adult section, where it doesn't take long for me to spot him again, but it's where I spot him that throws me off. There he stands, Elias, my sporty friend that I would figure could be swarming with girls if he wanted to... looking at gay romance novels.*
+
+This town has a bookstore that's open 24 hours a day, 7 days a week. Nobody's quite sure who exactly the target audience for this sort of all-night book store is, but I actually find myself dropping by in the dead of night frequently, just for the ambiance of it all. But tonight, I spot someone I know heading for the adult section, and I can't resist following...
+
+### *Sucks You Got Dumped Bro*
+{: .center}
+
+*<https://aidsprompts.crabdance.com/4191>*
+{: .center}
+
+![pic](https://files.catbox.moe/up47xy.png)
+{: .center}
+
+>*Now I'm just completely dumbstruck. I can't even manage to stifle a laugh. "You... you can't be my girlfriend!" I reply, confused that I even have to say it.*
+>
+>*But he just looks at me like what I'm saying is incomprehensible. "Why not?" is all he asks in return.*
+>
+>*I can't believe this guy! He either just doesn't know how these things are supposed to work, or doesn't care. "Y-You're... a guy!" I say, still in awe in a weird way.*
+>
+>*"Yeah, and? Momma always said it's what's on the inside that counts, bro! So I'll be the best girlfriend on the inside I can be, and then ya won't have to cry anymore!" he explains, like it's the simplest thing in the world. "We'll do girlfriend things, like, uh, holdin' hands, sharin' chocolate on Valentine's Day, or gettin' under the covers together!"*
+
+One would think that I'd eventually learn that I just can't get relationships to work, but no, now I find myself in another breakup. But while I sit in my dorm room, sulking and stewing in my misery, my roommate shows up and tries to cheer me up... in his own way.
+
+### *Love Is Blind*
+{: .center}
+
+*<https://aidsprompts.crabdance.com/4192>*
+{: .center}
+
+![pic](https://files.catbox.moe/13gbmo.png)
+{: .center}
+
+>*The mood in the room takes a turn at this point, almost like the temperature is rising just from us both knowing what it is that's happening here. Ellis, being blind and all, has never actually seen my face before. In a way, he sees through touch. I'm sure this is something he's been thinking about for quite some time, and only now he's managed to summon up the bravery to actually ask the question. This is an intimacy level we've never gone to before.*
+
+Living with a blind roommate has changed quite a few things about how I live my life, but at the same time, I wouldn't have it any other way. I'm very glad to have him as a roommate and a friend. However, one day, he makes a slightly more... intimate request of me. Of course, I oblige, but this might change our relationship forever...
+
+### *Sharing The Light*
+{: .center}
+
+*<https://aidsprompts.crabdance.com/4193>*
+{: .center}
+
+![pic](https://files.catbox.moe/pfs0p5.png)
+{: .center}
+
+>*Lucius reaches out to caress his cheek, a sudden serious look on his face. "Lord Raymond... we care about you, but you still keep those walls up around you. Soon, we'll be moving out, to fight a war we don't know if we can win. So... I want to show you the warmth we have for you. The love that you've been rejecting. Please, Lord Raymond... if just for one night, indulge us," he says.*
+>
+>*All the while, Raven's expression just shifts multiple times, and it's so clear he's confused. He wants to protest, to throw us out... but he can't bring himself to do it.*
+
+As a young tactician that now travels with a large group trying to save the world from a great evil, there are many people that I have to take care of and help out, though I will always make time for Lucius, the one that rescued me from a grave darkness clouding my mind. While we currently rest at one of the noblemen's castles, he asks me to help him with his friend, a sullen mercenary that needs some love.
+
+### *Gnarled Gnolls and Gory Gowns*
+{: .center}
+
+*<https://aidsprompts.crabdance.com/4199>*
+{: .center}
+
+![pic](https://files.catbox.moe/x8mhmd.jpg)
+{: .center}
+
+>*The amateur hairdressing noble was surprised to find Hyra's coat of fur possessed a fluffy, curly springiness when unencumbered by saturating body oils. Her tan, mottled coat soon puffing out fantastically, almost comically compared to her earlier unkempt countenance. Tactfully finishing the primping session by massaging beard oil through her thick, scruffy mane, Otto noticed Hyra finally open her beady eyes, their rims slightly crusted with dried tear gunk and bath residue. The small, human prince immediately tensed with anxiety as Hyra's expression suddenly flared with indiscernible gnollish emotions, her trembling paw passing across her soft, bouncy mane. Otto was poised to make a break for it, until Hyra's throaty voice grumbled out, "I'm...pretty. You made me pretty..."*
+
+Both obligations and privileges abound for the royal princes of the Barlow family, which rules the beset Bruin kingdom. Otto Barlow has been entrusted with the kingdom's northern principality, a land beset by barbarous and bestial races of a fetid nature, who worship perverse and violent gods. Managing to carve out a life of luxury for himself, the carefully-managed equilibrium of Otto's fraught realm is challenged by a massive political maneuver from the royal family. How will the pampered princeling cope after getting an intimate introduction to gnollish culture at the hands of Hyra the Head Hewer, a gnoll warrior queen of ferocious and unstable temperament?
+
+### *Lana and the Rain*
+{: .center}
+
+*<https://aidsprompts.crabdance.com/4200>*
+{: .center}
+
+![pic](https://files.catbox.moe/23471d.jpg)
+{: .center}
+
+>*"Nigel?" I'd head a familiar voice ask, followed by a "Are you still awake?" coming from behind the door to my study. I turned, then, baffled as I watched Lana creep into my bedroom, a candle in her hand.*
+>
+>*She looked desperate, then; all her usual confidence and certainty was replaced by an air of despair. Lana looked like she'd seen a ghost. Her gorgeous, lush, chestnut colored hair was tied in a lazy braid that hugged her shoulder. And I couldn't help but notice this being the first time I saw my childhood friend in a nightgown.*
+>
+>*Only another utterance of my name pulled me out of my reverie over the sight Lana inadvertently presented to me.*
+>
+>*"Wh-why yes, Lana, I'm wide awake," I whispered back to her, watching with glee as a warm smile spread across her desperate face. Not wanting to be too noisy I motioned for her to join me in sitting on my bed, which she quickly did and pulled me into a tight embrace; but not before safely placing the candle on by bedside table.*
+>
+>*"Oh, Nigel," Lana muttered into my chest as she held onto my arms, "I just couldn't find any calm on my own tonight."*
+
+Wax poetically about a friend of old you share a wall and hidden door with. Comfort her through a night most dark and dreary.
+
+### *Kokomo*
+{: .center}
+
+*<https://aidsprompts.crabdance.com/4208>*
+{: .center}
+
+![pic](https://files.catbox.moe/kpwu8j.jpg)
+{: .center}
+
+>*"I'm going shopping! Be right back!"*
+>
+>*I barely had the time to process all that before she slammed the door behind her. I ran towards the window, where I saw her putting on her helmet and straddling her bike.*
+>
+>*"Hey! What are you getting?" I called.*
+>
+>*"Stuff!" Millie shouted. "Stay put!" And off she flew down the street.*
+>
+>*There was nothing for me to do but to wait for her. After what seemed like hours, my doorbell rang. I opened it and saw Millie grinning triumphantly. The basket of her bike was loaded (very precariously) with bags.*
+>
+>*"What's all this?" I asked.*
+>
+>*"A trip to paradise," she said, tromping off toward my backyard with me and her bike in tow.*
+
+It was another boring day of a featureless summer vacation, way out in the middle of nowhere. If only I could go to a tropical island somewhere... that'd be the best. Unfortunately, I was stuck out here in the sticks. However, it seems that my childhood friend Millie is determined to make, at least in some small way, my dream a reality.
+
+### *Fluffy Comforts*
+{: .center}
+
+*<https://aidsprompts.crabdance.com/4212>*
+{: .center}
+
+![pic](https://files.catbox.moe/0hq8r5.jpg)
+{: .center}
+
+>*"Did you say something, darling?" Kasumi asked brightly as she walked back over and sat down on the bed again, her fluffy tails covering me a second time.*
+>
+>*"Just a little coughing fit," I lied.*
+>
+>*"Well, this should help with that!" Kasumi said as she stirred the soup, "Chicken noodle! That's what humans have when they're sick, right?"*
+>
+>*"Right," I said with a smile. Kasumi looked so enthusiastic about something as simple as just taking care of the person she loved, and I found myself falling for her all over again.*
+>
+>*"Great! Open wide then, darling!" Kasumi said as she lifted a spoonful of soup up out of the bowl.*
+>
+>*"Kass, I'm fully capable of—"*
+
+After catching a nasty case of the flu, your Kitsune girlfriend (and hopefully, soon to be wife) Kasumi comes over to nurse you back to health! Can you stop her from finding out about the surprise of your planned proposal as she does all she can to make you feel better?
+
+### *Mirror of Deepest Desire*
+{: .center}
+
+*<https://aidsprompts.crabdance.com/4214>*
+{: .center}
+
+![pic](https://files.catbox.moe/bprhhj.png)
+{: .center}
+
+>*"That's a little anticlimactic."*
+>
+>*"I'm hoping to keep it that way," I said. "The relic we've been looking for is inside, and it's the Mirror of Deepest Desires. So to avoid any... embarrassing moments, don't... look into it."*
+>
+>*She seemed to take a moment to understand before a teasing simper broke out on her face. "Oh! You don't want your trusty elf compatriot peering into the dark crevices of the human psyche, eh? Your perverted mind's dreams getting leaked?"*
+>
+>*"Oh, shut up. Look, it's not that. I'm just warning you. That thing is dangerous. What if one of our deepest desires is something that changes our adventuring forever, you know?"*
+>
+>*While I braced for another simply flippant remark from my lackadaisical friend, a serious tone crept into her voice. "Right, yeah... wouldn't want to give that up."*
+
+There's no start to a relationship like a relic accidentally revealing each other's deepest desires. But said desires, they are not degenerate. They are happy ever after marriage. With all that on the table, it's time to get serious with Sana, your dorky elf... friend? Lover? It's complicated. Thanks a lot, fuckin'... mirror...
+
+### *Oil, Metal, and Romance*
+{: .center}
+
+*<https://aidsprompts.crabdance.com/4211>*
+{: .center}
+
+>*A whoop of excitement broke me out of my contemplation—I spun to see a pair of legs clad in cargo pants hanging from the engine compartment. As the legs emerged, a white, grease stained tank top was revealed until finally her head was clear. The face that gazed at me had slightly thick eyebrows, tousled blonde hair, a small nose and freckles, as well as a smear of machine grease on her forehead. My childhood friend was examining the plane I'd landed; She'd been the one to repair it. Jeanne was a certified greasemonkey, while I was a pilot and She had roped me into a test flight of her latest project. Her thorough examination of the craft didn't take long—soon the tomboyish mechanic turned to regard me with bright eyes, completely unfazed by the grease and oil stains on her top half.*
+>
+>*"Well?" she asked expectantly, her tone slightly anxious.*
+>
+>*I took off my cap and ran my fingers through my short brown hair. "It's fine," I nodded, "the thing flies like a dream."*
+>
+>*"I'll be damned!" Jeanne grinned like an excited child, flinging her arms wide. "Hug!"*
+
+You've just completed a test flight for your childhood friend and skilled mechanic, Jeanne. After checking the plane over, she wants nothing more than a big hug...right?
+
+### *Let's All Love lain*
+{: .center}
+
+*<https://aidsprompts.crabdance.com/4213>*
+{: .center}
+
+>*Lain, and by extension, her NAVI, was considered by many to be the queen of the Wired World: a digital realm that connected humanity. The Wired had overtaken Lain's life in every way, as if she had no choice but to be its goddess. And it was all through this hulking machine that had crowded her bedroom.*
+>
+>*Lain suddenly had a strange idea. She crawled close to the blackened main screen of her NAVI, seeing her own reflection in the screen. Lain bent in close and whispered to the machine:*
+>
+>*"I love you."*
+
+Lain loves her NAVI very much.
+
+### *The Contract*
+{: .center}
+
+*<https://aidsprompts.crabdance.com/4215>*
+{: .center}
+
+>*"It's been a decade, Human, more than enough time to settle down. I see no wife! I see no children!" She snarled, "How am I supposed to get the firstborn I was promised?"*
+>
+>*"I—I don't know," I stammered...it wasn't like I hadn't wanted a wife and kids to share my home with.*
+>
+>*She rose from her seat; fire burning in her eyes as she started to pace. Long, tanned legs flashed beneath her dress and her crimson hair whipped around her head, framing her pointed ears and snapping black eyes. "You have a duty to fulfill your end of the bargain, Human. What is it you plan to do about it?"*
+>
+>*"I'm sorry," my words fell flat against her anger. "I can't give you what you want."*
+>
+>*I could almost see her mind working, her brow furrowing as she ran through her options in her head. She quickly discarded the thought of forcing me to find a woman. Instead, she began pacing again; her hands balled into fists at her sides. "What if there were another way?"*
+>
+>*"Another way? What are you talking about?" My curiosity piqued.*
+
+At death's doorstep, you promised your firstborn child in exchange for salvation. A decade later, single and childless, your worst fear comes true when the demoness returns to claim your firstborn. Out of desperation, a bargain is struck.
+
+### *Escorting the Elven Diplomat*
+{: .center}
+
+*<https://aetherroom.club/4216>*
+{: .center}
+
+>*After dinner, Shanella insisted that she take care of booking a room. So, while I waited, she talked quietly to Gaius near the bar. It didn't take long for her to conclude the business before returning to collect me. She led me up the stairs and to our room—naturally, I entered first to check for any danger to the diplomat.*
+>
+>*What I saw gave me pause. Instead of there being two beds, one for the diplomat and one for I—her knightly escort—there was only a single, large bed. A couple's bed.*
+>
+>*Spinning on my feet, I glanced in askance at Shanella only to see her locking the door behind us. "Shanella?"*
+>
+>*"It's exactly what you suspect," she said simply.*
+
+You've been assigned to show the Elven diplomat around the city and, after a day of taking in the sights, Shanella has arranged for some alone time with you without your knowledge. Dive right in to the action, so to speak.
+
+### *A Sweet Treat For The Blacksmith*
+{: .center}
+
+*<https://aetherroom.club/4222>*
+{: .center}
+
+>*"Hi."*
+>
+>*"What brings you here today?"*
+>
+>*"Just looking at your work—it's really good."*
+>
+>*She beams at me. "Thanks! You should see some of the stuff that comes out of here; it's hard work. But when it's done right, like this—" she holds up the piece of armor, "—it's amazing."*
+>
+>*"I can imagine. Set that aside, I've brought you a treat." I cajole her over to the counter where a dish of ice keeps sliced watermelon cool.*
+>
+>*I can see the delight in Millie's eyes as she spies the fruit, but her gaze quickly drops to her hands with an abashed frown. "My hands are dirty from soot and sweat..." She laments, looking for a clean cloth.*
+
+After watching your blacksmith friend at work, you feed her some refreshing watermelon so that she doesn't have to touch it with her hands and things take a turn for the sensual.
 
 ***
 
