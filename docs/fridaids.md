@@ -33,6 +33,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 - [Rules](#rules)
 - [The Log](#the-log)
+- [The Friday of *Royalty and Nobility*](#the-friday-of-royalty-and-nobility)
 - [The Friday of *Wholesome Lovey Dovey Romance*](#the-friday-of-wholesome-lovey-dovey-romance)
   - [*Rachel and Karumi*](#rachel-and-karumi)
   - [*Drive Me Crazy*](#drive-me-crazy)
@@ -449,6 +450,17 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Your Daughter will Do Anything to Have You Back*](#your-daughter-will-do-anything-to-have-you-back)
   - [*Ben and Gwen Tennyson in: Omnifriks*](#ben-and-gwen-tennyson-in-omnifriks)
   - [*Goblin girl in Heat*](#goblin-girl-in-heat)
+
+***
+
+## The Friday of *Royalty and Nobility*
+{: .center}
+
+Let's make prompts about high society, and the rampant blue-blooded brown-nosing therein.
+{: .center}
+
+[5th August, 2022](#the-log)
+{: .center}
 
 ***
 
