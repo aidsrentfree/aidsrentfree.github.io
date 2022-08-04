@@ -23,6 +23,10 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(5th August, 2022)
+
+- Added [Non-Consenual Sex](#non-consentreluctance) module
+
 (22nd July, 2022)
 
 - Added [Burn Notice](#burn-notice) module.
@@ -230,6 +234,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
       - [Hypnosis (Femsub)](#hypnosis-femsub)
       - [Knotting](#knotting)
       - [Longform Mind Control](#longform-mind-control)
+      - [Non-Consent/Reluctance](#non-consentreluctance)
       - [Pokephilia](#pokephilia)
       - [Respect (Second Person)](#respect-second-person)
       - [Scat](#scat)
@@ -3492,6 +3497,24 @@ Description: Remake of a Sigurd module for Euterpe.
 A module made of a collection of 3 of my favorite long-form/slow-burn mind control stories from Fiction.Live. All of them are in 2nd person. 2.85k steps, ~100% coverage.
 
 ***Tags:** mind control, long-form, slow-burn, 2nd person*
+
+##### [Non-Consent/Reluctance](https://files.catbox.moe/t0hvq6.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/394325293/#394335197)
+
+*Literorica Non-Consent/Reluctance Module for Euterpe*
+
+*Trained on the Literotica scrap by CobraPL posted here: <https://f95zone.to/threads/anlatan-novelai-all-fetishes-ai-powered-storyteller.86319/>*
+
+*Data was thoroughly cleaned before training.*
+
+*~1000 of the top-rated stories from Non-Consent / Reluctance*
+
+*Training material: was ~14k steps*
+
+*Training steps: 10k (71%)*
+
+*Data: <https://k2s.cc/file/03e1a4fc74dac/Category_-%20NonConsent_Reluctance.txt>*
 
 ##### [Pokephilia](https://files.catbox.moe/4xwqyv.module)
 
