@@ -52,6 +52,7 @@ Probably! This is a brand new event after all. If something isn't working, be su
 	- [Where will the decks be stored?](#where-will-the-decks-be-stored)
 	- [Is any of this subject to change?](#is-any-of-this-subject-to-change)
 	- [Who asked for this?](#who-asked-for-this)
+- [**The Nightmare Realm**](#the-nightmare-realm)
 - [**Agency for Investigation and Detainment of the Supernatural**](#agency-for-investigation-and-detainment-of-the-supernatural)
 	- [**The Agents**](#the-agents)
 	- [**The Paranormal**](#the-paranormal)
@@ -83,6 +84,14 @@ Probably! This is a brand new event after all. If something isn't working, be su
 	- [**Other Ships**](#other-ships)
 	- [**Space Phenomena**](#space-phenomena)
 	- [**Lifeforms**](#lifeforms)
+
+***
+
+## **The Nightmare Realm**
+{: .center}
+
+(August 2022)
+{: .center}
 
 ***
 
