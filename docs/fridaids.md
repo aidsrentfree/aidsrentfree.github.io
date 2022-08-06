@@ -34,6 +34,13 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 - [Rules](#rules)
 - [The Log](#the-log)
 - [The Friday of *Royalty and Nobility*](#the-friday-of-royalty-and-nobility)
+  - [*Lady Mia's Self-Made Downfall*](#lady-mias-self-made-downfall)
+  - [*A Royal Pain*](#a-royal-pain)
+  - [*Royal Pains - the path of anger*](#royal-pains---the-path-of-anger)
+  - [*A New Style of Harem*](#a-new-style-of-harem)
+  - [*The Wild's New Garb*](#the-wilds-new-garb)
+  - [*Kalphite Queen Head*](#kalphite-queen-head)
+  - [*The Knight, The Princess and The Dragon*](#the-knight-the-princess-and-the-dragon)
 - [The Friday of *Wholesome Lovey Dovey Romance*](#the-friday-of-wholesome-lovey-dovey-romance)
   - [*Rachel and Karumi*](#rachel-and-karumi)
   - [*Drive Me Crazy*](#drive-me-crazy)
@@ -290,7 +297,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 - [The Friday of *Animals*](#the-friday-of-animals)
   - [*Seamen World*](#seamen-world)
   - [*Mudsdale Used Body Press!*](#mudsdale-used-body-press)
-  - [*Kalphite Queen Head*](#kalphite-queen-head)
+  - [*Kalphite Queen Head*](#kalphite-queen-head-1)
   - [*A Dog-Girl in Heat*](#a-dog-girl-in-heat)
   - [*Dread Pirate Gloria and Her Voracious Wolf Fluffy*](#dread-pirate-gloria-and-her-voracious-wolf-fluffy)
   - [*Feathered Serpent Mayan 'Goddess' Enjoys Sacrificial Female Feast*](#feathered-serpent-mayan-goddess-enjoys-sacrificial-female-feast)
@@ -461,6 +468,137 @@ Let's make prompts about high society, and the rampant blue-blooded brown-nosing
 
 [5th August, 2022](#the-log)
 {: .center}
+
+### *Lady Mia's Self-Made Downfall*
+{: .center}
+
+*<https://aetherroom.club/4289>*
+{: .center}
+
+>*Mia realized her father would murder Randy if he took her first time. She couldn't bear the thought of having him die for her freedom, not when she loved him with all her heart. She needed a plan, something that wouldn't endanger his life too much. Perhaps she shouldn't let Randy have her first time... No matter how much she wanted to stay loyal, she must lay with other men until she was cast out from nobility. 'No matter' she realized, as virginity was a concept that only mattered to nobles... Right?*
+>
+>*Mia decided that the only way to protect Randy was to act like a whore. She would have sex with anyone who asked, and show no shame or regret afterward. If her reputation became sullied enough, her father might see her unfit for marriage and toss her aside. She would become a commoner, and live her life with Randy forevermore!*
+
+Lady Mia publically degrades herself in pursuit of happiness.
+
+### *A Royal Pain*
+{: .center}
+
+*<https://aetherroom.club/4290>*
+{: .center}
+
+![](https://files.catbox.moe/hlxx6c.png)
+{: .center}
+
+>*And so, Senna was burdened with a desire no man would indulge her, a hunger she could never sate—or at least, that was what she had thought, until providence had seen fit to tempt her with an opportunity, one the Princess had seized upon without hesitation.*
+>
+>*After a lifetime of loyal service—and discretion—the Castle's torturer had passed away, leaving his post vacant. Finding none of adequate cruelty among the guard with which to replace him, the King had sought a skilled replacement from beyond his borders—and found one, in the form of a disgraced soldier by the name of Edward Carrow. Now he was to serve as the new master of the same dungeon Senna now hurried through, a stolen key clutched tightly to her laced bodice.*
+
+A princess with a depraved secret disguises herself as a peasant to indulge in her masochistic fantasies.
+
+### *Royal Pains - the path of anger*
+{: .center}
+
+*<https://aetherroom.club/4291>*
+{: .center}
+
+![No, I'm not sure what this image has to do with the prompt.](https://files.catbox.moe/rbwbio.jpg)
+
+>*"No, no, that simply won't do. Try again."*
+>
+>*"Pardon?" James asked, feeling his face grow red with his rising temper. "I'm afraid I don't quite understand."*
+>
+>*"Go out, and come back inside as would befit the head of my servants. I can't stand to look at you without the proper show of respect," the princess cooed, waving James away with a lazy motion of her hand. The brat couldn't even keep a straight face, as her polite frown turned into a cruel, self-satisfied smirk.*
+>
+>*With a hasty bow, and trembling fists, James hurried out of the room, shut the door and paused for a few breaths before knocking on the door.*
+>
+>*"You may come inside," the princess announced. James re-entered the brat's bed chamber and bowed, far too deep to seem proper, before stepping beside her.*
+>
+>*James felt the heat of his face rise as he took in the smug expression the princess regarded him with.*
+>
+>*"See? That's much better. Was it really so hard to show a princess the proper amount of respect? Tsk tsk, I thought I'd taught you better by now, Jimmy," Leonora hummed. The amount of gloating she put into those words was only overshone by the radiant smugness of her sickening smile.*
+>
+>*Something snapped inside of James at that moment. Decades of servitude and humility could not help to quell the rage that had festered and broiled inside of him ever since he had been put in charge of this demon of a princess.*
+>
+>*James's polite mask of a servant crumbled, revealing the enraged and almost mad visage that had hidden underneath.*
+
+What happens when you're the sole caretaker to a sickly and demanding young prince(ss)?
+
+Put simply: correction of their attitude.
+
+### *A New Style of Harem*
+{: .center}
+
+*<https://aetherroom.club/4288>*
+{: .center}
+
+![](https://files.catbox.moe/t6f1fp.png)
+{: .center}
+
+>*This, of course, allows for me to further pursue my policies of liberalization, which doesn't just involve passing new laws and voiding tyrannical old ones, but also some additional changes that involve the palace and its denizens. Over the last few months, my soldiers have been scouring the world, searching for people to join my new harem. But not women. My new harem consists exclusively of men, to further distance myself from my father's reign. A dozen men, from all over the world, now live at my palace. They are paid very well and given great freedom within the palace grounds, with them basically having free reign over the place, full command of my servants, and the right to disobey me if they so choose. Something like this is completely unprecedented and could end in disaster, but so far, things have gone quite well. Despite my harem now being twelve men from all over the world that have total freedom, they ultimately do what I ask them to most of the time, not out of obedience, but out of friendship.*
+
+After taking over as the king of Al-Larian after the death of my tyrannical father, I seek to show the realm that things will be different now, more moderate, more tolerant. And to lead by example, I have freed all the women of my father's old harem, replacing them with a dozen of handsome men that are paid well and given great freedoms. I find that giving freedom and opportunity for consent makes the intimacy that much more enjoyable...
+
+### *The Wild's New Garb*
+{: .center}
+
+*<https://aetherroom.club/4294>*
+{: .center}
+
+![](https://files.catbox.moe/ixd0r6.jpg)
+{: .center}
+
+>*Fighting to keep her face impassive, Zariqua eyed the loom where the weavers were currently putting the finishing touches on her attire. Supposedly, anyway. All she could see was the device as the hyenas mimed the movements of weaving. By now, several of her courtiers had spoke praises for the exquisite detail and finish of the garment, even if she herself apparently couldn't see it. Nonetheless, there was no mistaking the effect the material had on those around her, judging by the way everyone watched the process with rapt attention. Suddenly turning to her retainer, the queen questioned, "What do you think of it?"*
+>
+>*Stiffening, the zebra stammered, "Well… uh, it is certainly a fascinating, intricate design. One that certainly leaves an impact on anyone who sees it." Nervously scratching behind his ear, the zebra added, "You will look marvelous in this garment, Your Majesty. A wonder of the ages."*
+>
+>*Satisfied for the moment, the lioness awaited the end of the process, standing in silence while the hyenas twirled the strings of the loom in a dizzying manner. Finally, the loom fell still, and the weavers came to stand in front of their ruler. They held up their creation for inspection, displaying the outfit between their empty paws.*
+>
+>*"Uh, yes, it's quite remarkable," Queen Zariqua muttered, reluctantly faking scrutiny of the garment, hoping they couldn't tell that she was unable to see it at all.*
+
+Lioness queen is tricked into attending her coronation naked.
+
+### *Kalphite Queen Head*
+{: .center}
+
+*<https://aetherroom.club/4295>*
+{: .center}
+
+![](https://files.catbox.moe/ccdvje.png)
+{: .center}
+
+>*It was an order to her guards, and they promptly listened, stopping everything that they were doing, and backing off from my naked form. My heart was beating like the wings of a wasp as I watched the Queen move up closer to me. The smell wafting off of her body—that stale and musky smell—was strong enough to choke me. It was the same smell that had permeated my clothes, likely a pheromone of sorts, a chemical signal that the Queen was emitting to her loyal subjects—and to me, too?*
+>
+>*She came to a stop; she was so close to me that I could feel the heat radiating off of her carapace. Her antennae were twitching like crazy, her abdomen was shaking, and a large line of spittle was dribbling down from her mouth, landing on the tip of my boot. Why hadn't she had killed me yet?*
+>
+>*That's when it dawned on me. This whole charade wasn't a threat, it was an invitation; an invite to mate—an invitation to impregnate. It was an invitation that I didn't want to accept.*
+
+Getting a blowjob from a giant, monster bug?
+
+I guess that's one way you're going to complete the desert hard diaries (runescape joke).
+
+### *The Knight, The Princess and The Dragon*
+{: .center}
+
+*<https://aetherroom.club/4296>*
+{: .center}
+
+![](https://files.catbox.moe/dz2d5s.png)
+{: .center}
+
+>*"Princess!" cried Sir Reinhold in astonishment. "Your father has sent me to save you from this irksome wyrm! Has it harmed you?"*
+>
+>*"Oh no," she said lightly. "she has been naught but kind in her treatment of me."*
+>
+>*The knight narrowed his eyes as he ran his gaze over the dragon. "She? Tis' a she?"*
+>
+>*The princess nodded cheerily. "Aye, a most sweet creature. And I believe she had something to tell you, didn't you darling?"*
+>
+>*The dragon shifted nervously, her large reptilian eyes fixed on Sir Reinhold. She loosed an adorable yelp that was completely unbecoming of such a fearsome beast and inched closer to the princess, who put a reassuring hand on her massive snout.*
+>
+>*"Come now, dearest, there's no need to be shy." said the princess gently. "Go on, tell him what you wanted to say."*
+
+A dragon had kidnapped the princess! A tailor-made quest for the the kingdom's top knight, Sir Reinhold.
 
 ***
 
