@@ -41,6 +41,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*The Wild's New Garb*](#the-wilds-new-garb)
   - [*Kalphite Queen Head*](#kalphite-queen-head)
   - [*The Knight, The Princess and The Dragon*](#the-knight-the-princess-and-the-dragon)
+  - [*Prince Pursuing Potency Potion*](#prince-pursuing-potency-potion)
 - [The Friday of *Wholesome Lovey Dovey Romance*](#the-friday-of-wholesome-lovey-dovey-romance)
   - [*Rachel and Karumi*](#rachel-and-karumi)
   - [*Drive Me Crazy*](#drive-me-crazy)
@@ -599,6 +600,21 @@ I guess that's one way you're going to complete the desert hard diaries (runesca
 >*"Come now, dearest, there's no need to be shy." said the princess gently. "Go on, tell him what you wanted to say."*
 
 A dragon had kidnapped the princess! A tailor-made quest for the the kingdom's top knight, Sir Reinhold.
+
+### *Prince Pursuing Potency Potion*
+{: .center}
+
+*<https://aetherroom.club/4298>*
+{: .center}
+
+![](https://files.catbox.moe/l97p3m.png)
+{: .center}
+
+>*The prince felt Hyra spasm and shake under him, alarming the meek man until she finally burst out in a high-pitched, mocking bout of inhuman laughter, "You'd know if gnolls could knock-up a human, this whole place would be crawling with 'em!" Finally, Hyra stifled her mirth and responded evenly, "My dumbass kids keep getting killed. I gotta keep pumping out pups to fill the tribe with loyalists. That means I gotta get bred by the strongest gnoll. You got a problem with it, take it up with Rauncher, I don't care. Wait, actually, don't go near Rauncher--" But it was too late, and Hyra was surprised to find Otto angry beyond words as he fidgeted about in her lap like a riotous child during bath-time.*
+>
+>*The proud royal was absolutely incensed by this revelation. Otto had been walking on eggshells to countenance himself to Hyra's domineering nature. And all the while she had been off getting impregnated by gnolls? This was unacceptable, even if he hadn't always been entirely honest with his wife, occasionally undermining her more ferocious and ill-advised actions. Otto had managed to keep his clandestine project of nursing Hyra's shrimpy wedding-day victim back to health a secret, but that didn't justify this betrayal. After realizing he couldn't wrench free of the big hyenid woman's hold, Otto finally blurted out, "I demand satisfaction, I demand my honor be upheld! I demand a duel!" Hyra just rolled her eyes at this revelation, hoping her little human lover didn't get himself hurt.*
+
+A second part to prompt 4199, "Gnarled Gnolls and Gory Gowns." This action-packed adventure sees the turbulent relationship between the human royal, Otto, and his new gnoll wife, Hyra, expand and develop as the challenges of inter-species marriage compound. Will their unlikely union end in tragedy, or triumph?
 
 ***
 
