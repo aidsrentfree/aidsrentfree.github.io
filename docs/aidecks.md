@@ -53,7 +53,7 @@ Probably! This is a brand new event after all. If something isn't working, be su
 	- [Is any of this subject to change?](#is-any-of-this-subject-to-change)
 	- [Who asked for this?](#who-asked-for-this)
 - [**The Nightmare Realm**](#the-nightmare-realm)
-	- [**The Agents**](#the-agents)
+	- [**The Visitors**](#the-visitors)
 	- [**The Denizens**](#the-denizens)
 - [**Agency for Investigation and Detainment of the Supernatural**](#agency-for-investigation-and-detainment-of-the-supernatural)
 	- [**The Paranormal**](#the-paranormal)
@@ -100,7 +100,10 @@ Probably! This is a brand new event after all. If something isn't working, be su
 *That is this place. This realm. It is not truly a realm at all, but rather an open wound where madness and chaos pour out onto the world. Here one may see the true face of hell, the wretched things of nightmares.*
 {: .center}
 
-### **The Agents**
+### **The Visitors**
+{: .center}
+
+*Ye who enter here.*
 {: .center}
 
 | Card | Name | Description | Post |
@@ -108,6 +111,9 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | ![Card](https://files.catbox.moe/wmnexf.png) | Robert Gramson | "Retired" oldfag. | [>>395034639](https://arch.b4k.co/vg/thread/395005384/#395034639) |
 
 ### **The Denizens**
+{: .center}
+
+*Things not of God.*
 {: .center}
 
 | ![Card](https://files.catbox.moe/2mmfue.png) | The Sailor | Psycho seaman. | [>>394970748](https://arch.b4k.co/vg/thread/394910715/#394970748) |
