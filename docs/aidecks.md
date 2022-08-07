@@ -53,8 +53,9 @@ Probably! This is a brand new event after all. If something isn't working, be su
 	- [Is any of this subject to change?](#is-any-of-this-subject-to-change)
 	- [Who asked for this?](#who-asked-for-this)
 - [**The Nightmare Realm**](#the-nightmare-realm)
-- [**Agency for Investigation and Detainment of the Supernatural**](#agency-for-investigation-and-detainment-of-the-supernatural)
 	- [**The Agents**](#the-agents)
+	- [**The Denizens**](#the-denizens)
+- [**Agency for Investigation and Detainment of the Supernatural**](#agency-for-investigation-and-detainment-of-the-supernatural)
 	- [**The Paranormal**](#the-paranormal)
 	- [**The Location**](#the-location)
 	- [**The Equipment**](#the-equipment)
@@ -93,15 +94,30 @@ Probably! This is a brand new event after all. If something isn't working, be su
 (August 2022)
 {: .center}
 
+*In the beginning, there was nothing. The void. A blackness so pure as to defy even the mightiest of storms. Then, suddenly, there was light. And then it came into being. Creation—the earth and sea and sky. But from its birthplace, outside that ocean sea, madness poured forth in hallucinogenic waves drowning all others torn apart by the terror of their own minds. The cataclysm began, a ripple of insanity turning all but the strongest mad.*
+{: .center}
+
+*That is this place. This realm. It is not truly a realm at all, but rather an open wound where madness and chaos pour out onto the world. Here one may see the true face of hell, the wretched things of nightmares.*
+{: .center}
+
+### **The Agents**
+{: .center}
+
+| Card | Name | Description | Post |
+|---|:---:|:---:|:---:|
+| ![Card](https://files.catbox.moe/wmnexf.png) | Robert Gramson | "Retired" oldfag. | [>>395034639](https://arch.b4k.co/vg/thread/395005384/#395034639) |
+
+### **The Denizens**
+{: .center}
+
+| ![Card](https://files.catbox.moe/2mmfue.png) | The Sailor | Psycho seaman. | [>>394970748](https://arch.b4k.co/vg/thread/394910715/#394970748) |
+
 ***
 
 ## **Agency for Investigation and Detainment of the Supernatural**
 {: .center}
 
 *Strange beings lurk in the shadows, unknown to the general public. A secret network of operatives known as AIDS (Agency for Investigation and Detainment of the Supernatural) studies and catalogues these many paranormal phenomena. It doesn't matter whether it's ghosts, vampires or aliens, the agency will handle them all—the truth is out there.*
-{: .center}
-
-### **The Agents**
 {: .center}
 
 *The suit and tie is optional.*
