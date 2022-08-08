@@ -118,7 +118,7 @@ Probably! This is a brand new event after all. If something isn't working, be su
 
 | Card | Name | Description | Post |
 |---|:---:|:---:|:---:|
-| ![Card](https://files.catbox.moe/2mmfue.png) | The Sailor | Psycho seaman. | [>>394970748](https://arch.b4k.co/vg/thread/394910715/#394970748) |
+| ![Card](https://files.catbox.moe/tvnmds.png) | The Sailor | Psycho seaman. | [>>394970748](https://arch.b4k.co/vg/thread/394910715/#394970748) |
 
 ***
 
