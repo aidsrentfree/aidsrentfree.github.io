@@ -525,6 +525,7 @@ A princess with a depraved secret disguises herself as a peasant to indulge in h
 {: .center}
 
 ![No, I'm not sure what this image has to do with the prompt.](https://files.catbox.moe/rbwbio.jpg)
+{: .center}
 
 >*"No, no, that simply won't do. Try again."*
 >
