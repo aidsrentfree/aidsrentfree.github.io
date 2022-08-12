@@ -33,6 +33,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 - [Rules](#rules)
 - [The Log](#the-log)
+- [The Friday of *Touhou Project*](#the-friday-of-touhou-project)
 - [The Friday of *Royalty and Nobility*](#the-friday-of-royalty-and-nobility)
   - [*Lady Mia's Self-Made Downfall*](#lady-mias-self-made-downfall)
   - [*A Royal Pain*](#a-royal-pain)
@@ -458,6 +459,26 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Your Daughter will Do Anything to Have You Back*](#your-daughter-will-do-anything-to-have-you-back)
   - [*Ben and Gwen Tennyson in: Omnifriks*](#ben-and-gwen-tennyson-in-omnifriks)
   - [*Goblin girl in Heat*](#goblin-girl-in-heat)
+
+***
+
+## The Friday of *Touhou Project*
+{: .center}
+
+Let's make prompts about a bullet hell game series created by an alcoholic that has become a content megalith due to permissive licencing, endearing characters, good music, and doujin culture.
+{: .center}
+
+[19th August, 2022](#the-log)
+{: .center}
+
+***What's Touhou?***
+{: .center}
+
+![Rundown](https://files.catbox.moe/izyiys.png)
+{: .center}
+
+![Gensokyo](https://files.catbox.moe/gw4gqe.png)
+{: .center}
 
 ***
 
