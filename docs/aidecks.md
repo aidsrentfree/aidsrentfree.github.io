@@ -119,6 +119,12 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | Card | Name | Description | Post |
 |---|:---:|:---:|:---:|
 | ![Card](https://files.catbox.moe/tvnmds.png) | The Sailor | Psycho seaman. | [>>394970748](https://arch.b4k.co/vg/thread/394910715/#394970748) |
+| ![Card](https://files.catbox.moe/e2c64v.png) | Fingers Cher | Too many fingers. | [>>396062091](https://arch.b4k.co/vg/thread/395988510/#396062091) |
+| ![Card](https://files.catbox.moe/cmk8ta.png) | Steve Perry with a Face on His Back | The source of his countertenor vocal range. | [>>396063381](https://arch.b4k.co/vg/thread/395988510/#396063381) |
+| ![Card](https://files.catbox.moe/yn66bi.png) | Blood Liberace | Don't get blood on the suit. | [>>396065187](https://arch.b4k.co/vg/thread/395988510/#396065187) |
+| ![Card](https://files.catbox.moe/1xotzg.png) | "I'm Tove!" | FUCKING HILARIOUS. | [>>396876039](https://arch.b4k.co/vg/thread/396830716/#396876039) |
+| ![Card](https://files.catbox.moe/o1foct.png) | Grandma | "You hungry, baby?" | [>>396876039](https://arch.b4k.co/vg/thread/396830716/#396876039) |
+| ![Card](https://files.catbox.moe/isvziu.png) | Worm Goat | Stay still; ignore its cries. | [>>396876223](https://arch.b4k.co/vg/thread/396830716/#396876223) |
 
 ***
 
