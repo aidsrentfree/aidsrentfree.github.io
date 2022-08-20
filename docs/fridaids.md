@@ -45,6 +45,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Incident of Celestial Hag Correction*](#incident-of-celestial-hag-correction)
   - [*Jack Garland wanders into Gensokyo*](#jack-garland-wanders-into-gensokyo)
   - [*Do Your Best Kogasa-san!*](#do-your-best-kogasa-san)
+  - [*Big Brothers V2*](#big-brothers-v2)
 - [The Friday of *Royalty and Nobility*](#the-friday-of-royalty-and-nobility)
   - [*Lady Mia's Self-Made Downfall*](#lady-mias-self-made-downfall)
   - [*A Royal Pain*](#a-royal-pain)
@@ -669,6 +670,23 @@ Like the start to a bad joke.
 >*Her morning had been spent on a fruitless search for prey, and as noon arrived she took a moment to rest beside a teahouse. Even as Kogasa took a bite out of a discarded teacake, the hunger for the startled spirit of a victim didn't subside at all. Groaning, she turned to her side. "People just don't fear youkai like they used to, you know?"*
 
 A story about a bothersome umbrella.
+
+### *Big Brothers V2*
+{: .center}
+
+*<https://aetherroom.club/4353>*
+{: .center}
+
+![img](https://files.catbox.moe/da1bz3.jpg)
+{: .center}
+
+>*"She wakes!" A fellow Night lord cried with all the giddiness of a child, the monolith of an astartes reduced to an eager servant. Larz and Krekit collected their war gear before slinking into the desecrated citadel that was once this world's planetary administratum. There, guarded by a cadre of ghoulish traitor legionaries, roused the dimensionally displaced damsel. Even in her slumber, Remilia possessed a perfect beauty; short, blue-grey hair fell from her frilled bonnet in messy tufts.*
+>
+>*Remilia's eyes flickered open, taking in gothic walls and stained glass windows, a strange sense of calm washing over her; a kind of peace. This felt like home, but then confusion passed across her face as if she were struggling to remember where she was. It was almost as if time itself was bent out of shape as Remilia took in what was happening to this alien world, the madness seething around the battlements with its thousands upon thousands of victims screaming and crying for mercy which would never be given. And yet she appeared at peace despite it all, smiling dreamily even though the world around her had become hell on earth.*
+>
+>*"Good morning, little sister!" Larz serrated maw curled into an unnatural yet genuine smile, "did you sleep well?"*
+
+Flung into a dimension entirely unlike her own, Remilia finds companionship in the company of unlikely sycophants: The VIIIth Legion. Midnight clad. Night Lords.
 
 ***
 
