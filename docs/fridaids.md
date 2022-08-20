@@ -34,6 +34,17 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 - [Rules](#rules)
 - [The Log](#the-log)
 - [The Friday of *Touhou Project*](#the-friday-of-touhou-project)
+  - [*Mind the Gap*](#mind-the-gap)
+  - [*Ran's Deal*](#rans-deal)
+  - [*Never Played It*](#never-played-it)
+  - [*Reimu Hakurei-pistu*](#reimu-hakurei-pistu)
+  - [*Gapped*](#gapped)
+  - [*All for the sake of the Hakurei shrine...right?*](#all-for-the-sake-of-the-hakurei-shrineright)
+  - [*Fortune Teller's Fortune Retold*](#fortune-tellers-fortune-retold)
+  - [*Phantasmagoria of Hag Heaven*](#phantasmagoria-of-hag-heaven)
+  - [*Incident of Celestial Hag Correction*](#incident-of-celestial-hag-correction)
+  - [*Jack Garland wanders into Gensokyo*](#jack-garland-wanders-into-gensokyo)
+  - [*Do Your Best Kogasa-san*](#do-your-best-kogasa-san)
 - [The Friday of *Royalty and Nobility*](#the-friday-of-royalty-and-nobility)
   - [*Lady Mia's Self-Made Downfall*](#lady-mias-self-made-downfall)
   - [*A Royal Pain*](#a-royal-pain)
@@ -479,6 +490,185 @@ Let's make prompts about a bullet hell game series created by an alcoholic that 
 
 ![Gensokyo](https://files.catbox.moe/gw4gqe.png)
 {: .center}
+
+### *Mind the Gap*
+{: .center}
+
+*<https://aetherroom.club/4338>*
+{: .center}
+
+![img](https://files.catbox.moe/frqfzj.png)
+{: .center}
+
+>*To his surprise, what emerged out of the eldritch rift was not an equally eldritch monster, but the top half of a woman dressed in flashy purple clothing, smiling at him with a veneer of innocence. Having long blond hair and ample features that her outfit struggled to hide, this woman of exceptional beauty had an undeniable sense of maturity around her. The smiling lady lifted herself out, her legs crossed as she sat in the air with a parasol twirling in her delicate hands.*
+>
+>*Primeval instincts screamed within Rintaro, warning of the aberration in the shape of a human girl. In an instant, he clambered back only to press against the wall directly behind him.*
+>
+>*His antics seemed to only amuse her. "Pleased to meet you, my name is Yukari Yakumo," she introduced herself nonchalantly.*
+
+Yukari is up to no good again, this time she's thinking with portals.
+
+### *Ran's Deal*
+{: .center}
+
+*<https://aetherroom.club/4335>*
+{: .center}
+
+![img](https://files.catbox.moe/89h7re.png)
+{: .center}
+
+>*Ran watches with amusement before responding, "Look at you two go, how cute. Ah, but..." she stands and looks over to the window, which has transitioned from a summery orange into a dark violet, "It's getting late, is it not? Already time for you to be in bed."*
+>
+>*Chen immediately protests, crossing her arms behind her head defiantly. "Nah! I'm having fun with the human, and we're not going to bed!"*
+>
+>*The big, gentle looking kitsune shakes her head with a sigh. "Now listen here, little Chen," Ran says in her soft voice, her tone serious, but with a hint of a caring mother-like quality underneath it all. "It's already been settled. This is your bedtime, and so you should be getting to sleep!"*
+>
+>*"Aw..."*
+>
+>*Chen gives a lip-quivering moue at this interruption. She glances my way, considering her options, and then dejectedly shuffles past me to retreat to her room. I also stand up, and start walking to my own room when...*
+>
+>*"Ah, human, please, wait a second," Ran calls out, interrupting my departure as she closes the door to Chen's room, turning back to face me. "I think there's something we need to discuss before your bedtime, yeah?"*
+
+Another friendly evening with Chen must have pushed Ran over the edge. Guess you're gonna have to stay up past your bedtime to hear what this nine-tailed hag has to say.
+
+(You are not going to be getting to bed by bedtime)
+
+### *Never Played It*
+{: .center}
+
+*<https://aetherroom.club/4340>*
+{: .center}
+
+![img](https://files.catbox.moe/azflfx.png)
+{: .center}
+
+>*"OK, and why exactly do you need to record me beating the game?" I ask him, still confused.*
+>
+>*Well, that question seems to have cut right to the heart of the matter, and Takuro's face turns bright red with embarrassment. "Um... I need footage of, well, 'me' beating the game to prove to people online that I beat the game to prove my, er, gamer cred. Please, you got to help me, I can't afford being exposed as a poser!" he begs, and lord, does he seem desperate. Indeed, before I can even respond, his expression gains a certain... glint. "Please, Flynn... I'd do anything..."*
+>
+>*Whoa, where's this coming from? Did he learn this from some sort of pervy Japanese cartoon or something? "What do you mean, anything?" I ask in return, suddenly feeling a strange combination of concerned... and curious.*
+
+One of my friends is very heavily into a series of magical anime girl shooter games, but one day, he admits to me that while he composes remixed music based on the games' soundtracks and makes art based on the games' characters, he's never actually played them, apparently intimidated by their difficulty. Instead, he begs me to play them for him, and he tells me he'd do anything if I did that in a way that's way too suggestive to be an accident. What have I gotten myself into?
+
+### *Reimu Hakurei-pistu*
+{: .center}
+
+*<https://aetherroom.club/4341>*
+{: .center}
+
+>*It wasn't even mid-day and already the grounds of the Hakurei shrine were filled with the grumbling and half-spoken curses of its lone shrine maiden. For the sixth time this week, Reimu had to clean her bedding. That stupid new penis of hers just wouldn't stop leaking!*
+>
+>*"I swear, if I find who did this to me, they'll be in a world of pain..."*
+
+Let's say, hypothetically speaking, someone has drugged the shrine's water supply for a month now, lacing it with futanium or something. Let's then also assume that Reimu, while suffering the effects had been kept so busy she had no time to ever relief her new appendage in any meaningful way.
+
+
+### *Gapped*
+{: .center}
+
+*<https://aetherroom.club/4342>*
+{: .center}
+
+![img](https://files.catbox.moe/8cvdg2.jpg)
+{: .center}
+
+>*"So if there's a universe out there where Touhou is real, where Yukari Yakumo exists, that means that she could totally manipulate the boundary between that universe and ours! She could totally exist and be out there! Show up any moment! Ah, just the thought is so exciting, isn't it?"*
+>
+>*His gaze ablaze he pumps his fist and looks at me.*
+>
+>*"You really don't get it, huh? She could show up here and take us to Gensokyo! Right now! We just have to believe in her! Those youkai need people to believe in them to exist after all. Something like that."*
+>
+>*Now he's gone totally crazy, hasn't he? I can only shake my head.*
+>
+>*"Bro. Calm down. Calm down! There's no way some anime girl would just show up here, no matter how powerful she is in the story. It's not real, my man."*
+>
+>*Just then, a weird feeling of vertigo overcomes me. It's as if my feet have lost contact with the ground. My eyes widening, I look down at the ground. Where the garish carpet of my friend's apartment had been was now some weird purple hole full of creepy red eyes, tied off with ribbons on each end. Before I can react, I begin to fall straight into it, my friend launching himself at me and planting his belly on the table, unable to reach me before everything goes dark.*
+>
+>*The last thing I hear is a drawn-out scream of frustration from my friend who was clearly staying behind and not currently falling into some weird space.*
+>
+>*"So unfair! Take me instead!"*
+
+Something unexpected happens when your best friend starts going off on another boring rant about how great that Touhou thing is.
+
+### *All for the sake of the Hakurei shrine...right?*
+{: .center}
+
+*<https://aetherroom.club/4343>*
+{: .center}
+
+![img](https://files.catbox.moe/kyncza.jpg)
+{: .center}
+
+>*The wealthy degenerate proved the greed-struck shrine maiden wrong, of course. So for several weeks Jay would pay to watch Reimu perform some duties with her bosom on full display. Thanks to all the 'donations' she had earned this way, Reimu was able to perform a lot of important repairs to the shrine.*
+>
+>*Then, he wanted to actually grope her! That went way too far, at least from where they started. Looking was one thing, but touching? That was too much... or not valued high enough by Jay.*
+>
+>*Eventually Jay got his way and managed to enjoy the sensation of cupping Reimu's breasts in his hands, with some hand-shaped bruises across his face when he pinched her nipples without warning, but the guy didn't seem to mind; in fact he seemed to like it, and paid extra.*
+>
+>*The shrine maiden was drawn from her reverie as Jay cleared his throat, pushing an open coffer filled with money towards the impoverished girl. "One million yen," Jay said in his calm, measured tone. His flushed cheeks betrayed his arousal, however.*
+>
+>*"And in exchange you want to do...what, exactly?"*
+
+Imagine being a rich schmuck with a desire to do terrible things to Reimu. Imagine your surprise when she'll flash you her tits for a tootsie roll. What would some actual dosh do, you wonder? Well...
+
+### *Fortune Teller's Fortune Retold*
+{: .center}
+
+*<https://aetherroom.club/4345>*
+{: .center}
+
+>*Reimu Hakurei, the shrine maiden of the Hakurei Shrine, stands before me poised to exterminate me without remorse. She has refused to listen to reason, and thus I have little choice but to defend myself. What she does not know, however, is that I am one of the only male characters in all of Touhou, and thus all of the masculinity that should have been diffused throughout a large cast is instead flowing through my veins like raw power! Piercing lightless voids that were once eyes gaze at the shrine maiden before me. The darkness of my presence parts like a fine mist as I descend from my place floating just above the ground, touching the ground with the tip of my feet and throwing my arms wide.*
+>
+>*"Come, Reimu Hakurei! Let me show you the power of the Cock!" I roar in challenge.*
+
+Once, one of the only male characters in all of Touhou found himself wrongfully struck down by the dreaded Hakurei Reimu, merciless hound of the status quo. But what if things played had out differently? What if this innocent man stopped holding back, and unleashed the true power of Cock? Fight for freedom through this nightmare, or tread the harsh path to true peace. No matter what, the adventure of Fortune Teller begins now with a bang!
+
+### *Phantasmagoria of Hag Heaven*
+{: .center}
+
+*<https://aetherroom.club/4346>*
+{: .center}
+
+>*With my long labor over, I was free to lean back and observe my handiwork. It had been a difficult thing, installing many of the commodities here in a place so archaic as Gensokyo, but with the right capital and kappa industry it seemed anything was possible. Once a humble inn in the Human Village, this sprawling establishment had been converted into a composite bar, strip club,onsen, and amusement park. Named “Hag Heaven” for what I intended to use it for, I’d finally come upon the eve of my long standing dream; to live my life in the lap of luxury, or more accurately in the lap of mature older youkai.*
+
+A lunatic with the power to manipulate older women and too much money to spare decides to create a place where hags can be hags. His hags, that is.
+
+### *Incident of Celestial Hag Correction*
+{: .center}
+
+*<https://aetherroom.club/4347>*
+{: .center}
+
+>*As a Celestial, my life was one of pleasant and dreamlike amusement, fluttering about from one enjoyment to the next, but recently another of my ilk, the fool named Tenshi, had caused troubles for the land of Gensokyo below. Far from reprimanding her, all proceeded as usual, and I myself grew interested in interfering in my own way once her incident had been resolved. Standing up on my cloudy perch far above the crust of the Earth, I held in my hand a stolen treasure of Heaven, the Rod of Hag Correction. With this artifact I will cause my own incident in Gensokyo, by targeting its oldest and most powerful youkai and using the Rod to correct their behavior to suit my desires. With a mere thought I compel the clouds beneath my feet to carry me to my destination, another spot in the sky where one such hag awaits.*
+
+Emboldened by Tenshi's shenanigans, a bored Celestial steals a heavenly artifact and decides to correct some of Gensokyo's hags.
+
+### *Jack Garland wanders into Gensokyo*
+{: .center}
+
+*<https://aetherroom.club/4348>*
+{: .center}
+
+>*The gentle rustling of leaves mingled in the cool breeze with the innocent laughter of fairies that was carried upon it. The Earth and woods around abounded with green, both life and light in visible abundance. Gentle canopies of shade and streams of light alike mingled in a serene and thoughtful dance between the treetops, and the gnarled roots of ancient trees poked up from the land like the waves of an ocean frozen still in time. All was peaceful, all was beautiful. This land where the fantastic lived in peace with the world was known as Gensokyo.*
+>
+>*“CHAOS is here, I can feel him!” a lone madman snarled to the voices in his head.*
+
+Like the start to a bad joke.
+
+### *Do Your Best Kogasa-san*
+{: .center}
+
+*<https://aetherroom.club/4349>*
+{: .center}
+
+![img](https://files.catbox.moe/k9fkha.png)
+{: .center}
+
+>*The rather conspicuous youkai was given a wide berth by the villagers she passed—not necessarily out of fear. As a karakasa, she fed off the fright and surprise of humans, and her antics had made her quite notorious among the locals. Most viewed her as a persistent, but harmless nuisance; a general annoyance, but not run out of town yet. Her results had been particularly discouraging lately, though—even the children had grown used to her tactics.*
+>
+>*Her morning had been spent on a fruitless search for prey, and as noon arrived she took a moment to rest beside a teahouse. Even as Kogasa took a bite out of a discarded teacake, the hunger for the startled spirit of a victim didn't subside at all. Groaning, she turned to her side. "People just don't fear youkai like they used to, you know?"*
+
+A story about a bothersome umbrella.
 
 ***
 
