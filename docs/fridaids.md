@@ -44,7 +44,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Phantasmagoria of Hag Heaven*](#phantasmagoria-of-hag-heaven)
   - [*Incident of Celestial Hag Correction*](#incident-of-celestial-hag-correction)
   - [*Jack Garland wanders into Gensokyo*](#jack-garland-wanders-into-gensokyo)
-  - [*Do Your Best Kogasa-san*](#do-your-best-kogasa-san)
+  - [*Do Your Best Kogasa-san!*](#do-your-best-kogasa-san)
 - [The Friday of *Royalty and Nobility*](#the-friday-of-royalty-and-nobility)
   - [*Lady Mia's Self-Made Downfall*](#lady-mias-self-made-downfall)
   - [*A Royal Pain*](#a-royal-pain)
@@ -655,7 +655,7 @@ Emboldened by Tenshi's shenanigans, a bored Celestial steals a heavenly artifact
 
 Like the start to a bad joke.
 
-### *Do Your Best Kogasa-san*
+### *Do Your Best Kogasa-san!*
 {: .center}
 
 *<https://aetherroom.club/4349>*
