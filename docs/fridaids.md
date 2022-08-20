@@ -46,6 +46,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Jack Garland wanders into Gensokyo*](#jack-garland-wanders-into-gensokyo)
   - [*Do Your Best Kogasa-san!*](#do-your-best-kogasa-san)
   - [*Big Brothers V2*](#big-brothers-v2)
+  - [*The Magus and Marisa*](#the-magus-and-marisa)
 - [The Friday of *Royalty and Nobility*](#the-friday-of-royalty-and-nobility)
   - [*Lady Mia's Self-Made Downfall*](#lady-mias-self-made-downfall)
   - [*A Royal Pain*](#a-royal-pain)
@@ -687,6 +688,21 @@ A story about a bothersome umbrella.
 >*"Good morning, little sister!" Larz serrated maw curled into an unnatural yet genuine smile, "did you sleep well?"*
 
 Flung into a dimension entirely unlike her own, Remilia finds companionship in the company of unlikely sycophants: The VIIIth Legion. Midnight clad. Night Lords.
+
+### *The Magus and Marisa*
+{: .center}
+
+*<https://aetherroom.club/4354>*
+{: .center}
+
+![img](https://files.catbox.moe/lpch61.jpg)
+{: .center}
+
+>*"Hey!" A spritely voice, laced with both curiosity and accusation, called from a leafy cropping of nearby shrubbery. Sobek lifted his gaze toward the source: a little human girl. Black clad in a simple yet admittedly adorable dress, lined with snowy ruffles and buttoned pockets, she wagged a crooked little broomstick with youthful arrogance. Her skin was as pale white as fresh chalk and her golden curls fell about her face in loose ringlets; almost angelic if not for the smirk which curled at her lips, giving her all the appearance of a naughty child with a stubborn temper. "You're the funniest looking yokai I've ever seen; what's with all the pointy bits?"*
+>
+>*The rustling of leaves seemed to recede behind a low rumble. "A child. I am being insulted by a child." Sobek was downright prehistoric in age and temperament alike, an arch-magus who had lived ten millennia collecting vast libraries of forbidden tomes and daemonic scrolls. To be lectured on this backwater planet by such a primitive little girl; his blood boiled like rivers of promethium. "A child," the exalted one scoffed from the coverage of his shimmering faceplate, "Now I am being questioned by a child. Very well, I see I must make an example out of this world." Sobek dusted at his prosperine tabard with clawed, metallic digits, before honing his psychic might like a swordsman would use a whetstone.*
+
+Ripped from his grim dark universe, exalted sorcerer Sobek of the Thousand Sons must make due under the tutelage of a self-made witch, Marisa.
 
 ***
 
