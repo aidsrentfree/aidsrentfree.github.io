@@ -109,6 +109,7 @@ Probably! This is a brand new event after all. If something isn't working, be su
 | Card | Name | Description | Post |
 |---|:---:|:---:|:---:|
 | ![Card](https://files.catbox.moe/wmnexf.png) | Robert Gramson | "Retired" oldfag. | [>>395034639](https://arch.b4k.co/vg/thread/395005384/#395034639) |
+| ![Card](https://files.catbox.moe/njhjln.png) | "Hornswaggle" Hailey | Wrangling the lands with one eye open. | [>>396055236](https://arch.b4k.co/vg/thread/395988510/#396055236) |
 
 ### **The Denizens**
 {: .center}
