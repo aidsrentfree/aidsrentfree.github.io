@@ -23,9 +23,13 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(26th August, 2022)
+
+- Added [Stephen King](#stephen-edwin-king) module.
+
 (5th August, 2022)
 
-- Added [Non-Consenual Sex](#non-consentreluctance) module
+- Added [Non-Consensual Sex](#non-consentreluctance) module.
 
 (22nd July, 2022)
 
@@ -84,6 +88,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [R. A. Lafferty](#r-a-lafferty)
     - [Raymond Chandler](#raymond-chandler)
     - [Rod Serling](#rod-serling)
+    - [Stephen Edwin King](#stephen-edwin-king)
     - [Thomas Ligotti](#thomas-ligotti)
     - [Thomas Pynchon](#thomas-pynchon)
     - [Vladimir Nabokov](#vladimir-nabokov)
@@ -607,6 +612,13 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 - *Night Gallery 2*
 
 *Those were the only ones I could find easily. I think The Season To Be Wary would've fit in well as well, but I couldn't find it. Maybe that's for V2 of the module, if that will become a thing. Anyway, I decided to include all my files with the module, so you get the original ebooks I used, the original parsing in plaintext that Pandoc made, and my final edited text files that I used for the training. Maybe it's interesting for someone to see how the module was made. Note: I had an ebook that combined the three Twilight Zone books into one, so there's three ebooks in total.*
+
+#### [Stephen Edwin King](https://files.catbox.moe/uhir75.module)
+
+[by Anon](https://arch.b4k.co/vg/thread/397082360/#q397098598)
+
+*Just before the hellmouth swallows the datacenter, here it is: the STEPHEN KING module trained on Carrie, Salem's Lot, The Shining, The Stand (Unabridged), The Dead Zone, Firestarter, Cujo, Christine, Pet Sematary, Thinner, It, Misery, Needful Things, Gerald's Game, Night Shift, Skeleton Crew, and Four Past Midnight.*
+
 
 #### [Thomas Ligotti](https://files.catbox.moe/u998fl.module)
 
