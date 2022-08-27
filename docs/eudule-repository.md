@@ -23,6 +23,10 @@ This page serves as the list of modules trained for the Euterpe model. If you're
 
 ## Recent Changes
 
+(28th August, 2022)
+
+- Added [Masters of Doom](#masters-of-doom) module.
+
 (26th August, 2022)
 
 - Added [Stephen King](#stephen-edwin-king) module.
@@ -307,6 +311,7 @@ This page serves as the list of modules trained for the Euterpe model. If you're
     - [The Dhammapada](#the-dhammapada)
     - [The King James Bible](#the-king-james-bible)
     - [The Meditations of Marcus Aurelius](#the-meditations-of-marcus-aurelius)
+    - [Masters of Doom](#masters-of-doom)
     - [Me, Alice](#me-alice)
     - [Suma Theologica](#suma-theologica)
     - [The Quran](#the-quran)
@@ -4423,6 +4428,14 @@ Samples (both on modified Gojira):
 [by Anon](https://arch.b4k.co/vg/thread/379666235/#379674194)
 
 *Probably treading ground already covered by NAI's baked-in philosophy module, but I'll put this out there anyway. A module trained on the George Long translation of The Meditations of Marcus Aurelius*
+
+#### [Masters of Doom](https://files.catbox.moe/lfan06.zip)
+
+[by Anon](https://arch.b4k.co/vg/thread/396762451/#q396809742)
+
+*Fresh new module, trained on Masters of Doom for about 1300 steps, which comes out to 200%. I have no idea if this module is good at all, but fuck it, here it is anyway.*
+
+*As always, comes with the data I used to train it, so if you think a 100% version might be better, well, you can train it yourself with ease.*
 
 #### [Me, Alice](https://files.catbox.moe/8r05qz.module)
 
