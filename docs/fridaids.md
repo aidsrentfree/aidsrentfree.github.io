@@ -33,6 +33,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 - [Rules](#rules)
 - [The Log](#the-log)
+- [The Friday of *Reversed Gender Roles*](#the-friday-of-reversed-gender-roles)
 - [The Friday of *Touhou Project*](#the-friday-of-touhou-project)
   - [*Mind the Gap*](#mind-the-gap)
   - [*Ran's Deal*](#rans-deal)
@@ -472,6 +473,17 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Your Daughter will Do Anything to Have You Back*](#your-daughter-will-do-anything-to-have-you-back)
   - [*Ben and Gwen Tennyson in: Omnifriks*](#ben-and-gwen-tennyson-in-omnifriks)
   - [*Goblin girl in Heat*](#goblin-girl-in-heat)
+
+***
+
+## The Friday of *Reversed Gender Roles*
+{: .center}
+
+Let's make prompts bringing alpha females and the like to life, and challenge gender norms by flipping them around.
+{: .center}
+
+[2nd September, 2022](#the-log)
+{: .center}
 
 ***
 
