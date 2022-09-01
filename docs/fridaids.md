@@ -479,7 +479,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 ## The Friday of *Reversed Gender Roles*
 {: .center}
 
-Let's make prompts bringing alpha females and the like to life, and challenge gender norms by flipping them around.
+Let's make prompts that invert gender norms by bringing alpha females and the like to life.
 {: .center}
 
 [2nd September, 2022](#the-log)
