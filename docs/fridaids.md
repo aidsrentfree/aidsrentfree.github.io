@@ -19,10 +19,10 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 ## Rules
 
 - A link to your prompt must posted in the thread.
-  - Said link must be to prompts.aidg.club.
+  - Said link must be to aetheroom.club.
 - Your submission must be posted as a reply to an anchor post made **on or near to the Friday** of the event.
   - An image is optional, though recommended. Not for any particular reason, other than it makes my job ~~easier~~ harder it makes it harder. But at least your prompt will be more eye-catching?
-- Please at least try.
+- Please at least *try*.
 - ~~Explore link is optional as well.~~ Well, we certainly aren't doing that anymore.
 
 [Need some inspiration?](https://rentry.co/Writing-Resources-and-Other-Things)
@@ -34,6 +34,12 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 - [Rules](#rules)
 - [The Log](#the-log)
 - [The Friday of *Reversed Gender Roles*](#the-friday-of-reversed-gender-roles)
+  - [*Hunky Homebody Husband*](#hunky-homebody-husband)
+  - [*Rat Racing*](#rat-racing)
+  - [*Bear With Me*](#bear-with-me)
+  - [*Loli-Tamer Tamed? OR Man-Tamer's Meaty Meal*](#loli-tamer-tamed-or-man-tamers-meaty-meal)
+  - [*Knight's Naughty Night*](#knights-naughty-night)
+  - [*Harassed at the Beach*](#harassed-at-the-beach)
 - [The Friday of *Touhou Project*](#the-friday-of-touhou-project)
   - [*Mind the Gap*](#mind-the-gap)
   - [*Ran's Deal*](#rans-deal)
@@ -484,6 +490,95 @@ Let's make prompts that invert gender norms by bringing alpha females and the li
 
 [2nd September, 2022](#the-log)
 {: .center}
+
+### *Hunky Homebody Husband*
+{: .center}
+
+*<https://aetherroom.club/4377>*
+{: .center}
+
+![img](https://files.catbox.moe/w336nc.png)
+{: .center}
+
+>*Alright, lasagna's going fine in the oven, plates and utensils are already set, radio's tuned to Brad's favorite station... yeah, I think I've got everything well under control. And if I've calculated things right, he should be coming back right about... now. And the moment I think that, sure enough, I can hear the telltale jingling of keys near the front door, and a few seconds later, Brad slumps into the hallway.*
+>
+>*"Hi, honey!" I call out from the kitchen. "Dinner's almost ready, so just sit down in the dining room!"*
+
+When an injury cut my football career dreams short, I was absolutely crushed and wondered if I would ever find my calling in life. A few years later, I find myself happily married to a very pretty, if rather brash husband that I adore. The former college football star, turned homebody husband? Why, it's more likely than you might think!
+
+### *Rat Racing*
+{: .center}
+
+*<https://aetherroom.club/4379>*
+{: .center}
+
+![img](https://files.catbox.moe/u2vp0f.png)
+{: .center}
+
+>*Tim was staring at Allen incredulously, disbelieving his friend's take on stat balance and armor preference, until an unlikely sight caught his attention. Several books knocked off the shelves behind Allen, as a white-furred presence crested over the very top of the towering shelf. Ria's whiskered snout contorted with upset as she gazed down at the seated pair from on high. Tim was so perplexed, he barely had time to shout out in alarm, "Allen, look!" But it was too late.*
+>
+>*Incensed beyond reason at this point, Ria leapt boldly from the top ledge, sending the huge shelf teetering dangerously and sending books flying from both sides. With a squealing, "Hieeeea!" sound, the petite murid launched herself down upon the closest of the two, slamming Allen down from his chair in a stupendous clatter. Ria kept the larger human man down by locking her slender, toned thighs about his head, her bristling white fur muffling his confused shouts. The rodent student's short skirt concealed her coupling with Allen's features, but it soon became clear that Ria wasn't wearing underwear.*
+
+Procrastination can make the college experience hectic, and prescription drug abuse is not a consistent recipe for success.
+
+### *Bear With Me*
+{: .center}
+
+*<https://aetherroom.club/4380>*
+{: .center}
+
+![img](https://files.catbox.moe/qmlihm.png)
+{: .center}
+
+>*Though Sharda barely felt his meager blows across her sturdy jaws and cheeks, the surprise of it caught her off-guard and alerted the bear's defensive instincts. She gave him a warning swipe, which sent the delicate manling sprawling across the rocky cavern ground. The bear whined with worry, nuzzling at the fallen lad as red scratches welled across his pale face. Dan had crumpled under the bear's strength, and hit the back of his head hard enough on the cave floor to create a matted spot of blood. The defeated human whimpered and pleaded with the musky, hoary animal leering over him. His confusion preventing the human from noticing the concern and kindness in Sharda's big, brown eyes. As the human youth's hysteria rose with mortal terror, the maternal grizzly knew she had to comfort the scared human and make her benevolent intentions clear.*
+
+Hunting isn't always an outlet for latent sociopathy; sometimes it's just a chance to enjoy the grandeur of nature and connect with your relatives in a masculine fashion. When Dan's dad dies prematurely of work-related illness, the youth goes out on one last fateful trip to honor his deceased patriarch's memory. However, this young man may find the woods harbors more surprises than he ever could have ever imagined.
+
+### *Loli-Tamer Tamed? OR Man-Tamer's Meaty Meal*
+{: .center}
+
+*<https://aetherroom.club/4381>*
+{: .center}
+
+![img](https://files.catbox.moe/dbneqx.jpg)
+{: .center}
+
+>*"Of course they hired you, poor fools. A whole meal." A small silhouette emerged from the shadows, and with it, a carnal aura choked the air around me. We were kindred colleagues of a sort, masters of our own side of the same coin.*
+>
+>*"How can you be surprised? Those Podunk idiots can't handle you. So they made the right call and hired a professional. If anyone's to blame it's yourself; you've been a bit sloppy, haven't you?"*
+>
+>*A wry chuckle reverberated across the weathered walls, "And you're one to talk." The shadows left her, giving birth to flaxen-haired seductress before me. There was no wonder she'd stolen the seed and hearts of so many weak-willed bastards; by my own power alone did I resist her charms. An unassuming gown of white silk concealed her lithe form, but the moonlight played upon her subtle curves. This was a child, no doubt, though the Man-Tamer most certainly lived up to her reputation, "There's still talk of your escapades in Dilus."*
+>
+>*I shrugged, "Escapades? You deflower a duke's daughter, and maybe her handmaidens as well, and they call you a bad guy."*
+>
+>*The alleyway, usually a bile-stained hideaway for drunkards, had become a battlefield of legendary wills. We spoke like old friends, the infamous Man-Tamer and I, though our reputations had not been born of words. In fact, we barely conversed as an unspoken war raged between us; it felt almost wrong to interrupt the moment. Plus, with each passing moment I could feel her spell unraveling mine; I needed to focus.*
+
+The tables are turned when the legendary Loli-Tamer meets his fate-sworn nemesis. A cocky cunny crusher is confronted by a cum-draining kid.
+
+### *Knight's Naughty Night*
+{: .center}
+
+*<https://aetherroom.club/4382>*
+{: .center}
+
+![img](https://files.catbox.moe/ox6zr1.png)
+{: .center}
+
+>*The shivering royal clutched up to his lupine savior tight, burying his face into the soft fluff of her collarbone. Isolde became increasingly aware of her close, intimate proximity with the prince, his heartbeat and warmth filling her with a long-repressed sense of affection. She draped her long muzzle over the top of his head protectively, still rubbing the cold from his body where ever her paws found it.*
+>
+>*The night had nearly broken to dawn, and Isolde was in a groggy delirium from her lack of sleep, keeping alert and attentive to the prince clutching about her plaintively. When Prince Vayner began lightly humping up between Isolde's strong, furry thighs, the wolf woman wasn't in a coherent state. She squeezed up tighter around the smaller man, licking at the top of his blonde head affectionately as she gratefully received his pressing hips. Isolde was so dazed with sleepiness she didn't even fully realized when the dry humping progressed to penetration, Vayner's swelling manhood peaking out as he thumbed his ill-fitting clothes down. The prince gasped softly as he trepidatiously prodded his engorged tip through Isolde's matted pubic fur, the wolf woman whining out in appreciation when his phallus stroke home into her puffy vaginal lips.*
+
+Everyone knows what to do when a dragon kidnaps a princess. However, when a dragoness kidnaps a prince, a professional is needed on the scene.
+
+### *Harassed at the Beach*
+{: .center}
+
+*<https://aetherroom.club/4386>*
+{: .center}
+
+>*"Mmh... look at that ass!" a second girl says loudly. Even in a modest pair of trunks and matching swim shirt, I can't escape it. I knew I should have had a female friend come with me—the beach is hardly a safe place to spend an afternoon when you're a single young man. I didn't want to go alone, but I don't have many guy friends that would be interested in going and only two female coworkers who I know well enough to feel safe asking. Both of those coworkers ridiculed me for my fears and said that they were too busy to listen to my irrational complaining, adding that no one will bother me if I don't act like a slut. I tried all morning to convince myself that they were right, but the raucous jeering that surrounds me proves once more that my fears are justified.*
+
+Nowhere is safe for young men in today's society. They're the target of constant harassment and sexually-charged comments, with even young girls feeling bold enough to torment them with no legal or social consequences.
 
 ***
 
