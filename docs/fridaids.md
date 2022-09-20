@@ -40,13 +40,13 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Battle Axe Wedding*](#battle-axe-wedding)
   - [*Ravishing Reds*](#ravishing-reds)
   - [*Aomori Amour*](#aomori-amour)
-  - [*Big Bill Hell's New & Used Cargirl Emporium *](#big-bill-hells-new--used-cargirl-emporium-)
+  - [*Big Bill Hell's New & Used Cargirl Emporium*](#big-bill-hells-new--used-cargirl-emporium)
   - [*The Man In The Moon*](#the-man-in-the-moon)
   - [*Zoodystopia*](#zoodystopia)
   - [*Sue Loves You Too*](#sue-loves-you-too)
   - [*Beastie Bestie*](#beastie-bestie)
   - [*Mimi's Service Ticket*](#mimis-service-ticket)
-  - [*Solve My Riddles or Become Kitty's Kibble *](#solve-my-riddles-or-become-kittys-kibble-)
+  - [*Solve My Riddles or Become Kitty's Kibble*](#solve-my-riddles-or-become-kittys-kibble)
   - [*The Night is Young and Full of Surprises*](#the-night-is-young-and-full-of-surprises)
 - [The Friday of *Reversed Gender Roles*](#the-friday-of-reversed-gender-roles)
   - [*Hunky Homebody Husband*](#hunky-homebody-husband)
@@ -610,7 +610,7 @@ You are Rafal Gan-Ganowicz, a Polish mercenary with a deep hatred for communism.
 
 While out on an ill-advised hike on Mt. Iwaki, a blizzard forces you to take shelter at an old shrine inhabited by a Kitsune. After bringing you inside and warming you back up, you learn that she's been alone there for quite some time and has grown very lonely as a result. Will you take it upon yourself to cheer up your rescuer?
 
-### *Big Bill Hell's New & Used Cargirl Emporium *
+### *Big Bill Hell's New & Used Cargirl Emporium*
 {: .center}
 
 *<https://aetherroom.club/4422>*
@@ -715,7 +715,7 @@ Sometimes the rich can play by different rules, and when you're beautiful, you c
 
 Mimi the cat girl merchant put a 'service ticket' on sale in her shop for a ludicrous price as a joke. No one would ever buy it, right? 
 
-### *Solve My Riddles or Become Kitty's Kibble *
+### *Solve My Riddles or Become Kitty's Kibble*
 {: .center}
 
 *<https://aetherroom.club/4428>*
