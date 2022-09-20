@@ -33,6 +33,21 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 - [Rules](#rules)
 - [The Log](#the-log)
+- [The Friday of *Human and Non-Human Relationships*](#the-friday-of-human-and-non-human-relationships)
+  - [*Scaly Stalker*](#scaly-stalker)
+  - [*Verdant Rejuvenation*](#verdant-rejuvenation)
+  - [*Unveiling Surprises*](#unveiling-surprises)
+  - [*Battle Axe Wedding*](#battle-axe-wedding)
+  - [*Ravishing Reds*](#ravishing-reds)
+  - [*Aomori Amour*](#aomori-amour)
+  - [*Big Bill Hell's New & Used Cargirl Emporium *](#big-bill-hells-new--used-cargirl-emporium-)
+  - [*The Man In The Moon*](#the-man-in-the-moon)
+  - [*Zoodystopia*](#zoodystopia)
+  - [*Sue Loves You Too*](#sue-loves-you-too)
+  - [*Beastie Bestie*](#beastie-bestie)
+  - [*Mimi's Service Ticket*](#mimis-service-ticket)
+  - [*Solve My Riddles or Become Kitty's Kibble *](#solve-my-riddles-or-become-kittys-kibble-)
+  - [*The Night is Young and Full of Surprises*](#the-night-is-young-and-full-of-surprises)
 - [The Friday of *Reversed Gender Roles*](#the-friday-of-reversed-gender-roles)
   - [*Hunky Homebody Husband*](#hunky-homebody-husband)
   - [*Rat Racing*](#rat-racing)
@@ -479,6 +494,256 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [*Your Daughter will Do Anything to Have You Back*](#your-daughter-will-do-anything-to-have-you-back)
   - [*Ben and Gwen Tennyson in: Omnifriks*](#ben-and-gwen-tennyson-in-omnifriks)
   - [*Goblin girl in Heat*](#goblin-girl-in-heat)
+
+***
+
+## The Friday of *Human and Non-Human Relationships*
+{: .center}
+
+Let's make prompts about finding common ground with the inhuman.
+{: .center}
+
+[16th September, 2022](#the-log)
+{: .center}
+
+### *Scaly Stalker*
+{: .center}
+
+*<https://aetherroom.club/4416>*
+{: .center}
+
+![img](https://files.catbox.moe/yd35md.png)
+{: .center}
+
+>*I wasn't in the mood for this, and the confusion was making my head hurt. "Why is a dragon catering meals to a lone traveler in the middle of nowhere? Why were you waiting for me to fall asleep? How long have you been watching me?"*
+>
+>*"Oh, a few months, on and off," the monster blurted out. She immediately clapped her paws over her mouth and shook her head furiously, as though she hadn't meant to share that piece of information.*
+>
+>*The tip of my blade dipped a little as I sunk into thought, oblivious to the dragoness' flustered fidgeting. "Few months. You part of Neroyn's brood, then?" I asked, remembering the fearsome, scaled tyrant I had a hand in putting in his grave.*
+>
+>*A silver muzzle bobbed in assent. "F-Father," she said shakily. Her taloned toes scuffed the ground sheepishly. "Thank you. F-For killing him. I… I saw you do it, and… he was always so scary." Her head slumped, and her shoulders shook slightly. "If I was brave like you, maybe I could've saved mother."*
+>
+>*Sighing, I sheathed my dagger. Fair enough. If this was a ruse, a dragon, true or born, acting like a scared little girl was too absurd to take seriously. "Whatever. If you're not here to fight, then pass the grub," I told her bluntly. "Dunno how dragons feel about hot springs, but if you want to stick around, be my guest."*
+
+Ornery monster hunter has an encounter with a monstrous admirer.
+
+### *Verdant Rejuvenation*
+{: .center}
+
+*<https://aetherroom.club/4417>*
+{: .center}
+
+![img](https://files.catbox.moe/snnl6q.png)
+{: .center}
+
+>*"So, um... hi, Rupert. I'm Ian, and, uh, I like taking pictures in your forest, I guess? Nice to meet you?" I tell him, holding out my hand for a shake that he accepts with a genuine happiness in his expression.*
+>
+>*"Indeed, this be a most fortuitous encounter! Say, wouldst thou countenance coming along to mine abode? There be a rather urgent matter I require assistance from someone such as thee for..." he then asks me, trailing off perhaps a bit sheepishly.*
+>
+>*Logic might dictate that following along a strange fox-man that claims to be some sort of divine being deep into the forest is a recipe for disaster, I still find myself nodding. I can't really explain why... he just seems so nice! Despite this situation being so strange and unusual, and despite his talk being... a bit antiquated, he just seems so approachable and friendly that I want to come along. And, well, I'd be lying if there wasn't a part of me that didn't want to pet his fluffy fur, though I can't see myself admitting that just now.*
+
+I've always liked the forest. Quiet, peaceful, and serene. But on one of my trips through it, I suddenly find myself meeting a strange divine being, like a fox, but also like a man. Seems that he appreciates my appreciation of the forest and wishes to invite me to his retreat in a remote glade. And there, he has a request of me that is rather... intimate...
+
+### *Unveiling Surprises*
+{: .center}
+
+*<https://aetherroom.club/4419>*
+{: .center}
+
+![img](https://files.catbox.moe/1cjdzt.png)
+{: .center}
+
+>*The woman was silent on the other side of the door, before asking again, "Honey, are you sure? Who's this stranger you brought with you? Are you being restrained? Are they pointing a weapon at you right now?" Aidan looked at all the worried weasel faces surrounding him, then scrambled out towards the door as they parted in waves to make-way for him.*
+>
+>*Aidan stared through the door's crack and said, "I'm fine" before shoving it closed again, and readjusting the shifted blocking chest. He whiled around, staring at all the little weasels surrounding him, their attentive eyes staring right back in a creepy multitude of pairs. "Okay. Alright. Fuck. Really? Really though? Ferrets?"*
+>
+>*"We're weasels, Aidan, please. We know this is your first semester at college, but have some sense. Look, we know what you were really after earlier...we can still have fun together. Just ease into it, okay? We'll all be very very friendly with you. Just, um, treat us like your pet, alright? Bend down, and give us some petting, okay? We're just normal weasels, keep telling yourself that. Just a little scritch."*
+
+Aidan is an inexperienced young man, about to engage in his first semester at Jones college. However, when a mysterious woman wearing a full-body Burka disrupts his friendship with a Tunisian named Sami, Aidan learns the true meaning of surprise.
+
+### *Battle Axe Wedding*
+{: .center}
+
+*<https://aetherroom.club/4418>*
+{: .center}
+
+![img](https://files.catbox.moe/cyps85.png)
+{: .center}
+
+>*I did not expect him to say yes. That did, in fact, drastically complicate matters. That night, I slept very badly, so many questions buzzing through my mind as to just what I had gotten myself into, especially with him sleeping right next to me—apparently, to save money, the prostitutes at this combination inn and brothel just sleep in the same bed as the clients. But then, in the morning, I turned around to face him as he slowly awoke, an adorable, sleepy smile on his face, and my resolve was immediately restored. This was what I wanted, every day of the rest of my life. To wake up and see that smile.*
+
+The last week has been a complete whirlwind. Falling in love with a male orc prostitute, a spur of the moment confession, a few days to decide upon marriage, a wild and crazy ceremony... but now it's time for some peace and quiet. Just the two of us in a slightly above average inn bedroom, an entire evening for us to have our wedding night. And then? The world.
+
+### *Ravishing Reds*
+{: .center}
+
+*<https://aetherroom.club/4420>*
+{: .center}
+
+![img](https://files.catbox.moe/z6audb.jpg)
+{: .center}
+
+>*You think to yourself about what a typical Soviet bitch she is. With her arm bleeding and almost assuredly broken, the woman doesn't pose much of a threat, but she still has a loud mouth. As she tries to stop the bleeding you take a better look at her. She's well built for a woman and has large breasts that stretch her uniform along with her quite shapely ass. Her hair was a dark brown and cut into a short bob. Her skin looked tanned from the desert sun. Despite being wounded and unarmed, the woman keeps glaring at you with her piercing blue eyes.*
+>
+>*Regardless of her feminine features, you can't forget that she's a dirty Red. You need to get whatever information you can from her. That said, it doesn't mean you can't have fun with your interrogation. There's nothing morally wrong with doing what you want with her. After all, she isn't human, she's just a commie.*
+
+You are Rafal Gan-Ganowicz, a Polish mercenary with a deep hatred for communism. You find a female Soviet spy and need to make her talk. There's no shame in doing what you want to her, she's not human after all.
+
+### *Aomori Amour*
+{: .center}
+
+*<https://aetherroom.club/4421>*
+{: .center}
+
+![img](https://files.catbox.moe/15p50h.jpg)
+{: .center}
+
+>*"You came just in time to join me for dinner," Yuri said happily as she waved some steam away from the top of her cup. "I do so rarely get visitors these days."*
+>
+>*"Oh? And what do Kitsune have for dinner, fried tofu?" I asked before taking another sip of my tea, making Yuri laugh softly.*
+>
+>*"No, I've never been a fan of fried tofu, if you can truly believe that," Yuri said. "Which is a shame, since that's the offering everyone thinks Kitsune want. When people still visited my shrine, that was all we used to get—my daughters liked it, at least. No, tonight's dinner is curry, and I do hope you enjoy it spicy."*
+>
+>*"Does no one visit this place anymore? It is out of the way, I know, but I can't imagine you're the only one who's ever here," I asked, detecting a hint of sadness in Yuri's voice.*
+>
+>*"No, no one." Yuri said simply.*
+
+While out on an ill-advised hike on Mt. Iwaki, a blizzard forces you to take shelter at an old shrine inhabited by a Kitsune. After bringing you inside and warming you back up, you learn that she's been alone there for quite some time and has grown very lonely as a result. Will you take it upon yourself to cheer up your rescuer?
+
+### *Big Bill Hell's New & Used Cargirl Emporium *
+{: .center}
+
+*<https://aetherroom.club/4422>*
+{: .center}
+
+![img](https://files.catbox.moe/5udb7k.jpg)
+{: .center}
+
+>*"Welcome to Big Bill's! Finest used car lot this side of the state!" he says in a voice that is friendly but perhaps a bit too loud and overbearing. "Looking to get yourself a cargirl today?" he asks you with a grin that could sour milk with how insincere it is.*
+>
+>*"Uh, yeah," you say a bit awkwardly as you try to judge just how sleezy this salesman is. "I mean, I'm here to look around. Not sure if I want to actually buy a cargirl yet or not." you say, trying to make yourself seem like a hard sell. The last thing you need is for this guy to think that you're an easy mark.*
+>
+>*"Well, you're in luck! We got the best deals in the city! Cargirls of every make and model! Tell me what you're looking for and I'll set you up with a killer deal. Hell, if you're a first time buyer I'll even give you a 0% down payment! Can't beat that with a ten foot pole, let me tell you!" he says as he places a somewhat unwelcome hand on your shoulder and leads you around the lot.*
+
+FUCK YOU BALTIMORE!
+
+IF YOU'RE HORNY ENOUGH TO BUY A NEW CARGIRL THIS WEEKEND, YOU'RE A BIG ENOUGH CUCK TO COME TO BIG BILL HELL'S CARGIRLS!
+BAD CARGIRLS, CARGIRLS THAT GO DOWN, THIGHS!
+
+IF YOU THINK YOU'RE GOING TO FIND A HOT CARGIRL AT BIG BILL'S, YOU CAN KISS HER ASS!
+
+### *The Man In The Moon*
+{: .center}
+
+*<https://aetherroom.club/4415>*
+{: .center}
+
+![img](https://files.catbox.moe/tgsm1c.jpg)
+{: .center}
+
+>*She's nothing but a dream, though, and after rolling off from of the slab of metal that the agency has dubbed my bed, I pull myself through the small opening in the ceiling and make my way over to the bathroom. Getting used to the gravity up here has been quite a challenge so far, but thankfully it seems like my body is finally starting to adjust to the changes.*
+>
+>*I can see my own reflection staring back at me from the mirror, but the more I stare at it, the more uncanny it becomes; almost as if there's another person looking back at me. I'm a mess, and if it wasn't for the mission, I'd probably still be sleeping right now. My hair is disheveled, and the bags under my eyes are so heavy that they're practically pulling my face down. I have work to do today, though, the same work as every day—more samples, more tests, more analysis—so I can't afford to let myself slack off.*
+>
+>*"What's wrong?" a voice rings out from inside of my head as I finish cleaning up. The voice sounds as if it is coming from nowhere at all. "Don't you miss me?" With my heart pounding, I whip around. Like usual, the entire ship is empty—I'm alone. "What are you waiting for?" the voice asks again. "I know you want to see me again."*
+
+If the moon wasn't made of cheese before, it will be after this schizophrenic astronaut is done with it.
+
+### *Zoodystopia*
+{: .center}
+
+*<https://aetherroom.club/4423>*
+{: .center}
+
+![img](https://files.catbox.moe/owm3gy.png)
+{: .center}
+
+>*"There he is, there's Mongo! He's the big one standing up over there! Oh wow, this is spectacular. He's doing some kind of...dance, I've never seen this sort of behavior before! Please, film this wonderful event!" Shelly pointed out a big, burly human male, covered in dirt and a thin coat of body hair.*
+>
+>*Mongo was waving his arms about and stomping wildly in a strange pattern, visibly alarming some of his tribemates, but blatantly vying for the tourists' attention. He was hooting unintelligibly, and whirling in frantic circles, making an outrageous spectacle of himself. A little squirrel girl began laughing with such divine, innocent mirth at the humorous sight, that the collective mood became strikingly jovial and everyone was happily taking footage of the human beast's frenzied dancing number. Shelly was leaning over the rail with a look of child-like wonder on her fluffy muzzle, saying back to the group, "This is so unlike Mongo, but I wonder were Bongo's gotten off to? I don't see him anywhe--AIEEEE!"*
+
+Shelly loves working as a tour guide at her local zoo. Everyone thinks the coyote girl is quite passionate about what she does, and her bubbling enthusiasm is infectious as she describes every aspect of the Bay Area zoo's exotic exhibits. However, the canine cutie's love of nature and nurturing the endangered will soon be imperiled by a climatic incident at the zoo's most popular enclosure.
+
+### *Sue Loves You Too*
+{: .center}
+
+*<https://aetherroom.club/4424>*
+{: .center}
+
+![img](https://files.catbox.moe/pe0wlt.png)
+{: .center}
+
+>*"Sue, baby, I'm home!" He announced with pride, the door sliding shut again and locking behind him.*
+>
+>*"Honey, is that you?" Came his wife's voice from somewhere deep within the cramped space of his cookie-cutter apartment unit. She'd been waiting here all along. Of course she had; why wouldn't she? Her love was unstinting, like a sunrise stretching across the sky during the longest night of the year. He grinned at the thought of how many times over those three years he'd called out her name just to hear this exact reply. It wasn't really any different than what he expected — yet somehow it felt so very good to hear it come back at him.*
+>
+>*He walked deeper into the little studio until he found Sue sitting right where he expected — on the bed that dominated most of their living space; it served more often as a couch, but when it came time to get cozy, it's purpose was pliant.*
+>
+>*As if she'd been doing this all day, Sue sat pretending to read an old copy of some sci-fi novel, while posing in a bit of a staged way. His face lit up as he approached; after all these years together, he still couldn't tell exactly which poses were real and which were merely his imagination working overtime. It didn't matter; they were the same thing to him. All he cared about was that his beloved wife was happy.*
+
+It's the story we all know and love, but with an open-ended twist. Who is Sue? Your ai will decide who Sue is. But remember this, Sue loves (You).
+
+### *Beastie Bestie*
+{: .center}
+
+*<https://aetherroom.club/4425>*
+{: .center}
+
+![img](https://files.catbox.moe/c2ty9g.png)
+{: .center}
+
+>*"Angelina, Angelina sweetie. No, this is wrong. You...you're crazy or something. You shouldn't be doing things like this with people, at all, I mean. I'm not going to fuck your horse. I'm still willing to be your boyfriend, I guess but...you can't keep asking me to just, debase myself like this. I'm not into this kind of freaky shit, and even if you are...it's sick!" Roy felt a deep sense of vindication and relief as he expressed himself to the petite fox girl in the stable, his heart hammering with emotional intensity. Angelina just stared at him and blinked for a moment, her expression profoundly blank and empty.*
+>
+>*Suddenly, she spoke in a quiet, even tone, "I'll give you $20,000 to fuck my horse, Roy. I don't care about what we do afterwards, but if you do that, I'll make it worth your while. Fucking Peasant." She spat on the floor for emphasis at these last words, her expression suddenly fuming and half-feral. Roy just stared at her with profound sadness in his eyes, trembling slightly as he thought about how strange the whole day had turned out.*
+>
+>*"$40,000 dollars, and you have to PROMISE me there aren't any fucking...cameras or Nests or whatever gizmos your rich, fluffy ass can afford..."*
+
+Sometimes the rich can play by different rules, and when you're beautiful, you can get away with even more. Beautiful, rich, fox women, though? You might not even wanna know what they can get away with...
+
+### *Mimi's Service Ticket*
+{: .center}
+
+*<https://aetherroom.club/4426>*
+{: .center}
+
+![img](https://files.catbox.moe/fb47ht.jpg)
+{: .center}
+
+>*Typically, you come to Mimi's store to buy food, or perhaps some incense or candles to enliven the mood in your shop. But there is one item the cat girl has always had on display, more as a joke than a serious item for sale, but Mimi has always said she would honor it if someone bought it. The item in question? 'Mimi's service ticket.' Looking at the ticket, it has a cute, if crude, drawing of Mimi's smiling face on it with the statement: "This ticket grants the bearer the right to receive special service from Mimi whenever they wish!" And of course, by special service she means sexual favors.*
+>
+>*Mimi looks at you with her head cocked, her ears sticking straight up as she wonders what you are there to buy. "Do you want some weapon polish? Some new cooking utensils?" She says in a curious tone, it never occurred to her that anyone would try and buy the ticket, after all, she priced it at fifty thousand gold coins, that's enough to buy half the city! No one would ever pay that much!*
+
+Mimi the cat girl merchant put a 'service ticket' on sale in her shop for a ludicrous price as a joke. No one would ever buy it, right? 
+
+### *Solve My Riddles or Become Kitty's Kibble *
+{: .center}
+
+*<https://aetherroom.club/4428>*
+{: .center}
+
+![img](https://files.catbox.moe/qysqi4.jpg)
+{: .center}
+
+>*The sphinx calmly padded up to the squealing, screaming, magically frozen group of women and casually plopped down on her furred side, tail sweeping about lazily. She raised her head and wearily regarded the group, occasionally licking at her wide paws as she spoke, "So, I've been magically enchanted to protect the Pharaoh's tomb buried beneath your feet. I don't know if you're as savvy as that last group of interlopers I encountered, but I am the Sphinx of legend. My name is Heru-em Akhet, and I have a riddle for your group. Answer it correctly, and I'll let you go. You may even have the riches of the Pharaoh's horded wealth, no grave robbers have despoiled this land. Answer incorrectly, however, and I shall devour you alive. Understood?"*
+
+Archaeologists often do everything they can to uncover decrepit tombs and discover the true meanings of ancient legends. However, when presented with a stunning a nd unique opportunity to intimately investigate just such a myth, Odell's tour group of female archaeologists balk at the chance to get up-close-and-personal with a piece of Egyptian history.
+
+### *The Night is Young and Full of Surprises*
+{: .center}
+
+*<https://aetherroom.club/4429>*
+{: .center}
+
+![img](https://files.catbox.moe/317kiz.jpg)
+{: .center}
+
+>*"Wait!" Cindy yelled, her gloved hand outstretched longingly. The bat woman stopped at her command, but still looked ready to fly off at any moment. The balloonist's fear was rapidly being replaced by genuine curiosity, as she looked over the fluffy bat woman before her in the moonlight. The woman's features were bestial, but strangely cute, though her nose was...non-traditional at best. Her clawed feet gripped the wicker basket bottom effortlessly, her strong legs flexing underneath her velvety body fur. Cindy couldn't help but also notice that the womanly creature was completely nude, and possessed a rather lovely set of furred breasts, and perhaps something even more interesting under the tuft of fluff between her toned thighs. "W-what's your name? I'm Cindy."*
+>
+>*The bat girl's big, brown eyes furtively glanced at Cindy in return, as she chittered back, "Honda. I just wanted to make sure you were okay, I...I should really go."*
+>
+>*"Please, no, don't. Wait, Honda? Like the car? Who named you, a fucking advertising company?" Cindy asked, trying not to slur her words.*
+
+We all want to meet the perfect person for ourselves, as success in romance is usually the biggest guarantee of happiness in life. However, when feisty, stout hot-air balloonist Cindy finds out who's perfect for her, she's caught off-guard by the non-traditional encounter.
 
 ***
 
