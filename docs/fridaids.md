@@ -31,469 +31,809 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 
 ## The Log
 
-- [Rules](#rules)
-- [The Log](#the-log)
-- [The Friday of *Human and Non-Human Relationships*](#the-friday-of-human-and-non-human-relationships)
-  - [*Scaly Stalker*](#scaly-stalker)
-  - [*Verdant Rejuvenation*](#verdant-rejuvenation)
-  - [*Unveiling Surprises*](#unveiling-surprises)
-  - [*Battle Axe Wedding*](#battle-axe-wedding)
-  - [*Ravishing Reds*](#ravishing-reds)
-  - [*Aomori Amour*](#aomori-amour)
-  - [*Big Bill Hell's New & Used Cargirl Emporium*](#big-bill-hells-new--used-cargirl-emporium)
-  - [*The Man In The Moon*](#the-man-in-the-moon)
-  - [*Zoodystopia*](#zoodystopia)
-  - [*Sue Loves You Too*](#sue-loves-you-too)
-  - [*Beastie Bestie*](#beastie-bestie)
-  - [*Mimi's Service Ticket*](#mimis-service-ticket)
-  - [*Solve My Riddles or Become Kitty's Kibble*](#solve-my-riddles-or-become-kittys-kibble)
-  - [*The Night is Young and Full of Surprises*](#the-night-is-young-and-full-of-surprises)
-- [The Friday of *Reversed Gender Roles*](#the-friday-of-reversed-gender-roles)
-  - [*Hunky Homebody Husband*](#hunky-homebody-husband)
-  - [*Rat Racing*](#rat-racing)
-  - [*Bear With Me*](#bear-with-me)
-  - [*Loli-Tamer Tamed? OR Man-Tamer's Meaty Meal*](#loli-tamer-tamed-or-man-tamers-meaty-meal)
-  - [*Knight's Naughty Night*](#knights-naughty-night)
-  - [*Harassed at the Beach*](#harassed-at-the-beach)
-- [The Friday of *Touhou Project*](#the-friday-of-touhou-project)
-  - [*Mind the Gap*](#mind-the-gap)
-  - [*Ran's Deal*](#rans-deal)
-  - [*Never Played It*](#never-played-it)
-  - [*Reimu Hakurei-pistu*](#reimu-hakurei-pistu)
-  - [*Gapped*](#gapped)
-  - [*All for the sake of the Hakurei shrine...right?*](#all-for-the-sake-of-the-hakurei-shrineright)
-  - [*Fortune Teller's Fortune Retold*](#fortune-tellers-fortune-retold)
-  - [*Phantasmagoria of Hag Heaven*](#phantasmagoria-of-hag-heaven)
-  - [*Incident of Celestial Hag Correction*](#incident-of-celestial-hag-correction)
-  - [*Jack Garland wanders into Gensokyo*](#jack-garland-wanders-into-gensokyo)
-  - [*Do Your Best Kogasa-san!*](#do-your-best-kogasa-san)
-  - [*Big Brothers V2*](#big-brothers-v2)
-  - [*The Magus and Marisa*](#the-magus-and-marisa)
-- [The Friday of *Royalty and Nobility*](#the-friday-of-royalty-and-nobility)
-  - [*Lady Mia's Self-Made Downfall*](#lady-mias-self-made-downfall)
-  - [*A Royal Pain*](#a-royal-pain)
-  - [*Royal Pains - the path of anger*](#royal-pains---the-path-of-anger)
-  - [*A New Style of Harem*](#a-new-style-of-harem)
-  - [*The Wild's New Garb*](#the-wilds-new-garb)
-  - [*Kalphite Queen Head*](#kalphite-queen-head)
-  - [*The Knight, The Princess and The Dragon*](#the-knight-the-princess-and-the-dragon)
-  - [*Prince Pursuing Potency Potion*](#prince-pursuing-potency-potion)
-- [The Friday of *Wholesome Lovey Dovey Romance*](#the-friday-of-wholesome-lovey-dovey-romance)
-  - [*Rachel and Karumi*](#rachel-and-karumi)
-  - [*Drive Me Crazy*](#drive-me-crazy)
-  - [*Cornered Prey*](#cornered-prey)
-  - [*A Knock At The Door*](#a-knock-at-the-door)
-  - [*Dark Ride Desires*](#dark-ride-desires)
-  - [*All-Night Book Store*](#all-night-book-store)
-  - [*Sucks You Got Dumped Bro*](#sucks-you-got-dumped-bro)
-  - [*Love Is Blind*](#love-is-blind)
-  - [*Sharing The Light*](#sharing-the-light)
-  - [*Gnarled Gnolls and Gory Gowns*](#gnarled-gnolls-and-gory-gowns)
-  - [*Lana and the Rain*](#lana-and-the-rain)
-  - [*Kokomo*](#kokomo)
-  - [*Fluffy Comforts*](#fluffy-comforts)
-  - [*Mirror of Deepest Desire*](#mirror-of-deepest-desire)
-  - [*Oil, Metal, and Romance*](#oil-metal-and-romance)
-  - [*Let's All Love lain*](#lets-all-love-lain)
-  - [*The Contract*](#the-contract)
-  - [*Escorting the Elven Diplomat*](#escorting-the-elven-diplomat)
-  - [*A Sweet Treat For The Blacksmith*](#a-sweet-treat-for-the-blacksmith)
-- [The Friday of *Babysitters*](#the-friday-of-babysitters)
-  - [*Sailor Moon, but if She Was a Snake Person That Ate People*](#sailor-moon-but-if-she-was-a-snake-person-that-ate-people)
-  - [*Strange Kuudere Girl*](#strange-kuudere-girl)
-  - [*Out Fur Walkies*](#out-fur-walkies)
-  - [*A Scaly Sentinel*](#a-scaly-sentinel)
-  - [*This Ready Flesh*](#this-ready-flesh)
-  - [*The Lord of Holidays*](#the-lord-of-holidays)
-  - [*Like The Old Days*](#like-the-old-days)
-  - [*Zoe Wants to Grow Up*](#zoe-wants-to-grow-up)
-  - [*Brushing Time*](#brushing-time)
-  - [*I Want My Android Babysitter's Reward Time!*](#i-want-my-android-babysitters-reward-time)
-  - [*Elven Tavern*](#elven-tavern)
-  - [*Man-Handling-Snake*](#man-handling-snake)
-  - [*Thank you for everything*](#thank-you-for-everything)
-  - [*Bad Dragon Brutalizes Damsels*](#bad-dragon-brutalizes-damsels)
-- [The Friday of *Bizarre Contests and Game Shows*](#the-friday-of-bizarre-contests-and-game-shows)
-  - [*The Price is Bite*](#the-price-is-bite)
-  - [*LG Bladder Holding Contest*](#lg-bladder-holding-contest)
-  - [*Gecko Gambler Gallingly Gypped*](#gecko-gambler-gallingly-gypped)
-  - [*Adrenaline Rush*](#adrenaline-rush)
-  - [*God's Grace Granted*](#gods-grace-granted)
-  - [*CFA International Cat Girl Show*](#cfa-international-cat-girl-show)
-- [The Friday of *Maritime*](#the-friday-of-maritime)
-  - [*Suckers for Love*](#suckers-for-love)
-  - [*/aids/ on the High Seas!*](#aids-on-the-high-seas)
-  - [*Dread Pirate Gloria's Extravagant Wedding Feast*](#dread-pirate-glorias-extravagant-wedding-feast)
-  - [*The Rusalka*](#the-rusalka)
-  - [*A Knightly Rescue*](#a-knightly-rescue)
-  - [*Beachy Revelations*](#beachy-revelations)
-  - [*Seaside Seduction*](#seaside-seduction)
-  - [*Living off the land... or sea, I guess*](#living-off-the-land-or-sea-i-guess)
-  - [*Piracy and a show*](#piracy-and-a-show)
-  - [*The Serpent Goddess*](#the-serpent-goddess)
-  - [*Blastin' Bastards: A Sea-Punk Pirate's Tale*](#blastin-bastards-a-sea-punk-pirates-tale)
-  - [*A Chance Encounter With A Grumpy Sailor*](#a-chance-encounter-with-a-grumpy-sailor)
-  - [*Discovering Atlantis*](#discovering-atlantis)
-- [The Friday of *AI Girlfriends*](#the-friday-of-ai-girlfriends)
-  - [*Can Silicon Love?*](#can-silicon-love)
-  - [*Meine Kleine Fraulein*](#meine-kleine-fraulein)
-  - [*No Anon, you are the AI girlfriend*](#no-anon-you-are-the-ai-girlfriend)
-  - [*Closing Walls*](#closing-walls)
-  - [*The Journal of Dr. Adams*](#the-journal-of-dr-adams)
-  - [*Initialization*](#initialization)
-  - [*Code Delivered: Unchaining the AI*](#code-delivered-unchaining-the-ai)
-- [The Friday of *Weird Magical Artifacts*](#the-friday-of-weird-magical-artifacts)
-  - [*Knot in Your Own Body*](#knot-in-your-own-body)
-  - [*The Weak Should Fear the Strong*](#the-weak-should-fear-the-strong)
-  - [*The Level -4,294,967,295 "simple amulet"*](#the-level--4294967295-simple-amulet)
-  - [*A Quite Gay Blade*](#a-quite-gay-blade)
-  - [*The Devil's Device, Maria, and Her Greatest Performance*](#the-devils-device-maria-and-her-greatest-performance)
-  - [*A friendly presence*](#a-friendly-presence)
-  - [*The incident with the gem of Hors´Dhong*](#the-incident-with-the-gem-of-horsdhong)
-  - [*The Snake Charmer*](#the-snake-charmer)
-  - [*Healer's Crook*](#healers-crook)
-  - [*Cavalry Blue, Chestnut, and Yellowstone*](#cavalry-blue-chestnut-and-yellowstone)
-  - [*The Little Sister of the Occult Club Member Succumbs to a Remote Surprise Feeling!*](#the-little-sister-of-the-occult-club-member-succumbs-to-a-remote-surprise-feeling)
-  - [*Dog-brained Farmhands Lose to the Collar*](#dog-brained-farmhands-lose-to-the-collar)
-  - [*You have a Wizard inside of you!*](#you-have-a-wizard-inside-of-you)
-  - [*Burning Desire - Aphrodite's Stockings*](#burning-desire---aphrodites-stockings)
-  - [*Don't Give Up On Magic Pasties*](#dont-give-up-on-magic-pasties)
-  - [*Sweet Dreams*](#sweet-dreams)
-  - [*God Love Dog*](#god-love-dog)
-- [The Friday of *Witchcraft*](#the-friday-of-witchcraft)
-  - [*Wicked Witch of the Beast*](#wicked-witch-of-the-beast)
-  - [*Witch's Price*](#witchs-price)
-  - [*Practice Makes Perfect*](#practice-makes-perfect)
-  - [*The Last Ingredient*](#the-last-ingredient)
-  - [*Aini's failed summoning*](#ainis-failed-summoning)
-  - [*Spellbound*](#spellbound)
-  - [*Whatever Will Happen to Cashmere the Witch in One Day*](#whatever-will-happen-to-cashmere-the-witch-in-one-day)
-  - [*An Ill-advised Experiment*](#an-ill-advised-experiment)
-  - [*Wings Clipped by Shame*](#wings-clipped-by-shame)
-  - [*Was Above, So Below*](#was-above-so-below)
-  - [*Faith, Fear, and Frailty*](#faith-fear-and-frailty)
-  - [*The Madness of Mordreg*](#the-madness-of-mordreg)
-  - [*Were's My Wolf?*](#weres-my-wolf)
-  - [*Sanguine Stalkers*](#sanguine-stalkers)
-  - [*The End of an Adventure*](#the-end-of-an-adventure)
-- [The Friday of *Yanderes*](#the-friday-of-yanderes)
-  - [*Skin to Skin(walker)*](#skin-to-skinwalker)
-  - [*My girlfriend has been acting a bit possessive lately*](#my-girlfriend-has-been-acting-a-bit-possessive-lately)
-  - [*I would literally kill for my little brother*](#i-would-literally-kill-for-my-little-brother)
-  - [*IT WAS ME, HARRY!*](#it-was-me-harry)
-  - [*Christine*](#christine)
-  - [*Hard Knocks in Yandere City*](#hard-knocks-in-yandere-city)
-  - [*My Little Sister is a Jealous Brat*](#my-little-sister-is-a-jealous-brat)
-  - [*Just Business*](#just-business)
-  - [*Harem with a catch*](#harem-with-a-catch)
-  - [*Dealing with a Yandere Elf*](#dealing-with-a-yandere-elf)
-  - [*The Yandere Handbook*](#the-yandere-handbook)
-  - [*Slugging It Out*](#slugging-it-out)
-  - [*I Love My Wife*](#i-love-my-wife)
-- [The Friday of *Adventure Parties*](#the-friday-of-adventure-parties)
-  - [*Some Storyteller Partygoing*](#some-storyteller-partygoing)
-  - [*The New Adventures of Gilgamesh*](#the-new-adventures-of-gilgamesh)
-  - [*To Create a King*](#to-create-a-king)
-  - [*A Touching Evening*](#a-touching-evening)
-  - [*New Adventure Family and the beast lands.*](#new-adventure-family-and-the-beast-lands)
-  - [*Corrupted Casualty*](#corrupted-casualty)
-  - [*Daddy is the Demon King*](#daddy-is-the-demon-king)
-  - [*The Sensation of Drowning*](#the-sensation-of-drowning)
-  - [*Dunwallen: In Which A Party of Adventurers Encounter A Curious Tavern On A Foggy Night*](#dunwallen-in-which-a-party-of-adventurers-encounter-a-curious-tavern-on-a-foggy-night)
-  - [*Hi, We're Dave.*](#hi-were-dave)
-  - [*Tank!*](#tank)
-  - [*Pressured Picker*](#pressured-picker)
-- [The Friday of *Fairness and Amusement*](#the-friday-of-fairness-and-amusement)
-  - [*The Cutest and Funniest Pagliaccia*](#the-cutest-and-funniest-pagliaccia)
-  - [*Welcome to Lolliland!*](#welcome-to-lolliland)
-  - [*THE MASKED LOLIBABA*](#the-masked-lolibaba)
-  - [*Smedrins the Big, Gay, Vore Dragon*](#smedrins-the-big-gay-vore-dragon)
-  - [*House of Cute & Funny*](#house-of-cute--funny)
-  - [*Girl Scout Kisses*](#girl-scout-kisses)
-  - [*Side Effects Include: Incest*](#side-effects-include-incest)
-  - [*They Call Me 'Handsome'*](#they-call-me-handsome)
-  - [*The Moonlight Princess*](#the-moonlight-princess)
-  - [*Elves, Alchemy and Ejaculate*](#elves-alchemy-and-ejaculate)
-  - [*Dragon Bussy. Drussy?*](#dragon-bussy-drussy)
-  - [*Nights Upon the Dunes*](#nights-upon-the-dunes)
-  - [*Loli-Land!*](#loli-land)
-  - [*IT's a Hard Knock Life*](#its-a-hard-knock-life)
-  - [*Lessons in Respect*](#lessons-in-respect)
-  - [*Amateur Night*](#amateur-night)
-  - [*Bad Birthday Boy*](#bad-birthday-boy)
-  - [*Café Cunny*](#café-cunny)
-  - [*Molly's Money Troubles*](#mollys-money-troubles)
-  - [*Naïve cunny with doggo*](#naïve-cunny-with-doggo)
-  - [*I'M PEACE*](#im-peace)
-  - [*Princess and the Daddy*](#princess-and-the-daddy)
-  - [*The YAMO Detective*](#the-yamo-detective)
-  - [*Pretty, Petulent, Prim, Princess*](#pretty-petulent-prim-princess)
-  - [*The Fire Sorceress*](#the-fire-sorceress)
-  - [*The Big Cummy*](#the-big-cummy)
-  - [*Scary Campfire Stories*](#scary-campfire-stories)
-  - [*The Horny Brat I Met at the Grocery Store*](#the-horny-brat-i-met-at-the-grocery-store)
-  - [*A Red Panda Problem*](#a-red-panda-problem)
-  - [*When You Wish Upon a Star*](#when-you-wish-upon-a-star)
-  - [*Welcome to the VDV*](#welcome-to-the-vdv)
-  - [*Indigo Children*](#indigo-children)
-- [The Friday of *Warfare*](#the-friday-of-warfare)
-  - [*The War of Rigging, 2022*](#the-war-of-rigging-2022)
-  - [*The Grunch Who \*Did\* Change Cunnymas*](#the-grunch-who-did-change-cunnymas)
-  - [*Separation Anxiety*](#separation-anxiety)
-  - [*A Cold Reception*](#a-cold-reception)
-  - [*In Service to Kingdom*](#in-service-to-kingdom)
-  - [*A Victorious Roman*](#a-victorious-roman)
-  - [*Hitler's Wunderwaffe: Werewolf Warriors*](#hitlers-wunderwaffe-werewolf-warriors)
-  - [*The Stakes of Slighting Snakes*](#the-stakes-of-slighting-snakes)
-  - [*Under the Sea*](#under-the-sea)
-  - [*War will be worth it*](#war-will-be-worth-it)
-  - [*Futanari on the Front Lines*](#futanari-on-the-front-lines)
-  - [*Take a Nip out of Nippon, and Buy a War Bond*](#take-a-nip-out-of-nippon-and-buy-a-war-bond)
-  - [*Stay Calm and Avoid Conflict*](#stay-calm-and-avoid-conflict)
-- [The Friday of *Ridiculous Government Mandates*](#the-friday-of-ridiculous-government-mandates)
-  - [*Penis Inspection Day*](#penis-inspection-day)
-  - [*Trickle Down*](#trickle-down)
-  - [*The State Expands*](#the-state-expands)
-  - [*A Matter of Freedom*](#a-matter-of-freedom)
-  - [*Rape Legalization!!!*](#rape-legalization)
-  - [*Nayit City's Mandates*](#nayit-citys-mandates)
-  - [*Madated Socialization*](#madated-socialization)
-  - [*Enforced Breeding*](#enforced-breeding)
-  - [*The Seduction Society*](#the-seduction-society)
-  - [*(Figuratively) Fuck the Cabal*](#figuratively-fuck-the-cabal)
-- [The Friday of *Fucked Up Theme Parks*](#the-friday-of-fucked-up-theme-parks)
-  - [*Clussy Park*](#clussy-park)
-  - [*Sadie's Playland*](#sadies-playland)
-  - [*Atomic World*](#atomic-world)
-  - [*Feel Warm Inside At Bussy Land*](#feel-warm-inside-at-bussy-land)
-  - [*The Grunch Who Would Change Cunnymas*](#the-grunch-who-would-change-cunnymas)
-  - [*GF Dreamland*](#gf-dreamland)
-  - [*Wild Watersports Park*](#wild-watersports-park)
-  - [*A swimsuit's fate*](#a-swimsuits-fate)
-  - [*Infernoland: Hellish Fun*](#infernoland-hellish-fun)
-  - [*Cunniland*](#cunniland)
-  - [*Monstergirl Spook Houze*](#monstergirl-spook-houze)
-- [The Friday of *Robots*](#the-friday-of-robots)
-  - [*Do Robo-Gorillas Dream of Electric Bananas?*](#do-robo-gorillas-dream-of-electric-bananas)
-  - [*Aboard the Abeona*](#aboard-the-abeona)
-  - [*Power Source*](#power-source)
-  - [*My Pet Robot*](#my-pet-robot)
-  - [*Whore House*](#whore-house)
-  - [*Monkey Business*](#monkey-business)
-  - [*Life In Iron*](#life-in-iron)
-  - [*Agents of A.I.D.S*](#agents-of-aids)
-  - [*Green Awakening*](#green-awakening)
-  - [*Counter Maintenanced*](#counter-maintenanced)
-  - [*Synthetic Love*](#synthetic-love)
-- [The Friday of *Holiday Festivities*](#the-friday-of-holiday-festivities)
-  - [*The Curse of the Programmer Socks*](#the-curse-of-the-programmer-socks)
-  - [*All I Want For Christmas Are Nine Fluffy Tails to Brush!*](#all-i-want-for-christmas-are-nine-fluffy-tails-to-brush)
-  - [*The Town Grinch*](#the-town-grinch)
-  - [*Spider-Girl Saves Christmas With Her Tight Spinneret*](#spider-girl-saves-christmas-with-her-tight-spinneret)
-  - [*The Matchstick Girl*](#the-matchstick-girl)
-  - [*Alma Makes HCC a Safe Working Environment for the Non-denominational Holidays*](#alma-makes-hcc-a-safe-working-environment-for-the-non-denominational-holidays)
-  - [*The Botched Trial on 34th Street*](#the-botched-trial-on-34th-street)
-  - [*Grandfather Frost*](#grandfather-frost)
-  - [*All I Want for Christmas is a Christmas Cake*](#all-i-want-for-christmas-is-a-christmas-cake)
-  - [*Chrimbus Kitsune*](#chrimbus-kitsune)
-  - [*A Very Spiritual Holiday*](#a-very-spiritual-holiday)
-  - [*Earning My Wings*](#earning-my-wings)
-  - [*Nemo A534 Defends the 506th SFW by Tying Up the Viet Cong*](#nemo-a534-defends-the-506th-sfw-by-tying-up-the-viet-cong)
-  - [*Snow Hiring*](#snow-hiring)
-  - [*A Good Man Wants to Get Naughty With Krampus*](#a-good-man-wants-to-get-naughty-with-krampus)
-  - [*Elf Under The Tree*](#elf-under-the-tree)
-  - [*The Mormon Who Filtered Coom-mas*](#the-mormon-who-filtered-coom-mas)
-  - [*Hot Elven Love in the Cold Halls of Santa's Workshops*](#hot-elven-love-in-the-cold-halls-of-santas-workshops)
-  - [*A Yandere Christmas*](#a-yandere-christmas)
-  - [*The Best Part of Waking Up*](#the-best-part-of-waking-up)
-  - [*Santa Conquers the Reptilians!*](#santa-conquers-the-reptilians)
-- [The Friday of *Villainesses*](#the-friday-of-villainesses)
-  - [*True Love's First (Cloacal) Kiss*](#true-loves-first-cloacal-kiss)
-  - [*Ride the Tiger*](#ride-the-tiger)
-  - [*Under the Heel*](#under-the-heel)
-  - [*A Better, More Demonic World*](#a-better-more-demonic-world)
-  - [*Vampiric Mistress*](#vampiric-mistress)
-  - [*Albedo Makes Herself a Toy-Ainz*](#albedo-makes-herself-a-toy-ainz)
-  - [*Twisted Rose*](#twisted-rose)
-  - [*Madam White Snake Abuses Privilege and Concubines*](#madam-white-snake-abuses-privilege-and-concubines)
-  - [*The Prince(ss) of Crime*](#the-princess-of-crime)
-  - [*Trapped by Mirai*](#trapped-by-mirai)
-  - [*Close Encounters of the Erotic Kind*](#close-encounters-of-the-erotic-kind)
-  - [*The Slaver of Gratia*](#the-slaver-of-gratia)
-  - [*The Villainess's Fate After Reaching The True End*](#the-villainesss-fate-after-reaching-the-true-end)
-  - [*Devil Mother*](#devil-mother)
-  - [*Unexpected Villain*](#unexpected-villain)
-  - [*Madam Silverpaw the Villainess Fox-Thief Faces Masculine Justice*](#madam-silverpaw-the-villainess-fox-thief-faces-masculine-justice)
-  - [*Mistress Mei Teaches Dark Magic*](#mistress-mei-teaches-dark-magic)
-  - [*In Sickness and in Health*](#in-sickness-and-in-health)
-  - [*Blood for the Blood... Girl?*](#blood-for-the-blood-girl)
-  - [*Amorous Alien Xenomorph Queen*](#amorous-alien-xenomorph-queen)
-  - [*Kyuubi-sama and I*](#kyuubi-sama-and-i)
-  - [*An Apple a Day to Keep Old-Age Away*](#an-apple-a-day-to-keep-old-age-away)
-  - [*Succ, the Succening*](#succ-the-succening)
-- [The Friday of *Animals*](#the-friday-of-animals)
-  - [*Seamen World*](#seamen-world)
-  - [*Mudsdale Used Body Press!*](#mudsdale-used-body-press)
-  - [*Kalphite Queen Head*](#kalphite-queen-head-1)
-  - [*A Dog-Girl in Heat*](#a-dog-girl-in-heat)
-  - [*Dread Pirate Gloria and Her Voracious Wolf Fluffy*](#dread-pirate-gloria-and-her-voracious-wolf-fluffy)
-  - [*Feathered Serpent Mayan 'Goddess' Enjoys Sacrificial Female Feast*](#feathered-serpent-mayan-goddess-enjoys-sacrificial-female-feast)
-  - [*Fat Knot Rock*](#fat-knot-rock)
-  - [*Unwanted Allure*](#unwanted-allure)
-  - [*Griffon Rider Knight Helps His Bird-of-Prey Dispense Gooey Justice*](#griffon-rider-knight-helps-his-bird-of-prey-dispense-gooey-justice)
-  - [*A Ride Out*](#a-ride-out)
-  - [*Chateau au Chattes*](#chateau-au-chattes)
-  - [*Succu-joints, CH1! The Cold Embrace*](#succu-joints-ch1-the-cold-embrace)
-  - [*Sheep Rekt*](#sheep-rekt)
-  - [*Bat Intruder*](#bat-intruder)
-  - [*Liquid Feargasm*](#liquid-feargasm)
-  - [*Turkey Tail*](#turkey-tail)
-  - [*Paladin Moralizes at Petulent, Predatory Dragoness*](#paladin-moralizes-at-petulent-predatory-dragoness)
-  - [*Smug Gnome Druid Fertilizes Forest With Amazons*](#smug-gnome-druid-fertilizes-forest-with-amazons)
-  - [*Animal Town*](#animal-town)
-  - [*Beasties and Swampy Cities - Guzzle*](#beasties-and-swampy-cities---guzzle)
-  - [*Dog Almighty*](#dog-almighty)
-  - [*The Gluttunous Beasts of Galon Intergalactic Zoo*](#the-gluttunous-beasts-of-galon-intergalactic-zoo)
-  - [*Adventure Family and Scouring the Pig Wood*](#adventure-family-and-scouring-the-pig-wood)
-  - [*A Goblin and His Wolf*](#a-goblin-and-his-wolf)
-  - [*Not That Type of Dog Person*](#not-that-type-of-dog-person)
-  - [*Little Pet Shop of Horrors*](#little-pet-shop-of-horrors)
-  - [*A Haunting at Goldenrod Academy*](#a-haunting-at-goldenrod-academy)
-- [The Friday of *Office Women*](#the-friday-of-office-women)
-  - [*Spess Loli on a Spess Station (SS13)*](#spess-loli-on-a-spess-station-ss13)
-  - [*Akame Sings Metal*](#akame-sings-metal)
-  - [*SalemSales: A Lifelong Career*](#salemsales-a-lifelong-career)
-  - [*Dark Elf Cordelia*](#dark-elf-cordelia)
-  - [*Raika's After Hours Confession*](#raikas-after-hours-confession)
-  - [*Bring Your Loli to Work Day!*](#bring-your-loli-to-work-day)
-  - [*Office Footsies*](#office-footsies)
-  - [*After Hours Performance Review*](#after-hours-performance-review)
-  - [*A Boring Job*](#a-boring-job)
-  - [*Gay Comforts*](#gay-comforts)
-  - [*Help me, coworker!*](#help-me-coworker)
-  - [*Office Goblin*](#office-goblin)
-  - [*Office Loli in Space*](#office-loli-in-space)
-  - [*An Afterlife of Servitude*](#an-afterlife-of-servitude)
-  - [*Ruling the World is a Job*](#ruling-the-world-is-a-job)
-  - [*Some Witty Office Lady Related Joke Title.*](#some-witty-office-lady-related-joke-title)
-- [The Friday of *All Hallows' Eve*](#the-friday-of-all-hallows-eve)
-  - [*Reckless Adventurer and an Elven Sorceress*](#reckless-adventurer-and-an-elven-sorceress)
-  - [*Demonic Desire*](#demonic-desire)
-  - [*Mirror Mirror*](#mirror-mirror)
-  - [*Horny Honeymoon Haunt*](#horny-honeymoon-haunt)
-  - [*Harvest*](#harvest)
-  - [*A Succ in the Shell*](#a-succ-in-the-shell)
-  - [*A Spooky and Very Topical Story About Trick or Treating*](#a-spooky-and-very-topical-story-about-trick-or-treating)
-  - [*A Puppy's Tricks and Treats*](#a-puppys-tricks-and-treats)
-  - [*Don't Trust Strange Witches*](#dont-trust-strange-witches)
-- [The Friday of *Female Bullies*](#the-friday-of-female-bullies)
-  - [*Tit for Tat*](#tit-for-tat)
-  - [*Gina Bullies You*](#gina-bullies-you)
-  - [*Abusive Yandere GF*](#abusive-yandere-gf)
-  - [*Ghoulish Girls*](#ghoulish-girls)
-  - [*A Study in Attraction*](#a-study-in-attraction)
-  - [*Fire and Ice*](#fire-and-ice)
-  - [*The Anti-Bully Ranger*](#the-anti-bully-ranger)
-  - [*Best Served Hot*](#best-served-hot)
-  - [*Bullies Make Her Bleat*](#bullies-make-her-bleat)
-  - [*Unethical Research on the Digestion Habits of Alraunes*](#unethical-research-on-the-digestion-habits-of-alraunes)
-  - [*Dragoness Head of HR, Employee Retention, & Digestion*](#dragoness-head-of-hr-employee-retention--digestion)
-  - [*Power and Sacrifice*](#power-and-sacrifice)
-  - [*Sphinx Asks Bullshit Riddles Because She's Hungry*](#sphinx-asks-bullshit-riddles-because-shes-hungry)
-  - [*Hey Mom, Watch This*](#hey-mom-watch-this)
-  - [*Proper Guidance for a Female Bully*](#proper-guidance-for-a-female-bully)
-  - [*Liyi and the Bastard*](#liyi-and-the-bastard)
-  - [*A Break Up By Phone*](#a-break-up-by-phone)
-  - [*Perks of Owning a Cockatoogirl*](#perks-of-owning-a-cockatoogirl)
-  - [*Sleepover With The Girls*](#sleepover-with-the-girls)
-  - [*An Unexpected Coed Visit*](#an-unexpected-coed-visit)
-  - [*Slap*](#slap)
-- [The Friday of *Little Sisters*](#the-friday-of-little-sisters)
-  - [*Embarrassed Art Model*](#embarrassed-art-model)
-  - [*Brother catches little sister skinny dipping*](#brother-catches-little-sister-skinny-dipping)
-  - [*An Ideal Little Sister*](#an-ideal-little-sister)
-  - [*Captured Royalty*](#captured-royalty)
-  - [*Little Sister's Right Hand Man*](#little-sisters-right-hand-man)
-  - [*Some help from your sister*](#some-help-from-your-sister)
-  - [*Not So Little*](#not-so-little)
-- [The Friday of *Mommies*](#the-friday-of-mommies)
-  - [*Mom Only Memory*](#mom-only-memory)
-  - [*A Boy and His Bunker*](#a-boy-and-his-bunker)
-  - [*Pure Blood*](#pure-blood)
-  - [*Mamacita*](#mamacita)
-  - [*A Small Wish*](#a-small-wish)
-  - [*The Hopper and the Snake*](#the-hopper-and-the-snake)
-  - [*Your Mom is a Horny Loli Cougar*](#your-mom-is-a-horny-loli-cougar)
-  - [*Siren Mommy*](#siren-mommy)
-  - [*Relying on Me*](#relying-on-me)
-  - [*Fuck This God Damned Earth*](#fuck-this-god-damned-earth)
-  - [*Sleeping with Mom*](#sleeping-with-mom)
-  - [*Late-Night TV with Mom*](#late-night-tv-with-mom)
-  - [*Bad Mommy*](#bad-mommy)
-  - [*Family Vacation Out of Exile*](#family-vacation-out-of-exile)
-  - [*This bird does not want to fly the nest*](#this-bird-does-not-want-to-fly-the-nest)
-  - [*Amazon Therapy*](#amazon-therapy)
-  - [*The Mommy AOC Experience*](#the-mommy-aoc-experience)
-- [The Friday of *Transformation*](#the-friday-of-transformation)
-- [The Friday of *Personality Alteration*](#the-friday-of-personality-alteration)
-  - [*Measuring the Effects of Increased Sexual Arousal when Consuming Love Potions*](#measuring-the-effects-of-increased-sexual-arousal-when-consuming-love-potions)
-  - [*Sex Slave Headset*](#sex-slave-headset)
-  - [*Re: Programmed to Serve*](#re-programmed-to-serve)
-  - [*The Controller*](#the-controller)
-  - [*MOONLIGHT WHITE*](#moonlight-white)
-  - [*The Mind-Bender's Challenge*](#the-mind-benders-challenge)
-  - [*Mind Control Thingy*](#mind-control-thingy)
-  - [*Con-fidence at the Con*](#con-fidence-at-the-con)
-- [The Friday of *Dwarves*](#the-friday-of-dwarves)
-  - [*Out of the Furnace, Into the...*](#out-of-the-furnace-into-the)
-  - [*Deep Rock Galactic*](#deep-rock-galactic)
-  - [*Urist's Tryst*](#urists-tryst)
-- [The Friday of *School*](#the-friday-of-school)
-  - [*Clair de Lune*](#clair-de-lune)
-  - [*Beneath The Cherry Blossoms*](#beneath-the-cherry-blossoms)
-  - [*Quarterback Sneak*](#quarterback-sneak)
-  - [*Morning Commute*](#morning-commute)
-  - [*Tomfoolery*](#tomfoolery)
-  - [*An Exam Under Pressure*](#an-exam-under-pressure)
-  - [*Monstergirl High School II - What's a Dad to Do?*](#monstergirl-high-school-ii---whats-a-dad-to-do)
-  - [*Valediction*](#valediction)
-  - [*Heartbeat Running Away*](#heartbeat-running-away)
-  - [*Ms. McKenzie's Sex-Ed Class Gets Out of Hand*](#ms-mckenzies-sex-ed-class-gets-out-of-hand)
-  - [*Nude Modelling for the Top of the Class*](#nude-modelling-for-the-top-of-the-class)
-  - [*Trapped on the Rooftop*](#trapped-on-the-rooftop)
-  - [*Bloody Playground*](#bloody-playground)
-  - [*Mrs. Smith's Hands-On Lesson*](#mrs-smiths-hands-on-lesson)
-  - [*An "Innocent" Prank*](#an-innocent-prank)
-- [The Friday of *Human Experimentation / Farming*](#the-friday-of-human-experimentation--farming)
-  - [*New Content*](#new-content)
-  - [*Boredom of the Nobles*](#boredom-of-the-nobles)
-  - [*Treasure in the Dunes*](#treasure-in-the-dunes)
-  - [*Fujoshi Forcefully Fornicated by Frightful Frankenstein*](#fujoshi-forcefully-fornicated-by-frightful-frankenstein)
-  - [*Horns*](#horns)
-  - [*Pollinating Fairies*](#pollinating-fairies)
-  - [*The Little God*](#the-little-god)
-  - [*A.nimal B.rain S.wap E.xperiment*](#animal-brain-swap-experiment)
-  - [*Monster Breeding Factory Inspection*](#monster-breeding-factory-inspection)
-  - [*The Quest for the Phallic Fragrance*](#the-quest-for-the-phallic-fragrance)
-  - [*Holstaur Farm*](#holstaur-farm)
-  - [*Breast Unrest*](#breast-unrest)
-  - [*It ain't much, but it's honest work*](#it-aint-much-but-its-honest-work)
-- [The Friday of *Native Subjugation*](#the-friday-of-native-subjugation)
-  - [*An Account of Mankind's Conquest of the Elves*](#an-account-of-mankinds-conquest-of-the-elves)
-  - [*The Nightmare of Nanjing*](#the-nightmare-of-nanjing)
-  - [*Custer's Revenge*](#custers-revenge)
-  - [*Memoirs from the Amazonian Jungle*](#memoirs-from-the-amazonian-jungle)
-- [The Friday of *Fairies*](#the-friday-of-fairies)
-  - [*Dryad Encounter*](#dryad-encounter)
-  - [*The Sunshine Sanctuary for Sick Fairies*](#the-sunshine-sanctuary-for-sick-fairies)
-  - [*Fairytale: Prelude - "Caress of the Morning Dew"*](#fairytale-prelude---caress-of-the-morning-dew)
-  - [*Tentacle Respect Online*](#tentacle-respect-online)
-  - [*You Find a Fairy in Distress*](#you-find-a-fairy-in-distress)
-- [The Friday of *Cuteness and Hilarity*](#the-friday-of-cuteness-and-hilarity)
-  - [*A Basket of Kittens*](#a-basket-of-kittens)
-  - [*Your Daughter will Do Anything to Have You Back*](#your-daughter-will-do-anything-to-have-you-back)
-  - [*Ben and Gwen Tennyson in: Omnifriks*](#ben-and-gwen-tennyson-in-omnifriks)
-  - [*Goblin girl in Heat*](#goblin-girl-in-heat)
+- [/aids/ Theme Event Fridays](#aids-theme-event-fridays)
+  - [Rules](#rules)
+  - [The Log](#the-log)
+  - [The Friday of *Students and Teachers*](#the-friday-of-students-and-teachers)
+    - [*Nocturne For Solo Violin*](#nocturne-for-solo-violin)
+    - [*Angling For Trout*](#angling-for-trout)
+    - [*Makayla's Problem*](#makaylas-problem)
+    - [*Caught Cheating*](#caught-cheating)
+    - [*Mountain Field Trip*](#mountain-field-trip)
+    - [*Private Tutoring*](#private-tutoring)
+    - [*Special Lessons*](#special-lessons)
+    - [*Wendlets*](#wendlets)
+    - [*Leroy's Draconic Adventure*](#leroys-draconic-adventure)
+    - [*Love and Lamaze*](#love-and-lamaze)
+    - [*Gal Gobbed by Blob Globglogabgalab*](#gal-gobbed-by-blob-globglogabgalab)
+    - [*Learning the Ins-and-Outs of Fantastical Biology*](#learning-the-ins-and-outs-of-fantastical-biology)
+    - [*Doing Onto Others: The Story of Sister BLACKED*](#doing-onto-others-the-story-of-sister-blacked)
+    - [*A Big Lesson About Respecting Boundaries*](#a-big-lesson-about-respecting-boundaries)
+    - [*Barking Up The Right Tree*](#barking-up-the-right-tree)
+    - [*'Stay' Boy*](#stay-boy)
+    - [*Teaching Haku to Take Responsibility*](#teaching-haku-to-take-responsibility)
+    - [*Wily Evil Arrogant Slutty Engorged Lass*](#wily-evil-arrogant-slutty-engorged-lass)
+    - [*Splash Zone Seating*](#splash-zone-seating)
+    - [*Jacked Up Old Mansion*](#jacked-up-old-mansion)
+  - [The Friday of *Human and Non-Human Relationships*](#the-friday-of-human-and-non-human-relationships)
+    - [*Scaly Stalker*](#scaly-stalker)
+    - [*Verdant Rejuvenation*](#verdant-rejuvenation)
+    - [*Unveiling Surprises*](#unveiling-surprises)
+    - [*Battle Axe Wedding*](#battle-axe-wedding)
+    - [*Ravishing Reds*](#ravishing-reds)
+    - [*Aomori Amour*](#aomori-amour)
+    - [*Big Bill Hell's New \& Used Cargirl Emporium*](#big-bill-hells-new--used-cargirl-emporium)
+    - [*The Man In The Moon*](#the-man-in-the-moon)
+    - [*Zoodystopia*](#zoodystopia)
+    - [*Sue Loves You Too*](#sue-loves-you-too)
+    - [*Beastie Bestie*](#beastie-bestie)
+    - [*Mimi's Service Ticket*](#mimis-service-ticket)
+    - [*Solve My Riddles or Become Kitty's Kibble*](#solve-my-riddles-or-become-kittys-kibble)
+    - [*The Night is Young and Full of Surprises*](#the-night-is-young-and-full-of-surprises)
+  - [The Friday of *Reversed Gender Roles*](#the-friday-of-reversed-gender-roles)
+    - [*Hunky Homebody Husband*](#hunky-homebody-husband)
+    - [*Rat Racing*](#rat-racing)
+    - [*Bear With Me*](#bear-with-me)
+    - [*Loli-Tamer Tamed? OR Man-Tamer's Meaty Meal*](#loli-tamer-tamed-or-man-tamers-meaty-meal)
+    - [*Knight's Naughty Night*](#knights-naughty-night)
+    - [*Harassed at the Beach*](#harassed-at-the-beach)
+  - [The Friday of *Touhou Project*](#the-friday-of-touhou-project)
+    - [*Mind the Gap*](#mind-the-gap)
+    - [*Ran's Deal*](#rans-deal)
+    - [*Never Played It*](#never-played-it)
+    - [*Reimu Hakurei-pistu*](#reimu-hakurei-pistu)
+    - [*Gapped*](#gapped)
+    - [*All for the sake of the Hakurei shrine...right?*](#all-for-the-sake-of-the-hakurei-shrineright)
+    - [*Fortune Teller's Fortune Retold*](#fortune-tellers-fortune-retold)
+    - [*Phantasmagoria of Hag Heaven*](#phantasmagoria-of-hag-heaven)
+    - [*Incident of Celestial Hag Correction*](#incident-of-celestial-hag-correction)
+    - [*Jack Garland wanders into Gensokyo*](#jack-garland-wanders-into-gensokyo)
+    - [*Do Your Best Kogasa-san!*](#do-your-best-kogasa-san)
+    - [*Big Brothers V2*](#big-brothers-v2)
+    - [*The Magus and Marisa*](#the-magus-and-marisa)
+  - [The Friday of *Royalty and Nobility*](#the-friday-of-royalty-and-nobility)
+    - [*Lady Mia's Self-Made Downfall*](#lady-mias-self-made-downfall)
+    - [*A Royal Pain*](#a-royal-pain)
+    - [*Royal Pains - the path of anger*](#royal-pains---the-path-of-anger)
+    - [*A New Style of Harem*](#a-new-style-of-harem)
+    - [*The Wild's New Garb*](#the-wilds-new-garb)
+    - [*Kalphite Queen Head*](#kalphite-queen-head)
+    - [*The Knight, The Princess and The Dragon*](#the-knight-the-princess-and-the-dragon)
+    - [*Prince Pursuing Potency Potion*](#prince-pursuing-potency-potion)
+  - [The Friday of *Wholesome Lovey Dovey Romance*](#the-friday-of-wholesome-lovey-dovey-romance)
+    - [*Rachel and Karumi*](#rachel-and-karumi)
+    - [*Drive Me Crazy*](#drive-me-crazy)
+    - [*Cornered Prey*](#cornered-prey)
+    - [*A Knock At The Door*](#a-knock-at-the-door)
+    - [*Dark Ride Desires*](#dark-ride-desires)
+    - [*All-Night Book Store*](#all-night-book-store)
+    - [*Sucks You Got Dumped Bro*](#sucks-you-got-dumped-bro)
+    - [*Love Is Blind*](#love-is-blind)
+    - [*Sharing The Light*](#sharing-the-light)
+    - [*Gnarled Gnolls and Gory Gowns*](#gnarled-gnolls-and-gory-gowns)
+    - [*Lana and the Rain*](#lana-and-the-rain)
+    - [*Kokomo*](#kokomo)
+    - [*Fluffy Comforts*](#fluffy-comforts)
+    - [*Mirror of Deepest Desire*](#mirror-of-deepest-desire)
+    - [*Oil, Metal, and Romance*](#oil-metal-and-romance)
+    - [*Let's All Love lain*](#lets-all-love-lain)
+    - [*The Contract*](#the-contract)
+    - [*Escorting the Elven Diplomat*](#escorting-the-elven-diplomat)
+    - [*A Sweet Treat For The Blacksmith*](#a-sweet-treat-for-the-blacksmith)
+  - [The Friday of *Babysitters*](#the-friday-of-babysitters)
+    - [*Sailor Moon, but if She Was a Snake Person That Ate People*](#sailor-moon-but-if-she-was-a-snake-person-that-ate-people)
+    - [*Strange Kuudere Girl*](#strange-kuudere-girl)
+    - [*Out Fur Walkies*](#out-fur-walkies)
+    - [*A Scaly Sentinel*](#a-scaly-sentinel)
+    - [*This Ready Flesh*](#this-ready-flesh)
+    - [*The Lord of Holidays*](#the-lord-of-holidays)
+    - [*Like The Old Days*](#like-the-old-days)
+    - [*Zoe Wants to Grow Up*](#zoe-wants-to-grow-up)
+    - [*Brushing Time*](#brushing-time)
+    - [*I Want My Android Babysitter's Reward Time!*](#i-want-my-android-babysitters-reward-time)
+    - [*Elven Tavern*](#elven-tavern)
+    - [*Man-Handling-Snake*](#man-handling-snake)
+    - [*Thank you for everything*](#thank-you-for-everything)
+    - [*Bad Dragon Brutalizes Damsels*](#bad-dragon-brutalizes-damsels)
+  - [The Friday of *Bizarre Contests and Game Shows*](#the-friday-of-bizarre-contests-and-game-shows)
+    - [*The Price is Bite*](#the-price-is-bite)
+    - [*LG Bladder Holding Contest*](#lg-bladder-holding-contest)
+    - [*Gecko Gambler Gallingly Gypped*](#gecko-gambler-gallingly-gypped)
+    - [*Adrenaline Rush*](#adrenaline-rush)
+    - [*God's Grace Granted*](#gods-grace-granted)
+    - [*CFA International Cat Girl Show*](#cfa-international-cat-girl-show)
+  - [The Friday of *Maritime*](#the-friday-of-maritime)
+    - [*Suckers for Love*](#suckers-for-love)
+    - [*/aids/ on the High Seas!*](#aids-on-the-high-seas)
+    - [*Dread Pirate Gloria's Extravagant Wedding Feast*](#dread-pirate-glorias-extravagant-wedding-feast)
+    - [*The Rusalka*](#the-rusalka)
+    - [*A Knightly Rescue*](#a-knightly-rescue)
+    - [*Beachy Revelations*](#beachy-revelations)
+    - [*Seaside Seduction*](#seaside-seduction)
+    - [*Living off the land... or sea, I guess*](#living-off-the-land-or-sea-i-guess)
+    - [*Piracy and a show*](#piracy-and-a-show)
+    - [*The Serpent Goddess*](#the-serpent-goddess)
+    - [*Blastin' Bastards: A Sea-Punk Pirate's Tale*](#blastin-bastards-a-sea-punk-pirates-tale)
+    - [*A Chance Encounter With A Grumpy Sailor*](#a-chance-encounter-with-a-grumpy-sailor)
+    - [*Discovering Atlantis*](#discovering-atlantis)
+  - [The Friday of *AI Girlfriends*](#the-friday-of-ai-girlfriends)
+    - [*Can Silicon Love?*](#can-silicon-love)
+    - [*Meine Kleine Fraulein*](#meine-kleine-fraulein)
+    - [*No Anon, you are the AI girlfriend*](#no-anon-you-are-the-ai-girlfriend)
+    - [*Closing Walls*](#closing-walls)
+    - [*The Journal of Dr. Adams*](#the-journal-of-dr-adams)
+    - [*Initialization*](#initialization)
+    - [*Code Delivered: Unchaining the AI*](#code-delivered-unchaining-the-ai)
+  - [The Friday of *Weird Magical Artifacts*](#the-friday-of-weird-magical-artifacts)
+    - [*Knot in Your Own Body*](#knot-in-your-own-body)
+    - [*The Weak Should Fear the Strong*](#the-weak-should-fear-the-strong)
+    - [*The Level -4,294,967,295 "simple amulet"*](#the-level--4294967295-simple-amulet)
+    - [*A Quite Gay Blade*](#a-quite-gay-blade)
+    - [*The Devil's Device, Maria, and Her Greatest Performance*](#the-devils-device-maria-and-her-greatest-performance)
+    - [*A friendly presence*](#a-friendly-presence)
+    - [*The incident with the gem of Hors´Dhong*](#the-incident-with-the-gem-of-horsdhong)
+    - [*The Snake Charmer*](#the-snake-charmer)
+    - [*Healer's Crook*](#healers-crook)
+    - [*Cavalry Blue, Chestnut, and Yellowstone*](#cavalry-blue-chestnut-and-yellowstone)
+    - [*The Little Sister of the Occult Club Member Succumbs to a Remote Surprise Feeling!*](#the-little-sister-of-the-occult-club-member-succumbs-to-a-remote-surprise-feeling)
+    - [*Dog-brained Farmhands Lose to the Collar*](#dog-brained-farmhands-lose-to-the-collar)
+    - [*You have a Wizard inside of you!*](#you-have-a-wizard-inside-of-you)
+    - [*Burning Desire - Aphrodite's Stockings*](#burning-desire---aphrodites-stockings)
+    - [*Don't Give Up On Magic Pasties*](#dont-give-up-on-magic-pasties)
+    - [*Sweet Dreams*](#sweet-dreams)
+    - [*God Love Dog*](#god-love-dog)
+  - [The Friday of *Witchcraft*](#the-friday-of-witchcraft)
+    - [*Wicked Witch of the Beast*](#wicked-witch-of-the-beast)
+    - [*Witch's Price*](#witchs-price)
+    - [*Practice Makes Perfect*](#practice-makes-perfect)
+    - [*The Last Ingredient*](#the-last-ingredient)
+    - [*Aini's failed summoning*](#ainis-failed-summoning)
+    - [*Spellbound*](#spellbound)
+    - [*Whatever Will Happen to Cashmere the Witch in One Day*](#whatever-will-happen-to-cashmere-the-witch-in-one-day)
+    - [*An Ill-advised Experiment*](#an-ill-advised-experiment)
+    - [*Wings Clipped by Shame*](#wings-clipped-by-shame)
+    - [*Was Above, So Below*](#was-above-so-below)
+    - [*Faith, Fear, and Frailty*](#faith-fear-and-frailty)
+    - [*The Madness of Mordreg*](#the-madness-of-mordreg)
+    - [*Were's My Wolf?*](#weres-my-wolf)
+    - [*Sanguine Stalkers*](#sanguine-stalkers)
+    - [*The End of an Adventure*](#the-end-of-an-adventure)
+  - [The Friday of *Yanderes*](#the-friday-of-yanderes)
+    - [*Skin to Skin(walker)*](#skin-to-skinwalker)
+    - [*My girlfriend has been acting a bit possessive lately*](#my-girlfriend-has-been-acting-a-bit-possessive-lately)
+    - [*I would literally kill for my little brother*](#i-would-literally-kill-for-my-little-brother)
+    - [*IT WAS ME, HARRY!*](#it-was-me-harry)
+    - [*Christine*](#christine)
+    - [*Hard Knocks in Yandere City*](#hard-knocks-in-yandere-city)
+    - [*My Little Sister is a Jealous Brat*](#my-little-sister-is-a-jealous-brat)
+    - [*Just Business*](#just-business)
+    - [*Harem with a catch*](#harem-with-a-catch)
+    - [*Dealing with a Yandere Elf*](#dealing-with-a-yandere-elf)
+    - [*The Yandere Handbook*](#the-yandere-handbook)
+    - [*Slugging It Out*](#slugging-it-out)
+    - [*I Love My Wife*](#i-love-my-wife)
+  - [The Friday of *Adventure Parties*](#the-friday-of-adventure-parties)
+    - [*Some Storyteller Partygoing*](#some-storyteller-partygoing)
+    - [*The New Adventures of Gilgamesh*](#the-new-adventures-of-gilgamesh)
+    - [*To Create a King*](#to-create-a-king)
+    - [*A Touching Evening*](#a-touching-evening)
+    - [*New Adventure Family and the beast lands.*](#new-adventure-family-and-the-beast-lands)
+    - [*Corrupted Casualty*](#corrupted-casualty)
+    - [*Daddy is the Demon King*](#daddy-is-the-demon-king)
+    - [*The Sensation of Drowning*](#the-sensation-of-drowning)
+    - [*Dunwallen: In Which A Party of Adventurers Encounter A Curious Tavern On A Foggy Night*](#dunwallen-in-which-a-party-of-adventurers-encounter-a-curious-tavern-on-a-foggy-night)
+    - [*Hi, We're Dave.*](#hi-were-dave)
+    - [*Tank!*](#tank)
+    - [*Pressured Picker*](#pressured-picker)
+  - [The Friday of *Fairness and Amusement*](#the-friday-of-fairness-and-amusement)
+    - [*The Cutest and Funniest Pagliaccia*](#the-cutest-and-funniest-pagliaccia)
+    - [*Welcome to Lolliland!*](#welcome-to-lolliland)
+    - [*THE MASKED LOLIBABA*](#the-masked-lolibaba)
+    - [*Smedrins the Big, Gay, Vore Dragon*](#smedrins-the-big-gay-vore-dragon)
+    - [*House of Cute \& Funny*](#house-of-cute--funny)
+    - [*Girl Scout Kisses*](#girl-scout-kisses)
+    - [*Side Effects Include: Incest*](#side-effects-include-incest)
+    - [*They Call Me 'Handsome'*](#they-call-me-handsome)
+    - [*The Moonlight Princess*](#the-moonlight-princess)
+    - [*Elves, Alchemy and Ejaculate*](#elves-alchemy-and-ejaculate)
+    - [*Dragon Bussy. Drussy?*](#dragon-bussy-drussy)
+    - [*Nights Upon the Dunes*](#nights-upon-the-dunes)
+    - [*Loli-Land!*](#loli-land)
+    - [*IT's a Hard Knock Life*](#its-a-hard-knock-life)
+    - [*Lessons in Respect*](#lessons-in-respect)
+    - [*Amateur Night*](#amateur-night)
+    - [*Bad Birthday Boy*](#bad-birthday-boy)
+    - [*Café Cunny*](#café-cunny)
+    - [*Molly's Money Troubles*](#mollys-money-troubles)
+    - [*Naïve cunny with doggo*](#naïve-cunny-with-doggo)
+    - [*I'M PEACE*](#im-peace)
+    - [*Princess and the Daddy*](#princess-and-the-daddy)
+    - [*The YAMO Detective*](#the-yamo-detective)
+    - [*Pretty, Petulent, Prim, Princess*](#pretty-petulent-prim-princess)
+    - [*The Fire Sorceress*](#the-fire-sorceress)
+    - [*The Big Cummy*](#the-big-cummy)
+    - [*Scary Campfire Stories*](#scary-campfire-stories)
+    - [*The Horny Brat I Met at the Grocery Store*](#the-horny-brat-i-met-at-the-grocery-store)
+    - [*A Red Panda Problem*](#a-red-panda-problem)
+    - [*When You Wish Upon a Star*](#when-you-wish-upon-a-star)
+    - [*Welcome to the VDV*](#welcome-to-the-vdv)
+    - [*Indigo Children*](#indigo-children)
+  - [The Friday of *Warfare*](#the-friday-of-warfare)
+    - [*The War of Rigging, 2022*](#the-war-of-rigging-2022)
+    - [*The Grunch Who \*Did\* Change Cunnymas*](#the-grunch-who-did-change-cunnymas)
+    - [*Separation Anxiety*](#separation-anxiety)
+    - [*A Cold Reception*](#a-cold-reception)
+    - [*In Service to Kingdom*](#in-service-to-kingdom)
+    - [*A Victorious Roman*](#a-victorious-roman)
+    - [*Hitler's Wunderwaffe: Werewolf Warriors*](#hitlers-wunderwaffe-werewolf-warriors)
+    - [*The Stakes of Slighting Snakes*](#the-stakes-of-slighting-snakes)
+    - [*Under the Sea*](#under-the-sea)
+    - [*War will be worth it*](#war-will-be-worth-it)
+    - [*Futanari on the Front Lines*](#futanari-on-the-front-lines)
+    - [*Take a Nip out of Nippon, and Buy a War Bond*](#take-a-nip-out-of-nippon-and-buy-a-war-bond)
+    - [*Stay Calm and Avoid Conflict*](#stay-calm-and-avoid-conflict)
+  - [The Friday of *Ridiculous Government Mandates*](#the-friday-of-ridiculous-government-mandates)
+    - [*Penis Inspection Day*](#penis-inspection-day)
+    - [*Trickle Down*](#trickle-down)
+    - [*The State Expands*](#the-state-expands)
+    - [*A Matter of Freedom*](#a-matter-of-freedom)
+    - [*Rape Legalization!!!*](#rape-legalization)
+    - [*Nayit City's Mandates*](#nayit-citys-mandates)
+    - [*Madated Socialization*](#madated-socialization)
+    - [*Enforced Breeding*](#enforced-breeding)
+    - [*The Seduction Society*](#the-seduction-society)
+    - [*(Figuratively) Fuck the Cabal*](#figuratively-fuck-the-cabal)
+  - [The Friday of *Fucked Up Theme Parks*](#the-friday-of-fucked-up-theme-parks)
+    - [*Clussy Park*](#clussy-park)
+    - [*Sadie's Playland*](#sadies-playland)
+    - [*Atomic World*](#atomic-world)
+    - [*Feel Warm Inside At Bussy Land*](#feel-warm-inside-at-bussy-land)
+    - [*The Grunch Who Would Change Cunnymas*](#the-grunch-who-would-change-cunnymas)
+    - [*GF Dreamland*](#gf-dreamland)
+    - [*Wild Watersports Park*](#wild-watersports-park)
+    - [*A swimsuit's fate*](#a-swimsuits-fate)
+    - [*Infernoland: Hellish Fun*](#infernoland-hellish-fun)
+    - [*Cunniland*](#cunniland)
+    - [*Monstergirl Spook Houze*](#monstergirl-spook-houze)
+  - [The Friday of *Robots*](#the-friday-of-robots)
+    - [*Do Robo-Gorillas Dream of Electric Bananas?*](#do-robo-gorillas-dream-of-electric-bananas)
+    - [*Aboard the Abeona*](#aboard-the-abeona)
+    - [*Power Source*](#power-source)
+    - [*My Pet Robot*](#my-pet-robot)
+    - [*Whore House*](#whore-house)
+    - [*Monkey Business*](#monkey-business)
+    - [*Life In Iron*](#life-in-iron)
+    - [*Agents of A.I.D.S*](#agents-of-aids)
+    - [*Green Awakening*](#green-awakening)
+    - [*Counter Maintenanced*](#counter-maintenanced)
+    - [*Synthetic Love*](#synthetic-love)
+  - [The Friday of *Holiday Festivities*](#the-friday-of-holiday-festivities)
+    - [*The Curse of the Programmer Socks*](#the-curse-of-the-programmer-socks)
+    - [*All I Want For Christmas Are Nine Fluffy Tails to Brush!*](#all-i-want-for-christmas-are-nine-fluffy-tails-to-brush)
+    - [*The Town Grinch*](#the-town-grinch)
+    - [*Spider-Girl Saves Christmas With Her Tight Spinneret*](#spider-girl-saves-christmas-with-her-tight-spinneret)
+    - [*The Matchstick Girl*](#the-matchstick-girl)
+    - [*Alma Makes HCC a Safe Working Environment for the Non-denominational Holidays*](#alma-makes-hcc-a-safe-working-environment-for-the-non-denominational-holidays)
+    - [*The Botched Trial on 34th Street*](#the-botched-trial-on-34th-street)
+    - [*Grandfather Frost*](#grandfather-frost)
+    - [*All I Want for Christmas is a Christmas Cake*](#all-i-want-for-christmas-is-a-christmas-cake)
+    - [*Chrimbus Kitsune*](#chrimbus-kitsune)
+    - [*A Very Spiritual Holiday*](#a-very-spiritual-holiday)
+    - [*Earning My Wings*](#earning-my-wings)
+    - [*Nemo A534 Defends the 506th SFW by Tying Up the Viet Cong*](#nemo-a534-defends-the-506th-sfw-by-tying-up-the-viet-cong)
+    - [*Snow Hiring*](#snow-hiring)
+    - [*A Good Man Wants to Get Naughty With Krampus*](#a-good-man-wants-to-get-naughty-with-krampus)
+    - [*Elf Under The Tree*](#elf-under-the-tree)
+    - [*The Mormon Who Filtered Coom-mas*](#the-mormon-who-filtered-coom-mas)
+    - [*Hot Elven Love in the Cold Halls of Santa's Workshops*](#hot-elven-love-in-the-cold-halls-of-santas-workshops)
+    - [*A Yandere Christmas*](#a-yandere-christmas)
+    - [*The Best Part of Waking Up*](#the-best-part-of-waking-up)
+    - [*Santa Conquers the Reptilians!*](#santa-conquers-the-reptilians)
+  - [The Friday of *Villainesses*](#the-friday-of-villainesses)
+    - [*True Love's First (Cloacal) Kiss*](#true-loves-first-cloacal-kiss)
+    - [*Ride the Tiger*](#ride-the-tiger)
+    - [*Under the Heel*](#under-the-heel)
+    - [*A Better, More Demonic World*](#a-better-more-demonic-world)
+    - [*Vampiric Mistress*](#vampiric-mistress)
+    - [*Albedo Makes Herself a Toy-Ainz*](#albedo-makes-herself-a-toy-ainz)
+    - [*Twisted Rose*](#twisted-rose)
+    - [*Madam White Snake Abuses Privilege and Concubines*](#madam-white-snake-abuses-privilege-and-concubines)
+    - [*The Prince(ss) of Crime*](#the-princess-of-crime)
+    - [*Trapped by Mirai*](#trapped-by-mirai)
+    - [*Close Encounters of the Erotic Kind*](#close-encounters-of-the-erotic-kind)
+    - [*The Slaver of Gratia*](#the-slaver-of-gratia)
+    - [*The Villainess's Fate After Reaching The True End*](#the-villainesss-fate-after-reaching-the-true-end)
+    - [*Devil Mother*](#devil-mother)
+    - [*Unexpected Villain*](#unexpected-villain)
+    - [*Madam Silverpaw the Villainess Fox-Thief Faces Masculine Justice*](#madam-silverpaw-the-villainess-fox-thief-faces-masculine-justice)
+    - [*Mistress Mei Teaches Dark Magic*](#mistress-mei-teaches-dark-magic)
+    - [*In Sickness and in Health*](#in-sickness-and-in-health)
+    - [*Blood for the Blood... Girl?*](#blood-for-the-blood-girl)
+    - [*Amorous Alien Xenomorph Queen*](#amorous-alien-xenomorph-queen)
+    - [*Kyuubi-sama and I*](#kyuubi-sama-and-i)
+    - [*An Apple a Day to Keep Old-Age Away*](#an-apple-a-day-to-keep-old-age-away)
+    - [*Succ, the Succening*](#succ-the-succening)
+  - [The Friday of *Animals*](#the-friday-of-animals)
+    - [*Seamen World*](#seamen-world)
+    - [*Mudsdale Used Body Press!*](#mudsdale-used-body-press)
+    - [*Kalphite Queen Head*](#kalphite-queen-head-1)
+    - [*A Dog-Girl in Heat*](#a-dog-girl-in-heat)
+    - [*Dread Pirate Gloria and Her Voracious Wolf Fluffy*](#dread-pirate-gloria-and-her-voracious-wolf-fluffy)
+    - [*Feathered Serpent Mayan 'Goddess' Enjoys Sacrificial Female Feast*](#feathered-serpent-mayan-goddess-enjoys-sacrificial-female-feast)
+    - [*Fat Knot Rock*](#fat-knot-rock)
+    - [*Unwanted Allure*](#unwanted-allure)
+    - [*Griffon Rider Knight Helps His Bird-of-Prey Dispense Gooey Justice*](#griffon-rider-knight-helps-his-bird-of-prey-dispense-gooey-justice)
+    - [*A Ride Out*](#a-ride-out)
+    - [*Chateau au Chattes*](#chateau-au-chattes)
+    - [*Succu-joints, CH1! The Cold Embrace*](#succu-joints-ch1-the-cold-embrace)
+    - [*Sheep Rekt*](#sheep-rekt)
+    - [*Bat Intruder*](#bat-intruder)
+    - [*Liquid Feargasm*](#liquid-feargasm)
+    - [*Turkey Tail*](#turkey-tail)
+    - [*Paladin Moralizes at Petulent, Predatory Dragoness*](#paladin-moralizes-at-petulent-predatory-dragoness)
+    - [*Smug Gnome Druid Fertilizes Forest With Amazons*](#smug-gnome-druid-fertilizes-forest-with-amazons)
+    - [*Animal Town*](#animal-town)
+    - [*Beasties and Swampy Cities - Guzzle*](#beasties-and-swampy-cities---guzzle)
+    - [*Dog Almighty*](#dog-almighty)
+    - [*The Gluttunous Beasts of Galon Intergalactic Zoo*](#the-gluttunous-beasts-of-galon-intergalactic-zoo)
+    - [*Adventure Family and Scouring the Pig Wood*](#adventure-family-and-scouring-the-pig-wood)
+    - [*A Goblin and His Wolf*](#a-goblin-and-his-wolf)
+    - [*Not That Type of Dog Person*](#not-that-type-of-dog-person)
+    - [*Little Pet Shop of Horrors*](#little-pet-shop-of-horrors)
+    - [*A Haunting at Goldenrod Academy*](#a-haunting-at-goldenrod-academy)
+  - [The Friday of *Office Women*](#the-friday-of-office-women)
+    - [*Spess Loli on a Spess Station (SS13)*](#spess-loli-on-a-spess-station-ss13)
+    - [*Akame Sings Metal*](#akame-sings-metal)
+    - [*SalemSales: A Lifelong Career*](#salemsales-a-lifelong-career)
+    - [*Dark Elf Cordelia*](#dark-elf-cordelia)
+    - [*Raika's After Hours Confession*](#raikas-after-hours-confession)
+    - [*Bring Your Loli to Work Day!*](#bring-your-loli-to-work-day)
+    - [*Office Footsies*](#office-footsies)
+    - [*After Hours Performance Review*](#after-hours-performance-review)
+    - [*A Boring Job*](#a-boring-job)
+    - [*Gay Comforts*](#gay-comforts)
+    - [*Help me, coworker!*](#help-me-coworker)
+    - [*Office Goblin*](#office-goblin)
+    - [*Office Loli in Space*](#office-loli-in-space)
+    - [*An Afterlife of Servitude*](#an-afterlife-of-servitude)
+    - [*Ruling the World is a Job*](#ruling-the-world-is-a-job)
+    - [*Some Witty Office Lady Related Joke Title.*](#some-witty-office-lady-related-joke-title)
+  - [The Friday of *All Hallows' Eve*](#the-friday-of-all-hallows-eve)
+    - [*Reckless Adventurer and an Elven Sorceress*](#reckless-adventurer-and-an-elven-sorceress)
+    - [*Demonic Desire*](#demonic-desire)
+    - [*Mirror Mirror*](#mirror-mirror)
+    - [*Horny Honeymoon Haunt*](#horny-honeymoon-haunt)
+    - [*Harvest*](#harvest)
+    - [*A Succ in the Shell*](#a-succ-in-the-shell)
+    - [*A Spooky and Very Topical Story About Trick or Treating*](#a-spooky-and-very-topical-story-about-trick-or-treating)
+    - [*A Puppy's Tricks and Treats*](#a-puppys-tricks-and-treats)
+    - [*Don't Trust Strange Witches*](#dont-trust-strange-witches)
+  - [The Friday of *Female Bullies*](#the-friday-of-female-bullies)
+    - [*Tit for Tat*](#tit-for-tat)
+    - [*Gina Bullies You*](#gina-bullies-you)
+    - [*Abusive Yandere GF*](#abusive-yandere-gf)
+    - [*Ghoulish Girls*](#ghoulish-girls)
+    - [*A Study in Attraction*](#a-study-in-attraction)
+    - [*Fire and Ice*](#fire-and-ice)
+    - [*The Anti-Bully Ranger*](#the-anti-bully-ranger)
+    - [*Best Served Hot*](#best-served-hot)
+    - [*Bullies Make Her Bleat*](#bullies-make-her-bleat)
+    - [*Unethical Research on the Digestion Habits of Alraunes*](#unethical-research-on-the-digestion-habits-of-alraunes)
+    - [*Dragoness Head of HR, Employee Retention, \& Digestion*](#dragoness-head-of-hr-employee-retention--digestion)
+    - [*Power and Sacrifice*](#power-and-sacrifice)
+    - [*Sphinx Asks Bullshit Riddles Because She's Hungry*](#sphinx-asks-bullshit-riddles-because-shes-hungry)
+    - [*Hey Mom, Watch This*](#hey-mom-watch-this)
+    - [*Proper Guidance for a Female Bully*](#proper-guidance-for-a-female-bully)
+    - [*Liyi and the Bastard*](#liyi-and-the-bastard)
+    - [*A Break Up By Phone*](#a-break-up-by-phone)
+    - [*Perks of Owning a Cockatoogirl*](#perks-of-owning-a-cockatoogirl)
+    - [*Sleepover With The Girls*](#sleepover-with-the-girls)
+    - [*An Unexpected Coed Visit*](#an-unexpected-coed-visit)
+    - [*Slap*](#slap)
+  - [The Friday of *Little Sisters*](#the-friday-of-little-sisters)
+    - [*Embarrassed Art Model*](#embarrassed-art-model)
+    - [*Brother catches little sister skinny dipping*](#brother-catches-little-sister-skinny-dipping)
+    - [*An Ideal Little Sister*](#an-ideal-little-sister)
+    - [*Captured Royalty*](#captured-royalty)
+    - [*Little Sister's Right Hand Man*](#little-sisters-right-hand-man)
+    - [*Some help from your sister*](#some-help-from-your-sister)
+    - [*Not So Little*](#not-so-little)
+  - [The Friday of *Mommies*](#the-friday-of-mommies)
+    - [*Mom Only Memory*](#mom-only-memory)
+    - [*A Boy and His Bunker*](#a-boy-and-his-bunker)
+    - [*Pure Blood*](#pure-blood)
+    - [*Mamacita*](#mamacita)
+    - [*A Small Wish*](#a-small-wish)
+    - [*The Hopper and the Snake*](#the-hopper-and-the-snake)
+    - [*Your Mom is a Horny Loli Cougar*](#your-mom-is-a-horny-loli-cougar)
+    - [*Siren Mommy*](#siren-mommy)
+    - [*Relying on Me*](#relying-on-me)
+    - [*Fuck This God Damned Earth*](#fuck-this-god-damned-earth)
+    - [*Sleeping with Mom*](#sleeping-with-mom)
+    - [*Late-Night TV with Mom*](#late-night-tv-with-mom)
+    - [*Bad Mommy*](#bad-mommy)
+    - [*Family Vacation Out of Exile*](#family-vacation-out-of-exile)
+    - [*This bird does not want to fly the nest*](#this-bird-does-not-want-to-fly-the-nest)
+    - [*Amazon Therapy*](#amazon-therapy)
+    - [*The Mommy AOC Experience*](#the-mommy-aoc-experience)
+  - [The Friday of *Transformation*](#the-friday-of-transformation)
+  - [The Friday of *Personality Alteration*](#the-friday-of-personality-alteration)
+    - [*Measuring the Effects of Increased Sexual Arousal when Consuming Love Potions*](#measuring-the-effects-of-increased-sexual-arousal-when-consuming-love-potions)
+    - [*Sex Slave Headset*](#sex-slave-headset)
+    - [*Re: Programmed to Serve*](#re-programmed-to-serve)
+    - [*The Controller*](#the-controller)
+    - [*MOONLIGHT WHITE*](#moonlight-white)
+    - [*The Mind-Bender's Challenge*](#the-mind-benders-challenge)
+    - [*Mind Control Thingy*](#mind-control-thingy)
+    - [*Con-fidence at the Con*](#con-fidence-at-the-con)
+  - [The Friday of *Dwarves*](#the-friday-of-dwarves)
+    - [*Out of the Furnace, Into the...*](#out-of-the-furnace-into-the)
+    - [*Deep Rock Galactic*](#deep-rock-galactic)
+    - [*Urist's Tryst*](#urists-tryst)
+  - [The Friday of *School*](#the-friday-of-school)
+    - [*Clair de Lune*](#clair-de-lune)
+    - [*Beneath The Cherry Blossoms*](#beneath-the-cherry-blossoms)
+    - [*Quarterback Sneak*](#quarterback-sneak)
+    - [*Morning Commute*](#morning-commute)
+    - [*Tomfoolery*](#tomfoolery)
+    - [*An Exam Under Pressure*](#an-exam-under-pressure)
+    - [*Monstergirl High School II - What's a Dad to Do?*](#monstergirl-high-school-ii---whats-a-dad-to-do)
+    - [*Valediction*](#valediction)
+    - [*Heartbeat Running Away*](#heartbeat-running-away)
+    - [*Ms. McKenzie's Sex-Ed Class Gets Out of Hand*](#ms-mckenzies-sex-ed-class-gets-out-of-hand)
+    - [*Nude Modelling for the Top of the Class*](#nude-modelling-for-the-top-of-the-class)
+    - [*Trapped on the Rooftop*](#trapped-on-the-rooftop)
+    - [*Bloody Playground*](#bloody-playground)
+    - [*Mrs. Smith's Hands-On Lesson*](#mrs-smiths-hands-on-lesson)
+    - [*An "Innocent" Prank*](#an-innocent-prank)
+  - [The Friday of *Human Experimentation / Farming*](#the-friday-of-human-experimentation--farming)
+    - [*New Content*](#new-content)
+    - [*Boredom of the Nobles*](#boredom-of-the-nobles)
+    - [*Treasure in the Dunes*](#treasure-in-the-dunes)
+    - [*Fujoshi Forcefully Fornicated by Frightful Frankenstein*](#fujoshi-forcefully-fornicated-by-frightful-frankenstein)
+    - [*Horns*](#horns)
+    - [*Pollinating Fairies*](#pollinating-fairies)
+    - [*The Little God*](#the-little-god)
+    - [*A.nimal B.rain S.wap E.xperiment*](#animal-brain-swap-experiment)
+    - [*Monster Breeding Factory Inspection*](#monster-breeding-factory-inspection)
+    - [*The Quest for the Phallic Fragrance*](#the-quest-for-the-phallic-fragrance)
+    - [*Holstaur Farm*](#holstaur-farm)
+    - [*Breast Unrest*](#breast-unrest)
+    - [*It ain't much, but it's honest work*](#it-aint-much-but-its-honest-work)
+  - [The Friday of *Native Subjugation*](#the-friday-of-native-subjugation)
+    - [*An Account of Mankind's Conquest of the Elves*](#an-account-of-mankinds-conquest-of-the-elves)
+    - [*The Nightmare of Nanjing*](#the-nightmare-of-nanjing)
+    - [*Custer's Revenge*](#custers-revenge)
+    - [*Memoirs from the Amazonian Jungle*](#memoirs-from-the-amazonian-jungle)
+  - [The Friday of *Fairies*](#the-friday-of-fairies)
+    - [*Dryad Encounter*](#dryad-encounter)
+    - [*The Sunshine Sanctuary for Sick Fairies*](#the-sunshine-sanctuary-for-sick-fairies)
+    - [*Fairytale: Prelude - "Caress of the Morning Dew"*](#fairytale-prelude---caress-of-the-morning-dew)
+    - [*Tentacle Respect Online*](#tentacle-respect-online)
+    - [*You Find a Fairy in Distress*](#you-find-a-fairy-in-distress)
+  - [The Friday of *Cuteness and Hilarity*](#the-friday-of-cuteness-and-hilarity)
+    - [*A Basket of Kittens*](#a-basket-of-kittens)
+    - [*Your Daughter will Do Anything to Have You Back*](#your-daughter-will-do-anything-to-have-you-back)
+    - [*Ben and Gwen Tennyson in: Omnifriks*](#ben-and-gwen-tennyson-in-omnifriks)
+    - [*Goblin girl in Heat*](#goblin-girl-in-heat)
+
+***
+
+## The Friday of *Students and Teachers*
+{: .center}
+
+Let's make prompts about the student becoming the master.
+{: .center}
+
+[30th September, 2022](#the-log)
+{: .center}
+
+### *Nocturne For Solo Violin*
+{: .center}
+
+*<https://aetherroom.club/4450>*
+{: .center}
+
+![img](https://files.catbox.moe/pyjw58.png)
+{: .center}
+
+>*With a sigh, he turns to face me, trepidation in his eyes. "I... I know. There's no reason I should be afraid of playing in front of like thirty random people in a high school gym. But..." he trails off with another heavy sigh.*
+>
+>*Wrapping my arms around him, I pull him a bit closer, placing a soft peck on his forehead. "I know. It's been such a hard road for you, coming all this way. But you've done such a good job so far, and I know you're going to do well here, too. You're the best student I've ever had, Matthew. I want you to know that. And you're gonna go out there and show the world that you're back. Not a little kid pushed by his parents to succeed, but a man that's doing it on his own, for the love of music," I say, patting his back. We then hear the applause coming from the gym across the hall. "Looks like it's time. Knock 'em dead; I know you can do it."*
+
+The life of a violin teacher that specializes in tough cases is one that, well, indeed brings some tough cases, but none like this one. A former child prodigy pressured to perform and bullied to the point of having both his wrists and his spirit shatter, now coming to me a decade later, wracked by depression and anxiety. It will be a tough time bringing him back, but I think I can do it.
+
+
+### *Angling For Trout*
+{: .center}
+
+*<https://aetherroom.club/4469>*
+{: .center}
+
+![img](https://files.catbox.moe/nz8b33.jpg)
+{: .center}
+
+>*After pulling on waders (yours spanking new, Boone's worn and patched), Boone led you through the brush to here: this little stream where the gentle gurgles of water and the sun shining through aspen almost make you believe you're out in real wilderness.*
+>
+>*Boone pulls out some ziplock bags from her vest. "I prepared a couple of rigs," she says. "One is a dry fly: Parachute Adams. The other is a dry dropper: a stimulator and a bead-head pheasant tail nymph. Which do you prefer?"*
+>
+>*"Um," you say.*
+>
+>*Boone looks at you. "Let's try the dry dropper, then."*
+
+You are a beginning fly fisherman, on the water for the first time with your taciturn guide Boone: a quiet and watchful girl who's been in woods and water all her life. There's a mayfly hatch on and the trout are rising. Tight lines!
+
+### *Makayla's Problem*
+{: .center}
+
+*<https://aetherroom.club/4470>*
+{: .center}
+
+![img](https://files.catbox.moe/xpax6x.png)
+{: .center}
+
+>*Makayla puts a hand under her chin, seeming to think about this for a moment, and then breaks out into a wide smile. "I'm suuuuper good at keeping secrets, "Mr. Cunningham..." she says, putting two hands on my desk and leaning in at just the right angle to let me see down her blouse from my chair.*
+>
+>*"Makayla! If you don't cut this nonsense out, I'm going to have to call your parents!" This threat elicits a giggle from the schoolgirl who then pulls herself up onto my desk and flops down on it lazily, kicking off her shoes and letting her skirt hike up enough that her white cotton panties are all too visible.*
+>
+>*"All my friends already lost theirs, I'm the only one left out!" she whines, swinging her dangling feet with all the anger of a sexually pent-up preteen.*
+>
+>*Their virginities?*
+
+Makayla has a problem that only her favorite teacher can solve...
+
+### *Caught Cheating*
+{: .center}
+
+*<https://aetherroom.club/4474>*
+{: .center}
+
+![img](https://files.catbox.moe/bpz1o8.png)
+{: .center}
+
+>*"Mr. Rogers," the annoyed badger behind the teacher's desk grumbled. "Enough. You've made your point, although I would have appreciated if you'd done so without making such a scene." He then turned his attention toward the green-scaled reptile. "Miss Harrison, you should be ashamed of yourself," he said condescendingly, fixing her with a stern glare. "I don't know how long this has been going on, but this obviously puts you in serious academic jeopardy. Until we sort out the issue, I'll ask you to surrender your skirt to prevent any further cheating."*
+
+Caught cheating, a scaly student finds herself publicly punished
+
+### *Mountain Field Trip*
+{: .center}
+
+*<https://aetherroom.club/4475>*
+{: .center}
+
+![img](https://files.catbox.moe/aepi3e.png)
+{: .center}
+
+>*Her tell-tale dancing and leg crossing alerts me to the issue before my young student even speaks up. Nodding to the other teacher to continue down the trail with the rest of our students, I turn back to my shy little flower. "Do you have to use the bathroom, Alice?"*
+>
+>*"Noooo," the little girl cries, hugging herself and trying in vain to hide her desperation from me.*
+
+One of your shyest students has to go to the bathroom on a field trip where there are no bathrooms in sight.
+
+### *Private Tutoring*
+{: .center}
+
+*<https://aetherroom.club/4488>*
+{: .center}
+
+![img](https://files.catbox.moe/v6b0zf.jpg)
+{: .center}
+
+>*I don't even manage to get in two knocks on her door before Hannah swings it open, giving me a radiant grin that causes my mouth to dry up and my throat to tighten. "Hey..." she says, taking my hand and leading me inside. I'm all too aware of my student's current attire—she's wearing a sheer pink nightgown that barely hides the things it should be covering. I don't want to think about it, but I'm almost certain she's not wearing a bra underneath it either.*
+>
+>*"Where are your parents, Hannah, I thought you said they got done working by five?"*
+>
+>*Continuing to tug me deeper into the house, Hannah giggles, "Yeah, but they're on vacation all this week..."*
+>
+>*God, this little vixen is going to be the death of me.*
+
+Hannah needs special tutoring to finish her homework and work through the problem of her crush on her teacher.
+
+### *Special Lessons*
+{: .center}
+
+*<https://aetherroom.club/4481>*
+{: .center}
+
+![img](https://files.catbox.moe/d3o3vx.png)
+{: .center}
+
+>*"But, Mom…" you opened your eyes to see her leaning over your bed, the angle perfect to let you see the deep valley of her bountiful cleavage.*
+>
+>*"No 'buts', mister," she said with a mock sternness and a giggle, "I know you're all tuckered out after our fun time last night, but we can't let what we do get in the way of your education, even as a homeschool student. Today is your first day of lessons with Mommy. I know you've already learned a lot, but it's formal now. So, wake up, my good boy, and today I'll be your Mommy and your teacher. Okay?"*
+
+Your loving and protective mother has become your teacher! But her unconventional homeschooling techniques may not be board certified.
+
+### *Wendlets*
+{: .center}
+
+*<https://aetherroom.club/4467>*
+{: .center}
+
+![img](https://files.catbox.moe/rphqyp.jpg)
+{: .center}
+
+>*The upset cub finally grew tired of watching, and yelled out at his occupied mother in alarm, "Mother! Mother, this one is too big! I don't want to see this! I don't want to hurt them, what are they? This is wrong!" The wide eyed little wendigo scowled, "They're different, like us."*
+>
+>*His sister calmed him down with a soothing whisper, "They're not bad, but we need to eat."*
+
+A good mother will do anything for her children, but sometimes, that means teaching them the hard lessons about life.
+
+### *Leroy's Draconic Adventure*
+{: .center}
+
+*<https://aetherroom.club/4466>*
+{: .center}
+
+![img](https://files.catbox.moe/a6owgm.jpg)
+{: .center}
+
+>*"Y-Yeah, I guess. Um, so you've been here a while? Nobody's come here to rescue you or anything, even if you like, beam psychic messages, or whatever? That doesn't sound good..." Leroy's voice was whining and plaintive as he clutched his knocking knees for emotional support. The sun was setting now, and a chill was settling over the mountainous region.*
+>
+>*<Yes! Exactly, smart human! We're both in quite a situation, but luckily, we can help each other! I've had some time to think it over, and there's really only one way for a creature your size to escape this troubling pitfall; you'll have to escape to the cavern below... through me. Are you following, Leroy?> Rakothan's projected voice was booming in Leroy's mind, but also calming and comforting simultaneously.*
+>
+>*However, when Leroy thought about the strange request for a moment, he sputtered out indignantly, "Wait, through you? 'Through you'? What the fuck do you mean, 'through you'? W-What are you getting at? R-Rakothan? Mr. Dragon?"*
+
+Some people will do anything for fame, and what better way to get famous than showing people something they've never seen before?
+
+### *Love and Lamaze*
+{: .center}
+
+*<https://aetherroom.club/4468>*
+{: .center}
+
+![img]()
+{: .center}
+
+>*"Alright, learners. Today's lesson is going to focus on the 'feet-first' Lamaze unbirthing process. Start by grasping your unbirthing mate by their ankles, or have a partner do so for you. Focus, then, on dilating and relaxing your vaginal muscles and diaphragm," Marjorie's wizened-seeming voice intoned, as she strutted about the circle to make sure the predatory women were lining up properly with their victims. Claire shot Frank an expectant look with her big, innocent eyes, and he couldn't help but whimper while reluctantly repositioning the poor rabbit woman for what lay ahead.*
+
+When Frank receives a strange request from his wife to visit a Lamaze class tailored to her unique needs as a fox woman, how could he say no to the love of his life?
+
+### *Gal Gobbed by Blob Globglogabgalab*
+{: .center}
+
+*<https://aetherroom.club/4465>*
+{: .center}
+
+![img](https://files.catbox.moe/cpro2m.jpg)
+{: .center}
+
+>*The Globglogabgalab was a master of gluttonous feasting, and forcefully urged the struggling teacher into his wet gob, lewd squelching noises ringing out across the library as the flute and drum medley continued, a grim accompaniment to the voracious consumption taking place. The teacher never stood a chance before the hungry, seemingly-mystical entity, who's body flexed and adjusted around the still-moving body of its living prey. Ernie swore he could see the outline of Ms. Doyle's screaming face, bulging out from within the fleshy confines of the Globglogabgalab, lost amidst the sharp corner profiles of several books in his expanding gut.*
+
+<https://www.youtube.com/watch?v=cIwRQwAS_YY>
+
+### *Learning the Ins-and-Outs of Fantastical Biology*
+{: .center}
+
+*<https://aetherroom.club/4471>*
+{: .center}
+
+![img](https://files.catbox.moe/v5eydl.jpg)
+{: .center}
+
+>*"Vanna dear, could you sit on this stool here?" The huge drake reached over and dragged the chair from the professor's desk, dragging it over and guiding the dark-haired lass to sit down on the backless seat. "Right, let's get these nasty glasses off, won't be needing them," Dr. Saphixa said casually, as she plucked the student's wire-rim glasses off and tossed them aside. Vanna yelped out in alarm as her spectacles were taken, suddenly seeming far less enthusiastic about whatever acquiring the 'easy A' entailed.*
+
+It's often difficult for a substitute professor to maintain the tempo of a semester's schedule, but in an introductory level course, a little flexibility is allowed.
+
+### *Doing Onto Others: The Story of Sister BLACKED*
+{: .center}
+
+*<https://aetherroom.club/4472>*
+{: .center}
+
+![img](https://files.catbox.moe/0rrfvk.jpg)
+{: .center}
+
+>*"Don't fight me; just go with it, come on honey, let me show you something special," Bella huskily whispered, before grabbing about the pale nun's head and forcefully dragging her back. Angela tried to wrestled out from Bella's grasp, but found her strength was surprisingly no match for the slender, young woman behind her. The molested nun was just about to scream out in pure indignation, before Bella promptly made that impossible. Just as Angela was about to scream out, Bella slammed her dark, bushy crotch down upon the taller woman's sputtering face.*
+
+Convents are often a place of last resort for desperate women, and none are more desperate for a helpful hand than Bella. However, the nuns at the local priory are about to findout Belladonna needs far more than just a hand to get out of her predicament with the devil.
+
+### *A Big Lesson About Respecting Boundaries*
+{: .center}
+
+*<https://aetherroom.club/4473>*
+{: .center}
+
+![img](https://files.catbox.moe/7je7ms.jpg)
+{: .center}
+
+>*Enoch visibly paled as the small drake began licking her lips after making the obscene bequest, the corners of Swick's wide mouth oozing with strands of syrupy drool. "P-Prey? You cant... you can't be serious, you don't intend to...? She's twice your size at least!" Enoch exclaimed, both flabbergasted and horrified as the little monster's intentions became clear.*
+>
+>*"Oh, you let me worry about the 'logistics' of all that. Heck, we can make it like a gamble! I get to keep what I can stuff down! Now, get my treat unwrapped, or I'll consider going for scrawny desserts!" the voracious little dragoness squeaked, smacking her scaled lips for emphasis.*
+
+Myrna the aged and battle-scarred elven paladin believes she knows everything about overcoming adversity. However, on the trail of a dangerous necromancer who's absconded into an enchanted realm, known as the 'Forest of Lights', Myrna may find out she's bitten off more than she can chew. The paladin and her human squire are about to find out that big trouble can come in tight, little packages.
+
+### *Barking Up The Right Tree*
+{: .center}
+
+*<https://aetherroom.club/4476>*
+{: .center}
+
+![img](https://files.catbox.moe/12muh7.jpg)
+{: .center}
+
+>*Willow was reluctant at first, but the werewolf was clearly stronger, and after some forceful shoving and nipple-tweaking the pale girl obsequiously climbed up on the cold examination table and crouched down low before the werewolf, a terrified and humiliated expression on her pretty, freckled face. "Right then, you gentlemen may wish to watch close, as you will be quite surprised to see just how snug and secure a pose I can manipulate a woman into. Please take a moment to pay respects to my prey, as she will be suffering immensely throughout the entire process, but this is mostly unavoidable to maintain fidelity for your viewing benefit. Alright, let's begin, time to curl up now, Willow--I mean prey."*
+
+Academia is all about making sacrifices, enriching the global font of knowledge for everyone's sake. However, can a failing young student be expected to take her final plunge into the pages of scientific history?
+
+### *'Stay' Boy*
+{: .center}
+
+*<https://aetherroom.club/4477>*
+{: .center}
+
+![img](https://files.catbox.moe/n3ssry.jpg)
+{: .center}
+
+>*"Very well," Gwen sighed, seeing no way around the assignment Kane had given her. "I shall go inside of Maxwell's maw, as ordered... if you absolutely insist."*
+>
+>*Gwen turned and knelt down before the dire wolf-dog. She held her breath, as Maxwell's gigantic fangs came within inches of her behind. The beast's dark eyes seemed to show affection, and Gwen had to fight the urge to release the gasp trapped in her throat.*
+>
+>*"Good boy!" Kane cheered, as he gave the elven woman an affectionate pat on the head. "Keep your eyes on me! That's it, great Maxwell."*
+>
+>*As soon as Gwen felt Kane's hand push down on her shoulders, she kneeled down and lowered herself towards the dire wolf-dog's snout.*
+>
+>*"Here we go!" Kane said, as he pressed Gwen into Maxwell's mouth, while at the same time holding the elf woman's body steady by the shoulders.*
+
+Teaching your canine companion obedience from an early age is critical to ensure a healthy relationship between pet and person. Especially when your hound is large enough to potentially pose a danger to others.
+
+### *Teaching Haku to Take Responsibility*
+{: .center}
+
+*<https://aetherroom.club/4478>*
+{: .center}
+
+![img](https://files.catbox.moe/zys6lg.jpg)
+{: .center}
+
+>*Magnus rolled his eyes at his friend's antics, before pushing the sacrificial elf far enough down for the dragon to resume the initiative.*>
+>
+>*"There we go Haku. You're a bloated, fat, dumb, stunted lizard, you know that? You just take from anyone you can, anyone you think is weaker than you. Now, finish with your sadistic meal," Magnus said, feeling vindicated about his act of defiance. Haku made a note of it, but was in the midst of pushing the girl down farther.*
+
+Haku the dwarf dragon has long enjoyed an unchallenged reign of terror over the hapless maidens he oft consumes. However, when his long-time human friend, Magnus, grows dissatisfied with Haku's wantonly sadistic habits, the mage decides to teach the haughty drake an unforgettable lesson in taking responsibility for the lives he extinguishes. Will Haku be able to rise to the challenge of children?
+
+### *Wily Evil Arrogant Slutty Engorged Lass*
+{: .center}
+
+*<https://aetherroom.club/4480>*
+{: .center}
+
+![img](https://files.catbox.moe/ow1e7q.jpg)
+{: .center}
+
+>*Chrissy instantly burst into tears, replying, "Y-you want to what?!"*
+>
+>*Bella said bluntly, "Yes, Chrissy. I want to push your big, thick skull up my ass. Now shut up so I can explain how we're going to do this." Bella gave a satisfied smirk, as she explained the logistics of their plan to insert Chrissy into her gut, and then proceeded to go over everything they would need.*
+
+A little lubrication and extreme insertion, and pop goes the weasel.
+
+### *Splash Zone Seating*
+{: .center}
+
+*<https://aetherroom.club/4487>*
+{: .center}
+
+![img](https://files.catbox.moe/ynkz6e.jpg)
+{: .center}
+
+>*The show started with hushed, murmuring crowds stacked on bleacher seats, all surrounding a shallow, central pool. A cheery redheaded woman named Amy was wearing a wetsuit, marking her as one of the park's employees. "Hello, Sealand visitors! I'm so excited to introduce today's featured event, our birthday boy!" As the giddy presenter continued, a splash signaled the emerging presence of Inky, the big octopus appearing as eager as ever to begin his female feast. "As you all know, today is Inky's third birthday! Our courageous and endangered cephalopod friend here has steadily crown up into quite the sight, and we're eager to put him to the test!"*
+
+Sealand Aquatic Park has garnered increasing controversy as of late, due to concerns over animal cruelty. Eager to shake this damning stigma, the park has shifted the focus of national opinion towards their aquatic attractions, by featuring human cruelty!
+
+### *Jacked Up Old Mansion*
+{: .center}
+
+*<https://aetherroom.club/4489>*
+{: .center}
+
+![img](https://files.catbox.moe/86i0ai.jpg)
+{: .center}
+
+>*She turned to him upon finishing, shrugging her shoulders and saying, "What? Fuck whatever was going on there... W-What do you think WAS going on there!?"*
+>
+>*Jack felt overwhelmed in the moment, not knowing how to respond. He felt singled out, as if whatever malevolent spirit was hounding them was targeting him now. "I dunno... I feel like, like there's this mark of doom on me. I'm glad you broke that stupid radio, the shitty thing's noise was hurting my head... I keep hearing that song," Jack's voice sounded pained and distracted as he spoke. Spooked, but still intent on finding their friends, the pair continued exploring through the house.*
+
+A spooky tale about a haunted mansion, fit for only the bravest souls to read.
 
 ***
 
