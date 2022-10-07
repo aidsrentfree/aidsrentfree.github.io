@@ -34,6 +34,7 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 - [/aids/ Theme Event Fridays](#aids-theme-event-fridays)
   - [Rules](#rules)
   - [The Log](#the-log)
+  - [The Friday of *Tomboys*](#the-friday-of-tomboys)
   - [The Friday of *Students and Teachers*](#the-friday-of-students-and-teachers)
     - [*Nocturne For Solo Violin*](#nocturne-for-solo-violin)
     - [*Angling For Trout*](#angling-for-trout)
@@ -516,6 +517,18 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
     - [*Your Daughter will Do Anything to Have You Back*](#your-daughter-will-do-anything-to-have-you-back)
     - [*Ben and Gwen Tennyson in: Omnifriks*](#ben-and-gwen-tennyson-in-omnifriks)
     - [*Goblin girl in Heat*](#goblin-girl-in-heat)
+
+***
+
+## The Friday of *Tomboys*
+{: .center}
+
+Let's make prompts about "boys".
+{: .center}
+
+
+[14th October, 2022](#the-log)
+{: .center}
 
 ***
 
