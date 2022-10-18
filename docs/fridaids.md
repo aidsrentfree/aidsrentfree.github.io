@@ -35,6 +35,15 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
   - [Rules](#rules)
   - [The Log](#the-log)
   - [The Friday of *Tomboys*](#the-friday-of-tomboys)
+    - [*Busty Batty Bootylicious Bully*](#busty-batty-bootylicious-bully)
+    - [*Mountain Retreat*](#mountain-retreat)
+    - [*The Island With The Lonely Crow*](#the-island-with-the-lonely-crow)
+    - [*Taming the Beasts in Me*](#taming-the-beasts-in-me)
+    - [*Battle for Your Heart*](#battle-for-your-heart)
+    - [*Manticourting: An Isekai Tail*](#manticourting-an-isekai-tail)
+    - [*The Importance of College Sports*](#the-importance-of-college-sports)
+    - [*The Tomboy from the Black Lagoon*](#the-tomboy-from-the-black-lagoon)
+    - [*Patricia Tannis On Pandora: A Borderlands Story*](#patricia-tannis-on-pandora-a-borderlands-story)
   - [The Friday of *Students and Teachers*](#the-friday-of-students-and-teachers)
     - [*Nocturne For Solo Violin*](#nocturne-for-solo-violin)
     - [*Angling For Trout*](#angling-for-trout)
@@ -529,6 +538,146 @@ Let's make prompts about "boys".
 
 [14th October, 2022](#the-log)
 {: .center}
+
+### *Busty Batty Bootylicious Bully*
+{: .center}
+
+*<https://aetherroom.club/4529>*
+{: .center}
+
+![img](https://files.catbox.moe/jcj4zt.png)
+{: .center}
+
+>*"Hey, I'm, really dehydrated, could I get a sip?"*
+>
+>*The avian nearly tripped fetching the water for the unusually friendly cutie before him, handing it over with an ingratiating smile on his beaked face. Nell really was rather parched after a night of hard dancing, drugs, and a few drinks, and she didn't find it hard to gulp down most of the bottle's contents. The bat drank from the bottle with intentional lasciviousness, working her long tongue about it until streaks of spit connected from the plastic nipple to her fur-lined black lips. She squeezed out the last few dregs over her face and breast, relishing in the cooling water running over her already sweaty fur. The watching four began sitting down or leaning forward conspicuously, their gym shorts inadequate at concealing their rising interest in this moistened female. "Awh shucks, tapped out! I'll get you some more, thaaanks!" The chiropteran chittered as she walked away with a strut to her step.*
+
+With great power, comes great responsibility. And with great ass, comes great interest from the boys at the local gym.
+
+### *Mountain Retreat*
+{: .center}
+
+*<https://aetherroom.club/4534>*
+{: .center}
+
+![img](https://files.catbox.moe/xxmlr5.png)
+{: .center}
+
+>*"Why are you offering me this?" I ask him, wondering what exactly his game is.*
+>
+>*Paul takes a moment, then looks me square in the eyes. "I like you, Art. Why do you think I come to this fucking place? Because it's not the drinks, and it sure as fuck ain't the decor, if you know what I mean. You're a good guy, and I think you deserve a hell of a lot better than this dump. Job market sucks, I know, so I feel like I'm doing my part helping you out here," he explains.*
+>
+>*...Fuck it. Fuck it! I guess I really don't have much to lose here, so I give him a nod and get up from behind the bar, grabbing the sleeping guy and dumping him out of the door.*
+
+Tending bar in the sweltering summer heat is downright unbearable, especially with how overworked I am. So when a regular tells me for the fifth time that week that I need to just throw in the towel and go on a vacation with him, I finally accept. Now I find myself out on the foot of a large mountain range in the countryside, surrounded by forest, in a comfortable little log cabin, and it seems I can finally breathe again. And hell, the guy's pretty cute too...
+
+### *The Island With The Lonely Crow*
+{: .center}
+
+*<https://aetherroom.club/4533>*
+{: .center}
+
+![img](https://files.catbox.moe/zdoxqr.png)
+{: .center}
+
+>*I watched as she stood atop that cliff. She stood naked, clad only in that same iconographic crow mask she always wears. Though I was too far away to make out much detail it is obvious she is quite fit. Her body is muscular, athletic, which I assume must be a necessity to live in such a rough environment. I watched as she dove from the top of that cliff. You should have seen it! She danced off the edge, a motion she had likely done a thousand times. Her honed body plummeted down that 80 foot cliff down in to the crushing sea below. I tell you honestly that I thought her dead then. Her body disappeared in to the sea foam at the bottom of that cliff and she remained beneath the dark glass waves for what seemed like ages. When she came back up I could see that there was a rather large trophy fish on the end of her spear! I stood and I clapped. I cheered long and hard, whooping and waving my arms in delight as she carried her well earned protein back to shore. I needed her to know that someone, some other living soul, had witnessed her incredible skill. I have never seen such an incredible display of human athleticism! Even the bravest divers on the university team would have balked at such a leap, and to do it and come back up with an award worthy trophy fish! Astounding. She is absolutely astounding.*
+
+Shipwrecked on a cold island in the north sea, you find yourself stranded and alone with a wild native girl who wears a haunting crow mask. As the stormy season approaches, you must rely on her for survival, but will necessity bloom in to something more?
+
+### *Taming the Beasts in Me*
+{: .center}
+
+*<https://aetherroom.club/4537>*
+{: .center}
+
+![img](https://files.catbox.moe/0xj3li.jpg)
+{: .center}
+
+>*Her precious. precocious monster pack-mates had proven themselves during the earlier battles, her mythic beasts most of all. The dignified, monstrous canines deserved a special treat for all the hard work and wounds they'd endured on her behalf, and 8x11 Printer Paper knew just how to pamper her fiendish pooches. As the devoted beast tamer delved into the kennels of her nether realm holdout, she could smell the musk of animals, a welcoming scent by her reckoning. The demon girl was still wearing her usual attire of baggy leggings held aloft by suspenders, with only a tight, black bikini top and bottom to cover her slender frame, as well as two paw-shaped pauldrons connecting the elaborate outfit together. 8x11 Printer Paper's spiky, red dreadlocks and whipping lion's tail gave her a ferocious, bestial appearance, that helped her develop a kindred spirit with her animal charges. She could hear them baying down below, sensing her approach before seeing their beloved mistress.*
+
+Inside you are two wolves. You are a white woman.
+
+### *Battle for Your Heart*
+{: .center}
+
+*<https://aetherroom.club/4538#>*
+{: .center}
+
+![img](https://files.catbox.moe/nsdknq.png)
+{: .center}
+
+>*Akako hadn't changed much over the years, I thought—her personality was still rough and rebellious, the same exact catgirl who broke the nose of the schoolhouse bully who pushed me off the curly slide when we both were seven. She still wore her hair the same way too, short and just a bit too far on the side of untidy to ever be considered respectable. Her adorable catlike ears that swiveled with her mood were just as inviting as ever. I knew how much she loved having them touched, how the sweet side of her crept out with a soft purr as she hugged me close. It was a dream that...*
+>
+>*My gaze flashed downward to Akako's green eyes, narrowed mirthfully as one of her characteristic smug smiles spread across her face. I opened my mouth to say something, but she spoke first:*
+>
+>*"Beat ya to the finish line, cunt!"*
+
+Akako is my best friend, the catgirl who's always had my back as far back as I can remember. Lately, though, I feel as though we could be something more—and I think she might feel it too. So, what's two socially inept people to do but challenge each other to a contest as an excuse to get closer?
+
+### *Manticourting: An Isekai Tail*
+{: .center}
+
+*<https://aetherroom.club/4539>*
+{: .center}
+
+![img](https://files.catbox.moe/hx46se.jpg)
+{: .center}
+
+>*Petey was miserably sobbing, trying to think of some prayer to increase his chances at a good afterlife. The manticore girl heaved off from her protective stance over him, drawing up into a looming, four-legged squat. She quizzically tilted her maned head to the side, big eyes glittering with curiosity and reflecting the cavern's glowing fungi with brilliant luminosity. Petey scrambled to the cave's wall, not daring to run, and stared back at the hodge-podge features of the thing before him. It had a feminine shape to her humanoid mid-section, tawny fur giving way to pale, creamy skin around her toned midriff. But her limbs and other features were quite bestial, equipped with the same chiropteran wings and scorpion tail of his earlier pursuer. However, this beast woman had a sweet, almost beautiful cast to her feline featured face, and her eyes shone with intelligence, and perhaps even kindness.*
+
+What a lot of people don't realize is, that for every frustrated, lonely man out there wishing for the perfect partner, there's another unsual entity out there, pining for the exact same thing.
+
+### *The Importance of College Sports*
+{: .center}
+
+*<https://aetherroom.club/4541>*
+{: .center}
+
+![img](https://files.catbox.moe/z6y11k.jpg)
+{: .center}
+
+>*Lexi looked up at Alexa and shook her head.*
+>
+>*"Hmmm, let me guess, you want to go head first? Alright, I guess that's fine. But be warned, I'm going to try to push your head down my throat as deep as I can, then fit your shoulders and tits in. Once your tits are half-way in my mouth, I'm going to slow down to really enjoy the process. You're going to feel every inch of my mouth and throat constricting you, and you'll have no choice but to endure it. And remember, you can fight back if you want, but I'll just make it worse for you if you resist. So, how about it? Head, or feet first?"*
+>
+>*Lexi looked down at the ground, and said "Head."*
+>
+>*Alexa nodded. "Alright, then give me your hands, and get ready to be swallowed!"*
+
+Some people consider college sports a distraction from the true pursuit of academic excellence, but honing the body goes along with honing the mind, and striving for excellence on the field often translates to success in the classroom.
+
+### *The Tomboy from the Black Lagoon*
+{: .center}
+
+*<https://aetherroom.club/4544>*
+{: .center}
+
+![img](https://files.catbox.moe/0u72cd.png)
+{: .center}
+
+>*"Dude, can I bum one of those beers?" the person asks in a croaky kind of voice. It sounds high and feminine and you relax a bit as you realize that this is probably just some girl out for a midnight swim on the lake. It is strange, though, that you hadn't noticed her approaching, or that she hadn't said anything up until now. You were pretty caught up in your own world there for a minute. Not surprising you wouldn't notice some hippie chick swimming up to the dock.*
+>
+>*"Uh, sure," you say somewhat awkwardly as you take a beer from the six pack and place it on the edge of the dock for the girl to take. The girl swims up and practically snatches the brew off of the dock. Though the night is dark you could swear that her hands looked webbed as she grabbed the beer can. As she cracks open the beer you confirm it, getting a good look in the dim light of the moon of the translucent membrane between each of her fingers. Is it some kind of new rich kid swimming aid glove? It's the only explanation you can think of at the moment.*
+>
+>*"Yo, thanks bro. Been a few moons since I snagged a cold brew," the odd girl says as she swims right up to the dock and looks up at you with very big, and very reflective eyes.*
+
+While trying to find some respite at your family's lakeside cabin you have an encounter with a playful, yet unsettling, fish girl. Will you have some fun with her on a moonlit night? Or will she drag you to the inky depths of the lake, never to be heard from again?
+
+### *Patricia Tannis On Pandora: A Borderlands Story*
+{: .center}
+
+*<https://aetherroom.club/4545>*
+{: .center}
+
+![img](https://files.catbox.moe/gtwowp.jpg)
+{: .center}
+
+>*"Arrrgh...Y-You little shit! Fuck off!" Carla grimaced in anger and disgust. She was futilely struggling against the painful 'love bites' the vicious dog-monster was using to incrementally work her huge body into its stomach lining. In between failed attempts, Carla managed to lean over, pull away her captive hand and punch the offending creature on its trifold jaws. This didn't dissuade the Skag, however, who would just go back to methodically working Carla's soft, wide buttocks and belly into it's slimy, flexible gut.*
+>
+>*"Nngghh...Oh god! Can't you shut up?" Patricia yelled, finally losing her temper.*
+
+Based on the hit videogame series, Borderlands!
+
 
 ***
 
