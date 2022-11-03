@@ -34,6 +34,12 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
 - [/aids/ Theme Event Fridays](#aids-theme-event-fridays)
   - [Rules](#rules)
   - [The Log](#the-log)
+  - [The Friday of *Halloween*](#the-friday-of-halloween)
+    - [*A Halloween Treat*](#a-halloween-treat)
+    - [*Frankenstein Builds a Bride*](#frankenstein-builds-a-bride)
+    - [*An Eventful Halloween Knight*](#an-eventful-halloween-knight)
+    - [*Bare, Fluffy Haunt*](#bare-fluffy-haunt)
+    - [*The Coomer Out of Space*](#the-coomer-out-of-space)
   - [The Friday of *Tomboys*](#the-friday-of-tomboys)
     - [*Busty Batty Bootylicious Bully*](#busty-batty-bootylicious-bully)
     - [*Mountain Retreat*](#mountain-retreat)
@@ -528,13 +534,92 @@ Sorted in **descending** order of recency, this is a log of all of the theme Fri
     - [*Goblin girl in Heat*](#goblin-girl-in-heat)
 
 ***
+## The Friday of *Halloween*
+{: .center}
+
+Do not open it.
+{: .center}
+
+[28th October, 2022](#the-log)
+{: .center}
+
+
+### *A Halloween Treat*
+{: .center}
+
+*<https://aetherroom.club/4572>*
+{: .center}
+
+![img](https://files.catbox.moe/j79et1.png)
+{: .center}
+
+>*"How about a treat, then?" I respond, opening the door farther to pass her some candy. It's only when my front door is fully open that I notice another girl standing beside the young princess. My throat immediately dries up when I stare at the second trick-or-treater, and it feels like a Herculean effort just to keep breathing. Dressed as a witch with hat and choker to match, is the most beautiful young girl I've ever seen—she's clearly underage and can't be older than fourteen.*
+>
+>*"A treat, huh?" the teen says, her eyes meeting mine. The slight smirk that crosses her face while we hold eye contact tells me that she knows exactly what kinds of thoughts I'm currently having. "Lexi and I have some treats of our own if you're interested..."*
+
+You're met with a very special treat in the form of two young girls looking to make some extra cash on All Hallow's Eve.
+
+### *Frankenstein Builds a Bride*
+{: .center}
+
+*<https://aetherroom.club/4573>*
+{: .center}
+
+![img](https://files.catbox.moe/25qb8g.png)
+{: .center}
+
+>*Contrary to the popular impression that noble birth and affluence entirely relieve one of strife in the acquisition of romantic companionship, the proper ritual of courtship remained evasive to me. Perhaps it was the admittedly obsessive nature of my work ethic that drove my severe disposition which women found so disagreeable. After many years of enduring such persistent lonesomeness, a most opportune convergence in my aims presented itself. If happenstance would not deliver a bride into my arms, I was in the unique position of being able to create one.*
+
+Unable to land a marriage naturally, a scientist commits a crime against nature.
+
+### *An Eventful Halloween Knight*
+{: .center}
+
+*<https://aetherroom.club/4575>*
+{: .center}
+
+![img](https://files.catbox.moe/virnig.png)
+{: .center}
+
+>*The huge dragon fished out a silver carafe of water and poured it down his exposed crotch, holding him around his broad back in one large paw, her claws hooked under his armpits. Once he'd been doused in several splashes of cold water, the controlling dragoness deftly lowered him down onto a pile of golden coins, before slamming down beside him. Jonas let out a little squeak of fright as the huge, purple-scaled drake curled a weighty arm around his bared midsection, snuggling him close to her smooth chest. "You know, it's customary among dragonkind to devour a losing knight after-- Look, okay, I realize you aren't catching on with the roleplaying. I'm talking about a blowjob. I'm going to use my mouth on your penis, human. Now lay back."*
+
+Dress for the job you want, not the job you have. This Halloween, Jonas dressed himself up in a silly, foil knight's outfit, but will he be able to rise to the role when challenged?
+
+### *Bare, Fluffy Haunt*
+{: .center}
+
+*<https://aetherroom.club/4577>*
+{: .center}
+
+![img](https://files.catbox.moe/bbuhoh.png)
+{: .center}
+
+>*The Pomeranian could barely keep her disdain off her face as she tried to stay in character, pretending to be terrified. "Please save me, please…"*
+>
+>*Perhaps it was because she was focused on staying in character, but Jenny completely failed to notice the male's claw slip past the bars of her cage to hook under the torn fabric around her breasts. The female dog let out a genuine shriek this time as she felt the shitty material, burlap or whatever, come apart. Her boobs fell free of her tattered top, bouncing out in front of the trio of drunkards, as it fell away into his paw. They all stood frozen for a moment, staring at Jenny's exposed chest before erupting into hoots and shouts.*
+
+An unfortunate Pomeranian finds herself dwindling in cover as she stalks a haunted house and avoids leering eyes 
+
+### *The Coomer Out of Space*
+{: .center}
+
+*<https://aetherroom.club/4580>*
+{: .center}
+
+![img](https://files.catbox.moe/ybhaj0.png)
+{: .center}
+
+>"Your mission is simple. We simply wish to test your ability to perform a routine sample gathering task. You are to collect 3 viable genetic samples from 3 different vertibrates down on Earth. Only 2 rules apply to your mission. Do not give Zeta Reticulan technology or sensitive information to Humans or hostile species. Do not interfere with any other space faring species while down on Earth," Mother Computer said plainly as the saucer went through it's pre flight diagnostic. Soon the single seat craft hovered in to the air and slowly floated over towards the front of the edge of the hangar. JE-5 couldn't help but squeak with excitement as her ship slipped in to open space and she was sent on her very first invasion mission.
+
+An experimentally modified Zeta Reticulan drone is sent on her very first mission. She has come, for cum. Will the busty alien girl succeed in her mission to harvest Earth's inhabitants of their precious seed? Or will the perils of Earth prove to be too much for the grey skinned shortstack?
+
+***
 
 ## The Friday of *Tomboys*
 {: .center}
 
 Let's make prompts about "boys".
 {: .center}
-
 
 [14th October, 2022](#the-log)
 {: .center}
